@@ -1,2 +1,2 @@
-# kotlin-patterns
-Kotlin design patterns project
+# Initial page
+
