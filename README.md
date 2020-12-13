@@ -1,2 +1,2 @@
 # kotlin-patterns
-Kotlin patterns project
+Kotlin design patterns project
