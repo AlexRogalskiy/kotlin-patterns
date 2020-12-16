@@ -1,3 +1,3 @@
-# scala-patterns
+# kotlin-patterns
 
-Scala design patterns
+Kotlin design patterns
