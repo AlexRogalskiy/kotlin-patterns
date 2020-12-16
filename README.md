@@ -1,3 +1,3 @@
-# kotlin-patterns
+# Kotlin Patterns
 
 Kotlin design patterns
