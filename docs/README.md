@@ -1,19 +1,12 @@
-# Introduction
+# Getting Started
 
 ## _Installation_
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [https://docs.gitbook.com/](https://docs.gitbook.com/).
 
 ## _Description_
 
-With the help of MkDocs you can create and develop documentation on ObjectMappers API.
-
-## _Commands_
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+With the help of _**GitBook**_ you can create and develop documentation on Kotlin Design patterns.
 
 ## _Project Structure_
 
