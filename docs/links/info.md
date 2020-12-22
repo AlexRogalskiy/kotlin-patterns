@@ -1,4 +1,4 @@
-# ![image info](../images/icons8-inspect-code-64.png)Resources
+# ![image info](../assets/icons/icons8-inspect-code-64.png)Resources
 
 ## _Useful Links and Materials_
 

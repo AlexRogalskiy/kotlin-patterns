@@ -1,4 +1,4 @@
-# ![image info](../images/icons8-help-64.png) FAQ
+# ![image info](../assets/icons/icons8-help-64.png) FAQ
 
 ## _Can I become who I want to be?_
 

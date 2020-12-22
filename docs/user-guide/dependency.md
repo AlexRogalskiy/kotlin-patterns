@@ -1,4 +1,4 @@
-# ![image info](../images/icons8-plugin-64.png) Dependency Management
+# ![image info](../assets/icons/icons8-plugin-64.png) Dependency Management
 
 ## _Maven_
 

@@ -1,4 +1,4 @@
-# ![image info](../images/icons8-module-64.png) Upgrading
+# ![image info](../assets/icons/icons8-module-64.png) Upgrading
 
 * [Automated Upgrade](upgrade.md#automated-upgrade)
   * [Step 1: Open An Issue With The Upgrade Template.](upgrade.md#step-1-open-an-issue-with-the-upgrade-template)

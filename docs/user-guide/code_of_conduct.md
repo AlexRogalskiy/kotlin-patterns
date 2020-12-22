@@ -1,4 +1,4 @@
-# ![image info](../images/icons8-list-64.png) Code of Conduct
+# ![image info](../assets/icons/icons8-list-64.png) Code of Conduct
 
 All members, committers and volunteers in this project are required to act according to the following Code of Conduct. We ask you to follow these guidelines which help steer our interactions and strive to keep IceCore Hashids a positive and growing project and help us provide and ensure a safe environment for everyone.
 

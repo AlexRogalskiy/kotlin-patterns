@@ -1,4 +1,4 @@
-# ![image info](../images/icons8-bug-64.png) Troubleshooting
+# ![image info](../assets/icons/icons8-bug-64.png) Troubleshooting
 
 ## _Filing Bugs & Troubleshooting_
 
