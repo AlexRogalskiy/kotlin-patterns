@@ -1,25 +1,10 @@
 # Data Types
 
-## Kotlin Type Hierarchy and Kotlin Type Checking
-
-![Kotlin data types](../assets/images/kotlin_data_types.png)
-
-```
-$ give me super-powers
-```
+## Kotlin Type Hierarchy and Type Checking
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+Kotlin data types should be considered stable after last major release.
 {% endhint %}
 
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+![Kotlin data types](../.gitbook/assets/kotlin_data_types.png)
 
