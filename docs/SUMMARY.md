@@ -18,4 +18,5 @@
   * [Scenarios](units/scenarios.md)
   * [Use Cases](units/use-cases.md)
   * [Design Patterns](units/design-patterns.md)
+  * [Data Types](units/data-types.md)
 

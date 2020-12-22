@@ -5,4 +5,5 @@ root: ./docs/
   summary: SUMMARY.md​
 
 redirects:  
-  previous/page: new-folder/page.md
+  help: README.md
+  description: SUMMARY.md​
