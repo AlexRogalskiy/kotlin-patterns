@@ -15,8 +15,8 @@
 * [Links](links/README.md)
   * [Resources](links/info.md)
 * [Units](units/README.md)
+  * [Data Types](units/data-types.md)
   * [Scenarios](units/scenarios.md)
   * [Use Cases](units/use-cases.md)
   * [Design Patterns](units/design-patterns.md)
-  * [Data Types](units/data-types.md)
 

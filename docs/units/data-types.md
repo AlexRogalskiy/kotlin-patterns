@@ -1,6 +1,6 @@
 # Data Types
 
-## Kotlin Type Hierarchy and Type Checking
+## Kotlin Type Hierarchy and Range Checking
 
 {% hint style="info" %}
 Kotlin data types should be considered stable after last major release.
