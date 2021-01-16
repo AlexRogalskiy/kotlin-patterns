@@ -6,5 +6,5 @@
 Kotlin data types should be considered stable after last major release.
 {% endhint %}
 
-![Kotlin data types](../.gitbook/assets/kotlin_data_types.png)
+![Kotlin data types](../assets/images/kotlin_data_types.png)
 
