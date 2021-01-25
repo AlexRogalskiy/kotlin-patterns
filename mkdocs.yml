@@ -8,8 +8,8 @@ repo_name: AlexRogalskiy/kotlin-patterns
 repo_url: https://gitlab.com/AlexRogalskiy/kotlin-patterns
 edit_uri: https://gitlab.com/AlexRogalskiy/kotlin-patterns/master/docs/
 
-# Copyright
-copyright: Kotlin Design Patterns - Documentation © Nullables.io
+#Copyright (shown at the footer)
+copyright: 'Copyright &copy; 2021 Nullables.io'
 
 theme:
   name: material
