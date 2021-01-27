@@ -1,7 +1,7 @@
 # Repository settings set via https://github.com/probot/settings
 ---
 repository:
-  description: "java-patterns"
+  description: "kotlin-patterns"
   homepage: https://github.com/AlexRogalskiy/kotlin-patterns
   topics: web, documents, visualization
   private: false
