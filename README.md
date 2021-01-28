@@ -31,6 +31,7 @@
       * [<em>Table of contents</em>](#-table-of-contents)
       * [<em>Summary</em>](#-summary)
       * [<em>Documentation</em>](#-documentation)
+      * [<em>Versioning</em>](#-versioning)
       * [<em>Authors</em>](#-authors)
       * [<em>Contributing</em>](#-contributing)
       * [<em>Visitor stats</em>](#-visitor-stats)
@@ -46,7 +47,7 @@
          * [<em>Karumi posts</em>](#karumi-posts)
          * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
 
-<!-- Added by: runner, at: Thu Jan 28 12:34:00 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 16:56:22 UTC 2021 -->
 
 <!--te-->
 
