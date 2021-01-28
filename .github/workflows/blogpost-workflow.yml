@@ -1,0 +1,49 @@
+name: Latest articles and podcasts
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day
+    - cron: '0 1 * * *'
+
+jobs:
+  update-readme-with-posts:
+    name: Update this repo's README with latest articles and podcasts on Kotlin
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "REDDIT-POST-LIST"
+          feed_list: "https://www.reddit.com/r/kotlin/.rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "REDHAT-POST-LIST"
+          feed_list: "https://developers.redhat.com/blog/tag/kotlin/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "KOTLINLANG-POST-LIST"
+          feed_list: "https://discuss.kotlinlang.org/posts.rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "KOTLINACADEMY-POST-LIST"
+          feed_list: "https://blog.kotlin-academy.com/feed"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "SUPERKOTLIN-POST-LIST"
+          feed_list: "https://superkotlin.com/blog/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "KARUMI-POST-LIST"
+          feed_list: "https://blog.karumi.com/rss/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "TALKINGKOTLIN-POST-LIST"
+          feed_list: "https://talkingkotlin.com/feed"

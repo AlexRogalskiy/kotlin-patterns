@@ -172,3 +172,44 @@ Like _Kotlin Patterns_ ? Consider buying me a coffee :\)
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
 [![KoFi](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/alexrogalskiy)
+
+## 👨‍👨‍👧‍👦 _Acknowledgement_
+
+[![Stargazers repo roster for @AlexRogalskiy/spark-patterns](https://reporoster.com/stars/AlexRogalskiy/spark-patterns)](https://github.com/AlexRogalskiy/spark-patterns/stargazers)
+
+## 🔥 _Feeds and Podcasts_
+
+### _Reddit posts_
+
+<!-- REDDIT-POST-LIST:START -->
+<!-- REDDIT-POST-LIST:END -->
+
+### _RedHat lang posts_
+
+<!-- REDHAT-POST-LIST:START -->
+<!-- REDHAT-POST-LIST:END -->
+
+### _Kotlin lang posts_
+
+<!-- KOTLINLANG-POST-LIST:START -->
+<!-- KOTLINLANG-POST-LIST:END -->
+
+### _Kotlin Academy posts_
+
+<!-- KOTLINACADEMY-POST-LIST:START -->
+<!-- KOTLINACADEMY-POST-LIST:END -->
+
+### _Super Kotlin posts_
+
+<!-- SUPERKOTLIN-POST-LIST:START -->
+<!-- SUPERKOTLIN-POST-LIST:END -->
+
+### _Karumi posts_
+
+<!-- KARUMI-POST-LIST:START -->
+<!-- KARUMI-POST-LIST:END -->
+
+### _Talking Kotlin posts_
+
+<!-- TALKINGKOTLIN-POST-LIST:START -->
+<!-- TALKINGKOTLIN-POST-LIST:END -->
