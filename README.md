@@ -276,4 +276,14 @@ Like _Kotlin Patterns_ ? Consider buying me a coffee :\)
 ### _Talking Kotlin posts_
 
 <!-- TALKINGKOTLIN-POST-LIST:START -->
+- [JAI Conversational Framework](https://talkingkotlin.com/jaicf/)
+- [Compose for Desktop](https://talkingkotlin.com/compose-for-desktop/)
+- [Kotlin in Space](https://talkingkotlin.com/kotlin-in-space/)
+- [GraphQL with Apollo and Kotlin](https://talkingkotlin.com/graphql-with-apollo-and-kotlin/)
+- [Teaching Kids Kotlin](https://talkingkotlin.com/teaching-kids-kotlin/)
+- [Kotlin and Google Cloud Platform](https://talkingkotlin.com/kotlin-and-gcp/)
+- [Maths and Kotlin](https://talkingkotlin.com/maths-and-kotlin/)
+- [Fritz2](https://talkingkotlin.com/fritz2/)
+- [Sitting down with the Kotlin Advocates](https://talkingkotlin.com/kotlin-advocates/)
+- [The User Experience of Compose and Flow](https://talkingkotlin.com/compose-and-flow/)
 <!-- TALKINGKOTLIN-POST-LIST:END -->
