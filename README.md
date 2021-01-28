@@ -56,7 +56,10 @@
     <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen?style=for-the-badge" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
 </a>
 
-Kotlin Design Patterns is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
+[![Created Badge](https://badges.pufler.dev/created/AlexRogalskiy/kotlin-patterns)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/AlexRogalskiy/kotlin-patterns)](https://badges.pufler.dev)
+
+**Kotlin Design Patterns** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
 ```text 
 mkdocs.yml    # Configuration file.
@@ -145,9 +148,13 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
 
+## 📝 _Versioning_
+
+The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/AlexRogalskiy/kotlin-patterns/tags).
+
 ## 🌹 _Authors_
 
-_Kotlin Patterns_ is maintained by the following GitHub team-members:
+_**Kotlin Patterns**_ is maintained by the following GitHub team-members:
 
 [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
 
@@ -155,10 +162,17 @@ with community support please contact with us if you have some question or propo
 
 ## 💕 _Contributing_
 
+[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/kotlin-patterns?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+
+Please read [CONTRIBUTING.md](https://github.com/AlexRogalskiy/kotlin-patterns/blob/master/.github/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+See also the list of [contributors](https://github.com/AlexRogalskiy/kotlin-patterns/graphs/contributors) who participated in this project.
 
 ## 🚨 _Visitor stats_
 
+[![Visits Badge](https://badges.pufler.dev/visits/AlexRogalskiy/kotlin-patterns)](https://badges.pufler.dev)
 ![Github contributors](https://img.shields.io/github/all-contributors/AlexRogalskiy/kotlin-patterns)
 
 ![GitHub stars](https://img.shields.io/github/stars/AlexRogalskiy/kotlin-patterns?style=social)
@@ -167,7 +181,7 @@ with community support please contact with us if you have some question or propo
 
 ## ⚽ _Licensing_
 
-_Kotlin Patterns_ is distributed under LGPL version 3 or later, see COPYING.LESSER\(LGPL\) and COPYING\(GPL\).
+_**Kotlin Patterns**_ is distributed under LGPL version 3 or later, see COPYING.LESSER\(LGPL\) and COPYING\(GPL\).
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
@@ -176,7 +190,7 @@ LGPLv3 is additional permissions on top of GPLv3.
 
 ## 🌟 _Development Support_
 
-Like _Kotlin Patterns_ ? Consider buying me a coffee :\)
+Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
