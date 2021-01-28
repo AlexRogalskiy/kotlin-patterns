@@ -36,8 +36,17 @@
       * [<em>Visitor stats</em>](#-visitor-stats)
       * [<em>Licensing</em>](#-licensing)
       * [<em>Development Support</em>](#-development-support)
+      * [<em>Acknowledgement</em>](#-acknowledgement)
+      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+         * [<em>Reddit posts</em>](#reddit-posts)
+         * [<em>RedHat lang posts</em>](#redhat-lang-posts)
+         * [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
+         * [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
+         * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
+         * [<em>Karumi posts</em>](#karumi-posts)
+         * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
 
-<!-- Added by: runner, at: Wed Jan 27 11:09:50 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 12:28:40 UTC 2021 -->
 
 <!--te-->
 
