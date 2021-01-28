@@ -206,6 +206,11 @@ Like _Kotlin Patterns_ ? Consider buying me a coffee :\)
 ### _RedHat lang posts_
 
 <!-- REDHAT-POST-LIST:START -->
+- [Using a Kotlin-based gRPC API with Envoy proxy for server-side load balancing](https://developers.redhat.com/blog/2018/12/24/using-a-kotlin-based-grpc-api-with-envoy-proxy-for-server-side-load-balancing/)
+- [Writing better Spring applications using SpringFu](https://developers.redhat.com/blog/2018/12/12/writing-better-spring-applications-using-springfu/)
+- [How Kotlin’s coroutines improve code readability](https://developers.redhat.com/blog/2018/12/03/how-kotlins-coroutines-improve-code-readability/)
+- [Inter-Reactive Kotlin Applications](https://developers.redhat.com/blog/2017/12/07/inter-reactive-kotlin-applications/)
+- [Server-side Kotlin with Eclipse Vert.x at JavaOne](https://developers.redhat.com/blog/2017/10/13/server-side-kotlin-eclipse-vert-x-javaone/)
 <!-- REDHAT-POST-LIST:END -->
 
 ### _Kotlin lang posts_
