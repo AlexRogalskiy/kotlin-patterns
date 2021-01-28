@@ -184,7 +184,7 @@ Like _Kotlin Patterns_ ? Consider buying me a coffee :\)
 
 ## 👨‍👨‍👧‍👦 _Acknowledgement_
 
-[![Stargazers repo roster for @AlexRogalskiy/spark-patterns](https://reporoster.com/stars/AlexRogalskiy/spark-patterns)](https://github.com/AlexRogalskiy/spark-patterns/stargazers)
+[![Stargazers repo roster for @AlexRogalskiy/kotlin-patterns](https://reporoster.com/stars/AlexRogalskiy/kotlin-patterns)](https://github.com/AlexRogalskiy/kotlin-patterns/stargazers)
 
 ## 🔥 _Feeds and Podcasts_
 
