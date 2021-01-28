@@ -246,6 +246,16 @@ Like _Kotlin Patterns_ ? Consider buying me a coffee :\)
 ### _Super Kotlin posts_
 
 <!-- SUPERKOTLIN-POST-LIST:START -->
+- [Kotlin Mega Tutorial](https://superkotlin.com/kotlin-mega-tutorial/)
+- [Kotlin when: A switch with Superpowers](https://superkotlin.com/kotlin-when-statement/)
+- [Developing web applications with Javalin and Kotlin](https://superkotlin.com/web-applications-javalin-kotlin/)
+- [Kotlin and WebAssembly](https://superkotlin.com/kotlin-and-webassembly/)
+- [All the Talks at KotlinConf, Organized and Commented](https://superkotlin.com/all-talks-kotlinconf-2017/)
+- [Introduction to Coroutines: What Problems Do They Solve?](https://superkotlin.com/coroutines/)
+- [Building Languages using Kotlin – KotlinConf](https://superkotlin.com/building-languages-using-kotlin-kotlinconf/)
+- [Java as your Kotlin Study Buddy](https://superkotlin.com/java-kotlin-study-buddy/)
+- [Review Of the Book Kotlin For Android Developers](https://superkotlin.com/review-book-kotlin-android-developers/)
+- [Kotlin Courses: Reviews And Comparison](https://superkotlin.com/kotlin-courses/)
 <!-- SUPERKOTLIN-POST-LIST:END -->
 
 ### _Karumi posts_
