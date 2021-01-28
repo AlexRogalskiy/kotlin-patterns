@@ -164,7 +164,7 @@ with community support please contact with us if you have some question or propo
 
 [![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/kotlin-patterns?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 
-Please read [CONTRIBUTING.md](https://github.com/AlexRogalskiy/kotlin-patterns/blob/master/.github/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/AlexRogalskiy/kotlin-patterns/blob/main/.github/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -186,7 +186,7 @@ LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
 
-([License](https://github.com/AlexRogalskiy/kotlin-patterns/blob/master/LICENSE.txt))
+([License](https://github.com/AlexRogalskiy/kotlin-patterns/blob/main/LICENSE.txt))
 
 ## 🌟 _Development Support_
 
