@@ -236,6 +236,7 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Ktor IntelliJ Issue - unresolved reference: freemarker, html, locations](https://discuss.kotlinlang.org/t/ktor-intellij-issue-unresolved-reference-freemarker-html-locations/20682/1)
 - [Ktor - dynamically install and uninstall modules?](https://discuss.kotlinlang.org/t/ktor-dynamically-install-and-uninstall-modules/20678/1)
 - [Why isn't my function found in my server configuration?](https://discuss.kotlinlang.org/t/why-isnt-my-function-found-in-my-server-configuration/20675/2)
 - [Integrating JS With Kotlin MultiPlatform](https://discuss.kotlinlang.org/t/integrating-js-with-kotlin-multiplatform/20677/1)
@@ -245,7 +246,6 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 - [Kotlin.js file size](https://discuss.kotlinlang.org/t/kotlin-js-file-size/2501/14)
 - [Kotlin.js file size](https://discuss.kotlinlang.org/t/kotlin-js-file-size/2501/13)
 - [Multiplatform Kotlin library - don't have all listed folders and functionalities](https://discuss.kotlinlang.org/t/multiplatform-kotlin-library-dont-have-all-listed-folders-and-functionalities/20671/3)
-- [Multiplatform Kotlin library - don't have all listed folders and functionalities](https://discuss.kotlinlang.org/t/multiplatform-kotlin-library-dont-have-all-listed-folders-and-functionalities/20671/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
