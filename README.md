@@ -211,6 +211,8 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin LibHunt - discover popular projects based on their mentions on Reddit](https://www.reddit.com/r/Kotlin/comments/l7cz52/kotlin_libhunt_discover_popular_projects_based_on/)
+- [Creating a installer for Compose Desktop](https://www.reddit.com/r/Kotlin/comments/l7apy5/creating_a_installer_for_compose_desktop/)
 - [Anyone using any Actor Frameworks for Kotlin?](https://www.reddit.com/r/Kotlin/comments/l6uulk/anyone_using_any_actor_frameworks_for_kotlin/)
 - [Redipper: Easy Redis Wrapper for Kotlin and Java](https://www.reddit.com/r/Kotlin/comments/l6uohm/redipper_easy_redis_wrapper_for_kotlin_and_java/)
 - [Good place to learn spring boot?](https://www.reddit.com/r/Kotlin/comments/l6lixk/good_place_to_learn_spring_boot/)
@@ -219,8 +221,6 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 - [App to verify data integrity between 2 data stores. Any libs in Kotlin (or java) available to do this?](https://www.reddit.com/r/Kotlin/comments/l5lsud/app_to_verify_data_integrity_between_2_data/)
 - [Programming with Functions #3 - Pattern Matching](https://www.reddit.com/r/Kotlin/comments/l5hncp/programming_with_functions_3_pattern_matching/)
 - [HI guys! I'm working on the direction reduction exercise and I thought I've finally figured it out but am having an issue with the "results.dropLast(1)" . For some reason it's not dropping "SOUTH" as it should. (ive printed "Results" before and after to see). Can someone please explain the issue?](https://www.reddit.com/r/Kotlin/comments/l5hkll/hi_guys_im_working_on_the_direction_reduction/)
-- [can't use kotlinx.serialization with maven](https://www.reddit.com/r/Kotlin/comments/l5ehbd/cant_use_kotlinxserialization_with_maven/)
-- [Talking Kotlin — JAI Conversational Framework](https://www.reddit.com/r/Kotlin/comments/l5ceeq/talking_kotlin_jai_conversational_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
