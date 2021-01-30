@@ -13,6 +13,8 @@
   </a>
 </p>
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/kotlin-patterns)
+![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/kotlin-patterns)
 ![Lines of code](https://tokei.rs/b1/github/AlexRogalskiy/kotlin-patterns?category=lines)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/AlexRogalskiy/kotlin-patterns)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AlexRogalskiy/kotlin-patterns)
@@ -23,6 +25,11 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/kotlin-patterns/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/kotlin-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/kotlin-patterns)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fkotlin-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fkotlin-patterns?ref=badge_shield)
+[![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
+[![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/kotlin-patterns)
+[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/kotlin-patterns)](https://hitsofcode.com/github/AlexRogalskiy/kotlin-patterns/view)
+[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/AlexRogalskiy/kotlin-patterns)
 
 ## 🎹 _Table of contents_
 
