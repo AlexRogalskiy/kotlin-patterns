@@ -13,6 +13,8 @@
   </a>
 </p>
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/kotlin-patterns)
+![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/kotlin-patterns)
 ![Lines of code](https://tokei.rs/b1/github/AlexRogalskiy/kotlin-patterns?category=lines)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/AlexRogalskiy/kotlin-patterns)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AlexRogalskiy/kotlin-patterns)
@@ -23,6 +25,11 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/kotlin-patterns/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/kotlin-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/kotlin-patterns)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fkotlin-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fkotlin-patterns?ref=badge_shield)
+[![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
+[![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/kotlin-patterns)
+[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/kotlin-patterns)](https://hitsofcode.com/github/AlexRogalskiy/kotlin-patterns/view)
+[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/AlexRogalskiy/kotlin-patterns)
 
 ## 🎹 _Table of contents_
 
@@ -47,7 +54,7 @@
          * [<em>Karumi posts</em>](#karumi-posts)
          * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
 
-<!-- Added by: runner, at: Fri Jan 29 21:44:23 UTC 2021 -->
+<!-- Added by: runner, at: Sat Jan 30 12:54:55 UTC 2021 -->
 
 <!--te-->
 
@@ -211,16 +218,16 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a way to do something like in the picture in kotlinx.html (for JVM)?](https://www.reddit.com/r/Kotlin/comments/l85hpx/is_there_a_way_to_do_something_like_in_the/)
+- [Can anyone help me with Kotlin LinkedIn Assessment tests?](https://www.reddit.com/r/Kotlin/comments/l83n8e/can_anyone_help_me_with_kotlin_linkedin/)
+- [[Help] I can't call a textview using a function (Android Studio)](https://www.reddit.com/r/Kotlin/comments/l81j1o/help_i_cant_call_a_textview_using_a_function/)
+- [Can someone help me? I’m trying to call a function by clicking a button, the button I’m clicking is inside of another function... like the picture...](https://www.reddit.com/r/Kotlin/comments/l7htmf/can_someone_help_me_im_trying_to_call_a_function/)
 - [Kotlin LibHunt - discover popular projects based on their mentions on Reddit](https://www.reddit.com/r/Kotlin/comments/l7cz52/kotlin_libhunt_discover_popular_projects_based_on/)
 - [Creating a installer for Compose Desktop](https://www.reddit.com/r/Kotlin/comments/l7apy5/creating_a_installer_for_compose_desktop/)
 - [Anyone using any Actor Frameworks for Kotlin?](https://www.reddit.com/r/Kotlin/comments/l6uulk/anyone_using_any_actor_frameworks_for_kotlin/)
 - [Redipper: Easy Redis Wrapper for Kotlin and Java](https://www.reddit.com/r/Kotlin/comments/l6uohm/redipper_easy_redis_wrapper_for_kotlin_and_java/)
 - [Good place to learn spring boot?](https://www.reddit.com/r/Kotlin/comments/l6lixk/good_place_to_learn_spring_boot/)
 - [Learn Kotlin in 12 Minutes - Would love any feedback on this high-density video covering about the core language features for a class I'm teaching.](https://www.reddit.com/r/Kotlin/comments/l6edl3/learn_kotlin_in_12_minutes_would_love_any/)
-- [An update on KotlinConf](https://www.reddit.com/r/Kotlin/comments/l64f4p/an_update_on_kotlinconf/)
-- [App to verify data integrity between 2 data stores. Any libs in Kotlin (or java) available to do this?](https://www.reddit.com/r/Kotlin/comments/l5lsud/app_to_verify_data_integrity_between_2_data/)
-- [Programming with Functions #3 - Pattern Matching](https://www.reddit.com/r/Kotlin/comments/l5hncp/programming_with_functions_3_pattern_matching/)
-- [HI guys! I'm working on the direction reduction exercise and I thought I've finally figured it out but am having an issue with the "results.dropLast(1)" . For some reason it's not dropping "SOUTH" as it should. (ive printed "Results" before and after to see). Can someone please explain the issue?](https://www.reddit.com/r/Kotlin/comments/l5hkll/hi_guys_im_working_on_the_direction_reduction/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
@@ -236,16 +243,16 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Ktor IntelliJ Issue - unresolved reference: freemarker, html, locations](https://discuss.kotlinlang.org/t/ktor-intellij-issue-unresolved-reference-freemarker-html-locations/20682/1)
-- [Ktor - dynamically install and uninstall modules?](https://discuss.kotlinlang.org/t/ktor-dynamically-install-and-uninstall-modules/20678/1)
-- [Why isn't my function found in my server configuration?](https://discuss.kotlinlang.org/t/why-isnt-my-function-found-in-my-server-configuration/20675/2)
-- [Integrating JS With Kotlin MultiPlatform](https://discuss.kotlinlang.org/t/integrating-js-with-kotlin-multiplatform/20677/1)
-- [Make reactive declarations part of the language](https://discuss.kotlinlang.org/t/make-reactive-declarations-part-of-the-language/20610/18)
-- [Why isn't my function found in my server configuration?](https://discuss.kotlinlang.org/t/why-isnt-my-function-found-in-my-server-configuration/20675/1)
-- [Make reactive declarations part of the language](https://discuss.kotlinlang.org/t/make-reactive-declarations-part-of-the-language/20610/17)
-- [Kotlin.js file size](https://discuss.kotlinlang.org/t/kotlin-js-file-size/2501/14)
-- [Kotlin.js file size](https://discuss.kotlinlang.org/t/kotlin-js-file-size/2501/13)
-- [Multiplatform Kotlin library - don't have all listed folders and functionalities](https://discuss.kotlinlang.org/t/multiplatform-kotlin-library-dont-have-all-listed-folders-and-functionalities/20671/3)
+- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/4)
+- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/3)
+- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/16)
+- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/15)
+- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/14)
+- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/2)
+- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/13)
+- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/1)
+- [Extend class primary constructor without repeating every single parameter](https://discuss.kotlinlang.org/t/extend-class-primary-constructor-without-repeating-every-single-parameter/20685/4)
+- [Gradle kotlin js and npm dependency of a .tgz File](https://discuss.kotlinlang.org/t/gradle-kotlin-js-and-npm-dependency-of-a-tgz-file/20687/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
