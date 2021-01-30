@@ -236,16 +236,16 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Ktor IntelliJ Issue - unresolved reference: freemarker, html, locations](https://discuss.kotlinlang.org/t/ktor-intellij-issue-unresolved-reference-freemarker-html-locations/20682/1)
-- [Ktor - dynamically install and uninstall modules?](https://discuss.kotlinlang.org/t/ktor-dynamically-install-and-uninstall-modules/20678/1)
-- [Why isn't my function found in my server configuration?](https://discuss.kotlinlang.org/t/why-isnt-my-function-found-in-my-server-configuration/20675/2)
-- [Integrating JS With Kotlin MultiPlatform](https://discuss.kotlinlang.org/t/integrating-js-with-kotlin-multiplatform/20677/1)
-- [Make reactive declarations part of the language](https://discuss.kotlinlang.org/t/make-reactive-declarations-part-of-the-language/20610/18)
-- [Why isn't my function found in my server configuration?](https://discuss.kotlinlang.org/t/why-isnt-my-function-found-in-my-server-configuration/20675/1)
-- [Make reactive declarations part of the language](https://discuss.kotlinlang.org/t/make-reactive-declarations-part-of-the-language/20610/17)
-- [Kotlin.js file size](https://discuss.kotlinlang.org/t/kotlin-js-file-size/2501/14)
-- [Kotlin.js file size](https://discuss.kotlinlang.org/t/kotlin-js-file-size/2501/13)
-- [Multiplatform Kotlin library - don't have all listed folders and functionalities](https://discuss.kotlinlang.org/t/multiplatform-kotlin-library-dont-have-all-listed-folders-and-functionalities/20671/3)
+- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/4)
+- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/3)
+- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/16)
+- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/15)
+- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/14)
+- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/2)
+- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/13)
+- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/1)
+- [Extend class primary constructor without repeating every single parameter](https://discuss.kotlinlang.org/t/extend-class-primary-constructor-without-repeating-every-single-parameter/20685/4)
+- [Gradle kotlin js and npm dependency of a .tgz File](https://discuss.kotlinlang.org/t/gradle-kotlin-js-and-npm-dependency-of-a-tgz-file/20687/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
