@@ -211,16 +211,16 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a way to do something like in the picture in kotlinx.html (for JVM)?](https://www.reddit.com/r/Kotlin/comments/l85hpx/is_there_a_way_to_do_something_like_in_the/)
+- [Can anyone help me with Kotlin LinkedIn Assessment tests?](https://www.reddit.com/r/Kotlin/comments/l83n8e/can_anyone_help_me_with_kotlin_linkedin/)
+- [[Help] I can't call a textview using a function (Android Studio)](https://www.reddit.com/r/Kotlin/comments/l81j1o/help_i_cant_call_a_textview_using_a_function/)
+- [Can someone help me? I’m trying to call a function by clicking a button, the button I’m clicking is inside of another function... like the picture...](https://www.reddit.com/r/Kotlin/comments/l7htmf/can_someone_help_me_im_trying_to_call_a_function/)
 - [Kotlin LibHunt - discover popular projects based on their mentions on Reddit](https://www.reddit.com/r/Kotlin/comments/l7cz52/kotlin_libhunt_discover_popular_projects_based_on/)
 - [Creating a installer for Compose Desktop](https://www.reddit.com/r/Kotlin/comments/l7apy5/creating_a_installer_for_compose_desktop/)
 - [Anyone using any Actor Frameworks for Kotlin?](https://www.reddit.com/r/Kotlin/comments/l6uulk/anyone_using_any_actor_frameworks_for_kotlin/)
 - [Redipper: Easy Redis Wrapper for Kotlin and Java](https://www.reddit.com/r/Kotlin/comments/l6uohm/redipper_easy_redis_wrapper_for_kotlin_and_java/)
 - [Good place to learn spring boot?](https://www.reddit.com/r/Kotlin/comments/l6lixk/good_place_to_learn_spring_boot/)
 - [Learn Kotlin in 12 Minutes - Would love any feedback on this high-density video covering about the core language features for a class I'm teaching.](https://www.reddit.com/r/Kotlin/comments/l6edl3/learn_kotlin_in_12_minutes_would_love_any/)
-- [An update on KotlinConf](https://www.reddit.com/r/Kotlin/comments/l64f4p/an_update_on_kotlinconf/)
-- [App to verify data integrity between 2 data stores. Any libs in Kotlin (or java) available to do this?](https://www.reddit.com/r/Kotlin/comments/l5lsud/app_to_verify_data_integrity_between_2_data/)
-- [Programming with Functions #3 - Pattern Matching](https://www.reddit.com/r/Kotlin/comments/l5hncp/programming_with_functions_3_pattern_matching/)
-- [HI guys! I'm working on the direction reduction exercise and I thought I've finally figured it out but am having an issue with the "results.dropLast(1)" . For some reason it's not dropping "SOUTH" as it should. (ive printed "Results" before and after to see). Can someone please explain the issue?](https://www.reddit.com/r/Kotlin/comments/l5hkll/hi_guys_im_working_on_the_direction_reduction/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
