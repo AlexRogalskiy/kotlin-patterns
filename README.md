@@ -243,16 +243,16 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/4)
-- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/3)
-- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/16)
-- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/15)
-- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/14)
-- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/2)
-- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/13)
-- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/1)
-- [Extend class primary constructor without repeating every single parameter](https://discuss.kotlinlang.org/t/extend-class-primary-constructor-without-repeating-every-single-parameter/20685/4)
-- [Gradle kotlin js and npm dependency of a .tgz File](https://discuss.kotlinlang.org/t/gradle-kotlin-js-and-npm-dependency-of-a-tgz-file/20687/1)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/7)
+- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/2)
+- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/1)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/6)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/5)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/4)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/3)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/2)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/1)
+- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/7)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
