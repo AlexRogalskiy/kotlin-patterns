@@ -4,7 +4,7 @@
 	<img src="https://github.com/AlexRogalskiy/kotlin-patterns/blob/main/images/banner.png" width="100%" height="60%" alt="Kotlin Design patterns"/>
 </p>
 
-<p align="center">
+<p align="center" style="text-align:center;">
   <a href="https://nullables.io/">
     <img src="https://img.shields.io/badge/made%20by-Nullables%20Labs-blue.svg?style=flat-square&longCache=true&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzIwIDMwMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNOTguODI0IDE0OS40OThjMCAxMi41Ny0yLjM1NiAyNC41ODItNi42MzcgMzUuNjM3LTQ5LjEtMjQuODEtODIuNzc1LTc1LjY5Mi04Mi43NzUtMTM0LjQ2IDAtMTcuNzgyIDMuMDkxLTM0LjgzOCA4Ljc0OS01MC42NzVhMTQ5LjUzNSAxNDkuNTM1IDAgMCAxIDQxLjEyNCAxMS4wNDYgMTA3Ljg3NyAxMDcuODc3IDAgMCAwLTcuNTIgMzkuNjI4YzAgMzYuODQyIDE4LjQyMyA2OS4zNiA0Ni41NDQgODguOTAzLjMyNiAzLjI2NS41MTUgNi41Ny41MTUgOS45MjF6TTY3LjgyIDE1LjAxOGM0OS4xIDI0LjgxMSA4Mi43NjggNzUuNzExIDgyLjc2OCAxMzQuNDggMCA4My4xNjgtNjcuNDIgMTUwLjU4OC0xNTAuNTg4IDE1MC41ODh2LTQyLjM1M2M1OS43NzggMCAxMDguMjM1LTQ4LjQ1OSAxMDguMjM1LTEwOC4yMzUgMC0zNi44NS0xOC40My02OS4zOC00Ni41NjItODguOTI3YTk5Ljk0OSA5OS45NDkgMCAwIDEtLjQ5Ny05Ljg5NyA5OC41MTIgOTguNTEyIDAgMCAxIDYuNjQ0LTM1LjY1NnptMTU1LjI5MiAxODIuNzE4YzE3LjczNyAzNS41NTggNTQuNDUgNTkuOTk3IDk2Ljg4OCA1OS45OTd2NDIuMzUzYy02MS45NTUgMC0xMTUuMTYyLTM3LjQyLTEzOC4yOC05MC44ODZhMTU4LjgxMSAxNTguODExIDAgMCAwIDQxLjM5Mi0xMS40NjR6bS0xMC4yNi02My41ODlhOTguMjMyIDk4LjIzMiAwIDAgMS00My40MjggMTQuODg5QzE2OS42NTQgNzIuMjI0IDIyNy4zOSA4Ljk1IDMwMS44NDUuMDAzYzQuNzAxIDEzLjE1MiA3LjU5MyAyNy4xNiA4LjQ1IDQxLjcxNC01MC4xMzMgNC40Ni05MC40MzMgNDMuMDgtOTcuNDQzIDkyLjQzem01NC4yNzgtNjguMTA1YzEyLjc5NC04LjEyNyAyNy41NjctMTMuNDA3IDQzLjQ1Mi0xNC45MTEtLjI0NyA4Mi45NTctNjcuNTY3IDE1MC4xMzItMTUwLjU4MiAxNTAuMTMyLTIuODQ2IDAtNS42NzMtLjA4OC04LjQ4LS4yNDNhMTU5LjM3OCAxNTkuMzc4IDAgMCAwIDguMTk4LTQyLjExOGMuMDk0IDAgLjE4Ny4wMDguMjgyLjAwOCA1NC41NTcgMCA5OS42NjUtNDAuMzczIDEwNy4xMy05Mi44Njh6IiBmaWxsPSIjRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4KPC9zdmc+" alt="Nullables labs"/>
   </a>
@@ -54,13 +54,13 @@
          * [<em>Karumi posts</em>](#karumi-posts)
          * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
 
-<!-- Added by: runner, at: Sat Jan 30 12:54:55 UTC 2021 -->
+<!-- Added by: runner, at: Sun Jan 31 17:41:03 UTC 2021 -->
 
 <!--te-->
 
 ## ☝ _Summary_
 
-<p align="center">
+<p align="center" style="text-align:center;">
 	<a href="https://www.repostatus.org/#active">
 		<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
 	</a>
@@ -180,13 +180,13 @@ with community support please contact with us if you have some question or propo
 Please read [CONTRIBUTING.md](https://github.com/AlexRogalskiy/kotlin-patterns/blob/master/.github/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![Github contributors](https://img.shields.io/github/all-contributors/AlexRogalskiy/kotlin-patterns)
 
 See also the list of [contributors](https://github.com/AlexRogalskiy/kotlin-patterns/graphs/contributors) who participated in this project.
 
 ## 🚨 _Visitor stats_
 
-[![Visits Badge](https://badges.pufler.dev/visits/AlexRogalskiy/kotlin-patterns)](https://badges.pufler.dev)
-![Github contributors](https://img.shields.io/github/all-contributors/AlexRogalskiy/kotlin-patterns)
+[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fkotlin-patterns&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![GitHub stars](https://img.shields.io/github/stars/AlexRogalskiy/kotlin-patterns?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AlexRogalskiy/kotlin-patterns?style=social)
@@ -218,16 +218,16 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Official YouTube Channel](https://www.reddit.com/r/Kotlin/comments/l90bed/kotlin_official_youtube_channel/)
+- [Binary in Kotlin](https://www.reddit.com/r/Kotlin/comments/l8wr4i/binary_in_kotlin/)
+- [Keval - A mini lib for mathematical expression evaluation](https://www.reddit.com/r/Kotlin/comments/l8luum/keval_a_mini_lib_for_mathematical_expression/)
+- [Do Kotlin multiplatform have an libraries to connect mobile app with MS SQL server directly?](https://www.reddit.com/r/Kotlin/comments/l8e0qi/do_kotlin_multiplatform_have_an_libraries_to/)
 - [Is there a way to do something like in the picture in kotlinx.html (for JVM)?](https://www.reddit.com/r/Kotlin/comments/l85hpx/is_there_a_way_to_do_something_like_in_the/)
 - [Can anyone help me with Kotlin LinkedIn Assessment tests?](https://www.reddit.com/r/Kotlin/comments/l83n8e/can_anyone_help_me_with_kotlin_linkedin/)
 - [[Help] I can't call a textview using a function (Android Studio)](https://www.reddit.com/r/Kotlin/comments/l81j1o/help_i_cant_call_a_textview_using_a_function/)
 - [Can someone help me? I’m trying to call a function by clicking a button, the button I’m clicking is inside of another function... like the picture...](https://www.reddit.com/r/Kotlin/comments/l7htmf/can_someone_help_me_im_trying_to_call_a_function/)
 - [Kotlin LibHunt - discover popular projects based on their mentions on Reddit](https://www.reddit.com/r/Kotlin/comments/l7cz52/kotlin_libhunt_discover_popular_projects_based_on/)
 - [Creating a installer for Compose Desktop](https://www.reddit.com/r/Kotlin/comments/l7apy5/creating_a_installer_for_compose_desktop/)
-- [Anyone using any Actor Frameworks for Kotlin?](https://www.reddit.com/r/Kotlin/comments/l6uulk/anyone_using_any_actor_frameworks_for_kotlin/)
-- [Redipper: Easy Redis Wrapper for Kotlin and Java](https://www.reddit.com/r/Kotlin/comments/l6uohm/redipper_easy_redis_wrapper_for_kotlin_and_java/)
-- [Good place to learn spring boot?](https://www.reddit.com/r/Kotlin/comments/l6lixk/good_place_to_learn_spring_boot/)
-- [Learn Kotlin in 12 Minutes - Would love any feedback on this high-density video covering about the core language features for a class I'm teaching.](https://www.reddit.com/r/Kotlin/comments/l6edl3/learn_kotlin_in_12_minutes_would_love_any/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
@@ -243,16 +243,16 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/4)
-- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/3)
-- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/16)
-- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/15)
-- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/14)
-- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/2)
-- [Why is `tailrec` a modifier keyword applied at the function level?](https://discuss.kotlinlang.org/t/why-is-tailrec-a-modifier-keyword-applied-at-the-function-level/5886/13)
-- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/1)
-- [Extend class primary constructor without repeating every single parameter](https://discuss.kotlinlang.org/t/extend-class-primary-constructor-without-repeating-every-single-parameter/20685/4)
-- [Gradle kotlin js and npm dependency of a .tgz File](https://discuss.kotlinlang.org/t/gradle-kotlin-js-and-npm-dependency-of-a-tgz-file/20687/1)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/7)
+- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/2)
+- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/1)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/6)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/5)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/4)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/3)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/2)
+- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/1)
+- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/7)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
