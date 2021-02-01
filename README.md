@@ -29,7 +29,7 @@
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/kotlin-patterns)
 [![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/kotlin-patterns)](https://hitsofcode.com/github/AlexRogalskiy/kotlin-patterns/view)
-[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/AlexRogalskiy/kotlin-patterns)
+[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 
 ## 🎹 _Table of contents_
 
@@ -54,7 +54,7 @@
          * [<em>Karumi posts</em>](#karumi-posts)
          * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
 
-<!-- Added by: runner, at: Mon Feb  1 09:07:00 UTC 2021 -->
+<!-- Added by: runner, at: Mon Feb  1 13:37:11 UTC 2021 -->
 
 <!--te-->
 
@@ -72,7 +72,7 @@
 	</a>
 </p>
 
-**Kotlin Design Patterns** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
+_**Kotlin Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
 ```text 
 mkdocs.yml    # Configuration file.
@@ -111,7 +111,7 @@ docs/
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[**Kotlin Patterns**](https://alexander-rogalsky.gitbook.io/kotlin-patterns/)
+[_**Kotlin Patterns**_][docs]
 
 To enable documentation serving at _**localhost**_ ****the following steps should be considered:
 
@@ -163,7 +163,7 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 
 ## 📝 _Versioning_
 
-The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/AlexRogalskiy/kotlin-patterns/tags).
+The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository][tags].
 
 ## 🌹 _Authors_
 
@@ -182,7 +182,7 @@ Please read [CONTRIBUTING.md](https://github.com/AlexRogalskiy/kotlin-patterns/b
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![Github contributors](https://img.shields.io/github/all-contributors/AlexRogalskiy/kotlin-patterns)
 
-See also the list of [contributors](https://github.com/AlexRogalskiy/kotlin-patterns/graphs/contributors) who participated in this project.
+See also the list of [contributors][contributors] who participated in this project.
 
 ## 🚨 _Visitor stats_
 
@@ -194,16 +194,15 @@ See also the list of [contributors](https://github.com/AlexRogalskiy/kotlin-patt
 
 ## ⚽ _Licensing_
 
-_**Kotlin Patterns**_ is distributed under LGPL version 3 or later, see COPYING.LESSER\(LGPL\) and COPYING\(GPL\).
+_**Kotlin Patterns**_ is distributed under LGPL version 3 or later, [[License](https://github.com/AlexRogalskiy/kotlin-patterns/blob/master/LICENSE.txt)].
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
 
-([License](https://github.com/AlexRogalskiy/kotlin-patterns/blob/master/LICENSE.txt))
-
 ## 🌟 _Development Support_
 
-Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
+Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/master/images/icon.png" width="20" height="20" alt="Kotlin Design patterns"/>
+ and _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
@@ -211,7 +210,7 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 
 ## 👨‍👨‍👧‍👦 _Acknowledgement_
 
-[![Stargazers repo roster for @AlexRogalskiy/kotlin-patterns](https://reporoster.com/stars/AlexRogalskiy/kotlin-patterns)](https://github.com/AlexRogalskiy/kotlin-patterns/stargazers)
+[![Stargazers repo roster for @AlexRogalskiy/kotlin-patterns](https://reporoster.com/stars/AlexRogalskiy/kotlin-patterns)][stars]
 
 ## 🔥 _Feeds and Podcasts_
 
@@ -314,3 +313,12 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 - [Sitting down with the Kotlin Advocates](https://talkingkotlin.com/kotlin-advocates/)
 - [The User Experience of Compose and Flow](https://talkingkotlin.com/compose-and-flow/)
 <!-- TALKINGKOTLIN-POST-LIST:END -->
+
+  [repo]:           https://github.com/AlexRogalskiy/kotlin-patterns
+  [tags]:           https://github.com/AlexRogalskiy/kotlin-patterns/tags
+  [issues]:         https://github.com/AlexRogalskiy/kotlin-patterns/issues
+  [pulls]:          https://github.com/AlexRogalskiy/kotlin-patterns/pulls
+  [wiki]:           https://github.com/AlexRogalskiy/kotlin-patterns/wiki
+  [stars]:          https://github.com/AlexRogalskiy/kotlin-patterns/stargazers
+  [contributors]:   https://github.com/AlexRogalskiy/kotlin-patterns/graphs/contributors
+  [docs]:           https://alexander-rogalsky.gitbook.io/kotlin-patterns/
