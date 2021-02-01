@@ -111,7 +111,7 @@ docs/
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[_**Kotlin Patterns**_](https://alexander-rogalsky.gitbook.io/kotlin-patterns/)
+[_**Kotlin Patterns**_][docs]
 
 To enable documentation serving at _**localhost**_ ****the following steps should be considered:
 
@@ -321,3 +321,4 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
   [wiki]:           https://github.com/AlexRogalskiy/kotlin-patterns/wiki
   [stars]:          https://github.com/AlexRogalskiy/kotlin-patterns/stargazers
   [contributors]:   https://github.com/AlexRogalskiy/kotlin-patterns/graphs/contributors
+  [docs]:           https://alexander-rogalsky.gitbook.io/kotlin-patterns/
