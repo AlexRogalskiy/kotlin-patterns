@@ -243,16 +243,16 @@ Like _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/7)
-- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/2)
-- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/1)
-- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/6)
-- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/5)
-- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/4)
-- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/3)
-- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/2)
-- [Feature request: Save variable values to disc rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disc-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/1)
-- [Some proposal for detail design](https://discuss.kotlinlang.org/t/some-proposal-for-detail-design/20689/7)
+- [Feedback on page "Interfaces" in Language Guide](https://discuss.kotlinlang.org/t/feedback-on-page-interfaces-in-language-guide/20715/2)
+- [In future, could Kotlin have checked exception?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exception/1579/108)
+- [Feedback on page "Interfaces" in Language Guide](https://discuss.kotlinlang.org/t/feedback-on-page-interfaces-in-language-guide/20715/1)
+- [Feature request: Save variable values to disk rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disk-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/11)
+- [Feature request: Save variable values to disk rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disk-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/10)
+- [Using ViewPager2 + TabLayout for multiplication tables](https://discuss.kotlinlang.org/t/using-viewpager2-tablayout-for-multiplication-tables/20712/1)
+- [Feature request: Save variable values to disk rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disk-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/9)
+- [When will contracts be final?](https://discuss.kotlinlang.org/t/when-will-contracts-be-final/20652/3)
+- [How to navigate using Compose for desktop](https://discuss.kotlinlang.org/t/how-to-navigate-using-compose-for-desktop/20710/1)
+- [In future, could Kotlin have checked exception?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exception/1579/107)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
