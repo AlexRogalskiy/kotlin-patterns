@@ -61,6 +61,7 @@
 ## ☝ _Summary_
 
 <p align="center" style="text-align:center;">
+	<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
 	<a href="https://www.repostatus.org/#active">
 		<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
 	</a>
