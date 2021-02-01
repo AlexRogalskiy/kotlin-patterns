@@ -53,9 +53,6 @@
          * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
          * [<em>Karumi posts</em>](#karumi-posts)
          * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
-
-<!-- Added by: runner, at: Mon Feb  1 13:37:11 UTC 2021 -->
-
 <!--te-->
 
 ## ☝ _Summary_
