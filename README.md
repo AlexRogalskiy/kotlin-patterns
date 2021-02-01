@@ -28,7 +28,7 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fkotlin-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fkotlin-patterns?ref=badge_shield)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/kotlin-patterns)
-[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/kotlin-patterns)](https://hitsofcode.com/github/AlexRogalskiy/kotlin-patterns/view)
+[![Hits-of-Code](https://hitsofcode.com/github/alexrogalskiy/kotlin-patterns?branch=master)](https://hitsofcode.com/github/alexrogalskiy/kotlin-patterns?branch=master/view?branch=master)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 
 ## 🎹 _Table of contents_
@@ -53,28 +53,26 @@
          * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
          * [<em>Karumi posts</em>](#karumi-posts)
          * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
-
-<!-- Added by: runner, at: Mon Feb  1 13:59:54 UTC 2021 -->
-
 <!--te-->
 
 ## ☝ _Summary_
 
 <p align="center" style="text-align:center;">
-	<a href="https://www.repostatus.org/#active">
-		<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
-	</a>
-	<a href="https://badges.pufler.dev">
-		<img src="https://badges.pufler.dev/created/AlexRogalskiy/kotlin-patterns" alt="Project created status" />
-	</a>
-	<a href="https://badges.pufler.dev">
-		<img src="https://badges.pufler.dev/updated/AlexRogalskiy/kotlin-patterns" alt="Project updated status" />
-	</a>
+    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
+    <a href="https://www.repostatus.org/#active">
+        <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
+    </a>
+    <a href="https://badges.pufler.dev">
+        <img src="https://badges.pufler.dev/created/AlexRogalskiy/kotlin-patterns" alt="Project created status" />
+    </a>
+    <a href="https://badges.pufler.dev">
+        <img src="https://badges.pufler.dev/updated/AlexRogalskiy/kotlin-patterns" alt="Project updated status" />
+    </a>
 </p>
 
 _**Kotlin Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
-```text 
+```text
 mkdocs.yml    # Configuration file.
 docs/
     readme.md  # General information
