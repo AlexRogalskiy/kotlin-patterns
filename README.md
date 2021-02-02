@@ -247,16 +247,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/4)
+- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/3)
+- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/2)
+- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/1)
+- [Feature request: Save variable values to disk rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disk-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/12)
 - [Feedback on page "Interfaces" in Language Guide](https://discuss.kotlinlang.org/t/feedback-on-page-interfaces-in-language-guide/20715/2)
 - [In future, could Kotlin have checked exception?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exception/1579/108)
 - [Feedback on page "Interfaces" in Language Guide](https://discuss.kotlinlang.org/t/feedback-on-page-interfaces-in-language-guide/20715/1)
 - [Feature request: Save variable values to disk rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disk-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/11)
 - [Feature request: Save variable values to disk rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disk-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/10)
-- [Using ViewPager2 + TabLayout for multiplication tables](https://discuss.kotlinlang.org/t/using-viewpager2-tablayout-for-multiplication-tables/20712/1)
-- [Feature request: Save variable values to disk rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disk-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/9)
-- [When will contracts be final?](https://discuss.kotlinlang.org/t/when-will-contracts-be-final/20652/3)
-- [How to navigate using Compose for desktop](https://discuss.kotlinlang.org/t/how-to-navigate-using-compose-for-desktop/20710/1)
-- [In future, could Kotlin have checked exception?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exception/1579/107)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
