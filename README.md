@@ -222,16 +222,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a way to create an extension function for all Enums, of "valueOfOrNull" ?](https://www.reddit.com/r/Kotlin/comments/lah3ik/is_there_a_way_to_create_an_extension_function/)
+- [My laptop can't run android studio. Is there an alternative to use until I can upgrade?](https://www.reddit.com/r/Kotlin/comments/lah0xu/my_laptop_cant_run_android_studio_is_there_an/)
+- [Kotlin's one of those languages, which many devs wish migrate to!](https://www.reddit.com/r/Kotlin/comments/laa1nt/kotlins_one_of_those_languages_which_many_devs/)
+- [Design Notes on Kotlin Value Classes](https://www.reddit.com/r/Kotlin/comments/la7m8y/design_notes_on_kotlin_value_classes/)
+- [Breaking Kotlin's Null-Safety with Circular References](https://www.reddit.com/r/Kotlin/comments/la56yx/breaking_kotlins_nullsafety_with_circular/)
+- [Question about coroutines](https://www.reddit.com/r/Kotlin/comments/la46ug/question_about_coroutines/)
+- ["Searching in Libraries by Type" and "App Migration to the Cloud" - free online Kotlin event by sphere.it](https://www.reddit.com/r/Kotlin/comments/la1axq/searching_in_libraries_by_type_and_app_migration/)
+- [The Most Popular Programming Languages - 1965/2020](https://www.reddit.com/r/Kotlin/comments/la0p1c/the_most_popular_programming_languages_19652020/)
+- [An app where you can add posts](https://www.reddit.com/r/Kotlin/comments/l9zo2z/an_app_where_you_can_add_posts/)
 - [Introducing MapNeat, a JVM JSON Transformation Library](https://www.reddit.com/r/Kotlin/comments/l9lvgu/introducing_mapneat_a_jvm_json_transformation/)
-- [What can const val do which @JvmField val cannot?](https://www.reddit.com/r/Kotlin/comments/l9lpbm/what_can_const_val_do_which_jvmfield_val_cannot/)
-- [How long to learn TornadoFx if you know JavaFX?](https://www.reddit.com/r/Kotlin/comments/l9kdgn/how_long_to_learn_tornadofx_if_you_know_javafx/)
-- [Why I am getting "Erased Type" error in sealed classes ?](https://www.reddit.com/r/Kotlin/comments/l9ibqc/why_i_am_getting_erased_type_error_in_sealed/)
-- [The state of JVM desktop frameworks: TornadoFX](https://www.reddit.com/r/Kotlin/comments/l9gf44/the_state_of_jvm_desktop_frameworks_tornadofx/)
-- [Kotlin Official YouTube Channel](https://www.reddit.com/r/Kotlin/comments/l90bed/kotlin_official_youtube_channel/)
-- [Binary in Kotlin](https://www.reddit.com/r/Kotlin/comments/l8wr4i/binary_in_kotlin/)
-- [Keval - A mini lib for mathematical expression evaluation](https://www.reddit.com/r/Kotlin/comments/l8luum/keval_a_mini_lib_for_mathematical_expression/)
-- [Do Kotlin multiplatform have an libraries to connect mobile app with MS SQL server directly?](https://www.reddit.com/r/Kotlin/comments/l8e0qi/do_kotlin_multiplatform_have_an_libraries_to/)
-- [Is there a way to do something like in the picture in kotlinx.html (for JVM)?](https://www.reddit.com/r/Kotlin/comments/l85hpx/is_there_a_way_to_do_something_like_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
