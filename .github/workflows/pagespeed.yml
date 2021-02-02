@@ -8,7 +8,7 @@ on:
 jobs:
   docs-page-speed:
     env:
-      HOST: https://alexander-rogalsky.gitbook.io/java-patterns/
+      HOST: https://alexander-rogalsky.gitbook.io/kotlin-patterns/
       PSURL: https://pagespeed-insights.herokuapp.com
       PSRDESKTOP: pagespeedresult
       PSRMOBILE: pagespeedresultmobile
