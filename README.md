@@ -163,7 +163,7 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ## ⏰ _Statistics_
 
 <p align="center" style="text-align:center;">
-    <img alt="Documentation page speed" src="https://pagespeed-insights.herokuapp.com/?url=https://alexander-rogalsky.gitbook.io/kotlin-patterns/&strategy=mobile"/>
+    <img alt="Documentation PageSpeed result dashboard" src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/master/reports/pagespeedresultmobile.svg"/>
 </p>
 
 ## 📝 _Versioning_
