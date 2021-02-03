@@ -247,16 +247,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/4)
+- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/5)
+- [IDEA: Cannot access internal methods from tests](https://discuss.kotlinlang.org/t/idea-cannot-access-internal-methods-from-tests/3832/5)
+- [Using kotlin.script.experimental.api.* how to retrieve the value from the Script](https://discuss.kotlinlang.org/t/using-kotlin-script-experimental-api-how-to-retrieve-the-value-from-the-script/19788/13)
+- [Using a CachedThreadPool with KTOR](https://discuss.kotlinlang.org/t/using-a-cachedthreadpool-with-ktor/20741/1)
+- [Integration of Firebase SDK - Multiplatform](https://discuss.kotlinlang.org/t/integration-of-firebase-sdk-multiplatform/20739/1)
 - [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/4)
 - [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/3)
 - [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/2)
 - [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/1)
-- [Feature request: Save variable values to disk rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disk-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/12)
-- [Feedback on page "Interfaces" in Language Guide](https://discuss.kotlinlang.org/t/feedback-on-page-interfaces-in-language-guide/20715/2)
-- [In future, could Kotlin have checked exception?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exception/1579/108)
-- [Feedback on page "Interfaces" in Language Guide](https://discuss.kotlinlang.org/t/feedback-on-page-interfaces-in-language-guide/20715/1)
-- [Feature request: Save variable values to disk rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disk-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/11)
-- [Feature request: Save variable values to disk rather than in memory (or: Why we don't need databases anymore)](https://discuss.kotlinlang.org/t/feature-request-save-variable-values-to-disk-rather-than-in-memory-or-why-we-dont-need-databases-anymore/20699/10)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
