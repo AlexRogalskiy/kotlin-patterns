@@ -222,16 +222,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Re: Keval - A mini lib for mathematical expression evaluation](https://www.reddit.com/r/Kotlin/comments/lb0q4y/re_keval_a_mini_lib_for_mathematical_expression/)
+- [How to integrate Kotlin JS and Kotlin Desktop (Jetpack Desktop) to existing Kotlin multiplatform mobile project?](https://www.reddit.com/r/Kotlin/comments/law528/how_to_integrate_kotlin_js_and_kotlin_desktop/)
+- [[Github] Generala Game](https://www.reddit.com/r/Kotlin/comments/law3hq/github_generala_game/)
+- [Is it just me being dense or does the Ktor documentation suck?](https://www.reddit.com/r/Kotlin/comments/law1zl/is_it_just_me_being_dense_or_does_the_ktor/)
+- [Kotlin coroutines & akka streams](https://www.reddit.com/r/Kotlin/comments/lat2oa/kotlin_coroutines_akka_streams/)
 - [Is there a way to create an extension function for all Enums, of "valueOfOrNull" ?](https://www.reddit.com/r/Kotlin/comments/lah3ik/is_there_a_way_to_create_an_extension_function/)
 - [My laptop can't run android studio. Is there an alternative to use until I can upgrade?](https://www.reddit.com/r/Kotlin/comments/lah0xu/my_laptop_cant_run_android_studio_is_there_an/)
 - [Kotlin's one of those languages, which many devs wish migrate to!](https://www.reddit.com/r/Kotlin/comments/laa1nt/kotlins_one_of_those_languages_which_many_devs/)
 - [Design Notes on Kotlin Value Classes](https://www.reddit.com/r/Kotlin/comments/la7m8y/design_notes_on_kotlin_value_classes/)
 - [Breaking Kotlin's Null-Safety with Circular References](https://www.reddit.com/r/Kotlin/comments/la56yx/breaking_kotlins_nullsafety_with_circular/)
-- [Question about coroutines](https://www.reddit.com/r/Kotlin/comments/la46ug/question_about_coroutines/)
-- ["Searching in Libraries by Type" and "App Migration to the Cloud" - free online Kotlin event by sphere.it](https://www.reddit.com/r/Kotlin/comments/la1axq/searching_in_libraries_by_type_and_app_migration/)
-- [The Most Popular Programming Languages - 1965/2020](https://www.reddit.com/r/Kotlin/comments/la0p1c/the_most_popular_programming_languages_19652020/)
-- [An app where you can add posts](https://www.reddit.com/r/Kotlin/comments/l9zo2z/an_app_where_you_can_add_posts/)
-- [Introducing MapNeat, a JVM JSON Transformation Library](https://www.reddit.com/r/Kotlin/comments/l9lvgu/introducing_mapneat_a_jvm_json_transformation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
