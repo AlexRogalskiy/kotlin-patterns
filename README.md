@@ -222,16 +222,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interview with me on Leanpub Frontmatter Podcast](https://www.reddit.com/r/Kotlin/comments/lbyd3f/interview_with_me_on_leanpub_frontmatter_podcast/)
+- [Bintray (including JCenter) will be sunset on May 1st](https://www.reddit.com/r/Kotlin/comments/lbv0bc/bintray_including_jcenter_will_be_sunset_on_may/)
+- [I got used to Kotlin and other languages cause me pain](https://www.reddit.com/r/Kotlin/comments/lbtmp2/i_got_used_to_kotlin_and_other_languages_cause_me/)
+- [Kotlin 1.4.30 Release](https://www.reddit.com/r/Kotlin/comments/lbt1gh/kotlin_1430_release/)
+- [What is jb-compose?](https://www.reddit.com/r/Kotlin/comments/lbmeob/what_is_jbcompose/)
+- [!= doesn't work anymore after Kotlin plugin update](https://www.reddit.com/r/Kotlin/comments/lbles1/doesnt_work_anymore_after_kotlin_plugin_update/)
 - [Re: Keval - A mini lib for mathematical expression evaluation](https://www.reddit.com/r/Kotlin/comments/lb0q4y/re_keval_a_mini_lib_for_mathematical_expression/)
 - [How to integrate Kotlin JS and Kotlin Desktop (Jetpack Desktop) to existing Kotlin multiplatform mobile project?](https://www.reddit.com/r/Kotlin/comments/law528/how_to_integrate_kotlin_js_and_kotlin_desktop/)
 - [[Github] Generala Game](https://www.reddit.com/r/Kotlin/comments/law3hq/github_generala_game/)
 - [Is it just me being dense or does the Ktor documentation suck?](https://www.reddit.com/r/Kotlin/comments/law1zl/is_it_just_me_being_dense_or_does_the_ktor/)
-- [Kotlin coroutines & akka streams](https://www.reddit.com/r/Kotlin/comments/lat2oa/kotlin_coroutines_akka_streams/)
-- [Is there a way to create an extension function for all Enums, of "valueOfOrNull" ?](https://www.reddit.com/r/Kotlin/comments/lah3ik/is_there_a_way_to_create_an_extension_function/)
-- [My laptop can't run android studio. Is there an alternative to use until I can upgrade?](https://www.reddit.com/r/Kotlin/comments/lah0xu/my_laptop_cant_run_android_studio_is_there_an/)
-- [Kotlin's one of those languages, which many devs wish migrate to!](https://www.reddit.com/r/Kotlin/comments/laa1nt/kotlins_one_of_those_languages_which_many_devs/)
-- [Design Notes on Kotlin Value Classes](https://www.reddit.com/r/Kotlin/comments/la7m8y/design_notes_on_kotlin_value_classes/)
-- [Breaking Kotlin's Null-Safety with Circular References](https://www.reddit.com/r/Kotlin/comments/la56yx/breaking_kotlins_nullsafety_with_circular/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
