@@ -222,16 +222,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [The JVM Backend Is in Beta](https://www.reddit.com/r/Kotlin/comments/lcl7up/the_jvm_backend_is_in_beta/)
+- [New Language Features Preview in Kotlin 1.4.30](https://www.reddit.com/r/Kotlin/comments/lcl78m/new_language_features_preview_in_kotlin_1430/)
+- [Kotlin 1.4.30 Is Released With a New JVM Backend and Language and Multiplatform Features](https://www.reddit.com/r/Kotlin/comments/lcl58u/kotlin_1430_is_released_with_a_new_jvm_backend/)
+- [Anyone in Germany looking for a new role?](https://www.reddit.com/r/Kotlin/comments/lci6mi/anyone_in_germany_looking_for_a_new_role/)
+- [MavenCentral go brrrrrrrr](https://www.reddit.com/r/Kotlin/comments/lchuz5/mavencentral_go_brrrrrrrr/)
+- [Is there any way to show a spinner datePicker using an edittext?](https://www.reddit.com/r/Kotlin/comments/lcc7xi/is_there_any_way_to_show_a_spinner_datepicker/)
 - [Interview with me on Leanpub Frontmatter Podcast](https://www.reddit.com/r/Kotlin/comments/lbyd3f/interview_with_me_on_leanpub_frontmatter_podcast/)
 - [Bintray (including JCenter) will be sunset on May 1st](https://www.reddit.com/r/Kotlin/comments/lbv0bc/bintray_including_jcenter_will_be_sunset_on_may/)
 - [I got used to Kotlin and other languages cause me pain](https://www.reddit.com/r/Kotlin/comments/lbtmp2/i_got_used_to_kotlin_and_other_languages_cause_me/)
 - [Kotlin 1.4.30 Release](https://www.reddit.com/r/Kotlin/comments/lbt1gh/kotlin_1430_release/)
-- [What is jb-compose?](https://www.reddit.com/r/Kotlin/comments/lbmeob/what_is_jbcompose/)
-- [!= doesn't work anymore after Kotlin plugin update](https://www.reddit.com/r/Kotlin/comments/lbles1/doesnt_work_anymore_after_kotlin_plugin_update/)
-- [Re: Keval - A mini lib for mathematical expression evaluation](https://www.reddit.com/r/Kotlin/comments/lb0q4y/re_keval_a_mini_lib_for_mathematical_expression/)
-- [How to integrate Kotlin JS and Kotlin Desktop (Jetpack Desktop) to existing Kotlin multiplatform mobile project?](https://www.reddit.com/r/Kotlin/comments/law528/how_to_integrate_kotlin_js_and_kotlin_desktop/)
-- [[Github] Generala Game](https://www.reddit.com/r/Kotlin/comments/law3hq/github_generala_game/)
-- [Is it just me being dense or does the Ktor documentation suck?](https://www.reddit.com/r/Kotlin/comments/law1zl/is_it_just_me_being_dense_or_does_the_ktor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
