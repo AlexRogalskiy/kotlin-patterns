@@ -247,16 +247,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Using a CachedThreadPool with KTOR](https://discuss.kotlinlang.org/t/using-a-cachedthreadpool-with-ktor/20741/3)
-- [ArrayDeque should implement Deque interface](https://discuss.kotlinlang.org/t/arraydeque-should-implement-deque-interface/16616/13)
-- [ArrayDeque should implement Deque interface](https://discuss.kotlinlang.org/t/arraydeque-should-implement-deque-interface/16616/12)
-- [How to debug koltin aar file on android](https://discuss.kotlinlang.org/t/how-to-debug-koltin-aar-file-on-android/12987/3)
-- [Using a CachedThreadPool with KTOR](https://discuss.kotlinlang.org/t/using-a-cachedthreadpool-with-ktor/20741/2)
-- [Ktor Client for load testing](https://discuss.kotlinlang.org/t/ktor-client-for-load-testing/20749/1)
-- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/5)
-- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/4)
-- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/5)
-- [IDEA: Cannot access internal methods from tests](https://discuss.kotlinlang.org/t/idea-cannot-access-internal-methods-from-tests/3832/5)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/1)
+- [Plugin update, tons of IDE errors](https://discuss.kotlinlang.org/t/plugin-update-tons-of-ide-errors/20756/3)
+- [Telegram Bot API for Kotlin](https://discuss.kotlinlang.org/t/telegram-bot-api-for-kotlin/20759/1)
+- [Ktor Client for load testing](https://discuss.kotlinlang.org/t/ktor-client-for-load-testing/20749/2)
+- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/4)
+- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/3)
+- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/2)
+- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/1)
+- [IDEA: Cannot access internal methods from tests](https://discuss.kotlinlang.org/t/idea-cannot-access-internal-methods-from-tests/3832/6)
+- [Plugin update, tons of IDE errors](https://discuss.kotlinlang.org/t/plugin-update-tons-of-ide-errors/20756/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
