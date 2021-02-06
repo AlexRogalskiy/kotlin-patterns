@@ -250,16 +250,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/1)
-- [Plugin update, tons of IDE errors](https://discuss.kotlinlang.org/t/plugin-update-tons-of-ide-errors/20756/3)
-- [Telegram Bot API for Kotlin](https://discuss.kotlinlang.org/t/telegram-bot-api-for-kotlin/20759/1)
-- [Ktor Client for load testing](https://discuss.kotlinlang.org/t/ktor-client-for-load-testing/20749/2)
-- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/4)
-- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/3)
-- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/2)
-- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/1)
-- [IDEA: Cannot access internal methods from tests](https://discuss.kotlinlang.org/t/idea-cannot-access-internal-methods-from-tests/3832/6)
-- [Plugin update, tons of IDE errors](https://discuss.kotlinlang.org/t/plugin-update-tons-of-ide-errors/20756/2)
+- [Plugin update, tons of IDE errors](https://discuss.kotlinlang.org/t/plugin-update-tons-of-ide-errors/20756/4)
+- [Add syntax for currying lambdas](https://discuss.kotlinlang.org/t/add-syntax-for-currying-lambdas/18071/3)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/6)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/5)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/7)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/6)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/5)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/4)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/3)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
