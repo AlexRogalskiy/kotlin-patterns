@@ -225,6 +225,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Return array value](https://www.reddit.com/r/Kotlin/comments/ldeqdw/return_array_value/)
 - [The JVM Backend Is in Beta](https://www.reddit.com/r/Kotlin/comments/lcl7up/the_jvm_backend_is_in_beta/)
 - [New Language Features Preview in Kotlin 1.4.30](https://www.reddit.com/r/Kotlin/comments/lcl78m/new_language_features_preview_in_kotlin_1430/)
 - [Kotlin 1.4.30 Is Released With a New JVM Backend and Language and Multiplatform Features](https://www.reddit.com/r/Kotlin/comments/lcl58u/kotlin_1430_is_released_with_a_new_jvm_backend/)
@@ -234,7 +235,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Interview with me on Leanpub Frontmatter Podcast](https://www.reddit.com/r/Kotlin/comments/lbyd3f/interview_with_me_on_leanpub_frontmatter_podcast/)
 - [Bintray (including JCenter) will be sunset on May 1st](https://www.reddit.com/r/Kotlin/comments/lbv0bc/bintray_including_jcenter_will_be_sunset_on_may/)
 - [I got used to Kotlin and other languages cause me pain](https://www.reddit.com/r/Kotlin/comments/lbtmp2/i_got_used_to_kotlin_and_other_languages_cause_me/)
-- [Kotlin 1.4.30 Release](https://www.reddit.com/r/Kotlin/comments/lbt1gh/kotlin_1430_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
@@ -250,16 +250,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/1)
-- [Plugin update, tons of IDE errors](https://discuss.kotlinlang.org/t/plugin-update-tons-of-ide-errors/20756/3)
-- [Telegram Bot API for Kotlin](https://discuss.kotlinlang.org/t/telegram-bot-api-for-kotlin/20759/1)
-- [Ktor Client for load testing](https://discuss.kotlinlang.org/t/ktor-client-for-load-testing/20749/2)
-- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/4)
-- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/3)
-- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/2)
-- [Why type can't be inferred for base class or interface? Kotlin 1.4](https://discuss.kotlinlang.org/t/why-type-cant-be-inferred-for-base-class-or-interface-kotlin-1-4/20758/1)
-- [IDEA: Cannot access internal methods from tests](https://discuss.kotlinlang.org/t/idea-cannot-access-internal-methods-from-tests/3832/6)
-- [Plugin update, tons of IDE errors](https://discuss.kotlinlang.org/t/plugin-update-tons-of-ide-errors/20756/2)
+- [Plugin update, tons of IDE errors](https://discuss.kotlinlang.org/t/plugin-update-tons-of-ide-errors/20756/4)
+- [Add syntax for currying lambdas](https://discuss.kotlinlang.org/t/add-syntax-for-currying-lambdas/18071/3)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/6)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/5)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/7)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/6)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/5)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/4)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/3)
+- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
