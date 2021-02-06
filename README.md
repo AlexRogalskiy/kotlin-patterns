@@ -225,6 +225,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Return array value](https://www.reddit.com/r/Kotlin/comments/ldeqdw/return_array_value/)
 - [The JVM Backend Is in Beta](https://www.reddit.com/r/Kotlin/comments/lcl7up/the_jvm_backend_is_in_beta/)
 - [New Language Features Preview in Kotlin 1.4.30](https://www.reddit.com/r/Kotlin/comments/lcl78m/new_language_features_preview_in_kotlin_1430/)
 - [Kotlin 1.4.30 Is Released With a New JVM Backend and Language and Multiplatform Features](https://www.reddit.com/r/Kotlin/comments/lcl58u/kotlin_1430_is_released_with_a_new_jvm_backend/)
@@ -234,7 +235,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Interview with me on Leanpub Frontmatter Podcast](https://www.reddit.com/r/Kotlin/comments/lbyd3f/interview_with_me_on_leanpub_frontmatter_podcast/)
 - [Bintray (including JCenter) will be sunset on May 1st](https://www.reddit.com/r/Kotlin/comments/lbv0bc/bintray_including_jcenter_will_be_sunset_on_may/)
 - [I got used to Kotlin and other languages cause me pain](https://www.reddit.com/r/Kotlin/comments/lbtmp2/i_got_used_to_kotlin_and_other_languages_cause_me/)
-- [Kotlin 1.4.30 Release](https://www.reddit.com/r/Kotlin/comments/lbt1gh/kotlin_1430_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
