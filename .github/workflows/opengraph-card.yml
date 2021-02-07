@@ -7,7 +7,7 @@ jobs:
   generate-opengraph-card:
     env:
       BASE_PATH: https://og-image.now.sh
-      QUERY_PATH: _**JavaScript%20Design%20patterns**_%3Cbr%3E_@AlexRogalskiy/javascript4you_
+      QUERY_PATH: _**Kotlin%20Design%20patterns**_%3Cbr%3E_@AlexRogalskiy/kotlin4you_
       THEME: light
       MARKDOWN_ENABLED: 1
       FONT_SIZE: 75px
