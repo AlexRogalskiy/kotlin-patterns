@@ -250,16 +250,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Plugin update, tons of IDE errors](https://discuss.kotlinlang.org/t/plugin-update-tons-of-ide-errors/20756/4)
-- [Add syntax for currying lambdas](https://discuss.kotlinlang.org/t/add-syntax-for-currying-lambdas/18071/3)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/6)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/5)
-- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/7)
-- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/6)
-- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/5)
-- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/4)
-- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/3)
-- [Kapt: Cannot get function with backtick name as annotated element](https://discuss.kotlinlang.org/t/kapt-cannot-get-function-with-backtick-name-as-annotated-element/11547/2)
+- [Nullable assigner?](https://discuss.kotlinlang.org/t/nullable-assigner/3931/21)
+- [Multiplatform error: "Please initialize at least one Kotlin target"](https://discuss.kotlinlang.org/t/multiplatform-error-please-initialize-at-least-one-kotlin-target/20776/2)
+- [Multiplatform error: "Please initialize at least one Kotlin target"](https://discuss.kotlinlang.org/t/multiplatform-error-please-initialize-at-least-one-kotlin-target/20776/1)
+- [Debugging Kotlin/JS (Node, Browser) in IntelliJ](https://discuss.kotlinlang.org/t/debugging-kotlin-js-node-browser-in-intellij/20775/1)
+- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/10)
+- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/9)
+- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/8)
+- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/7)
+- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/6)
+- [Can't create new multiplatform project?](https://discuss.kotlinlang.org/t/cant-create-new-multiplatform-project/20772/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
