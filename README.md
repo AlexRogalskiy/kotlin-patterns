@@ -225,16 +225,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Doodle 0.4.1 released](https://www.reddit.com/r/Kotlin/comments/le4ktx/doodle_041_released/)
+- [After 4 years, Talking Kotlin's next episode will be its last. :(](https://www.reddit.com/r/Kotlin/comments/ldywvt/after_4_years_talking_kotlins_next_episode_will/)
+- [Compile time associated functions/properties](https://www.reddit.com/r/Kotlin/comments/ldytzg/compile_time_associated_functionsproperties/)
+- [why is this variable initializer redundant? in Kotlin](https://www.reddit.com/r/Kotlin/comments/ldxs8c/why_is_this_variable_initializer_redundant_in/)
+- [diKTat 0.4.0 is released - kotlin linter and static analyzer](https://www.reddit.com/r/Kotlin/comments/ldwo2d/diktat_040_is_released_kotlin_linter_and_static/)
+- [So i write this code yesterday. Left(Kt), Right(Java). I wrote it in Kotlin first and just wondered how it would look in Java. Java is just toooooo much! Why is it so hard for many Java developers to see how great Kotlin is, many just refuse to learn it.](https://www.reddit.com/r/Kotlin/comments/ldv1ac/so_i_write_this_code_yesterday_leftkt_rightjava_i/)
+- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/ldow1j/new_to_kotlin/)
+- [Need help with unresolved references in Kotlin Gradle build script](https://www.reddit.com/r/Kotlin/comments/ldmqtv/need_help_with_unresolved_references_in_kotlin/)
 - [Return array value](https://www.reddit.com/r/Kotlin/comments/ldeqdw/return_array_value/)
-- [The JVM Backend Is in Beta](https://www.reddit.com/r/Kotlin/comments/lcl7up/the_jvm_backend_is_in_beta/)
-- [New Language Features Preview in Kotlin 1.4.30](https://www.reddit.com/r/Kotlin/comments/lcl78m/new_language_features_preview_in_kotlin_1430/)
-- [Kotlin 1.4.30 Is Released With a New JVM Backend and Language and Multiplatform Features](https://www.reddit.com/r/Kotlin/comments/lcl58u/kotlin_1430_is_released_with_a_new_jvm_backend/)
-- [Anyone in Germany looking for a new role?](https://www.reddit.com/r/Kotlin/comments/lci6mi/anyone_in_germany_looking_for_a_new_role/)
-- [MavenCentral go brrrrrrrr](https://www.reddit.com/r/Kotlin/comments/lchuz5/mavencentral_go_brrrrrrrr/)
-- [Is there any way to show a spinner datePicker using an edittext?](https://www.reddit.com/r/Kotlin/comments/lcc7xi/is_there_any_way_to_show_a_spinner_datepicker/)
-- [Interview with me on Leanpub Frontmatter Podcast](https://www.reddit.com/r/Kotlin/comments/lbyd3f/interview_with_me_on_leanpub_frontmatter_podcast/)
-- [Bintray (including JCenter) will be sunset on May 1st](https://www.reddit.com/r/Kotlin/comments/lbv0bc/bintray_including_jcenter_will_be_sunset_on_may/)
-- [I got used to Kotlin and other languages cause me pain](https://www.reddit.com/r/Kotlin/comments/lbtmp2/i_got_used_to_kotlin_and_other_languages_cause_me/)
+- [Hosting Kotlin/JS on GitHub Pages via GitHub Actions](https://www.reddit.com/r/Kotlin/comments/ld62yz/hosting_kotlinjs_on_github_pages_via_github/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
