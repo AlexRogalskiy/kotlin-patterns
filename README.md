@@ -220,6 +220,12 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 
 [![Stargazers repo roster for @AlexRogalskiy/kotlin-patterns](https://reporoster.com/stars/AlexRogalskiy/kotlin-patterns)][stars]
 
+## 📎 _OpenGraph Card_
+
+<p align="center" style="text-align:center;">
+    <img alt="OpenGraph card" src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/master/images/opengraph-card.png"/>
+</p>
+
 ## 🔥 _Feeds and Podcasts_
 
 ### _Reddit posts_
