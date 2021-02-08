@@ -257,16 +257,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Nullable assigner?](https://discuss.kotlinlang.org/t/nullable-assigner/3931/21)
-- [Multiplatform error: "Please initialize at least one Kotlin target"](https://discuss.kotlinlang.org/t/multiplatform-error-please-initialize-at-least-one-kotlin-target/20776/2)
-- [Multiplatform error: "Please initialize at least one Kotlin target"](https://discuss.kotlinlang.org/t/multiplatform-error-please-initialize-at-least-one-kotlin-target/20776/1)
-- [Debugging Kotlin/JS (Node, Browser) in IntelliJ](https://discuss.kotlinlang.org/t/debugging-kotlin-js-node-browser-in-intellij/20775/1)
-- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/10)
-- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/9)
-- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/8)
-- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/7)
-- [FP language features in Kotlin?](https://discuss.kotlinlang.org/t/fp-language-features-in-kotlin/20729/6)
-- [Can't create new multiplatform project?](https://discuss.kotlinlang.org/t/cant-create-new-multiplatform-project/20772/1)
+- [Newbie question](https://discuss.kotlinlang.org/t/newbie-question/20791/1)
+- [Telegram Bot API for Kotlin](https://discuss.kotlinlang.org/t/telegram-bot-api-for-kotlin/20759/3)
+- [JS IR compiler not compatible with kotlinx.serialization?](https://discuss.kotlinlang.org/t/js-ir-compiler-not-compatible-with-kotlinx-serialization/20789/1)
+- [When will contracts be final?](https://discuss.kotlinlang.org/t/when-will-contracts-be-final/20652/4)
+- [Por favor me digam onde esta o erro, que não consigo resolver](https://discuss.kotlinlang.org/t/por-favor-me-digam-onde-esta-o-erro-que-nao-consigo-resolver/20788/1)
+- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/6)
+- [Call extension function without brackets like DSL](https://discuss.kotlinlang.org/t/call-extension-function-without-brackets-like-dsl/20781/3)
+- [[Feedback request] kotlin-rpc, a Kotlin-centric multiplatform RPC library](https://discuss.kotlinlang.org/t/feedback-request-kotlin-rpc-a-kotlin-centric-multiplatform-rpc-library/20787/1)
+- [What are plans for Kotlin runtimes after kotlin-stdlib-jdk8?](https://discuss.kotlinlang.org/t/what-are-plans-for-kotlin-runtimes-after-kotlin-stdlib-jdk8/20786/3)
+- [What are plans for Kotlin runtimes after kotlin-stdlib-jdk8?](https://discuss.kotlinlang.org/t/what-are-plans-for-kotlin-runtimes-after-kotlin-stdlib-jdk8/20786/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
