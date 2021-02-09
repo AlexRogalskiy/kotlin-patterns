@@ -232,16 +232,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Cannot use @Parcelize on inline class](https://www.reddit.com/r/Kotlin/comments/lezuy3/cannot_use_parcelize_on_inline_class/)
-- [Sharing code between Android and IOS?](https://www.reddit.com/r/Kotlin/comments/letjef/sharing_code_between_android_and_ios/)
-- [Hey, I'm starting to learn some Kotlin and I have a doubt in this code, why they're using the "$"? Is it to be able to use a variable inside a text?](https://www.reddit.com/r/Kotlin/comments/lesnde/hey_im_starting_to_learn_some_kotlin_and_i_have_a/)
-- [The state of JVM desktop frameworks: Jetpack Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/leqktk/the_state_of_jvm_desktop_frameworks_jetpack/)
-- [Doodle 0.4.1 released](https://www.reddit.com/r/Kotlin/comments/le4ktx/doodle_041_released/)
-- [After 4 years, Talking Kotlin's next episode will be its last. :(](https://www.reddit.com/r/Kotlin/comments/ldywvt/after_4_years_talking_kotlins_next_episode_will/)
-- [Compile time associated functions/properties](https://www.reddit.com/r/Kotlin/comments/ldytzg/compile_time_associated_functionsproperties/)
-- [why is this variable initializer redundant? in Kotlin](https://www.reddit.com/r/Kotlin/comments/ldxs8c/why_is_this_variable_initializer_redundant_in/)
-- [diKTat 0.4.0 is released - kotlin linter and static analyzer](https://www.reddit.com/r/Kotlin/comments/ldwo2d/diktat_040_is_released_kotlin_linter_and_static/)
-- [So i write this code yesterday. Left(Kt), Right(Java). I wrote it in Kotlin first and just wondered how it would look in Java. Java is just toooooo much! Why is it so hard for many Java developers to see how great Kotlin is, many just refuse to learn it.](https://www.reddit.com/r/Kotlin/comments/ldv1ac/so_i_write_this_code_yesterday_leftkt_rightjava_i/)
+- [compileKotlin not recognising kotlinOptions.useIR](https://www.reddit.com/r/Kotlin/comments/lfi635/compilekotlin_not_recognising_kotlinoptionsuseir/)
+- [Kotlin Multiplatform Multiverse Episode 1 – Meet Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/lfgl36/kotlin_multiplatform_multiverse_episode_1_meet/)
+- [What does return@addOnCompleteListener do or mean ?](https://www.reddit.com/r/Kotlin/comments/lfgk71/what_does_returnaddoncompletelistener_do_or_mean/)
+- [Kotlin for Beginners Lessons](https://www.reddit.com/r/Kotlin/comments/lfgjz0/kotlin_for_beginners_lessons/)
+- [Welcome to Kotlin Multiplatform Multiverse! In the first episode of this series, you will get to know what Kotlin Multiplatform Mobile is and how you can use it in your project. Together we'll set up an environment and prepare you for creating your first cross-platform mobile application with KMM!](https://www.reddit.com/r/Kotlin/comments/lfg78n/welcome_to_kotlin_multiplatform_multiverse_in_the/)
+- [Combine flow, loading state on every change of flows.](https://www.reddit.com/r/Kotlin/comments/lfcfds/combine_flow_loading_state_on_every_change_of/)
+- [I published a compiler plugin that simplifies working with annotation use-site targets in Kotlin. I would love to hear your feedback](https://www.reddit.com/r/Kotlin/comments/lfblnq/i_published_a_compiler_plugin_that_simplifies/)
+- [[Github] Kotlin Practices](https://www.reddit.com/r/Kotlin/comments/lfbl7q/github_kotlin_practices/)
+- [Add text to ImageView](https://www.reddit.com/r/Kotlin/comments/lfav27/add_text_to_imageview/)
+- [Hibernate in Kotlin?](https://www.reddit.com/r/Kotlin/comments/lf42ir/hibernate_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
