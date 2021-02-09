@@ -257,16 +257,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Newbie question](https://discuss.kotlinlang.org/t/newbie-question/20791/1)
-- [Telegram Bot API for Kotlin](https://discuss.kotlinlang.org/t/telegram-bot-api-for-kotlin/20759/3)
-- [JS IR compiler not compatible with kotlinx.serialization?](https://discuss.kotlinlang.org/t/js-ir-compiler-not-compatible-with-kotlinx-serialization/20789/1)
-- [When will contracts be final?](https://discuss.kotlinlang.org/t/when-will-contracts-be-final/20652/4)
-- [Por favor me digam onde esta o erro, que não consigo resolver](https://discuss.kotlinlang.org/t/por-favor-me-digam-onde-esta-o-erro-que-nao-consigo-resolver/20788/1)
-- [Kotlinc as a native binary](https://discuss.kotlinlang.org/t/kotlinc-as-a-native-binary/20702/6)
-- [Call extension function without brackets like DSL](https://discuss.kotlinlang.org/t/call-extension-function-without-brackets-like-dsl/20781/3)
-- [[Feedback request] kotlin-rpc, a Kotlin-centric multiplatform RPC library](https://discuss.kotlinlang.org/t/feedback-request-kotlin-rpc-a-kotlin-centric-multiplatform-rpc-library/20787/1)
-- [What are plans for Kotlin runtimes after kotlin-stdlib-jdk8?](https://discuss.kotlinlang.org/t/what-are-plans-for-kotlin-runtimes-after-kotlin-stdlib-jdk8/20786/3)
-- [What are plans for Kotlin runtimes after kotlin-stdlib-jdk8?](https://discuss.kotlinlang.org/t/what-are-plans-for-kotlin-runtimes-after-kotlin-stdlib-jdk8/20786/2)
+- [Newbie question](https://discuss.kotlinlang.org/t/newbie-question/20791/4)
+- [Is it possible to declare a variable with two types in Kotlin, like val x: Int or String?](https://discuss.kotlinlang.org/t/is-it-possible-to-declare-a-variable-with-two-types-in-kotlin-like-val-x-int-or-string/20795/4)
+- [Direct property accessor invocation](https://discuss.kotlinlang.org/t/direct-property-accessor-invocation/20809/2)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/16)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/15)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/14)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/13)
+- [Direct property accessor invocation](https://discuss.kotlinlang.org/t/direct-property-accessor-invocation/20809/1)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/12)
+- [Is it possible to declare a variable with two types in Kotlin, like val x: Int or String?](https://discuss.kotlinlang.org/t/is-it-possible-to-declare-a-variable-with-two-types-in-kotlin-like-val-x-int-or-string/20795/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
