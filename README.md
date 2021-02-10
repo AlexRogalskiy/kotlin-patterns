@@ -257,16 +257,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Newbie question](https://discuss.kotlinlang.org/t/newbie-question/20791/4)
-- [Is it possible to declare a variable with two types in Kotlin, like val x: Int or String?](https://discuss.kotlinlang.org/t/is-it-possible-to-declare-a-variable-with-two-types-in-kotlin-like-val-x-int-or-string/20795/4)
-- [Direct property accessor invocation](https://discuss.kotlinlang.org/t/direct-property-accessor-invocation/20809/2)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/16)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/15)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/14)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/13)
-- [Direct property accessor invocation](https://discuss.kotlinlang.org/t/direct-property-accessor-invocation/20809/1)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/12)
-- [Is it possible to declare a variable with two types in Kotlin, like val x: Int or String?](https://discuss.kotlinlang.org/t/is-it-possible-to-declare-a-variable-with-two-types-in-kotlin-like-val-x-int-or-string/20795/3)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/24)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/23)
+- [Missing type check?](https://discuss.kotlinlang.org/t/missing-type-check/18895/9)
+- [Missing type check?](https://discuss.kotlinlang.org/t/missing-type-check/18895/8)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/22)
+- [Missing type check?](https://discuss.kotlinlang.org/t/missing-type-check/18895/7)
+- [Suspend variables (suspend val, suspend var)](https://discuss.kotlinlang.org/t/suspend-variables-suspend-val-suspend-var/13142/7)
+- [Suspend properties](https://discuss.kotlinlang.org/t/suspend-properties/8933/15)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/21)
+- [Missing type check?](https://discuss.kotlinlang.org/t/missing-type-check/18895/6)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
