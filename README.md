@@ -257,16 +257,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/24)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/23)
-- [Missing type check?](https://discuss.kotlinlang.org/t/missing-type-check/18895/9)
-- [Missing type check?](https://discuss.kotlinlang.org/t/missing-type-check/18895/8)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/22)
-- [Missing type check?](https://discuss.kotlinlang.org/t/missing-type-check/18895/7)
-- [Suspend variables (suspend val, suspend var)](https://discuss.kotlinlang.org/t/suspend-variables-suspend-val-suspend-var/13142/7)
-- [Suspend properties](https://discuss.kotlinlang.org/t/suspend-properties/8933/15)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/21)
-- [Missing type check?](https://discuss.kotlinlang.org/t/missing-type-check/18895/6)
+- [Code with generics and suspend functions compiles under 1.3.72 but not under 1.4.30](https://discuss.kotlinlang.org/t/code-with-generics-and-suspend-functions-compiles-under-1-3-72-but-not-under-1-4-30/20834/1)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/32)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/31)
+- [Using a CachedThreadPool with KTOR](https://discuss.kotlinlang.org/t/using-a-cachedthreadpool-with-ktor/20741/5)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/30)
+- [Is it possible to declare a variable with two types in Kotlin, like val x: Int or String?](https://discuss.kotlinlang.org/t/is-it-possible-to-declare-a-variable-with-two-types-in-kotlin-like-val-x-int-or-string/20795/5)
+- [Ktor - Identical URLs are always processed by the same thread](https://discuss.kotlinlang.org/t/ktor-identical-urls-are-always-processed-by-the-same-thread/20831/1)
+- [AbstractMethodError with covariant val override in a data class](https://discuss.kotlinlang.org/t/abstractmethoderror-with-covariant-val-override-in-a-data-class/20829/3)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/29)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/28)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
