@@ -232,16 +232,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Open sourced my Kotlin service for spinning up Tor containers with different IP addresses and using them to proxy HTTP requests](https://www.reddit.com/r/Kotlin/comments/lh8nbx/open_sourced_my_kotlin_service_for_spinning_up/)
+- [Kotlin and on-the-fly bytecode compilation](https://www.reddit.com/r/Kotlin/comments/lh4rg3/kotlin_and_onthefly_bytecode_compilation/)
+- [Announcing Kotlin Symbol Processing (KSP) Alpha](https://www.reddit.com/r/Kotlin/comments/lgyzhq/announcing_kotlin_symbol_processing_ksp_alpha/)
+- [Reified, crossinline, noinline and inline everything?](https://www.reddit.com/r/Kotlin/comments/lgyspg/reified_crossinline_noinline_and_inline_everything/)
+- [Smash your Adapter Monolith with the Connect pattern](https://www.reddit.com/r/Kotlin/comments/lgyfyz/smash_your_adapter_monolith_with_the_connect/)
+- [Google launches new curriculum for Android app development with Kotlin](https://www.reddit.com/r/Kotlin/comments/lgt3f3/google_launches_new_curriculum_for_android_app/)
+- [My first compose desktop app](https://www.reddit.com/r/Kotlin/comments/lgrvk6/my_first_compose_desktop_app/)
+- [Is it possible to use Kotlin/Native to build a library to use in Go, Ruby, Delphi...?](https://www.reddit.com/r/Kotlin/comments/lgrcxl/is_it_possible_to_use_kotlinnative_to_build_a/)
+- [CharSequence.split() return type](https://www.reddit.com/r/Kotlin/comments/lgr9bx/charsequencesplit_return_type/)
 - [Honest question about learning Kotlin, instead of Java... Thus far, Kotlin is only at position #39 in the TIOBE index this month... Should I embrace Kotlin, or just assume Java will rule Android? Honestly not sure?](https://www.reddit.com/r/Kotlin/comments/lgi2t3/honest_question_about_learning_kotlin_instead_of/)
-- [Do you use Java streams in Kotlin? Do I need to?](https://www.reddit.com/r/Kotlin/comments/lgem0h/do_you_use_java_streams_in_kotlin_do_i_need_to/)
-- [Create a simple bot creator in 33 lines of Kotlin code](https://www.reddit.com/r/Kotlin/comments/lg7e6x/create_a_simple_bot_creator_in_33_lines_of_kotlin/)
-- [Join us for the JetBrains webinar on WebFlux, Coroutines, and RSocket, February 18](https://www.reddit.com/r/Kotlin/comments/lg5qsn/join_us_for_the_jetbrains_webinar_on_webflux/)
-- [Why do enum classes require a semi-colon after the enum entries when they have a function?](https://www.reddit.com/r/Kotlin/comments/lg5dzn/why_do_enum_classes_require_a_semicolon_after_the/)
-- [[Github] Random Cat Photo App (Amazon API Random Cats)](https://www.reddit.com/r/Kotlin/comments/lg3yb9/github_random_cat_photo_app_amazon_api_random_cats/)
-- [Return type of 'compareTo' is not a subtype ... Int](https://www.reddit.com/r/Kotlin/comments/lfzler/return_type_of_compareto_is_not_a_subtype_int/)
-- [Starting the series of quick testing tips, in Kotlin](https://www.reddit.com/r/Kotlin/comments/lfy2fp/starting_the_series_of_quick_testing_tips_in/)
-- [compileKotlin not recognising kotlinOptions.useIR](https://www.reddit.com/r/Kotlin/comments/lfi635/compilekotlin_not_recognising_kotlinoptionsuseir/)
-- [Kotlin Multiplatform Multiverse Episode 1 – Meet Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/lfgl36/kotlin_multiplatform_multiverse_episode_1_meet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
