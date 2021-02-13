@@ -232,16 +232,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Build an E-commerce Store App like Souq.com for Android](https://www.reddit.com/r/Kotlin/comments/liagkw/build_an_ecommerce_store_app_like_souqcom_for/)
+- [Netflix open sources its GraphQL framework, written in Kotlin](https://www.reddit.com/r/Kotlin/comments/liadqy/netflix_open_sources_its_graphql_framework/)
+- [Introduction to http4k](https://www.reddit.com/r/Kotlin/comments/li7ke0/introduction_to_http4k/)
+- [Partner Up for Learning](https://www.reddit.com/r/Kotlin/comments/li1rvu/partner_up_for_learning/)
 - [Introducing Kamel: A multiplatform media loading library for Compose.](https://www.reddit.com/r/Kotlin/comments/lhwwam/introducing_kamel_a_multiplatform_media_loading/)
 - [Kordlib - DSL Based Discord Library](https://www.reddit.com/r/Kotlin/comments/lhvukc/kordlib_dsl_based_discord_library/)
 - [How to Build a HIPAA Compliant Telehealth App for Android (Zocdoc Clone)](https://www.reddit.com/r/Kotlin/comments/lhu4rv/how_to_build_a_hipaa_compliant_telehealth_app_for/)
 - [Kotlin](https://www.reddit.com/r/Kotlin/comments/lhoox5/kotlin/)
 - [The Art of Logging](https://www.reddit.com/r/Kotlin/comments/lhlo9e/the_art_of_logging/)
 - [Migrating old artifacts from JCenter to MavenCentral](https://www.reddit.com/r/Kotlin/comments/lhgcpn/migrating_old_artifacts_from_jcenter_to/)
-- [Open sourced my Kotlin service for spinning up Tor containers with different IP addresses and using them to proxy HTTP requests](https://www.reddit.com/r/Kotlin/comments/lh8nbx/open_sourced_my_kotlin_service_for_spinning_up/)
-- [Kotlin and on-the-fly bytecode compilation](https://www.reddit.com/r/Kotlin/comments/lh4rg3/kotlin_and_onthefly_bytecode_compilation/)
-- [Announcing Kotlin Symbol Processing (KSP) Alpha](https://www.reddit.com/r/Kotlin/comments/lgyzhq/announcing_kotlin_symbol_processing_ksp_alpha/)
-- [Reified, crossinline, noinline and inline everything?](https://www.reddit.com/r/Kotlin/comments/lgyspg/reified_crossinline_noinline_and_inline_everything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
