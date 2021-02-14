@@ -232,16 +232,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it possible to create a desktop application with kotlin programming code?](https://www.reddit.com/r/Kotlin/comments/ljc41u/is_it_possible_to_create_a_desktop_application/)
+- [Drop "androidx" from Jetpack Compose package name, for multiplatform, before 1​.​0 release. Please sign the petition!](https://www.reddit.com/r/Kotlin/comments/lj88sh/drop_androidx_from_jetpack_compose_package_name/)
+- [Kotlin Foundation by JetBrains and Google](https://www.reddit.com/r/Kotlin/comments/lj4ygi/kotlin_foundation_by_jetbrains_and_google/)
+- [Java projects : create 17 advanced applications](https://www.reddit.com/r/Kotlin/comments/liydfs/java_projects_create_17_advanced_applications/)
 - [Build an E-commerce Store App like Souq.com for Android](https://www.reddit.com/r/Kotlin/comments/liagkw/build_an_ecommerce_store_app_like_souqcom_for/)
 - [Netflix open sources its GraphQL framework, written in Kotlin](https://www.reddit.com/r/Kotlin/comments/liadqy/netflix_open_sources_its_graphql_framework/)
 - [Introduction to http4k](https://www.reddit.com/r/Kotlin/comments/li7ke0/introduction_to_http4k/)
 - [Partner Up for Learning](https://www.reddit.com/r/Kotlin/comments/li1rvu/partner_up_for_learning/)
 - [Introducing Kamel: A multiplatform media loading library for Compose.](https://www.reddit.com/r/Kotlin/comments/lhwwam/introducing_kamel_a_multiplatform_media_loading/)
 - [Kordlib - DSL Based Discord Library](https://www.reddit.com/r/Kotlin/comments/lhvukc/kordlib_dsl_based_discord_library/)
-- [How to Build a HIPAA Compliant Telehealth App for Android (Zocdoc Clone)](https://www.reddit.com/r/Kotlin/comments/lhu4rv/how_to_build_a_hipaa_compliant_telehealth_app_for/)
-- [Kotlin](https://www.reddit.com/r/Kotlin/comments/lhoox5/kotlin/)
-- [The Art of Logging](https://www.reddit.com/r/Kotlin/comments/lhlo9e/the_art_of_logging/)
-- [Migrating old artifacts from JCenter to MavenCentral](https://www.reddit.com/r/Kotlin/comments/lhgcpn/migrating_old_artifacts_from_jcenter_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
