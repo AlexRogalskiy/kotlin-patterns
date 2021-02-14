@@ -257,16 +257,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [What is the reason behind Smart Cast being impossible to perform when referenced class is in another module?](https://discuss.kotlinlang.org/t/what-is-the-reason-behind-smart-cast-being-impossible-to-perform-when-referenced-class-is-in-another-module/2201/39)
-- [Creating an escaped JSON string from a Kotlin object](https://discuss.kotlinlang.org/t/creating-an-escaped-json-string-from-a-kotlin-object/20852/1)
-- [Https://kotl.in/issue vs /issues](https://discuss.kotlinlang.org/t/https-kotl-in-issue-vs-issues/20838/2)
-- [Will Kotlin Symbol Processing (KSP) replace KAPT?](https://discuss.kotlinlang.org/t/will-kotlin-symbol-processing-ksp-replace-kapt/20848/2)
-- [Will Kotlin Symbol Processing (KSP) replace KAPT?](https://discuss.kotlinlang.org/t/will-kotlin-symbol-processing-ksp-replace-kapt/20848/1)
-- [Simple Hello World for SMS Access without root?](https://discuss.kotlinlang.org/t/simple-hello-world-for-sms-access-without-root/20842/2)
-- [IntelliJ IDEA navigation in this scenario in Kotlin language](https://discuss.kotlinlang.org/t/intellij-idea-navigation-in-this-scenario-in-kotlin-language/20844/1)
-- [Simple Hello World for SMS Access without root?](https://discuss.kotlinlang.org/t/simple-hello-world-for-sms-access-without-root/20842/1)
-- [Code with generics compiles under 1.3.72 but not under 1.4.30](https://discuss.kotlinlang.org/t/code-with-generics-compiles-under-1-3-72-but-not-under-1-4-30/20834/5)
-- [Https://kotl.in/issue vs /issues](https://discuss.kotlinlang.org/t/https-kotl-in-issue-vs-issues/20838/1)
+- [Coroutines Help - async, withTimeout which stops blocking the thread once it runs out of time](https://discuss.kotlinlang.org/t/coroutines-help-async-withtimeout-which-stops-blocking-the-thread-once-it-runs-out-of-time/20862/1)
+- [Extension function whose name is stored in a variable](https://discuss.kotlinlang.org/t/extension-function-whose-name-is-stored-in-a-variable/20856/10)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/5)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/4)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/3)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/2)
+- [TreeMap in Common library](https://discuss.kotlinlang.org/t/treemap-in-common-library/10293/8)
+- [Self Types](https://discuss.kotlinlang.org/t/self-types/371/74)
+- [Extension function whose name is stored in a variable](https://discuss.kotlinlang.org/t/extension-function-whose-name-is-stored-in-a-variable/20856/9)
+- [Extension function whose name is stored in a variable](https://discuss.kotlinlang.org/t/extension-function-whose-name-is-stored-in-a-variable/20856/8)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
