@@ -232,16 +232,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [is-odd.kt - Multifplatform Port of the popular JavaScript Library is-odd](https://www.reddit.com/r/Kotlin/comments/ljvkuy/isoddkt_multifplatform_port_of_the_popular/)
+- [I refactored my friends code and streams are so much cleaner](https://www.reddit.com/r/Kotlin/comments/ljv1bq/i_refactored_my_friends_code_and_streams_are_so/)
 - [Is it possible to create a desktop application with kotlin programming code?](https://www.reddit.com/r/Kotlin/comments/ljc41u/is_it_possible_to_create_a_desktop_application/)
 - [Drop "androidx" from Jetpack Compose package name, for multiplatform, before 1​.​0 release. Please sign the petition!](https://www.reddit.com/r/Kotlin/comments/lj88sh/drop_androidx_from_jetpack_compose_package_name/)
-- [Kotlin Foundation by JetBrains and Google](https://www.reddit.com/r/Kotlin/comments/lj4ygi/kotlin_foundation_by_jetbrains_and_google/)
-- [Java projects : create 17 advanced applications](https://www.reddit.com/r/Kotlin/comments/liydfs/java_projects_create_17_advanced_applications/)
-- [Build an E-commerce Store App like Souq.com for Android](https://www.reddit.com/r/Kotlin/comments/liagkw/build_an_ecommerce_store_app_like_souqcom_for/)
 - [Netflix open sources its GraphQL framework, written in Kotlin](https://www.reddit.com/r/Kotlin/comments/liadqy/netflix_open_sources_its_graphql_framework/)
 - [Introduction to http4k](https://www.reddit.com/r/Kotlin/comments/li7ke0/introduction_to_http4k/)
 - [Partner Up for Learning](https://www.reddit.com/r/Kotlin/comments/li1rvu/partner_up_for_learning/)
 - [Introducing Kamel: A multiplatform media loading library for Compose.](https://www.reddit.com/r/Kotlin/comments/lhwwam/introducing_kamel_a_multiplatform_media_loading/)
 - [Kordlib - DSL Based Discord Library](https://www.reddit.com/r/Kotlin/comments/lhvukc/kordlib_dsl_based_discord_library/)
+- [How to Build a HIPAA Compliant Telehealth App for Android (Zocdoc Clone)](https://www.reddit.com/r/Kotlin/comments/lhu4rv/how_to_build_a_hipaa_compliant_telehealth_app_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
