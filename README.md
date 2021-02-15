@@ -257,16 +257,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Coroutines Help - async, withTimeout which stops blocking the thread once it runs out of time](https://discuss.kotlinlang.org/t/coroutines-help-async-withtimeout-which-stops-blocking-the-thread-once-it-runs-out-of-time/20862/1)
-- [Extension function whose name is stored in a variable](https://discuss.kotlinlang.org/t/extension-function-whose-name-is-stored-in-a-variable/20856/10)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/5)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/4)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/3)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/2)
-- [TreeMap in Common library](https://discuss.kotlinlang.org/t/treemap-in-common-library/10293/8)
-- [Self Types](https://discuss.kotlinlang.org/t/self-types/371/74)
-- [Extension function whose name is stored in a variable](https://discuss.kotlinlang.org/t/extension-function-whose-name-is-stored-in-a-variable/20856/9)
-- [Extension function whose name is stored in a variable](https://discuss.kotlinlang.org/t/extension-function-whose-name-is-stored-in-a-variable/20856/8)
+- [Cancelling a suspended function via a CompletableJob](https://discuss.kotlinlang.org/t/cancelling-a-suspended-function-via-a-completablejob/20866/2)
+- [Creating an escaped JSON string from a Kotlin object](https://discuss.kotlinlang.org/t/creating-an-escaped-json-string-from-a-kotlin-object/20852/4)
+- [NullPointerException by design or bug?](https://discuss.kotlinlang.org/t/nullpointerexception-by-design-or-bug/20869/4)
+- [Creating an escaped JSON string from a Kotlin object](https://discuss.kotlinlang.org/t/creating-an-escaped-json-string-from-a-kotlin-object/20852/3)
+- [NullPointerException by design or bug?](https://discuss.kotlinlang.org/t/nullpointerexception-by-design-or-bug/20869/3)
+- [Extension function whose name is stored in a variable](https://discuss.kotlinlang.org/t/extension-function-whose-name-is-stored-in-a-variable/20856/12)
+- [NullPointerException by design or bug?](https://discuss.kotlinlang.org/t/nullpointerexception-by-design-or-bug/20869/2)
+- [NullPointerException by design or bug?](https://discuss.kotlinlang.org/t/nullpointerexception-by-design-or-bug/20869/1)
+- [Extension function whose name is stored in a variable](https://discuss.kotlinlang.org/t/extension-function-whose-name-is-stored-in-a-variable/20856/11)
+- [Cancelling a suspended function via a CompletableJob](https://discuss.kotlinlang.org/t/cancelling-a-suspended-function-via-a-completablejob/20866/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
