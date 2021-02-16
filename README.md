@@ -257,16 +257,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Cancelling a suspended function via a CompletableJob](https://discuss.kotlinlang.org/t/cancelling-a-suspended-function-via-a-completablejob/20866/2)
-- [Creating an escaped JSON string from a Kotlin object](https://discuss.kotlinlang.org/t/creating-an-escaped-json-string-from-a-kotlin-object/20852/4)
-- [NullPointerException by design or bug?](https://discuss.kotlinlang.org/t/nullpointerexception-by-design-or-bug/20869/4)
-- [Creating an escaped JSON string from a Kotlin object](https://discuss.kotlinlang.org/t/creating-an-escaped-json-string-from-a-kotlin-object/20852/3)
-- [NullPointerException by design or bug?](https://discuss.kotlinlang.org/t/nullpointerexception-by-design-or-bug/20869/3)
-- [Extension function whose name is stored in a variable](https://discuss.kotlinlang.org/t/extension-function-whose-name-is-stored-in-a-variable/20856/12)
-- [NullPointerException by design or bug?](https://discuss.kotlinlang.org/t/nullpointerexception-by-design-or-bug/20869/2)
-- [NullPointerException by design or bug?](https://discuss.kotlinlang.org/t/nullpointerexception-by-design-or-bug/20869/1)
-- [Extension function whose name is stored in a variable](https://discuss.kotlinlang.org/t/extension-function-whose-name-is-stored-in-a-variable/20856/11)
-- [Cancelling a suspended function via a CompletableJob](https://discuss.kotlinlang.org/t/cancelling-a-suspended-function-via-a-completablejob/20866/1)
+- [Debug Kotlin/JS when running on NodeJS](https://discuss.kotlinlang.org/t/debug-kotlin-js-when-running-on-nodejs/20885/2)
+- [How to set freeCompilerArgs for common files](https://discuss.kotlinlang.org/t/how-to-set-freecompilerargs-for-common-files/20874/2)
+- [Kotlin's default visibility should be internal](https://discuss.kotlinlang.org/t/kotlins-default-visibility-should-be-internal/1400/36)
+- [JS IR compiler not compatible with kotlinx.serialization?](https://discuss.kotlinlang.org/t/js-ir-compiler-not-compatible-with-kotlinx-serialization/20789/7)
+- [Debug Kotlin/JS when running on NodeJS](https://discuss.kotlinlang.org/t/debug-kotlin-js-when-running-on-nodejs/20885/1)
+- [What number is assigned to type field during Protobuf serialization?](https://discuss.kotlinlang.org/t/what-number-is-assigned-to-type-field-during-protobuf-serialization/20883/3)
+- [JS IR compiler not compatible with kotlinx.serialization?](https://discuss.kotlinlang.org/t/js-ir-compiler-not-compatible-with-kotlinx-serialization/20789/6)
+- [Cancelling a suspended function via a CompletableJob](https://discuss.kotlinlang.org/t/cancelling-a-suspended-function-via-a-completablejob/20866/4)
+- [What number is assigned to type field during Protobuf serialization?](https://discuss.kotlinlang.org/t/what-number-is-assigned-to-type-field-during-protobuf-serialization/20883/2)
+- [What number is assigned to type field during Protobuf serialization?](https://discuss.kotlinlang.org/t/what-number-is-assigned-to-type-field-during-protobuf-serialization/20883/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
