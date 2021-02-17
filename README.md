@@ -257,16 +257,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Debug Kotlin/JS when running on NodeJS](https://discuss.kotlinlang.org/t/debug-kotlin-js-when-running-on-nodejs/20885/2)
-- [How to set freeCompilerArgs for common files](https://discuss.kotlinlang.org/t/how-to-set-freecompilerargs-for-common-files/20874/2)
-- [Kotlin's default visibility should be internal](https://discuss.kotlinlang.org/t/kotlins-default-visibility-should-be-internal/1400/36)
-- [JS IR compiler not compatible with kotlinx.serialization?](https://discuss.kotlinlang.org/t/js-ir-compiler-not-compatible-with-kotlinx-serialization/20789/7)
-- [Debug Kotlin/JS when running on NodeJS](https://discuss.kotlinlang.org/t/debug-kotlin-js-when-running-on-nodejs/20885/1)
-- [What number is assigned to type field during Protobuf serialization?](https://discuss.kotlinlang.org/t/what-number-is-assigned-to-type-field-during-protobuf-serialization/20883/3)
-- [JS IR compiler not compatible with kotlinx.serialization?](https://discuss.kotlinlang.org/t/js-ir-compiler-not-compatible-with-kotlinx-serialization/20789/6)
-- [Cancelling a suspended function via a CompletableJob](https://discuss.kotlinlang.org/t/cancelling-a-suspended-function-via-a-completablejob/20866/4)
-- [What number is assigned to type field during Protobuf serialization?](https://discuss.kotlinlang.org/t/what-number-is-assigned-to-type-field-during-protobuf-serialization/20883/2)
-- [What number is assigned to type field during Protobuf serialization?](https://discuss.kotlinlang.org/t/what-number-is-assigned-to-type-field-during-protobuf-serialization/20883/1)
+- [Deserializing map with non-serializable objects](https://discuss.kotlinlang.org/t/deserializing-map-with-non-serializable-objects/20901/1)
+- [Self Types](https://discuss.kotlinlang.org/t/self-types/371/76)
+- [Union types](https://discuss.kotlinlang.org/t/union-types/77/113)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/9)
+- [Doodle - A pure Kotlin, UI framework for the Web](https://discuss.kotlinlang.org/t/doodle-a-pure-kotlin-ui-framework-for-the-web/18099/8)
+- [Dividing Integers](https://discuss.kotlinlang.org/t/dividing-integers/1662/7)
+- [Dividing Integers](https://discuss.kotlinlang.org/t/dividing-integers/1662/6)
+- [I need help](https://discuss.kotlinlang.org/t/i-need-help/20893/4)
+- [I need help](https://discuss.kotlinlang.org/t/i-need-help/20893/3)
+- [I need help](https://discuss.kotlinlang.org/t/i-need-help/20893/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
