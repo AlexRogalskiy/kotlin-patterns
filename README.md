@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [So, is Rx dead?](https://www.reddit.com/r/Kotlin/comments/lli1dn/so_is_rx_dead/)
+- [How do I (functionally) take a function that returns an Int value, run it multiple times, and collect the results to a List?](https://www.reddit.com/r/Kotlin/comments/llytnu/how_do_i_functionally_take_a_function_that/)
+- [Multik: Multidimensional Arrays in Kotlin](https://www.reddit.com/r/Kotlin/comments/llw9b1/multik_multidimensional_arrays_in_kotlin/)
+- [Upgrade time: Java 11+ or Kotlin? Talk by Paulien van Alst at GOTOpia](https://www.reddit.com/r/Kotlin/comments/llujg6/upgrade_time_java_11_or_kotlin_talk_by_paulien/)
+- [I made some extension properties/functions for iTextPDF](https://www.reddit.com/r/Kotlin/comments/llo1p9/i_made_some_extension_propertiesfunctions_for/)
 - [Confused on how to read Kotlin's documentation](https://www.reddit.com/r/Kotlin/comments/llhknv/confused_on_how_to_read_kotlins_documentation/)
 - [Newbie tips](https://www.reddit.com/r/Kotlin/comments/lle8vk/newbie_tips/)
 - [What can we expect from conversational AI in 2021 and beyond?](https://www.reddit.com/r/Kotlin/comments/llb2xp/what_can_we_expect_from_conversational_ai_in_2021/)
 - [Data Integrity: CRC with Kotlin on Android - QuickBird Studios Blog](https://www.reddit.com/r/Kotlin/comments/ll6wnj/data_integrity_crc_with_kotlin_on_android/)
 - [regex matches() / matchEntire() with offset?](https://www.reddit.com/r/Kotlin/comments/ll5fy4/regex_matches_matchentire_with_offset/)
 - [FlexBuffers Serialization on Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/ll0igf/flexbuffers_serialization_on_kotlin_multiplatform/)
-- [A suggestion about TornadoFx](https://www.reddit.com/r/Kotlin/comments/lkzwvn/a_suggestion_about_tornadofx/)
-- [JVM_IR ClassCastException: "String cannot be cast to class kotlin.Result"](https://www.reddit.com/r/Kotlin/comments/lkspdg/jvm_ir_classcastexception_string_cannot_be_cast/)
-- [Up to Date Resources for Learning Arrow / More Functional Kotlin](https://www.reddit.com/r/Kotlin/comments/lkravt/up_to_date_resources_for_learning_arrow_more/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
@@ -264,16 +264,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Deserializing map with non-serializable objects](https://discuss.kotlinlang.org/t/deserializing-map-with-non-serializable-objects/20901/1)
-- [Self Types](https://discuss.kotlinlang.org/t/self-types/371/76)
-- [Union types](https://discuss.kotlinlang.org/t/union-types/77/113)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/9)
-- [Doodle - A pure Kotlin, UI framework for the Web](https://discuss.kotlinlang.org/t/doodle-a-pure-kotlin-ui-framework-for-the-web/18099/8)
-- [Dividing Integers](https://discuss.kotlinlang.org/t/dividing-integers/1662/7)
-- [Dividing Integers](https://discuss.kotlinlang.org/t/dividing-integers/1662/6)
-- [I need help](https://discuss.kotlinlang.org/t/i-need-help/20893/4)
-- [I need help](https://discuss.kotlinlang.org/t/i-need-help/20893/3)
-- [I need help](https://discuss.kotlinlang.org/t/i-need-help/20893/2)
+- [Kotlin 1.4.30 issue](https://discuss.kotlinlang.org/t/kotlin-1-4-30-issue/20917/1)
+- [Union types](https://discuss.kotlinlang.org/t/union-types/77/115)
+- [Current intersection-type options in Kotlin](https://discuss.kotlinlang.org/t/current-intersection-type-options-in-kotlin/20903/6)
+- [Deep copy of list should be simplified](https://discuss.kotlinlang.org/t/deep-copy-of-list-should-be-simplified/15458/8)
+- [I need help - ++i, i++ and where to use it](https://discuss.kotlinlang.org/t/i-need-help-i-i-and-where-to-use-it/20893/6)
+- [Current intersection-type options in Kotlin](https://discuss.kotlinlang.org/t/current-intersection-type-options-in-kotlin/20903/5)
+- [Self Types](https://discuss.kotlinlang.org/t/self-types/371/77)
+- [Union types](https://discuss.kotlinlang.org/t/union-types/77/114)
+- [1.4.30 kotlin language feature Sealed interfaces](https://discuss.kotlinlang.org/t/1-4-30-kotlin-language-feature-sealed-interfaces/20905/3)
+- [I need help - ++i, i++ and where to use it](https://discuss.kotlinlang.org/t/i-need-help-i-i-and-where-to-use-it/20893/5)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
