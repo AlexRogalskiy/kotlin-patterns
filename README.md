@@ -336,6 +336,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [The User Experience of Compose and Flow](https://talkingkotlin.com/compose-and-flow/)
 <!-- TALKINGKOTLIN-POST-LIST:END -->
 
+---
+
+[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown&style=for-the-badge)](https://www.markdownguide.org/)
+[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook&style=for-the-badge)](https://www.gitbook.com/)
+[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart&style=for-the-badge)](https://forthebadge.com/)
+
+
   [repo]:           https://github.com/AlexRogalskiy/kotlin-patterns
   [tags]:           https://github.com/AlexRogalskiy/kotlin-patterns/tags
   [issues]:         https://github.com/AlexRogalskiy/kotlin-patterns/issues
