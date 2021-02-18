@@ -238,16 +238,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [So, is Rx dead?](https://www.reddit.com/r/Kotlin/comments/lli1dn/so_is_rx_dead/)
+- [How do I (functionally) take a function that returns an Int value, run it multiple times, and collect the results to a List?](https://www.reddit.com/r/Kotlin/comments/llytnu/how_do_i_functionally_take_a_function_that/)
+- [Multik: Multidimensional Arrays in Kotlin](https://www.reddit.com/r/Kotlin/comments/llw9b1/multik_multidimensional_arrays_in_kotlin/)
+- [Upgrade time: Java 11+ or Kotlin? Talk by Paulien van Alst at GOTOpia](https://www.reddit.com/r/Kotlin/comments/llujg6/upgrade_time_java_11_or_kotlin_talk_by_paulien/)
+- [I made some extension properties/functions for iTextPDF](https://www.reddit.com/r/Kotlin/comments/llo1p9/i_made_some_extension_propertiesfunctions_for/)
 - [Confused on how to read Kotlin's documentation](https://www.reddit.com/r/Kotlin/comments/llhknv/confused_on_how_to_read_kotlins_documentation/)
 - [Newbie tips](https://www.reddit.com/r/Kotlin/comments/lle8vk/newbie_tips/)
 - [What can we expect from conversational AI in 2021 and beyond?](https://www.reddit.com/r/Kotlin/comments/llb2xp/what_can_we_expect_from_conversational_ai_in_2021/)
 - [Data Integrity: CRC with Kotlin on Android - QuickBird Studios Blog](https://www.reddit.com/r/Kotlin/comments/ll6wnj/data_integrity_crc_with_kotlin_on_android/)
 - [regex matches() / matchEntire() with offset?](https://www.reddit.com/r/Kotlin/comments/ll5fy4/regex_matches_matchentire_with_offset/)
 - [FlexBuffers Serialization on Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/ll0igf/flexbuffers_serialization_on_kotlin_multiplatform/)
-- [A suggestion about TornadoFx](https://www.reddit.com/r/Kotlin/comments/lkzwvn/a_suggestion_about_tornadofx/)
-- [JVM_IR ClassCastException: "String cannot be cast to class kotlin.Result"](https://www.reddit.com/r/Kotlin/comments/lkspdg/jvm_ir_classcastexception_string_cannot_be_cast/)
-- [Up to Date Resources for Learning Arrow / More Functional Kotlin](https://www.reddit.com/r/Kotlin/comments/lkravt/up_to_date_resources_for_learning_arrow_more/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
