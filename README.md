@@ -263,16 +263,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Deserializing map with non-serializable objects](https://discuss.kotlinlang.org/t/deserializing-map-with-non-serializable-objects/20901/1)
-- [Self Types](https://discuss.kotlinlang.org/t/self-types/371/76)
-- [Union types](https://discuss.kotlinlang.org/t/union-types/77/113)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/9)
-- [Doodle - A pure Kotlin, UI framework for the Web](https://discuss.kotlinlang.org/t/doodle-a-pure-kotlin-ui-framework-for-the-web/18099/8)
-- [Dividing Integers](https://discuss.kotlinlang.org/t/dividing-integers/1662/7)
-- [Dividing Integers](https://discuss.kotlinlang.org/t/dividing-integers/1662/6)
-- [I need help](https://discuss.kotlinlang.org/t/i-need-help/20893/4)
-- [I need help](https://discuss.kotlinlang.org/t/i-need-help/20893/3)
-- [I need help](https://discuss.kotlinlang.org/t/i-need-help/20893/2)
+- [Kotlin 1.4.30 issue](https://discuss.kotlinlang.org/t/kotlin-1-4-30-issue/20917/1)
+- [Union types](https://discuss.kotlinlang.org/t/union-types/77/115)
+- [Current intersection-type options in Kotlin](https://discuss.kotlinlang.org/t/current-intersection-type-options-in-kotlin/20903/6)
+- [Deep copy of list should be simplified](https://discuss.kotlinlang.org/t/deep-copy-of-list-should-be-simplified/15458/8)
+- [I need help - ++i, i++ and where to use it](https://discuss.kotlinlang.org/t/i-need-help-i-i-and-where-to-use-it/20893/6)
+- [Current intersection-type options in Kotlin](https://discuss.kotlinlang.org/t/current-intersection-type-options-in-kotlin/20903/5)
+- [Self Types](https://discuss.kotlinlang.org/t/self-types/371/77)
+- [Union types](https://discuss.kotlinlang.org/t/union-types/77/114)
+- [1.4.30 kotlin language feature Sealed interfaces](https://discuss.kotlinlang.org/t/1-4-30-kotlin-language-feature-sealed-interfaces/20905/3)
+- [I need help - ++i, i++ and where to use it](https://discuss.kotlinlang.org/t/i-need-help-i-i-and-where-to-use-it/20893/5)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
