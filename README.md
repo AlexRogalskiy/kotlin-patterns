@@ -265,6 +265,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/11)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/10)
 - [Kotlin 1.4.30 issue](https://discuss.kotlinlang.org/t/kotlin-1-4-30-issue/20917/1)
 - [Union types](https://discuss.kotlinlang.org/t/union-types/77/115)
 - [Current intersection-type options in Kotlin](https://discuss.kotlinlang.org/t/current-intersection-type-options-in-kotlin/20903/6)
@@ -273,8 +275,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Current intersection-type options in Kotlin](https://discuss.kotlinlang.org/t/current-intersection-type-options-in-kotlin/20903/5)
 - [Self Types](https://discuss.kotlinlang.org/t/self-types/371/77)
 - [Union types](https://discuss.kotlinlang.org/t/union-types/77/114)
-- [1.4.30 kotlin language feature Sealed interfaces](https://discuss.kotlinlang.org/t/1-4-30-kotlin-language-feature-sealed-interfaces/20905/3)
-- [I need help - ++i, i++ and where to use it](https://discuss.kotlinlang.org/t/i-need-help-i-i-and-where-to-use-it/20893/5)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
