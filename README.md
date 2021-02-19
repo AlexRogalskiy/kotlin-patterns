@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I have worked through the Kotlin Koans a couple of times. I really enjoyed the collections exercises. Is there anything else out there that's similar?](https://www.reddit.com/r/Kotlin/comments/ln1yt8/i_have_worked_through_the_kotlin_koans_a_couple/)
+- [Kotlin on Cryptocurrencies and Blockchain](https://www.reddit.com/r/Kotlin/comments/lmw9jk/kotlin_on_cryptocurrencies_and_blockchain/)
+- [-9223372036854775808 Is an Int?](https://www.reddit.com/r/Kotlin/comments/lms8v5/9223372036854775808_is_an_int/)
+- [Hi, need some help. When using EditText my app crashes when there is no user input. My "isEmpty()" isnt working. Ive tried TextUtils.isEmpty(), I've tried inputMinutes.text.toString().length() == 0 (cant seem to use length() here), and other things but no luck yet. Any idea?](https://www.reddit.com/r/Kotlin/comments/lmqzze/hi_need_some_help_when_using_edittext_my_app/)
+- [Serializing and deserializing "Any" Kotlin type using jackson mapper](https://www.reddit.com/r/Kotlin/comments/lmkz0c/serializing_and_deserializing_any_kotlin_type/)
+- [Kotlin chatbot](https://www.reddit.com/r/Kotlin/comments/lmk7iy/kotlin_chatbot/)
+- [Can't multiply two Float together?](https://www.reddit.com/r/Kotlin/comments/lmj0z6/cant_multiply_two_float_together/)
+- [Quick testing tips #2 - test method names in Junit5](https://www.reddit.com/r/Kotlin/comments/lmit9u/quick_testing_tips_2_test_method_names_in_junit5/)
 - [How do I (functionally) take a function that returns an Int value, run it multiple times, and collect the results to a List?](https://www.reddit.com/r/Kotlin/comments/llytnu/how_do_i_functionally_take_a_function_that/)
 - [Multik: Multidimensional Arrays in Kotlin](https://www.reddit.com/r/Kotlin/comments/llw9b1/multik_multidimensional_arrays_in_kotlin/)
-- [Upgrade time: Java 11+ or Kotlin? Talk by Paulien van Alst at GOTOpia](https://www.reddit.com/r/Kotlin/comments/llujg6/upgrade_time_java_11_or_kotlin_talk_by_paulien/)
-- [I made some extension properties/functions for iTextPDF](https://www.reddit.com/r/Kotlin/comments/llo1p9/i_made_some_extension_propertiesfunctions_for/)
-- [Confused on how to read Kotlin's documentation](https://www.reddit.com/r/Kotlin/comments/llhknv/confused_on_how_to_read_kotlins_documentation/)
-- [Newbie tips](https://www.reddit.com/r/Kotlin/comments/lle8vk/newbie_tips/)
-- [What can we expect from conversational AI in 2021 and beyond?](https://www.reddit.com/r/Kotlin/comments/llb2xp/what_can_we_expect_from_conversational_ai_in_2021/)
-- [Data Integrity: CRC with Kotlin on Android - QuickBird Studios Blog](https://www.reddit.com/r/Kotlin/comments/ll6wnj/data_integrity_crc_with_kotlin_on_android/)
-- [regex matches() / matchEntire() with offset?](https://www.reddit.com/r/Kotlin/comments/ll5fy4/regex_matches_matchentire_with_offset/)
-- [FlexBuffers Serialization on Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/ll0igf/flexbuffers_serialization_on_kotlin_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
