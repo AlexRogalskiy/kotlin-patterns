@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [[Solved] Kotlin compilation StackOverflow Failure](https://discuss.kotlinlang.org/t/solved-kotlin-compilation-stackoverflow-failure/20614/3)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/36)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/35)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/34)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/33)
+- [How to enable Foreground in Fragment?](https://discuss.kotlinlang.org/t/how-to-enable-foreground-in-fragment/20928/1)
+- [Is there standard way to use multiple resources?](https://discuss.kotlinlang.org/t/is-there-standard-way-to-use-multiple-resources/2613/6)
 - [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/11)
 - [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/10)
 - [Kotlin 1.4.30 issue](https://discuss.kotlinlang.org/t/kotlin-1-4-30-issue/20917/1)
-- [Union types](https://discuss.kotlinlang.org/t/union-types/77/115)
-- [Current intersection-type options in Kotlin](https://discuss.kotlinlang.org/t/current-intersection-type-options-in-kotlin/20903/6)
-- [Deep copy of list should be simplified](https://discuss.kotlinlang.org/t/deep-copy-of-list-should-be-simplified/15458/8)
-- [I need help - ++i, i++ and where to use it](https://discuss.kotlinlang.org/t/i-need-help-i-i-and-where-to-use-it/20893/6)
-- [Current intersection-type options in Kotlin](https://discuss.kotlinlang.org/t/current-intersection-type-options-in-kotlin/20903/5)
-- [Self Types](https://discuss.kotlinlang.org/t/self-types/371/77)
-- [Union types](https://discuss.kotlinlang.org/t/union-types/77/114)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
