@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why my date formatters test fails in CI yet works locally? Story of debugging Android project build pipeline.](https://www.reddit.com/r/Kotlin/comments/lo9rr5/why_my_date_formatters_test_fails_in_ci_yet_works/)
+- [Unit Testing as a 1st-class Citizen](https://www.reddit.com/r/Kotlin/comments/lo6hd5/unit_testing_as_a_1stclass_citizen/)
+- [Code convention best practices for Kotlin with Spring Boot?](https://www.reddit.com/r/Kotlin/comments/lo3pdl/code_convention_best_practices_for_kotlin_with/)
+- [Should I be putting data classes inside objects?](https://www.reddit.com/r/Kotlin/comments/lo0xw7/should_i_be_putting_data_classes_inside_objects/)
+- [I made an IntelliJ plugin that converts Groovy DSL dependencies to the Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/lnpcwu/i_made_an_intellij_plugin_that_converts_groovy/)
 - [Classified ads app with kotlin](https://www.reddit.com/r/Kotlin/comments/lnp9u3/classified_ads_app_with_kotlin/)
 - [Different Approaches in Consuming KMM Modules in iOS](https://www.reddit.com/r/Kotlin/comments/lnj3d3/different_approaches_in_consuming_kmm_modules_in/)
-- [Encrypted shared preferences](https://www.reddit.com/r/Kotlin/comments/lnhnkd/encrypted_shared_preferences/)
 - [I've started to learn kotlin, are there any resources that are "musts" to read/look into?](https://www.reddit.com/r/Kotlin/comments/lnegtn/ive_started_to_learn_kotlin_are_there_any/)
 - [Java Programming: Complete Beginner to Advanced](https://www.reddit.com/r/Kotlin/comments/lneaw2/java_programming_complete_beginner_to_advanced/)
 - [Performance tunning recommendation for Old GC](https://www.reddit.com/r/Kotlin/comments/ln8lwg/performance_tunning_recommendation_for_old_gc/)
-- [Extending abstract class with another abstract class](https://www.reddit.com/r/Kotlin/comments/ln5c8c/extending_abstract_class_with_another_abstract/)
-- [I have worked through the Kotlin Koans a couple of times. I really enjoyed the collections exercises. Is there anything else out there that's similar?](https://www.reddit.com/r/Kotlin/comments/ln1yt8/i_have_worked_through_the_kotlin_koans_a_couple/)
-- [Kotlin on Cryptocurrencies and Blockchain](https://www.reddit.com/r/Kotlin/comments/lmw9jk/kotlin_on_cryptocurrencies_and_blockchain/)
-- [-9223372036854775808 Is an Int?](https://www.reddit.com/r/Kotlin/comments/lms8v5/9223372036854775808_is_an_int/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
