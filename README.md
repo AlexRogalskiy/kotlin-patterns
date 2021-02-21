@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Implement instantaneous non-semantic syntax highlighting](https://discuss.kotlinlang.org/t/implement-instantaneous-non-semantic-syntax-highlighting/20937/1)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/39)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/38)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/37)
+- [Cancelling a suspended function via a CompletableJob](https://discuss.kotlinlang.org/t/cancelling-a-suspended-function-via-a-completablejob/20866/5)
 - [[Solved] Kotlin compilation StackOverflow Failure](https://discuss.kotlinlang.org/t/solved-kotlin-compilation-stackoverflow-failure/20614/3)
 - [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/36)
 - [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/35)
 - [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/34)
 - [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/33)
-- [How to enable Foreground in Fragment?](https://discuss.kotlinlang.org/t/how-to-enable-foreground-in-fragment/20928/1)
-- [Is there standard way to use multiple resources?](https://discuss.kotlinlang.org/t/is-there-standard-way-to-use-multiple-resources/2613/6)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/11)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/10)
-- [Kotlin 1.4.30 issue](https://discuss.kotlinlang.org/t/kotlin-1-4-30-issue/20917/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
