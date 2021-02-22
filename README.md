@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why my date formatters test fails in CI yet works locally? Story of debugging Android project build pipeline.](https://www.reddit.com/r/Kotlin/comments/lo9rr5/why_my_date_formatters_test_fails_in_ci_yet_works/)
+- [Dear ImGui binding: imgui-java. Updated to v1.81.0](https://www.reddit.com/r/Kotlin/comments/lp64it/dear_imgui_binding_imguijava_updated_to_v1810/)
+- [Why doesn't Kotlin support inheritance with data classes?](https://www.reddit.com/r/Kotlin/comments/lp3vln/why_doesnt_kotlin_support_inheritance_with_data/)
+- [Build A 2FA Server With Kotlin and Ktor](https://www.reddit.com/r/Kotlin/comments/lozmcv/build_a_2fa_server_with_kotlin_and_ktor/)
+- [Cloud Firestore🔥 with Kotlin Coroutines and Flow API](https://www.reddit.com/r/Kotlin/comments/losjon/cloud_firestore_with_kotlin_coroutines_and_flow/)
+- [How does android frontend work with kotlin?](https://www.reddit.com/r/Kotlin/comments/lonnd6/how_does_android_frontend_work_with_kotlin/)
 - [Unit Testing as a 1st-class Citizen](https://www.reddit.com/r/Kotlin/comments/lo6hd5/unit_testing_as_a_1stclass_citizen/)
 - [Code convention best practices for Kotlin with Spring Boot?](https://www.reddit.com/r/Kotlin/comments/lo3pdl/code_convention_best_practices_for_kotlin_with/)
 - [Should I be putting data classes inside objects?](https://www.reddit.com/r/Kotlin/comments/lo0xw7/should_i_be_putting_data_classes_inside_objects/)
 - [I made an IntelliJ plugin that converts Groovy DSL dependencies to the Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/lnpcwu/i_made_an_intellij_plugin_that_converts_groovy/)
 - [Classified ads app with kotlin](https://www.reddit.com/r/Kotlin/comments/lnp9u3/classified_ads_app_with_kotlin/)
-- [Different Approaches in Consuming KMM Modules in iOS](https://www.reddit.com/r/Kotlin/comments/lnj3d3/different_approaches_in_consuming_kmm_modules_in/)
-- [I've started to learn kotlin, are there any resources that are "musts" to read/look into?](https://www.reddit.com/r/Kotlin/comments/lnegtn/ive_started_to_learn_kotlin_are_there_any/)
-- [Java Programming: Complete Beginner to Advanced](https://www.reddit.com/r/Kotlin/comments/lneaw2/java_programming_complete_beginner_to_advanced/)
-- [Performance tunning recommendation for Old GC](https://www.reddit.com/r/Kotlin/comments/ln8lwg/performance_tunning_recommendation_for_old_gc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
