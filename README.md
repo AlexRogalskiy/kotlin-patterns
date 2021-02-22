@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Try Ktorm, a lightweight ORM Framework for Kotlin with strong-typed SQL DSL and sequence APIs](https://discuss.kotlinlang.org/t/try-ktorm-a-lightweight-orm-framework-for-kotlin-with-strong-typed-sql-dsl-and-sequence-apis/13053/6)
+- [Lateinit property readAllData has not been initialized and Cannot create an instance of class com.example.votestatistics.data.UserViewModel](https://discuss.kotlinlang.org/t/lateinit-property-readalldata-has-not-been-initialized-and-cannot-create-an-instance-of-class-com-example-votestatistics-data-userviewmodel/20942/1)
+- [Try Ktorm, a lightweight ORM Framework for Kotlin with strong-typed SQL DSL and sequence APIs](https://discuss.kotlinlang.org/t/try-ktorm-a-lightweight-orm-framework-for-kotlin-with-strong-typed-sql-dsl-and-sequence-apis/13053/5)
+- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/1)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/43)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/42)
+- [Try Ktorm, a lightweight ORM Framework for Kotlin with strong-typed SQL DSL and sequence APIs](https://discuss.kotlinlang.org/t/try-ktorm-a-lightweight-orm-framework-for-kotlin-with-strong-typed-sql-dsl-and-sequence-apis/13053/4)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/41)
+- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/40)
 - [Implement instantaneous non-semantic syntax highlighting](https://discuss.kotlinlang.org/t/implement-instantaneous-non-semantic-syntax-highlighting/20937/1)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/39)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/38)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/37)
-- [Cancelling a suspended function via a CompletableJob](https://discuss.kotlinlang.org/t/cancelling-a-suspended-function-via-a-completablejob/20866/5)
-- [[Solved] Kotlin compilation StackOverflow Failure](https://discuss.kotlinlang.org/t/solved-kotlin-compilation-stackoverflow-failure/20614/3)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/36)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/35)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/34)
-- [Inline classes: 'var' to be deprecated?](https://discuss.kotlinlang.org/t/inline-classes-var-to-be-deprecated/20762/33)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
