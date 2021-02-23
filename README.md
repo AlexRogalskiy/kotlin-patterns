@@ -240,6 +240,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hello guys, so I'm having this issue inside of my kotlin app. The issue is that I have a seekbar that works on mediaplayer inside a bottomsheet and it's works just fine but whenever I close the bottomsheet the seekbar goes to 100%.](https://www.reddit.com/r/Kotlin/comments/lq04va/hello_guys_so_im_having_this_issue_inside_of_my/)
 - [Dear ImGui binding: imgui-java. Updated to v1.81.0](https://www.reddit.com/r/Kotlin/comments/lp64it/dear_imgui_binding_imguijava_updated_to_v1810/)
 - [Why doesn't Kotlin support inheritance with data classes?](https://www.reddit.com/r/Kotlin/comments/lp3vln/why_doesnt_kotlin_support_inheritance_with_data/)
 - [Build A 2FA Server With Kotlin and Ktor](https://www.reddit.com/r/Kotlin/comments/lozmcv/build_a_2fa_server_with_kotlin_and_ktor/)
@@ -249,7 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Code convention best practices for Kotlin with Spring Boot?](https://www.reddit.com/r/Kotlin/comments/lo3pdl/code_convention_best_practices_for_kotlin_with/)
 - [Should I be putting data classes inside objects?](https://www.reddit.com/r/Kotlin/comments/lo0xw7/should_i_be_putting_data_classes_inside_objects/)
 - [I made an IntelliJ plugin that converts Groovy DSL dependencies to the Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/lnpcwu/i_made_an_intellij_plugin_that_converts_groovy/)
-- [Classified ads app with kotlin](https://www.reddit.com/r/Kotlin/comments/lnp9u3/classified_ads_app_with_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
