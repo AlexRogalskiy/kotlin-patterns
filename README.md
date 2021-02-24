@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hello guys, so I'm having this issue inside of my kotlin app. The issue is that I have a seekbar that works on mediaplayer inside a bottomsheet and it's works just fine but whenever I close the bottomsheet the seekbar goes to 100%.](https://www.reddit.com/r/Kotlin/comments/lq04va/hello_guys_so_im_having_this_issue_inside_of_my/)
+- [Batching results from flow](https://www.reddit.com/r/Kotlin/comments/lqvxfa/batching_results_from_flow/)
+- [Initialize TextView outside onCreate](https://www.reddit.com/r/Kotlin/comments/lqv1gi/initialize_textview_outside_oncreate/)
+- [What's your go-to web backend stack for 2021 ?](https://www.reddit.com/r/Kotlin/comments/lqs28l/whats_your_goto_web_backend_stack_for_2021/)
+- [My first Kotlin library - A PinView!](https://www.reddit.com/r/Kotlin/comments/lqh5xr/my_first_kotlin_library_a_pinview/)
+- [Jetpack Compose for Desktop: Milestone 3 Released](https://www.reddit.com/r/Kotlin/comments/lqgxde/jetpack_compose_for_desktop_milestone_3_released/)
+- [A new episode of Kotlin Standard Library Safari is out! This episode looks at handy ways to explore Kotlin code on your own. Tricks from the video can be used to explore the Kotlin standard library or Kotlin code in general. 🔍🗺️ Watch and subscribe!](https://www.reddit.com/r/Kotlin/comments/lqes32/a_new_episode_of_kotlin_standard_library_safari/)
+- [Weedow Searchy 0.1.0 released](https://www.reddit.com/r/Kotlin/comments/lqdtxz/weedow_searchy_010_released/)
+- [Compiling Kotlin Coroutines for Linux Arm](https://www.reddit.com/r/Kotlin/comments/lq5o61/compiling_kotlin_coroutines_for_linux_arm/)
 - [Dear ImGui binding: imgui-java. Updated to v1.81.0](https://www.reddit.com/r/Kotlin/comments/lp64it/dear_imgui_binding_imguijava_updated_to_v1810/)
 - [Why doesn't Kotlin support inheritance with data classes?](https://www.reddit.com/r/Kotlin/comments/lp3vln/why_doesnt_kotlin_support_inheritance_with_data/)
-- [Build A 2FA Server With Kotlin and Ktor](https://www.reddit.com/r/Kotlin/comments/lozmcv/build_a_2fa_server_with_kotlin_and_ktor/)
-- [Cloud Firestore🔥 with Kotlin Coroutines and Flow API](https://www.reddit.com/r/Kotlin/comments/losjon/cloud_firestore_with_kotlin_coroutines_and_flow/)
-- [How does android frontend work with kotlin?](https://www.reddit.com/r/Kotlin/comments/lonnd6/how_does_android_frontend_work_with_kotlin/)
-- [Unit Testing as a 1st-class Citizen](https://www.reddit.com/r/Kotlin/comments/lo6hd5/unit_testing_as_a_1stclass_citizen/)
-- [Code convention best practices for Kotlin with Spring Boot?](https://www.reddit.com/r/Kotlin/comments/lo3pdl/code_convention_best_practices_for_kotlin_with/)
-- [Should I be putting data classes inside objects?](https://www.reddit.com/r/Kotlin/comments/lo0xw7/should_i_be_putting_data_classes_inside_objects/)
-- [I made an IntelliJ plugin that converts Groovy DSL dependencies to the Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/lnpcwu/i_made_an_intellij_plugin_that_converts_groovy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
