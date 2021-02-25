@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Working with a mutable list, build doesn't "end"](https://discuss.kotlinlang.org/t/working-with-a-mutable-list-build-doesnt-end/20962/1)
-- [Enum class accessing static members with redundant qualifier yields unexpected results](https://discuss.kotlinlang.org/t/enum-class-accessing-static-members-with-redundant-qualifier-yields-unexpected-results/20960/2)
-- [Enum class accessing static members with redundant qualifier yields unexpected results](https://discuss.kotlinlang.org/t/enum-class-accessing-static-members-with-redundant-qualifier-yields-unexpected-results/20960/1)
-- [How to validate if a data class is not null](https://discuss.kotlinlang.org/t/how-to-validate-if-a-data-class-is-not-null/20953/11)
-- [Is there any common approach to generate Kotlin multiplatfom data classes with validation annotations like JAXB+JSR303 in Java?](https://discuss.kotlinlang.org/t/is-there-any-common-approach-to-generate-kotlin-multiplatfom-data-classes-with-validation-annotations-like-jaxb-jsr303-in-java/20956/1)
-- [How to validate if a data class is not null](https://discuss.kotlinlang.org/t/how-to-validate-if-a-data-class-is-not-null/20953/10)
-- [How to validate if a data class is not null](https://discuss.kotlinlang.org/t/how-to-validate-if-a-data-class-is-not-null/20953/9)
-- [How to validate if a data class is not null](https://discuss.kotlinlang.org/t/how-to-validate-if-a-data-class-is-not-null/20953/8)
-- [How to validate if a data class is not null](https://discuss.kotlinlang.org/t/how-to-validate-if-a-data-class-is-not-null/20953/7)
-- [How to validate if a data class is not null](https://discuss.kotlinlang.org/t/how-to-validate-if-a-data-class-is-not-null/20953/6)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/12)
+- [IDE compile is seeing multiple actual types?](https://discuss.kotlinlang.org/t/ide-compile-is-seeing-multiple-actual-types/20976/1)
+- [Wondering about Grails with Kotlin](https://discuss.kotlinlang.org/t/wondering-about-grails-with-kotlin/19110/10)
+- [Try Konad. Monads composition API that just works. For OOP developers](https://discuss.kotlinlang.org/t/try-konad-monads-composition-api-that-just-works-for-oop-developers/20973/1)
+- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/9)
+- [Enum class accessing static members with redundant qualifier yields unexpected results](https://discuss.kotlinlang.org/t/enum-class-accessing-static-members-with-redundant-qualifier-yields-unexpected-results/20960/3)
+- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/8)
+- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/7)
+- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/6)
+- [Publish multiplatform lib to Maven Central, Invalid publication 'js': multiple artifacts with the identical extension and classifier](https://discuss.kotlinlang.org/t/publish-multiplatform-lib-to-maven-central-invalid-publication-js-multiple-artifacts-with-the-identical-extension-and-classifier/20949/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
