@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Custom KotlinX Serializers](https://www.reddit.com/r/Kotlin/comments/lrs9v2/custom_kotlinx_serializers/)
+- [How about using coroutine GlobalScope.launch besides Spring @Async annotation?](https://www.reddit.com/r/Kotlin/comments/lrrl2f/how_about_using_coroutine_globalscopelaunch/)
+- [Hashmap](https://www.reddit.com/r/Kotlin/comments/lrohk4/hashmap/)
+- [Announcing Jetpack Compose Beta!](https://www.reddit.com/r/Kotlin/comments/lrifxo/announcing_jetpack_compose_beta/)
+- [Easier Spotify authorization and broadcast receivers on Android with spotify-web-api-kotlin](https://www.reddit.com/r/Kotlin/comments/lre8ix/easier_spotify_authorization_and_broadcast/)
+- [Feedback on Kotlinification of BoofCV, a Java computer vision library.](https://www.reddit.com/r/Kotlin/comments/lrd7u9/feedback_on_kotlinification_of_boofcv_a_java/)
+- [How We Test Concurrent Primitives in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/lrbof0/how_we_test_concurrent_primitives_in_kotlin/)
+- [I made a macOS app that helps programmers do autocomplete code snippets of a lot of programming languages better out of box without context switching.](https://www.reddit.com/r/Kotlin/comments/lr7p1t/i_made_a_macos_app_that_helps_programmers_do/)
 - [Batching results from flow](https://www.reddit.com/r/Kotlin/comments/lqvxfa/batching_results_from_flow/)
 - [Initialize TextView outside onCreate](https://www.reddit.com/r/Kotlin/comments/lqv1gi/initialize_textview_outside_oncreate/)
-- [What's your go-to web backend stack for 2021 ?](https://www.reddit.com/r/Kotlin/comments/lqs28l/whats_your_goto_web_backend_stack_for_2021/)
-- [My first Kotlin library - A PinView!](https://www.reddit.com/r/Kotlin/comments/lqh5xr/my_first_kotlin_library_a_pinview/)
-- [Jetpack Compose for Desktop: Milestone 3 Released](https://www.reddit.com/r/Kotlin/comments/lqgxde/jetpack_compose_for_desktop_milestone_3_released/)
-- [A new episode of Kotlin Standard Library Safari is out! This episode looks at handy ways to explore Kotlin code on your own. Tricks from the video can be used to explore the Kotlin standard library or Kotlin code in general. 🔍🗺️ Watch and subscribe!](https://www.reddit.com/r/Kotlin/comments/lqes32/a_new_episode_of_kotlin_standard_library_safari/)
-- [Weedow Searchy 0.1.0 released](https://www.reddit.com/r/Kotlin/comments/lqdtxz/weedow_searchy_010_released/)
-- [Compiling Kotlin Coroutines for Linux Arm](https://www.reddit.com/r/Kotlin/comments/lq5o61/compiling_kotlin_coroutines_for_linux_arm/)
-- [Dear ImGui binding: imgui-java. Updated to v1.81.0](https://www.reddit.com/r/Kotlin/comments/lp64it/dear_imgui_binding_imguijava_updated_to_v1810/)
-- [Why doesn't Kotlin support inheritance with data classes?](https://www.reddit.com/r/Kotlin/comments/lp3vln/why_doesnt_kotlin_support_inheritance_with_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
