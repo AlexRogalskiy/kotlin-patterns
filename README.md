@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Clean architecture + Vert X + Kotlin repos to recommend](https://www.reddit.com/r/Kotlin/comments/lslsg1/clean_architecture_vert_x_kotlin_repos_to/)
+- [New to Kotlin: How do I use this library?](https://www.reddit.com/r/Kotlin/comments/lsavrm/new_to_kotlin_how_do_i_use_this_library/)
+- [How do I use an npm module inside an android app with kotlin?](https://www.reddit.com/r/Kotlin/comments/lsadqu/how_do_i_use_an_npm_module_inside_an_android_app/)
+- [I'm stuck with understanding kotlinx-serialization](https://www.reddit.com/r/Kotlin/comments/ls703p/im_stuck_with_understanding_kotlinxserialization/)
+- [Introducing Kotlin Multiplatform in an existing project](https://www.reddit.com/r/Kotlin/comments/ls1b0t/introducing_kotlin_multiplatform_in_an_existing/)
 - [Custom KotlinX Serializers](https://www.reddit.com/r/Kotlin/comments/lrs9v2/custom_kotlinx_serializers/)
 - [How about using coroutine GlobalScope.launch besides Spring @Async annotation?](https://www.reddit.com/r/Kotlin/comments/lrrl2f/how_about_using_coroutine_globalscopelaunch/)
-- [Hashmap](https://www.reddit.com/r/Kotlin/comments/lrohk4/hashmap/)
 - [Announcing Jetpack Compose Beta!](https://www.reddit.com/r/Kotlin/comments/lrifxo/announcing_jetpack_compose_beta/)
 - [Easier Spotify authorization and broadcast receivers on Android with spotify-web-api-kotlin](https://www.reddit.com/r/Kotlin/comments/lre8ix/easier_spotify_authorization_and_broadcast/)
 - [Feedback on Kotlinification of BoofCV, a Java computer vision library.](https://www.reddit.com/r/Kotlin/comments/lrd7u9/feedback_on_kotlinification_of_boofcv_a_java/)
-- [How We Test Concurrent Primitives in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/lrbof0/how_we_test_concurrent_primitives_in_kotlin/)
-- [I made a macOS app that helps programmers do autocomplete code snippets of a lot of programming languages better out of box without context switching.](https://www.reddit.com/r/Kotlin/comments/lr7p1t/i_made_a_macos_app_that_helps_programmers_do/)
-- [Batching results from flow](https://www.reddit.com/r/Kotlin/comments/lqvxfa/batching_results_from_flow/)
-- [Initialize TextView outside onCreate](https://www.reddit.com/r/Kotlin/comments/lqv1gi/initialize_textview_outside_oncreate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
