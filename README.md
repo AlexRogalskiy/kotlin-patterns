@@ -265,8 +265,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Unit test report with project dependency not showing all tests](https://discuss.kotlinlang.org/t/unit-test-report-with-project-dependency-not-showing-all-tests/20986/1)
+- [Lighter weight declarative UI for Kotlin JS?](https://discuss.kotlinlang.org/t/lighter-weight-declarative-ui-for-kotlin-js/20985/1)
 - [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/12)
-- [IDE compile is seeing multiple actual types?](https://discuss.kotlinlang.org/t/ide-compile-is-seeing-multiple-actual-types/20976/1)
 - [Wondering about Grails with Kotlin](https://discuss.kotlinlang.org/t/wondering-about-grails-with-kotlin/19110/10)
 - [Try Konad. Monads composition API that just works. For OOP developers](https://discuss.kotlinlang.org/t/try-konad-monads-composition-api-that-just-works-for-oop-developers/20973/1)
 - [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/9)
@@ -274,7 +275,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/8)
 - [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/7)
 - [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/6)
-- [Publish multiplatform lib to Maven Central, Invalid publication 'js': multiple artifacts with the identical extension and classifier](https://discuss.kotlinlang.org/t/publish-multiplatform-lib-to-maven-central-invalid-publication-js-multiple-artifacts-with-the-identical-extension-and-classifier/20949/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
