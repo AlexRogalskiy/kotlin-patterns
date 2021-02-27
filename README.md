@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Unit test report with project dependency not showing all tests](https://discuss.kotlinlang.org/t/unit-test-report-with-project-dependency-not-showing-all-tests/20986/1)
-- [Lighter weight declarative UI for Kotlin JS?](https://discuss.kotlinlang.org/t/lighter-weight-declarative-ui-for-kotlin-js/20985/1)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/12)
-- [Wondering about Grails with Kotlin](https://discuss.kotlinlang.org/t/wondering-about-grails-with-kotlin/19110/10)
-- [Try Konad. Monads composition API that just works. For OOP developers](https://discuss.kotlinlang.org/t/try-konad-monads-composition-api-that-just-works-for-oop-developers/20973/1)
-- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/9)
-- [Enum class accessing static members with redundant qualifier yields unexpected results](https://discuss.kotlinlang.org/t/enum-class-accessing-static-members-with-redundant-qualifier-yields-unexpected-results/20960/3)
-- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/8)
-- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/7)
-- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/6)
+- [What are types of importing libraries?](https://discuss.kotlinlang.org/t/what-are-types-of-importing-libraries/20993/4)
+- [What are types of importing libraries?](https://discuss.kotlinlang.org/t/what-are-types-of-importing-libraries/20993/3)
+- [What are types of importing libraries?](https://discuss.kotlinlang.org/t/what-are-types-of-importing-libraries/20993/2)
+- [What are types of importing libraries?](https://discuss.kotlinlang.org/t/what-are-types-of-importing-libraries/20993/1)
+- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/6)
+- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/5)
+- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/4)
+- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/3)
+- [Reading socket inputstream hangs the whole program](https://discuss.kotlinlang.org/t/reading-socket-inputstream-hangs-the-whole-program/20988/3)
+- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
