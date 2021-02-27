@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Doodle TodoMVC](https://www.reddit.com/r/Kotlin/comments/lt171k/doodle_todomvc/)
+- [Companion Objects: Kotlin’s most unassuming power feature](https://www.reddit.com/r/Kotlin/comments/lt0v0a/companion_objects_kotlins_most_unassuming_power/)
+- [program hangs up at inputstream.readBytes()](https://www.reddit.com/r/Kotlin/comments/lstcvi/program_hangs_up_at_inputstreamreadbytes/)
+- [Kotlin in Action: DSLs](https://www.reddit.com/r/Kotlin/comments/lsq4ln/kotlin_in_action_dsls/)
+- [Any recommendations for someone trying to learn about reactive programming in Kotlin](https://www.reddit.com/r/Kotlin/comments/lspo8m/any_recommendations_for_someone_trying_to_learn/)
+- [Kotlin 1.4.31 is out](https://www.reddit.com/r/Kotlin/comments/lsml7z/kotlin_1431_is_out/)
 - [Clean architecture + Vert X + Kotlin repos to recommend](https://www.reddit.com/r/Kotlin/comments/lslsg1/clean_architecture_vert_x_kotlin_repos_to/)
 - [New to Kotlin: How do I use this library?](https://www.reddit.com/r/Kotlin/comments/lsavrm/new_to_kotlin_how_do_i_use_this_library/)
 - [How do I use an npm module inside an android app with kotlin?](https://www.reddit.com/r/Kotlin/comments/lsadqu/how_do_i_use_an_npm_module_inside_an_android_app/)
 - [I'm stuck with understanding kotlinx-serialization](https://www.reddit.com/r/Kotlin/comments/ls703p/im_stuck_with_understanding_kotlinxserialization/)
-- [Introducing Kotlin Multiplatform in an existing project](https://www.reddit.com/r/Kotlin/comments/ls1b0t/introducing_kotlin_multiplatform_in_an_existing/)
-- [Custom KotlinX Serializers](https://www.reddit.com/r/Kotlin/comments/lrs9v2/custom_kotlinx_serializers/)
-- [How about using coroutine GlobalScope.launch besides Spring @Async annotation?](https://www.reddit.com/r/Kotlin/comments/lrrl2f/how_about_using_coroutine_globalscopelaunch/)
-- [Announcing Jetpack Compose Beta!](https://www.reddit.com/r/Kotlin/comments/lrifxo/announcing_jetpack_compose_beta/)
-- [Easier Spotify authorization and broadcast receivers on Android with spotify-web-api-kotlin](https://www.reddit.com/r/Kotlin/comments/lre8ix/easier_spotify_authorization_and_broadcast/)
-- [Feedback on Kotlinification of BoofCV, a Java computer vision library.](https://www.reddit.com/r/Kotlin/comments/lrd7u9/feedback_on_kotlinification_of_boofcv_a_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
