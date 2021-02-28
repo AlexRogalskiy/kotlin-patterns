@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [What are types of importing libraries?](https://discuss.kotlinlang.org/t/what-are-types-of-importing-libraries/20993/4)
-- [What are types of importing libraries?](https://discuss.kotlinlang.org/t/what-are-types-of-importing-libraries/20993/3)
-- [What are types of importing libraries?](https://discuss.kotlinlang.org/t/what-are-types-of-importing-libraries/20993/2)
-- [What are types of importing libraries?](https://discuss.kotlinlang.org/t/what-are-types-of-importing-libraries/20993/1)
-- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/6)
-- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/5)
-- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/4)
-- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/3)
-- [Reading socket inputstream hangs the whole program](https://discuss.kotlinlang.org/t/reading-socket-inputstream-hangs-the-whole-program/20988/3)
-- [Is it possible to change visibility of sealed subclass for java interop?](https://discuss.kotlinlang.org/t/is-it-possible-to-change-visibility-of-sealed-subclass-for-java-interop/20940/2)
+- [Ktor: call.receiveText() timeout](https://discuss.kotlinlang.org/t/ktor-call-receivetext-timeout/21002/1)
+- [Show a layout as popup after click on button](https://discuss.kotlinlang.org/t/show-a-layout-as-popup-after-click-on-button/21001/1)
+- [Need some suggestions about events with coroutines and flows](https://discuss.kotlinlang.org/t/need-some-suggestions-about-events-with-coroutines-and-flows/21000/1)
+- [Call default/plugin-generated serializer from custom serializer](https://discuss.kotlinlang.org/t/call-default-plugin-generated-serializer-from-custom-serializer/19545/5)
+- [Is there any common approach to generate Kotlin multiplatfom data classes with validation annotations like JAXB+JSR303 in Java?](https://discuss.kotlinlang.org/t/is-there-any-common-approach-to-generate-kotlin-multiplatfom-data-classes-with-validation-annotations-like-jaxb-jsr303-in-java/20956/6)
+- [Is there any common approach to generate Kotlin multiplatfom data classes with validation annotations like JAXB+JSR303 in Java?](https://discuss.kotlinlang.org/t/is-there-any-common-approach-to-generate-kotlin-multiplatfom-data-classes-with-validation-annotations-like-jaxb-jsr303-in-java/20956/5)
+- [Kotlin multiplatform mobile and C interop](https://discuss.kotlinlang.org/t/kotlin-multiplatform-mobile-and-c-interop/20487/6)
+- [Lighter weight declarative UI for Kotlin JS?](https://discuss.kotlinlang.org/t/lighter-weight-declarative-ui-for-kotlin-js/20985/9)
+- [Lighter weight declarative UI for Kotlin JS?](https://discuss.kotlinlang.org/t/lighter-weight-declarative-ui-for-kotlin-js/20985/8)
+- [Lighter weight declarative UI for Kotlin JS?](https://discuss.kotlinlang.org/t/lighter-weight-declarative-ui-for-kotlin-js/20985/7)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
