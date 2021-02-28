@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [An opinionated guide on how to make your Kotlin code fun to read and joy to work with](https://www.reddit.com/r/Kotlin/comments/ltvycn/an_opinionated_guide_on_how_to_make_your_kotlin/)
+- [Solving a sample coding interview problem in Kotlin](https://www.reddit.com/r/Kotlin/comments/ltsyqu/solving_a_sample_coding_interview_problem_in/)
+- [The path to get your Kotlin Android associate certificate](https://www.reddit.com/r/Kotlin/comments/ltskxp/the_path_to_get_your_kotlin_android_associate/)
+- [Native android or any game engine](https://www.reddit.com/r/Kotlin/comments/ltqujw/native_android_or_any_game_engine/)
+- [Haciendo aplicaciones asíncronas con Kotlin y Ktor](https://www.reddit.com/r/Kotlin/comments/ltosv6/haciendo_aplicaciones_asíncronas_con_kotlin_y_ktor/)
+- [Lerning platform recommendations?](https://www.reddit.com/r/Kotlin/comments/ltkowm/lerning_platform_recommendations/)
+- [What is the best approach to build this layout in android.](https://www.reddit.com/r/Kotlin/comments/ltisj8/what_is_the_best_approach_to_build_this_layout_in/)
 - [Doodle TodoMVC](https://www.reddit.com/r/Kotlin/comments/lt171k/doodle_todomvc/)
 - [Companion Objects: Kotlin’s most unassuming power feature](https://www.reddit.com/r/Kotlin/comments/lt0v0a/companion_objects_kotlins_most_unassuming_power/)
 - [program hangs up at inputstream.readBytes()](https://www.reddit.com/r/Kotlin/comments/lstcvi/program_hangs_up_at_inputstreamreadbytes/)
-- [Kotlin in Action: DSLs](https://www.reddit.com/r/Kotlin/comments/lsq4ln/kotlin_in_action_dsls/)
-- [Any recommendations for someone trying to learn about reactive programming in Kotlin](https://www.reddit.com/r/Kotlin/comments/lspo8m/any_recommendations_for_someone_trying_to_learn/)
-- [Kotlin 1.4.31 is out](https://www.reddit.com/r/Kotlin/comments/lsml7z/kotlin_1431_is_out/)
-- [Clean architecture + Vert X + Kotlin repos to recommend](https://www.reddit.com/r/Kotlin/comments/lslsg1/clean_architecture_vert_x_kotlin_repos_to/)
-- [New to Kotlin: How do I use this library?](https://www.reddit.com/r/Kotlin/comments/lsavrm/new_to_kotlin_how_do_i_use_this_library/)
-- [How do I use an npm module inside an android app with kotlin?](https://www.reddit.com/r/Kotlin/comments/lsadqu/how_do_i_use_an_npm_module_inside_an_android_app/)
-- [I'm stuck with understanding kotlinx-serialization](https://www.reddit.com/r/Kotlin/comments/ls703p/im_stuck_with_understanding_kotlinxserialization/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
