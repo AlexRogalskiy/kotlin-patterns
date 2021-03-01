@@ -240,6 +240,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [jte 1.8.0 supports Kotlin as template expression language](https://www.reddit.com/r/Kotlin/comments/lukx66/jte_180_supports_kotlin_as_template_expression/)
 - [An opinionated guide on how to make your Kotlin code fun to read and joy to work with](https://www.reddit.com/r/Kotlin/comments/ltvycn/an_opinionated_guide_on_how_to_make_your_kotlin/)
 - [Solving a sample coding interview problem in Kotlin](https://www.reddit.com/r/Kotlin/comments/ltsyqu/solving_a_sample_coding_interview_problem_in/)
 - [The path to get your Kotlin Android associate certificate](https://www.reddit.com/r/Kotlin/comments/ltskxp/the_path_to_get_your_kotlin_android_associate/)
@@ -249,7 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [What is the best approach to build this layout in android.](https://www.reddit.com/r/Kotlin/comments/ltisj8/what_is_the_best_approach_to_build_this_layout_in/)
 - [Doodle TodoMVC](https://www.reddit.com/r/Kotlin/comments/lt171k/doodle_todomvc/)
 - [Companion Objects: Kotlin’s most unassuming power feature](https://www.reddit.com/r/Kotlin/comments/lt0v0a/companion_objects_kotlins_most_unassuming_power/)
-- [program hangs up at inputstream.readBytes()](https://www.reddit.com/r/Kotlin/comments/lstcvi/program_hangs_up_at_inputstreamreadbytes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
