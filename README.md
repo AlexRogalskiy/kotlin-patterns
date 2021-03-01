@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Ktor: call.receiveText() timeout](https://discuss.kotlinlang.org/t/ktor-call-receivetext-timeout/21002/1)
-- [Show a layout as popup after click on button](https://discuss.kotlinlang.org/t/show-a-layout-as-popup-after-click-on-button/21001/1)
-- [Need some suggestions about events with coroutines and flows](https://discuss.kotlinlang.org/t/need-some-suggestions-about-events-with-coroutines-and-flows/21000/1)
-- [Call default/plugin-generated serializer from custom serializer](https://discuss.kotlinlang.org/t/call-default-plugin-generated-serializer-from-custom-serializer/19545/5)
-- [Is there any common approach to generate Kotlin multiplatfom data classes with validation annotations like JAXB+JSR303 in Java?](https://discuss.kotlinlang.org/t/is-there-any-common-approach-to-generate-kotlin-multiplatfom-data-classes-with-validation-annotations-like-jaxb-jsr303-in-java/20956/6)
-- [Is there any common approach to generate Kotlin multiplatfom data classes with validation annotations like JAXB+JSR303 in Java?](https://discuss.kotlinlang.org/t/is-there-any-common-approach-to-generate-kotlin-multiplatfom-data-classes-with-validation-annotations-like-jaxb-jsr303-in-java/20956/5)
-- [Kotlin multiplatform mobile and C interop](https://discuss.kotlinlang.org/t/kotlin-multiplatform-mobile-and-c-interop/20487/6)
-- [Lighter weight declarative UI for Kotlin JS?](https://discuss.kotlinlang.org/t/lighter-weight-declarative-ui-for-kotlin-js/20985/9)
-- [Lighter weight declarative UI for Kotlin JS?](https://discuss.kotlinlang.org/t/lighter-weight-declarative-ui-for-kotlin-js/20985/8)
-- [Lighter weight declarative UI for Kotlin JS?](https://discuss.kotlinlang.org/t/lighter-weight-declarative-ui-for-kotlin-js/20985/7)
+- [Return array in function](https://discuss.kotlinlang.org/t/return-array-in-function/21010/5)
+- [Default property initialization for interfaces](https://discuss.kotlinlang.org/t/default-property-initialization-for-interfaces/249/3)
+- [Show a layout as popup after click on button](https://discuss.kotlinlang.org/t/show-a-layout-as-popup-after-click-on-button/21001/5)
+- [Show a layout as popup after click on button](https://discuss.kotlinlang.org/t/show-a-layout-as-popup-after-click-on-button/21001/4)
+- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/7)
+- [Need some suggestions about events with coroutines and flows](https://discuss.kotlinlang.org/t/need-some-suggestions-about-events-with-coroutines-and-flows/21000/3)
+- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/6)
+- [What is the best way to detect specific unboxed (primitive) arrays in kotlinx-serialization?](https://discuss.kotlinlang.org/t/what-is-the-best-way-to-detect-specific-unboxed-primitive-arrays-in-kotlinx-serialization/21015/1)
+- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/5)
+- [Method Reference vs Lambda](https://discuss.kotlinlang.org/t/method-reference-vs-lambda/21013/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
