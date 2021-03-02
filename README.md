@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [TalkingKotlin is now on the Kotlin YouTube channel! In this episode, our hosts /u/hhariri and /u/sebi_io talk to Kotlin Project Lead /u/elizarov about the future of the language. Watch it now, and subscribe for future episodes!](https://www.reddit.com/r/Kotlin/comments/lve5vo/talkingkotlin_is_now_on_the_kotlin_youtube/)
+- [Passing data between fragments help](https://www.reddit.com/r/Kotlin/comments/lvbqe9/passing_data_between_fragments_help/)
+- [Tutorial for android app developement with kotlin](https://www.reddit.com/r/Kotlin/comments/lvboyp/tutorial_for_android_app_developement_with_kotlin/)
+- [Talking Kotlin – Catching Up With Roman Elizarov](https://www.reddit.com/r/Kotlin/comments/lvbmmb/talking_kotlin_catching_up_with_roman_elizarov/)
+- [5 More Kotlin Extensions for Android Developers](https://www.reddit.com/r/Kotlin/comments/lv9adz/5_more_kotlin_extensions_for_android_developers/)
+- [Is it okay to store data classes serialized/deserialized (as JSON string) with KotlinX Serialization in Android Shared Preferences?](https://www.reddit.com/r/Kotlin/comments/lv2jcx/is_it_okay_to_store_data_classes/)
 - [jte 1.8.0 supports Kotlin as template expression language](https://www.reddit.com/r/Kotlin/comments/lukx66/jte_180_supports_kotlin_as_template_expression/)
 - [An opinionated guide on how to make your Kotlin code fun to read and joy to work with](https://www.reddit.com/r/Kotlin/comments/ltvycn/an_opinionated_guide_on_how_to_make_your_kotlin/)
 - [Solving a sample coding interview problem in Kotlin](https://www.reddit.com/r/Kotlin/comments/ltsyqu/solving_a_sample_coding_interview_problem_in/)
 - [The path to get your Kotlin Android associate certificate](https://www.reddit.com/r/Kotlin/comments/ltskxp/the_path_to_get_your_kotlin_android_associate/)
-- [Native android or any game engine](https://www.reddit.com/r/Kotlin/comments/ltqujw/native_android_or_any_game_engine/)
-- [Haciendo aplicaciones asíncronas con Kotlin y Ktor](https://www.reddit.com/r/Kotlin/comments/ltosv6/haciendo_aplicaciones_asíncronas_con_kotlin_y_ktor/)
-- [Lerning platform recommendations?](https://www.reddit.com/r/Kotlin/comments/ltkowm/lerning_platform_recommendations/)
-- [What is the best approach to build this layout in android.](https://www.reddit.com/r/Kotlin/comments/ltisj8/what_is_the_best_approach_to_build_this_layout_in/)
-- [Doodle TodoMVC](https://www.reddit.com/r/Kotlin/comments/lt171k/doodle_todomvc/)
-- [Companion Objects: Kotlin’s most unassuming power feature](https://www.reddit.com/r/Kotlin/comments/lt0v0a/companion_objects_kotlins_most_unassuming_power/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
