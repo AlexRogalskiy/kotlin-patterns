@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/10)
+- [How to trigger Dialog with a button](https://discuss.kotlinlang.org/t/how-to-trigger-dialog-with-a-button/21046/2)
+- [How to trigger Dialog with a button](https://discuss.kotlinlang.org/t/how-to-trigger-dialog-with-a-button/21046/1)
+- [Lighter weight declarative UI for Kotlin JS?](https://discuss.kotlinlang.org/t/lighter-weight-declarative-ui-for-kotlin-js/20985/10)
+- [Reading socket inputstream hangs the whole program](https://discuss.kotlinlang.org/t/reading-socket-inputstream-hangs-the-whole-program/20988/4)
+- [Default property initialization for interfaces](https://discuss.kotlinlang.org/t/default-property-initialization-for-interfaces/249/4)
+- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/9)
+- [Return array in function](https://discuss.kotlinlang.org/t/return-array-in-function/21010/6)
+- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/8)
 - [Return array in function](https://discuss.kotlinlang.org/t/return-array-in-function/21010/5)
-- [Default property initialization for interfaces](https://discuss.kotlinlang.org/t/default-property-initialization-for-interfaces/249/3)
-- [Show a layout as popup after click on button](https://discuss.kotlinlang.org/t/show-a-layout-as-popup-after-click-on-button/21001/5)
-- [Show a layout as popup after click on button](https://discuss.kotlinlang.org/t/show-a-layout-as-popup-after-click-on-button/21001/4)
-- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/7)
-- [Need some suggestions about events with coroutines and flows](https://discuss.kotlinlang.org/t/need-some-suggestions-about-events-with-coroutines-and-flows/21000/3)
-- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/6)
-- [What is the best way to detect specific unboxed (primitive) arrays in kotlinx-serialization?](https://discuss.kotlinlang.org/t/what-is-the-best-way-to-detect-specific-unboxed-primitive-arrays-in-kotlinx-serialization/21015/1)
-- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/5)
-- [Method Reference vs Lambda](https://discuss.kotlinlang.org/t/method-reference-vs-lambda/21013/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
