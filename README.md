@@ -325,6 +325,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Talking Kotlin posts_
 
 <!-- TALKINGKOTLIN-POST-LIST:START -->
+- [Catching Up With Roman Elizarov](https://talkingkotlin.com/catching-up-with-roman-elizarov/)
 - [JAI Conversational Framework](https://talkingkotlin.com/jaicf/)
 - [Compose for Desktop](https://talkingkotlin.com/compose-for-desktop/)
 - [Kotlin in Space](https://talkingkotlin.com/kotlin-in-space/)
@@ -334,7 +335,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Maths and Kotlin](https://talkingkotlin.com/maths-and-kotlin/)
 - [Fritz2](https://talkingkotlin.com/fritz2/)
 - [Sitting down with the Kotlin Advocates](https://talkingkotlin.com/kotlin-advocates/)
-- [The User Experience of Compose and Flow](https://talkingkotlin.com/compose-and-flow/)
 <!-- TALKINGKOTLIN-POST-LIST:END -->
 
 ---
