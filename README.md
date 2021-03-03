@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Kotlinx JSON serialization based on experimental APIs?](https://discuss.kotlinlang.org/t/kotlinx-json-serialization-based-on-experimental-apis/20968/3)
+- [Kotlinx JSON serialization based on experimental APIs?](https://discuss.kotlinlang.org/t/kotlinx-json-serialization-based-on-experimental-apis/20968/2)
+- [Inconsistent open/final defaults between classes and functions](https://discuss.kotlinlang.org/t/inconsistent-open-final-defaults-between-classes-and-functions/21050/2)
+- [How to trigger Dialog with a button](https://discuss.kotlinlang.org/t/how-to-trigger-dialog-with-a-button/21046/4)
+- [How to trigger Dialog with a button](https://discuss.kotlinlang.org/t/how-to-trigger-dialog-with-a-button/21046/3)
+- [Inconsistent open/final defaults between classes and functions](https://discuss.kotlinlang.org/t/inconsistent-open-final-defaults-between-classes-and-functions/21050/1)
+- [Default property initialization for interfaces](https://discuss.kotlinlang.org/t/default-property-initialization-for-interfaces/249/5)
 - [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/10)
 - [How to trigger Dialog with a button](https://discuss.kotlinlang.org/t/how-to-trigger-dialog-with-a-button/21046/2)
 - [How to trigger Dialog with a button](https://discuss.kotlinlang.org/t/how-to-trigger-dialog-with-a-button/21046/1)
-- [Lighter weight declarative UI for Kotlin JS?](https://discuss.kotlinlang.org/t/lighter-weight-declarative-ui-for-kotlin-js/20985/10)
-- [Reading socket inputstream hangs the whole program](https://discuss.kotlinlang.org/t/reading-socket-inputstream-hangs-the-whole-program/20988/4)
-- [Default property initialization for interfaces](https://discuss.kotlinlang.org/t/default-property-initialization-for-interfaces/249/4)
-- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/9)
-- [Return array in function](https://discuss.kotlinlang.org/t/return-array-in-function/21010/6)
-- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/8)
-- [Return array in function](https://discuss.kotlinlang.org/t/return-array-in-function/21010/5)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
