@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to create an exe from TornadoFx and Kotlin](https://www.reddit.com/r/Kotlin/comments/lwdfxi/how_to_create_an_exe_from_tornadofx_and_kotlin/)
+- [Skraper v0.7.0 has been released](https://www.reddit.com/r/Kotlin/comments/lw8u6w/skraper_v070_has_been_released/)
+- [Compose O'Clock - zsmb.co](https://www.reddit.com/r/Kotlin/comments/lw6ej5/compose_oclock_zsmbco/)
+- [kotlin jobs - Start Working Remotely](https://www.reddit.com/r/Kotlin/comments/lvxz64/kotlin_jobs_start_working_remotely/)
+- [How to read this function declaration?](https://www.reddit.com/r/Kotlin/comments/lvrtic/how_to_read_this_function_declaration/)
 - [TalkingKotlin is now on the Kotlin YouTube channel! In this episode, our hosts /u/hhariri and /u/sebi_io talk to Kotlin Project Lead /u/elizarov about the future of the language. Watch it now, and subscribe for future episodes!](https://www.reddit.com/r/Kotlin/comments/lve5vo/talkingkotlin_is_now_on_the_kotlin_youtube/)
 - [Passing data between fragments help](https://www.reddit.com/r/Kotlin/comments/lvbqe9/passing_data_between_fragments_help/)
 - [Tutorial for android app developement with kotlin](https://www.reddit.com/r/Kotlin/comments/lvboyp/tutorial_for_android_app_developement_with_kotlin/)
 - [Talking Kotlin – Catching Up With Roman Elizarov](https://www.reddit.com/r/Kotlin/comments/lvbmmb/talking_kotlin_catching_up_with_roman_elizarov/)
 - [5 More Kotlin Extensions for Android Developers](https://www.reddit.com/r/Kotlin/comments/lv9adz/5_more_kotlin_extensions_for_android_developers/)
-- [Is it okay to store data classes serialized/deserialized (as JSON string) with KotlinX Serialization in Android Shared Preferences?](https://www.reddit.com/r/Kotlin/comments/lv2jcx/is_it_okay_to_store_data_classes/)
-- [jte 1.8.0 supports Kotlin as template expression language](https://www.reddit.com/r/Kotlin/comments/lukx66/jte_180_supports_kotlin_as_template_expression/)
-- [An opinionated guide on how to make your Kotlin code fun to read and joy to work with](https://www.reddit.com/r/Kotlin/comments/ltvycn/an_opinionated_guide_on_how_to_make_your_kotlin/)
-- [Solving a sample coding interview problem in Kotlin](https://www.reddit.com/r/Kotlin/comments/ltsyqu/solving_a_sample_coding_interview_problem_in/)
-- [The path to get your Kotlin Android associate certificate](https://www.reddit.com/r/Kotlin/comments/ltskxp/the_path_to_get_your_kotlin_android_associate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
