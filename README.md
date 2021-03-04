@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Kotlinx JSON serialization based on experimental APIs?](https://discuss.kotlinlang.org/t/kotlinx-json-serialization-based-on-experimental-apis/20968/3)
-- [Kotlinx JSON serialization based on experimental APIs?](https://discuss.kotlinlang.org/t/kotlinx-json-serialization-based-on-experimental-apis/20968/2)
-- [Inconsistent open/final defaults between classes and functions](https://discuss.kotlinlang.org/t/inconsistent-open-final-defaults-between-classes-and-functions/21050/2)
-- [How to trigger Dialog with a button](https://discuss.kotlinlang.org/t/how-to-trigger-dialog-with-a-button/21046/4)
-- [How to trigger Dialog with a button](https://discuss.kotlinlang.org/t/how-to-trigger-dialog-with-a-button/21046/3)
-- [Inconsistent open/final defaults between classes and functions](https://discuss.kotlinlang.org/t/inconsistent-open-final-defaults-between-classes-and-functions/21050/1)
-- [Default property initialization for interfaces](https://discuss.kotlinlang.org/t/default-property-initialization-for-interfaces/249/5)
-- [Surprise symbol resolve](https://discuss.kotlinlang.org/t/surprise-symbol-resolve/21004/10)
-- [How to trigger Dialog with a button](https://discuss.kotlinlang.org/t/how-to-trigger-dialog-with-a-button/21046/2)
-- [How to trigger Dialog with a button](https://discuss.kotlinlang.org/t/how-to-trigger-dialog-with-a-button/21046/1)
+- [I18n4k - Internationalization for Kotlin](https://discuss.kotlinlang.org/t/i18n4k-internationalization-for-kotlin/21075/1)
+- [`@OverloadResolutionByLambdaReturnType` won't work with generics?](https://discuss.kotlinlang.org/t/overloadresolutionbylambdareturntype-wont-work-with-generics/21074/2)
+- [`@OverloadResolutionByLambdaReturnType` won't work with generics?](https://discuss.kotlinlang.org/t/overloadresolutionbylambdareturntype-wont-work-with-generics/21074/1)
+- [Scope functions behavior in property setter](https://discuss.kotlinlang.org/t/scope-functions-behavior-in-property-setter/21068/4)
+- [Inconsistent open/final defaults between classes and functions](https://discuss.kotlinlang.org/t/inconsistent-open-final-defaults-between-classes-and-functions/21050/6)
+- [Scope functions behavior in property setter](https://discuss.kotlinlang.org/t/scope-functions-behavior-in-property-setter/21068/3)
+- [Inconsistent open/final defaults between classes and functions](https://discuss.kotlinlang.org/t/inconsistent-open-final-defaults-between-classes-and-functions/21050/5)
+- [Video chat library](https://discuss.kotlinlang.org/t/video-chat-library/20995/2)
+- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/4)
+- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/14)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
