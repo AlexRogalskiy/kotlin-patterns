@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to create an exe from TornadoFx and Kotlin](https://www.reddit.com/r/Kotlin/comments/lwdfxi/how_to_create_an_exe_from_tornadofx_and_kotlin/)
-- [Skraper v0.7.0 has been released](https://www.reddit.com/r/Kotlin/comments/lw8u6w/skraper_v070_has_been_released/)
-- [Compose O'Clock - zsmb.co](https://www.reddit.com/r/Kotlin/comments/lw6ej5/compose_oclock_zsmbco/)
-- [kotlin jobs - Start Working Remotely](https://www.reddit.com/r/Kotlin/comments/lvxz64/kotlin_jobs_start_working_remotely/)
-- [How to read this function declaration?](https://www.reddit.com/r/Kotlin/comments/lvrtic/how_to_read_this_function_declaration/)
-- [TalkingKotlin is now on the Kotlin YouTube channel! In this episode, our hosts /u/hhariri and /u/sebi_io talk to Kotlin Project Lead /u/elizarov about the future of the language. Watch it now, and subscribe for future episodes!](https://www.reddit.com/r/Kotlin/comments/lve5vo/talkingkotlin_is_now_on_the_kotlin_youtube/)
-- [Passing data between fragments help](https://www.reddit.com/r/Kotlin/comments/lvbqe9/passing_data_between_fragments_help/)
-- [Tutorial for android app developement with kotlin](https://www.reddit.com/r/Kotlin/comments/lvboyp/tutorial_for_android_app_developement_with_kotlin/)
-- [Talking Kotlin – Catching Up With Roman Elizarov](https://www.reddit.com/r/Kotlin/comments/lvbmmb/talking_kotlin_catching_up_with_roman_elizarov/)
-- [5 More Kotlin Extensions for Android Developers](https://www.reddit.com/r/Kotlin/comments/lv9adz/5_more_kotlin_extensions_for_android_developers/)
+- [Asynchronous initialisation](https://www.reddit.com/r/Kotlin/comments/lx99rv/asynchronous_initialisation/)
+- [Best practices for coroutines in Android | Android Developers](https://www.reddit.com/r/Kotlin/comments/lx7vdt/best_practices_for_coroutines_in_android_android/)
+- [Why are Java server-side developers not adopting Kotlin?](https://www.reddit.com/r/Kotlin/comments/lx2bvo/why_are_java_serverside_developers_not_adopting/)
+- [Sending 18 instead of 32 data length](https://www.reddit.com/r/Kotlin/comments/lx1owg/sending_18_instead_of_32_data_length/)
+- [Take part in the Kotlin Multiplatform Poll](https://www.reddit.com/r/Kotlin/comments/lwwi6u/take_part_in_the_kotlin_multiplatform_poll/)
+- [Released Kotlin 1.5.0-M1](https://www.reddit.com/r/Kotlin/comments/lwwed6/released_kotlin_150m1/)
+- [Unwrapping Use-site Targets in Kotlin](https://www.reddit.com/r/Kotlin/comments/lww5si/unwrapping_usesite_targets_in_kotlin/)
+- [The default value for a function parameter of an extension type](https://www.reddit.com/r/Kotlin/comments/lwvlnv/the_default_value_for_a_function_parameter_of_an/)
+- [Data visualization?](https://www.reddit.com/r/Kotlin/comments/lwv9ax/data_visualization/)
+- [How to process items from a Channel atomically?](https://www.reddit.com/r/Kotlin/comments/lws6ce/how_to_process_items_from_a_channel_atomically/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
