@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the future of Kotlin Ktor](https://www.reddit.com/r/Kotlin/comments/lxuk0h/what_is_the_future_of_kotlin_ktor/)
+- [Neste suspended transaction with Exposed + Ktor](https://www.reddit.com/r/Kotlin/comments/lxmsoc/neste_suspended_transaction_with_exposed_ktor/)
+- [Weather Forecast App with multiple color themes](https://www.reddit.com/r/Kotlin/comments/lxjuqk/weather_forecast_app_with_multiple_color_themes/)
+- [Been searching for months about this still no luck](https://www.reddit.com/r/Kotlin/comments/lxh9xh/been_searching_for_months_about_this_still_no_luck/)
+- [Avoid private field dependency injection - here is why - Techblog - Hostmoz](https://www.reddit.com/r/Kotlin/comments/lxgbg6/avoid_private_field_dependency_injection_here_is/)
+- [Why do inline properties not show "nothing to inline" warnings?](https://www.reddit.com/r/Kotlin/comments/lxe4em/why_do_inline_properties_not_show_nothing_to/)
+- [KotlinX Coroutines Release 1.4.3](https://www.reddit.com/r/Kotlin/comments/lx9k9g/kotlinx_coroutines_release_143/)
 - [Asynchronous initialisation](https://www.reddit.com/r/Kotlin/comments/lx99rv/asynchronous_initialisation/)
 - [Best practices for coroutines in Android | Android Developers](https://www.reddit.com/r/Kotlin/comments/lx7vdt/best_practices_for_coroutines_in_android_android/)
 - [Why are Java server-side developers not adopting Kotlin?](https://www.reddit.com/r/Kotlin/comments/lx2bvo/why_are_java_serverside_developers_not_adopting/)
-- [Sending 18 instead of 32 data length](https://www.reddit.com/r/Kotlin/comments/lx1owg/sending_18_instead_of_32_data_length/)
-- [Take part in the Kotlin Multiplatform Poll](https://www.reddit.com/r/Kotlin/comments/lwwi6u/take_part_in_the_kotlin_multiplatform_poll/)
-- [Released Kotlin 1.5.0-M1](https://www.reddit.com/r/Kotlin/comments/lwwed6/released_kotlin_150m1/)
-- [Unwrapping Use-site Targets in Kotlin](https://www.reddit.com/r/Kotlin/comments/lww5si/unwrapping_usesite_targets_in_kotlin/)
-- [The default value for a function parameter of an extension type](https://www.reddit.com/r/Kotlin/comments/lwvlnv/the_default_value_for_a_function_parameter_of_an/)
-- [Data visualization?](https://www.reddit.com/r/Kotlin/comments/lwv9ax/data_visualization/)
-- [How to process items from a Channel atomically?](https://www.reddit.com/r/Kotlin/comments/lws6ce/how_to_process_items_from_a_channel_atomically/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
