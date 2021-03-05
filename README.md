@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [I18n4k - Internationalization for Kotlin](https://discuss.kotlinlang.org/t/i18n4k-internationalization-for-kotlin/21075/1)
-- [`@OverloadResolutionByLambdaReturnType` won't work with generics?](https://discuss.kotlinlang.org/t/overloadresolutionbylambdareturntype-wont-work-with-generics/21074/2)
-- [`@OverloadResolutionByLambdaReturnType` won't work with generics?](https://discuss.kotlinlang.org/t/overloadresolutionbylambdareturntype-wont-work-with-generics/21074/1)
-- [Scope functions behavior in property setter](https://discuss.kotlinlang.org/t/scope-functions-behavior-in-property-setter/21068/4)
-- [Inconsistent open/final defaults between classes and functions](https://discuss.kotlinlang.org/t/inconsistent-open-final-defaults-between-classes-and-functions/21050/6)
-- [Scope functions behavior in property setter](https://discuss.kotlinlang.org/t/scope-functions-behavior-in-property-setter/21068/3)
-- [Inconsistent open/final defaults between classes and functions](https://discuss.kotlinlang.org/t/inconsistent-open-final-defaults-between-classes-and-functions/21050/5)
-- [Video chat library](https://discuss.kotlinlang.org/t/video-chat-library/20995/2)
-- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/4)
-- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/14)
+- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/16)
+- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/15)
+- [Dividing Integers](https://discuss.kotlinlang.org/t/dividing-integers/1662/8)
+- [Argument polymorphism](https://discuss.kotlinlang.org/t/argument-polymorphism/21087/2)
+- [Argument polymorphism](https://discuss.kotlinlang.org/t/argument-polymorphism/21087/1)
+- [Is Kotlin Eclipse plugin alive?](https://discuss.kotlinlang.org/t/is-kotlin-eclipse-plugin-alive/21082/2)
+- [Video chat library](https://discuss.kotlinlang.org/t/video-chat-library/20995/3)
+- [Ancienne version d'android studio](https://discuss.kotlinlang.org/t/ancienne-version-dandroid-studio/19236/3)
+- [Ktor gives me 404 on all authenticated routes](https://discuss.kotlinlang.org/t/ktor-gives-me-404-on-all-authenticated-routes/21085/1)
+- [Extension field eager init](https://discuss.kotlinlang.org/t/extension-field-eager-init/21083/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
