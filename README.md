@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/16)
-- [Implementing an interface for an existing type](https://discuss.kotlinlang.org/t/implementing-an-interface-for-an-existing-type/20967/15)
-- [Dividing Integers](https://discuss.kotlinlang.org/t/dividing-integers/1662/8)
-- [Argument polymorphism](https://discuss.kotlinlang.org/t/argument-polymorphism/21087/2)
-- [Argument polymorphism](https://discuss.kotlinlang.org/t/argument-polymorphism/21087/1)
-- [Is Kotlin Eclipse plugin alive?](https://discuss.kotlinlang.org/t/is-kotlin-eclipse-plugin-alive/21082/2)
-- [Video chat library](https://discuss.kotlinlang.org/t/video-chat-library/20995/3)
-- [Ancienne version d'android studio](https://discuss.kotlinlang.org/t/ancienne-version-dandroid-studio/19236/3)
-- [Ktor gives me 404 on all authenticated routes](https://discuss.kotlinlang.org/t/ktor-gives-me-404-on-all-authenticated-routes/21085/1)
-- [Extension field eager init](https://discuss.kotlinlang.org/t/extension-field-eager-init/21083/3)
+- [Native Abstracted Class Missing member declarations](https://discuss.kotlinlang.org/t/native-abstracted-class-missing-member-declarations/21100/1)
+- [Coroutines: best way to use fork and join?](https://discuss.kotlinlang.org/t/coroutines-best-way-to-use-fork-and-join/21098/1)
+- [Annotating Extension Functions to more controlled usage](https://discuss.kotlinlang.org/t/annotating-extension-functions-to-more-controlled-usage/21093/6)
+- [Android KotlinX Coroutines bug](https://discuss.kotlinlang.org/t/android-kotlinx-coroutines-bug/16969/4)
+- [New conditional operator: a equals b and/or c](https://discuss.kotlinlang.org/t/new-conditional-operator-a-equals-b-and-or-c/18726/4)
+- [I18n4k - Internationalization for Kotlin](https://discuss.kotlinlang.org/t/i18n4k-internationalization-for-kotlin/21075/2)
+- [Ktor gives me 404 on all authenticated routes](https://discuss.kotlinlang.org/t/ktor-gives-me-404-on-all-authenticated-routes/21085/2)
+- [Annotating Extension Functions to more controlled usage](https://discuss.kotlinlang.org/t/annotating-extension-functions-to-more-controlled-usage/21093/5)
+- [Annotating Extension Functions to more controlled usage](https://discuss.kotlinlang.org/t/annotating-extension-functions-to-more-controlled-usage/21093/4)
+- [Annotating Extension Functions to more controlled usage](https://discuss.kotlinlang.org/t/annotating-extension-functions-to-more-controlled-usage/21093/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
