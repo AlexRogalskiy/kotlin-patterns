@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the future of Kotlin Ktor](https://www.reddit.com/r/Kotlin/comments/lxuk0h/what_is_the_future_of_kotlin_ktor/)
-- [Neste suspended transaction with Exposed + Ktor](https://www.reddit.com/r/Kotlin/comments/lxmsoc/neste_suspended_transaction_with_exposed_ktor/)
-- [Weather Forecast App with multiple color themes](https://www.reddit.com/r/Kotlin/comments/lxjuqk/weather_forecast_app_with_multiple_color_themes/)
-- [Been searching for months about this still no luck](https://www.reddit.com/r/Kotlin/comments/lxh9xh/been_searching_for_months_about_this_still_no_luck/)
-- [Avoid private field dependency injection - here is why - Techblog - Hostmoz](https://www.reddit.com/r/Kotlin/comments/lxgbg6/avoid_private_field_dependency_injection_here_is/)
-- [Why do inline properties not show "nothing to inline" warnings?](https://www.reddit.com/r/Kotlin/comments/lxe4em/why_do_inline_properties_not_show_nothing_to/)
-- [KotlinX Coroutines Release 1.4.3](https://www.reddit.com/r/Kotlin/comments/lx9k9g/kotlinx_coroutines_release_143/)
-- [Asynchronous initialisation](https://www.reddit.com/r/Kotlin/comments/lx99rv/asynchronous_initialisation/)
-- [Best practices for coroutines in Android | Android Developers](https://www.reddit.com/r/Kotlin/comments/lx7vdt/best_practices_for_coroutines_in_android_android/)
-- [Why are Java server-side developers not adopting Kotlin?](https://www.reddit.com/r/Kotlin/comments/lx2bvo/why_are_java_serverside_developers_not_adopting/)
+- [How to de/serialize a List<Any?> with Kotlin Serialization?](https://www.reddit.com/r/Kotlin/comments/lyoabx/how_to_deserialize_a_listany_with_kotlin/)
+- [[Question] kotlin, intellij, codestyle, ktlint: can't get rid of tabs](https://www.reddit.com/r/Kotlin/comments/lyl1rw/question_kotlin_intellij_codestyle_ktlint_cant/)
+- [[QUESTION] Async function fire task in new thread](https://www.reddit.com/r/Kotlin/comments/lyjvbm/question_async_function_fire_task_in_new_thread/)
+- [Java/Kotlin WebRTC](https://www.reddit.com/r/Kotlin/comments/lyfdqs/javakotlin_webrtc/)
+- [Kotlin + Eclipse Survey. Please Share Your Experience!](https://www.reddit.com/r/Kotlin/comments/lye999/kotlin_eclipse_survey_please_share_your_experience/)
+- [Auto adding line items in a form on Button Click and then saving data](https://www.reddit.com/r/Kotlin/comments/lye3et/auto_adding_line_items_in_a_form_on_button_click/)
+- [Kotlin targets status](https://www.reddit.com/r/Kotlin/comments/lyb8v5/kotlin_targets_status/)
+- [From RxJava to Kotlin Flow: Testing](https://www.reddit.com/r/Kotlin/comments/lyb12v/from_rxjava_to_kotlin_flow_testing/)
+- [Server side port scanner](https://www.reddit.com/r/Kotlin/comments/ly70o5/server_side_port_scanner/)
+- [Deciding on job offer for a kotlin role as a senior SWE.](https://www.reddit.com/r/Kotlin/comments/ly6fy4/deciding_on_job_offer_for_a_kotlin_role_as_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
