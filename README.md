@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Native Abstracted Class Missing member declarations](https://discuss.kotlinlang.org/t/native-abstracted-class-missing-member-declarations/21100/1)
-- [Coroutines: best way to use fork and join?](https://discuss.kotlinlang.org/t/coroutines-best-way-to-use-fork-and-join/21098/1)
-- [Annotating Extension Functions to more controlled usage](https://discuss.kotlinlang.org/t/annotating-extension-functions-to-more-controlled-usage/21093/6)
-- [Android KotlinX Coroutines bug](https://discuss.kotlinlang.org/t/android-kotlinx-coroutines-bug/16969/4)
-- [New conditional operator: a equals b and/or c](https://discuss.kotlinlang.org/t/new-conditional-operator-a-equals-b-and-or-c/18726/4)
-- [I18n4k - Internationalization for Kotlin](https://discuss.kotlinlang.org/t/i18n4k-internationalization-for-kotlin/21075/2)
-- [Ktor gives me 404 on all authenticated routes](https://discuss.kotlinlang.org/t/ktor-gives-me-404-on-all-authenticated-routes/21085/2)
-- [Annotating Extension Functions to more controlled usage](https://discuss.kotlinlang.org/t/annotating-extension-functions-to-more-controlled-usage/21093/5)
-- [Annotating Extension Functions to more controlled usage](https://discuss.kotlinlang.org/t/annotating-extension-functions-to-more-controlled-usage/21093/4)
-- [Annotating Extension Functions to more controlled usage](https://discuss.kotlinlang.org/t/annotating-extension-functions-to-more-controlled-usage/21093/3)
+- [KMM vs KMP](https://discuss.kotlinlang.org/t/kmm-vs-kmp/19267/2)
+- [Coroutines: best way to use fork and join?](https://discuss.kotlinlang.org/t/coroutines-best-way-to-use-fork-and-join/21098/4)
+- [Coroutines: best way to use fork and join?](https://discuss.kotlinlang.org/t/coroutines-best-way-to-use-fork-and-join/21098/3)
+- [Compile kotlin source dynamically](https://discuss.kotlinlang.org/t/compile-kotlin-source-dynamically/21109/1)
+- [How to include JDBC into Kotlin project?](https://discuss.kotlinlang.org/t/how-to-include-jdbc-into-kotlin-project/21104/8)
+- [How to include JDBC into Kotlin project?](https://discuss.kotlinlang.org/t/how-to-include-jdbc-into-kotlin-project/21104/7)
+- [Analyze slow Kotlin compilation](https://discuss.kotlinlang.org/t/analyze-slow-kotlin-compilation/21106/1)
+- [How to include JDBC into Kotlin project?](https://discuss.kotlinlang.org/t/how-to-include-jdbc-into-kotlin-project/21104/6)
+- [How to include JDBC into Kotlin project?](https://discuss.kotlinlang.org/t/how-to-include-jdbc-into-kotlin-project/21104/5)
+- [How to include JDBC into Kotlin project?](https://discuss.kotlinlang.org/t/how-to-include-jdbc-into-kotlin-project/21104/4)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
