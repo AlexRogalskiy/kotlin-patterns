@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [KMM vs KMP](https://discuss.kotlinlang.org/t/kmm-vs-kmp/19267/2)
-- [Coroutines: best way to use fork and join?](https://discuss.kotlinlang.org/t/coroutines-best-way-to-use-fork-and-join/21098/4)
-- [Coroutines: best way to use fork and join?](https://discuss.kotlinlang.org/t/coroutines-best-way-to-use-fork-and-join/21098/3)
-- [Compile kotlin source dynamically](https://discuss.kotlinlang.org/t/compile-kotlin-source-dynamically/21109/1)
-- [How to include JDBC into Kotlin project?](https://discuss.kotlinlang.org/t/how-to-include-jdbc-into-kotlin-project/21104/8)
-- [How to include JDBC into Kotlin project?](https://discuss.kotlinlang.org/t/how-to-include-jdbc-into-kotlin-project/21104/7)
-- [Analyze slow Kotlin compilation](https://discuss.kotlinlang.org/t/analyze-slow-kotlin-compilation/21106/1)
-- [How to include JDBC into Kotlin project?](https://discuss.kotlinlang.org/t/how-to-include-jdbc-into-kotlin-project/21104/6)
-- [How to include JDBC into Kotlin project?](https://discuss.kotlinlang.org/t/how-to-include-jdbc-into-kotlin-project/21104/5)
-- [How to include JDBC into Kotlin project?](https://discuss.kotlinlang.org/t/how-to-include-jdbc-into-kotlin-project/21104/4)
+- [How can I publish a javadoc.jar file with my Kotlin multiplatform project?](https://discuss.kotlinlang.org/t/how-can-i-publish-a-javadoc-jar-file-with-my-kotlin-multiplatform-project/21119/3)
+- [android.app.NotificationManager: java.lang.NullPointerException](https://discuss.kotlinlang.org/t/android-app-notificationmanager-java-lang-nullpointerexception/21114/3)
+- [Add extension method to global scope](https://discuss.kotlinlang.org/t/add-extension-method-to-global-scope/21121/1)
+- [MethodNotFoundException in ConnectionFactory for log4j2 file - Kotlin](https://discuss.kotlinlang.org/t/methodnotfoundexception-in-connectionfactory-for-log4j2-file-kotlin/21116/3)
+- [How can I publish a javadoc.jar file with my Kotlin multiplatform project?](https://discuss.kotlinlang.org/t/how-can-i-publish-a-javadoc-jar-file-with-my-kotlin-multiplatform-project/21119/2)
+- [How can I publish a javadoc.jar file with my Kotlin multiplatform project?](https://discuss.kotlinlang.org/t/how-can-i-publish-a-javadoc-jar-file-with-my-kotlin-multiplatform-project/21119/1)
+- [Singletone in a Kotlin](https://discuss.kotlinlang.org/t/singletone-in-a-kotlin/21118/5)
+- [Singletone in a Kotlin](https://discuss.kotlinlang.org/t/singletone-in-a-kotlin/21118/4)
+- [Singletone in a Kotlin](https://discuss.kotlinlang.org/t/singletone-in-a-kotlin/21118/3)
+- [Singletone in a Kotlin](https://discuss.kotlinlang.org/t/singletone-in-a-kotlin/21118/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
