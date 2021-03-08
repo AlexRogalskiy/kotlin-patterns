@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Question] can any on recommend a work for CQRS which is not axon?](https://www.reddit.com/r/Kotlin/comments/m02rpx/question_can_any_on_recommend_a_work_for_cqrs/)
+- [Image Loader/Cacher Jetpack Compose Desktop](https://www.reddit.com/r/Kotlin/comments/m021yu/image_loadercacher_jetpack_compose_desktop/)
+- [Using coroutines to save my tree-like modal to the file system. Is my (beginner) approach okay?](https://www.reddit.com/r/Kotlin/comments/m003ex/using_coroutines_to_save_my_treelike_modal_to_the/)
+- ["Ultimate" Kotlin Developer training curriculum](https://www.reddit.com/r/Kotlin/comments/lzrvv3/ultimate_kotlin_developer_training_curriculum/)
+- [Programming with Functions #5: Immutability](https://www.reddit.com/r/Kotlin/comments/lzo1sy/programming_with_functions_5_immutability/)
+- [Why are Java server-side developers not adopting Kotlin?](https://www.reddit.com/r/Kotlin/comments/lzl4s9/why_are_java_serverside_developers_not_adopting/)
+- [Kotlin database](https://www.reddit.com/r/Kotlin/comments/lzjxqs/kotlin_database/)
+- [Kotlin lazy delegate - explanation and example](https://www.reddit.com/r/Kotlin/comments/lzgm6d/kotlin_lazy_delegate_explanation_and_example/)
 - [Best practices Coroutine Scope for Spring Components](https://www.reddit.com/r/Kotlin/comments/lz6l1o/best_practices_coroutine_scope_for_spring/)
 - [A newbie here for a lil advice](https://www.reddit.com/r/Kotlin/comments/lz3pbf/a_newbie_here_for_a_lil_advice/)
-- [[Kotlin/JS] How to import JS module from a local JS library file](https://www.reddit.com/r/Kotlin/comments/lz2ftv/kotlinjs_how_to_import_js_module_from_a_local_js/)
-- [MainScope().launch vs. GlobalScope.launch on Android](https://www.reddit.com/r/Kotlin/comments/lyyp07/mainscopelaunch_vs_globalscopelaunch_on_android/)
-- [New to programming world](https://www.reddit.com/r/Kotlin/comments/lyxv7l/new_to_programming_world/)
-- [How to de/serialize a List<Any?> with Kotlin Serialization?](https://www.reddit.com/r/Kotlin/comments/lyoabx/how_to_deserialize_a_listany_with_kotlin/)
-- [[Question] kotlin, intellij, codestyle, ktlint: can't get rid of tabs](https://www.reddit.com/r/Kotlin/comments/lyl1rw/question_kotlin_intellij_codestyle_ktlint_cant/)
-- [[QUESTION] Async function fire task in new thread](https://www.reddit.com/r/Kotlin/comments/lyjvbm/question_async_function_fire_task_in_new_thread/)
-- [Java/Kotlin WebRTC](https://www.reddit.com/r/Kotlin/comments/lyfdqs/javakotlin_webrtc/)
-- [Kotlin + Eclipse Survey. Please Share Your Experience!](https://www.reddit.com/r/Kotlin/comments/lye999/kotlin_eclipse_survey_please_share_your_experience/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
