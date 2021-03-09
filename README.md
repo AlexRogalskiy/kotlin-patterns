@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [How can I publish a javadoc.jar file with my Kotlin multiplatform project?](https://discuss.kotlinlang.org/t/how-can-i-publish-a-javadoc-jar-file-with-my-kotlin-multiplatform-project/21119/3)
-- [android.app.NotificationManager: java.lang.NullPointerException](https://discuss.kotlinlang.org/t/android-app-notificationmanager-java-lang-nullpointerexception/21114/3)
-- [Add extension method to global scope](https://discuss.kotlinlang.org/t/add-extension-method-to-global-scope/21121/1)
-- [MethodNotFoundException in ConnectionFactory for log4j2 file - Kotlin](https://discuss.kotlinlang.org/t/methodnotfoundexception-in-connectionfactory-for-log4j2-file-kotlin/21116/3)
-- [How can I publish a javadoc.jar file with my Kotlin multiplatform project?](https://discuss.kotlinlang.org/t/how-can-i-publish-a-javadoc-jar-file-with-my-kotlin-multiplatform-project/21119/2)
-- [How can I publish a javadoc.jar file with my Kotlin multiplatform project?](https://discuss.kotlinlang.org/t/how-can-i-publish-a-javadoc-jar-file-with-my-kotlin-multiplatform-project/21119/1)
-- [Singletone in a Kotlin](https://discuss.kotlinlang.org/t/singletone-in-a-kotlin/21118/5)
-- [Singletone in a Kotlin](https://discuss.kotlinlang.org/t/singletone-in-a-kotlin/21118/4)
-- [Singletone in a Kotlin](https://discuss.kotlinlang.org/t/singletone-in-a-kotlin/21118/3)
-- [Singletone in a Kotlin](https://discuss.kotlinlang.org/t/singletone-in-a-kotlin/21118/2)
+- [RequiresOptIn for property access?](https://discuss.kotlinlang.org/t/requiresoptin-for-property-access/21139/1)
+- [Exposed - updating entry using existing value for boolean fields](https://discuss.kotlinlang.org/t/exposed-updating-entry-using-existing-value-for-boolean-fields/21137/1)
+- [android.app.NotificationManager: java.lang.NullPointerException](https://discuss.kotlinlang.org/t/android-app-notificationmanager-java-lang-nullpointerexception/21114/6)
+- [android.app.NotificationManager: java.lang.NullPointerException](https://discuss.kotlinlang.org/t/android-app-notificationmanager-java-lang-nullpointerexception/21114/5)
+- [android.app.NotificationManager: java.lang.NullPointerException](https://discuss.kotlinlang.org/t/android-app-notificationmanager-java-lang-nullpointerexception/21114/4)
+- [Workaround for reified T at class level](https://discuss.kotlinlang.org/t/workaround-for-reified-t-at-class-level/21128/5)
+- [Classes up-to-date check: Internal error (java.lang.ClassNotFoundException): kotlin.collections.ArraysKt___ArraysJvmKt](https://discuss.kotlinlang.org/t/classes-up-to-date-check-internal-error-java-lang-classnotfoundexception-kotlin-collections-arrayskt-arraysjvmkt/21130/4)
+- [Add extension method to global scope](https://discuss.kotlinlang.org/t/add-extension-method-to-global-scope/21121/2)
+- [Workaround for reified T at class level](https://discuss.kotlinlang.org/t/workaround-for-reified-t-at-class-level/21128/4)
+- [Workaround for reified T at class level](https://discuss.kotlinlang.org/t/workaround-for-reified-t-at-class-level/21128/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
