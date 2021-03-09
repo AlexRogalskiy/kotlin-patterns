@@ -240,6 +240,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Heroes: Episode 6 Is Here](https://www.reddit.com/r/Kotlin/comments/m0ts5f/kotlin_heroes_episode_6_is_here/)
+- [Teaching Android Development With Kotlin: The Stanford Approach](https://www.reddit.com/r/Kotlin/comments/m0ln7i/teaching_android_development_with_kotlin_the/)
 - [[Question] can any on recommend a work for CQRS which is not axon?](https://www.reddit.com/r/Kotlin/comments/m02rpx/question_can_any_on_recommend_a_work_for_cqrs/)
 - [Image Loader/Cacher Jetpack Compose Desktop](https://www.reddit.com/r/Kotlin/comments/m021yu/image_loadercacher_jetpack_compose_desktop/)
 - [Using coroutines to save my tree-like modal to the file system. Is my (beginner) approach okay?](https://www.reddit.com/r/Kotlin/comments/m003ex/using_coroutines_to_save_my_treelike_modal_to_the/)
@@ -248,8 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Why are Java server-side developers not adopting Kotlin?](https://www.reddit.com/r/Kotlin/comments/lzl4s9/why_are_java_serverside_developers_not_adopting/)
 - [Kotlin database](https://www.reddit.com/r/Kotlin/comments/lzjxqs/kotlin_database/)
 - [Kotlin lazy delegate - explanation and example](https://www.reddit.com/r/Kotlin/comments/lzgm6d/kotlin_lazy_delegate_explanation_and_example/)
-- [Best practices Coroutine Scope for Spring Components](https://www.reddit.com/r/Kotlin/comments/lz6l1o/best_practices_coroutine_scope_for_spring/)
-- [A newbie here for a lil advice](https://www.reddit.com/r/Kotlin/comments/lz3pbf/a_newbie_here_for_a_lil_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
