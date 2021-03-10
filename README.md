@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there something like rx forkjoin for flows? I wrote this because I thought there wasn't any.](https://www.reddit.com/r/Kotlin/comments/m1bw43/is_there_something_like_rx_forkjoin_for_flows_i/)
+- [Check out the latest installment of Spring Time in Kotlin! In this episode, /u/fundamentalparticle provides an overview of the new tutorial about Spring Boot with Kotlin and RSocket.](https://www.reddit.com/r/Kotlin/comments/m1a54j/check_out_the_latest_installment_of_spring_time/)
+- [ELM like frontend development in Kotlin](https://www.reddit.com/r/Kotlin/comments/m160qo/elm_like_frontend_development_in_kotlin/)
+- [Taking a job as a Kotlin Dev coming from Python.](https://www.reddit.com/r/Kotlin/comments/m15el7/taking_a_job_as_a_kotlin_dev_coming_from_python/)
+- [How to store the contents of an file in an array line by line](https://www.reddit.com/r/Kotlin/comments/m14dq6/how_to_store_the_contents_of_an_file_in_an_array/)
+- [Flutter for Kotlin UI ?](https://www.reddit.com/r/Kotlin/comments/m13w86/flutter_for_kotlin_ui/)
+- [Flutter vs kotlin: What's the Best Choice for your Business?](https://www.reddit.com/r/Kotlin/comments/m106hn/flutter_vs_kotlin_whats_the_best_choice_for_your/)
+- [Why do these have different behavior/warnings?](https://www.reddit.com/r/Kotlin/comments/m0zjol/why_do_these_have_different_behaviorwarnings/)
 - [Kotlin Heroes: Episode 6 Is Here](https://www.reddit.com/r/Kotlin/comments/m0ts5f/kotlin_heroes_episode_6_is_here/)
 - [Teaching Android Development With Kotlin: The Stanford Approach](https://www.reddit.com/r/Kotlin/comments/m0ln7i/teaching_android_development_with_kotlin_the/)
-- [[Question] can any on recommend a work for CQRS which is not axon?](https://www.reddit.com/r/Kotlin/comments/m02rpx/question_can_any_on_recommend_a_work_for_cqrs/)
-- [Image Loader/Cacher Jetpack Compose Desktop](https://www.reddit.com/r/Kotlin/comments/m021yu/image_loadercacher_jetpack_compose_desktop/)
-- [Using coroutines to save my tree-like modal to the file system. Is my (beginner) approach okay?](https://www.reddit.com/r/Kotlin/comments/m003ex/using_coroutines_to_save_my_treelike_modal_to_the/)
-- ["Ultimate" Kotlin Developer training curriculum](https://www.reddit.com/r/Kotlin/comments/lzrvv3/ultimate_kotlin_developer_training_curriculum/)
-- [Programming with Functions #5: Immutability](https://www.reddit.com/r/Kotlin/comments/lzo1sy/programming_with_functions_5_immutability/)
-- [Why are Java server-side developers not adopting Kotlin?](https://www.reddit.com/r/Kotlin/comments/lzl4s9/why_are_java_serverside_developers_not_adopting/)
-- [Kotlin database](https://www.reddit.com/r/Kotlin/comments/lzjxqs/kotlin_database/)
-- [Kotlin lazy delegate - explanation and example](https://www.reddit.com/r/Kotlin/comments/lzgm6d/kotlin_lazy_delegate_explanation_and_example/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
