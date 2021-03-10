@@ -280,6 +280,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin Academy posts_
 
 <!-- KOTLINACADEMY-POST-LIST:START -->
+- [Jetpack Compose: First Impressions and Learning Resources](https://blog.kotlin-academy.com/jetpack-compose-first-impressions-and-learning-resources-4101bff9f04?source=rss----e57b304801ef---4)
 - [Merry Christmas Kotliners!](https://blog.kotlin-academy.com/merry-christmas-kotliners-6648d926303?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews series](https://blog.kotlin-academy.com/kotlin-for-interviews-series-def58e229e23?source=rss----e57b304801ef---4)
 - [Are you feeling overwhelmed? Refactor your assumptions](https://blog.kotlin-academy.com/are-you-feeling-overwhelmed-refactor-your-assumptions-fc77804a0b02?source=rss----e57b304801ef---4)
@@ -289,7 +290,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Kotlin for Interviews — Part 3: Numbers and Math](https://blog.kotlin-academy.com/kotlin-for-interviews-part-3-numbers-and-math-786660295cea?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews — Part 2: Collection Functions](https://blog.kotlin-academy.com/kotlin-for-interviews-part-2-collection-functions-a4a488fa0a14?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews — Part 1: Common Data Types](https://blog.kotlin-academy.com/kotlin-for-interviews-part-1-common-data-types-886ea1e40645?source=rss----e57b304801ef---4)
-- [Coding Music](https://blog.kotlin-academy.com/coding-music-da4a96e14af1?source=rss----e57b304801ef---4)
 <!-- KOTLINACADEMY-POST-LIST:END -->
 
 ### _Super Kotlin posts_
