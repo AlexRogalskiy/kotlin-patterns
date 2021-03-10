@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [RequiresOptIn for property access?](https://discuss.kotlinlang.org/t/requiresoptin-for-property-access/21139/1)
-- [Exposed - updating entry using existing value for boolean fields](https://discuss.kotlinlang.org/t/exposed-updating-entry-using-existing-value-for-boolean-fields/21137/1)
-- [android.app.NotificationManager: java.lang.NullPointerException](https://discuss.kotlinlang.org/t/android-app-notificationmanager-java-lang-nullpointerexception/21114/6)
-- [android.app.NotificationManager: java.lang.NullPointerException](https://discuss.kotlinlang.org/t/android-app-notificationmanager-java-lang-nullpointerexception/21114/5)
-- [android.app.NotificationManager: java.lang.NullPointerException](https://discuss.kotlinlang.org/t/android-app-notificationmanager-java-lang-nullpointerexception/21114/4)
-- [Workaround for reified T at class level](https://discuss.kotlinlang.org/t/workaround-for-reified-t-at-class-level/21128/5)
-- [Classes up-to-date check: Internal error (java.lang.ClassNotFoundException): kotlin.collections.ArraysKt___ArraysJvmKt](https://discuss.kotlinlang.org/t/classes-up-to-date-check-internal-error-java-lang-classnotfoundexception-kotlin-collections-arrayskt-arraysjvmkt/21130/4)
-- [Add extension method to global scope](https://discuss.kotlinlang.org/t/add-extension-method-to-global-scope/21121/2)
-- [Workaround for reified T at class level](https://discuss.kotlinlang.org/t/workaround-for-reified-t-at-class-level/21128/4)
-- [Workaround for reified T at class level](https://discuss.kotlinlang.org/t/workaround-for-reified-t-at-class-level/21128/3)
+- [RequiresOptIn for property access?](https://discuss.kotlinlang.org/t/requiresoptin-for-property-access/21139/5)
+- [RequiresOptIn for property access?](https://discuss.kotlinlang.org/t/requiresoptin-for-property-access/21139/4)
+- [RequiresOptIn for property access?](https://discuss.kotlinlang.org/t/requiresoptin-for-property-access/21139/3)
+- [Ktor gives me 404 on all authenticated routes](https://discuss.kotlinlang.org/t/ktor-gives-me-404-on-all-authenticated-routes/21085/3)
+- [ELM like frontend development in Kotlin](https://discuss.kotlinlang.org/t/elm-like-frontend-development-in-kotlin/21146/2)
+- [Run-time null checks and performance](https://discuss.kotlinlang.org/t/run-time-null-checks-and-performance/2086/20)
+- [Coroutines: Correct use for class managing data](https://discuss.kotlinlang.org/t/coroutines-correct-use-for-class-managing-data/21152/3)
+- [Coroutines: Correct use for class managing data](https://discuss.kotlinlang.org/t/coroutines-correct-use-for-class-managing-data/21152/2)
+- [Coroutines: Correct use for class managing data](https://discuss.kotlinlang.org/t/coroutines-correct-use-for-class-managing-data/21152/1)
+- [ELM like frontend development in Kotlin](https://discuss.kotlinlang.org/t/elm-like-frontend-development-in-kotlin/21146/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
