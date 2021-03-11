@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Adopting Kotlin at Prime Video for higher developer satisfaction and less code](https://www.reddit.com/r/Kotlin/comments/m28v1v/adopting_kotlin_at_prime_video_for_higher/)
+- [JetBrains Connect, Ep. 4 – "Why Kotlin?" with Bruce Eckel and Svetlana Isakova](https://www.reddit.com/r/Kotlin/comments/m221fj/jetbrains_connect_ep_4_why_kotlin_with_bruce/)
+- [Idiomatic equals](https://www.reddit.com/r/Kotlin/comments/m1ztb3/idiomatic_equals/)
+- [I entered in programming world last week and started learning kotlin for app development...after seeing this pic should I change language](https://www.reddit.com/r/Kotlin/comments/m1otp3/i_entered_in_programming_world_last_week_and/)
 - [Is there something like rx forkjoin for flows? I wrote this because I thought there wasn't any.](https://www.reddit.com/r/Kotlin/comments/m1bw43/is_there_something_like_rx_forkjoin_for_flows_i/)
 - [Check out the latest installment of Spring Time in Kotlin! In this episode, /u/fundamentalparticle provides an overview of the new tutorial about Spring Boot with Kotlin and RSocket.](https://www.reddit.com/r/Kotlin/comments/m1a54j/check_out_the_latest_installment_of_spring_time/)
 - [ELM like frontend development in Kotlin](https://www.reddit.com/r/Kotlin/comments/m160qo/elm_like_frontend_development_in_kotlin/)
 - [Taking a job as a Kotlin Dev coming from Python.](https://www.reddit.com/r/Kotlin/comments/m15el7/taking_a_job_as_a_kotlin_dev_coming_from_python/)
 - [How to store the contents of an file in an array line by line](https://www.reddit.com/r/Kotlin/comments/m14dq6/how_to_store_the_contents_of_an_file_in_an_array/)
 - [Flutter for Kotlin UI ?](https://www.reddit.com/r/Kotlin/comments/m13w86/flutter_for_kotlin_ui/)
-- [Flutter vs kotlin: What's the Best Choice for your Business?](https://www.reddit.com/r/Kotlin/comments/m106hn/flutter_vs_kotlin_whats_the_best_choice_for_your/)
-- [Why do these have different behavior/warnings?](https://www.reddit.com/r/Kotlin/comments/m0zjol/why_do_these_have_different_behaviorwarnings/)
-- [Kotlin Heroes: Episode 6 Is Here](https://www.reddit.com/r/Kotlin/comments/m0ts5f/kotlin_heroes_episode_6_is_here/)
-- [Teaching Android Development With Kotlin: The Stanford Approach](https://www.reddit.com/r/Kotlin/comments/m0ln7i/teaching_android_development_with_kotlin_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
