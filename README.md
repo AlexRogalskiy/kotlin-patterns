@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [RequiresOptIn for property access?](https://discuss.kotlinlang.org/t/requiresoptin-for-property-access/21139/5)
-- [RequiresOptIn for property access?](https://discuss.kotlinlang.org/t/requiresoptin-for-property-access/21139/4)
-- [RequiresOptIn for property access?](https://discuss.kotlinlang.org/t/requiresoptin-for-property-access/21139/3)
-- [Ktor gives me 404 on all authenticated routes](https://discuss.kotlinlang.org/t/ktor-gives-me-404-on-all-authenticated-routes/21085/3)
-- [ELM like frontend development in Kotlin](https://discuss.kotlinlang.org/t/elm-like-frontend-development-in-kotlin/21146/2)
-- [Run-time null checks and performance](https://discuss.kotlinlang.org/t/run-time-null-checks-and-performance/2086/20)
-- [Coroutines: Correct use for class managing data](https://discuss.kotlinlang.org/t/coroutines-correct-use-for-class-managing-data/21152/3)
-- [Coroutines: Correct use for class managing data](https://discuss.kotlinlang.org/t/coroutines-correct-use-for-class-managing-data/21152/2)
-- [Coroutines: Correct use for class managing data](https://discuss.kotlinlang.org/t/coroutines-correct-use-for-class-managing-data/21152/1)
-- [ELM like frontend development in Kotlin](https://discuss.kotlinlang.org/t/elm-like-frontend-development-in-kotlin/21146/1)
+- [Kotlin/JS 1.4, how to output a NPM package?](https://discuss.kotlinlang.org/t/kotlin-js-1-4-how-to-output-a-npm-package/19128/4)
+- [Data Binding String List](https://discuss.kotlinlang.org/t/data-binding-string-list/21165/1)
+- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/9)
+- [Mixing javascript with kotlin html dsl](https://discuss.kotlinlang.org/t/mixing-javascript-with-kotlin-html-dsl/21163/1)
+- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/8)
+- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/7)
+- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/6)
+- [How to use sqlite3 in kotlin?](https://discuss.kotlinlang.org/t/how-to-use-sqlite3-in-kotlin/17997/5)
+- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/5)
+- [Kotlin/JS 1.4, how to output a NPM package?](https://discuss.kotlinlang.org/t/kotlin-js-1-4-how-to-output-a-npm-package/19128/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
