@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Kotlin/JS 1.4, how to output a NPM package?](https://discuss.kotlinlang.org/t/kotlin-js-1-4-how-to-output-a-npm-package/19128/4)
-- [Data Binding String List](https://discuss.kotlinlang.org/t/data-binding-string-list/21165/1)
-- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/9)
-- [Mixing javascript with kotlin html dsl](https://discuss.kotlinlang.org/t/mixing-javascript-with-kotlin-html-dsl/21163/1)
-- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/8)
-- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/7)
-- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/6)
-- [How to use sqlite3 in kotlin?](https://discuss.kotlinlang.org/t/how-to-use-sqlite3-in-kotlin/17997/5)
-- [Data classes vs new value classes](https://discuss.kotlinlang.org/t/data-classes-vs-new-value-classes/21071/5)
-- [Kotlin/JS 1.4, how to output a NPM package?](https://discuss.kotlinlang.org/t/kotlin-js-1-4-how-to-output-a-npm-package/19128/3)
+- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/1)
+- [JSR223 and 1.4](https://discuss.kotlinlang.org/t/jsr223-and-1-4/21171/4)
+- [JSR223 and 1.4](https://discuss.kotlinlang.org/t/jsr223-and-1-4/21171/3)
+- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/3)
+- [Native Abstracted Class Missing member declarations](https://discuss.kotlinlang.org/t/native-abstracted-class-missing-member-declarations/21100/2)
+- [Data Binding String List](https://discuss.kotlinlang.org/t/data-binding-string-list/21165/2)
+- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/2)
+- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/1)
+- [JSR223 and 1.4](https://discuss.kotlinlang.org/t/jsr223-and-1-4/21171/2)
+- [Unable to start a foreground service using kotlin multiplatform](https://discuss.kotlinlang.org/t/unable-to-start-a-foreground-service-using-kotlin-multiplatform/21174/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
