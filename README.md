@@ -240,6 +240,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Not only Spring Boot: a review of alternatives](https://www.reddit.com/r/Kotlin/comments/m2wvnx/not_only_spring_boot_a_review_of_alternatives/)
+- [Chaos Engineering – Simulating OutOfMemoryError](https://www.reddit.com/r/Kotlin/comments/m2iwxg/chaos_engineering_simulating_outofmemoryerror/)
+- [Give me reasons to switch from Flutter to Kotlin](https://www.reddit.com/r/Kotlin/comments/m2h2z4/give_me_reasons_to_switch_from_flutter_to_kotlin/)
 - [Adopting Kotlin at Prime Video for higher developer satisfaction and less code](https://www.reddit.com/r/Kotlin/comments/m28v1v/adopting_kotlin_at_prime_video_for_higher/)
 - [JetBrains Connect, Ep. 4 – "Why Kotlin?" with Bruce Eckel and Svetlana Isakova](https://www.reddit.com/r/Kotlin/comments/m221fj/jetbrains_connect_ep_4_why_kotlin_with_bruce/)
 - [Idiomatic equals](https://www.reddit.com/r/Kotlin/comments/m1ztb3/idiomatic_equals/)
@@ -247,9 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Is there something like rx forkjoin for flows? I wrote this because I thought there wasn't any.](https://www.reddit.com/r/Kotlin/comments/m1bw43/is_there_something_like_rx_forkjoin_for_flows_i/)
 - [Check out the latest installment of Spring Time in Kotlin! In this episode, /u/fundamentalparticle provides an overview of the new tutorial about Spring Boot with Kotlin and RSocket.](https://www.reddit.com/r/Kotlin/comments/m1a54j/check_out_the_latest_installment_of_spring_time/)
 - [ELM like frontend development in Kotlin](https://www.reddit.com/r/Kotlin/comments/m160qo/elm_like_frontend_development_in_kotlin/)
-- [Taking a job as a Kotlin Dev coming from Python.](https://www.reddit.com/r/Kotlin/comments/m15el7/taking_a_job_as_a_kotlin_dev_coming_from_python/)
-- [How to store the contents of an file in an array line by line](https://www.reddit.com/r/Kotlin/comments/m14dq6/how_to_store_the_contents_of_an_file_in_an_array/)
-- [Flutter for Kotlin UI ?](https://www.reddit.com/r/Kotlin/comments/m13w86/flutter_for_kotlin_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
