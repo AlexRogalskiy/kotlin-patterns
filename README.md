@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Effective handling your tech debt](https://www.reddit.com/r/Kotlin/comments/m3owot/effective_handling_your_tech_debt/)
+- [Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/m3lt4e/learn_kotlin/)
+- [Kotlin + VertX for backend microservices. Recommendation and advice](https://www.reddit.com/r/Kotlin/comments/m3jqoj/kotlin_vertx_for_backend_microservices/)
+- [Beta Kotlin template support in jte IntelliJ plugin 1.4](https://www.reddit.com/r/Kotlin/comments/m3jokp/beta_kotlin_template_support_in_jte_intellij/)
+- [Kotlin compilation fails in IntelliJ with KotlinSDK selected, but not with JavaSDK?](https://www.reddit.com/r/Kotlin/comments/m3j4mj/kotlin_compilation_fails_in_intellij_with/)
+- [Let your delegates auto-nullify references](https://www.reddit.com/r/Kotlin/comments/m3h36g/let_your_delegates_autonullify_references/)
+- [Partner Up for Learning](https://www.reddit.com/r/Kotlin/comments/m3asj4/partner_up_for_learning/)
 - [Not only Spring Boot: a review of alternatives](https://www.reddit.com/r/Kotlin/comments/m2wvnx/not_only_spring_boot_a_review_of_alternatives/)
 - [Chaos Engineering – Simulating OutOfMemoryError](https://www.reddit.com/r/Kotlin/comments/m2iwxg/chaos_engineering_simulating_outofmemoryerror/)
 - [Give me reasons to switch from Flutter to Kotlin](https://www.reddit.com/r/Kotlin/comments/m2h2z4/give_me_reasons_to_switch_from_flutter_to_kotlin/)
-- [Adopting Kotlin at Prime Video for higher developer satisfaction and less code](https://www.reddit.com/r/Kotlin/comments/m28v1v/adopting_kotlin_at_prime_video_for_higher/)
-- [JetBrains Connect, Ep. 4 – "Why Kotlin?" with Bruce Eckel and Svetlana Isakova](https://www.reddit.com/r/Kotlin/comments/m221fj/jetbrains_connect_ep_4_why_kotlin_with_bruce/)
-- [Idiomatic equals](https://www.reddit.com/r/Kotlin/comments/m1ztb3/idiomatic_equals/)
-- [I entered in programming world last week and started learning kotlin for app development...after seeing this pic should I change language](https://www.reddit.com/r/Kotlin/comments/m1otp3/i_entered_in_programming_world_last_week_and/)
-- [Is there something like rx forkjoin for flows? I wrote this because I thought there wasn't any.](https://www.reddit.com/r/Kotlin/comments/m1bw43/is_there_something_like_rx_forkjoin_for_flows_i/)
-- [Check out the latest installment of Spring Time in Kotlin! In this episode, /u/fundamentalparticle provides an overview of the new tutorial about Spring Boot with Kotlin and RSocket.](https://www.reddit.com/r/Kotlin/comments/m1a54j/check_out_the_latest_installment_of_spring_time/)
-- [ELM like frontend development in Kotlin](https://www.reddit.com/r/Kotlin/comments/m160qo/elm_like_frontend_development_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
