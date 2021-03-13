@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/1)
-- [JSR223 and 1.4](https://discuss.kotlinlang.org/t/jsr223-and-1-4/21171/4)
-- [JSR223 and 1.4](https://discuss.kotlinlang.org/t/jsr223-and-1-4/21171/3)
-- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/3)
-- [Native Abstracted Class Missing member declarations](https://discuss.kotlinlang.org/t/native-abstracted-class-missing-member-declarations/21100/2)
-- [Data Binding String List](https://discuss.kotlinlang.org/t/data-binding-string-list/21165/2)
-- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/2)
-- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/1)
-- [JSR223 and 1.4](https://discuss.kotlinlang.org/t/jsr223-and-1-4/21171/2)
-- [Unable to start a foreground service using kotlin multiplatform](https://discuss.kotlinlang.org/t/unable-to-start-a-foreground-service-using-kotlin-multiplatform/21174/1)
+- [Coroutines: Correct use for class managing data](https://discuss.kotlinlang.org/t/coroutines-correct-use-for-class-managing-data/21152/5)
+- [I want to pass `transform` to `toSet`](https://discuss.kotlinlang.org/t/i-want-to-pass-transform-to-toset/21101/7)
+- [I want to pass `transform` to `toSet`](https://discuss.kotlinlang.org/t/i-want-to-pass-transform-to-toset/21101/6)
+- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/4)
+- [Kotlin with vscode and sublime](https://discuss.kotlinlang.org/t/kotlin-with-vscode-and-sublime/21184/1)
+- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/3)
+- [Unable to compile kotlin](https://discuss.kotlinlang.org/t/unable-to-compile-kotlin/19012/6)
+- [State of Kotlin.Result vs. kotlin-result?](https://discuss.kotlinlang.org/t/state-of-kotlin-result-vs-kotlin-result/21103/4)
+- [I want to pass `transform` to `toSet`](https://discuss.kotlinlang.org/t/i-want-to-pass-transform-to-toset/21101/5)
+- [I want to pass `transform` to `toSet`](https://discuss.kotlinlang.org/t/i-want-to-pass-transform-to-toset/21101/4)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
