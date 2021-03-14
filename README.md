@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Flows with JMS](https://www.reddit.com/r/Kotlin/comments/m4fpg3/flows_with_jms/)
+- [Jetpack Compose - Pulsating Effect](https://www.reddit.com/r/Kotlin/comments/m4fhc6/jetpack_compose_pulsating_effect/)
+- [Can reified generics remove the need for reflection in this situation?](https://www.reddit.com/r/Kotlin/comments/m4e645/can_reified_generics_remove_the_need_for/)
+- [Inheritance in Kotlin vs Swift, taken from http://nilhcem.com/swift-is-like-kotlin/](https://www.reddit.com/r/Kotlin/comments/m4dhbf/inheritance_in_kotlin_vs_swift_taken_from/)
+- [Signals, the best event handling system for Kotlin](https://www.reddit.com/r/Kotlin/comments/m4a6xw/signals_the_best_event_handling_system_for_kotlin/)
+- [Kotlin Multiplatform with Angular 2 for web](https://www.reddit.com/r/Kotlin/comments/m4a2wc/kotlin_multiplatform_with_angular_2_for_web/)
+- [Smart Casts via Assertions + Kotlin Contracts](https://www.reddit.com/r/Kotlin/comments/m46q6i/smart_casts_via_assertions_kotlin_contracts/)
+- [I'm so confused, I'm trying to pass a string to this function and I tried EVERY possible way I found on google, even tho it shows that 'it' is a String it still says it passes a String? so I'd like to get some help if anyone knows how can I fix this](https://www.reddit.com/r/Kotlin/comments/m44jiu/im_so_confused_im_trying_to_pass_a_string_to_this/)
+- [Can't access kotlinjs output after changing it's name in a kotlinjs/ktor project](https://www.reddit.com/r/Kotlin/comments/m42yft/cant_access_kotlinjs_output_after_changing_its/)
 - [Effective handling your tech debt](https://www.reddit.com/r/Kotlin/comments/m3owot/effective_handling_your_tech_debt/)
-- [Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/m3lt4e/learn_kotlin/)
-- [Kotlin + VertX for backend microservices. Recommendation and advice](https://www.reddit.com/r/Kotlin/comments/m3jqoj/kotlin_vertx_for_backend_microservices/)
-- [Beta Kotlin template support in jte IntelliJ plugin 1.4](https://www.reddit.com/r/Kotlin/comments/m3jokp/beta_kotlin_template_support_in_jte_intellij/)
-- [Kotlin compilation fails in IntelliJ with KotlinSDK selected, but not with JavaSDK?](https://www.reddit.com/r/Kotlin/comments/m3j4mj/kotlin_compilation_fails_in_intellij_with/)
-- [Let your delegates auto-nullify references](https://www.reddit.com/r/Kotlin/comments/m3h36g/let_your_delegates_autonullify_references/)
-- [Partner Up for Learning](https://www.reddit.com/r/Kotlin/comments/m3asj4/partner_up_for_learning/)
-- [Not only Spring Boot: a review of alternatives](https://www.reddit.com/r/Kotlin/comments/m2wvnx/not_only_spring_boot_a_review_of_alternatives/)
-- [Chaos Engineering – Simulating OutOfMemoryError](https://www.reddit.com/r/Kotlin/comments/m2iwxg/chaos_engineering_simulating_outofmemoryerror/)
-- [Give me reasons to switch from Flutter to Kotlin](https://www.reddit.com/r/Kotlin/comments/m2h2z4/give_me_reasons_to_switch_from_flutter_to_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
