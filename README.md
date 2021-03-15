@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [java.lang.NoClassDefFoundError: org/jetbrains/kotlin/cli/common/PropertiesKt](https://discuss.kotlinlang.org/t/java-lang-noclassdeffounderror-org-jetbrains-kotlin-cli-common-propertieskt/19193/15)
+- [Redeclaration clash with private classes](https://discuss.kotlinlang.org/t/redeclaration-clash-with-private-classes/21198/4)
+- [How does Generics Specialization work in Kotlin?](https://discuss.kotlinlang.org/t/how-does-generics-specialization-work-in-kotlin/21067/6)
+- [Redeclaration clash with private classes](https://discuss.kotlinlang.org/t/redeclaration-clash-with-private-classes/21198/3)
+- [How does Generics Specialization work in Kotlin?](https://discuss.kotlinlang.org/t/how-does-generics-specialization-work-in-kotlin/21067/5)
+- [Redeclaration clash with private classes](https://discuss.kotlinlang.org/t/redeclaration-clash-with-private-classes/21198/2)
+- [Redeclaration clash with private classes](https://discuss.kotlinlang.org/t/redeclaration-clash-with-private-classes/21198/1)
+- [Help me understand Kotlin](https://discuss.kotlinlang.org/t/help-me-understand-kotlin/21196/3)
 - [I18n4k - Internationalization for Kotlin](https://discuss.kotlinlang.org/t/i18n4k-internationalization-for-kotlin/21075/3)
 - [Help me understand Kotlin](https://discuss.kotlinlang.org/t/help-me-understand-kotlin/21196/2)
-- [Help me understand Kotlin](https://discuss.kotlinlang.org/t/help-me-understand-kotlin/21196/1)
-- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/5)
-- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/4)
-- [Coroutines: Correct use for class managing data](https://discuss.kotlinlang.org/t/coroutines-correct-use-for-class-managing-data/21152/5)
-- [I want to pass `transform` to `toSet`](https://discuss.kotlinlang.org/t/i-want-to-pass-transform-to-toset/21101/7)
-- [I want to pass `transform` to `toSet`](https://discuss.kotlinlang.org/t/i-want-to-pass-transform-to-toset/21101/6)
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/4)
-- [Kotlin with vscode and sublime](https://discuss.kotlinlang.org/t/kotlin-with-vscode-and-sublime/21184/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
