@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Backpressure in Reactive Systems](https://www.reddit.com/r/Kotlin/comments/m4yst1/backpressure_in_reactive_systems/)
+- [Talking Kotlin – Kotlin Multiplatform with John O'Reilly](https://www.reddit.com/r/Kotlin/comments/m4vl5n/talking_kotlin_kotlin_multiplatform_with_john/)
+- [Kotlin from zero with no previous programming experience](https://www.reddit.com/r/Kotlin/comments/m4to58/kotlin_from_zero_with_no_previous_programming/)
+- [Data class validation](https://www.reddit.com/r/Kotlin/comments/m4sqf7/data_class_validation/)
 - [Flows with JMS](https://www.reddit.com/r/Kotlin/comments/m4fpg3/flows_with_jms/)
 - [Jetpack Compose - Pulsating Effect](https://www.reddit.com/r/Kotlin/comments/m4fhc6/jetpack_compose_pulsating_effect/)
 - [Can reified generics remove the need for reflection in this situation?](https://www.reddit.com/r/Kotlin/comments/m4e645/can_reified_generics_remove_the_need_for/)
 - [Inheritance in Kotlin vs Swift, taken from http://nilhcem.com/swift-is-like-kotlin/](https://www.reddit.com/r/Kotlin/comments/m4dhbf/inheritance_in_kotlin_vs_swift_taken_from/)
 - [Signals, the best event handling system for Kotlin](https://www.reddit.com/r/Kotlin/comments/m4a6xw/signals_the_best_event_handling_system_for_kotlin/)
 - [Kotlin Multiplatform with Angular 2 for web](https://www.reddit.com/r/Kotlin/comments/m4a2wc/kotlin_multiplatform_with_angular_2_for_web/)
-- [Smart Casts via Assertions + Kotlin Contracts](https://www.reddit.com/r/Kotlin/comments/m46q6i/smart_casts_via_assertions_kotlin_contracts/)
-- [I'm so confused, I'm trying to pass a string to this function and I tried EVERY possible way I found on google, even tho it shows that 'it' is a String it still says it passes a String? so I'd like to get some help if anyone knows how can I fix this](https://www.reddit.com/r/Kotlin/comments/m44jiu/im_so_confused_im_trying_to_pass_a_string_to_this/)
-- [Can't access kotlinjs output after changing it's name in a kotlinjs/ktor project](https://www.reddit.com/r/Kotlin/comments/m42yft/cant_access_kotlinjs_output_after_changing_its/)
-- [Effective handling your tech debt](https://www.reddit.com/r/Kotlin/comments/m3owot/effective_handling_your_tech_debt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
