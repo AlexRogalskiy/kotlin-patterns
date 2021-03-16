@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [java.lang.NoClassDefFoundError: org/jetbrains/kotlin/cli/common/PropertiesKt](https://discuss.kotlinlang.org/t/java-lang-noclassdeffounderror-org-jetbrains-kotlin-cli-common-propertieskt/19193/15)
-- [Redeclaration clash with private classes](https://discuss.kotlinlang.org/t/redeclaration-clash-with-private-classes/21198/4)
-- [How does Generics Specialization work in Kotlin?](https://discuss.kotlinlang.org/t/how-does-generics-specialization-work-in-kotlin/21067/6)
-- [Redeclaration clash with private classes](https://discuss.kotlinlang.org/t/redeclaration-clash-with-private-classes/21198/3)
-- [How does Generics Specialization work in Kotlin?](https://discuss.kotlinlang.org/t/how-does-generics-specialization-work-in-kotlin/21067/5)
-- [Redeclaration clash with private classes](https://discuss.kotlinlang.org/t/redeclaration-clash-with-private-classes/21198/2)
-- [Redeclaration clash with private classes](https://discuss.kotlinlang.org/t/redeclaration-clash-with-private-classes/21198/1)
-- [Help me understand Kotlin](https://discuss.kotlinlang.org/t/help-me-understand-kotlin/21196/3)
-- [I18n4k - Internationalization for Kotlin](https://discuss.kotlinlang.org/t/i18n4k-internationalization-for-kotlin/21075/3)
-- [Help me understand Kotlin](https://discuss.kotlinlang.org/t/help-me-understand-kotlin/21196/2)
+- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/7)
+- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/6)
+- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/5)
+- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/4)
+- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/3)
+- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/2)
+- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/1)
+- [Números impares](https://discuss.kotlinlang.org/t/numeros-impares/21208/1)
+- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/9)
+- [Guessing generic class type from parameters](https://discuss.kotlinlang.org/t/guessing-generic-class-type-from-parameters/21205/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
