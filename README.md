@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Float/Double is bad at storing digits.](https://www.reddit.com/r/Kotlin/comments/m5umnb/floatdouble_is_bad_at_storing_digits/)
+- [Jetpack Compose LocalizedText](https://www.reddit.com/r/Kotlin/comments/m5lb55/jetpack_compose_localizedtext/)
+- [Call funtction from another activity](https://www.reddit.com/r/Kotlin/comments/m5kjs1/call_funtction_from_another_activity/)
+- [kotlin-multiplatform-diff - a library for calculating text differences, based on java-diff-utils, with multiplatform support](https://www.reddit.com/r/Kotlin/comments/m5j7n4/kotlinmultiplatformdiff_a_library_for_calculating/)
+- [Quick testing tips #3 - use collection matchers in Kotest](https://www.reddit.com/r/Kotlin/comments/m5gvjm/quick_testing_tips_3_use_collection_matchers_in/)
+- [Java Threads: Are They Memory Efficient?](https://www.reddit.com/r/Kotlin/comments/m5guvu/java_threads_are_they_memory_efficient/)
+- [9-Nullability in Kotlin](https://www.reddit.com/r/Kotlin/comments/m5gfwt/9nullability_in_kotlin/)
+- [Kotlin chatbot](https://www.reddit.com/r/Kotlin/comments/m5geho/kotlin_chatbot/)
 - [Backpressure in Reactive Systems](https://www.reddit.com/r/Kotlin/comments/m4yst1/backpressure_in_reactive_systems/)
 - [Talking Kotlin – Kotlin Multiplatform with John O'Reilly](https://www.reddit.com/r/Kotlin/comments/m4vl5n/talking_kotlin_kotlin_multiplatform_with_john/)
-- [Kotlin from zero with no previous programming experience](https://www.reddit.com/r/Kotlin/comments/m4to58/kotlin_from_zero_with_no_previous_programming/)
-- [Data class validation](https://www.reddit.com/r/Kotlin/comments/m4sqf7/data_class_validation/)
-- [Flows with JMS](https://www.reddit.com/r/Kotlin/comments/m4fpg3/flows_with_jms/)
-- [Jetpack Compose - Pulsating Effect](https://www.reddit.com/r/Kotlin/comments/m4fhc6/jetpack_compose_pulsating_effect/)
-- [Can reified generics remove the need for reflection in this situation?](https://www.reddit.com/r/Kotlin/comments/m4e645/can_reified_generics_remove_the_need_for/)
-- [Inheritance in Kotlin vs Swift, taken from http://nilhcem.com/swift-is-like-kotlin/](https://www.reddit.com/r/Kotlin/comments/m4dhbf/inheritance_in_kotlin_vs_swift_taken_from/)
-- [Signals, the best event handling system for Kotlin](https://www.reddit.com/r/Kotlin/comments/m4a6xw/signals_the_best_event_handling_system_for_kotlin/)
-- [Kotlin Multiplatform with Angular 2 for web](https://www.reddit.com/r/Kotlin/comments/m4a2wc/kotlin_multiplatform_with_angular_2_for_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
