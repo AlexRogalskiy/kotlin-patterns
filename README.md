@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/7)
-- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/6)
-- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/5)
-- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/4)
-- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/3)
-- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/2)
-- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/1)
-- [Números impares](https://discuss.kotlinlang.org/t/numeros-impares/21208/1)
-- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/9)
-- [Guessing generic class type from parameters](https://discuss.kotlinlang.org/t/guessing-generic-class-type-from-parameters/21205/1)
+- [Problem passing a Collection as "clazz: Class<T>"](https://discuss.kotlinlang.org/t/problem-passing-a-collection-as-clazz-class-t/21213/6)
+- [Problem passing a Collection as "clazz: Class<T>"](https://discuss.kotlinlang.org/t/problem-passing-a-collection-as-clazz-class-t/21213/5)
+- [Problem passing a Collection as "clazz: Class<T>"](https://discuss.kotlinlang.org/t/problem-passing-a-collection-as-clazz-class-t/21213/4)
+- [Does Kotlin have multi-catch?](https://discuss.kotlinlang.org/t/does-kotlin-have-multi-catch/486/35)
+- [Args in main parameters](https://discuss.kotlinlang.org/t/args-in-main-parameters/21221/3)
+- [Problem passing a Collection as "clazz: Class<T>"](https://discuss.kotlinlang.org/t/problem-passing-a-collection-as-clazz-class-t/21213/3)
+- [Problem passing a Collection as "clazz: Class<T>"](https://discuss.kotlinlang.org/t/problem-passing-a-collection-as-clazz-class-t/21213/2)
+- [Configuring AWS Explorer for Localstack](https://discuss.kotlinlang.org/t/configuring-aws-explorer-for-localstack/21226/1)
+- [Viewpager with Friebase notifications](https://discuss.kotlinlang.org/t/viewpager-with-friebase-notifications/21225/1)
+- [Blocking chanel.send until received data are processed](https://discuss.kotlinlang.org/t/blocking-chanel-send-until-received-data-are-processed/21220/4)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
