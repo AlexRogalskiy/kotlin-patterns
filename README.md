@@ -240,6 +240,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Support multiple themes in an Android app](https://www.reddit.com/r/Kotlin/comments/m78mbq/support_multiple_themes_in_an_android_app/)
+- [IntelliJ says that I can't assign `null` to `Triple<Int, Int, Int>?`](https://www.reddit.com/r/Kotlin/comments/m70d2z/intellij_says_that_i_cant_assign_null_to/)
+- [Shallow Heap vs Retained Heap](https://www.reddit.com/r/Kotlin/comments/m6xzqq/shallow_heap_vs_retained_heap/)
 - [The Modern Java Platform - 2021 Edition](https://www.reddit.com/r/Kotlin/comments/m6mlia/the_modern_java_platform_2021_edition/)
 - [Confusion](https://www.reddit.com/r/Kotlin/comments/m6gtu0/confusion/)
 - [Compose Icons - Font Awesome, Simple Icons and more icon packs for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/m6gjb2/compose_icons_font_awesome_simple_icons_and_more/)
@@ -247,9 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Workflow with the command-line](https://www.reddit.com/r/Kotlin/comments/m6brp2/workflow_with_the_commandline/)
 - [KMM at CashApp](https://www.reddit.com/r/Kotlin/comments/m69rdv/kmm_at_cashapp/)
 - [Kotlin Compiler Crash Course](https://www.reddit.com/r/Kotlin/comments/m693oz/kotlin_compiler_crash_course/)
-- [Is kotlin native mobile app considered hybrid or native app?](https://www.reddit.com/r/Kotlin/comments/m650sa/is_kotlin_native_mobile_app_considered_hybrid_or/)
-- [Hacking Kotlin - Writing a DSL](https://www.reddit.com/r/Kotlin/comments/m62vha/hacking_kotlin_writing_a_dsl/)
-- [Float/Double is bad at storing digits.](https://www.reddit.com/r/Kotlin/comments/m5umnb/floatdouble_is_bad_at_storing_digits/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
