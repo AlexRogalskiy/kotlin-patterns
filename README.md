@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Kotlin/JS + React enormous bundle size](https://discuss.kotlinlang.org/t/kotlin-js-react-enormous-bundle-size/21237/3)
+- [HttpUrlConnection doOutput](https://discuss.kotlinlang.org/t/httpurlconnection-dooutput/21239/1)
+- [Kotlin/JS + React enormous bundle size](https://discuss.kotlinlang.org/t/kotlin-js-react-enormous-bundle-size/21237/2)
+- [Kotlin/JS + React enormous bundle size](https://discuss.kotlinlang.org/t/kotlin-js-react-enormous-bundle-size/21237/1)
+- [Best practices for loggers](https://discuss.kotlinlang.org/t/best-practices-for-loggers/226/27)
+- [String.Empty Field](https://discuss.kotlinlang.org/t/string-empty-field/5335/27)
+- [Overriding functions from open class](https://discuss.kotlinlang.org/t/overriding-functions-from-open-class/21209/8)
+- [Code Error](https://discuss.kotlinlang.org/t/code-error/21223/2)
 - [Problem passing a Collection as "clazz: Class<T>"](https://discuss.kotlinlang.org/t/problem-passing-a-collection-as-clazz-class-t/21213/6)
 - [Problem passing a Collection as "clazz: Class<T>"](https://discuss.kotlinlang.org/t/problem-passing-a-collection-as-clazz-class-t/21213/5)
-- [Problem passing a Collection as "clazz: Class<T>"](https://discuss.kotlinlang.org/t/problem-passing-a-collection-as-clazz-class-t/21213/4)
-- [Does Kotlin have multi-catch?](https://discuss.kotlinlang.org/t/does-kotlin-have-multi-catch/486/35)
-- [Args in main parameters](https://discuss.kotlinlang.org/t/args-in-main-parameters/21221/3)
-- [Problem passing a Collection as "clazz: Class<T>"](https://discuss.kotlinlang.org/t/problem-passing-a-collection-as-clazz-class-t/21213/3)
-- [Problem passing a Collection as "clazz: Class<T>"](https://discuss.kotlinlang.org/t/problem-passing-a-collection-as-clazz-class-t/21213/2)
-- [Configuring AWS Explorer for Localstack](https://discuss.kotlinlang.org/t/configuring-aws-explorer-for-localstack/21226/1)
-- [Viewpager with Friebase notifications](https://discuss.kotlinlang.org/t/viewpager-with-friebase-notifications/21225/1)
-- [Blocking chanel.send until received data are processed](https://discuss.kotlinlang.org/t/blocking-chanel-send-until-received-data-are-processed/21220/4)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
