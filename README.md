@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Support multiple themes in an Android app](https://www.reddit.com/r/Kotlin/comments/m78mbq/support_multiple_themes_in_an_android_app/)
+- [Interop between Java Consume and Kotlin lambda](https://www.reddit.com/r/Kotlin/comments/m7yhoc/interop_between_java_consume_and_kotlin_lambda/)
+- [Serverless Kotlin and Apache Kafka with Google Cloud](https://www.reddit.com/r/Kotlin/comments/m7tgxy/serverless_kotlin_and_apache_kafka_with_google/)
+- [The second episode of Kotlin Multiplatform Multiverse is out! This episode is dedicated to creating your first cross-platform application with KMM. Check it out!](https://www.reddit.com/r/Kotlin/comments/m7sq7y/the_second_episode_of_kotlin_multiplatform/)
+- [[Spoiler maybe?] Kotlin Koan Defautl Arguments exercise question](https://www.reddit.com/r/Kotlin/comments/m7rhw1/spoiler_maybe_kotlin_koan_defautl_arguments/)
+- [Kotlin favorite list](https://www.reddit.com/r/Kotlin/comments/m7nkl2/kotlin_favorite_list/)
+- [How do I overload this Retrofit functions?](https://www.reddit.com/r/Kotlin/comments/m7m0m4/how_do_i_overload_this_retrofit_functions/)
+- [Kotlin Beginner Question](https://www.reddit.com/r/Kotlin/comments/m7keyf/kotlin_beginner_question/)
 - [IntelliJ says that I can't assign `null` to `Triple<Int, Int, Int>?`](https://www.reddit.com/r/Kotlin/comments/m70d2z/intellij_says_that_i_cant_assign_null_to/)
 - [Shallow Heap vs Retained Heap](https://www.reddit.com/r/Kotlin/comments/m6xzqq/shallow_heap_vs_retained_heap/)
 - [The Modern Java Platform - 2021 Edition](https://www.reddit.com/r/Kotlin/comments/m6mlia/the_modern_java_platform_2021_edition/)
-- [Confusion](https://www.reddit.com/r/Kotlin/comments/m6gtu0/confusion/)
-- [Compose Icons - Font Awesome, Simple Icons and more icon packs for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/m6gjb2/compose_icons_font_awesome_simple_icons_and_more/)
-- [Chatbot](https://www.reddit.com/r/Kotlin/comments/m6ed52/chatbot/)
-- [Workflow with the command-line](https://www.reddit.com/r/Kotlin/comments/m6brp2/workflow_with_the_commandline/)
-- [KMM at CashApp](https://www.reddit.com/r/Kotlin/comments/m69rdv/kmm_at_cashapp/)
-- [Kotlin Compiler Crash Course](https://www.reddit.com/r/Kotlin/comments/m693oz/kotlin_compiler_crash_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
