@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Suspend-safety - something to keep in mind](https://discuss.kotlinlang.org/t/suspend-safety-something-to-keep-in-mind/21261/2)
-- [Kotlin-js, dce & closure compiler](https://discuss.kotlinlang.org/t/kotlin-js-dce-closure-compiler/16046/3)
-- [Unit test report with project dependency not showing all tests](https://discuss.kotlinlang.org/t/unit-test-report-with-project-dependency-not-showing-all-tests/20986/2)
-- [Suspend-safety - something to keep in mind](https://discuss.kotlinlang.org/t/suspend-safety-something-to-keep-in-mind/21261/1)
-- [Maven + OpenJDK16 + Kotlin 1.4.31 or 1.5.0-M1 llegalAccessException](https://discuss.kotlinlang.org/t/maven-openjdk16-kotlin-1-4-31-or-1-5-0-m1-llegalaccessexception/21260/1)
-- [Raspberry Pi Web Server In Native](https://discuss.kotlinlang.org/t/raspberry-pi-web-server-in-native/21257/1)
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/9)
-- [State of Kotlin.Result vs. kotlin-result?](https://discuss.kotlinlang.org/t/state-of-kotlin-result-vs-kotlin-result/21103/6)
-- [Kotlin/JS + React enormous bundle size](https://discuss.kotlinlang.org/t/kotlin-js-react-enormous-bundle-size/21237/4)
-- [State of Kotlin.Result vs. kotlin-result?](https://discuss.kotlinlang.org/t/state-of-kotlin-result-vs-kotlin-result/21103/5)
+- [Suspend-safety - something to keep in mind](https://discuss.kotlinlang.org/t/suspend-safety-something-to-keep-in-mind/21261/8)
+- [Suspend-safety - something to keep in mind](https://discuss.kotlinlang.org/t/suspend-safety-something-to-keep-in-mind/21261/7)
+- [How can I publish a javadoc.jar file with my Kotlin multiplatform project?](https://discuss.kotlinlang.org/t/how-can-i-publish-a-javadoc-jar-file-with-my-kotlin-multiplatform-project/21119/5)
+- [Suspend-safety - something to keep in mind](https://discuss.kotlinlang.org/t/suspend-safety-something-to-keep-in-mind/21261/6)
+- [Why I need to getter/setter?](https://discuss.kotlinlang.org/t/why-i-need-to-getter-setter/21272/5)
+- [How can I publish a javadoc.jar file with my Kotlin multiplatform project?](https://discuss.kotlinlang.org/t/how-can-i-publish-a-javadoc-jar-file-with-my-kotlin-multiplatform-project/21119/4)
+- [Why I need to getter/setter?](https://discuss.kotlinlang.org/t/why-i-need-to-getter-setter/21272/4)
+- [Suspend-safety - something to keep in mind](https://discuss.kotlinlang.org/t/suspend-safety-something-to-keep-in-mind/21261/5)
+- [Why I need to getter/setter?](https://discuss.kotlinlang.org/t/why-i-need-to-getter-setter/21272/3)
+- [Exposing a Mutable member as Immutable](https://discuss.kotlinlang.org/t/exposing-a-mutable-member-as-immutable/6359/32)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
