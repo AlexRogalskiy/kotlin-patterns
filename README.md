@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question: Big Nerd Ranch Guide](https://www.reddit.com/r/Kotlin/comments/m8sphj/question_big_nerd_ranch_guide/)
+- [I used Kotlin and Antlr to make a state machine compiler](https://www.reddit.com/r/Kotlin/comments/m8rz0u/i_used_kotlin_and_antlr_to_make_a_state_machine/)
+- [Successful registration does not change activity or show Toast](https://www.reddit.com/r/Kotlin/comments/m8lqxs/successful_registration_does_not_change_activity/)
+- [Kotlin/Android: Updating a progressbar from a IO coroutine](https://www.reddit.com/r/Kotlin/comments/m8fl8h/kotlinandroid_updating_a_progressbar_from_a_io/)
+- [Chatbot](https://www.reddit.com/r/Kotlin/comments/m8cfdx/chatbot/)
+- [Connect 4 2D array](https://www.reddit.com/r/Kotlin/comments/m885zc/connect_4_2d_array/)
 - [Interop between Java Consume and Kotlin lambda](https://www.reddit.com/r/Kotlin/comments/m7yhoc/interop_between_java_consume_and_kotlin_lambda/)
 - [Serverless Kotlin and Apache Kafka with Google Cloud](https://www.reddit.com/r/Kotlin/comments/m7tgxy/serverless_kotlin_and_apache_kafka_with_google/)
 - [The second episode of Kotlin Multiplatform Multiverse is out! This episode is dedicated to creating your first cross-platform application with KMM. Check it out!](https://www.reddit.com/r/Kotlin/comments/m7sq7y/the_second_episode_of_kotlin_multiplatform/)
 - [[Spoiler maybe?] Kotlin Koan Defautl Arguments exercise question](https://www.reddit.com/r/Kotlin/comments/m7rhw1/spoiler_maybe_kotlin_koan_defautl_arguments/)
-- [Kotlin favorite list](https://www.reddit.com/r/Kotlin/comments/m7nkl2/kotlin_favorite_list/)
-- [How do I overload this Retrofit functions?](https://www.reddit.com/r/Kotlin/comments/m7m0m4/how_do_i_overload_this_retrofit_functions/)
-- [Kotlin Beginner Question](https://www.reddit.com/r/Kotlin/comments/m7keyf/kotlin_beginner_question/)
-- [IntelliJ says that I can't assign `null` to `Triple<Int, Int, Int>?`](https://www.reddit.com/r/Kotlin/comments/m70d2z/intellij_says_that_i_cant_assign_null_to/)
-- [Shallow Heap vs Retained Heap](https://www.reddit.com/r/Kotlin/comments/m6xzqq/shallow_heap_vs_retained_heap/)
-- [The Modern Java Platform - 2021 Edition](https://www.reddit.com/r/Kotlin/comments/m6mlia/the_modern_java_platform_2021_edition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
