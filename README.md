@@ -240,6 +240,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [7 JVM arguments of highly effective applications - Part 3](https://www.reddit.com/r/Kotlin/comments/m97sya/7_jvm_arguments_of_highly_effective_applications/)
 - [Question: Big Nerd Ranch Guide](https://www.reddit.com/r/Kotlin/comments/m8sphj/question_big_nerd_ranch_guide/)
 - [I used Kotlin and Antlr to make a state machine compiler](https://www.reddit.com/r/Kotlin/comments/m8rz0u/i_used_kotlin_and_antlr_to_make_a_state_machine/)
 - [Successful registration does not change activity or show Toast](https://www.reddit.com/r/Kotlin/comments/m8lqxs/successful_registration_does_not_change_activity/)
@@ -249,7 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Interop between Java Consume and Kotlin lambda](https://www.reddit.com/r/Kotlin/comments/m7yhoc/interop_between_java_consume_and_kotlin_lambda/)
 - [Serverless Kotlin and Apache Kafka with Google Cloud](https://www.reddit.com/r/Kotlin/comments/m7tgxy/serverless_kotlin_and_apache_kafka_with_google/)
 - [The second episode of Kotlin Multiplatform Multiverse is out! This episode is dedicated to creating your first cross-platform application with KMM. Check it out!](https://www.reddit.com/r/Kotlin/comments/m7sq7y/the_second_episode_of_kotlin_multiplatform/)
-- [[Spoiler maybe?] Kotlin Koan Defautl Arguments exercise question](https://www.reddit.com/r/Kotlin/comments/m7rhw1/spoiler_maybe_kotlin_koan_defautl_arguments/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
