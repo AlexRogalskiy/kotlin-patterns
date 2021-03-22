@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/11)
-- [NonCancellable context for proper clean shutdown of a network communication](https://discuss.kotlinlang.org/t/noncancellable-context-for-proper-clean-shutdown-of-a-network-communication/21278/4)
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/10)
-- [NonCancellable context for proper clean shutdown of a network communication](https://discuss.kotlinlang.org/t/noncancellable-context-for-proper-clean-shutdown-of-a-network-communication/21278/3)
-- [NonCancellable context for proper clean shutdown of a network communication](https://discuss.kotlinlang.org/t/noncancellable-context-for-proper-clean-shutdown-of-a-network-communication/21278/2)
-- [NonCancellable context for proper clean shutdown of a network communication](https://discuss.kotlinlang.org/t/noncancellable-context-for-proper-clean-shutdown-of-a-network-communication/21278/1)
-- [State of Kotlin.Result vs. kotlin-result?](https://discuss.kotlinlang.org/t/state-of-kotlin-result-vs-kotlin-result/21103/8)
-- [Howto setup kotlin gradle plugin to work with embedded linux jvm](https://discuss.kotlinlang.org/t/howto-setup-kotlin-gradle-plugin-to-work-with-embedded-linux-jvm/19733/6)
-- [Suspend-safety - something to keep in mind](https://discuss.kotlinlang.org/t/suspend-safety-something-to-keep-in-mind/21261/8)
-- [Suspend-safety - something to keep in mind](https://discuss.kotlinlang.org/t/suspend-safety-something-to-keep-in-mind/21261/7)
+- [Inline classes could use inline property delegate](https://discuss.kotlinlang.org/t/inline-classes-could-use-inline-property-delegate/21287/2)
+- [NonCancellable context for proper clean shutdown of a network communication](https://discuss.kotlinlang.org/t/noncancellable-context-for-proper-clean-shutdown-of-a-network-communication/21278/8)
+- [NonCancellable context for proper clean shutdown of a network communication](https://discuss.kotlinlang.org/t/noncancellable-context-for-proper-clean-shutdown-of-a-network-communication/21278/7)
+- [Inline classes could use inline property delegate](https://discuss.kotlinlang.org/t/inline-classes-could-use-inline-property-delegate/21287/1)
+- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/14)
+- [Combination of "else" and other branches in "when" expression](https://discuss.kotlinlang.org/t/combination-of-else-and-other-branches-in-when-expression/21285/3)
+- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/13)
+- [Combination of "else" and other branches in "when" expression](https://discuss.kotlinlang.org/t/combination-of-else-and-other-branches-in-when-expression/21285/2)
+- [Combination of "else" and other branches in "when" expression](https://discuss.kotlinlang.org/t/combination-of-else-and-other-branches-in-when-expression/21285/1)
+- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/12)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
