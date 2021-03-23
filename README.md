@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Inline classes could use inline property delegate](https://discuss.kotlinlang.org/t/inline-classes-could-use-inline-property-delegate/21287/2)
-- [NonCancellable context for proper clean shutdown of a network communication](https://discuss.kotlinlang.org/t/noncancellable-context-for-proper-clean-shutdown-of-a-network-communication/21278/8)
-- [NonCancellable context for proper clean shutdown of a network communication](https://discuss.kotlinlang.org/t/noncancellable-context-for-proper-clean-shutdown-of-a-network-communication/21278/7)
-- [Inline classes could use inline property delegate](https://discuss.kotlinlang.org/t/inline-classes-could-use-inline-property-delegate/21287/1)
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/14)
-- [Combination of "else" and other branches in "when" expression](https://discuss.kotlinlang.org/t/combination-of-else-and-other-branches-in-when-expression/21285/3)
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/13)
-- [Combination of "else" and other branches in "when" expression](https://discuss.kotlinlang.org/t/combination-of-else-and-other-branches-in-when-expression/21285/2)
-- [Combination of "else" and other branches in "when" expression](https://discuss.kotlinlang.org/t/combination-of-else-and-other-branches-in-when-expression/21285/1)
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/12)
+- [Kotlin-native without XCode?](https://discuss.kotlinlang.org/t/kotlin-native-without-xcode/19312/6)
+- [Implicit safe conversions](https://discuss.kotlinlang.org/t/implicit-safe-conversions/21282/4)
+- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/2)
+- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/1)
+- [Maven + OpenJDK16 + Kotlin 1.4.31 or 1.5.0-M1 llegalAccessException](https://discuss.kotlinlang.org/t/maven-openjdk16-kotlin-1-4-31-or-1-5-0-m1-llegalaccessexception/21260/3)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/2)
+- [Inline keyword without higher-order function in Collections.kt](https://discuss.kotlinlang.org/t/inline-keyword-without-higher-order-function-in-collections-kt/21291/3)
+- [Implicit safe conversions](https://discuss.kotlinlang.org/t/implicit-safe-conversions/21282/3)
+- [Why I need to getter/setter?](https://discuss.kotlinlang.org/t/why-i-need-to-getter-setter/21272/6)
+- [[KMM] Copy bundle for XCFramework](https://discuss.kotlinlang.org/t/kmm-copy-bundle-for-xcframework/21294/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
