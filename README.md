@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Linked List with add/remove and clear in O(1)](https://www.reddit.com/r/Kotlin/comments/mayup9/linked_list_with_addremove_and_clear_in_o1/)
+- [Build an Android Chat app with Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/maqmm9/build_an_android_chat_app_with_jetpack_compose/)
+- [Keycloak Authentication Infrastructure as Code, inspired by LiquiBase](https://www.reddit.com/r/Kotlin/comments/maodym/keycloak_authentication_infrastructure_as_code/)
+- [I've created a kinetic clock using Compose Desktop](https://www.reddit.com/r/Kotlin/comments/manioj/ive_created_a_kinetic_clock_using_compose_desktop/)
+- [How to build a small note app using Jetpack Compose & Room?](https://www.reddit.com/r/Kotlin/comments/man3t0/how_to_build_a_small_note_app_using_jetpack/)
+- [Keycloak Authentication Infrastructure as Code, inspired by LiquiBase](https://www.reddit.com/r/Kotlin/comments/maj8dq/keycloak_authentication_infrastructure_as_code/)
+- [Quick testing tips #4 - make use of Mockito-Kotlin for stubbing in DSL](https://www.reddit.com/r/Kotlin/comments/maibao/quick_testing_tips_4_make_use_of_mockitokotlin/)
+- [Diving into Kotlin/ JS](https://www.reddit.com/r/Kotlin/comments/maghel/diving_into_kotlin_js/)
 - [Kicking Spring Native's tires](https://www.reddit.com/r/Kotlin/comments/ma06h3/kicking_spring_natives_tires/)
 - [The Complete Android Kotlin Developer Course](https://www.reddit.com/r/Kotlin/comments/m9x7nm/the_complete_android_kotlin_developer_course/)
-- [Different outputs when using Kotlin playground (by Google Android) vs IntelliJ](https://www.reddit.com/r/Kotlin/comments/m9swzh/different_outputs_when_using_kotlin_playground_by/)
-- [Question: Big Nerd Ranch Guide](https://www.reddit.com/r/Kotlin/comments/m8sphj/question_big_nerd_ranch_guide/)
-- [I used Kotlin and Antlr to make a state machine compiler](https://www.reddit.com/r/Kotlin/comments/m8rz0u/i_used_kotlin_and_antlr_to_make_a_state_machine/)
-- [Successful registration does not change activity or show Toast](https://www.reddit.com/r/Kotlin/comments/m8lqxs/successful_registration_does_not_change_activity/)
-- [Kotlin/Android: Updating a progressbar from a IO coroutine](https://www.reddit.com/r/Kotlin/comments/m8fl8h/kotlinandroid_updating_a_progressbar_from_a_io/)
-- [Chatbot](https://www.reddit.com/r/Kotlin/comments/m8cfdx/chatbot/)
-- [Connect 4 2D array](https://www.reddit.com/r/Kotlin/comments/m885zc/connect_4_2d_array/)
-- [Interop between Java Consume and Kotlin lambda](https://www.reddit.com/r/Kotlin/comments/m7yhoc/interop_between_java_consume_and_kotlin_lambda/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
