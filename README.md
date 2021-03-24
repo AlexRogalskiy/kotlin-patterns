@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Kotlin-native without XCode?](https://discuss.kotlinlang.org/t/kotlin-native-without-xcode/19312/6)
-- [Implicit safe conversions](https://discuss.kotlinlang.org/t/implicit-safe-conversions/21282/4)
-- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/2)
-- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/1)
-- [Maven + OpenJDK16 + Kotlin 1.4.31 or 1.5.0-M1 llegalAccessException](https://discuss.kotlinlang.org/t/maven-openjdk16-kotlin-1-4-31-or-1-5-0-m1-llegalaccessexception/21260/3)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/2)
-- [Inline keyword without higher-order function in Collections.kt](https://discuss.kotlinlang.org/t/inline-keyword-without-higher-order-function-in-collections-kt/21291/3)
-- [Implicit safe conversions](https://discuss.kotlinlang.org/t/implicit-safe-conversions/21282/3)
-- [Why I need to getter/setter?](https://discuss.kotlinlang.org/t/why-i-need-to-getter-setter/21272/6)
-- [[KMM] Copy bundle for XCFramework](https://discuss.kotlinlang.org/t/kmm-copy-bundle-for-xcframework/21294/1)
+- [Implicit safe conversions](https://discuss.kotlinlang.org/t/implicit-safe-conversions/21282/8)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/9)
+- [Implicit safe conversions](https://discuss.kotlinlang.org/t/implicit-safe-conversions/21282/7)
+- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/15)
+- [Jumping through hoops in Kotlin with uninitialized arrays](https://discuss.kotlinlang.org/t/jumping-through-hoops-in-kotlin-with-uninitialized-arrays/21310/5)
+- [Jumping through hoops in Kotlin with uninitialized arrays](https://discuss.kotlinlang.org/t/jumping-through-hoops-in-kotlin-with-uninitialized-arrays/21310/4)
+- [Jumping through hoops in Kotlin with uninitialized arrays](https://discuss.kotlinlang.org/t/jumping-through-hoops-in-kotlin-with-uninitialized-arrays/21310/3)
+- [Jumping through hoops in Kotlin with uninitialized arrays](https://discuss.kotlinlang.org/t/jumping-through-hoops-in-kotlin-with-uninitialized-arrays/21310/2)
+- [Jumping through hoops in Kotlin with uninitialized arrays](https://discuss.kotlinlang.org/t/jumping-through-hoops-in-kotlin-with-uninitialized-arrays/21310/1)
+- [Idomatic way to carry object in collection chain?](https://discuss.kotlinlang.org/t/idomatic-way-to-carry-object-in-collection-chain/21307/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
