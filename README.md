@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [lue](https://www.reddit.com/r/Kotlin/comments/mbo2q8/lue/)
+- [10-Elvis Operator in Kotlin](https://www.reddit.com/r/Kotlin/comments/mbo08h/10elvis_operator_in_kotlin/)
+- [The Most Popular Programming Languages - 1965/2021](https://www.reddit.com/r/Kotlin/comments/mbnneb/the_most_popular_programming_languages_19652021/)
+- [Trouble converting Java logic into Kotlin.](https://www.reddit.com/r/Kotlin/comments/mbkz5o/trouble_converting_java_logic_into_kotlin/)
+- [For Android, is it negligible to use mutableMapOf instead of hashMapOf?](https://www.reddit.com/r/Kotlin/comments/mbe3dn/for_android_is_it_negligible_to_use_mutablemapof/)
+- [How to make gradle build fast??](https://www.reddit.com/r/Kotlin/comments/mb9nnx/how_to_make_gradle_build_fast/)
+- [Kotlin + Helidon](https://www.reddit.com/r/Kotlin/comments/mb98w8/kotlin_helidon/)
 - [Linked List with add/remove and clear in O(1)](https://www.reddit.com/r/Kotlin/comments/mayup9/linked_list_with_addremove_and_clear_in_o1/)
 - [Build an Android Chat app with Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/maqmm9/build_an_android_chat_app_with_jetpack_compose/)
-- [Keycloak Authentication Infrastructure as Code, inspired by LiquiBase](https://www.reddit.com/r/Kotlin/comments/maodym/keycloak_authentication_infrastructure_as_code/)
 - [I've created a kinetic clock using Compose Desktop](https://www.reddit.com/r/Kotlin/comments/manioj/ive_created_a_kinetic_clock_using_compose_desktop/)
-- [How to build a small note app using Jetpack Compose & Room?](https://www.reddit.com/r/Kotlin/comments/man3t0/how_to_build_a_small_note_app_using_jetpack/)
-- [Keycloak Authentication Infrastructure as Code, inspired by LiquiBase](https://www.reddit.com/r/Kotlin/comments/maj8dq/keycloak_authentication_infrastructure_as_code/)
-- [Quick testing tips #4 - make use of Mockito-Kotlin for stubbing in DSL](https://www.reddit.com/r/Kotlin/comments/maibao/quick_testing_tips_4_make_use_of_mockitokotlin/)
-- [Diving into Kotlin/ JS](https://www.reddit.com/r/Kotlin/comments/maghel/diving_into_kotlin_js/)
-- [Kicking Spring Native's tires](https://www.reddit.com/r/Kotlin/comments/ma06h3/kicking_spring_natives_tires/)
-- [The Complete Android Kotlin Developer Course](https://www.reddit.com/r/Kotlin/comments/m9x7nm/the_complete_android_kotlin_developer_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
