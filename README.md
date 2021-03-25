@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [lue](https://www.reddit.com/r/Kotlin/comments/mbo2q8/lue/)
+- [need help](https://www.reddit.com/r/Kotlin/comments/mch96a/need_help/)
+- [`(1.toByte() as Any) is Int` yields true in kotlinjs](https://www.reddit.com/r/Kotlin/comments/mc9bmg/1tobyte_as_any_is_int_yields_true_in_kotlinjs/)
+- [Newbie.](https://www.reddit.com/r/Kotlin/comments/mc8ted/newbie/)
+- [Things I Misunderstood About Kotlin Coroutine Cancellations and Exceptions](https://www.reddit.com/r/Kotlin/comments/mc5jgy/things_i_misunderstood_about_kotlin_coroutine/)
+- [A personal Kotlin guide for Java developers](https://www.reddit.com/r/Kotlin/comments/mc3rkh/a_personal_kotlin_guide_for_java_developers/)
+- [Absolute beginner - readLine() convert input to Int](https://www.reddit.com/r/Kotlin/comments/mc2t78/absolute_beginner_readline_convert_input_to_int/)
+- [What's an idiomatic way to do X if Y and Z are not null?](https://www.reddit.com/r/Kotlin/comments/mc1k5e/whats_an_idiomatic_way_to_do_x_if_y_and_z_are_not/)
+- [How to build a 2FA server with Kotlin and Ktor with Igor Wojda](https://www.reddit.com/r/Kotlin/comments/mc17cs/how_to_build_a_2fa_server_with_kotlin_and_ktor/)
 - [10-Elvis Operator in Kotlin](https://www.reddit.com/r/Kotlin/comments/mbo08h/10elvis_operator_in_kotlin/)
 - [The Most Popular Programming Languages - 1965/2021](https://www.reddit.com/r/Kotlin/comments/mbnneb/the_most_popular_programming_languages_19652021/)
-- [Trouble converting Java logic into Kotlin.](https://www.reddit.com/r/Kotlin/comments/mbkz5o/trouble_converting_java_logic_into_kotlin/)
-- [For Android, is it negligible to use mutableMapOf instead of hashMapOf?](https://www.reddit.com/r/Kotlin/comments/mbe3dn/for_android_is_it_negligible_to_use_mutablemapof/)
-- [How to make gradle build fast??](https://www.reddit.com/r/Kotlin/comments/mb9nnx/how_to_make_gradle_build_fast/)
-- [Kotlin + Helidon](https://www.reddit.com/r/Kotlin/comments/mb98w8/kotlin_helidon/)
-- [Linked List with add/remove and clear in O(1)](https://www.reddit.com/r/Kotlin/comments/mayup9/linked_list_with_addremove_and_clear_in_o1/)
-- [Build an Android Chat app with Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/maqmm9/build_an_android_chat_app_with_jetpack_compose/)
-- [I've created a kinetic clock using Compose Desktop](https://www.reddit.com/r/Kotlin/comments/manioj/ive_created_a_kinetic_clock_using_compose_desktop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
