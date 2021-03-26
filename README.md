@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Android studio: AAPT2 process unexpectedly exit](https://discuss.kotlinlang.org/t/android-studio-aapt2-process-unexpectedly-exit/21329/2)
+- [Entry name 'META-INF/sdk_debug.kotlin_module' collided](https://discuss.kotlinlang.org/t/entry-name-meta-inf-sdk-debug-kotlin-module-collided/21325/4)
+- [Suspend constructors](https://discuss.kotlinlang.org/t/suspend-constructors/13267/9)
+- [Android studio: AAPT2 process unexpectedly exit](https://discuss.kotlinlang.org/t/android-studio-aapt2-process-unexpectedly-exit/21329/1)
+- [Entry name 'META-INF/sdk_debug.kotlin_module' collided](https://discuss.kotlinlang.org/t/entry-name-meta-inf-sdk-debug-kotlin-module-collided/21325/3)
+- [Entry name 'META-INF/sdk_debug.kotlin_module' collided](https://discuss.kotlinlang.org/t/entry-name-meta-inf-sdk-debug-kotlin-module-collided/21325/2)
+- [Entry name 'META-INF/sdk_debug.kotlin_module' collided](https://discuss.kotlinlang.org/t/entry-name-meta-inf-sdk-debug-kotlin-module-collided/21325/1)
+- [Distribute KMM Shared as xcframework](https://discuss.kotlinlang.org/t/distribute-kmm-shared-as-xcframework/20163/4)
+- [Distribute KMM Shared as xcframework](https://discuss.kotlinlang.org/t/distribute-kmm-shared-as-xcframework/20163/3)
 - [Why I need to getter/setter?](https://discuss.kotlinlang.org/t/why-i-need-to-getter-setter/21272/10)
-- [Why I need to getter/setter?](https://discuss.kotlinlang.org/t/why-i-need-to-getter-setter/21272/9)
-- [Why I need to getter/setter?](https://discuss.kotlinlang.org/t/why-i-need-to-getter-setter/21272/8)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/14)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/13)
-- [Implicit safe conversions](https://discuss.kotlinlang.org/t/implicit-safe-conversions/21282/9)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/12)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/11)
-- [Enum constants: UPPERCASE or CameCase?](https://discuss.kotlinlang.org/t/enum-constants-uppercase-or-camecase/13984/25)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/10)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
