@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [RecyclerView + Fragment TabLayout](https://www.reddit.com/r/Kotlin/comments/me2kps/recyclerview_fragment_tablayout/)
+- [Please help me](https://www.reddit.com/r/Kotlin/comments/mdo5hz/please_help_me/)
+- [Cheat Sheet to get started on Kotlin](https://www.reddit.com/r/Kotlin/comments/mdl9e0/cheat_sheet_to_get_started_on_kotlin/)
+- [Kotlin for backend](https://www.reddit.com/r/Kotlin/comments/mdjqwz/kotlin_for_backend/)
+- [Is Kotlin usable under Eclipse?](https://www.reddit.com/r/Kotlin/comments/mdiv7f/is_kotlin_usable_under_eclipse/)
+- [write code for ` findViewById ( id : Int ) : View? `in android](https://www.reddit.com/r/Kotlin/comments/mdfuva/write_code_for_findviewbyid_id_int_view_in_android/)
+- [This is my Kotlin code. What do you think ?](https://www.reddit.com/r/Kotlin/comments/mdeszb/this_is_my_kotlin_code_what_do_you_think/)
+- [How do I parse NoSQL query strings?](https://www.reddit.com/r/Kotlin/comments/mddlyy/how_do_i_parse_nosql_query_strings/)
 - [Best courses for learning android development with Kotlin?](https://www.reddit.com/r/Kotlin/comments/md90u4/best_courses_for_learning_android_development/)
 - [Debugging Gradle build scripts & Plugins on IntelliJ/Android Studio](https://www.reddit.com/r/Kotlin/comments/md72vo/debugging_gradle_build_scripts_plugins_on/)
-- [Prime Table Generator in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/md3dxf/prime_table_generator_in_jetpack_compose/)
-- [viktor: Efficient Vectorized Computations in Kotlin](https://www.reddit.com/r/Kotlin/comments/mczphn/viktor_efficient_vectorized_computations_in_kotlin/)
-- [need help](https://www.reddit.com/r/Kotlin/comments/mch96a/need_help/)
-- [`(1.toByte() as Any) is Int` yields true in kotlinjs](https://www.reddit.com/r/Kotlin/comments/mc9bmg/1tobyte_as_any_is_int_yields_true_in_kotlinjs/)
-- [Newbie.](https://www.reddit.com/r/Kotlin/comments/mc8ted/newbie/)
-- [Things I Misunderstood About Kotlin Coroutine Cancellations and Exceptions](https://www.reddit.com/r/Kotlin/comments/mc5jgy/things_i_misunderstood_about_kotlin_coroutine/)
-- [A personal Kotlin guide for Java developers](https://www.reddit.com/r/Kotlin/comments/mc3rkh/a_personal_kotlin_guide_for_java_developers/)
-- [Absolute beginner - readLine() convert input to Int](https://www.reddit.com/r/Kotlin/comments/mc2t78/absolute_beginner_readline_convert_input_to_int/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
