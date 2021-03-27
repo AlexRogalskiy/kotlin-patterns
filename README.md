@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Android studio: AAPT2 process unexpectedly exit](https://discuss.kotlinlang.org/t/android-studio-aapt2-process-unexpectedly-exit/21329/2)
-- [Entry name 'META-INF/sdk_debug.kotlin_module' collided](https://discuss.kotlinlang.org/t/entry-name-meta-inf-sdk-debug-kotlin-module-collided/21325/4)
-- [Suspend constructors](https://discuss.kotlinlang.org/t/suspend-constructors/13267/9)
-- [Android studio: AAPT2 process unexpectedly exit](https://discuss.kotlinlang.org/t/android-studio-aapt2-process-unexpectedly-exit/21329/1)
-- [Entry name 'META-INF/sdk_debug.kotlin_module' collided](https://discuss.kotlinlang.org/t/entry-name-meta-inf-sdk-debug-kotlin-module-collided/21325/3)
-- [Entry name 'META-INF/sdk_debug.kotlin_module' collided](https://discuss.kotlinlang.org/t/entry-name-meta-inf-sdk-debug-kotlin-module-collided/21325/2)
-- [Entry name 'META-INF/sdk_debug.kotlin_module' collided](https://discuss.kotlinlang.org/t/entry-name-meta-inf-sdk-debug-kotlin-module-collided/21325/1)
-- [Distribute KMM Shared as xcframework](https://discuss.kotlinlang.org/t/distribute-kmm-shared-as-xcframework/20163/4)
-- [Distribute KMM Shared as xcframework](https://discuss.kotlinlang.org/t/distribute-kmm-shared-as-xcframework/20163/3)
-- [Why I need to getter/setter?](https://discuss.kotlinlang.org/t/why-i-need-to-getter-setter/21272/10)
+- [KotlinJS demonstration project in modules](https://discuss.kotlinlang.org/t/kotlinjs-demonstration-project-in-modules/21345/1)
+- [Importing an iOS package/framework in iOS Kotlin Native code causes 'Packages cannot be imported' error](https://discuss.kotlinlang.org/t/importing-an-ios-package-framework-in-ios-kotlin-native-code-causes-packages-cannot-be-imported-error/21343/2)
+- [Importing an iOS package/framework in iOS Kotlin Native code causes 'Packages cannot be imported' error](https://discuss.kotlinlang.org/t/importing-an-ios-package-framework-in-ios-kotlin-native-code-causes-packages-cannot-be-imported-error/21343/1)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/14)
+- [Where do we store and get back the klib](https://discuss.kotlinlang.org/t/where-do-we-store-and-get-back-the-klib/21341/1)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/13)
+- [Running kotlin scripts with a custom ScriptDefinition inside Intellij Idea](https://discuss.kotlinlang.org/t/running-kotlin-scripts-with-a-custom-scriptdefinition-inside-intellij-idea/21339/1)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/17)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/16)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/15)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
