@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [KotlinJS demonstration project in modules](https://discuss.kotlinlang.org/t/kotlinjs-demonstration-project-in-modules/21345/1)
-- [Importing an iOS package/framework in iOS Kotlin Native code causes 'Packages cannot be imported' error](https://discuss.kotlinlang.org/t/importing-an-ios-package-framework-in-ios-kotlin-native-code-causes-packages-cannot-be-imported-error/21343/2)
-- [Importing an iOS package/framework in iOS Kotlin Native code causes 'Packages cannot be imported' error](https://discuss.kotlinlang.org/t/importing-an-ios-package-framework-in-ios-kotlin-native-code-causes-packages-cannot-be-imported-error/21343/1)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/14)
-- [Where do we store and get back the klib](https://discuss.kotlinlang.org/t/where-do-we-store-and-get-back-the-klib/21341/1)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/13)
-- [Running kotlin scripts with a custom ScriptDefinition inside Intellij Idea](https://discuss.kotlinlang.org/t/running-kotlin-scripts-with-a-custom-scriptdefinition-inside-intellij-idea/21339/1)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/17)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/16)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/15)
+- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/4)
+- [IntelliJ debugging always stepping into Kotlin coroutine-debugging components](https://discuss.kotlinlang.org/t/intellij-debugging-always-stepping-into-kotlin-coroutine-debugging-components/21352/1)
+- [Kotlin multiplatform mobile and C interop](https://discuss.kotlinlang.org/t/kotlin-multiplatform-mobile-and-c-interop/20487/8)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/17)
+- [Function with multiple lambda arguments vs. one interface & object expression](https://discuss.kotlinlang.org/t/function-with-multiple-lambda-arguments-vs-one-interface-object-expression/21350/3)
+- [Function with multiple lambda arguments vs. one interface & object expression](https://discuss.kotlinlang.org/t/function-with-multiple-lambda-arguments-vs-one-interface-object-expression/21350/2)
+- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/16)
+- [HTML over the wire / Serverside reactivity](https://discuss.kotlinlang.org/t/html-over-the-wire-serverside-reactivity/21351/4)
+- [HTML over the wire / Serverside reactivity](https://discuss.kotlinlang.org/t/html-over-the-wire-serverside-reactivity/21351/3)
+- [HTML over the wire / Serverside reactivity](https://discuss.kotlinlang.org/t/html-over-the-wire-serverside-reactivity/21351/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
