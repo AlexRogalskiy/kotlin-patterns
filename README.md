@@ -240,6 +240,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is there behind List?](https://www.reddit.com/r/Kotlin/comments/meh2l9/what_is_there_behind_list/)
 - [RecyclerView + Fragment TabLayout](https://www.reddit.com/r/Kotlin/comments/me2kps/recyclerview_fragment_tablayout/)
 - [Please help me](https://www.reddit.com/r/Kotlin/comments/mdo5hz/please_help_me/)
 - [Cheat Sheet to get started on Kotlin](https://www.reddit.com/r/Kotlin/comments/mdl9e0/cheat_sheet_to_get_started_on_kotlin/)
@@ -249,7 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [This is my Kotlin code. What do you think ?](https://www.reddit.com/r/Kotlin/comments/mdeszb/this_is_my_kotlin_code_what_do_you_think/)
 - [How do I parse NoSQL query strings?](https://www.reddit.com/r/Kotlin/comments/mddlyy/how_do_i_parse_nosql_query_strings/)
 - [Best courses for learning android development with Kotlin?](https://www.reddit.com/r/Kotlin/comments/md90u4/best_courses_for_learning_android_development/)
-- [Debugging Gradle build scripts & Plugins on IntelliJ/Android Studio](https://www.reddit.com/r/Kotlin/comments/md72vo/debugging_gradle_build_scripts_plugins_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
