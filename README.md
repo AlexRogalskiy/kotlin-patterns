@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/4)
-- [IntelliJ debugging always stepping into Kotlin coroutine-debugging components](https://discuss.kotlinlang.org/t/intellij-debugging-always-stepping-into-kotlin-coroutine-debugging-components/21352/1)
-- [Kotlin multiplatform mobile and C interop](https://discuss.kotlinlang.org/t/kotlin-multiplatform-mobile-and-c-interop/20487/8)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/17)
-- [Function with multiple lambda arguments vs. one interface & object expression](https://discuss.kotlinlang.org/t/function-with-multiple-lambda-arguments-vs-one-interface-object-expression/21350/3)
-- [Function with multiple lambda arguments vs. one interface & object expression](https://discuss.kotlinlang.org/t/function-with-multiple-lambda-arguments-vs-one-interface-object-expression/21350/2)
-- [Extension functions: IllegalArgumentException vs. IllegalStateException](https://discuss.kotlinlang.org/t/extension-functions-illegalargumentexception-vs-illegalstateexception/20854/16)
-- [HTML over the wire / Serverside reactivity](https://discuss.kotlinlang.org/t/html-over-the-wire-serverside-reactivity/21351/4)
-- [HTML over the wire / Serverside reactivity](https://discuss.kotlinlang.org/t/html-over-the-wire-serverside-reactivity/21351/3)
-- [HTML over the wire / Serverside reactivity](https://discuss.kotlinlang.org/t/html-over-the-wire-serverside-reactivity/21351/2)
+- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/9)
+- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/8)
+- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/7)
+- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/6)
+- [How to include Gradle to my project in Eclipse?](https://discuss.kotlinlang.org/t/how-to-include-gradle-to-my-project-in-eclipse/21355/1)
+- [Analyze slow Kotlin compilation](https://discuss.kotlinlang.org/t/analyze-slow-kotlin-compilation/21106/3)
+- [Analyze slow Kotlin compilation](https://discuss.kotlinlang.org/t/analyze-slow-kotlin-compilation/21106/2)
+- [HTML over the wire / Serverside reactivity](https://discuss.kotlinlang.org/t/html-over-the-wire-serverside-reactivity/21351/5)
+- [Kotlin compile so slowly](https://discuss.kotlinlang.org/t/kotlin-compile-so-slowly/1603/21)
+- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/5)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
