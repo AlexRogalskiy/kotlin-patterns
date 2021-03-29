@@ -240,6 +240,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin for someone who learned in this order: assembler, C++, scheme, C#, Java, JS](https://www.reddit.com/r/Kotlin/comments/mez66s/kotlin_for_someone_who_learned_in_this_order/)
+- [Compositional Patterns in Kotlin - Delegation](https://www.reddit.com/r/Kotlin/comments/mewklc/compositional_patterns_in_kotlin_delegation/)
 - [What is there behind List?](https://www.reddit.com/r/Kotlin/comments/meh2l9/what_is_there_behind_list/)
 - [RecyclerView + Fragment TabLayout](https://www.reddit.com/r/Kotlin/comments/me2kps/recyclerview_fragment_tablayout/)
 - [Please help me](https://www.reddit.com/r/Kotlin/comments/mdo5hz/please_help_me/)
@@ -248,8 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Is Kotlin usable under Eclipse?](https://www.reddit.com/r/Kotlin/comments/mdiv7f/is_kotlin_usable_under_eclipse/)
 - [write code for ` findViewById ( id : Int ) : View? `in android](https://www.reddit.com/r/Kotlin/comments/mdfuva/write_code_for_findviewbyid_id_int_view_in_android/)
 - [This is my Kotlin code. What do you think ?](https://www.reddit.com/r/Kotlin/comments/mdeszb/this_is_my_kotlin_code_what_do_you_think/)
-- [How do I parse NoSQL query strings?](https://www.reddit.com/r/Kotlin/comments/mddlyy/how_do_i_parse_nosql_query_strings/)
-- [Best courses for learning android development with Kotlin?](https://www.reddit.com/r/Kotlin/comments/md90u4/best_courses_for_learning_android_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
