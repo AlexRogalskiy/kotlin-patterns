@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin for someone who learned in this order: assembler, C++, scheme, C#, Java, JS](https://www.reddit.com/r/Kotlin/comments/mez66s/kotlin_for_someone_who_learned_in_this_order/)
-- [Compositional Patterns in Kotlin - Delegation](https://www.reddit.com/r/Kotlin/comments/mewklc/compositional_patterns_in_kotlin_delegation/)
-- [What is there behind List?](https://www.reddit.com/r/Kotlin/comments/meh2l9/what_is_there_behind_list/)
-- [RecyclerView + Fragment TabLayout](https://www.reddit.com/r/Kotlin/comments/me2kps/recyclerview_fragment_tablayout/)
-- [Please help me](https://www.reddit.com/r/Kotlin/comments/mdo5hz/please_help_me/)
-- [Cheat Sheet to get started on Kotlin](https://www.reddit.com/r/Kotlin/comments/mdl9e0/cheat_sheet_to_get_started_on_kotlin/)
-- [Kotlin for backend](https://www.reddit.com/r/Kotlin/comments/mdjqwz/kotlin_for_backend/)
-- [Is Kotlin usable under Eclipse?](https://www.reddit.com/r/Kotlin/comments/mdiv7f/is_kotlin_usable_under_eclipse/)
-- [write code for ` findViewById ( id : Int ) : View? `in android](https://www.reddit.com/r/Kotlin/comments/mdfuva/write_code_for_findviewbyid_id_int_view_in_android/)
-- [This is my Kotlin code. What do you think ?](https://www.reddit.com/r/Kotlin/comments/mdeszb/this_is_my_kotlin_code_what_do_you_think/)
+- [A long shot: Does anyone remember this blog post from several/many months ago?](https://www.reddit.com/r/Kotlin/comments/mfyuzg/a_long_shot_does_anyone_remember_this_blog_post/)
+- [A simplistic timekeeping web app built from scratch in Kotlin using TDD](https://www.reddit.com/r/Kotlin/comments/mfwqrf/a_simplistic_timekeeping_web_app_built_from/)
+- [The new episode of Kotlin Standard Library Safari is out! 🦁 This time, we will walk you through Kotlin Collections! 🔎 Kotlin Collections: you've heard of them, you've used them. Now it is time to learn more about them! 💪](https://www.reddit.com/r/Kotlin/comments/mfvhye/the_new_episode_of_kotlin_standard_library_safari/)
+- [Kotlin API Authentication using JWT | Spring Boot JWT Authentication](https://www.reddit.com/r/Kotlin/comments/mfvd6k/kotlin_api_authentication_using_jwt_spring_boot/)
+- [How to make a database for an android streaming app](https://www.reddit.com/r/Kotlin/comments/mfsg6b/how_to_make_a_database_for_an_android_streaming/)
+- [Non-Empty Lists in Kotlin - QuickBird Studios Blog](https://www.reddit.com/r/Kotlin/comments/mfruhh/nonempty_lists_in_kotlin_quickbird_studios_blog/)
+- [Kotlin 1.5.0-M2 Released – Ensure Smooth Migration to Kotlin 1.5.0](https://www.reddit.com/r/Kotlin/comments/mfqe6j/kotlin_150m2_released_ensure_smooth_migration_to/)
+- [Large or small heap size](https://www.reddit.com/r/Kotlin/comments/mfm1oc/large_or_small_heap_size/)
+- [How do you skew both the text and shape of a textview in Kotlin?](https://www.reddit.com/r/Kotlin/comments/mfktw1/how_do_you_skew_both_the_text_and_shape_of_a/)
+- [Build a Signature Capture Application Using Canvas & Kotlin - CodeSource.io](https://www.reddit.com/r/Kotlin/comments/mff18n/build_a_signature_capture_application_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
