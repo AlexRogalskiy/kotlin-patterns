@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Kotlin JS React accessing/configuring environment variables](https://discuss.kotlinlang.org/t/kotlin-js-react-accessing-configuring-environment-variables/16906/8)
+- [Where do I go for help on "Developers Android apps with Kotlin" codelabs](https://discuss.kotlinlang.org/t/where-do-i-go-for-help-on-developers-android-apps-with-kotlin-codelabs/21363/1)
+- [Flows: Combining distinctUntilChanged and first() to get single distinct values from a SharedFlow](https://discuss.kotlinlang.org/t/flows-combining-distinctuntilchanged-and-first-to-get-single-distinct-values-from-a-sharedflow/21361/1)
+- [Function with multiple lambda arguments vs. one interface & object expression](https://discuss.kotlinlang.org/t/function-with-multiple-lambda-arguments-vs-one-interface-object-expression/21350/5)
+- [In future, could Kotlin have checked exception?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exception/1579/113)
+- [Kotlin multiplatform mobile and C interop](https://discuss.kotlinlang.org/t/kotlin-multiplatform-mobile-and-c-interop/20487/9)
+- [In future, could Kotlin have checked exception?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exception/1579/112)
+- [Function with multiple lambda arguments vs. one interface & object expression](https://discuss.kotlinlang.org/t/function-with-multiple-lambda-arguments-vs-one-interface-object-expression/21350/4)
 - [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/9)
 - [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/8)
-- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/7)
-- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/6)
-- [How to include Gradle to my project in Eclipse?](https://discuss.kotlinlang.org/t/how-to-include-gradle-to-my-project-in-eclipse/21355/1)
-- [Analyze slow Kotlin compilation](https://discuss.kotlinlang.org/t/analyze-slow-kotlin-compilation/21106/3)
-- [Analyze slow Kotlin compilation](https://discuss.kotlinlang.org/t/analyze-slow-kotlin-compilation/21106/2)
-- [HTML over the wire / Serverside reactivity](https://discuss.kotlinlang.org/t/html-over-the-wire-serverside-reactivity/21351/5)
-- [Kotlin compile so slowly](https://discuss.kotlinlang.org/t/kotlin-compile-so-slowly/1603/21)
-- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/5)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
