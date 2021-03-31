@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Kotlin JS React accessing/configuring environment variables](https://discuss.kotlinlang.org/t/kotlin-js-react-accessing-configuring-environment-variables/16906/8)
-- [Where do I go for help on "Developers Android apps with Kotlin" codelabs](https://discuss.kotlinlang.org/t/where-do-i-go-for-help-on-developers-android-apps-with-kotlin-codelabs/21363/1)
-- [Flows: Combining distinctUntilChanged and first() to get single distinct values from a SharedFlow](https://discuss.kotlinlang.org/t/flows-combining-distinctuntilchanged-and-first-to-get-single-distinct-values-from-a-sharedflow/21361/1)
-- [Function with multiple lambda arguments vs. one interface & object expression](https://discuss.kotlinlang.org/t/function-with-multiple-lambda-arguments-vs-one-interface-object-expression/21350/5)
-- [In future, could Kotlin have checked exception?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exception/1579/113)
-- [Kotlin multiplatform mobile and C interop](https://discuss.kotlinlang.org/t/kotlin-multiplatform-mobile-and-c-interop/20487/9)
-- [In future, could Kotlin have checked exception?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exception/1579/112)
-- [Function with multiple lambda arguments vs. one interface & object expression](https://discuss.kotlinlang.org/t/function-with-multiple-lambda-arguments-vs-one-interface-object-expression/21350/4)
-- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/9)
-- [How do you namespace things in Kotlin?](https://discuss.kotlinlang.org/t/how-do-you-namespace-things-in-kotlin/21297/8)
+- [Default kotlinc is still JVM 1.6? (well past end of life)](https://discuss.kotlinlang.org/t/default-kotlinc-is-still-jvm-1-6-well-past-end-of-life/21365/3)
+- [Duration could support sum, sumBy](https://discuss.kotlinlang.org/t/duration-could-support-sum-sumby/21377/1)
+- [In future, could Kotlin have checked exceptions?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exceptions/1579/115)
+- [Kotlin/JS, Gradle + Webpack arguments](https://discuss.kotlinlang.org/t/kotlin-js-gradle-webpack-arguments/21376/1)
+- [Coroutine GlobalScope.async vs GlobalScope.launch](https://discuss.kotlinlang.org/t/coroutine-globalscope-async-vs-globalscope-launch/21372/2)
+- [Reverse String](https://discuss.kotlinlang.org/t/reverse-string/19087/8)
+- [Coroutine GlobalScope.async vs GlobalScope.launch](https://discuss.kotlinlang.org/t/coroutine-globalscope-async-vs-globalscope-launch/21372/1)
+- [Flows: Combining distinctUntilChanged and first() to get single distinct values from a SharedFlow](https://discuss.kotlinlang.org/t/flows-combining-distinctuntilchanged-and-first-to-get-single-distinct-values-from-a-sharedflow/21361/4)
+- [In future, could Kotlin have checked exceptions?](https://discuss.kotlinlang.org/t/in-future-could-kotlin-have-checked-exceptions/1579/114)
+- [Generic-type-specific sealed class subclasses](https://discuss.kotlinlang.org/t/generic-type-specific-sealed-class-subclasses/19554/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
