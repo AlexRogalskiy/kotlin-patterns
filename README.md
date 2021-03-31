@@ -240,7 +240,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [A long shot: Does anyone remember this blog post from several/many months ago?](https://www.reddit.com/r/Kotlin/comments/mfyuzg/a_long_shot_does_anyone_remember_this_blog_post/)
 - [A simplistic timekeeping web app built from scratch in Kotlin using TDD](https://www.reddit.com/r/Kotlin/comments/mfwqrf/a_simplistic_timekeeping_web_app_built_from/)
 - [The new episode of Kotlin Standard Library Safari is out! 🦁 This time, we will walk you through Kotlin Collections! 🔎 Kotlin Collections: you've heard of them, you've used them. Now it is time to learn more about them! 💪](https://www.reddit.com/r/Kotlin/comments/mfvhye/the_new_episode_of_kotlin_standard_library_safari/)
 - [Kotlin API Authentication using JWT | Spring Boot JWT Authentication](https://www.reddit.com/r/Kotlin/comments/mfvd6k/kotlin_api_authentication_using_jwt_spring_boot/)
@@ -250,6 +249,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Large or small heap size](https://www.reddit.com/r/Kotlin/comments/mfm1oc/large_or_small_heap_size/)
 - [How do you skew both the text and shape of a textview in Kotlin?](https://www.reddit.com/r/Kotlin/comments/mfktw1/how_do_you_skew_both_the_text_and_shape_of_a/)
 - [Build a Signature Capture Application Using Canvas & Kotlin - CodeSource.io](https://www.reddit.com/r/Kotlin/comments/mff18n/build_a_signature_capture_application_using/)
+- [Kotlin for someone who learned in this order: assembler, C++, scheme, C#, Java, JS](https://www.reddit.com/r/Kotlin/comments/mez66s/kotlin_for_someone_who_learned_in_this_order/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
