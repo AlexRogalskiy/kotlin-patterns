@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Check out the Time Tracker I built for GitLab!](https://www.reddit.com/r/Kotlin/comments/mil7ub/check_out_the_time_tracker_i_built_for_gitlab/)
+- [Functional Error Handling](https://www.reddit.com/r/Kotlin/comments/mihtyj/functional_error_handling/)
+- [ki: The Next Interactive Shell for Kotlin](https://www.reddit.com/r/Kotlin/comments/mi03ow/ki_the_next_interactive_shell_for_kotlin/)
+- [Why I'm rewriting Alda in Go and Kotlin](https://www.reddit.com/r/Kotlin/comments/mhy0ru/why_im_rewriting_alda_in_go_and_kotlin/)
+- [multiplatform or android platform alone and desktop alone](https://www.reddit.com/r/Kotlin/comments/mhsfys/multiplatform_or_android_platform_alone_and/)
+- [What would be a better way to write this?](https://www.reddit.com/r/Kotlin/comments/mhqlws/what_would_be_a_better_way_to_write_this/)
+- [Generating a HMAC-SHA1 signature in Kotlin](https://www.reddit.com/r/Kotlin/comments/mha4i1/generating_a_hmacsha1_signature_in_kotlin/)
+- [Kotlin Illustrated Guide: Nulls and Null Safety](https://www.reddit.com/r/Kotlin/comments/mh4q7z/kotlin_illustrated_guide_nulls_and_null_safety/)
+- [What don't you like about kotlin?](https://www.reddit.com/r/Kotlin/comments/mh2z5u/what_dont_you_like_about_kotlin/)
 - [A simplistic timekeeping web app built from scratch in Kotlin using TDD](https://www.reddit.com/r/Kotlin/comments/mfwqrf/a_simplistic_timekeeping_web_app_built_from/)
-- [The new episode of Kotlin Standard Library Safari is out! 🦁 This time, we will walk you through Kotlin Collections! 🔎 Kotlin Collections: you've heard of them, you've used them. Now it is time to learn more about them! 💪](https://www.reddit.com/r/Kotlin/comments/mfvhye/the_new_episode_of_kotlin_standard_library_safari/)
-- [Kotlin API Authentication using JWT | Spring Boot JWT Authentication](https://www.reddit.com/r/Kotlin/comments/mfvd6k/kotlin_api_authentication_using_jwt_spring_boot/)
-- [How to make a database for an android streaming app](https://www.reddit.com/r/Kotlin/comments/mfsg6b/how_to_make_a_database_for_an_android_streaming/)
-- [Non-Empty Lists in Kotlin - QuickBird Studios Blog](https://www.reddit.com/r/Kotlin/comments/mfruhh/nonempty_lists_in_kotlin_quickbird_studios_blog/)
-- [Kotlin 1.5.0-M2 Released – Ensure Smooth Migration to Kotlin 1.5.0](https://www.reddit.com/r/Kotlin/comments/mfqe6j/kotlin_150m2_released_ensure_smooth_migration_to/)
-- [Large or small heap size](https://www.reddit.com/r/Kotlin/comments/mfm1oc/large_or_small_heap_size/)
-- [How do you skew both the text and shape of a textview in Kotlin?](https://www.reddit.com/r/Kotlin/comments/mfktw1/how_do_you_skew_both_the_text_and_shape_of_a/)
-- [Build a Signature Capture Application Using Canvas & Kotlin - CodeSource.io](https://www.reddit.com/r/Kotlin/comments/mff18n/build_a_signature_capture_application_using/)
-- [Kotlin for someone who learned in this order: assembler, C++, scheme, C#, Java, JS](https://www.reddit.com/r/Kotlin/comments/mez66s/kotlin_for_someone_who_learned_in_this_order/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
