@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Resources for learning Kotlin for Android development](https://www.reddit.com/r/Kotlin/comments/mjjz4n/resources_for_learning_kotlin_for_android/)
+- [Parameterized Tests with Junit5 on Kotlin](https://www.reddit.com/r/Kotlin/comments/mjet1c/parameterized_tests_with_junit5_on_kotlin/)
+- [The Most Popular Programming Languages - 1965/2020 - New update](https://www.reddit.com/r/Kotlin/comments/mj9zbd/the_most_popular_programming_languages_19652020/)
+- [ki, la nueva shell para Kotlin](https://www.reddit.com/r/Kotlin/comments/mj87nw/ki_la_nueva_shell_para_kotlin/)
 - [Check out the Time Tracker I built for GitLab!](https://www.reddit.com/r/Kotlin/comments/mil7ub/check_out_the_time_tracker_i_built_for_gitlab/)
 - [Functional Error Handling](https://www.reddit.com/r/Kotlin/comments/mihtyj/functional_error_handling/)
 - [ki: The Next Interactive Shell for Kotlin](https://www.reddit.com/r/Kotlin/comments/mi03ow/ki_the_next_interactive_shell_for_kotlin/)
 - [Why I'm rewriting Alda in Go and Kotlin](https://www.reddit.com/r/Kotlin/comments/mhy0ru/why_im_rewriting_alda_in_go_and_kotlin/)
 - [multiplatform or android platform alone and desktop alone](https://www.reddit.com/r/Kotlin/comments/mhsfys/multiplatform_or_android_platform_alone_and/)
 - [What would be a better way to write this?](https://www.reddit.com/r/Kotlin/comments/mhqlws/what_would_be_a_better_way_to_write_this/)
-- [Generating a HMAC-SHA1 signature in Kotlin](https://www.reddit.com/r/Kotlin/comments/mha4i1/generating_a_hmacsha1_signature_in_kotlin/)
-- [Kotlin Illustrated Guide: Nulls and Null Safety](https://www.reddit.com/r/Kotlin/comments/mh4q7z/kotlin_illustrated_guide_nulls_and_null_safety/)
-- [What don't you like about kotlin?](https://www.reddit.com/r/Kotlin/comments/mh2z5u/what_dont_you_like_about_kotlin/)
-- [A simplistic timekeeping web app built from scratch in Kotlin using TDD](https://www.reddit.com/r/Kotlin/comments/mfwqrf/a_simplistic_timekeeping_web_app_built_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
