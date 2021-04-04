@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Can't reference Java dependencies in common/shared KMM module](https://discuss.kotlinlang.org/t/cant-reference-java-dependencies-in-common-shared-kmm-module/21416/1)
+- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/7)
+- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/6)
+- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/5)
+- [Kotlin Voxel (Minecraft-like voxel engine)](https://discuss.kotlinlang.org/t/kotlin-voxel-minecraft-like-voxel-engine/352/2)
+- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/4)
+- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/3)
+- [Analyze slow Kotlin compilation](https://discuss.kotlinlang.org/t/analyze-slow-kotlin-compilation/21106/5)
 - [Proposal: Kotlin multi-release jar support](https://discuss.kotlinlang.org/t/proposal-kotlin-multi-release-jar-support/21386/9)
 - [Working with multiple Global scopes](https://discuss.kotlinlang.org/t/working-with-multiple-global-scopes/21411/1)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/2)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/1)
-- [Download and execute binary file](https://discuss.kotlinlang.org/t/download-and-execute-binary-file/21408/1)
-- [Analyze slow Kotlin compilation](https://discuss.kotlinlang.org/t/analyze-slow-kotlin-compilation/21106/4)
-- [Problem after updating to latest kotlin version](https://discuss.kotlinlang.org/t/problem-after-updating-to-latest-kotlin-version/20143/2)
-- [Kotlin gui book](https://discuss.kotlinlang.org/t/kotlin-gui-book/21407/1)
-- [Proposal: Kotlin multi-release jar support](https://discuss.kotlinlang.org/t/proposal-kotlin-multi-release-jar-support/21386/8)
-- [Ugrading to 1.4.32 - Execution failed for task ':app:kaptDebugKotlin'](https://discuss.kotlinlang.org/t/ugrading-to-1-4-32-execution-failed-for-task-kaptdebugkotlin/21395/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
