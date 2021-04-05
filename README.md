@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Can't reference Java dependencies in common/shared KMM module](https://discuss.kotlinlang.org/t/cant-reference-java-dependencies-in-common-shared-kmm-module/21416/3)
+- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/3)
+- [Multiplatform BigDecimal implementation?](https://discuss.kotlinlang.org/t/multiplatform-bigdecimal-implementation/5631/10)
+- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/2)
+- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/1)
+- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/8)
+- [Can't reference Java dependencies in common/shared KMM module](https://discuss.kotlinlang.org/t/cant-reference-java-dependencies-in-common-shared-kmm-module/21416/2)
 - [Can't reference Java dependencies in common/shared KMM module](https://discuss.kotlinlang.org/t/cant-reference-java-dependencies-in-common-shared-kmm-module/21416/1)
 - [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/7)
 - [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/6)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/5)
-- [Kotlin Voxel (Minecraft-like voxel engine)](https://discuss.kotlinlang.org/t/kotlin-voxel-minecraft-like-voxel-engine/352/2)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/4)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/3)
-- [Analyze slow Kotlin compilation](https://discuss.kotlinlang.org/t/analyze-slow-kotlin-compilation/21106/5)
-- [Proposal: Kotlin multi-release jar support](https://discuss.kotlinlang.org/t/proposal-kotlin-multi-release-jar-support/21386/9)
-- [Working with multiple Global scopes](https://discuss.kotlinlang.org/t/working-with-multiple-global-scopes/21411/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
