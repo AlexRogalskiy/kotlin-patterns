@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Can't reference Java dependencies in common/shared KMM module](https://discuss.kotlinlang.org/t/cant-reference-java-dependencies-in-common-shared-kmm-module/21416/3)
-- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/3)
-- [Multiplatform BigDecimal implementation?](https://discuss.kotlinlang.org/t/multiplatform-bigdecimal-implementation/5631/10)
-- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/2)
-- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/1)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/8)
-- [Can't reference Java dependencies in common/shared KMM module](https://discuss.kotlinlang.org/t/cant-reference-java-dependencies-in-common-shared-kmm-module/21416/2)
-- [Can't reference Java dependencies in common/shared KMM module](https://discuss.kotlinlang.org/t/cant-reference-java-dependencies-in-common-shared-kmm-module/21416/1)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/7)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/6)
+- [How do you round a number to N decimal places](https://discuss.kotlinlang.org/t/how-do-you-round-a-number-to-n-decimal-places/8843/18)
+- [Async Coroutine Execution Order](https://discuss.kotlinlang.org/t/async-coroutine-execution-order/21398/3)
+- [Function with multiple lambda arguments vs. one interface & object expression](https://discuss.kotlinlang.org/t/function-with-multiple-lambda-arguments-vs-one-interface-object-expression/21350/6)
+- [Web scraping app](https://discuss.kotlinlang.org/t/web-scraping-app/21432/1)
+- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/11)
+- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/10)
+- [Consuming/building Java's @Builder Pojos in Kotlin](https://discuss.kotlinlang.org/t/consuming-building-javas-builder-pojos-in-kotlin/21368/3)
+- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/9)
+- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/8)
+- [Consuming/building Java's @Builder Pojos in Kotlin](https://discuss.kotlinlang.org/t/consuming-building-javas-builder-pojos-in-kotlin/21368/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
