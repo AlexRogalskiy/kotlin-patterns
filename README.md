@@ -240,6 +240,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [This video explains the design history behind structured concurrency in Kotlin. For me, the "How it came to be this way" is a great supplement to the "How you should do this" when it comes to learning](https://www.reddit.com/r/Kotlin/comments/mke1rm/this_video_explains_the_design_history_behind/)
+- [Noisy Code 🗣 with Kotlin Scopes](https://www.reddit.com/r/Kotlin/comments/mkbryz/noisy_code_with_kotlin_scopes/)
 - [An Interface for Multiplatform Networking](https://www.reddit.com/r/Kotlin/comments/mk83sq/an_interface_for_multiplatform_networking/)
 - [best guide to learn kotlin if I I have Java experience?](https://www.reddit.com/r/Kotlin/comments/mk7t7v/best_guide_to_learn_kotlin_if_i_i_have_java/)
 - [How can I interact with Twitter?](https://www.reddit.com/r/Kotlin/comments/mk38sp/how_can_i_interact_with_twitter/)
@@ -248,8 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Resources for learning Kotlin for Android development](https://www.reddit.com/r/Kotlin/comments/mjjz4n/resources_for_learning_kotlin_for_android/)
 - [Parameterized Tests with Junit5 on Kotlin](https://www.reddit.com/r/Kotlin/comments/mjet1c/parameterized_tests_with_junit5_on_kotlin/)
 - [The Most Popular Programming Languages - 1965/2020 - New update](https://www.reddit.com/r/Kotlin/comments/mj9zbd/the_most_popular_programming_languages_19652020/)
-- [ki, la nueva shell para Kotlin](https://www.reddit.com/r/Kotlin/comments/mj87nw/ki_la_nueva_shell_para_kotlin/)
-- [Check out the Time Tracker I built for GitLab!](https://www.reddit.com/r/Kotlin/comments/mil7ub/check_out_the_time_tracker_i_built_for_gitlab/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
