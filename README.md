@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [How do you round a number to N decimal places](https://discuss.kotlinlang.org/t/how-do-you-round-a-number-to-n-decimal-places/8843/18)
-- [Async Coroutine Execution Order](https://discuss.kotlinlang.org/t/async-coroutine-execution-order/21398/3)
-- [Function with multiple lambda arguments vs. one interface & object expression](https://discuss.kotlinlang.org/t/function-with-multiple-lambda-arguments-vs-one-interface-object-expression/21350/6)
-- [Web scraping app](https://discuss.kotlinlang.org/t/web-scraping-app/21432/1)
-- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/11)
-- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/10)
-- [Consuming/building Java's @Builder Pojos in Kotlin](https://discuss.kotlinlang.org/t/consuming-building-javas-builder-pojos-in-kotlin/21368/3)
-- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/9)
-- [Possible to avoid generating field when overriding primitive val?](https://discuss.kotlinlang.org/t/possible-to-avoid-generating-field-when-overriding-primitive-val/21420/8)
-- [Consuming/building Java's @Builder Pojos in Kotlin](https://discuss.kotlinlang.org/t/consuming-building-javas-builder-pojos-in-kotlin/21368/2)
+- [Default property initialization for interfaces](https://discuss.kotlinlang.org/t/default-property-initialization-for-interfaces/249/7)
+- [Default property initialization for interfaces](https://discuss.kotlinlang.org/t/default-property-initialization-for-interfaces/249/6)
+- [Flows: Combining distinctUntilChanged and first() to get single distinct values from a SharedFlow](https://discuss.kotlinlang.org/t/flows-combining-distinctuntilchanged-and-first-to-get-single-distinct-values-from-a-sharedflow/21361/7)
+- [Modularising to create a function with variable Types in Kotlin](https://discuss.kotlinlang.org/t/modularising-to-create-a-function-with-variable-types-in-kotlin/21452/1)
+- [Had made a mistake](https://discuss.kotlinlang.org/t/had-made-a-mistake/21451/1)
+- [Disabling androidAndroidTestRelease source set in gradle Kotlin DSL script](https://discuss.kotlinlang.org/t/disabling-androidandroidtestrelease-source-set-in-gradle-kotlin-dsl-script/21448/1)
+- [How to continue a suspend function in a dynamic proxy in the same coroutine?](https://discuss.kotlinlang.org/t/how-to-continue-a-suspend-function-in-a-dynamic-proxy-in-the-same-coroutine/11391/7)
+- [JS Target skip npm dependancy for node](https://discuss.kotlinlang.org/t/js-target-skip-npm-dependancy-for-node/21444/1)
+- [Ktor client testing and duplicated code](https://discuss.kotlinlang.org/t/ktor-client-testing-and-duplicated-code/21442/1)
+- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/9)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
