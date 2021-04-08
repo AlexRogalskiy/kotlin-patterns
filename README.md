@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which is the Best framework to make a role playing game with kotlin ?](https://www.reddit.com/r/Kotlin/comments/mmgjrk/which_is_the_best_framework_to_make_a_role/)
+- [Noob question. Why is my registered task not being executed on build?](https://www.reddit.com/r/Kotlin/comments/mmg7ll/noob_question_why_is_my_registered_task_not_being/)
+- [How to count how many digits a number has?](https://www.reddit.com/r/Kotlin/comments/mmcdt1/how_to_count_how_many_digits_a_number_has/)
+- [Kotlin Plugin 2021.1 Released: Improved IDE Performance and Better Support for Refactorings](https://www.reddit.com/r/Kotlin/comments/mlzazl/kotlin_plugin_20211_released_improved_ide/)
+- [Jumping from Kotlin to Java?](https://www.reddit.com/r/Kotlin/comments/mlyybn/jumping_from_kotlin_to_java/)
+- [I created the Compose version of it](https://www.reddit.com/r/Kotlin/comments/mlyt1r/i_created_the_compose_version_of_it/)
+- [Structuring a Ktor project](https://www.reddit.com/r/Kotlin/comments/mlxwnq/structuring_a_ktor_project/)
 - [Talking Kotlin: MVIKotlin and Decompose with Arkadii Ivanov from Bumble](https://www.reddit.com/r/Kotlin/comments/mlds6t/talking_kotlin_mvikotlin_and_decompose_with/)
 - [Help me understand the logic why the code is not returning `false` boolean here at once](https://www.reddit.com/r/Kotlin/comments/mlb6gu/help_me_understand_the_logic_why_the_code_is_not/)
 - [A long-running background service for windows floating over other apps on Android](https://www.reddit.com/r/Kotlin/comments/mlam5c/a_longrunning_background_service_for_windows/)
-- [This video explains the design history behind structured concurrency in Kotlin. For me, the "How it came to be this way" is a great supplement to the "How you should do this" when it comes to learning](https://www.reddit.com/r/Kotlin/comments/mke1rm/this_video_explains_the_design_history_behind/)
-- [Noisy Code 🗣 with Kotlin Scopes](https://www.reddit.com/r/Kotlin/comments/mkbryz/noisy_code_with_kotlin_scopes/)
-- [An Interface for Multiplatform Networking](https://www.reddit.com/r/Kotlin/comments/mk83sq/an_interface_for_multiplatform_networking/)
-- [best guide to learn kotlin if I I have Java experience?](https://www.reddit.com/r/Kotlin/comments/mk7t7v/best_guide_to_learn_kotlin_if_i_i_have_java/)
-- [How can I interact with Twitter?](https://www.reddit.com/r/Kotlin/comments/mk38sp/how_can_i_interact_with_twitter/)
-- [How much time will be enough to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/mjuhcp/how_much_time_will_be_enough_to_learn_kotlin/)
-- [Composition in Kotlin using the component model](https://www.reddit.com/r/Kotlin/comments/mjsbx4/composition_in_kotlin_using_the_component_model/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
