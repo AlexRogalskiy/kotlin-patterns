@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Default property initialization for interfaces](https://discuss.kotlinlang.org/t/default-property-initialization-for-interfaces/249/7)
-- [Default property initialization for interfaces](https://discuss.kotlinlang.org/t/default-property-initialization-for-interfaces/249/6)
-- [Flows: Combining distinctUntilChanged and first() to get single distinct values from a SharedFlow](https://discuss.kotlinlang.org/t/flows-combining-distinctuntilchanged-and-first-to-get-single-distinct-values-from-a-sharedflow/21361/7)
-- [Modularising to create a function with variable Types in Kotlin](https://discuss.kotlinlang.org/t/modularising-to-create-a-function-with-variable-types-in-kotlin/21452/1)
-- [Had made a mistake](https://discuss.kotlinlang.org/t/had-made-a-mistake/21451/1)
-- [Disabling androidAndroidTestRelease source set in gradle Kotlin DSL script](https://discuss.kotlinlang.org/t/disabling-androidandroidtestrelease-source-set-in-gradle-kotlin-dsl-script/21448/1)
-- [How to continue a suspend function in a dynamic proxy in the same coroutine?](https://discuss.kotlinlang.org/t/how-to-continue-a-suspend-function-in-a-dynamic-proxy-in-the-same-coroutine/11391/7)
-- [JS Target skip npm dependancy for node](https://discuss.kotlinlang.org/t/js-target-skip-npm-dependancy-for-node/21444/1)
-- [Ktor client testing and duplicated code](https://discuss.kotlinlang.org/t/ktor-client-testing-and-duplicated-code/21442/1)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/9)
+- [Async Coroutine Execution Order](https://discuss.kotlinlang.org/t/async-coroutine-execution-order/21398/5)
+- [Async Coroutine Execution Order](https://discuss.kotlinlang.org/t/async-coroutine-execution-order/21398/4)
+- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/7)
+- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/6)
+- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/5)
+- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/4)
+- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/3)
+- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/2)
+- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/1)
+- [Flows: Combining distinctUntilChanged and first() to get single distinct values from a SharedFlow](https://discuss.kotlinlang.org/t/flows-combining-distinctuntilchanged-and-first-to-get-single-distinct-values-from-a-sharedflow/21361/8)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
