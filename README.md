@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Async Coroutine Execution Order](https://discuss.kotlinlang.org/t/async-coroutine-execution-order/21398/5)
-- [Async Coroutine Execution Order](https://discuss.kotlinlang.org/t/async-coroutine-execution-order/21398/4)
-- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/7)
-- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/6)
-- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/5)
-- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/4)
-- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/3)
-- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/2)
-- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/1)
-- [Flows: Combining distinctUntilChanged and first() to get single distinct values from a SharedFlow](https://discuss.kotlinlang.org/t/flows-combining-distinctuntilchanged-and-first-to-get-single-distinct-values-from-a-sharedflow/21361/8)
+- [Modify an element of array](https://discuss.kotlinlang.org/t/modify-an-element-of-array/21476/3)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/22)
+- [Modify an element of array](https://discuss.kotlinlang.org/t/modify-an-element-of-array/21476/2)
+- [Working with multiple Global scopes](https://discuss.kotlinlang.org/t/working-with-multiple-global-scopes/21411/2)
+- [Multiplatform "gradle run --continuous" not reloading js](https://discuss.kotlinlang.org/t/multiplatform-gradle-run-continuous-not-reloading-js/21478/1)
+- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/12)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/21)
+- [Modify an element of array](https://discuss.kotlinlang.org/t/modify-an-element-of-array/21476/1)
+- [Disabling androidAndroidTestRelease source set in gradle Kotlin DSL script](https://discuss.kotlinlang.org/t/disabling-androidandroidtestrelease-source-set-in-gradle-kotlin-dsl-script/21448/2)
+- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/8)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
