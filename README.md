@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Build REST API with Spring Boot and Kotlin](https://www.reddit.com/r/Kotlin/comments/mnuead/build_rest_api_with_spring_boot_and_kotlin/)
+- [Cocoapods in Kotlin multiplatform import not working. Need help](https://www.reddit.com/r/Kotlin/comments/mnrtvo/cocoapods_in_kotlin_multiplatform_import_not/)
+- [RecyclerView: in Fragment with a navigation bar: No adapter attached skipping layout](https://www.reddit.com/r/Kotlin/comments/mnp7la/recyclerview_in_fragment_with_a_navigation_bar_no/)
+- [RecyclerViewI in Fragment with a navigation bar "No adapter attached, skipping layout" error... Please help me.. the link to the question is given in the description..](https://www.reddit.com/r/Kotlin/comments/mnoew9/recyclerviewi_in_fragment_with_a_navigation_bar/)
+- [Doodle 0.5.0 released.](https://www.reddit.com/r/Kotlin/comments/mnl1dk/doodle_050_released/)
+- [Lambda argument names in auto-completion](https://www.reddit.com/r/Kotlin/comments/mnd6qa/lambda_argument_names_in_autocompletion/)
+- [What do you think about upcoming namespace keyword?](https://www.reddit.com/r/Kotlin/comments/mn8pq8/what_do_you_think_about_upcoming_namespace_keyword/)
 - [[Bikeshed] Do you agree with the official coding conventions concerning class layout? Especially applied to sealed classes.](https://www.reddit.com/r/Kotlin/comments/mmy3fh/bikeshed_do_you_agree_with_the_official_coding/)
 - [I don't understand Coroutines at all](https://www.reddit.com/r/Kotlin/comments/mmwzxg/i_dont_understand_coroutines_at_all/)
 - [Continue Learning](https://www.reddit.com/r/Kotlin/comments/mmwvfy/continue_learning/)
-- [multiplatform file interaction?](https://www.reddit.com/r/Kotlin/comments/mmr8qc/multiplatform_file_interaction/)
-- [Convert character set into utf8](https://www.reddit.com/r/Kotlin/comments/mmnv5o/convert_character_set_into_utf8/)
-- [Help me finding a smarter way to write kotlin code](https://www.reddit.com/r/Kotlin/comments/mmmlv8/help_me_finding_a_smarter_way_to_write_kotlin_code/)
-- [Full GC occurred but why without full GC memory can be reclaimed](https://www.reddit.com/r/Kotlin/comments/mmjupd/full_gc_occurred_but_why_without_full_gc_memory/)
-- [Which is the Best framework to make a role playing game with kotlin ?](https://www.reddit.com/r/Kotlin/comments/mmgjrk/which_is_the_best_framework_to_make_a_role/)
-- [Noob question. Why is my registered task not being executed on build?](https://www.reddit.com/r/Kotlin/comments/mmg7ll/noob_question_why_is_my_registered_task_not_being/)
-- [How to count how many digits a number has?](https://www.reddit.com/r/Kotlin/comments/mmcdt1/how_to_count_how_many_digits_a_number_has/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
