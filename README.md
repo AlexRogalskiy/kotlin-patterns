@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Modify an element of array](https://discuss.kotlinlang.org/t/modify-an-element-of-array/21476/3)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/22)
-- [Modify an element of array](https://discuss.kotlinlang.org/t/modify-an-element-of-array/21476/2)
-- [Working with multiple Global scopes](https://discuss.kotlinlang.org/t/working-with-multiple-global-scopes/21411/2)
-- [Multiplatform "gradle run --continuous" not reloading js](https://discuss.kotlinlang.org/t/multiplatform-gradle-run-continuous-not-reloading-js/21478/1)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/12)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/21)
-- [Modify an element of array](https://discuss.kotlinlang.org/t/modify-an-element-of-array/21476/1)
-- [Disabling androidAndroidTestRelease source set in gradle Kotlin DSL script](https://discuss.kotlinlang.org/t/disabling-androidandroidtestrelease-source-set-in-gradle-kotlin-dsl-script/21448/2)
-- [Beginner syntax error help needed](https://discuss.kotlinlang.org/t/beginner-syntax-error-help-needed/21456/8)
+- [Is it possible to refer to a variable by taking its name from two elements?](https://discuss.kotlinlang.org/t/is-it-possible-to-refer-to-a-variable-by-taking-its-name-from-two-elements/21482/4)
+- [Android Studio / Kotlin / Gradle performance](https://discuss.kotlinlang.org/t/android-studio-kotlin-gradle-performance/4627/2)
+- [Is it possible to refer to a variable by taking its name from two elements?](https://discuss.kotlinlang.org/t/is-it-possible-to-refer-to-a-variable-by-taking-its-name-from-two-elements/21482/3)
+- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/3)
+- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/2)
+- [readLine does not work (returns null)](https://discuss.kotlinlang.org/t/readline-does-not-work-returns-null/21488/2)
+- [Android studio: AAPT2 process unexpectedly exit](https://discuss.kotlinlang.org/t/android-studio-aapt2-process-unexpectedly-exit/21329/4)
+- [readLine does not work (returns null)](https://discuss.kotlinlang.org/t/readline-does-not-work-returns-null/21488/1)
+- [Modify an element of array](https://discuss.kotlinlang.org/t/modify-an-element-of-array/21476/4)
+- [Maven with generated Java sources?](https://discuss.kotlinlang.org/t/maven-with-generated-java-sources/17783/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
