@@ -240,6 +240,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cli frameworks for Kotlin](https://www.reddit.com/r/Kotlin/comments/mohb76/cli_frameworks_for_kotlin/)
+- [Enhanced Streams Processing with Kotlin’s Sequence Interface](https://www.reddit.com/r/Kotlin/comments/modymc/enhanced_streams_processing_with_kotlins_sequence/)
+- [A TUI library for Kotlin?](https://www.reddit.com/r/Kotlin/comments/mo5lxf/a_tui_library_for_kotlin/)
 - [Build REST API with Spring Boot and Kotlin](https://www.reddit.com/r/Kotlin/comments/mnuead/build_rest_api_with_spring_boot_and_kotlin/)
 - [Cocoapods in Kotlin multiplatform import not working. Need help](https://www.reddit.com/r/Kotlin/comments/mnrtvo/cocoapods_in_kotlin_multiplatform_import_not/)
 - [RecyclerView: in Fragment with a navigation bar: No adapter attached skipping layout](https://www.reddit.com/r/Kotlin/comments/mnp7la/recyclerview_in_fragment_with_a_navigation_bar_no/)
@@ -247,9 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Doodle 0.5.0 released.](https://www.reddit.com/r/Kotlin/comments/mnl1dk/doodle_050_released/)
 - [Lambda argument names in auto-completion](https://www.reddit.com/r/Kotlin/comments/mnd6qa/lambda_argument_names_in_autocompletion/)
 - [What do you think about upcoming namespace keyword?](https://www.reddit.com/r/Kotlin/comments/mn8pq8/what_do_you_think_about_upcoming_namespace_keyword/)
-- [[Bikeshed] Do you agree with the official coding conventions concerning class layout? Especially applied to sealed classes.](https://www.reddit.com/r/Kotlin/comments/mmy3fh/bikeshed_do_you_agree_with_the_official_coding/)
-- [I don't understand Coroutines at all](https://www.reddit.com/r/Kotlin/comments/mmwzxg/i_dont_understand_coroutines_at_all/)
-- [Continue Learning](https://www.reddit.com/r/Kotlin/comments/mmwvfy/continue_learning/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
