@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Is it possible to refer to a variable by taking its name from two elements?](https://discuss.kotlinlang.org/t/is-it-possible-to-refer-to-a-variable-by-taking-its-name-from-two-elements/21482/4)
-- [Android Studio / Kotlin / Gradle performance](https://discuss.kotlinlang.org/t/android-studio-kotlin-gradle-performance/4627/2)
-- [Is it possible to refer to a variable by taking its name from two elements?](https://discuss.kotlinlang.org/t/is-it-possible-to-refer-to-a-variable-by-taking-its-name-from-two-elements/21482/3)
-- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/3)
-- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/2)
-- [readLine does not work (returns null)](https://discuss.kotlinlang.org/t/readline-does-not-work-returns-null/21488/2)
-- [Android studio: AAPT2 process unexpectedly exit](https://discuss.kotlinlang.org/t/android-studio-aapt2-process-unexpectedly-exit/21329/4)
-- [readLine does not work (returns null)](https://discuss.kotlinlang.org/t/readline-does-not-work-returns-null/21488/1)
-- [Modify an element of array](https://discuss.kotlinlang.org/t/modify-an-element-of-array/21476/4)
-- [Maven with generated Java sources?](https://discuss.kotlinlang.org/t/maven-with-generated-java-sources/17783/2)
+- [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/1)
+- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/13)
+- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/4)
+- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/15)
+- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/18)
+- [Kotlin internal and external parameter name propose](https://discuss.kotlinlang.org/t/kotlin-internal-and-external-parameter-name-propose/7906/24)
+- [Internal function parameter name](https://discuss.kotlinlang.org/t/internal-function-parameter-name/17634/9)
+- [Internal function parameter name](https://discuss.kotlinlang.org/t/internal-function-parameter-name/17634/8)
+- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/17)
+- [Internal function parameter name](https://discuss.kotlinlang.org/t/internal-function-parameter-name/17634/7)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
