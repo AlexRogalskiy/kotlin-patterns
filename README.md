@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/4)
+- [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/3)
+- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/16)
+- [getExternalStoragePublicDirectory(String!): File!' is deprecated. Deprecated](https://discuss.kotlinlang.org/t/getexternalstoragepublicdirectory-string-file-is-deprecated-deprecated/21503/1)
+- [Ktor login](https://discuss.kotlinlang.org/t/ktor-login/21502/1)
+- [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/2)
 - [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/1)
 - [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/13)
 - [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/4)
 - [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/15)
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/18)
-- [Kotlin internal and external parameter name propose](https://discuss.kotlinlang.org/t/kotlin-internal-and-external-parameter-name-propose/7906/24)
-- [Internal function parameter name](https://discuss.kotlinlang.org/t/internal-function-parameter-name/17634/9)
-- [Internal function parameter name](https://discuss.kotlinlang.org/t/internal-function-parameter-name/17634/8)
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/17)
-- [Internal function parameter name](https://discuss.kotlinlang.org/t/internal-function-parameter-name/17634/7)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
