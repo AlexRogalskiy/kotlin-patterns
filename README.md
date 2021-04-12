@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Network requests queued in kotlin](https://www.reddit.com/r/Kotlin/comments/moxmyl/network_requests_queued_in_kotlin/)
+- [Some examples which use the minimalist 3D Game Engine Kotlin Multiplatform game engine I'm building: MiniGDX. I can deploy a game for the JVM, the Web and Android.](https://www.reddit.com/r/Kotlin/comments/mow7yj/some_examples_which_use_the_minimalist_3d_game/)
+- [Your own custom Spring Data repository](https://www.reddit.com/r/Kotlin/comments/mous5z/your_own_custom_spring_data_repository/)
+- [getExternalStoragePublicDirectory(String!): File!’ is deprecated. Deprecated](https://www.reddit.com/r/Kotlin/comments/mosj77/getexternalstoragepublicdirectorystring_file_is/)
+- [Anyone knows how to create a 1000 elements array in kotlinf?](https://www.reddit.com/r/Kotlin/comments/mos3jd/anyone_knows_how_to_create_a_1000_elements_array/)
+- [Gradle 7.0 Released](https://www.reddit.com/r/Kotlin/comments/mokzvz/gradle_70_released/)
+- [Create a class inside an object in kotlin?](https://www.reddit.com/r/Kotlin/comments/mok4wa/create_a_class_inside_an_object_in_kotlin/)
 - [Cli frameworks for Kotlin](https://www.reddit.com/r/Kotlin/comments/mohb76/cli_frameworks_for_kotlin/)
 - [Enhanced Streams Processing with Kotlin’s Sequence Interface](https://www.reddit.com/r/Kotlin/comments/modymc/enhanced_streams_processing_with_kotlins_sequence/)
 - [A TUI library for Kotlin?](https://www.reddit.com/r/Kotlin/comments/mo5lxf/a_tui_library_for_kotlin/)
-- [Build REST API with Spring Boot and Kotlin](https://www.reddit.com/r/Kotlin/comments/mnuead/build_rest_api_with_spring_boot_and_kotlin/)
-- [Cocoapods in Kotlin multiplatform import not working. Need help](https://www.reddit.com/r/Kotlin/comments/mnrtvo/cocoapods_in_kotlin_multiplatform_import_not/)
-- [RecyclerView: in Fragment with a navigation bar: No adapter attached skipping layout](https://www.reddit.com/r/Kotlin/comments/mnp7la/recyclerview_in_fragment_with_a_navigation_bar_no/)
-- [RecyclerViewI in Fragment with a navigation bar "No adapter attached, skipping layout" error... Please help me.. the link to the question is given in the description..](https://www.reddit.com/r/Kotlin/comments/mnoew9/recyclerviewi_in_fragment_with_a_navigation_bar/)
-- [Doodle 0.5.0 released.](https://www.reddit.com/r/Kotlin/comments/mnl1dk/doodle_050_released/)
-- [Lambda argument names in auto-completion](https://www.reddit.com/r/Kotlin/comments/mnd6qa/lambda_argument_names_in_autocompletion/)
-- [What do you think about upcoming namespace keyword?](https://www.reddit.com/r/Kotlin/comments/mn8pq8/what_do_you_think_about_upcoming_namespace_keyword/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
