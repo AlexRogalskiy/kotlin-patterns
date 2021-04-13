@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/4)
-- [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/3)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/16)
-- [getExternalStoragePublicDirectory(String!): File!' is deprecated. Deprecated](https://discuss.kotlinlang.org/t/getexternalstoragepublicdirectory-string-file-is-deprecated-deprecated/21503/1)
-- [Ktor login](https://discuss.kotlinlang.org/t/ktor-login/21502/1)
-- [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/2)
-- [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/1)
-- [Why doesn't Kotlin use better names for number types?](https://discuss.kotlinlang.org/t/why-doesnt-kotlin-use-better-names-for-number-types/21175/13)
-- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/4)
-- [Feature Request: omit "this" in infix method call, for cleaner DSLs](https://discuss.kotlinlang.org/t/feature-request-omit-this-in-infix-method-call-for-cleaner-dsls/21409/15)
+- [Does NonCancellable "swallow" cancellations?](https://discuss.kotlinlang.org/t/does-noncancellable-swallow-cancellations/21494/4)
+- [Learning resources for Pythonista without Java experience?](https://discuss.kotlinlang.org/t/learning-resources-for-pythonista-without-java-experience/21518/1)
+- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/21)
+- [Feature Request Kotlin - call super infix functions as infix](https://discuss.kotlinlang.org/t/feature-request-kotlin-call-super-infix-functions-as-infix/21511/6)
+- [Inject CSS code in WebView](https://discuss.kotlinlang.org/t/inject-css-code-in-webview/21514/1)
+- [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/5)
+- [Why DOESN’T Kotlin smart cast work, even when both are `val`s](https://discuss.kotlinlang.org/t/why-doesn-t-kotlin-smart-cast-work-even-when-both-are-val-s/17333/4)
+- [Feature Request Kotlin - call super infix functions as infix](https://discuss.kotlinlang.org/t/feature-request-kotlin-call-super-infix-functions-as-infix/21511/5)
+- [How to enable file download in webview fragment?](https://discuss.kotlinlang.org/t/how-to-enable-file-download-in-webview-fragment/21513/1)
+- [Feature Request Kotlin - call super infix functions as infix](https://discuss.kotlinlang.org/t/feature-request-kotlin-call-super-infix-functions-as-infix/21511/4)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
