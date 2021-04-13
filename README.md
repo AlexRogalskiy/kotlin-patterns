@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the point of ?. operator ?](https://www.reddit.com/r/Kotlin/comments/mpmwk4/what_is_the_point_of_operator/)
+- [I keep getting an error in kotlin that says “only safe and non-nullable asserted calls are allowed” and I can’t seem to figure it out](https://www.reddit.com/r/Kotlin/comments/mpl6m2/i_keep_getting_an_error_in_kotlin_that_says_only/)
+- [Arrange Act Assert (AAA) test case](https://www.reddit.com/r/Kotlin/comments/mpdjzu/arrange_act_assert_aaa_test_case/)
+- [Quick Testing Tips #5: Use StringSpec to declare descriptive test cases](https://www.reddit.com/r/Kotlin/comments/mp9ipe/quick_testing_tips_5_use_stringspec_to_declare/)
+- [Generic Service Inheritance in Spring with Coroutines](https://www.reddit.com/r/Kotlin/comments/mp7woo/generic_service_inheritance_in_spring_with/)
 - [Network requests queued in kotlin](https://www.reddit.com/r/Kotlin/comments/moxmyl/network_requests_queued_in_kotlin/)
 - [Some examples which use the minimalist 3D Game Engine Kotlin Multiplatform game engine I'm building: MiniGDX. I can deploy a game for the JVM, the Web and Android.](https://www.reddit.com/r/Kotlin/comments/mow7yj/some_examples_which_use_the_minimalist_3d_game/)
 - [Your own custom Spring Data repository](https://www.reddit.com/r/Kotlin/comments/mous5z/your_own_custom_spring_data_repository/)
 - [getExternalStoragePublicDirectory(String!): File!’ is deprecated. Deprecated](https://www.reddit.com/r/Kotlin/comments/mosj77/getexternalstoragepublicdirectorystring_file_is/)
 - [Anyone knows how to create a 1000 elements array in kotlinf?](https://www.reddit.com/r/Kotlin/comments/mos3jd/anyone_knows_how_to_create_a_1000_elements_array/)
-- [Gradle 7.0 Released](https://www.reddit.com/r/Kotlin/comments/mokzvz/gradle_70_released/)
-- [Create a class inside an object in kotlin?](https://www.reddit.com/r/Kotlin/comments/mok4wa/create_a_class_inside_an_object_in_kotlin/)
-- [Cli frameworks for Kotlin](https://www.reddit.com/r/Kotlin/comments/mohb76/cli_frameworks_for_kotlin/)
-- [Enhanced Streams Processing with Kotlin’s Sequence Interface](https://www.reddit.com/r/Kotlin/comments/modymc/enhanced_streams_processing_with_kotlins_sequence/)
-- [A TUI library for Kotlin?](https://www.reddit.com/r/Kotlin/comments/mo5lxf/a_tui_library_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
