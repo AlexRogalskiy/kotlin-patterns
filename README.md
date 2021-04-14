@@ -240,6 +240,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trouble](https://www.reddit.com/r/Kotlin/comments/mqd8ab/trouble/)
+- [Building Kotlin Multiplatform Apps](https://www.reddit.com/r/Kotlin/comments/mq2yjp/building_kotlin_multiplatform_apps/)
 - [What is the point of ?. operator ?](https://www.reddit.com/r/Kotlin/comments/mpmwk4/what_is_the_point_of_operator/)
 - [I keep getting an error in kotlin that says “only safe and non-nullable asserted calls are allowed” and I can’t seem to figure it out](https://www.reddit.com/r/Kotlin/comments/mpl6m2/i_keep_getting_an_error_in_kotlin_that_says_only/)
 - [Arrange Act Assert (AAA) test case](https://www.reddit.com/r/Kotlin/comments/mpdjzu/arrange_act_assert_aaa_test_case/)
@@ -248,8 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Network requests queued in kotlin](https://www.reddit.com/r/Kotlin/comments/moxmyl/network_requests_queued_in_kotlin/)
 - [Some examples which use the minimalist 3D Game Engine Kotlin Multiplatform game engine I'm building: MiniGDX. I can deploy a game for the JVM, the Web and Android.](https://www.reddit.com/r/Kotlin/comments/mow7yj/some_examples_which_use_the_minimalist_3d_game/)
 - [Your own custom Spring Data repository](https://www.reddit.com/r/Kotlin/comments/mous5z/your_own_custom_spring_data_repository/)
-- [getExternalStoragePublicDirectory(String!): File!’ is deprecated. Deprecated](https://www.reddit.com/r/Kotlin/comments/mosj77/getexternalstoragepublicdirectorystring_file_is/)
-- [Anyone knows how to create a 1000 elements array in kotlinf?](https://www.reddit.com/r/Kotlin/comments/mos3jd/anyone_knows_how_to_create_a_1000_elements_array/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
