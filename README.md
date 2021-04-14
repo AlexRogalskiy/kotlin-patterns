@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Equetions](https://discuss.kotlinlang.org/t/equetions/21527/1)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/27)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/26)
+- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/6)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/25)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/24)
+- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/5)
 - [Does NonCancellable "swallow" cancellations?](https://discuss.kotlinlang.org/t/does-noncancellable-swallow-cancellations/21494/4)
 - [Learning resources for Pythonista without Java experience?](https://discuss.kotlinlang.org/t/learning-resources-for-pythonista-without-java-experience/21518/1)
 - [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/21)
-- [Feature Request Kotlin - call super infix functions as infix](https://discuss.kotlinlang.org/t/feature-request-kotlin-call-super-infix-functions-as-infix/21511/6)
-- [Inject CSS code in WebView](https://discuss.kotlinlang.org/t/inject-css-code-in-webview/21514/1)
-- [Want to move to 1.5, but lots of "compiled by prerelease" errors](https://discuss.kotlinlang.org/t/want-to-move-to-1-5-but-lots-of-compiled-by-prerelease-errors/21499/5)
-- [Why DOESN’T Kotlin smart cast work, even when both are `val`s](https://discuss.kotlinlang.org/t/why-doesn-t-kotlin-smart-cast-work-even-when-both-are-val-s/17333/4)
-- [Feature Request Kotlin - call super infix functions as infix](https://discuss.kotlinlang.org/t/feature-request-kotlin-call-super-infix-functions-as-infix/21511/5)
-- [How to enable file download in webview fragment?](https://discuss.kotlinlang.org/t/how-to-enable-file-download-in-webview-fragment/21513/1)
-- [Feature Request Kotlin - call super infix functions as infix](https://discuss.kotlinlang.org/t/feature-request-kotlin-call-super-infix-functions-as-infix/21511/4)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
