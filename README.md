@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Equetions](https://discuss.kotlinlang.org/t/equetions/21527/1)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/27)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/26)
-- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/6)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/25)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/24)
-- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/5)
-- [Does NonCancellable "swallow" cancellations?](https://discuss.kotlinlang.org/t/does-noncancellable-swallow-cancellations/21494/4)
-- [Learning resources for Pythonista without Java experience?](https://discuss.kotlinlang.org/t/learning-resources-for-pythonista-without-java-experience/21518/1)
-- [Google Flutter - What could be their reason for choosing Dart (over Kotlin)](https://discuss.kotlinlang.org/t/google-flutter-what-could-be-their-reason-for-choosing-dart-over-kotlin/21179/21)
+- [Kotlin-style properties for Java](https://discuss.kotlinlang.org/t/kotlin-style-properties-for-java/21537/1)
+- [Is there a way to find the max value of a 1D array within one line of code?](https://discuss.kotlinlang.org/t/is-there-a-way-to-find-the-max-value-of-a-1d-array-within-one-line-of-code/21536/4)
+- [Is there a way to find the max value of a 1D array within one line of code?](https://discuss.kotlinlang.org/t/is-there-a-way-to-find-the-max-value-of-a-1d-array-within-one-line-of-code/21536/3)
+- [Is there a way to find the max value of a 1D array within one line of code?](https://discuss.kotlinlang.org/t/is-there-a-way-to-find-the-max-value-of-a-1d-array-within-one-line-of-code/21536/2)
+- [Is there a way to find the max value of a 1D array within one line of code?](https://discuss.kotlinlang.org/t/is-there-a-way-to-find-the-max-value-of-a-1d-array-within-one-line-of-code/21536/1)
+- [Delete post](https://discuss.kotlinlang.org/t/delete-post/21535/1)
+- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/1)
+- [Problem with my App](https://discuss.kotlinlang.org/t/problem-with-my-app/15781/3)
+- [Why I need to getter/setter?](https://discuss.kotlinlang.org/t/why-i-need-to-getter-setter/21272/11)
+- [Tailrec in get() functions?](https://discuss.kotlinlang.org/t/tailrec-in-get-functions/4277/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
