@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a way to use "Catch" to make sure my ArrayList has the required elements?](https://www.reddit.com/r/Kotlin/comments/mr4mxk/is_there_a_way_to_use_catch_to_make_sure_my/)
+- [I finally finished my app, but ever since I deleted it off my phone I get this error trying to run it from android studio....](https://www.reddit.com/r/Kotlin/comments/mr4jk0/i_finally_finished_my_app_but_ever_since_i/)
+- [Best way to call inappropriate blocking code with an IO dispatcher?](https://www.reddit.com/r/Kotlin/comments/mr3j45/best_way_to_call_inappropriate_blocking_code_with/)
+- [Kotlin 1.5.0-RC Released: Changes to the Standard and Test Libraries](https://www.reddit.com/r/Kotlin/comments/mqvai2/kotlin_150rc_released_changes_to_the_standard_and/)
+- [Kotlin 1.5.0-RC released](https://www.reddit.com/r/Kotlin/comments/mqpimv/kotlin_150rc_released/)
+- [Compositional Patterns in Kotlin - Building an ECS](https://www.reddit.com/r/Kotlin/comments/mqp2ro/compositional_patterns_in_kotlin_building_an_ecs/)
+- [Created Kotlin DSL for Tree DataStructure | Big-Brain-Kotlin](https://www.reddit.com/r/Kotlin/comments/mqkxld/created_kotlin_dsl_for_tree_datastructure/)
+- [Idiomatic !!](https://www.reddit.com/r/Kotlin/comments/mqkicy/idiomatic/)
 - [Trouble](https://www.reddit.com/r/Kotlin/comments/mqd8ab/trouble/)
 - [Building Kotlin Multiplatform Apps](https://www.reddit.com/r/Kotlin/comments/mq2yjp/building_kotlin_multiplatform_apps/)
-- [What is the point of ?. operator ?](https://www.reddit.com/r/Kotlin/comments/mpmwk4/what_is_the_point_of_operator/)
-- [I keep getting an error in kotlin that says “only safe and non-nullable asserted calls are allowed” and I can’t seem to figure it out](https://www.reddit.com/r/Kotlin/comments/mpl6m2/i_keep_getting_an_error_in_kotlin_that_says_only/)
-- [Arrange Act Assert (AAA) test case](https://www.reddit.com/r/Kotlin/comments/mpdjzu/arrange_act_assert_aaa_test_case/)
-- [Quick Testing Tips #5: Use StringSpec to declare descriptive test cases](https://www.reddit.com/r/Kotlin/comments/mp9ipe/quick_testing_tips_5_use_stringspec_to_declare/)
-- [Generic Service Inheritance in Spring with Coroutines](https://www.reddit.com/r/Kotlin/comments/mp7woo/generic_service_inheritance_in_spring_with/)
-- [Network requests queued in kotlin](https://www.reddit.com/r/Kotlin/comments/moxmyl/network_requests_queued_in_kotlin/)
-- [Some examples which use the minimalist 3D Game Engine Kotlin Multiplatform game engine I'm building: MiniGDX. I can deploy a game for the JVM, the Web and Android.](https://www.reddit.com/r/Kotlin/comments/mow7yj/some_examples_which_use_the_minimalist_3d_game/)
-- [Your own custom Spring Data repository](https://www.reddit.com/r/Kotlin/comments/mous5z/your_own_custom_spring_data_repository/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
