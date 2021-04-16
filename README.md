@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a Kotlin-first library to create PDFs?](https://www.reddit.com/r/Kotlin/comments/mrsolv/is_there_a_kotlinfirst_library_to_create_pdfs/)
+- [Learning Partner](https://www.reddit.com/r/Kotlin/comments/mrolon/learning_partner/)
+- [Godot Kotlin alpha is OUT !](https://www.reddit.com/r/Kotlin/comments/mrkti5/godot_kotlin_alpha_is_out/)
+- [Dynamically creating an instance of an enum](https://www.reddit.com/r/Kotlin/comments/mrkq0w/dynamically_creating_an_instance_of_an_enum/)
+- [Why prefer suspending functions instead of CoroutineScope extensions? An example with vegetables.](https://www.reddit.com/r/Kotlin/comments/mrg3ee/why_prefer_suspending_functions_instead_of/)
+- [Can I use Kotlin Multiplatform Mobile on a Windows machine for android only development?](https://www.reddit.com/r/Kotlin/comments/mr6nyj/can_i_use_kotlin_multiplatform_mobile_on_a/)
+- [Is this happening because unsigned types are still experimental?](https://www.reddit.com/r/Kotlin/comments/mr51oq/is_this_happening_because_unsigned_types_are/)
 - [Is there a way to use "Catch" to make sure my ArrayList has the required elements?](https://www.reddit.com/r/Kotlin/comments/mr4mxk/is_there_a_way_to_use_catch_to_make_sure_my/)
 - [I finally finished my app, but ever since I deleted it off my phone I get this error trying to run it from android studio....](https://www.reddit.com/r/Kotlin/comments/mr4jk0/i_finally_finished_my_app_but_ever_since_i/)
 - [Best way to call inappropriate blocking code with an IO dispatcher?](https://www.reddit.com/r/Kotlin/comments/mr3j45/best_way_to_call_inappropriate_blocking_code_with/)
-- [Kotlin 1.5.0-RC Released: Changes to the Standard and Test Libraries](https://www.reddit.com/r/Kotlin/comments/mqvai2/kotlin_150rc_released_changes_to_the_standard_and/)
-- [Kotlin 1.5.0-RC released](https://www.reddit.com/r/Kotlin/comments/mqpimv/kotlin_150rc_released/)
-- [Compositional Patterns in Kotlin - Building an ECS](https://www.reddit.com/r/Kotlin/comments/mqp2ro/compositional_patterns_in_kotlin_building_an_ecs/)
-- [Created Kotlin DSL for Tree DataStructure | Big-Brain-Kotlin](https://www.reddit.com/r/Kotlin/comments/mqkxld/created_kotlin_dsl_for_tree_datastructure/)
-- [Idiomatic !!](https://www.reddit.com/r/Kotlin/comments/mqkicy/idiomatic/)
-- [Trouble](https://www.reddit.com/r/Kotlin/comments/mqd8ab/trouble/)
-- [Building Kotlin Multiplatform Apps](https://www.reddit.com/r/Kotlin/comments/mq2yjp/building_kotlin_multiplatform_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
