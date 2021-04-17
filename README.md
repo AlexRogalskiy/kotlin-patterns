@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Kotlin internal and external parameter name propose](https://discuss.kotlinlang.org/t/kotlin-internal-and-external-parameter-name-propose/7906/25)
+- [Kotlin Coroutines, suspend, and Java NIO](https://discuss.kotlinlang.org/t/kotlin-coroutines-suspend-and-java-nio/21552/2)
+- [Kotlin Coroutines, suspend, and Java NIO](https://discuss.kotlinlang.org/t/kotlin-coroutines-suspend-and-java-nio/21552/1)
+- [Is Kotlin/Native available on any LLVM platform?](https://discuss.kotlinlang.org/t/is-kotlin-native-available-on-any-llvm-platform/21547/2)
 - [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/8)
 - [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/7)
 - [Is Kotlin/Native available on any LLVM platform?](https://discuss.kotlinlang.org/t/is-kotlin-native-available-on-any-llvm-platform/21547/1)
 - [Unitless Distance (like Duration)?](https://discuss.kotlinlang.org/t/unitless-distance-like-duration/18698/12)
 - [How to correctly return the Kotlin class to the callback С++?](https://discuss.kotlinlang.org/t/how-to-correctly-return-the-kotlin-class-to-the-callback/21542/2)
 - [Omitting enum name possible when it is imported?](https://discuss.kotlinlang.org/t/omitting-enum-name-possible-when-it-is-imported/16542/9)
-- [How to correctly return the Kotlin class to the callback С++?](https://discuss.kotlinlang.org/t/how-to-correctly-return-the-kotlin-class-to-the-callback/21542/1)
-- [Kotlin-style properties for Java](https://discuss.kotlinlang.org/t/kotlin-style-properties-for-java/21537/1)
-- [Is there a way to find the max value of a 1D array within one line of code?](https://discuss.kotlinlang.org/t/is-there-a-way-to-find-the-max-value-of-a-1d-array-within-one-line-of-code/21536/4)
-- [Is there a way to find the max value of a 1D array within one line of code?](https://discuss.kotlinlang.org/t/is-there-a-way-to-find-the-max-value-of-a-1d-array-within-one-line-of-code/21536/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
