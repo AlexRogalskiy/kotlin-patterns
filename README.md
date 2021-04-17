@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best course to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/msh511/best_course_to_learn_kotlin/)
+- [Convert static java to companion object](https://www.reddit.com/r/Kotlin/comments/mse4x6/convert_static_java_to_companion_object/)
+- [I wrote a Bidirectional BFS algorithm in Kotlin to solve 2x2 Rubik's Cubes](https://www.reddit.com/r/Kotlin/comments/ms76uy/i_wrote_a_bidirectional_bfs_algorithm_in_kotlin/)
+- [Spring 5.0 introduced the new Kotlin DSL for defining beans and routes. Beyond the declarative coding style, it claims to have some performance benefits. Here are some benchmarks!](https://www.reddit.com/r/Kotlin/comments/ms4rrd/spring_50_introduced_the_new_kotlin_dsl_for/)
+- [Working With ClickHouse From Spring Data Using MySql Driver](https://www.reddit.com/r/Kotlin/comments/ms1tyk/working_with_clickhouse_from_spring_data_using/)
 - [Is there a Kotlin-first library to create PDFs?](https://www.reddit.com/r/Kotlin/comments/mrsolv/is_there_a_kotlinfirst_library_to_create_pdfs/)
 - [Learning Partner](https://www.reddit.com/r/Kotlin/comments/mrolon/learning_partner/)
 - [Godot Kotlin alpha is OUT !](https://www.reddit.com/r/Kotlin/comments/mrkti5/godot_kotlin_alpha_is_out/)
 - [Dynamically creating an instance of an enum](https://www.reddit.com/r/Kotlin/comments/mrkq0w/dynamically_creating_an_instance_of_an_enum/)
 - [Why prefer suspending functions instead of CoroutineScope extensions? An example with vegetables.](https://www.reddit.com/r/Kotlin/comments/mrg3ee/why_prefer_suspending_functions_instead_of/)
-- [Can I use Kotlin Multiplatform Mobile on a Windows machine for android only development?](https://www.reddit.com/r/Kotlin/comments/mr6nyj/can_i_use_kotlin_multiplatform_mobile_on_a/)
-- [Is this happening because unsigned types are still experimental?](https://www.reddit.com/r/Kotlin/comments/mr51oq/is_this_happening_because_unsigned_types_are/)
-- [Is there a way to use "Catch" to make sure my ArrayList has the required elements?](https://www.reddit.com/r/Kotlin/comments/mr4mxk/is_there_a_way_to_use_catch_to_make_sure_my/)
-- [I finally finished my app, but ever since I deleted it off my phone I get this error trying to run it from android studio....](https://www.reddit.com/r/Kotlin/comments/mr4jk0/i_finally_finished_my_app_but_ever_since_i/)
-- [Best way to call inappropriate blocking code with an IO dispatcher?](https://www.reddit.com/r/Kotlin/comments/mr3j45/best_way_to_call_inappropriate_blocking_code_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
