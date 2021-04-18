@@ -240,6 +240,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need support for better understanding of Kotlin basics](https://www.reddit.com/r/Kotlin/comments/msmb25/need_support_for_better_understanding_of_kotlin/)
 - [Best course to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/msh511/best_course_to_learn_kotlin/)
 - [Convert static java to companion object](https://www.reddit.com/r/Kotlin/comments/mse4x6/convert_static_java_to_companion_object/)
 - [I wrote a Bidirectional BFS algorithm in Kotlin to solve 2x2 Rubik's Cubes](https://www.reddit.com/r/Kotlin/comments/ms76uy/i_wrote_a_bidirectional_bfs_algorithm_in_kotlin/)
@@ -249,7 +250,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Learning Partner](https://www.reddit.com/r/Kotlin/comments/mrolon/learning_partner/)
 - [Godot Kotlin alpha is OUT !](https://www.reddit.com/r/Kotlin/comments/mrkti5/godot_kotlin_alpha_is_out/)
 - [Dynamically creating an instance of an enum](https://www.reddit.com/r/Kotlin/comments/mrkq0w/dynamically_creating_an_instance_of_an_enum/)
-- [Why prefer suspending functions instead of CoroutineScope extensions? An example with vegetables.](https://www.reddit.com/r/Kotlin/comments/mrg3ee/why_prefer_suspending_functions_instead_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
