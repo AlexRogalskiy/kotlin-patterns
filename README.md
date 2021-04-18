@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Kotlin internal and external parameter name propose](https://discuss.kotlinlang.org/t/kotlin-internal-and-external-parameter-name-propose/7906/25)
-- [Kotlin Coroutines, suspend, and Java NIO](https://discuss.kotlinlang.org/t/kotlin-coroutines-suspend-and-java-nio/21552/2)
-- [Kotlin Coroutines, suspend, and Java NIO](https://discuss.kotlinlang.org/t/kotlin-coroutines-suspend-and-java-nio/21552/1)
-- [Is Kotlin/Native available on any LLVM platform?](https://discuss.kotlinlang.org/t/is-kotlin-native-available-on-any-llvm-platform/21547/2)
-- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/8)
-- [Looking for a library or an alternative for basic multiplatform File I/O](https://discuss.kotlinlang.org/t/looking-for-a-library-or-an-alternative-for-basic-multiplatform-file-i-o/21472/7)
-- [Is Kotlin/Native available on any LLVM platform?](https://discuss.kotlinlang.org/t/is-kotlin-native-available-on-any-llvm-platform/21547/1)
-- [Unitless Distance (like Duration)?](https://discuss.kotlinlang.org/t/unitless-distance-like-duration/18698/12)
-- [How to correctly return the Kotlin class to the callback С++?](https://discuss.kotlinlang.org/t/how-to-correctly-return-the-kotlin-class-to-the-callback/21542/2)
-- [Omitting enum name possible when it is imported?](https://discuss.kotlinlang.org/t/omitting-enum-name-possible-when-it-is-imported/16542/9)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/32)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/31)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/30)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/29)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/28)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/27)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/26)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/25)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/24)
+- [Ktor plugin makes a build.gradle with errors?](https://discuss.kotlinlang.org/t/ktor-plugin-makes-a-build-gradle-with-errors/21563/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
