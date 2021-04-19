@@ -265,16 +265,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/32)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/31)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/30)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/29)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/28)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/27)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/26)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/25)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/24)
-- [Ktor plugin makes a build.gradle with errors?](https://discuss.kotlinlang.org/t/ktor-plugin-makes-a-build-gradle-with-errors/21563/1)
+- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/2)
+- [Do kotlin have a apidoc like javadoc?](https://discuss.kotlinlang.org/t/do-kotlin-have-a-apidoc-like-javadoc/21568/5)
+- [Do kotlin have a apidoc like javadoc?](https://discuss.kotlinlang.org/t/do-kotlin-have-a-apidoc-like-javadoc/21568/4)
+- [Building a desktop/android app](https://discuss.kotlinlang.org/t/building-a-desktop-android-app/21573/1)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/36)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/35)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/34)
+- [Functions to manipulate ranges](https://discuss.kotlinlang.org/t/functions-to-manipulate-ranges/21571/1)
+- [Has anyone used the Kotlinx.wasm.jsinterop to access WebAssembly?](https://discuss.kotlinlang.org/t/has-anyone-used-the-kotlinx-wasm-jsinterop-to-access-webassembly/21570/1)
+- [Do kotlin have a apidoc like javadoc?](https://discuss.kotlinlang.org/t/do-kotlin-have-a-apidoc-like-javadoc/21568/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
