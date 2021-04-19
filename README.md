@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Modern Android Kotlin template](https://www.reddit.com/r/Kotlin/comments/mtjsce/modern_android_kotlin_template/)
+- [A look at Kotlin's delegation](https://www.reddit.com/r/Kotlin/comments/mtfiol/a_look_at_kotlins_delegation/)
+- [Atomic Kotlin](https://www.reddit.com/r/Kotlin/comments/mtbtbp/atomic_kotlin/)
+- [A simple benchmark comparing java loom virtual thread and kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/mt3h11/a_simple_benchmark_comparing_java_loom_virtual/)
 - [Need support for better understanding of Kotlin basics](https://www.reddit.com/r/Kotlin/comments/msmb25/need_support_for_better_understanding_of_kotlin/)
 - [Best course to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/msh511/best_course_to_learn_kotlin/)
 - [Convert static java to companion object](https://www.reddit.com/r/Kotlin/comments/mse4x6/convert_static_java_to_companion_object/)
 - [I wrote a Bidirectional BFS algorithm in Kotlin to solve 2x2 Rubik's Cubes](https://www.reddit.com/r/Kotlin/comments/ms76uy/i_wrote_a_bidirectional_bfs_algorithm_in_kotlin/)
 - [Spring 5.0 introduced the new Kotlin DSL for defining beans and routes. Beyond the declarative coding style, it claims to have some performance benefits. Here are some benchmarks!](https://www.reddit.com/r/Kotlin/comments/ms4rrd/spring_50_introduced_the_new_kotlin_dsl_for/)
 - [Working With ClickHouse From Spring Data Using MySql Driver](https://www.reddit.com/r/Kotlin/comments/ms1tyk/working_with_clickhouse_from_spring_data_using/)
-- [Is there a Kotlin-first library to create PDFs?](https://www.reddit.com/r/Kotlin/comments/mrsolv/is_there_a_kotlinfirst_library_to_create_pdfs/)
-- [Learning Partner](https://www.reddit.com/r/Kotlin/comments/mrolon/learning_partner/)
-- [Godot Kotlin alpha is OUT !](https://www.reddit.com/r/Kotlin/comments/mrkti5/godot_kotlin_alpha_is_out/)
-- [Dynamically creating an instance of an enum](https://www.reddit.com/r/Kotlin/comments/mrkq0w/dynamically_creating_an_instance_of_an_enum/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
