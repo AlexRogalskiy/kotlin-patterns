@@ -267,16 +267,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/2)
-- [Do kotlin have a apidoc like javadoc?](https://discuss.kotlinlang.org/t/do-kotlin-have-a-apidoc-like-javadoc/21568/5)
-- [Do kotlin have a apidoc like javadoc?](https://discuss.kotlinlang.org/t/do-kotlin-have-a-apidoc-like-javadoc/21568/4)
-- [Building a desktop/android app](https://discuss.kotlinlang.org/t/building-a-desktop-android-app/21573/1)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/36)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/35)
-- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/34)
-- [Functions to manipulate ranges](https://discuss.kotlinlang.org/t/functions-to-manipulate-ranges/21571/1)
-- [Has anyone used the Kotlinx.wasm.jsinterop to access WebAssembly?](https://discuss.kotlinlang.org/t/has-anyone-used-the-kotlinx-wasm-jsinterop-to-access-webassembly/21570/1)
-- [Do kotlin have a apidoc like javadoc?](https://discuss.kotlinlang.org/t/do-kotlin-have-a-apidoc-like-javadoc/21568/3)
+- [Do kotlin have a apidoc like javadoc?](https://discuss.kotlinlang.org/t/do-kotlin-have-a-apidoc-like-javadoc/21568/7)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/38)
+- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/6)
+- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/5)
+- [Do kotlin have a apidoc like javadoc?](https://discuss.kotlinlang.org/t/do-kotlin-have-a-apidoc-like-javadoc/21568/6)
+- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/4)
+- [BindingContext.get(TYPE, typeReference) returns null](https://discuss.kotlinlang.org/t/bindingcontext-get-type-typereference-returns-null/21566/4)
+- [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/1)
+- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/3)
+- [Kotlin Coroutines and (upcoming) Java Loom](https://discuss.kotlinlang.org/t/kotlin-coroutines-and-upcoming-java-loom/15819/37)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
