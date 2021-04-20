@@ -242,16 +242,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How can a split a line with multiple spaces?](https://www.reddit.com/r/Kotlin/comments/mubsjl/how_can_a_split_a_line_with_multiple_spaces/)
+- [Delegate Containerobject access to child objects](https://www.reddit.com/r/Kotlin/comments/mu58ml/delegate_containerobject_access_to_child_objects/)
+- [Konad library provides an easy way to pass nullable values to not-nullables receivers](https://www.reddit.com/r/Kotlin/comments/mtzhtt/konad_library_provides_an_easy_way_to_pass/)
+- [Kotlin web app generator](https://www.reddit.com/r/Kotlin/comments/mtzew1/kotlin_web_app_generator/)
+- [Kotlin with Randon Forest Classifier](https://www.reddit.com/r/Kotlin/comments/mtyyxs/kotlin_with_randon_forest_classifier/)
+- [Touch listener in android](https://www.reddit.com/r/Kotlin/comments/mtun0g/touch_listener_in_android/)
+- [Has the complexity of `this` been a trouble in your experience?](https://www.reddit.com/r/Kotlin/comments/mttg03/has_the_complexity_of_this_been_a_trouble_in_your/)
+- [VKUG - Fight Complexity With Functional Programming](https://www.reddit.com/r/Kotlin/comments/mtrk52/vkug_fight_complexity_with_functional_programming/)
 - [Modern Android Kotlin template](https://www.reddit.com/r/Kotlin/comments/mtjsce/modern_android_kotlin_template/)
 - [A look at Kotlin's delegation](https://www.reddit.com/r/Kotlin/comments/mtfiol/a_look_at_kotlins_delegation/)
-- [Atomic Kotlin](https://www.reddit.com/r/Kotlin/comments/mtbtbp/atomic_kotlin/)
-- [A simple benchmark comparing java loom virtual thread and kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/mt3h11/a_simple_benchmark_comparing_java_loom_virtual/)
-- [Need support for better understanding of Kotlin basics](https://www.reddit.com/r/Kotlin/comments/msmb25/need_support_for_better_understanding_of_kotlin/)
-- [Best course to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/msh511/best_course_to_learn_kotlin/)
-- [Convert static java to companion object](https://www.reddit.com/r/Kotlin/comments/mse4x6/convert_static_java_to_companion_object/)
-- [I wrote a Bidirectional BFS algorithm in Kotlin to solve 2x2 Rubik's Cubes](https://www.reddit.com/r/Kotlin/comments/ms76uy/i_wrote_a_bidirectional_bfs_algorithm_in_kotlin/)
-- [Spring 5.0 introduced the new Kotlin DSL for defining beans and routes. Beyond the declarative coding style, it claims to have some performance benefits. Here are some benchmarks!](https://www.reddit.com/r/Kotlin/comments/ms4rrd/spring_50_introduced_the_new_kotlin_dsl_for/)
-- [Working With ClickHouse From Spring Data Using MySql Driver](https://www.reddit.com/r/Kotlin/comments/ms1tyk/working_with_clickhouse_from_spring_data_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
