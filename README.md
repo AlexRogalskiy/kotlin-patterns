@@ -242,16 +242,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [How can a split a line with multiple spaces?](https://www.reddit.com/r/Kotlin/comments/mubsjl/how_can_a_split_a_line_with_multiple_spaces/)
+- [GraphQL Kotlin 4.0.0 is out!](https://www.reddit.com/r/Kotlin/comments/muzxpx/graphql_kotlin_400_is_out/)
+- [With the release of Kotlin 1.5.0 around the corner, we’re offering a detailed look at the new language features! Watch the first video in a series of 4! It covers new functionality for sealed interfaces and other improvements.](https://www.reddit.com/r/Kotlin/comments/muypyy/with_the_release_of_kotlin_150_around_the_corner/)
+- [Getting Started with Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/muwp15/getting_started_with_jetpack_compose/)
+- [Realm Kotlin Multiplatform SDK](https://www.reddit.com/r/Kotlin/comments/muquuz/realm_kotlin_multiplatform_sdk/)
+- [Is there any extension function in List which can do this](https://www.reddit.com/r/Kotlin/comments/muowxh/is_there_any_extension_function_in_list_which_can/)
 - [Delegate Containerobject access to child objects](https://www.reddit.com/r/Kotlin/comments/mu58ml/delegate_containerobject_access_to_child_objects/)
 - [Konad library provides an easy way to pass nullable values to not-nullables receivers](https://www.reddit.com/r/Kotlin/comments/mtzhtt/konad_library_provides_an_easy_way_to_pass/)
 - [Kotlin web app generator](https://www.reddit.com/r/Kotlin/comments/mtzew1/kotlin_web_app_generator/)
 - [Kotlin with Randon Forest Classifier](https://www.reddit.com/r/Kotlin/comments/mtyyxs/kotlin_with_randon_forest_classifier/)
 - [Touch listener in android](https://www.reddit.com/r/Kotlin/comments/mtun0g/touch_listener_in_android/)
-- [Has the complexity of `this` been a trouble in your experience?](https://www.reddit.com/r/Kotlin/comments/mttg03/has_the_complexity_of_this_been_a_trouble_in_your/)
-- [VKUG - Fight Complexity With Functional Programming](https://www.reddit.com/r/Kotlin/comments/mtrk52/vkug_fight_complexity_with_functional_programming/)
-- [Modern Android Kotlin template](https://www.reddit.com/r/Kotlin/comments/mtjsce/modern_android_kotlin_template/)
-- [A look at Kotlin's delegation](https://www.reddit.com/r/Kotlin/comments/mtfiol/a_look_at_kotlins_delegation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _RedHat lang posts_
