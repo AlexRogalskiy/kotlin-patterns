@@ -1,7 +1,7 @@
 # Kotlin Design Patterns
 
 <p align="center" style="text-align:center;">
-	<img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/master/images/banner.png" width="100%" height="60%" alt="Kotlin Design patterns"/>
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/master/images/banner.png" width="100%" height="60%" alt="Kotlin Design patterns"/>
 </p>
 
 <p align="center" style="text-align:center;">
@@ -37,34 +37,38 @@
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 [![GitHub Super-Linter](https://github.com/alexrogalskiy/kotlin-patterns/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![Documentation Status](https://readthedocs.org/projects/kotlin-patterns/badge/?version=latest)](https://kotlin-patterns.readthedocs.io/en/latest/?badge=latest)
+[![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/AlexRogalskiy/kotlin-patterns.svg)]()
+[![CI](https://github.com/AlexRogalskiy/kotlin-patterns/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/kotlin-patterns/actions/workflows/build.yml)
 
-## 🎹 _Table of contents_
+## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Kotlin Design Patterns](#kotlin-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>RedHat lang posts</em>](#redhat-lang-posts)
-         * [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
-         * [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
-         * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
-         * [<em>Karumi posts</em>](#karumi-posts)
-         * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
+- [Kotlin Design Patterns](#kotlin-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>RedHat lang posts</em>](#redhat-lang-posts)
+    - [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
+    - [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
+    - [<em>Super Kotlin posts</em>](#super-kotlin-posts)
+    - [<em>Karumi posts</em>](#karumi-posts)
+    - [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
 <!--te-->
 
-## ☝ _Summary_
+## ☝ *Summary*
 
 <p align="center" style="text-align:center;">
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
@@ -79,7 +83,7 @@
     </a>
 </p>
 
-_**Kotlin Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
+***Kotlin Design Patterns*** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
 ```text
 mkdocs.yml    # Configuration file.
@@ -114,27 +118,27 @@ docs/
         info.md # Links page
 ```
 
-## 📝 _Documentation_
+## 📝 *Documentation*
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[_**Kotlin Patterns**_][docs]
+[***Kotlin Patterns***][docs]
 
-To enable documentation serving at _**localhost**_ the following steps should be considered:
+To enable documentation serving at ***localhost*** the following steps should be considered:
 
-1\) Install/upgrade _**pip**_ command-line utility:
+1\) Install/upgrade ***pip*** command-line utility:
 
 ```text
 pip install --upgrade pip
 ```
 
-or if you need to install _**pip**_ for the first time:
+or if you need to install ***pip*** for the first time:
 
 ```text
 python get-pip.py
 ```
 
-2\) Install the _**mkdocs**_ package using pip:
+2\) Install the ***mkdocs*** package using pip:
 
 ```text
 pip install mkdocs
@@ -154,7 +158,7 @@ pip install mkdocs-material
 pip install markdown-include
 ```
 
-4\) Start the server at _**localhost**_ by running the following command:
+4\) Start the server at ***localhost*** by running the following command:
 
 ```text
 mkdocs serve --verbose --dirtyreload
@@ -168,27 +172,27 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
 
-## ⏰ _Statistics_
+## ⏰ *Statistics*
 
 <p align="center" style="text-align:center;">
     <img alt="Documentation PageSpeed result dashboard" src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/master/reports/pagespeedresultmobile.svg"/>
 </p>
 
-## 📝 _Versioning_
+## 📝 *Versioning*
 
 The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository][tags].
 
-## 🌹 _Authors_
+## 🌹 *Authors*
 
-_**Kotlin Patterns**_ is maintained by the following GitHub team-members:
+***Kotlin Patterns*** is maintained by the following GitHub team-members:
 
 [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
 
 with community support please contact with us if you have some question or proposition.
 
-## 💕 _Contributing_
+## 💕 *Contributing*
 
-[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/kotlin-patterns?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/kotlin-patterns?size=50\&padding=5\&bots=true)](https://badges.pufler.dev)
 
 Please read
 [CONTRIBUTING.md](https://github.com/AlexRogalskiy/kotlin-patterns/blob/master/.github/CONTRIBUTING.md)
@@ -203,70 +207,75 @@ specification. Contributions of any kind are welcome!
 
 See also the list of [contributors][contributors] who participated in this project.
 
-## 🚨 _Visitor stats_
+## 🚨 *Visitor stats*
 
-[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fkotlin-patterns&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fkotlin-patterns\&count_bg=%2379C83D\&title_bg=%23555555\&icon=\&icon_color=%23E7E7E7\&title=hits\&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![GitHub stars](https://img.shields.io/github/stars/AlexRogalskiy/kotlin-patterns?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AlexRogalskiy/kotlin-patterns?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/AlexRogalskiy/kotlin-patterns?style=social)
 
-## ⚽ _Licensing_
+## ⚽ *Licensing*
 
-_**Kotlin Patterns**_ is distributed under LGPL version 3 or later, [[License](https://github.com/AlexRogalskiy/kotlin-patterns/blob/master/LICENSE.txt)].
+***Kotlin Patterns*** is distributed under LGPL version 3 or later, \[[License](https://github.com/AlexRogalskiy/kotlin-patterns/blob/master/LICENSE.txt)].
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
 
-## 🌟 _Development Support_
+## 🌟 *Development Support*
 
 Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/master/images/icon.png" width="20" height="20" alt="Kotlin Design patterns"/>
- and _**Kotlin Patterns**_ ? Consider buying me a coffee :\)
+and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 
-[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
+[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square\&logo=patreon\&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
 [![KoFi](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/alexrogalskiy)
 
-## 👨‍👨‍👧‍👦 _Acknowledgement_
+## 👨‍👨‍👧‍👦 *Acknowledgement*
 
 [![Stargazers repo roster for @AlexRogalskiy/kotlin-patterns](https://reporoster.com/stars/AlexRogalskiy/kotlin-patterns)][stars]
 
-## 📎 _OpenGraph Card_
+## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
     <img alt="OpenGraph card" src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/master/images/opengraph-card.png"/>
 </p>
 
-## 🔥 _Feeds and Podcasts_
+## 🔥 *Feeds and Podcasts*
 
-### _Reddit posts_
+### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [I just made a IntelliJ plugin which makes the Gradle Kotlin DSL a lot nicer to work with](https://www.reddit.com/r/Kotlin/comments/mvs5eo/i_just_made_a_intellij_plugin_which_makes_the/)
 - [Kotlin Community](https://www.reddit.com/r/Kotlin/comments/mvltdv/kotlin_community/)
 - [Create a simple notes app with Jetpack Compose & floating windows](https://www.reddit.com/r/Kotlin/comments/mvdozq/create_a_simple_notes_app_with_jetpack_compose/)
 - [In a MutableStateFlows, what's the difference with setting the value and calling emit?](https://www.reddit.com/r/Kotlin/comments/mva40a/in_a_mutablestateflows_whats_the_difference_with/)
-- [GraphQL Kotlin 4.0.0 is out!](https://www.reddit.com/r/Kotlin/comments/muzxpx/graphql_kotlin_400_is_out/)
-- [With the release of Kotlin 1.5.0 around the corner, we’re offering a detailed look at the new language features! Watch the first video in a series of 4! It covers new functionality for sealed interfaces and other improvements.](https://www.reddit.com/r/Kotlin/comments/muypyy/with_the_release_of_kotlin_150_around_the_corner/)
+- [GraphQL Kotlin 4.0.0 is out!](https://www.reddit.com/r/Kotlin/comments/muzxpx/graphql_kotlin\_400\_is_out/)
+- [With the release of Kotlin 1.5.0 around the corner, we’re offering a detailed look at the new language features! Watch the first video in a series of 4! It covers new functionality for sealed interfaces and other improvements.](https://www.reddit.com/r/Kotlin/comments/muypyy/with_the_release_of_kotlin\_150\_around_the_corner/)
 - [Getting Started with Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/muwp15/getting_started_with_jetpack_compose/)
 - [Realm Kotlin Multiplatform SDK](https://www.reddit.com/r/Kotlin/comments/muquuz/realm_kotlin_multiplatform_sdk/)
 - [Is there any extension function in List which can do this](https://www.reddit.com/r/Kotlin/comments/muowxh/is_there_any_extension_function_in_list_which_can/)
 - [Delegate Containerobject access to child objects](https://www.reddit.com/r/Kotlin/comments/mu58ml/delegate_containerobject_access_to_child_objects/)
+
 <!-- REDDIT-POST-LIST:END -->
 
-### _RedHat lang posts_
+### *RedHat lang posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [Using a Kotlin-based gRPC API with Envoy proxy for server-side load balancing](https://developers.redhat.com/blog/2018/12/24/using-a-kotlin-based-grpc-api-with-envoy-proxy-for-server-side-load-balancing/)
 - [Writing better Spring applications using SpringFu](https://developers.redhat.com/blog/2018/12/12/writing-better-spring-applications-using-springfu/)
 - [How Kotlin’s coroutines improve code readability](https://developers.redhat.com/blog/2018/12/03/how-kotlins-coroutines-improve-code-readability/)
 - [Inter-Reactive Kotlin Applications](https://developers.redhat.com/blog/2017/12/07/inter-reactive-kotlin-applications/)
 - [Server-side Kotlin with Eclipse Vert.x at JavaOne](https://developers.redhat.com/blog/2017/10/13/server-side-kotlin-eclipse-vert-x-javaone/)
+
 <!-- REDHAT-POST-LIST:END -->
 
-### _Kotlin lang posts_
+### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
+
 - [Weird behavior of getting property by reflection](https://discuss.kotlinlang.org/t/weird-behavior-of-getting-property-by-reflection/12401/3)
 - [Speech Recognition for Android Kotlin](https://discuss.kotlinlang.org/t/speech-recognition-for-android-kotlin/11774/2)
 - [Kotlin to support package protected visibility](https://discuss.kotlinlang.org/t/kotlin-to-support-package-protected-visibility/1544/114)
@@ -277,11 +286,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Using java.lang.Class as reified type](https://discuss.kotlinlang.org/t/using-java-lang-class-as-reified-type/21587/8)
 - [Using java.lang.Class as reified type](https://discuss.kotlinlang.org/t/using-java-lang-class-as-reified-type/21587/7)
 - [Using @DslMarker on functions](https://discuss.kotlinlang.org/t/using-dslmarker-on-functions/21598/1)
+
 <!-- KOTLINLANG-POST-LIST:END -->
 
-### _Kotlin Academy posts_
+### *Kotlin Academy posts*
 
 <!-- KOTLINACADEMY-POST-LIST:START -->
+
 - [Jetpack Compose: First Impressions and Learning Resources](https://blog.kotlin-academy.com/jetpack-compose-first-impressions-and-learning-resources-4101bff9f04?source=rss----e57b304801ef---4)
 - [Merry Christmas Kotliners!](https://blog.kotlin-academy.com/merry-christmas-kotliners-6648d926303?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews series](https://blog.kotlin-academy.com/kotlin-for-interviews-series-def58e229e23?source=rss----e57b304801ef---4)
@@ -292,11 +303,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Kotlin for Interviews — Part 3: Numbers and Math](https://blog.kotlin-academy.com/kotlin-for-interviews-part-3-numbers-and-math-786660295cea?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews — Part 2: Collection Functions](https://blog.kotlin-academy.com/kotlin-for-interviews-part-2-collection-functions-a4a488fa0a14?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews — Part 1: Common Data Types](https://blog.kotlin-academy.com/kotlin-for-interviews-part-1-common-data-types-886ea1e40645?source=rss----e57b304801ef---4)
+
 <!-- KOTLINACADEMY-POST-LIST:END -->
 
-### _Super Kotlin posts_
+### *Super Kotlin posts*
 
 <!-- SUPERKOTLIN-POST-LIST:START -->
+
 - [Kotlin Mega Tutorial](https://superkotlin.com/kotlin-mega-tutorial/)
 - [Kotlin when: A switch with Superpowers](https://superkotlin.com/kotlin-when-statement/)
 - [Developing web applications with Javalin and Kotlin](https://superkotlin.com/web-applications-javalin-kotlin/)
@@ -307,11 +320,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Java as your Kotlin Study Buddy](https://superkotlin.com/java-kotlin-study-buddy/)
 - [Review Of the Book Kotlin For Android Developers](https://superkotlin.com/review-book-kotlin-android-developers/)
 - [Kotlin Courses: Reviews And Comparison](https://superkotlin.com/kotlin-courses/)
+
 <!-- SUPERKOTLIN-POST-LIST:END -->
 
-### _Karumi posts_
+### *Karumi posts*
 
 <!-- KARUMI-POST-LIST:START -->
+
 - [Hiring Review. Good and Bad decisions](https://blog.karumi.com/hiring-review-good-and-bad-decisions/)
 - [Jetpack Compose Screenshot Testing with Shot](https://blog.karumi.com/jetpack-compose-screenshot-testing-with-shot/)
 - [Why you should be using OpenAPI right now?](https://blog.karumi.com/why-you-should-be-using-openapi-right-now/)
@@ -322,11 +337,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Interface Builder Is Dead Long Live SwiftUI](https://blog.karumi.com/interface-builder-is-dead-long-live-swiftui/)
 - [How to achieve an ​App with great design? The steps before a design system](https://blog.karumi.com/how-to-achieve-app-with-great-design/)
 - [First steps into Kotlin Multiplatform](https://blog.karumi.com/first-steps-into-kotlin-multiplatform/)
+
 <!-- KARUMI-POST-LIST:END -->
 
-### _Talking Kotlin posts_
+### *Talking Kotlin posts*
 
 <!-- TALKINGKOTLIN-POST-LIST:START -->
+
 - [MVIKotlin and Decompose with Arkadii Ivanov from Bumble](https://talkingkotlin.com/mvikotlin-and-decompose-with-arkadii-ivanov/)
 - [Kotlin Multiplatform with John O’Reilly](https://talkingkotlin.com/kotlin-multiplatform-with-john-oreilly/)
 - [Catching Up With Roman Elizarov](https://talkingkotlin.com/catching-up-with-roman-elizarov/)
@@ -337,20 +354,27 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 - [Teaching Kids Kotlin](https://talkingkotlin.com/teaching-kids-kotlin/)
 - [Kotlin and Google Cloud Platform](https://talkingkotlin.com/kotlin-and-gcp/)
 - [Maths and Kotlin](https://talkingkotlin.com/maths-and-kotlin/)
+
 <!-- TALKINGKOTLIN-POST-LIST:END -->
 
----
+***
 
-[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown&style=for-the-badge)](https://www.markdownguide.org/)
-[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook&style=for-the-badge)](https://www.gitbook.com/)
-[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart&style=for-the-badge)](https://forthebadge.com/)
+[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown\&style=for-the-badge)](https://www.markdownguide.org/)
+[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook\&style=for-the-badge)](https://www.gitbook.com/)
+[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart\&style=for-the-badge)](https://forthebadge.com/)
 
+[repo]: https://github.com/AlexRogalskiy/kotlin-patterns
 
-  [repo]:           https://github.com/AlexRogalskiy/kotlin-patterns
-  [tags]:           https://github.com/AlexRogalskiy/kotlin-patterns/tags
-  [issues]:         https://github.com/AlexRogalskiy/kotlin-patterns/issues
-  [pulls]:          https://github.com/AlexRogalskiy/kotlin-patterns/pulls
-  [wiki]:           https://github.com/AlexRogalskiy/kotlin-patterns/wiki
-  [stars]:          https://github.com/AlexRogalskiy/kotlin-patterns/stargazers
-  [contributors]:   https://github.com/AlexRogalskiy/kotlin-patterns/graphs/contributors
-  [docs]:           https://alexander-rogalsky.gitbook.io/kotlin-patterns/
+[tags]: https://github.com/AlexRogalskiy/kotlin-patterns/tags
+
+[issues]: https://github.com/AlexRogalskiy/kotlin-patterns/issues
+
+[pulls]: https://github.com/AlexRogalskiy/kotlin-patterns/pulls
+
+[wiki]: https://github.com/AlexRogalskiy/kotlin-patterns/wiki
+
+[stars]: https://github.com/AlexRogalskiy/kotlin-patterns/stargazers
+
+[contributors]: https://github.com/AlexRogalskiy/kotlin-patterns/graphs/contributors
+
+[docs]: https://alexander-rogalsky.gitbook.io/kotlin-patterns/
