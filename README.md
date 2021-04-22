@@ -267,16 +267,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/kotlin-patterns/m
 ### _Kotlin lang posts_
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Weird behavior of getting property by reflection](https://discuss.kotlinlang.org/t/weird-behavior-of-getting-property-by-reflection/12401/3)
+- [Speech Recognition for Android Kotlin](https://discuss.kotlinlang.org/t/speech-recognition-for-android-kotlin/11774/2)
+- [Kotlin to support package protected visibility](https://discuss.kotlinlang.org/t/kotlin-to-support-package-protected-visibility/1544/114)
+- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/8)
+- [How to build a jar with Kotlin classes for Java Project?](https://discuss.kotlinlang.org/t/how-to-build-a-jar-with-kotlin-classes-for-java-project/21603/1)
+- [Has anyone used the Kotlinx.wasm.jsinterop to access WebAssembly?](https://discuss.kotlinlang.org/t/has-anyone-used-the-kotlinx-wasm-jsinterop-to-access-webassembly/21570/2)
 - [Proposal for the Option/MayBe datatype](https://discuss.kotlinlang.org/t/proposal-for-the-option-maybe-datatype/469/27)
 - [Using java.lang.Class as reified type](https://discuss.kotlinlang.org/t/using-java-lang-class-as-reified-type/21587/8)
 - [Using java.lang.Class as reified type](https://discuss.kotlinlang.org/t/using-java-lang-class-as-reified-type/21587/7)
 - [Using @DslMarker on functions](https://discuss.kotlinlang.org/t/using-dslmarker-on-functions/21598/1)
-- [Using java.lang.Class as reified type](https://discuss.kotlinlang.org/t/using-java-lang-class-as-reified-type/21587/6)
-- [Kotlin's default visibility should be internal](https://discuss.kotlinlang.org/t/kotlins-default-visibility-should-be-internal/1400/42)
-- [Kotlin's default visibility should be internal](https://discuss.kotlinlang.org/t/kotlins-default-visibility-should-be-internal/1400/41)
-- [Kotlin's default visibility should be internal](https://discuss.kotlinlang.org/t/kotlins-default-visibility-should-be-internal/1400/40)
-- [Kotlin's default visibility should be internal](https://discuss.kotlinlang.org/t/kotlins-default-visibility-should-be-internal/1400/39)
-- [Kotlin's default visibility should be internal](https://discuss.kotlinlang.org/t/kotlins-default-visibility-should-be-internal/1400/38)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### _Kotlin Academy posts_
