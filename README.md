@@ -284,7 +284,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin Academy posts*
 
 <!-- KOTLINACADEMY-POST-LIST:START -->
-
 - [Jetpack Compose: First Impressions and Learning Resources](https://blog.kotlin-academy.com/jetpack-compose-first-impressions-and-learning-resources-4101bff9f04?source=rss----e57b304801ef---4)
 - [Merry Christmas Kotliners!](https://blog.kotlin-academy.com/merry-christmas-kotliners-6648d926303?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews series](https://blog.kotlin-academy.com/kotlin-for-interviews-series-def58e229e23?source=rss----e57b304801ef---4)
@@ -295,7 +294,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin for Interviews — Part 3: Numbers and Math](https://blog.kotlin-academy.com/kotlin-for-interviews-part-3-numbers-and-math-786660295cea?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews — Part 2: Collection Functions](https://blog.kotlin-academy.com/kotlin-for-interviews-part-2-collection-functions-a4a488fa0a14?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews — Part 1: Common Data Types](https://blog.kotlin-academy.com/kotlin-for-interviews-part-1-common-data-types-886ea1e40645?source=rss----e57b304801ef---4)
-
 <!-- KOTLINACADEMY-POST-LIST:END -->
 
 ### *Super Kotlin posts*
