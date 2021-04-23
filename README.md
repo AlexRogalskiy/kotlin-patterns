@@ -314,7 +314,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Karumi posts*
 
 <!-- KARUMI-POST-LIST:START -->
-
 - [Hiring Review. Good and Bad decisions](https://blog.karumi.com/hiring-review-good-and-bad-decisions/)
 - [Jetpack Compose Screenshot Testing with Shot](https://blog.karumi.com/jetpack-compose-screenshot-testing-with-shot/)
 - [Why you should be using OpenAPI right now?](https://blog.karumi.com/why-you-should-be-using-openapi-right-now/)
@@ -325,7 +324,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Interface Builder Is Dead Long Live SwiftUI](https://blog.karumi.com/interface-builder-is-dead-long-live-swiftui/)
 - [How to achieve an ​App with great design? The steps before a design system](https://blog.karumi.com/how-to-achieve-app-with-great-design/)
 - [First steps into Kotlin Multiplatform](https://blog.karumi.com/first-steps-into-kotlin-multiplatform/)
-
 <!-- KARUMI-POST-LIST:END -->
 
 ### *Talking Kotlin posts*
