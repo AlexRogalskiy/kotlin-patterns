@@ -43,27 +43,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Kotlin Design Patterns](#kotlin-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>RedHat lang posts</em>](#redhat-lang-posts)
-         * [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
-         * [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
-         * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
-         * [<em>Karumi posts</em>](#karumi-posts)
-         * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
+- [Kotlin Design Patterns](#kotlin-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>RedHat lang posts</em>](#redhat-lang-posts)
+    - [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
+    - [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
+    - [<em>Super Kotlin posts</em>](#super-kotlin-posts)
+    - [<em>Karumi posts</em>](#karumi-posts)
+    - [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -122,50 +124,57 @@ The Website documentation is provided by [gitbook](https://www.gitbook.com/) and
 
 [***Kotlin Patterns***][docs]
 
-To enable documentation serving at ***localhost*** the following steps should be considered:
+To enable documentation serving at ***localhost*** you can run the following script
+
+```shell script
+./scripts/build-docs.sh
+```
+
+otherwise, the next steps should be considered:
 
 1\) Install/upgrade ***pip*** command-line utility:
 
-```text
+```shell script
 pip install --upgrade pip
 ```
 
 or if you need to install ***pip*** for the first time:
 
-```text
+```shell script
+wget --no-check-certificate https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
 ```
 
 2\) Install the ***mkdocs*** package using pip:
 
-```text
+```shell script
 pip install mkdocs
 ```
 
 or more conveniently for Windows subsystem:
 
-```text
+```shell script
 python -m pip install mkdocs
 python -m mkdocs
 ```
 
 3\) Install the material theme for the website:
 
-```text
-pip install mkdocs-material
-pip install markdown-include
+```shell script
+python -m pip install mkdocs-material
+python -m pip install markdown-include
 ```
 
 4\) Start the server at ***localhost*** by running the following command:
 
-```text
-mkdocs serve --verbose --dirtyreload
+```shell script
+python -m mkdocs serve --verbose --dirtyreload
 ```
 
 5\) Deploy to GitHub pages:
 
-```text
-mkdocs --verbose gh-deploy --force --remote-branch gh-pages
+```shell script
+python -m mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ```
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
@@ -244,6 +253,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [Question about companion object](https://www.reddit.com/r/Kotlin/comments/mwikb0/question_about_companion_object/)
 - [Post method](https://www.reddit.com/r/Kotlin/comments/mwdpwh/post_method/)
 - [How to create an empty list from a KType](https://www.reddit.com/r/Kotlin/comments/mvzgeq/how_to_create_an_empty_list_from_a_ktype/)
@@ -254,21 +264,25 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I just made a IntelliJ plugin which makes the Gradle Kotlin DSL a lot nicer to work with](https://www.reddit.com/r/Kotlin/comments/mvs5eo/i_just_made_a_intellij_plugin_which_makes_the/)
 - [Kotlin Community](https://www.reddit.com/r/Kotlin/comments/mvltdv/kotlin_community/)
 - [Create a simple notes app with Jetpack Compose & floating windows](https://www.reddit.com/r/Kotlin/comments/mvdozq/create_a_simple_notes_app_with_jetpack_compose/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [Using a Kotlin-based gRPC API with Envoy proxy for server-side load balancing](https://developers.redhat.com/blog/2018/12/24/using-a-kotlin-based-grpc-api-with-envoy-proxy-for-server-side-load-balancing/)
 - [Writing better Spring applications using SpringFu](https://developers.redhat.com/blog/2018/12/12/writing-better-spring-applications-using-springfu/)
 - [How Kotlin’s coroutines improve code readability](https://developers.redhat.com/blog/2018/12/03/how-kotlins-coroutines-improve-code-readability/)
 - [Inter-Reactive Kotlin Applications](https://developers.redhat.com/blog/2017/12/07/inter-reactive-kotlin-applications/)
 - [Server-side Kotlin with Eclipse Vert.x at JavaOne](https://developers.redhat.com/blog/2017/10/13/server-side-kotlin-eclipse-vert-x-javaone/)
+
 <!-- REDHAT-POST-LIST:END -->
 
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
+
 - [Variables updating in lists when they shouldn't](https://discuss.kotlinlang.org/t/variables-updating-in-lists-when-they-shouldnt/21618/2)
 - [Variables updating in lists when they shouldn't](https://discuss.kotlinlang.org/t/variables-updating-in-lists-when-they-shouldnt/21618/1)
 - [Status of Kotlin/Native?](https://discuss.kotlinlang.org/t/status-of-kotlin-native/21615/3)
@@ -279,11 +293,13 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Backing Fields syntax](https://discuss.kotlinlang.org/t/backing-fields-syntax/21612/1)
 - [Strange behaviour with collection plusAssign operator](https://discuss.kotlinlang.org/t/strange-behaviour-with-collection-plusassign-operator/21610/1)
 - [Imports](https://discuss.kotlinlang.org/t/imports/1571/10)
+
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
 
 <!-- KOTLINACADEMY-POST-LIST:START -->
+
 - [Jetpack Compose: First Impressions and Learning Resources](https://blog.kotlin-academy.com/jetpack-compose-first-impressions-and-learning-resources-4101bff9f04?source=rss----e57b304801ef---4)
 - [Merry Christmas Kotliners!](https://blog.kotlin-academy.com/merry-christmas-kotliners-6648d926303?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews series](https://blog.kotlin-academy.com/kotlin-for-interviews-series-def58e229e23?source=rss----e57b304801ef---4)
@@ -294,11 +310,13 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin for Interviews — Part 3: Numbers and Math](https://blog.kotlin-academy.com/kotlin-for-interviews-part-3-numbers-and-math-786660295cea?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews — Part 2: Collection Functions](https://blog.kotlin-academy.com/kotlin-for-interviews-part-2-collection-functions-a4a488fa0a14?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews — Part 1: Common Data Types](https://blog.kotlin-academy.com/kotlin-for-interviews-part-1-common-data-types-886ea1e40645?source=rss----e57b304801ef---4)
+
 <!-- KOTLINACADEMY-POST-LIST:END -->
 
 ### *Super Kotlin posts*
 
 <!-- SUPERKOTLIN-POST-LIST:START -->
+
 - [Kotlin Mega Tutorial](https://superkotlin.com/kotlin-mega-tutorial/)
 - [Kotlin when: A switch with Superpowers](https://superkotlin.com/kotlin-when-statement/)
 - [Developing web applications with Javalin and Kotlin](https://superkotlin.com/web-applications-javalin-kotlin/)
@@ -309,11 +327,13 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Java as your Kotlin Study Buddy](https://superkotlin.com/java-kotlin-study-buddy/)
 - [Review Of the Book Kotlin For Android Developers](https://superkotlin.com/review-book-kotlin-android-developers/)
 - [Kotlin Courses: Reviews And Comparison](https://superkotlin.com/kotlin-courses/)
+
 <!-- SUPERKOTLIN-POST-LIST:END -->
 
 ### *Karumi posts*
 
 <!-- KARUMI-POST-LIST:START -->
+
 - [Hiring Review. Good and Bad decisions](https://blog.karumi.com/hiring-review-good-and-bad-decisions/)
 - [Jetpack Compose Screenshot Testing with Shot](https://blog.karumi.com/jetpack-compose-screenshot-testing-with-shot/)
 - [Why you should be using OpenAPI right now?](https://blog.karumi.com/why-you-should-be-using-openapi-right-now/)
@@ -324,11 +344,13 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Interface Builder Is Dead Long Live SwiftUI](https://blog.karumi.com/interface-builder-is-dead-long-live-swiftui/)
 - [How to achieve an ​App with great design? The steps before a design system](https://blog.karumi.com/how-to-achieve-app-with-great-design/)
 - [First steps into Kotlin Multiplatform](https://blog.karumi.com/first-steps-into-kotlin-multiplatform/)
+
 <!-- KARUMI-POST-LIST:END -->
 
 ### *Talking Kotlin posts*
 
 <!-- TALKINGKOTLIN-POST-LIST:START -->
+
 - [MVIKotlin and Decompose with Arkadii Ivanov from Bumble](https://talkingkotlin.com/mvikotlin-and-decompose-with-arkadii-ivanov/)
 - [Kotlin Multiplatform with John O’Reilly](https://talkingkotlin.com/kotlin-multiplatform-with-john-oreilly/)
 - [Catching Up With Roman Elizarov](https://talkingkotlin.com/catching-up-with-roman-elizarov/)
@@ -339,6 +361,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Teaching Kids Kotlin](https://talkingkotlin.com/teaching-kids-kotlin/)
 - [Kotlin and Google Cloud Platform](https://talkingkotlin.com/kotlin-and-gcp/)
 - [Maths and Kotlin](https://talkingkotlin.com/maths-and-kotlin/)
+
 <!-- TALKINGKOTLIN-POST-LIST:END -->
 
 ***
