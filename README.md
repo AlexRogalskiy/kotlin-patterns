@@ -269,18 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-
-- [Weird behavior of getting property by reflection](https://discuss.kotlinlang.org/t/weird-behavior-of-getting-property-by-reflection/12401/3)
-- [Speech Recognition for Android Kotlin](https://discuss.kotlinlang.org/t/speech-recognition-for-android-kotlin/11774/2)
-- [Kotlin to support package protected visibility](https://discuss.kotlinlang.org/t/kotlin-to-support-package-protected-visibility/1544/114)
-- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/8)
-- [How to build a jar with Kotlin classes for Java Project?](https://discuss.kotlinlang.org/t/how-to-build-a-jar-with-kotlin-classes-for-java-project/21603/1)
-- [Has anyone used the Kotlinx.wasm.jsinterop to access WebAssembly?](https://discuss.kotlinlang.org/t/has-anyone-used-the-kotlinx-wasm-jsinterop-to-access-webassembly/21570/2)
-- [Proposal for the Option/MayBe datatype](https://discuss.kotlinlang.org/t/proposal-for-the-option-maybe-datatype/469/27)
-- [Using java.lang.Class as reified type](https://discuss.kotlinlang.org/t/using-java-lang-class-as-reified-type/21587/8)
-- [Using java.lang.Class as reified type](https://discuss.kotlinlang.org/t/using-java-lang-class-as-reified-type/21587/7)
-- [Using @DslMarker on functions](https://discuss.kotlinlang.org/t/using-dslmarker-on-functions/21598/1)
-
+- [Variables updating in lists when they shouldn't](https://discuss.kotlinlang.org/t/variables-updating-in-lists-when-they-shouldnt/21618/2)
+- [Variables updating in lists when they shouldn't](https://discuss.kotlinlang.org/t/variables-updating-in-lists-when-they-shouldnt/21618/1)
+- [Status of Kotlin/Native?](https://discuss.kotlinlang.org/t/status-of-kotlin-native/21615/3)
+- [Status of Kotlin/Native?](https://discuss.kotlinlang.org/t/status-of-kotlin-native/21615/2)
+- [Status of Kotlin/Native?](https://discuss.kotlinlang.org/t/status-of-kotlin-native/21615/1)
+- [Backing Fields syntax](https://discuss.kotlinlang.org/t/backing-fields-syntax/21612/2)
+- [Strange behaviour with collection plusAssign operator](https://discuss.kotlinlang.org/t/strange-behaviour-with-collection-plusassign-operator/21610/2)
+- [Backing Fields syntax](https://discuss.kotlinlang.org/t/backing-fields-syntax/21612/1)
+- [Strange behaviour with collection plusAssign operator](https://discuss.kotlinlang.org/t/strange-behaviour-with-collection-plusassign-operator/21610/1)
+- [Imports](https://discuss.kotlinlang.org/t/imports/1571/10)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
