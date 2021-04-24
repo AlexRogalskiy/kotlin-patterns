@@ -251,18 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [What's your favorite strategy for dealing with context-dependent nullability?](https://www.reddit.com/r/Kotlin/comments/mx94o0/whats_your_favorite_strategy_for_dealing_with/)
+- [SQLDelight v1.5.0 released](https://www.reddit.com/r/Kotlin/comments/mx8iuk/sqldelight_v150_released/)
+- [Kotlin Fundamentals in Examples](https://www.reddit.com/r/Kotlin/comments/mx56zb/kotlin_fundamentals_in_examples/)
+- [What are some popular desktop applications built with Kotlin](https://www.reddit.com/r/Kotlin/comments/mx1h2f/what_are_some_popular_desktop_applications_built/)
+- [What is the best way to handle a single endpoint API where all requests are a POST?](https://www.reddit.com/r/Kotlin/comments/mwwob5/what_is_the_best_way_to_handle_a_single_endpoint/)
 - [Question about companion object](https://www.reddit.com/r/Kotlin/comments/mwikb0/question_about_companion_object/)
 - [Post method](https://www.reddit.com/r/Kotlin/comments/mwdpwh/post_method/)
 - [How to create an empty list from a KType](https://www.reddit.com/r/Kotlin/comments/mvzgeq/how_to_create_an_empty_list_from_a_ktype/)
 - [Nested serialization with JsonContentPolymorphicSerializer, how does it work?](https://www.reddit.com/r/Kotlin/comments/mvz2r2/nested_serialization_with/)
 - [Properties and nested properties](https://www.reddit.com/r/Kotlin/comments/mvyjtk/properties_and_nested_properties/)
-- [can we use Kotlin native in Unity Game Engine in place of C++ ?](https://www.reddit.com/r/Kotlin/comments/mvxbw0/can_we_use_kotlin_native_in_unity_game_engine_in/)
-- [How do you guys build JS async interop?](https://www.reddit.com/r/Kotlin/comments/mvvp45/how_do_you_guys_build_js_async_interop/)
-- [I just made a IntelliJ plugin which makes the Gradle Kotlin DSL a lot nicer to work with](https://www.reddit.com/r/Kotlin/comments/mvs5eo/i_just_made_a_intellij_plugin_which_makes_the/)
-- [Kotlin Community](https://www.reddit.com/r/Kotlin/comments/mvltdv/kotlin_community/)
-- [Create a simple notes app with Jetpack Compose & floating windows](https://www.reddit.com/r/Kotlin/comments/mvdozq/create_a_simple_notes_app_with_jetpack_compose/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
