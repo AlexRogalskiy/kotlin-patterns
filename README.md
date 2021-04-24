@@ -276,18 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-
-- [Variables updating in lists when they shouldn't](https://discuss.kotlinlang.org/t/variables-updating-in-lists-when-they-shouldnt/21618/2)
-- [Variables updating in lists when they shouldn't](https://discuss.kotlinlang.org/t/variables-updating-in-lists-when-they-shouldnt/21618/1)
-- [Status of Kotlin/Native?](https://discuss.kotlinlang.org/t/status-of-kotlin-native/21615/3)
-- [Status of Kotlin/Native?](https://discuss.kotlinlang.org/t/status-of-kotlin-native/21615/2)
-- [Status of Kotlin/Native?](https://discuss.kotlinlang.org/t/status-of-kotlin-native/21615/1)
-- [Backing Fields syntax](https://discuss.kotlinlang.org/t/backing-fields-syntax/21612/2)
-- [Strange behaviour with collection plusAssign operator](https://discuss.kotlinlang.org/t/strange-behaviour-with-collection-plusassign-operator/21610/2)
-- [Backing Fields syntax](https://discuss.kotlinlang.org/t/backing-fields-syntax/21612/1)
-- [Strange behaviour with collection plusAssign operator](https://discuss.kotlinlang.org/t/strange-behaviour-with-collection-plusassign-operator/21610/1)
-- [Imports](https://discuss.kotlinlang.org/t/imports/1571/10)
-
+- [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/3)
+- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/1)
+- [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/2)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/29)
+- [Status of Kotlin/Native?](https://discuss.kotlinlang.org/t/status-of-kotlin-native/21615/5)
+- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/28)
+- [Kotlin- Program to test whether a number is included in the range of numbers](https://discuss.kotlinlang.org/t/kotlin-program-to-test-whether-a-number-is-included-in-the-range-of-numbers/21622/1)
+- [Kotline Null safety](https://discuss.kotlinlang.org/t/kotline-null-safety/21620/6)
+- [Have a error "! JUnit version 3.8 or later expected:"](https://discuss.kotlinlang.org/t/have-a-error-junit-version-3-8-or-later-expected/2558/10)
+- [Kotline Null safety](https://discuss.kotlinlang.org/t/kotline-null-safety/21620/5)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
