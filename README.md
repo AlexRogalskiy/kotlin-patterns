@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Outside of familiarity, why would anyone use Lombok instead of Kotlin data classes?](https://www.reddit.com/r/Kotlin/comments/mxva16/outside_of_familiarity_why_would_anyone_use/)
+- [Representing various player options when for Mahjong?](https://www.reddit.com/r/Kotlin/comments/mxv8y9/representing_various_player_options_when_for/)
+- [Spring Boot With Kotlin. Create a Project With a Simple HTML Page and API Endpoints in Examples](https://www.reddit.com/r/Kotlin/comments/mxord4/spring_boot_with_kotlin_create_a_project_with_a/)
+- [[BLE GATT] What's the best way to chain several async requests using a BroadcastReceiver?](https://www.reddit.com/r/Kotlin/comments/mxlara/ble_gatt_whats_the_best_way_to_chain_several/)
+- [Can I use Kotlin with VS Code (without Android Studio)](https://www.reddit.com/r/Kotlin/comments/mxgqpe/can_i_use_kotlin_with_vs_code_without_android/)
 - [What's your favorite strategy for dealing with context-dependent nullability?](https://www.reddit.com/r/Kotlin/comments/mx94o0/whats_your_favorite_strategy_for_dealing_with/)
 - [SQLDelight v1.5.0 released](https://www.reddit.com/r/Kotlin/comments/mx8iuk/sqldelight_v150_released/)
 - [Kotlin Fundamentals in Examples](https://www.reddit.com/r/Kotlin/comments/mx56zb/kotlin_fundamentals_in_examples/)
 - [What are some popular desktop applications built with Kotlin](https://www.reddit.com/r/Kotlin/comments/mx1h2f/what_are_some_popular_desktop_applications_built/)
 - [What is the best way to handle a single endpoint API where all requests are a POST?](https://www.reddit.com/r/Kotlin/comments/mwwob5/what_is_the_best_way_to_handle_a_single_endpoint/)
-- [Question about companion object](https://www.reddit.com/r/Kotlin/comments/mwikb0/question_about_companion_object/)
-- [Post method](https://www.reddit.com/r/Kotlin/comments/mwdpwh/post_method/)
-- [How to create an empty list from a KType](https://www.reddit.com/r/Kotlin/comments/mvzgeq/how_to_create_an_empty_list_from_a_ktype/)
-- [Nested serialization with JsonContentPolymorphicSerializer, how does it work?](https://www.reddit.com/r/Kotlin/comments/mvz2r2/nested_serialization_with/)
-- [Properties and nested properties](https://www.reddit.com/r/Kotlin/comments/mvyjtk/properties_and_nested_properties/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
