@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Why not](https://discuss.kotlinlang.org/t/why-not/21642/1)
+- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/1)
+- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/5)
+- [Learning Kotlin for android](https://discuss.kotlinlang.org/t/learning-kotlin-for-android/21639/1)
+- [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/6)
+- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/9)
+- [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/5)
+- [Add items after some items in ArrayList<Object>](https://discuss.kotlinlang.org/t/add-items-after-some-items-in-arraylist-object/21636/1)
 - [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/4)
 - [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/4)
-- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/3)
-- [Call to execv: need to create an array of nullable C string pointers](https://discuss.kotlinlang.org/t/call-to-execv-need-to-create-an-array-of-nullable-c-string-pointers/21634/1)
-- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/2)
-- [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/3)
-- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/1)
-- [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/2)
-- [Is `with` really good, idiomatic Kotlin?](https://discuss.kotlinlang.org/t/is-with-really-good-idiomatic-kotlin/21292/29)
-- [Status of Kotlin/Native?](https://discuss.kotlinlang.org/t/status-of-kotlin-native/21615/5)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
