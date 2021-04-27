@@ -43,27 +43,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Kotlin Design Patterns](#kotlin-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>RedHat lang posts</em>](#redhat-lang-posts)
-         * [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
-         * [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
-         * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
-         * [<em>Karumi posts</em>](#karumi-posts)
-         * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
+- [Kotlin Design Patterns](#kotlin-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>RedHat lang posts</em>](#redhat-lang-posts)
+    - [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
+    - [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
+    - [<em>Super Kotlin posts</em>](#super-kotlin-posts)
+    - [<em>Karumi posts</em>](#karumi-posts)
+    - [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -251,31 +253,36 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [KotlinX Coroutines Release 1.5.0-RC](https://www.reddit.com/r/Kotlin/comments/mzamil/kotlinx_coroutines_release_150rc/)
+
+- [KotlinX Coroutines Release 1.5.0-RC](https://www.reddit.com/r/Kotlin/comments/mzamil/kotlinx_coroutines_release\_150rc/)
 - [How to force handling the return type](https://www.reddit.com/r/Kotlin/comments/mz80ay/how_to_force_handling_the_return_type/)
 - [Kotlin Multiplatform - File I/O and de-compression questions](https://www.reddit.com/r/Kotlin/comments/mz52gn/kotlin_multiplatform_file_io_and_decompression/)
 - [Suggestion: a builder method keyword](https://www.reddit.com/r/Kotlin/comments/mz51ys/suggestion_a_builder_method_keyword/)
 - [Kt. Academy](https://www.reddit.com/r/Kotlin/comments/myt4s3/kt_academy/)
 - [Check out the third video in our series dedicated to the language features of Kotlin 1.5.0 to learn about inline value classes. This feature was experimental for some time, and Kotlin 1.5.0 stabilizes it and makes some changes.](https://www.reddit.com/r/Kotlin/comments/myruag/check_out_the_third_video_in_our_series_dedicated/)
 - [Kotlin Desktop - Which GUI library](https://www.reddit.com/r/Kotlin/comments/mygitn/kotlin_desktop_which_gui_library/)
-- [Vavr | Λrrow . . . Complementary or redundant? (Note: This is a multi-part question.)](https://www.reddit.com/r/Kotlin/comments/myg03n/vavr_λrrow_complementary_or_redundant_note_this/)
+- [Vavr | Λrrow . . . Complementary or redundant? (Note: This is a multi-part question.)](https://www.reddit.com/r/Kotlin/comments/myg03n/vavr\_λrrow_complementary_or_redundant_note_this/)
 - [An example of overengineering - keep it WET](https://www.reddit.com/r/Kotlin/comments/myc86f/an_example_of_overengineering_keep_it_wet/)
 - [Understanding Dependency Injection with Kotlin](https://www.reddit.com/r/Kotlin/comments/mybnc2/understanding_dependency_injection_with_kotlin/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [Using a Kotlin-based gRPC API with Envoy proxy for server-side load balancing](https://developers.redhat.com/blog/2018/12/24/using-a-kotlin-based-grpc-api-with-envoy-proxy-for-server-side-load-balancing/)
 - [Writing better Spring applications using SpringFu](https://developers.redhat.com/blog/2018/12/12/writing-better-spring-applications-using-springfu/)
 - [How Kotlin’s coroutines improve code readability](https://developers.redhat.com/blog/2018/12/03/how-kotlins-coroutines-improve-code-readability/)
 - [Inter-Reactive Kotlin Applications](https://developers.redhat.com/blog/2017/12/07/inter-reactive-kotlin-applications/)
 - [Server-side Kotlin with Eclipse Vert.x at JavaOne](https://developers.redhat.com/blog/2017/10/13/server-side-kotlin-eclipse-vert-x-javaone/)
+
 <!-- REDHAT-POST-LIST:END -->
 
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
+
 - [Type mismatch, Required: Editable! Found: String](https://discuss.kotlinlang.org/t/type-mismatch-required-editable-found-string/21656/2)
 - [Type mismatch, Required: Editable! Found: String](https://discuss.kotlinlang.org/t/type-mismatch-required-editable-found-string/21656/1)
 - [Call to execv: need to create an array of nullable C string pointers](https://discuss.kotlinlang.org/t/call-to-execv-need-to-create-an-array-of-nullable-c-string-pointers/21634/2)
@@ -286,11 +293,13 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Support for Groovy style "Power Assertion" in Kotlin?](https://discuss.kotlinlang.org/t/support-for-groovy-style-power-assertion-in-kotlin/427/16)
 - [What is the proper way of documenting primary constructor parameters?](https://discuss.kotlinlang.org/t/what-is-the-proper-way-of-documenting-primary-constructor-parameters/21648/2)
 - [What is the proper way of documenting primary constructor parameters?](https://discuss.kotlinlang.org/t/what-is-the-proper-way-of-documenting-primary-constructor-parameters/21648/1)
+
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
 
 <!-- KOTLINACADEMY-POST-LIST:START -->
+
 - [Jetpack Compose: First Impressions and Learning Resources](https://blog.kotlin-academy.com/jetpack-compose-first-impressions-and-learning-resources-4101bff9f04?source=rss----e57b304801ef---4)
 - [Merry Christmas Kotliners!](https://blog.kotlin-academy.com/merry-christmas-kotliners-6648d926303?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews series](https://blog.kotlin-academy.com/kotlin-for-interviews-series-def58e229e23?source=rss----e57b304801ef---4)
@@ -301,11 +310,13 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin for Interviews — Part 3: Numbers and Math](https://blog.kotlin-academy.com/kotlin-for-interviews-part-3-numbers-and-math-786660295cea?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews — Part 2: Collection Functions](https://blog.kotlin-academy.com/kotlin-for-interviews-part-2-collection-functions-a4a488fa0a14?source=rss----e57b304801ef---4)
 - [Kotlin for Interviews — Part 1: Common Data Types](https://blog.kotlin-academy.com/kotlin-for-interviews-part-1-common-data-types-886ea1e40645?source=rss----e57b304801ef---4)
+
 <!-- KOTLINACADEMY-POST-LIST:END -->
 
 ### *Super Kotlin posts*
 
 <!-- SUPERKOTLIN-POST-LIST:START -->
+
 - [Kotlin Mega Tutorial](https://superkotlin.com/kotlin-mega-tutorial/)
 - [Kotlin when: A switch with Superpowers](https://superkotlin.com/kotlin-when-statement/)
 - [Developing web applications with Javalin and Kotlin](https://superkotlin.com/web-applications-javalin-kotlin/)
@@ -316,11 +327,13 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Java as your Kotlin Study Buddy](https://superkotlin.com/java-kotlin-study-buddy/)
 - [Review Of the Book Kotlin For Android Developers](https://superkotlin.com/review-book-kotlin-android-developers/)
 - [Kotlin Courses: Reviews And Comparison](https://superkotlin.com/kotlin-courses/)
+
 <!-- SUPERKOTLIN-POST-LIST:END -->
 
 ### *Karumi posts*
 
 <!-- KARUMI-POST-LIST:START -->
+
 - [Hiring Review. Good and Bad decisions](https://blog.karumi.com/hiring-review-good-and-bad-decisions/)
 - [Jetpack Compose Screenshot Testing with Shot](https://blog.karumi.com/jetpack-compose-screenshot-testing-with-shot/)
 - [Why you should be using OpenAPI right now?](https://blog.karumi.com/why-you-should-be-using-openapi-right-now/)
@@ -331,11 +344,13 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Interface Builder Is Dead Long Live SwiftUI](https://blog.karumi.com/interface-builder-is-dead-long-live-swiftui/)
 - [How to achieve an ​App with great design? The steps before a design system](https://blog.karumi.com/how-to-achieve-app-with-great-design/)
 - [First steps into Kotlin Multiplatform](https://blog.karumi.com/first-steps-into-kotlin-multiplatform/)
+
 <!-- KARUMI-POST-LIST:END -->
 
 ### *Talking Kotlin posts*
 
 <!-- TALKINGKOTLIN-POST-LIST:START -->
+
 - [MVIKotlin and Decompose with Arkadii Ivanov from Bumble](https://talkingkotlin.com/mvikotlin-and-decompose-with-arkadii-ivanov/)
 - [Kotlin Multiplatform with John O’Reilly](https://talkingkotlin.com/kotlin-multiplatform-with-john-oreilly/)
 - [Catching Up With Roman Elizarov](https://talkingkotlin.com/catching-up-with-roman-elizarov/)
@@ -346,6 +361,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Teaching Kids Kotlin](https://talkingkotlin.com/teaching-kids-kotlin/)
 - [Kotlin and Google Cloud Platform](https://talkingkotlin.com/kotlin-and-gcp/)
 - [Maths and Kotlin](https://talkingkotlin.com/maths-and-kotlin/)
+
 <!-- TALKINGKOTLIN-POST-LIST:END -->
 
 ***
