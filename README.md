@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KotlinX Coroutines Release 1.5.0-RC](https://www.reddit.com/r/Kotlin/comments/mzamil/kotlinx_coroutines_release_150rc/)
+- [How to force handling the return type](https://www.reddit.com/r/Kotlin/comments/mz80ay/how_to_force_handling_the_return_type/)
+- [Kotlin Multiplatform - File I/O and de-compression questions](https://www.reddit.com/r/Kotlin/comments/mz52gn/kotlin_multiplatform_file_io_and_decompression/)
+- [Suggestion: a builder method keyword](https://www.reddit.com/r/Kotlin/comments/mz51ys/suggestion_a_builder_method_keyword/)
+- [Kt. Academy](https://www.reddit.com/r/Kotlin/comments/myt4s3/kt_academy/)
+- [Check out the third video in our series dedicated to the language features of Kotlin 1.5.0 to learn about inline value classes. This feature was experimental for some time, and Kotlin 1.5.0 stabilizes it and makes some changes.](https://www.reddit.com/r/Kotlin/comments/myruag/check_out_the_third_video_in_our_series_dedicated/)
 - [Kotlin Desktop - Which GUI library](https://www.reddit.com/r/Kotlin/comments/mygitn/kotlin_desktop_which_gui_library/)
 - [Vavr | Λrrow . . . Complementary or redundant? (Note: This is a multi-part question.)](https://www.reddit.com/r/Kotlin/comments/myg03n/vavr_λrrow_complementary_or_redundant_note_this/)
 - [An example of overengineering - keep it WET](https://www.reddit.com/r/Kotlin/comments/myc86f/an_example_of_overengineering_keep_it_wet/)
 - [Understanding Dependency Injection with Kotlin](https://www.reddit.com/r/Kotlin/comments/mybnc2/understanding_dependency_injection_with_kotlin/)
-- [Kotlin code problem](https://www.reddit.com/r/Kotlin/comments/myaqbm/kotlin_code_problem/)
-- [Define an Enum structure in Kotlin?](https://www.reddit.com/r/Kotlin/comments/my6knt/define_an_enum_structure_in_kotlin/)
-- [Begginer: How am I supposed to read this?](https://www.reddit.com/r/Kotlin/comments/my4pvx/begginer_how_am_i_supposed_to_read_this/)
-- [Article of articles for Kotlin Coroutine](https://www.reddit.com/r/Kotlin/comments/my3i80/article_of_articles_for_kotlin_coroutine/)
-- [image loses quality](https://www.reddit.com/r/Kotlin/comments/mxy7ci/image_loses_quality/)
-- [Outside of familiarity, why would anyone use Lombok instead of Kotlin data classes?](https://www.reddit.com/r/Kotlin/comments/mxva16/outside_of_familiarity_why_would_anyone_use/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
