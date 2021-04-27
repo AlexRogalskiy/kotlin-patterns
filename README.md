@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Why not](https://discuss.kotlinlang.org/t/why-not/21642/1)
-- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/1)
-- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/5)
-- [Learning Kotlin for android](https://discuss.kotlinlang.org/t/learning-kotlin-for-android/21639/1)
-- [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/6)
-- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/9)
-- [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/5)
-- [Add items after some items in ArrayList<Object>](https://discuss.kotlinlang.org/t/add-items-after-some-items-in-arraylist-object/21636/1)
-- [Creating timer in Kotlin](https://discuss.kotlinlang.org/t/creating-timer-in-kotlin/21575/4)
-- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/4)
+- [Type mismatch, Required: Editable! Found: String](https://discuss.kotlinlang.org/t/type-mismatch-required-editable-found-string/21656/2)
+- [Type mismatch, Required: Editable! Found: String](https://discuss.kotlinlang.org/t/type-mismatch-required-editable-found-string/21656/1)
+- [Call to execv: need to create an array of nullable C string pointers](https://discuss.kotlinlang.org/t/call-to-execv-need-to-create-an-array-of-nullable-c-string-pointers/21634/2)
+- [Kotline Sum of positive number](https://discuss.kotlinlang.org/t/kotline-sum-of-positive-number/21650/1)
+- [Better way to handle this (if without else)](https://discuss.kotlinlang.org/t/better-way-to-handle-this-if-without-else/21649/2)
+- [What is the proper way of documenting primary constructor parameters?](https://discuss.kotlinlang.org/t/what-is-the-proper-way-of-documenting-primary-constructor-parameters/21648/3)
+- [Better way to handle this (if without else)](https://discuss.kotlinlang.org/t/better-way-to-handle-this-if-without-else/21649/1)
+- [Support for Groovy style "Power Assertion" in Kotlin?](https://discuss.kotlinlang.org/t/support-for-groovy-style-power-assertion-in-kotlin/427/16)
+- [What is the proper way of documenting primary constructor parameters?](https://discuss.kotlinlang.org/t/what-is-the-proper-way-of-documenting-primary-constructor-parameters/21648/2)
+- [What is the proper way of documenting primary constructor parameters?](https://discuss.kotlinlang.org/t/what-is-the-proper-way-of-documenting-primary-constructor-parameters/21648/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
