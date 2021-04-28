@@ -306,7 +306,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Super Kotlin posts*
 
 <!-- SUPERKOTLIN-POST-LIST:START -->
-
 - [Kotlin Mega Tutorial](https://superkotlin.com/kotlin-mega-tutorial/)
 - [Kotlin when: A switch with Superpowers](https://superkotlin.com/kotlin-when-statement/)
 - [Developing web applications with Javalin and Kotlin](https://superkotlin.com/web-applications-javalin-kotlin/)
@@ -317,7 +316,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Java as your Kotlin Study Buddy](https://superkotlin.com/java-kotlin-study-buddy/)
 - [Review Of the Book Kotlin For Android Developers](https://superkotlin.com/review-book-kotlin-android-developers/)
 - [Kotlin Courses: Reviews And Comparison](https://superkotlin.com/kotlin-courses/)
-
 <!-- SUPERKOTLIN-POST-LIST:END -->
 
 ### *Karumi posts*
