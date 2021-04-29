@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KotlinX Serialization Release 1.2.0](https://www.reddit.com/r/Kotlin/comments/n0sp25/kotlinx_serialization_release_120/)
+- [JobRunr 2.0 released with Kotlin support](https://www.reddit.com/r/Kotlin/comments/n0q0hf/jobrunr_20_released_with_kotlin_support/)
+- [Question from beginner, how do I link up the side navigation menu with a fragment to display it?](https://www.reddit.com/r/Kotlin/comments/n0mc8a/question_from_beginner_how_do_i_link_up_the_side/)
+- [Is Kotlin 1.5.0 released ?!](https://www.reddit.com/r/Kotlin/comments/n0gt0d/is_kotlin_150_released/)
+- [What's the best way to write this bunch of code?](https://www.reddit.com/r/Kotlin/comments/n0beu7/whats_the_best_way_to_write_this_bunch_of_code/)
+- [Resources for Kotlin for experienced non-kotlin developer](https://www.reddit.com/r/Kotlin/comments/n09zmk/resources_for_kotlin_for_experienced_nonkotlin/)
 - [Background service in Kotlin](https://www.reddit.com/r/Kotlin/comments/n007jo/background_service_in_kotlin/)
 - [Using Coveralls for android development?](https://www.reddit.com/r/Kotlin/comments/mzvd5q/using_coveralls_for_android_development/)
 - [Automatic and seamless way to install a JVM when distributing app](https://www.reddit.com/r/Kotlin/comments/mzr62f/automatic_and_seamless_way_to_install_a_jvm_when/)
 - [How to test a time-dependent coroutine](https://www.reddit.com/r/Kotlin/comments/mzodxk/how_to_test_a_timedependent_coroutine/)
-- [Do I need to know any Java to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/mzo4wd/do_i_need_to_know_any_java_to_learn_kotlin/)
-- [This video concludes our series on language features in Kotlin 1.5.0. It explains the syntactic change from inline classes to value classes, and provides some insights into this feature’s future development. More 1.5.0 videos are coming soon!](https://www.reddit.com/r/Kotlin/comments/mzjbi6/this_video_concludes_our_series_on_language/)
-- [KotlinX Coroutines Release 1.5.0-RC](https://www.reddit.com/r/Kotlin/comments/mzamil/kotlinx_coroutines_release_150rc/)
-- [How to force handling the return type](https://www.reddit.com/r/Kotlin/comments/mz80ay/how_to_force_handling_the_return_type/)
-- [Kotlin Multiplatform - File I/O and de-compression questions](https://www.reddit.com/r/Kotlin/comments/mz52gn/kotlin_multiplatform_file_io_and_decompression/)
-- [Suggestion: a builder method keyword](https://www.reddit.com/r/Kotlin/comments/mz51ys/suggestion_a_builder_method_keyword/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
