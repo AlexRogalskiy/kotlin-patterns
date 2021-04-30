@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Is Kotlin/Native available on any LLVM platform?](https://discuss.kotlinlang.org/t/is-kotlin-native-available-on-any-llvm-platform/21547/5)
-- [Kotlin Sum of positive number](https://discuss.kotlinlang.org/t/kotlin-sum-of-positive-number/21657/4)
-- [Kotlin Script Engine Memory Leak](https://discuss.kotlinlang.org/t/kotlin-script-engine-memory-leak/13094/4)
-- [Kotlin Sum of positive number](https://discuss.kotlinlang.org/t/kotlin-sum-of-positive-number/21657/3)
-- [Is Kotlin/Native available on any LLVM platform?](https://discuss.kotlinlang.org/t/is-kotlin-native-available-on-any-llvm-platform/21547/4)
-- [Is Kotlin/Native available on any LLVM platform?](https://discuss.kotlinlang.org/t/is-kotlin-native-available-on-any-llvm-platform/21547/3)
-- [Type mismatch, Required: Editable! Found: String](https://discuss.kotlinlang.org/t/type-mismatch-required-editable-found-string/21656/4)
-- [Using kotlin.script.experimental.api.* how to retrieve the value from the Script](https://discuss.kotlinlang.org/t/using-kotlin-script-experimental-api-how-to-retrieve-the-value-from-the-script/19788/14)
-- [Call to execv: need to create an array of nullable C string pointers](https://discuss.kotlinlang.org/t/call-to-execv-need-to-create-an-array-of-nullable-c-string-pointers/21634/3)
-- [Kotlin allows same function signature of getter in sub-classes](https://discuss.kotlinlang.org/t/kotlin-allows-same-function-signature-of-getter-in-sub-classes/19997/3)
+- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/7)
+- [Kotlin, WebAssembly and the JVM library ecosystem?](https://discuss.kotlinlang.org/t/kotlin-webassembly-and-the-jvm-library-ecosystem/21680/2)
+- [Kotlin, WebAssembly and the JVM library ecosystem?](https://discuss.kotlinlang.org/t/kotlin-webassembly-and-the-jvm-library-ecosystem/21680/1)
+- [Kotlin Sum of positive number](https://discuss.kotlinlang.org/t/kotlin-sum-of-positive-number/21657/6)
+- [Where to put my var's and val's](https://discuss.kotlinlang.org/t/where-to-put-my-vars-and-vals/21678/1)
+- [Exposed and kotlinx-datetime](https://discuss.kotlinlang.org/t/exposed-and-kotlinx-datetime/21677/1)
+- [How to handle kotlin together with guava](https://discuss.kotlinlang.org/t/how-to-handle-kotlin-together-with-guava/21675/4)
+- [How to handle kotlin together with guava](https://discuss.kotlinlang.org/t/how-to-handle-kotlin-together-with-guava/21675/3)
+- [How to handle kotlin together with guava](https://discuss.kotlinlang.org/t/how-to-handle-kotlin-together-with-guava/21675/2)
+- [How to handle kotlin together with guava](https://discuss.kotlinlang.org/t/how-to-handle-kotlin-together-with-guava/21675/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
