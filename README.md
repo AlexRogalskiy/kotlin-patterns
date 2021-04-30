@@ -336,6 +336,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Talking Kotlin posts*
 
 <!-- TALKINGKOTLIN-POST-LIST:START -->
+- [Teaching Kotlin at Stanford, with Rahul Pandey](https://talkingkotlin.com/teaching-kotlin-at-stanford-with-rahul-pandey/)
 - [MVIKotlin and Decompose with Arkadii Ivanov from Bumble](https://talkingkotlin.com/mvikotlin-and-decompose-with-arkadii-ivanov/)
 - [Kotlin Multiplatform with John O’Reilly](https://talkingkotlin.com/kotlin-multiplatform-with-john-oreilly/)
 - [Catching Up With Roman Elizarov](https://talkingkotlin.com/catching-up-with-roman-elizarov/)
@@ -345,7 +346,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [GraphQL with Apollo and Kotlin](https://talkingkotlin.com/graphql-with-apollo-and-kotlin/)
 - [Teaching Kids Kotlin](https://talkingkotlin.com/teaching-kids-kotlin/)
 - [Kotlin and Google Cloud Platform](https://talkingkotlin.com/kotlin-and-gcp/)
-- [Maths and Kotlin](https://talkingkotlin.com/maths-and-kotlin/)
 <!-- TALKINGKOTLIN-POST-LIST:END -->
 
 ***
