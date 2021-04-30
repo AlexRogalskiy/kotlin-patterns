@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [KotlinX Serialization Release 1.2.0](https://www.reddit.com/r/Kotlin/comments/n0sp25/kotlinx_serialization_release_120/)
-- [JobRunr 2.0 released with Kotlin support](https://www.reddit.com/r/Kotlin/comments/n0q0hf/jobrunr_20_released_with_kotlin_support/)
-- [Question from beginner, how do I link up the side navigation menu with a fragment to display it?](https://www.reddit.com/r/Kotlin/comments/n0mc8a/question_from_beginner_how_do_i_link_up_the_side/)
-- [Is Kotlin 1.5.0 released ?!](https://www.reddit.com/r/Kotlin/comments/n0gt0d/is_kotlin_150_released/)
-- [What's the best way to write this bunch of code?](https://www.reddit.com/r/Kotlin/comments/n0beu7/whats_the_best_way_to_write_this_bunch_of_code/)
-- [Resources for Kotlin for experienced non-kotlin developer](https://www.reddit.com/r/Kotlin/comments/n09zmk/resources_for_kotlin_for_experienced_nonkotlin/)
-- [Background service in Kotlin](https://www.reddit.com/r/Kotlin/comments/n007jo/background_service_in_kotlin/)
-- [Using Coveralls for android development?](https://www.reddit.com/r/Kotlin/comments/mzvd5q/using_coveralls_for_android_development/)
-- [Automatic and seamless way to install a JVM when distributing app](https://www.reddit.com/r/Kotlin/comments/mzr62f/automatic_and_seamless_way_to_install_a_jvm_when/)
-- [How to test a time-dependent coroutine](https://www.reddit.com/r/Kotlin/comments/mzodxk/how_to_test_a_timedependent_coroutine/)
+- [vscode + kotlin](https://www.reddit.com/r/Kotlin/comments/n1ekyi/vscode_kotlin/)
+- [Build Rest API with Spring Boot + Kotlin](https://www.reddit.com/r/Kotlin/comments/n1dbz3/build_rest_api_with_spring_boot_kotlin/)
+- [Kotlin Multiplatform Mobile with Ktor](https://www.reddit.com/r/Kotlin/comments/n1ckaa/kotlin_multiplatform_mobile_with_ktor/)
+- [KMM Production Sample App](https://www.reddit.com/r/Kotlin/comments/n19ifb/kmm_production_sample_app/)
+- [Teaching Kotlin at Stanford, with Rahul Pandey](https://www.reddit.com/r/Kotlin/comments/n17l0h/teaching_kotlin_at_stanford_with_rahul_pandey/)
+- [Desktop Compose File Picker](https://www.reddit.com/r/Kotlin/comments/n16u8z/desktop_compose_file_picker/)
+- [Block URLs using kotlin](https://www.reddit.com/r/Kotlin/comments/n112m2/block_urls_using_kotlin/)
+- [How to tell ktor to use an ssl cert?](https://www.reddit.com/r/Kotlin/comments/n10aw3/how_to_tell_ktor_to_use_an_ssl_cert/)
+- [Best to migrate a Java project to Kotlin](https://www.reddit.com/r/Kotlin/comments/n0zwyr/best_to_migrate_a_java_project_to_kotlin/)
+- [Do you use fun interfaces? When do you think they should be preferred instead of function types?](https://www.reddit.com/r/Kotlin/comments/n0z8jz/do_you_use_fun_interfaces_when_do_you_think_they/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
