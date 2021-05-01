@@ -276,6 +276,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Kotlin to support package protected visibility](https://discuss.kotlinlang.org/t/kotlin-to-support-package-protected-visibility/1544/115)
+- [Package-Level Annotations in Kotlin (package-info.java for JAXB)](https://discuss.kotlinlang.org/t/package-level-annotations-in-kotlin-package-info-java-for-jaxb/2017/3)
 - [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/7)
 - [Kotlin, WebAssembly and the JVM library ecosystem?](https://discuss.kotlinlang.org/t/kotlin-webassembly-and-the-jvm-library-ecosystem/21680/2)
 - [Kotlin, WebAssembly and the JVM library ecosystem?](https://discuss.kotlinlang.org/t/kotlin-webassembly-and-the-jvm-library-ecosystem/21680/1)
@@ -283,9 +285,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Where to put my var's and val's](https://discuss.kotlinlang.org/t/where-to-put-my-vars-and-vals/21678/1)
 - [Exposed and kotlinx-datetime](https://discuss.kotlinlang.org/t/exposed-and-kotlinx-datetime/21677/1)
 - [How to handle kotlin together with guava](https://discuss.kotlinlang.org/t/how-to-handle-kotlin-together-with-guava/21675/4)
-- [How to handle kotlin together with guava](https://discuss.kotlinlang.org/t/how-to-handle-kotlin-together-with-guava/21675/3)
 - [How to handle kotlin together with guava](https://discuss.kotlinlang.org/t/how-to-handle-kotlin-together-with-guava/21675/2)
-- [How to handle kotlin together with guava](https://discuss.kotlinlang.org/t/how-to-handle-kotlin-together-with-guava/21675/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
