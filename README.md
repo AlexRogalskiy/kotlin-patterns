@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hello, as a Java dev who wanted to learn Kotlin, I wrote a full-featured Chess with a simple GUI. Feel free to give it a look or play a game :)](https://www.reddit.com/r/Kotlin/comments/n231db/hello_as_a_java_dev_who_wanted_to_learn_kotlin_i/)
+- [KMMT : Kotlin Multiplatform Mobile Template ( Kotlin Multiplatform Mobile Development Simplified )](https://www.reddit.com/r/Kotlin/comments/n1x0ky/kmmt_kotlin_multiplatform_mobile_template_kotlin/)
+- [Running ktor on background](https://www.reddit.com/r/Kotlin/comments/n1vtfr/running_ktor_on_background/)
+- [Maybe someone can help me (Kotlin, CameraX, OpenCV, RecyclerView)](https://www.reddit.com/r/Kotlin/comments/n1ugho/maybe_someone_can_help_me_kotlin_camerax_opencv/)
+- [Kotlin Finite State Machine](https://www.reddit.com/r/Kotlin/comments/n1swhb/kotlin_finite_state_machine/)
+- [New to Kotlin, will appreciate some help!](https://www.reddit.com/r/Kotlin/comments/n1q9kz/new_to_kotlin_will_appreciate_some_help/)
 - [vscode + kotlin](https://www.reddit.com/r/Kotlin/comments/n1ekyi/vscode_kotlin/)
 - [Build Rest API with Spring Boot + Kotlin](https://www.reddit.com/r/Kotlin/comments/n1dbz3/build_rest_api_with_spring_boot_kotlin/)
 - [Kotlin Multiplatform Mobile with Ktor](https://www.reddit.com/r/Kotlin/comments/n1ckaa/kotlin_multiplatform_mobile_with_ktor/)
 - [KMM Production Sample App](https://www.reddit.com/r/Kotlin/comments/n19ifb/kmm_production_sample_app/)
-- [Teaching Kotlin at Stanford, with Rahul Pandey](https://www.reddit.com/r/Kotlin/comments/n17l0h/teaching_kotlin_at_stanford_with_rahul_pandey/)
-- [Desktop Compose File Picker](https://www.reddit.com/r/Kotlin/comments/n16u8z/desktop_compose_file_picker/)
-- [Block URLs using kotlin](https://www.reddit.com/r/Kotlin/comments/n112m2/block_urls_using_kotlin/)
-- [How to tell ktor to use an ssl cert?](https://www.reddit.com/r/Kotlin/comments/n10aw3/how_to_tell_ktor_to_use_an_ssl_cert/)
-- [Best to migrate a Java project to Kotlin](https://www.reddit.com/r/Kotlin/comments/n0zwyr/best_to_migrate_a_java_project_to_kotlin/)
-- [Do you use fun interfaces? When do you think they should be preferred instead of function types?](https://www.reddit.com/r/Kotlin/comments/n0z8jz/do_you_use_fun_interfaces_when_do_you_think_they/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
