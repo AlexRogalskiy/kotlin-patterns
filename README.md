@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trouble out the blocks](https://www.reddit.com/r/Kotlin/comments/n2u61x/trouble_out_the_blocks/)
+- [kotlin mpp not working on m1](https://www.reddit.com/r/Kotlin/comments/n2sfci/kotlin_mpp_not_working_on_m1/)
+- [If I wanted to modify the Kotlin grammar, how would I go about doing that?](https://www.reddit.com/r/Kotlin/comments/n2okrx/if_i_wanted_to_modify_the_kotlin_grammar_how/)
+- [Keep the timer counting down when the app is closed](https://www.reddit.com/r/Kotlin/comments/n2msny/keep_the_timer_counting_down_when_the_app_is/)
+- [How to test a time-dependent coroutine](https://www.reddit.com/r/Kotlin/comments/n2jjy0/how_to_test_a_timedependent_coroutine/)
+- [Which Java libraries would benefit from being Kotlin-ified?](https://www.reddit.com/r/Kotlin/comments/n2boby/which_java_libraries_would_benefit_from_being/)
 - [Hello, as a Java dev who wanted to learn Kotlin, I wrote a full-featured Chess with a simple GUI. Feel free to give it a look or play a game :)](https://www.reddit.com/r/Kotlin/comments/n231db/hello_as_a_java_dev_who_wanted_to_learn_kotlin_i/)
 - [KMMT : Kotlin Multiplatform Mobile Template ( Kotlin Multiplatform Mobile Development Simplified )](https://www.reddit.com/r/Kotlin/comments/n1x0ky/kmmt_kotlin_multiplatform_mobile_template_kotlin/)
 - [Running ktor on background](https://www.reddit.com/r/Kotlin/comments/n1vtfr/running_ktor_on_background/)
 - [Maybe someone can help me (Kotlin, CameraX, OpenCV, RecyclerView)](https://www.reddit.com/r/Kotlin/comments/n1ugho/maybe_someone_can_help_me_kotlin_camerax_opencv/)
-- [Kotlin Finite State Machine](https://www.reddit.com/r/Kotlin/comments/n1swhb/kotlin_finite_state_machine/)
-- [New to Kotlin, will appreciate some help!](https://www.reddit.com/r/Kotlin/comments/n1q9kz/new_to_kotlin_will_appreciate_some_help/)
-- [vscode + kotlin](https://www.reddit.com/r/Kotlin/comments/n1ekyi/vscode_kotlin/)
-- [Build Rest API with Spring Boot + Kotlin](https://www.reddit.com/r/Kotlin/comments/n1dbz3/build_rest_api_with_spring_boot_kotlin/)
-- [Kotlin Multiplatform Mobile with Ktor](https://www.reddit.com/r/Kotlin/comments/n1ckaa/kotlin_multiplatform_mobile_with_ktor/)
-- [KMM Production Sample App](https://www.reddit.com/r/Kotlin/comments/n19ifb/kmm_production_sample_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
