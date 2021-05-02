@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/2)
+- [Annotation Processor Function Suspend Modifier?](https://discuss.kotlinlang.org/t/annotation-processor-function-suspend-modifier/21685/4)
+- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/10)
+- [Annotation Processor Function Suspend Modifier?](https://discuss.kotlinlang.org/t/annotation-processor-function-suspend-modifier/21685/3)
+- [Annotation Processor Function Suspend Modifier?](https://discuss.kotlinlang.org/t/annotation-processor-function-suspend-modifier/21685/2)
+- [Annotation Processor Function Suspend Modifier?](https://discuss.kotlinlang.org/t/annotation-processor-function-suspend-modifier/21685/1)
 - [Kotlin to support package protected visibility](https://discuss.kotlinlang.org/t/kotlin-to-support-package-protected-visibility/1544/115)
 - [Package-Level Annotations in Kotlin (package-info.java for JAXB)](https://discuss.kotlinlang.org/t/package-level-annotations-in-kotlin-package-info-java-for-jaxb/2017/3)
 - [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/7)
 - [Kotlin, WebAssembly and the JVM library ecosystem?](https://discuss.kotlinlang.org/t/kotlin-webassembly-and-the-jvm-library-ecosystem/21680/2)
-- [Kotlin, WebAssembly and the JVM library ecosystem?](https://discuss.kotlinlang.org/t/kotlin-webassembly-and-the-jvm-library-ecosystem/21680/1)
-- [Kotlin Sum of positive number](https://discuss.kotlinlang.org/t/kotlin-sum-of-positive-number/21657/6)
-- [Where to put my var's and val's](https://discuss.kotlinlang.org/t/where-to-put-my-vars-and-vals/21678/1)
-- [Exposed and kotlinx-datetime](https://discuss.kotlinlang.org/t/exposed-and-kotlinx-datetime/21677/1)
-- [How to handle kotlin together with guava](https://discuss.kotlinlang.org/t/how-to-handle-kotlin-together-with-guava/21675/4)
-- [How to handle kotlin together with guava](https://discuss.kotlinlang.org/t/how-to-handle-kotlin-together-with-guava/21675/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
