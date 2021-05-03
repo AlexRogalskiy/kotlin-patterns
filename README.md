@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trouble out the blocks](https://www.reddit.com/r/Kotlin/comments/n2u61x/trouble_out_the_blocks/)
-- [kotlin mpp not working on m1](https://www.reddit.com/r/Kotlin/comments/n2sfci/kotlin_mpp_not_working_on_m1/)
-- [If I wanted to modify the Kotlin grammar, how would I go about doing that?](https://www.reddit.com/r/Kotlin/comments/n2okrx/if_i_wanted_to_modify_the_kotlin_grammar_how/)
-- [Keep the timer counting down when the app is closed](https://www.reddit.com/r/Kotlin/comments/n2msny/keep_the_timer_counting_down_when_the_app_is/)
-- [How to test a time-dependent coroutine](https://www.reddit.com/r/Kotlin/comments/n2jjy0/how_to_test_a_timedependent_coroutine/)
-- [Which Java libraries would benefit from being Kotlin-ified?](https://www.reddit.com/r/Kotlin/comments/n2boby/which_java_libraries_would_benefit_from_being/)
-- [Hello, as a Java dev who wanted to learn Kotlin, I wrote a full-featured Chess with a simple GUI. Feel free to give it a look or play a game :)](https://www.reddit.com/r/Kotlin/comments/n231db/hello_as_a_java_dev_who_wanted_to_learn_kotlin_i/)
-- [KMMT : Kotlin Multiplatform Mobile Template ( Kotlin Multiplatform Mobile Development Simplified )](https://www.reddit.com/r/Kotlin/comments/n1x0ky/kmmt_kotlin_multiplatform_mobile_template_kotlin/)
-- [Running ktor on background](https://www.reddit.com/r/Kotlin/comments/n1vtfr/running_ktor_on_background/)
-- [Maybe someone can help me (Kotlin, CameraX, OpenCV, RecyclerView)](https://www.reddit.com/r/Kotlin/comments/n1ugho/maybe_someone_can_help_me_kotlin_camerax_opencv/)
+- [Can someone give me another way to create a function that does the exact same thing but with different code?](https://www.reddit.com/r/Kotlin/comments/n3khde/can_someone_give_me_another_way_to_create_a/)
+- [The Complete Android Kotlin Developer Course](https://www.reddit.com/r/Kotlin/comments/n3h7c8/the_complete_android_kotlin_developer_course/)
+- [Updated : KMMT : Kotlin Multiplatform Mobile Development Simplified](https://www.reddit.com/r/Kotlin/comments/n3h47j/updated_kmmt_kotlin_multiplatform_mobile/)
+- [Lingua 1.1.0 released - The most accurate natural language detection library for the JVM](https://www.reddit.com/r/Kotlin/comments/n3bxns/lingua_110_released_the_most_accurate_natural/)
+- [Why the code is providing different results when using `thread` and `launch`? Code in the description.](https://www.reddit.com/r/Kotlin/comments/n3ad0r/why_the_code_is_providing_different_results_when/)
+- [[Taller] Lyrics Search App](https://www.reddit.com/r/Kotlin/comments/n39ogy/taller_lyrics_search_app/)
+- [Why does removing "redundant initializer" as suggested by IntelliJ in this code: https://pl.kotl.in/7Kcy18ROA drastically increases the time required to run the program?](https://www.reddit.com/r/Kotlin/comments/n377tr/why_does_removing_redundant_initializer_as/)
+- [Experimenting with Coroutines and traditional Spring transactions - feedbacks welcome](https://www.reddit.com/r/Kotlin/comments/n35r7v/experimenting_with_coroutines_and_traditional/)
+- [I can't get Moshi to work with my Ktor REST Api](https://www.reddit.com/r/Kotlin/comments/n2yqdt/i_cant_get_moshi_to_work_with_my_ktor_rest_api/)
+- [🔥Firebase-ing with Kotlin Coroutines + Flow🌊](https://www.reddit.com/r/Kotlin/comments/n2xc1f/firebaseing_with_kotlin_coroutines_flow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
