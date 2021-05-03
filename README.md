@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Allow bounds on typealias type parameters](https://discuss.kotlinlang.org/t/allow-bounds-on-typealias-type-parameters/16028/3)
+- [Interface as variable?](https://discuss.kotlinlang.org/t/interface-as-variable/21690/2)
+- [Questions about concurrency?](https://discuss.kotlinlang.org/t/questions-about-concurrency/21692/1)
+- [Interface as variable?](https://discuss.kotlinlang.org/t/interface-as-variable/21690/1)
+- [Kotlin Script Engine Memory Leak](https://discuss.kotlinlang.org/t/kotlin-script-engine-memory-leak/13094/6)
+- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/3)
+- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/8)
 - [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/2)
 - [Annotation Processor Function Suspend Modifier?](https://discuss.kotlinlang.org/t/annotation-processor-function-suspend-modifier/21685/4)
 - [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/10)
-- [Annotation Processor Function Suspend Modifier?](https://discuss.kotlinlang.org/t/annotation-processor-function-suspend-modifier/21685/3)
-- [Annotation Processor Function Suspend Modifier?](https://discuss.kotlinlang.org/t/annotation-processor-function-suspend-modifier/21685/2)
-- [Annotation Processor Function Suspend Modifier?](https://discuss.kotlinlang.org/t/annotation-processor-function-suspend-modifier/21685/1)
-- [Kotlin to support package protected visibility](https://discuss.kotlinlang.org/t/kotlin-to-support-package-protected-visibility/1544/115)
-- [Package-Level Annotations in Kotlin (package-info.java for JAXB)](https://discuss.kotlinlang.org/t/package-level-annotations-in-kotlin-package-info-java-for-jaxb/2017/3)
-- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/7)
-- [Kotlin, WebAssembly and the JVM library ecosystem?](https://discuss.kotlinlang.org/t/kotlin-webassembly-and-the-jvm-library-ecosystem/21680/2)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
