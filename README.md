@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [looking for a very beginner to be my learning mate](https://www.reddit.com/r/Kotlin/comments/n4bjpo/looking_for_a_very_beginner_to_be_my_learning_mate/)
+- [What's an inline constructor in Kotlin?](https://www.reddit.com/r/Kotlin/comments/n43rv6/whats_an_inline_constructor_in_kotlin/)
+- [Open a web browser when a link with a link with target _blank is pressed in a webview?](https://www.reddit.com/r/Kotlin/comments/n41glp/open_a_web_browser_when_a_link_with_a_link_with/)
+- [Using multi-touch and file drag-drop to make a simple photo viewer using Doodle (a pure Kotlin UI framework for the Web, that lets you create rich applications without worrying about Javascript, HTML or CSS)](https://www.reddit.com/r/Kotlin/comments/n3z4b2/using_multitouch_and_file_dragdrop_to_make_a/)
+- [What is the best way for creating a web app with kotlin?](https://www.reddit.com/r/Kotlin/comments/n3rz7g/what_is_the_best_way_for_creating_a_web_app_with/)
+- [Simple JBDC wrapper I made](https://www.reddit.com/r/Kotlin/comments/n3p60k/simple_jbdc_wrapper_i_made/)
+- [How Sequence works under the hood](https://www.reddit.com/r/Kotlin/comments/n3nqw4/how_sequence_works_under_the_hood/)
 - [Can someone give me another way to create a function that does the exact same thing but with different code?](https://www.reddit.com/r/Kotlin/comments/n3khde/can_someone_give_me_another_way_to_create_a/)
 - [The Complete Android Kotlin Developer Course](https://www.reddit.com/r/Kotlin/comments/n3h7c8/the_complete_android_kotlin_developer_course/)
 - [Updated : KMMT : Kotlin Multiplatform Mobile Development Simplified](https://www.reddit.com/r/Kotlin/comments/n3h47j/updated_kmmt_kotlin_multiplatform_mobile/)
-- [Lingua 1.1.0 released - The most accurate natural language detection library for the JVM](https://www.reddit.com/r/Kotlin/comments/n3bxns/lingua_110_released_the_most_accurate_natural/)
-- [Why the code is providing different results when using `thread` and `launch`? Code in the description.](https://www.reddit.com/r/Kotlin/comments/n3ad0r/why_the_code_is_providing_different_results_when/)
-- [[Taller] Lyrics Search App](https://www.reddit.com/r/Kotlin/comments/n39ogy/taller_lyrics_search_app/)
-- [Why does removing "redundant initializer" as suggested by IntelliJ in this code: https://pl.kotl.in/7Kcy18ROA drastically increases the time required to run the program?](https://www.reddit.com/r/Kotlin/comments/n377tr/why_does_removing_redundant_initializer_as/)
-- [Experimenting with Coroutines and traditional Spring transactions - feedbacks welcome](https://www.reddit.com/r/Kotlin/comments/n35r7v/experimenting_with_coroutines_and_traditional/)
-- [I can't get Moshi to work with my Ktor REST Api](https://www.reddit.com/r/Kotlin/comments/n2yqdt/i_cant_get_moshi_to_work_with_my_ktor_rest_api/)
-- [🔥Firebase-ing with Kotlin Coroutines + Flow🌊](https://www.reddit.com/r/Kotlin/comments/n2xc1f/firebaseing_with_kotlin_coroutines_flow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
