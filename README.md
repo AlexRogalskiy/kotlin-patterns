@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Allow bounds on typealias type parameters](https://discuss.kotlinlang.org/t/allow-bounds-on-typealias-type-parameters/16028/3)
-- [Interface as variable?](https://discuss.kotlinlang.org/t/interface-as-variable/21690/2)
-- [Questions about concurrency?](https://discuss.kotlinlang.org/t/questions-about-concurrency/21692/1)
-- [Interface as variable?](https://discuss.kotlinlang.org/t/interface-as-variable/21690/1)
-- [Kotlin Script Engine Memory Leak](https://discuss.kotlinlang.org/t/kotlin-script-engine-memory-leak/13094/6)
-- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/3)
-- [Looking for tutorials/articles on coroutines from a non Android perspective](https://discuss.kotlinlang.org/t/looking-for-tutorials-articles-on-coroutines-from-a-non-android-perspective/21628/8)
-- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/2)
-- [Annotation Processor Function Suspend Modifier?](https://discuss.kotlinlang.org/t/annotation-processor-function-suspend-modifier/21685/4)
-- [How to create executable file?](https://discuss.kotlinlang.org/t/how-to-create-executable-file/21532/10)
+- [What's an inline constructor in Kotlin?](https://discuss.kotlinlang.org/t/whats-an-inline-constructor-in-kotlin/21699/3)
+- [What's an inline constructor in Kotlin?](https://discuss.kotlinlang.org/t/whats-an-inline-constructor-in-kotlin/21699/2)
+- [What's an inline constructor in Kotlin?](https://discuss.kotlinlang.org/t/whats-an-inline-constructor-in-kotlin/21699/1)
+- [Questions about concurrency?](https://discuss.kotlinlang.org/t/questions-about-concurrency/21692/7)
+- [Interface as variable?](https://discuss.kotlinlang.org/t/interface-as-variable/21690/4)
+- [Questions about concurrency?](https://discuss.kotlinlang.org/t/questions-about-concurrency/21692/6)
+- [Questions about concurrency?](https://discuss.kotlinlang.org/t/questions-about-concurrency/21692/5)
+- [Questions about concurrency?](https://discuss.kotlinlang.org/t/questions-about-concurrency/21692/4)
+- [Cannot implement UIPickerViewDelegateProtocol due to conflicting signatures](https://discuss.kotlinlang.org/t/cannot-implement-uipickerviewdelegateprotocol-due-to-conflicting-signatures/21694/6)
+- [Interface as variable?](https://discuss.kotlinlang.org/t/interface-as-variable/21690/3)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
