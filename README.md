@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [What's an inline constructor in Kotlin?](https://discuss.kotlinlang.org/t/whats-an-inline-constructor-in-kotlin/21699/3)
-- [What's an inline constructor in Kotlin?](https://discuss.kotlinlang.org/t/whats-an-inline-constructor-in-kotlin/21699/2)
-- [What's an inline constructor in Kotlin?](https://discuss.kotlinlang.org/t/whats-an-inline-constructor-in-kotlin/21699/1)
-- [Questions about concurrency?](https://discuss.kotlinlang.org/t/questions-about-concurrency/21692/7)
-- [Interface as variable?](https://discuss.kotlinlang.org/t/interface-as-variable/21690/4)
-- [Questions about concurrency?](https://discuss.kotlinlang.org/t/questions-about-concurrency/21692/6)
-- [Questions about concurrency?](https://discuss.kotlinlang.org/t/questions-about-concurrency/21692/5)
-- [Questions about concurrency?](https://discuss.kotlinlang.org/t/questions-about-concurrency/21692/4)
-- [Cannot implement UIPickerViewDelegateProtocol due to conflicting signatures](https://discuss.kotlinlang.org/t/cannot-implement-uipickerviewdelegateprotocol-due-to-conflicting-signatures/21694/6)
-- [Interface as variable?](https://discuss.kotlinlang.org/t/interface-as-variable/21690/3)
+- [Cannot implement UIPickerViewDelegateProtocol due to conflicting signatures](https://discuss.kotlinlang.org/t/cannot-implement-uipickerviewdelegateprotocol-due-to-conflicting-signatures/21694/7)
+- [How to build a jar with Kotlin classes for Java Project?](https://discuss.kotlinlang.org/t/how-to-build-a-jar-with-kotlin-classes-for-java-project/21603/2)
+- [Stumped by Operator Overloading koan](https://discuss.kotlinlang.org/t/stumped-by-operator-overloading-koan/21707/1)
+- [Position based declaration destructuring](https://discuss.kotlinlang.org/t/position-based-declaration-destructuring/3787/29)
+- [Kotlin durations don't support ranges with steps. :/](https://discuss.kotlinlang.org/t/kotlin-durations-dont-support-ranges-with-steps/21706/1)
+- [Imports](https://discuss.kotlinlang.org/t/imports/1571/11)
+- [Create a Kotlin/JS WebComponent with content](https://discuss.kotlinlang.org/t/create-a-kotlin-js-webcomponent-with-content/21704/1)
+- [Position based declaration destructuring](https://discuss.kotlinlang.org/t/position-based-declaration-destructuring/3787/28)
+- [Position based declaration destructuring](https://discuss.kotlinlang.org/t/position-based-declaration-destructuring/3787/27)
+- [Interface as variable?](https://discuss.kotlinlang.org/t/interface-as-variable/21690/5)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
