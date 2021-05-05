@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Core concepts of kotlin before Android](https://www.reddit.com/r/Kotlin/comments/n4w1i5/core_concepts_of_kotlin_before_android/)
+- [At DoorDash we are one of the largest adopters of Kotlin as a backend language. I wrote a blog post with a detailed comparison of all our top choices. It also explains how we overcame some challenges to realize Kotlin as a better version of Java.](https://www.reddit.com/r/Kotlin/comments/n4vgbf/at_doordash_we_are_one_of_the_largest_adopters_of/)
+- [Is it possible to lock the ability to use a guest account?](https://www.reddit.com/r/Kotlin/comments/n4or6x/is_it_possible_to_lock_the_ability_to_use_a_guest/)
+- [Technology Preview: Jetpack Compose for Web](https://www.reddit.com/r/Kotlin/comments/n4mn6j/technology_preview_jetpack_compose_for_web/)
+- [BuggyApp Chaos Engineering Program](https://www.reddit.com/r/Kotlin/comments/n4kidn/buggyapp_chaos_engineering_program/)
+- [Testing a Shared KMM Repo Locally – Alec Strong](https://www.reddit.com/r/Kotlin/comments/n4dji4/testing_a_shared_kmm_repo_locally_alec_strong/)
 - [looking for a very beginner to be my learning mate](https://www.reddit.com/r/Kotlin/comments/n4bjpo/looking_for_a_very_beginner_to_be_my_learning_mate/)
 - [What's an inline constructor in Kotlin?](https://www.reddit.com/r/Kotlin/comments/n43rv6/whats_an_inline_constructor_in_kotlin/)
 - [Open a web browser when a link with a link with target _blank is pressed in a webview?](https://www.reddit.com/r/Kotlin/comments/n41glp/open_a_web_browser_when_a_link_with_a_link_with/)
 - [Using multi-touch and file drag-drop to make a simple photo viewer using Doodle (a pure Kotlin UI framework for the Web, that lets you create rich applications without worrying about Javascript, HTML or CSS)](https://www.reddit.com/r/Kotlin/comments/n3z4b2/using_multitouch_and_file_dragdrop_to_make_a/)
-- [What is the best way for creating a web app with kotlin?](https://www.reddit.com/r/Kotlin/comments/n3rz7g/what_is_the_best_way_for_creating_a_web_app_with/)
-- [Simple JBDC wrapper I made](https://www.reddit.com/r/Kotlin/comments/n3p60k/simple_jbdc_wrapper_i_made/)
-- [How Sequence works under the hood](https://www.reddit.com/r/Kotlin/comments/n3nqw4/how_sequence_works_under_the_hood/)
-- [Can someone give me another way to create a function that does the exact same thing but with different code?](https://www.reddit.com/r/Kotlin/comments/n3khde/can_someone_give_me_another_way_to_create_a/)
-- [The Complete Android Kotlin Developer Course](https://www.reddit.com/r/Kotlin/comments/n3h7c8/the_complete_android_kotlin_developer_course/)
-- [Updated : KMMT : Kotlin Multiplatform Mobile Development Simplified](https://www.reddit.com/r/Kotlin/comments/n3h47j/updated_kmmt_kotlin_multiplatform_mobile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
