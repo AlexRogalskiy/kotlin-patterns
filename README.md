@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Cannot implement UIPickerViewDelegateProtocol due to conflicting signatures](https://discuss.kotlinlang.org/t/cannot-implement-uipickerviewdelegateprotocol-due-to-conflicting-signatures/21694/7)
-- [How to build a jar with Kotlin classes for Java Project?](https://discuss.kotlinlang.org/t/how-to-build-a-jar-with-kotlin-classes-for-java-project/21603/2)
-- [Stumped by Operator Overloading koan](https://discuss.kotlinlang.org/t/stumped-by-operator-overloading-koan/21707/1)
-- [Position based declaration destructuring](https://discuss.kotlinlang.org/t/position-based-declaration-destructuring/3787/29)
-- [Kotlin durations don't support ranges with steps. :/](https://discuss.kotlinlang.org/t/kotlin-durations-dont-support-ranges-with-steps/21706/1)
-- [Imports](https://discuss.kotlinlang.org/t/imports/1571/11)
-- [Create a Kotlin/JS WebComponent with content](https://discuss.kotlinlang.org/t/create-a-kotlin-js-webcomponent-with-content/21704/1)
-- [Position based declaration destructuring](https://discuss.kotlinlang.org/t/position-based-declaration-destructuring/3787/28)
-- [Position based declaration destructuring](https://discuss.kotlinlang.org/t/position-based-declaration-destructuring/3787/27)
-- [Interface as variable?](https://discuss.kotlinlang.org/t/interface-as-variable/21690/5)
+- [Union types](https://discuss.kotlinlang.org/t/union-types/77/118)
+- [Retrieve default parameter value via reflection](https://discuss.kotlinlang.org/t/retrieve-default-parameter-value-via-reflection/7314/5)
+- [How to obtain the compiler frontend result?](https://discuss.kotlinlang.org/t/how-to-obtain-the-compiler-frontend-result/21722/1)
+- [Multiplatform with platform specific overrides, but also common fallbacks](https://discuss.kotlinlang.org/t/multiplatform-with-platform-specific-overrides-but-also-common-fallbacks/21719/3)
+- [Multiplatform with platform specific overrides, but also common fallbacks](https://discuss.kotlinlang.org/t/multiplatform-with-platform-specific-overrides-but-also-common-fallbacks/21719/2)
+- [Using Kapt compiler plugin won't generate .class files](https://discuss.kotlinlang.org/t/using-kapt-compiler-plugin-wont-generate-class-files/21720/1)
+- [Multiplatform with platform specific overrides, but also common fallbacks](https://discuss.kotlinlang.org/t/multiplatform-with-platform-specific-overrides-but-also-common-fallbacks/21719/1)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/12)
+- [Bug in 1.5 compiler](https://discuss.kotlinlang.org/t/bug-in-1-5-compiler/21715/2)
+- [Bug in 1.5 compiler](https://discuss.kotlinlang.org/t/bug-in-1-5-compiler/21715/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
