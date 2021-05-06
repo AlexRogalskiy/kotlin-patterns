@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Standard Library Features in Kotlin 1.5.0](https://www.reddit.com/r/Kotlin/comments/n5odxl/new_standard_library_features_in_kotlin_150/)
+- [Hello](https://www.reddit.com/r/Kotlin/comments/n5frqn/hello/)
+- [Updated to Kotlin 1.5.0 : KMMT : Kotlin Multiplatform Mobile Development Simplified](https://www.reddit.com/r/Kotlin/comments/n5ebty/updated_to_kotlin_150_kmmt_kotlin_multiplatform/)
+- [Kotlin 1.5.0 – the First Big Release of 2021](https://www.reddit.com/r/Kotlin/comments/n5bz95/kotlin_150_the_first_big_release_of_2021/)
+- [How to persist Ktor logs](https://www.reddit.com/r/Kotlin/comments/n5a9ws/how_to_persist_ktor_logs/)
+- [Programming DSLs in Kotlin full Pragmatic Programmers book on Medium](https://www.reddit.com/r/Kotlin/comments/n55hfp/programming_dsls_in_kotlin_full_pragmatic/)
+- [Mosaic – Jetpack Compose for terminal UI by Jake Wharton](https://www.reddit.com/r/Kotlin/comments/n54ha8/mosaic_jetpack_compose_for_terminal_ui_by_jake/)
 - [Core concepts of kotlin before Android](https://www.reddit.com/r/Kotlin/comments/n4w1i5/core_concepts_of_kotlin_before_android/)
 - [At DoorDash we are one of the largest adopters of Kotlin as a backend language. I wrote a blog post with a detailed comparison of all our top choices. It also explains how we overcame some challenges to realize Kotlin as a better version of Java.](https://www.reddit.com/r/Kotlin/comments/n4vgbf/at_doordash_we_are_one_of_the_largest_adopters_of/)
 - [Is it possible to lock the ability to use a guest account?](https://www.reddit.com/r/Kotlin/comments/n4or6x/is_it_possible_to_lock_the_ability_to_use_a_guest/)
-- [Technology Preview: Jetpack Compose for Web](https://www.reddit.com/r/Kotlin/comments/n4mn6j/technology_preview_jetpack_compose_for_web/)
-- [BuggyApp Chaos Engineering Program](https://www.reddit.com/r/Kotlin/comments/n4kidn/buggyapp_chaos_engineering_program/)
-- [Testing a Shared KMM Repo Locally – Alec Strong](https://www.reddit.com/r/Kotlin/comments/n4dji4/testing_a_shared_kmm_repo_locally_alec_strong/)
-- [looking for a very beginner to be my learning mate](https://www.reddit.com/r/Kotlin/comments/n4bjpo/looking_for_a_very_beginner_to_be_my_learning_mate/)
-- [What's an inline constructor in Kotlin?](https://www.reddit.com/r/Kotlin/comments/n43rv6/whats_an_inline_constructor_in_kotlin/)
-- [Open a web browser when a link with a link with target _blank is pressed in a webview?](https://www.reddit.com/r/Kotlin/comments/n41glp/open_a_web_browser_when_a_link_with_a_link_with/)
-- [Using multi-touch and file drag-drop to make a simple photo viewer using Doodle (a pure Kotlin UI framework for the Web, that lets you create rich applications without worrying about Javascript, HTML or CSS)](https://www.reddit.com/r/Kotlin/comments/n3z4b2/using_multitouch_and_file_dragdrop_to_make_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
