@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Union types](https://discuss.kotlinlang.org/t/union-types/77/118)
-- [Retrieve default parameter value via reflection](https://discuss.kotlinlang.org/t/retrieve-default-parameter-value-via-reflection/7314/5)
-- [How to obtain the compiler frontend result?](https://discuss.kotlinlang.org/t/how-to-obtain-the-compiler-frontend-result/21722/1)
-- [Multiplatform with platform specific overrides, but also common fallbacks](https://discuss.kotlinlang.org/t/multiplatform-with-platform-specific-overrides-but-also-common-fallbacks/21719/3)
-- [Multiplatform with platform specific overrides, but also common fallbacks](https://discuss.kotlinlang.org/t/multiplatform-with-platform-specific-overrides-but-also-common-fallbacks/21719/2)
-- [Using Kapt compiler plugin won't generate .class files](https://discuss.kotlinlang.org/t/using-kapt-compiler-plugin-wont-generate-class-files/21720/1)
-- [Multiplatform with platform specific overrides, but also common fallbacks](https://discuss.kotlinlang.org/t/multiplatform-with-platform-specific-overrides-but-also-common-fallbacks/21719/1)
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/12)
-- [Bug in 1.5 compiler](https://discuss.kotlinlang.org/t/bug-in-1-5-compiler/21715/2)
-- [Bug in 1.5 compiler](https://discuss.kotlinlang.org/t/bug-in-1-5-compiler/21715/1)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/19)
+- [Generating Typescript with the multiplatform plugin](https://discuss.kotlinlang.org/t/generating-typescript-with-the-multiplatform-plugin/18032/3)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/18)
+- [Calling a fragment method from activity with navcontroller](https://discuss.kotlinlang.org/t/calling-a-fragment-method-from-activity-with-navcontroller/21733/2)
+- [Calling a fragment method from activity with navcontroller](https://discuss.kotlinlang.org/t/calling-a-fragment-method-from-activity-with-navcontroller/21733/1)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/17)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/16)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/15)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/14)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/13)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
