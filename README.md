@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How I built an "Asteroids" game using Jetpack Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/n69fmi/how_i_built_an_asteroids_game_using_jetpack/)
+- [MultiRecycleView](https://www.reddit.com/r/Kotlin/comments/n68qk7/multirecycleview/)
+- [Large or small heap size](https://www.reddit.com/r/Kotlin/comments/n63ksg/large_or_small_heap_size/)
+- [Migrating From Python to Kotlin for Our Backend Services](https://www.reddit.com/r/Kotlin/comments/n6173a/migrating_from_python_to_kotlin_for_our_backend/)
+- [What's the difference of sealed classes and sealed interfaces? Can you give examples?](https://www.reddit.com/r/Kotlin/comments/n5xths/whats_the_difference_of_sealed_classes_and_sealed/)
 - [New Standard Library Features in Kotlin 1.5.0](https://www.reddit.com/r/Kotlin/comments/n5odxl/new_standard_library_features_in_kotlin_150/)
-- [Hello](https://www.reddit.com/r/Kotlin/comments/n5frqn/hello/)
 - [Updated to Kotlin 1.5.0 : KMMT : Kotlin Multiplatform Mobile Development Simplified](https://www.reddit.com/r/Kotlin/comments/n5ebty/updated_to_kotlin_150_kmmt_kotlin_multiplatform/)
 - [Kotlin 1.5.0 – the First Big Release of 2021](https://www.reddit.com/r/Kotlin/comments/n5bz95/kotlin_150_the_first_big_release_of_2021/)
 - [How to persist Ktor logs](https://www.reddit.com/r/Kotlin/comments/n5a9ws/how_to_persist_ktor_logs/)
 - [Programming DSLs in Kotlin full Pragmatic Programmers book on Medium](https://www.reddit.com/r/Kotlin/comments/n55hfp/programming_dsls_in_kotlin_full_pragmatic/)
-- [Mosaic – Jetpack Compose for terminal UI by Jake Wharton](https://www.reddit.com/r/Kotlin/comments/n54ha8/mosaic_jetpack_compose_for_terminal_ui_by_jake/)
-- [Core concepts of kotlin before Android](https://www.reddit.com/r/Kotlin/comments/n4w1i5/core_concepts_of_kotlin_before_android/)
-- [At DoorDash we are one of the largest adopters of Kotlin as a backend language. I wrote a blog post with a detailed comparison of all our top choices. It also explains how we overcame some challenges to realize Kotlin as a better version of Java.](https://www.reddit.com/r/Kotlin/comments/n4vgbf/at_doordash_we_are_one_of_the_largest_adopters_of/)
-- [Is it possible to lock the ability to use a guest account?](https://www.reddit.com/r/Kotlin/comments/n4or6x/is_it_possible_to_lock_the_ability_to_use_a_guest/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
