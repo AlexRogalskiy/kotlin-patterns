@@ -251,6 +251,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kotlinx.serialization 1.2 Released: High-Speed JSON Handling, Value Class Support, Overhauled Docs, and more](https://www.reddit.com/r/Kotlin/comments/n6vxyz/kotlinxserialization_12_released_highspeed_json/)
+- [Advanced Kotlin](https://www.reddit.com/r/Kotlin/comments/n6v6ml/advanced_kotlin/)
 - [How I built an "Asteroids" game using Jetpack Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/n69fmi/how_i_built_an_asteroids_game_using_jetpack/)
 - [MultiRecycleView](https://www.reddit.com/r/Kotlin/comments/n68qk7/multirecycleview/)
 - [Large or small heap size](https://www.reddit.com/r/Kotlin/comments/n63ksg/large_or_small_heap_size/)
@@ -259,8 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [New Standard Library Features in Kotlin 1.5.0](https://www.reddit.com/r/Kotlin/comments/n5odxl/new_standard_library_features_in_kotlin_150/)
 - [Updated to Kotlin 1.5.0 : KMMT : Kotlin Multiplatform Mobile Development Simplified](https://www.reddit.com/r/Kotlin/comments/n5ebty/updated_to_kotlin_150_kmmt_kotlin_multiplatform/)
 - [Kotlin 1.5.0 – the First Big Release of 2021](https://www.reddit.com/r/Kotlin/comments/n5bz95/kotlin_150_the_first_big_release_of_2021/)
-- [How to persist Ktor logs](https://www.reddit.com/r/Kotlin/comments/n5a9ws/how_to_persist_ktor_logs/)
-- [Programming DSLs in Kotlin full Pragmatic Programmers book on Medium](https://www.reddit.com/r/Kotlin/comments/n55hfp/programming_dsls_in_kotlin_full_pragmatic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
