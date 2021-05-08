@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/19)
-- [Generating Typescript with the multiplatform plugin](https://discuss.kotlinlang.org/t/generating-typescript-with-the-multiplatform-plugin/18032/3)
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/18)
-- [Calling a fragment method from activity with navcontroller](https://discuss.kotlinlang.org/t/calling-a-fragment-method-from-activity-with-navcontroller/21733/2)
-- [Calling a fragment method from activity with navcontroller](https://discuss.kotlinlang.org/t/calling-a-fragment-method-from-activity-with-navcontroller/21733/1)
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/17)
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/16)
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/15)
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/14)
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/13)
+- [Proposal for the Option/MayBe datatype](https://discuss.kotlinlang.org/t/proposal-for-the-option-maybe-datatype/469/29)
+- [Maven with generated Java sources?](https://discuss.kotlinlang.org/t/maven-with-generated-java-sources/17783/3)
+- [Declarative UI and KMM](https://discuss.kotlinlang.org/t/declarative-ui-and-kmm/21752/1)
+- [Not make post request](https://discuss.kotlinlang.org/t/not-make-post-request/21750/1)
+- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/3)
+- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/2)
+- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/1)
+- [Using kotlin compiler embeddable in gradle script](https://discuss.kotlinlang.org/t/using-kotlin-compiler-embeddable-in-gradle-script/18686/2)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/20)
+- [Issues with changing HLS video i video.js player](https://discuss.kotlinlang.org/t/issues-with-changing-hls-video-i-video-js-player/21741/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
