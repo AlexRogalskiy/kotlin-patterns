@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Proposal for the Option/MayBe datatype](https://discuss.kotlinlang.org/t/proposal-for-the-option-maybe-datatype/469/29)
-- [Maven with generated Java sources?](https://discuss.kotlinlang.org/t/maven-with-generated-java-sources/17783/3)
-- [Declarative UI and KMM](https://discuss.kotlinlang.org/t/declarative-ui-and-kmm/21752/1)
-- [Not make post request](https://discuss.kotlinlang.org/t/not-make-post-request/21750/1)
-- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/3)
-- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/2)
-- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/1)
-- [Using kotlin compiler embeddable in gradle script](https://discuss.kotlinlang.org/t/using-kotlin-compiler-embeddable-in-gradle-script/18686/2)
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/20)
-- [Issues with changing HLS video i video.js player](https://discuss.kotlinlang.org/t/issues-with-changing-hls-video-i-video-js-player/21741/1)
+- [Private set(value) requires initilization before init{ }](https://discuss.kotlinlang.org/t/private-set-value-requires-initilization-before-init/21760/2)
+- [Private set(value) requires initilization before init{ }](https://discuss.kotlinlang.org/t/private-set-value-requires-initilization-before-init/21760/1)
+- [How add support for ? and : as infx names](https://discuss.kotlinlang.org/t/how-add-support-for-and-as-infx-names/21759/2)
+- [How add support for ? and : as infx names](https://discuss.kotlinlang.org/t/how-add-support-for-and-as-infx-names/21759/1)
+- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/5)
+- [How to check initial value of delegated property?](https://discuss.kotlinlang.org/t/how-to-check-initial-value-of-delegated-property/19468/11)
+- [Few optimization question](https://discuss.kotlinlang.org/t/few-optimization-question/21756/1)
+- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/4)
+- [Multiplatform with platform specific overrides, but also common fallbacks](https://discuss.kotlinlang.org/t/multiplatform-with-platform-specific-overrides-but-also-common-fallbacks/21719/4)
+- [Proposal for the Option/MayBe datatype](https://discuss.kotlinlang.org/t/proposal-for-the-option-maybe-datatype/469/30)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
