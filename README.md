@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for some help... Does anyone know why micronaut test is skipping my test?](https://www.reddit.com/r/Kotlin/comments/n82w5w/looking_for_some_help_does_anyone_know_why/)
+- [Kotlin tutorial 02 for beginners - Keywords and Variables](https://www.reddit.com/r/Kotlin/comments/n7w1c0/kotlin_tutorial_02_for_beginners_keywords_and/)
+- [Android studio error](https://www.reddit.com/r/Kotlin/comments/n7shk7/android_studio_error/)
+- [Jetpack Compose for Non UI - Tree construction and source code generation](https://www.reddit.com/r/Kotlin/comments/n7pqnz/jetpack_compose_for_non_ui_tree_construction_and/)
+- [Kotlin Data Class](https://www.reddit.com/r/Kotlin/comments/n7ffk7/kotlin_data_class/)
 - [kotlinx.serialization 1.2 Released: High-Speed JSON Handling, Value Class Support, Overhauled Docs, and more](https://www.reddit.com/r/Kotlin/comments/n6vxyz/kotlinxserialization_12_released_highspeed_json/)
 - [Advanced Kotlin](https://www.reddit.com/r/Kotlin/comments/n6v6ml/advanced_kotlin/)
 - [How I built an "Asteroids" game using Jetpack Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/n69fmi/how_i_built_an_asteroids_game_using_jetpack/)
 - [MultiRecycleView](https://www.reddit.com/r/Kotlin/comments/n68qk7/multirecycleview/)
 - [Large or small heap size](https://www.reddit.com/r/Kotlin/comments/n63ksg/large_or_small_heap_size/)
-- [Migrating From Python to Kotlin for Our Backend Services](https://www.reddit.com/r/Kotlin/comments/n6173a/migrating_from_python_to_kotlin_for_our_backend/)
-- [What's the difference of sealed classes and sealed interfaces? Can you give examples?](https://www.reddit.com/r/Kotlin/comments/n5xths/whats_the_difference_of_sealed_classes_and_sealed/)
-- [New Standard Library Features in Kotlin 1.5.0](https://www.reddit.com/r/Kotlin/comments/n5odxl/new_standard_library_features_in_kotlin_150/)
-- [Updated to Kotlin 1.5.0 : KMMT : Kotlin Multiplatform Mobile Development Simplified](https://www.reddit.com/r/Kotlin/comments/n5ebty/updated_to_kotlin_150_kmmt_kotlin_multiplatform/)
-- [Kotlin 1.5.0 – the First Big Release of 2021](https://www.reddit.com/r/Kotlin/comments/n5bz95/kotlin_150_the_first_big_release_of_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
