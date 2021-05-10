@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Private set(value) requires initilization before init{ }](https://discuss.kotlinlang.org/t/private-set-value-requires-initilization-before-init/21760/2)
-- [Private set(value) requires initilization before init{ }](https://discuss.kotlinlang.org/t/private-set-value-requires-initilization-before-init/21760/1)
-- [How add support for ? and : as infx names](https://discuss.kotlinlang.org/t/how-add-support-for-and-as-infx-names/21759/2)
-- [How add support for ? and : as infx names](https://discuss.kotlinlang.org/t/how-add-support-for-and-as-infx-names/21759/1)
-- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/5)
-- [How to check initial value of delegated property?](https://discuss.kotlinlang.org/t/how-to-check-initial-value-of-delegated-property/19468/11)
-- [Few optimization question](https://discuss.kotlinlang.org/t/few-optimization-question/21756/1)
-- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/4)
-- [Multiplatform with platform specific overrides, but also common fallbacks](https://discuss.kotlinlang.org/t/multiplatform-with-platform-specific-overrides-but-also-common-fallbacks/21719/4)
-- [Proposal for the Option/MayBe datatype](https://discuss.kotlinlang.org/t/proposal-for-the-option-maybe-datatype/469/30)
+- [Plans for collection literals?](https://discuss.kotlinlang.org/t/plans-for-collection-literals/2049/47)
+- [Ateinit property bitmap has not been initialized](https://discuss.kotlinlang.org/t/ateinit-property-bitmap-has-not-been-initialized/21770/1)
+- [How can solve haxm error](https://discuss.kotlinlang.org/t/how-can-solve-haxm-error/21769/1)
+- [Private set(value) requires initilization before init{ }](https://discuss.kotlinlang.org/t/private-set-value-requires-initilization-before-init/21760/5)
+- [Private set(value) requires initilization before init{ }](https://discuss.kotlinlang.org/t/private-set-value-requires-initilization-before-init/21760/4)
+- [Números impares](https://discuss.kotlinlang.org/t/numeros-impares/21208/2)
+- [How add support for ? and : as infx names](https://discuss.kotlinlang.org/t/how-add-support-for-and-as-infx-names/21759/3)
+- [Duration could support sum, sumBy](https://discuss.kotlinlang.org/t/duration-could-support-sum-sumby/21377/5)
+- [Kotlin 1.5.0 in Maven Multi-Module: java.lang.UnsupportedClassVersionError](https://discuss.kotlinlang.org/t/kotlin-1-5-0-in-maven-multi-module-java-lang-unsupportedclassversionerror/21730/3)
+- [Kobby - Gradle codegen plugin of Kotlin DSL Client by GraphQL schema](https://discuss.kotlinlang.org/t/kobby-gradle-codegen-plugin-of-kotlin-dsl-client-by-graphql-schema/21765/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
