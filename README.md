@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Open W10 notepad with a button](https://www.reddit.com/r/Kotlin/comments/n8qpgu/open_w10_notepad_with_a_button/)
+- [Foot Marksmanship With runBlocking](https://www.reddit.com/r/Kotlin/comments/n8p6ai/foot_marksmanship_with_runblocking/)
+- [Jetpack Compose Desktop with Kotlin create executable](https://www.reddit.com/r/Kotlin/comments/n8mt1p/jetpack_compose_desktop_with_kotlin_create/)
+- [How is kotlin used in the industry](https://www.reddit.com/r/Kotlin/comments/n8jaxc/how_is_kotlin_used_in_the_industry/)
+- [The Most Popular Programming Languages - 1965/2021 - New Update](https://www.reddit.com/r/Kotlin/comments/n8cuj0/the_most_popular_programming_languages_19652021/)
+- [Newbie to Kotlin, need some help](https://www.reddit.com/r/Kotlin/comments/n8acwt/newbie_to_kotlin_need_some_help/)
+- [Hashlife by Jiachen Ren](https://www.reddit.com/r/Kotlin/comments/n89eda/hashlife_by_jiachen_ren/)
+- [How’s the mindshare in Kotlin for backend?](https://www.reddit.com/r/Kotlin/comments/n85s6e/hows_the_mindshare_in_kotlin_for_backend/)
 - [Looking for some help... Does anyone know why micronaut test is skipping my test?](https://www.reddit.com/r/Kotlin/comments/n82w5w/looking_for_some_help_does_anyone_know_why/)
 - [Kotlin tutorial 02 for beginners - Keywords and Variables](https://www.reddit.com/r/Kotlin/comments/n7w1c0/kotlin_tutorial_02_for_beginners_keywords_and/)
-- [Android studio error](https://www.reddit.com/r/Kotlin/comments/n7shk7/android_studio_error/)
-- [Jetpack Compose for Non UI - Tree construction and source code generation](https://www.reddit.com/r/Kotlin/comments/n7pqnz/jetpack_compose_for_non_ui_tree_construction_and/)
-- [Kotlin Data Class](https://www.reddit.com/r/Kotlin/comments/n7ffk7/kotlin_data_class/)
-- [kotlinx.serialization 1.2 Released: High-Speed JSON Handling, Value Class Support, Overhauled Docs, and more](https://www.reddit.com/r/Kotlin/comments/n6vxyz/kotlinxserialization_12_released_highspeed_json/)
-- [Advanced Kotlin](https://www.reddit.com/r/Kotlin/comments/n6v6ml/advanced_kotlin/)
-- [How I built an "Asteroids" game using Jetpack Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/n69fmi/how_i_built_an_asteroids_game_using_jetpack/)
-- [MultiRecycleView](https://www.reddit.com/r/Kotlin/comments/n68qk7/multirecycleview/)
-- [Large or small heap size](https://www.reddit.com/r/Kotlin/comments/n63ksg/large_or_small_heap_size/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
