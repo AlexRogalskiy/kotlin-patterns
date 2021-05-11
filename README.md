@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Open W10 notepad with a button](https://www.reddit.com/r/Kotlin/comments/n8qpgu/open_w10_notepad_with_a_button/)
-- [Foot Marksmanship With runBlocking](https://www.reddit.com/r/Kotlin/comments/n8p6ai/foot_marksmanship_with_runblocking/)
-- [Jetpack Compose Desktop with Kotlin create executable](https://www.reddit.com/r/Kotlin/comments/n8mt1p/jetpack_compose_desktop_with_kotlin_create/)
-- [How is kotlin used in the industry](https://www.reddit.com/r/Kotlin/comments/n8jaxc/how_is_kotlin_used_in_the_industry/)
-- [The Most Popular Programming Languages - 1965/2021 - New Update](https://www.reddit.com/r/Kotlin/comments/n8cuj0/the_most_popular_programming_languages_19652021/)
-- [Newbie to Kotlin, need some help](https://www.reddit.com/r/Kotlin/comments/n8acwt/newbie_to_kotlin_need_some_help/)
-- [Hashlife by Jiachen Ren](https://www.reddit.com/r/Kotlin/comments/n89eda/hashlife_by_jiachen_ren/)
-- [How’s the mindshare in Kotlin for backend?](https://www.reddit.com/r/Kotlin/comments/n85s6e/hows_the_mindshare_in_kotlin_for_backend/)
-- [Looking for some help... Does anyone know why micronaut test is skipping my test?](https://www.reddit.com/r/Kotlin/comments/n82w5w/looking_for_some_help_does_anyone_know_why/)
-- [Kotlin tutorial 02 for beginners - Keywords and Variables](https://www.reddit.com/r/Kotlin/comments/n7w1c0/kotlin_tutorial_02_for_beginners_keywords_and/)
+- [What is the core difference between Val and Var in Kotlin ?](https://www.reddit.com/r/Kotlin/comments/n9khgf/what_is_the_core_difference_between_val_and_var/)
+- [Writing an extension function](https://www.reddit.com/r/Kotlin/comments/n9b9m3/writing_an_extension_function/)
+- [Production repositories](https://www.reddit.com/r/Kotlin/comments/n9b1sm/production_repositories/)
+- [Using serialization](https://www.reddit.com/r/Kotlin/comments/n99mr3/using_serialization/)
+- [Phantom of the Coroutine](https://www.reddit.com/r/Kotlin/comments/n953b6/phantom_of_the_coroutine/)
+- [Kompendium: A minimally invasive OpenAPI generator for Ktor](https://www.reddit.com/r/Kotlin/comments/n93kqp/kompendium_a_minimally_invasive_openapi_generator/)
+- [Kotlin programming language: Here's what's inside the first big release of this year](https://www.reddit.com/r/Kotlin/comments/n91dk4/kotlin_programming_language_heres_whats_inside/)
+- [Here's everything new and hidden in Android 11 Developer Preview 4](https://www.reddit.com/r/Kotlin/comments/n90av8/heres_everything_new_and_hidden_in_android_11/)
+- [Here's everything new and hidden in Android 11 Developer Preview 4](https://www.reddit.com/r/Kotlin/comments/n8zgzv/heres_everything_new_and_hidden_in_android_11/)
+- [Use the data modifier to represent a bundle of data"](https://www.reddit.com/r/Kotlin/comments/n8y4uq/use_the_data_modifier_to_represent_a_bundle_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
