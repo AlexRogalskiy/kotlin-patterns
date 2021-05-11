@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/7)
+- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/5)
+- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/6)
+- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/4)
+- [Large shared framework size for ios](https://discuss.kotlinlang.org/t/large-shared-framework-size-for-ios/21778/1)
+- [Does IntelliJ IDEA support Smart Step Into when debugging Kotlin?](https://discuss.kotlinlang.org/t/does-intellij-idea-support-smart-step-into-when-debugging-kotlin/19766/3)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/22)
+- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/21)
 - [Plans for collection literals?](https://discuss.kotlinlang.org/t/plans-for-collection-literals/2049/47)
-- [Ateinit property bitmap has not been initialized](https://discuss.kotlinlang.org/t/ateinit-property-bitmap-has-not-been-initialized/21770/1)
-- [How can solve haxm error](https://discuss.kotlinlang.org/t/how-can-solve-haxm-error/21769/1)
-- [Private set(value) requires initilization before init{ }](https://discuss.kotlinlang.org/t/private-set-value-requires-initilization-before-init/21760/5)
-- [Private set(value) requires initilization before init{ }](https://discuss.kotlinlang.org/t/private-set-value-requires-initilization-before-init/21760/4)
-- [Números impares](https://discuss.kotlinlang.org/t/numeros-impares/21208/2)
-- [How add support for ? and : as infx names](https://discuss.kotlinlang.org/t/how-add-support-for-and-as-infx-names/21759/3)
-- [Duration could support sum, sumBy](https://discuss.kotlinlang.org/t/duration-could-support-sum-sumby/21377/5)
-- [Kotlin 1.5.0 in Maven Multi-Module: java.lang.UnsupportedClassVersionError](https://discuss.kotlinlang.org/t/kotlin-1-5-0-in-maven-multi-module-java-lang-unsupportedclassversionerror/21730/3)
-- [Kobby - Gradle codegen plugin of Kotlin DSL Client by GraphQL schema](https://discuss.kotlinlang.org/t/kobby-gradle-codegen-plugin-of-kotlin-dsl-client-by-graphql-schema/21765/1)
+- [Lateinit property bitmap has not been initialized](https://discuss.kotlinlang.org/t/lateinit-property-bitmap-has-not-been-initialized/21770/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
