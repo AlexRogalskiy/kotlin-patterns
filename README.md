@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
-- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/7)
-- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/5)
-- [Question(s) about delegates, extension functions and generics](https://discuss.kotlinlang.org/t/question-s-about-delegates-extension-functions-and-generics/21747/6)
-- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/4)
-- [Large shared framework size for ios](https://discuss.kotlinlang.org/t/large-shared-framework-size-for-ios/21778/1)
-- [Does IntelliJ IDEA support Smart Step Into when debugging Kotlin?](https://discuss.kotlinlang.org/t/does-intellij-idea-support-smart-step-into-when-debugging-kotlin/19766/3)
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/22)
-- [Properties private to functions](https://discuss.kotlinlang.org/t/properties-private-to-functions/21709/21)
-- [Plans for collection literals?](https://discuss.kotlinlang.org/t/plans-for-collection-literals/2049/47)
-- [Lateinit property bitmap has not been initialized](https://discuss.kotlinlang.org/t/lateinit-property-bitmap-has-not-been-initialized/21770/1)
+- [Stop gamepad key events back to OS](https://discuss.kotlinlang.org/t/stop-gamepad-key-events-back-to-os/21799/1)
+- [Inline (value) classes implementing interfaces can lead to worse performance](https://discuss.kotlinlang.org/t/inline-value-classes-implementing-interfaces-can-lead-to-worse-performance/21795/5)
+- [Inline (value) classes implementing interfaces can lead to worse performance](https://discuss.kotlinlang.org/t/inline-value-classes-implementing-interfaces-can-lead-to-worse-performance/21795/4)
+- [Inline (value) classes implementing interfaces can lead to worse performance](https://discuss.kotlinlang.org/t/inline-value-classes-implementing-interfaces-can-lead-to-worse-performance/21795/3)
+- [Importation of JS functions in Kotlin](https://discuss.kotlinlang.org/t/importation-of-js-functions-in-kotlin/21789/4)
+- [Inline (value) classes implementing interfaces can lead to worse performance](https://discuss.kotlinlang.org/t/inline-value-classes-implementing-interfaces-can-lead-to-worse-performance/21795/2)
+- [KotlinLab: Development of a simple MATLAB like scientific programming environment for Kotlin](https://discuss.kotlinlang.org/t/kotlinlab-development-of-a-simple-matlab-like-scientific-programming-environment-for-kotlin/21794/4)
+- [KotlinLab: Development of a simple MATLAB like scientific programming environment for Kotlin](https://discuss.kotlinlang.org/t/kotlinlab-development-of-a-simple-matlab-like-scientific-programming-environment-for-kotlin/21794/3)
+- [KotlinLab: Development of a simple MATLAB like scientific programming environment for Kotlin](https://discuss.kotlinlang.org/t/kotlinlab-development-of-a-simple-matlab-like-scientific-programming-environment-for-kotlin/21794/2)
+- [Inline (value) classes implementing interfaces can lead to worse performance](https://discuss.kotlinlang.org/t/inline-value-classes-implementing-interfaces-can-lead-to-worse-performance/21795/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
