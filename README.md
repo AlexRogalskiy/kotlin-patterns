@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Orika equivalent for Kotlin](https://www.reddit.com/r/Kotlin/comments/na8qdf/orika_equivalent_for_kotlin/)
+- [Pictures sharing website.](https://www.reddit.com/r/Kotlin/comments/na3jnf/pictures_sharing_website/)
+- [Kotlin 1.5 Online Event](https://www.reddit.com/r/Kotlin/comments/na1iwb/kotlin_15_online_event/)
+- [We’ve redesigned multi-module documentation in the new Dokka!](https://www.reddit.com/r/Kotlin/comments/n9x2w5/weve_redesigned_multimodule_documentation_in_the/)
+- [Very new to Kotlin, please help!!](https://www.reddit.com/r/Kotlin/comments/n9vuv6/very_new_to_kotlin_please_help/)
+- [Kotlin, the top app programming language for building Android apps, gains a bunch of new features.](https://www.reddit.com/r/Kotlin/comments/n9o5yx/kotlin_the_top_app_programming_language_for/)
+- [Kotlin Properties & Custom Accessors](https://www.reddit.com/r/Kotlin/comments/n9mqeh/kotlin_properties_custom_accessors/)
 - [What is the core difference between Val and Var in Kotlin ?](https://www.reddit.com/r/Kotlin/comments/n9khgf/what_is_the_core_difference_between_val_and_var/)
 - [Writing an extension function](https://www.reddit.com/r/Kotlin/comments/n9b9m3/writing_an_extension_function/)
 - [Production repositories](https://www.reddit.com/r/Kotlin/comments/n9b1sm/production_repositories/)
-- [Using serialization](https://www.reddit.com/r/Kotlin/comments/n99mr3/using_serialization/)
-- [Phantom of the Coroutine](https://www.reddit.com/r/Kotlin/comments/n953b6/phantom_of_the_coroutine/)
-- [Kompendium: A minimally invasive OpenAPI generator for Ktor](https://www.reddit.com/r/Kotlin/comments/n93kqp/kompendium_a_minimally_invasive_openapi_generator/)
-- [Kotlin programming language: Here's what's inside the first big release of this year](https://www.reddit.com/r/Kotlin/comments/n91dk4/kotlin_programming_language_heres_whats_inside/)
-- [Here's everything new and hidden in Android 11 Developer Preview 4](https://www.reddit.com/r/Kotlin/comments/n90av8/heres_everything_new_and_hidden_in_android_11/)
-- [Here's everything new and hidden in Android 11 Developer Preview 4](https://www.reddit.com/r/Kotlin/comments/n8zgzv/heres_everything_new_and_hidden_in_android_11/)
-- [Use the data modifier to represent a bundle of data"](https://www.reddit.com/r/Kotlin/comments/n8y4uq/use_the_data_modifier_to_represent_a_bundle_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
