@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Orika equivalent for Kotlin](https://www.reddit.com/r/Kotlin/comments/na8qdf/orika_equivalent_for_kotlin/)
-- [Pictures sharing website.](https://www.reddit.com/r/Kotlin/comments/na3jnf/pictures_sharing_website/)
-- [Kotlin 1.5 Online Event](https://www.reddit.com/r/Kotlin/comments/na1iwb/kotlin_15_online_event/)
-- [We’ve redesigned multi-module documentation in the new Dokka!](https://www.reddit.com/r/Kotlin/comments/n9x2w5/weve_redesigned_multimodule_documentation_in_the/)
-- [Very new to Kotlin, please help!!](https://www.reddit.com/r/Kotlin/comments/n9vuv6/very_new_to_kotlin_please_help/)
-- [Kotlin, the top app programming language for building Android apps, gains a bunch of new features.](https://www.reddit.com/r/Kotlin/comments/n9o5yx/kotlin_the_top_app_programming_language_for/)
-- [Kotlin Properties & Custom Accessors](https://www.reddit.com/r/Kotlin/comments/n9mqeh/kotlin_properties_custom_accessors/)
-- [What is the core difference between Val and Var in Kotlin ?](https://www.reddit.com/r/Kotlin/comments/n9khgf/what_is_the_core_difference_between_val_and_var/)
-- [Writing an extension function](https://www.reddit.com/r/Kotlin/comments/n9b9m3/writing_an_extension_function/)
-- [Production repositories](https://www.reddit.com/r/Kotlin/comments/n9b1sm/production_repositories/)
+- [How to convert emoji to binary representation?](https://www.reddit.com/r/Kotlin/comments/nb2vyc/how_to_convert_emoji_to_binary_representation/)
+- [Kotlin Tutorial: Slicing Lists, Arrays and Strings](https://www.reddit.com/r/Kotlin/comments/nat073/kotlin_tutorial_slicing_lists_arrays_and_strings/)
+- [Talking Kotlin: Contributing to the Kotlin Compiler](https://www.reddit.com/r/Kotlin/comments/naq80y/talking_kotlin_contributing_to_the_kotlin_compiler/)
+- [MLKit](https://www.reddit.com/r/Kotlin/comments/naoo7h/mlkit/)
+- [How to find templates and packages for Kotlin or Android?](https://www.reddit.com/r/Kotlin/comments/nakjct/how_to_find_templates_and_packages_for_kotlin_or/)
+- [Beacon configuration in Kotlin](https://www.reddit.com/r/Kotlin/comments/najxsn/beacon_configuration_in_kotlin/)
+- [From Zero to Lambda with Kotless](https://www.reddit.com/r/Kotlin/comments/nai1yl/from_zero_to_lambda_with_kotless/)
+- [kotlin jobs](https://www.reddit.com/r/Kotlin/comments/nagxf5/kotlin_jobs/)
+- [NAVCONTROLLER](https://www.reddit.com/r/Kotlin/comments/nafkyu/navcontroller/)
+- [Kotlin Value Classes](https://www.reddit.com/r/Kotlin/comments/nadtfq/kotlin_value_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
