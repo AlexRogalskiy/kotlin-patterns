@@ -276,16 +276,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Kotlin lang posts*
 
 <!-- KOTLINLANG-POST-LIST:START -->
+- [Importation of JS functions in Kotlin](https://discuss.kotlinlang.org/t/importation-of-js-functions-in-kotlin/21789/6)
+- [Kotlin Sum of positive number](https://discuss.kotlinlang.org/t/kotlin-sum-of-positive-number/21657/8)
+- [Kotlin Sum of positive number](https://discuss.kotlinlang.org/t/kotlin-sum-of-positive-number/21657/7)
+- [Dynamic data change in js() in .kt](https://discuss.kotlinlang.org/t/dynamic-data-change-in-js-in-kt/21802/2)
+- [Looking for a cron library for KTor](https://discuss.kotlinlang.org/t/looking-for-a-cron-library-for-ktor/21640/6)
+- [Errors while building APK: Algorithm HmacPBESHA256 not available](https://discuss.kotlinlang.org/t/errors-while-building-apk-algorithm-hmacpbesha256-not-available/21806/1)
+- [Importation of JS functions in Kotlin](https://discuss.kotlinlang.org/t/importation-of-js-functions-in-kotlin/21789/5)
+- [Dynamic data change in js() in .kt](https://discuss.kotlinlang.org/t/dynamic-data-change-in-js-in-kt/21802/1)
+- [Codegen Error with arrayOfNulls and Stream.toArray](https://discuss.kotlinlang.org/t/codegen-error-with-arrayofnulls-and-stream-toarray/21801/1)
 - [Stop gamepad key events back to OS](https://discuss.kotlinlang.org/t/stop-gamepad-key-events-back-to-os/21799/1)
-- [Inline (value) classes implementing interfaces can lead to worse performance](https://discuss.kotlinlang.org/t/inline-value-classes-implementing-interfaces-can-lead-to-worse-performance/21795/5)
-- [Inline (value) classes implementing interfaces can lead to worse performance](https://discuss.kotlinlang.org/t/inline-value-classes-implementing-interfaces-can-lead-to-worse-performance/21795/4)
-- [Inline (value) classes implementing interfaces can lead to worse performance](https://discuss.kotlinlang.org/t/inline-value-classes-implementing-interfaces-can-lead-to-worse-performance/21795/3)
-- [Importation of JS functions in Kotlin](https://discuss.kotlinlang.org/t/importation-of-js-functions-in-kotlin/21789/4)
-- [Inline (value) classes implementing interfaces can lead to worse performance](https://discuss.kotlinlang.org/t/inline-value-classes-implementing-interfaces-can-lead-to-worse-performance/21795/2)
-- [KotlinLab: Development of a simple MATLAB like scientific programming environment for Kotlin](https://discuss.kotlinlang.org/t/kotlinlab-development-of-a-simple-matlab-like-scientific-programming-environment-for-kotlin/21794/4)
-- [KotlinLab: Development of a simple MATLAB like scientific programming environment for Kotlin](https://discuss.kotlinlang.org/t/kotlinlab-development-of-a-simple-matlab-like-scientific-programming-environment-for-kotlin/21794/3)
-- [KotlinLab: Development of a simple MATLAB like scientific programming environment for Kotlin](https://discuss.kotlinlang.org/t/kotlinlab-development-of-a-simple-matlab-like-scientific-programming-environment-for-kotlin/21794/2)
-- [Inline (value) classes implementing interfaces can lead to worse performance](https://discuss.kotlinlang.org/t/inline-value-classes-implementing-interfaces-can-lead-to-worse-performance/21795/1)
 <!-- KOTLINLANG-POST-LIST:END -->
 
 ### *Kotlin Academy posts*
