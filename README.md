@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Book recommendation](https://www.reddit.com/r/Kotlin/comments/nbxm5h/book_recommendation/)
+- [Kweb 0.9.0, JavaScript function caching, migrate to Kotlin serialization, significant efficiency improvements for both browser and server](https://www.reddit.com/r/Kotlin/comments/nbwtlk/kweb_090_javascript_function_caching_migrate_to/)
+- [kotlinx-datetime 0.2.0 Is Out](https://www.reddit.com/r/Kotlin/comments/nbprpf/kotlinxdatetime_020_is_out/)
+- [kotlinx.serialization 1.2.0: Faster JSON Handling, Value Classes, API Docs & More](https://www.reddit.com/r/Kotlin/comments/nbkwz8/kotlinxserialization_120_faster_json_handling/)
+- [We asked an iOS developer his thoughts after working with Kotlin/Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/nbju1l/we_asked_an_ios_developer_his_thoughts_after/)
+- [Spring Boot Rest API with Kotlin - Pagination, Search & Sorting using MySQL](https://www.reddit.com/r/Kotlin/comments/nbg5iw/spring_boot_rest_api_with_kotlin_pagination/)
+- [for anyone who derives pleasure from fixing NOOB (kotlin) code](https://www.reddit.com/r/Kotlin/comments/nbeqg3/for_anyone_who_derives_pleasure_from_fixing_noob/)
 - [How to convert emoji to binary representation?](https://www.reddit.com/r/Kotlin/comments/nb2vyc/how_to_convert_emoji_to_binary_representation/)
 - [Kotlin Tutorial: Slicing Lists, Arrays and Strings](https://www.reddit.com/r/Kotlin/comments/nat073/kotlin_tutorial_slicing_lists_arrays_and_strings/)
 - [Talking Kotlin: Contributing to the Kotlin Compiler](https://www.reddit.com/r/Kotlin/comments/naq80y/talking_kotlin_contributing_to_the_kotlin_compiler/)
-- [MLKit](https://www.reddit.com/r/Kotlin/comments/naoo7h/mlkit/)
-- [How to find templates and packages for Kotlin or Android?](https://www.reddit.com/r/Kotlin/comments/nakjct/how_to_find_templates_and_packages_for_kotlin_or/)
-- [Beacon configuration in Kotlin](https://www.reddit.com/r/Kotlin/comments/najxsn/beacon_configuration_in_kotlin/)
-- [From Zero to Lambda with Kotless](https://www.reddit.com/r/Kotlin/comments/nai1yl/from_zero_to_lambda_with_kotless/)
-- [kotlin jobs](https://www.reddit.com/r/Kotlin/comments/nagxf5/kotlin_jobs/)
-- [NAVCONTROLLER](https://www.reddit.com/r/Kotlin/comments/nafkyu/navcontroller/)
-- [Kotlin Value Classes](https://www.reddit.com/r/Kotlin/comments/nadtfq/kotlin_value_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
