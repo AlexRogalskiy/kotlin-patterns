@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Book recommendation](https://www.reddit.com/r/Kotlin/comments/nbxm5h/book_recommendation/)
-- [Kweb 0.9.0, JavaScript function caching, migrate to Kotlin serialization, significant efficiency improvements for both browser and server](https://www.reddit.com/r/Kotlin/comments/nbwtlk/kweb_090_javascript_function_caching_migrate_to/)
-- [kotlinx-datetime 0.2.0 Is Out](https://www.reddit.com/r/Kotlin/comments/nbprpf/kotlinxdatetime_020_is_out/)
-- [kotlinx.serialization 1.2.0: Faster JSON Handling, Value Classes, API Docs & More](https://www.reddit.com/r/Kotlin/comments/nbkwz8/kotlinxserialization_120_faster_json_handling/)
-- [We asked an iOS developer his thoughts after working with Kotlin/Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/nbju1l/we_asked_an_ios_developer_his_thoughts_after/)
-- [Spring Boot Rest API with Kotlin - Pagination, Search & Sorting using MySQL](https://www.reddit.com/r/Kotlin/comments/nbg5iw/spring_boot_rest_api_with_kotlin_pagination/)
-- [for anyone who derives pleasure from fixing NOOB (kotlin) code](https://www.reddit.com/r/Kotlin/comments/nbeqg3/for_anyone_who_derives_pleasure_from_fixing_noob/)
-- [How to convert emoji to binary representation?](https://www.reddit.com/r/Kotlin/comments/nb2vyc/how_to_convert_emoji_to_binary_representation/)
-- [Kotlin Tutorial: Slicing Lists, Arrays and Strings](https://www.reddit.com/r/Kotlin/comments/nat073/kotlin_tutorial_slicing_lists_arrays_and_strings/)
-- [Talking Kotlin: Contributing to the Kotlin Compiler](https://www.reddit.com/r/Kotlin/comments/naq80y/talking_kotlin_contributing_to_the_kotlin_compiler/)
+- [Kotlin serialization problem](https://www.reddit.com/r/Kotlin/comments/nco7oa/kotlin_serialization_problem/)
+- [No Kotlin 1.5.0 docs pdf?](https://www.reddit.com/r/Kotlin/comments/ncmqjr/no_kotlin_150_docs_pdf/)
+- [Truthish: A Google Truth inspired library written for Kotlin MPP](https://www.reddit.com/r/Kotlin/comments/ncmq1l/truthish_a_google_truth_inspired_library_written/)
+- [Do blocking operations in coroutines block the underlying thread?](https://www.reddit.com/r/Kotlin/comments/nck8lw/do_blocking_operations_in_coroutines_block_the/)
+- [Untying Kotlin|Java or Kotlin which is better for Android Development.](https://www.reddit.com/r/Kotlin/comments/ncegmc/untying_kotlinjava_or_kotlin_which_is_better_for/)
+- [Celebrating 10 Years of Kotlin – Share Your Stories!](https://www.reddit.com/r/Kotlin/comments/ncc0f9/celebrating_10_years_of_kotlin_share_your_stories/)
+- [Infinite Scroll with Doodle (a pure Kotlin UI framework for the Web, that lets you create rich applications with no Javascript, HTML or CSS)](https://www.reddit.com/r/Kotlin/comments/ncaxi7/infinite_scroll_with_doodle_a_pure_kotlin_ui/)
+- [Upgrading Kotlin to 1.5.0 in Android project fails](https://www.reddit.com/r/Kotlin/comments/nc5e4r/upgrading_kotlin_to_150_in_android_project_fails/)
+- [QuickFix plugin](https://www.reddit.com/r/Kotlin/comments/nc4cmy/quickfix_plugin/)
+- [Tips and Tricks for starting new software engineer job](https://www.reddit.com/r/Kotlin/comments/nc1m8i/tips_and_tricks_for_starting_new_software/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
