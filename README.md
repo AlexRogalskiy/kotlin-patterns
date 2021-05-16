@@ -251,6 +251,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Parsix: Parse, don't validate!](https://www.reddit.com/r/Kotlin/comments/nd1dl3/parsix_parse_dont_validate/)
+- [Ktor.io Developers?? How to use a different Port address when an existing Port Address Specified in the application.conf file is still running on my terminal.](https://www.reddit.com/r/Kotlin/comments/nd168c/ktorio_developers_how_to_use_a_different_port/)
+- [Jetpack Compose Desktop | Canvas | 2D Space particles | StarWars](https://www.reddit.com/r/Kotlin/comments/nczii7/jetpack_compose_desktop_canvas_2d_space_particles/)
 - [Kotlin serialization problem](https://www.reddit.com/r/Kotlin/comments/nco7oa/kotlin_serialization_problem/)
 - [No Kotlin 1.5.0 docs pdf?](https://www.reddit.com/r/Kotlin/comments/ncmqjr/no_kotlin_150_docs_pdf/)
 - [Truthish: A Google Truth inspired library written for Kotlin MPP](https://www.reddit.com/r/Kotlin/comments/ncmq1l/truthish_a_google_truth_inspired_library_written/)
@@ -258,9 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Untying Kotlin|Java or Kotlin which is better for Android Development.](https://www.reddit.com/r/Kotlin/comments/ncegmc/untying_kotlinjava_or_kotlin_which_is_better_for/)
 - [Celebrating 10 Years of Kotlin – Share Your Stories!](https://www.reddit.com/r/Kotlin/comments/ncc0f9/celebrating_10_years_of_kotlin_share_your_stories/)
 - [Infinite Scroll with Doodle (a pure Kotlin UI framework for the Web, that lets you create rich applications with no Javascript, HTML or CSS)](https://www.reddit.com/r/Kotlin/comments/ncaxi7/infinite_scroll_with_doodle_a_pure_kotlin_ui/)
-- [Upgrading Kotlin to 1.5.0 in Android project fails](https://www.reddit.com/r/Kotlin/comments/nc5e4r/upgrading_kotlin_to_150_in_android_project_fails/)
-- [QuickFix plugin](https://www.reddit.com/r/Kotlin/comments/nc4cmy/quickfix_plugin/)
-- [Tips and Tricks for starting new software engineer job](https://www.reddit.com/r/Kotlin/comments/nc1m8i/tips_and_tricks_for_starting_new_software/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
