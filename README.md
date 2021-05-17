@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is kotlin good for beginners?](https://www.reddit.com/r/Kotlin/comments/ndvwbe/is_kotlin_good_for_beginners/)
+- [Learning Ktor In 7 Days (server-side Kotlin)](https://www.reddit.com/r/Kotlin/comments/ndudm7/learning_ktor_in_7_days_serverside_kotlin/)
+- [Any way to make a binding of using Jetpack Compose from Scala?](https://www.reddit.com/r/Kotlin/comments/ndkp3l/any_way_to_make_a_binding_of_using_jetpack/)
+- [Check out the new episode of Spring Time in Kotlin!](https://www.reddit.com/r/Kotlin/comments/ndjmjl/check_out_the_new_episode_of_spring_time_in_kotlin/)
+- [Beginner question: Inheritance of properties](https://www.reddit.com/r/Kotlin/comments/ndhep5/beginner_question_inheritance_of_properties/)
+- [Extract Java classes information from AOT compiled binary file](https://www.reddit.com/r/Kotlin/comments/ndfuhg/extract_java_classes_information_from_aot/)
+- [Apache Ant or Gradle?](https://www.reddit.com/r/Kotlin/comments/ndetzl/apache_ant_or_gradle/)
 - [Parsix: Parse, don't validate!](https://www.reddit.com/r/Kotlin/comments/nd1dl3/parsix_parse_dont_validate/)
 - [Ktor.io Developers?? How to use a different Port address when an existing Port Address Specified in the application.conf file is still running on my terminal.](https://www.reddit.com/r/Kotlin/comments/nd168c/ktorio_developers_how_to_use_a_different_port/)
 - [Jetpack Compose Desktop | Canvas | 2D Space particles | StarWars](https://www.reddit.com/r/Kotlin/comments/nczii7/jetpack_compose_desktop_canvas_2d_space_particles/)
-- [Kotlin serialization problem](https://www.reddit.com/r/Kotlin/comments/nco7oa/kotlin_serialization_problem/)
-- [No Kotlin 1.5.0 docs pdf?](https://www.reddit.com/r/Kotlin/comments/ncmqjr/no_kotlin_150_docs_pdf/)
-- [Truthish: A Google Truth inspired library written for Kotlin MPP](https://www.reddit.com/r/Kotlin/comments/ncmq1l/truthish_a_google_truth_inspired_library_written/)
-- [Do blocking operations in coroutines block the underlying thread?](https://www.reddit.com/r/Kotlin/comments/nck8lw/do_blocking_operations_in_coroutines_block_the/)
-- [Untying Kotlin|Java or Kotlin which is better for Android Development.](https://www.reddit.com/r/Kotlin/comments/ncegmc/untying_kotlinjava_or_kotlin_which_is_better_for/)
-- [Celebrating 10 Years of Kotlin – Share Your Stories!](https://www.reddit.com/r/Kotlin/comments/ncc0f9/celebrating_10_years_of_kotlin_share_your_stories/)
-- [Infinite Scroll with Doodle (a pure Kotlin UI framework for the Web, that lets you create rich applications with no Javascript, HTML or CSS)](https://www.reddit.com/r/Kotlin/comments/ncaxi7/infinite_scroll_with_doodle_a_pure_kotlin_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
