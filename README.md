@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Explanation of Property Delegates In Kotlin](https://www.reddit.com/r/Kotlin/comments/nfsgoe/explanation_of_property_delegates_in_kotlin/)
+- [ScrollView not scrolling when setting y value on views](https://www.reddit.com/r/Kotlin/comments/nfqvs7/scrollview_not_scrolling_when_setting_y_value_on/)
+- [[Spanish] Online{ it.kt } - Kotlin Remote Latam <3](https://www.reddit.com/r/Kotlin/comments/nfmvb7/spanish_online_itkt_kotlin_remote_latam_3/)
+- [How serialize to an externally tagged enum(polymorphic classes) on kotlin + klaxon?](https://www.reddit.com/r/Kotlin/comments/nfk5qv/how_serialize_to_an_externally_tagged/)
+- [Kotlin Coroutines 1.5: GlobalScope marked as delicate, refined Channels API, and more](https://www.reddit.com/r/Kotlin/comments/nfff6a/kotlin_coroutines_15_globalscope_marked_as/)
+- [Kotlin Coroutines 1.5: GlobalScope Marked as Delicate, Refined Channels API, and More](https://www.reddit.com/r/Kotlin/comments/nfe9jt/kotlin_coroutines_15_globalscope_marked_as/)
+- [runBlocking vs coroutineScope for certain actions](https://www.reddit.com/r/Kotlin/comments/nfe34o/runblocking_vs_coroutinescope_for_certain_actions/)
 - [NA NA NA NA COMPOSE-MAN! | 2D Raining Particles Sample using Jetpack Compose Canvas API](https://www.reddit.com/r/Kotlin/comments/neqyon/na_na_na_na_composeman_2d_raining_particles/)
 - [Need Help with Endless scroll on recycling view with kotlin](https://www.reddit.com/r/Kotlin/comments/neochq/need_help_with_endless_scroll_on_recycling_view/)
 - [[Need help] Kotlin + kotlinx.coroutines 1.5.0 breaking tests](https://www.reddit.com/r/Kotlin/comments/nemm6m/need_help_kotlin_kotlinxcoroutines_150_breaking/)
-- [Jetpack Compose For Web - Putting Order To Chaos](https://www.reddit.com/r/Kotlin/comments/nekhx6/jetpack_compose_for_web_putting_order_to_chaos/)
-- [What layout to use [TORNADO FX]](https://www.reddit.com/r/Kotlin/comments/nehbzr/what_layout_to_use_tornado_fx/)
-- [Making RecyclerViews with Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/neh1bb/making_recyclerviews_with_jetpack_compose/)
-- [Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/necrv9/learning_kotlin/)
-- [Kotlin Multiplatform at HMRC](https://www.reddit.com/r/Kotlin/comments/ne9qc5/kotlin_multiplatform_at_hmrc/)
-- [Kotlin Class Delegates](https://www.reddit.com/r/Kotlin/comments/ne82np/kotlin_class_delegates/)
-- [Hide internal members of Kotlin Module from JVM 🔐](https://www.reddit.com/r/Kotlin/comments/ne6q0z/hide_internal_members_of_kotlin_module_from_jvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
