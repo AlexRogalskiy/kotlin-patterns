@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is TornadoFx should be used in production ?](https://www.reddit.com/r/Kotlin/comments/ngblg7/is_tornadofx_should_be_used_in_production/)
+- [Kotlin roadmap updated](https://www.reddit.com/r/Kotlin/comments/ngazsv/kotlin_roadmap_updated/)
+- [Join us for Kotlin 1.5 Online Event and AMA with the Kotlin team!](https://www.reddit.com/r/Kotlin/comments/ng6jut/join_us_for_kotlin_15_online_event_and_ama_with/)
+- [[API design] Take a Collection/Iterable as input and convert, or take more specific interface (e.g., List, Set)?](https://www.reddit.com/r/Kotlin/comments/ng50a4/api_design_take_a_collectioniterable_as_input_and/)
+- [Multiplatform-DI library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/ng2s9e/multiplatformdi_library_for_kotlin_multiplatform/)
+- [Programming languages: How to learn Kotlin with these resources for developers](https://www.reddit.com/r/Kotlin/comments/ng1okx/programming_languages_how_to_learn_kotlin_with/)
+- [How can kotlin speak for itself against opinions that espouse java?](https://www.reddit.com/r/Kotlin/comments/nfw8g1/how_can_kotlin_speak_for_itself_against_opinions/)
+- [Getting LiveData from repository to View ?](https://www.reddit.com/r/Kotlin/comments/nftstx/getting_livedata_from_repository_to_view/)
 - [Explanation of Property Delegates In Kotlin](https://www.reddit.com/r/Kotlin/comments/nfsgoe/explanation_of_property_delegates_in_kotlin/)
 - [ScrollView not scrolling when setting y value on views](https://www.reddit.com/r/Kotlin/comments/nfqvs7/scrollview_not_scrolling_when_setting_y_value_on/)
-- [[Spanish] Online{ it.kt } - Kotlin Remote Latam <3](https://www.reddit.com/r/Kotlin/comments/nfmvb7/spanish_online_itkt_kotlin_remote_latam_3/)
-- [How serialize to an externally tagged enum(polymorphic classes) on kotlin + klaxon?](https://www.reddit.com/r/Kotlin/comments/nfk5qv/how_serialize_to_an_externally_tagged/)
-- [Kotlin Coroutines 1.5: GlobalScope marked as delicate, refined Channels API, and more](https://www.reddit.com/r/Kotlin/comments/nfff6a/kotlin_coroutines_15_globalscope_marked_as/)
-- [Kotlin Coroutines 1.5: GlobalScope Marked as Delicate, Refined Channels API, and More](https://www.reddit.com/r/Kotlin/comments/nfe9jt/kotlin_coroutines_15_globalscope_marked_as/)
-- [runBlocking vs coroutineScope for certain actions](https://www.reddit.com/r/Kotlin/comments/nfe34o/runblocking_vs_coroutinescope_for_certain_actions/)
-- [NA NA NA NA COMPOSE-MAN! | 2D Raining Particles Sample using Jetpack Compose Canvas API](https://www.reddit.com/r/Kotlin/comments/neqyon/na_na_na_na_composeman_2d_raining_particles/)
-- [Need Help with Endless scroll on recycling view with kotlin](https://www.reddit.com/r/Kotlin/comments/neochq/need_help_with_endless_scroll_on_recycling_view/)
-- [[Need help] Kotlin + kotlinx.coroutines 1.5.0 breaking tests](https://www.reddit.com/r/Kotlin/comments/nemm6m/need_help_kotlin_kotlinxcoroutines_150_breaking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
