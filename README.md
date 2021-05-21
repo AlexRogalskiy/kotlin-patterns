@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Messenger app in kotlin](https://www.reddit.com/r/Kotlin/comments/nh8y3r/messenger_app_in_kotlin/)
+- [Kotlin/Native Memory Management Update](https://www.reddit.com/r/Kotlin/comments/nh3qzw/kotlinnative_memory_management_update/)
+- [Calculate the app visitors](https://www.reddit.com/r/Kotlin/comments/nh3i06/calculate_the_app_visitors/)
+- [Ktor for Networking in Kotlin Multiplatform Mobile projects](https://www.reddit.com/r/Kotlin/comments/nh2wcj/ktor_for_networking_in_kotlin_multiplatform/)
+- [Is Kotlin widely used in Android Development?](https://www.reddit.com/r/Kotlin/comments/nh1kos/is_kotlin_widely_used_in_android_development/)
+- [If the Linked List is empty so the tail should also not be there then why we make it null.](https://www.reddit.com/r/Kotlin/comments/ngy436/if_the_linked_list_is_empty_so_the_tail_should/)
+- [Is there a Kotlin package similar to `struct` in Python?](https://www.reddit.com/r/Kotlin/comments/ngsq10/is_there_a_kotlin_package_similar_to_struct_in/)
+- [Kotlin 1.5.0 RC Released: Standard and Test Libraries](https://www.reddit.com/r/Kotlin/comments/ngqf33/kotlin_150_rc_released_standard_and_test_libraries/)
 - [Is TornadoFx should be used in production ?](https://www.reddit.com/r/Kotlin/comments/ngblg7/is_tornadofx_should_be_used_in_production/)
 - [Kotlin roadmap updated](https://www.reddit.com/r/Kotlin/comments/ngazsv/kotlin_roadmap_updated/)
-- [Join us for Kotlin 1.5 Online Event and AMA with the Kotlin team!](https://www.reddit.com/r/Kotlin/comments/ng6jut/join_us_for_kotlin_15_online_event_and_ama_with/)
-- [[API design] Take a Collection/Iterable as input and convert, or take more specific interface (e.g., List, Set)?](https://www.reddit.com/r/Kotlin/comments/ng50a4/api_design_take_a_collectioniterable_as_input_and/)
-- [Multiplatform-DI library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/ng2s9e/multiplatformdi_library_for_kotlin_multiplatform/)
-- [Programming languages: How to learn Kotlin with these resources for developers](https://www.reddit.com/r/Kotlin/comments/ng1okx/programming_languages_how_to_learn_kotlin_with/)
-- [How can kotlin speak for itself against opinions that espouse java?](https://www.reddit.com/r/Kotlin/comments/nfw8g1/how_can_kotlin_speak_for_itself_against_opinions/)
-- [Getting LiveData from repository to View ?](https://www.reddit.com/r/Kotlin/comments/nftstx/getting_livedata_from_repository_to_view/)
-- [Explanation of Property Delegates In Kotlin](https://www.reddit.com/r/Kotlin/comments/nfsgoe/explanation_of_property_delegates_in_kotlin/)
-- [ScrollView not scrolling when setting y value on views](https://www.reddit.com/r/Kotlin/comments/nfqvs7/scrollview_not_scrolling_when_setting_y_value_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
