@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [In overriding the function remove() of interface MutableIterator, I'm not able to get two things. Please help me to get through it.](https://www.reddit.com/r/Kotlin/comments/ni8601/in_overriding_the_function_remove_of_interface/)
+- [What must know should I master before an interview](https://www.reddit.com/r/Kotlin/comments/ni0ily/what_must_know_should_i_master_before_an_interview/)
+- [Rotate an image from Gallery in Android](https://www.reddit.com/r/Kotlin/comments/ni03ol/rotate_an_image_from_gallery_in_android/)
+- [Scripting in Python vs Kotlin](https://www.reddit.com/r/Kotlin/comments/nhpu3s/scripting_in_python_vs_kotlin/)
+- [I'm searching for newbies Kotlin friends!](https://www.reddit.com/r/Kotlin/comments/nhpsjo/im_searching_for_newbies_kotlin_friends/)
+- [From Java to Kotlin in 20 minutes ⚡️](https://www.reddit.com/r/Kotlin/comments/nhpfnn/from_java_to_kotlin_in_20_minutes/)
+- [From Java to Kotlin in 20 minutes ⚡️](https://www.reddit.com/r/Kotlin/comments/nhmnu5/from_java_to_kotlin_in_20_minutes/)
+- [Best practices book for Kotlin?](https://www.reddit.com/r/Kotlin/comments/nhi6dr/best_practices_book_for_kotlin/)
 - [Messenger app in kotlin](https://www.reddit.com/r/Kotlin/comments/nh8y3r/messenger_app_in_kotlin/)
 - [Kotlin/Native Memory Management Update](https://www.reddit.com/r/Kotlin/comments/nh3qzw/kotlinnative_memory_management_update/)
-- [Calculate the app visitors](https://www.reddit.com/r/Kotlin/comments/nh3i06/calculate_the_app_visitors/)
-- [Ktor for Networking in Kotlin Multiplatform Mobile projects](https://www.reddit.com/r/Kotlin/comments/nh2wcj/ktor_for_networking_in_kotlin_multiplatform/)
-- [Is Kotlin widely used in Android Development?](https://www.reddit.com/r/Kotlin/comments/nh1kos/is_kotlin_widely_used_in_android_development/)
-- [If the Linked List is empty so the tail should also not be there then why we make it null.](https://www.reddit.com/r/Kotlin/comments/ngy436/if_the_linked_list_is_empty_so_the_tail_should/)
-- [Is there a Kotlin package similar to `struct` in Python?](https://www.reddit.com/r/Kotlin/comments/ngsq10/is_there_a_kotlin_package_similar_to_struct_in/)
-- [Kotlin 1.5.0 RC Released: Standard and Test Libraries](https://www.reddit.com/r/Kotlin/comments/ngqf33/kotlin_150_rc_released_standard_and_test_libraries/)
-- [Is TornadoFx should be used in production ?](https://www.reddit.com/r/Kotlin/comments/ngblg7/is_tornadofx_should_be_used_in_production/)
-- [Kotlin roadmap updated](https://www.reddit.com/r/Kotlin/comments/ngazsv/kotlin_roadmap_updated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
