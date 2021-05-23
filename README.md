@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I created a simple dice-rolling Kotlin Multiplatform Library](https://www.reddit.com/r/Kotlin/comments/nisqhv/i_created_a_simple_dicerolling_kotlin/)
+- [i m a beginner to kotlin and i have been reading this article which in some way i found interesting. any advice.](https://www.reddit.com/r/Kotlin/comments/niklr6/i_m_a_beginner_to_kotlin_and_i_have_been_reading/)
+- [KMM DI + VIP + common concurrency app pure template](https://www.reddit.com/r/Kotlin/comments/nik6w3/kmm_di_vip_common_concurrency_app_pure_template/)
+- [KMM DI + VIP + common concurrency app sample](https://www.reddit.com/r/Kotlin/comments/nik6lx/kmm_di_vip_common_concurrency_app_sample/)
+- [I am lost, looking for a few headlines and advise](https://www.reddit.com/r/Kotlin/comments/niiqfs/i_am_lost_looking_for_a_few_headlines_and_advise/)
+- [Need some help, i simply cannot import my activity_main.Xml](https://www.reddit.com/r/Kotlin/comments/nih1nh/need_some_help_i_simply_cannot_import_my_activity/)
+- [Is there a good way to build for Kotlin from the CLI and develop from within Vim? The Kotlin website seemed to really push JetBrains as the One True IDE](https://www.reddit.com/r/Kotlin/comments/ni8wug/is_there_a_good_way_to_build_for_kotlin_from_the/)
 - [In overriding the function remove() of interface MutableIterator, I'm not able to get two things. Please help me to get through it.](https://www.reddit.com/r/Kotlin/comments/ni8601/in_overriding_the_function_remove_of_interface/)
 - [What must know should I master before an interview](https://www.reddit.com/r/Kotlin/comments/ni0ily/what_must_know_should_i_master_before_an_interview/)
 - [Rotate an image from Gallery in Android](https://www.reddit.com/r/Kotlin/comments/ni03ol/rotate_an_image_from_gallery_in_android/)
-- [Scripting in Python vs Kotlin](https://www.reddit.com/r/Kotlin/comments/nhpu3s/scripting_in_python_vs_kotlin/)
-- [I'm searching for newbies Kotlin friends!](https://www.reddit.com/r/Kotlin/comments/nhpsjo/im_searching_for_newbies_kotlin_friends/)
-- [From Java to Kotlin in 20 minutes ⚡️](https://www.reddit.com/r/Kotlin/comments/nhpfnn/from_java_to_kotlin_in_20_minutes/)
-- [From Java to Kotlin in 20 minutes ⚡️](https://www.reddit.com/r/Kotlin/comments/nhmnu5/from_java_to_kotlin_in_20_minutes/)
-- [Best practices book for Kotlin?](https://www.reddit.com/r/Kotlin/comments/nhi6dr/best_practices_book_for_kotlin/)
-- [Messenger app in kotlin](https://www.reddit.com/r/Kotlin/comments/nh8y3r/messenger_app_in_kotlin/)
-- [Kotlin/Native Memory Management Update](https://www.reddit.com/r/Kotlin/comments/nh3qzw/kotlinnative_memory_management_update/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
