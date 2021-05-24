@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Built-in Delegates: Lazy Delegate explanation](https://www.reddit.com/r/Kotlin/comments/nji60z/kotlin_builtin_delegates_lazy_delegate_explanation/)
+- [I had a problem with my gradle](https://www.reddit.com/r/Kotlin/comments/nje8hm/i_had_a_problem_with_my_gradle/)
+- [Why LiveData is the best solution (yet) for UI](https://www.reddit.com/r/Kotlin/comments/njbnfr/why_livedata_is_the_best_solution_yet_for_ui/)
+- [I can't implement Navigation to my gradle by using Kotlin](https://www.reddit.com/r/Kotlin/comments/nj6rnr/i_cant_implement_navigation_to_my_gradle_by_using/)
+- [Useful Kotlin short-hands for DS/A problems?](https://www.reddit.com/r/Kotlin/comments/niy4zx/useful_kotlin_shorthands_for_dsa_problems/)
 - [I created a simple dice-rolling Kotlin Multiplatform Library](https://www.reddit.com/r/Kotlin/comments/nisqhv/i_created_a_simple_dicerolling_kotlin/)
 - [i m a beginner to kotlin and i have been reading this article which in some way i found interesting. any advice.](https://www.reddit.com/r/Kotlin/comments/niklr6/i_m_a_beginner_to_kotlin_and_i_have_been_reading/)
 - [KMM DI + VIP + common concurrency app pure template](https://www.reddit.com/r/Kotlin/comments/nik6w3/kmm_di_vip_common_concurrency_app_pure_template/)
 - [KMM DI + VIP + common concurrency app sample](https://www.reddit.com/r/Kotlin/comments/nik6lx/kmm_di_vip_common_concurrency_app_sample/)
 - [I am lost, looking for a few headlines and advise](https://www.reddit.com/r/Kotlin/comments/niiqfs/i_am_lost_looking_for_a_few_headlines_and_advise/)
-- [Need some help, i simply cannot import my activity_main.Xml](https://www.reddit.com/r/Kotlin/comments/nih1nh/need_some_help_i_simply_cannot_import_my_activity/)
-- [Is there a good way to build for Kotlin from the CLI and develop from within Vim? The Kotlin website seemed to really push JetBrains as the One True IDE](https://www.reddit.com/r/Kotlin/comments/ni8wug/is_there_a_good_way_to_build_for_kotlin_from_the/)
-- [In overriding the function remove() of interface MutableIterator, I'm not able to get two things. Please help me to get through it.](https://www.reddit.com/r/Kotlin/comments/ni8601/in_overriding_the_function_remove_of_interface/)
-- [What must know should I master before an interview](https://www.reddit.com/r/Kotlin/comments/ni0ily/what_must_know_should_i_master_before_an_interview/)
-- [Rotate an image from Gallery in Android](https://www.reddit.com/r/Kotlin/comments/ni03ol/rotate_an_image_from_gallery_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
