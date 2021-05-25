@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Release 1.5.10](https://www.reddit.com/r/Kotlin/comments/nke2xc/kotlin_release_1510/)
+- [How to instrument if the user has clicked suggestion from the keyboard to fill the data](https://www.reddit.com/r/Kotlin/comments/nk3m69/how_to_instrument_if_the_user_has_clicked/)
+- [What’s new in KMM since going Alpha](https://www.reddit.com/r/Kotlin/comments/nk2wl3/whats_new_in_kmm_since_going_alpha/)
+- [What’s new in KMM since going Alpha](https://www.reddit.com/r/Kotlin/comments/nk2w1n/whats_new_in_kmm_since_going_alpha/)
+- [Don’t let Kotlin’s single-expression function ruin your business😲](https://www.reddit.com/r/Kotlin/comments/nk06uw/dont_let_kotlins_singleexpression_function_ruin/)
+- [Can I understand the logic behind the get function for the Linked list?](https://www.reddit.com/r/Kotlin/comments/njwqsj/can_i_understand_the_logic_behind_the_get/)
+- [[KMP/KMM] Expanding a KMM project to desktop. Is it possible?](https://www.reddit.com/r/Kotlin/comments/njuiq1/kmpkmm_expanding_a_kmm_project_to_desktop_is_it/)
+- [How to secure Ktor web app with Keycloak Jetty 9.x Adapters?](https://www.reddit.com/r/Kotlin/comments/njt5i6/how_to_secure_ktor_web_app_with_keycloak_jetty_9x/)
+- [Effective Kotlin Item 38: Use function types or functional interfaces to pass operations and actions](https://www.reddit.com/r/Kotlin/comments/njryy8/effective_kotlin_item_38_use_function_types_or/)
 - [Kotlin Built-in Delegates: Lazy Delegate explanation](https://www.reddit.com/r/Kotlin/comments/nji60z/kotlin_builtin_delegates_lazy_delegate_explanation/)
-- [I had a problem with my gradle](https://www.reddit.com/r/Kotlin/comments/nje8hm/i_had_a_problem_with_my_gradle/)
-- [Why LiveData is the best solution (yet) for UI](https://www.reddit.com/r/Kotlin/comments/njbnfr/why_livedata_is_the_best_solution_yet_for_ui/)
-- [I can't implement Navigation to my gradle by using Kotlin](https://www.reddit.com/r/Kotlin/comments/nj6rnr/i_cant_implement_navigation_to_my_gradle_by_using/)
-- [Useful Kotlin short-hands for DS/A problems?](https://www.reddit.com/r/Kotlin/comments/niy4zx/useful_kotlin_shorthands_for_dsa_problems/)
-- [I created a simple dice-rolling Kotlin Multiplatform Library](https://www.reddit.com/r/Kotlin/comments/nisqhv/i_created_a_simple_dicerolling_kotlin/)
-- [i m a beginner to kotlin and i have been reading this article which in some way i found interesting. any advice.](https://www.reddit.com/r/Kotlin/comments/niklr6/i_m_a_beginner_to_kotlin_and_i_have_been_reading/)
-- [KMM DI + VIP + common concurrency app pure template](https://www.reddit.com/r/Kotlin/comments/nik6w3/kmm_di_vip_common_concurrency_app_pure_template/)
-- [KMM DI + VIP + common concurrency app sample](https://www.reddit.com/r/Kotlin/comments/nik6lx/kmm_di_vip_common_concurrency_app_sample/)
-- [I am lost, looking for a few headlines and advise](https://www.reddit.com/r/Kotlin/comments/niiqfs/i_am_lost_looking_for_a_few_headlines_and_advise/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
