@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin DL Version 0.2: Functional API, Model Zoo With ResNet and MobileNet, Idiomatic Kotlin DSL for Image Preprocessing](https://www.reddit.com/r/Kotlin/comments/nknt89/kotlin_dl_version_02_functional_api_model_zoo/)
+- [List of Kotlin Courses](https://www.reddit.com/r/Kotlin/comments/nkn8fh/list_of_kotlin_courses/)
+- [Structured Concurrency! - certain caveats to consider and a few points to be mindful of, to avoid unexpected behaviour.](https://www.reddit.com/r/Kotlin/comments/nkhco3/structured_concurrency_certain_caveats_to/)
+- [Kotlin vim setup](https://www.reddit.com/r/Kotlin/comments/nkevlc/kotlin_vim_setup/)
 - [Kotlin Release 1.5.10](https://www.reddit.com/r/Kotlin/comments/nke2xc/kotlin_release_1510/)
 - [How to instrument if the user has clicked suggestion from the keyboard to fill the data](https://www.reddit.com/r/Kotlin/comments/nk3m69/how_to_instrument_if_the_user_has_clicked/)
 - [What’s new in KMM since going Alpha](https://www.reddit.com/r/Kotlin/comments/nk2wl3/whats_new_in_kmm_since_going_alpha/)
 - [What’s new in KMM since going Alpha](https://www.reddit.com/r/Kotlin/comments/nk2w1n/whats_new_in_kmm_since_going_alpha/)
 - [Don’t let Kotlin’s single-expression function ruin your business😲](https://www.reddit.com/r/Kotlin/comments/nk06uw/dont_let_kotlins_singleexpression_function_ruin/)
 - [Can I understand the logic behind the get function for the Linked list?](https://www.reddit.com/r/Kotlin/comments/njwqsj/can_i_understand_the_logic_behind_the_get/)
-- [[KMP/KMM] Expanding a KMM project to desktop. Is it possible?](https://www.reddit.com/r/Kotlin/comments/njuiq1/kmpkmm_expanding_a_kmm_project_to_desktop_is_it/)
-- [How to secure Ktor web app with Keycloak Jetty 9.x Adapters?](https://www.reddit.com/r/Kotlin/comments/njt5i6/how_to_secure_ktor_web_app_with_keycloak_jetty_9x/)
-- [Effective Kotlin Item 38: Use function types or functional interfaces to pass operations and actions](https://www.reddit.com/r/Kotlin/comments/njryy8/effective_kotlin_item_38_use_function_types_or/)
-- [Kotlin Built-in Delegates: Lazy Delegate explanation](https://www.reddit.com/r/Kotlin/comments/nji60z/kotlin_builtin_delegates_lazy_delegate_explanation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
