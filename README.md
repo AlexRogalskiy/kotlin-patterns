@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Create progressive web apps with 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/nlnw11/create_progressive_web_apps_with_100_kotlin/)
-- [Create progressive web apps with 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/nlfkj2/create_progressive_web_apps_with_100_kotlin/)
-- [Create progressive web apps with 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/nldzcb/create_progressive_web_apps_with_100_kotlin/)
-- [Long text problem](https://www.reddit.com/r/Kotlin/comments/nlakma/long_text_problem/)
-- [Kotlin DL Version 0.2: Functional API, Model Zoo With ResNet and MobileNet, Idiomatic Kotlin DSL for Image Preprocessing](https://www.reddit.com/r/Kotlin/comments/nknt89/kotlin_dl_version_02_functional_api_model_zoo/)
-- [List of Kotlin Courses](https://www.reddit.com/r/Kotlin/comments/nkn8fh/list_of_kotlin_courses/)
-- [Structured Concurrency! - certain caveats to consider and a few points to be mindful of, to avoid unexpected behaviour.](https://www.reddit.com/r/Kotlin/comments/nkhco3/structured_concurrency_certain_caveats_to/)
-- [Kotlin vim setup](https://www.reddit.com/r/Kotlin/comments/nkevlc/kotlin_vim_setup/)
-- [Kotlin Release 1.5.10](https://www.reddit.com/r/Kotlin/comments/nke2xc/kotlin_release_1510/)
-- [How to instrument if the user has clicked suggestion from the keyboard to fill the data](https://www.reddit.com/r/Kotlin/comments/nk3m69/how_to_instrument_if_the_user_has_clicked/)
+- [New programming subreddit for highschoolers: r/cshighschoolers](https://www.reddit.com/r/Kotlin/comments/nmm5dz/new_programming_subreddit_for_highschoolers/)
+- [Alien space invaders in Jetpack Compose Desktop](https://www.reddit.com/r/Kotlin/comments/nmhrey/alien_space_invaders_in_jetpack_compose_desktop/)
+- [I created a tool for my fellow Compose Desktop developers](https://www.reddit.com/r/Kotlin/comments/nmd3bb/i_created_a_tool_for_my_fellow_compose_desktop/)
+- [[from the Kotlin roadmap] Why will the alpha release of the new Compiled Frontend be only available on KCMO?](https://www.reddit.com/r/Kotlin/comments/nma7ln/from_the_kotlin_roadmap_why_will_the_alpha/)
+- [can someone explain "%-Modulus Operator"](https://www.reddit.com/r/Kotlin/comments/nm9nzd/can_someone_explain_modulus_operator/)
+- [Nine Highlights from the Kotlin Roadmap](https://www.reddit.com/r/Kotlin/comments/nm7ikj/nine_highlights_from_the_kotlin_roadmap/)
+- [Ktor Clean Architecture Backend](https://www.reddit.com/r/Kotlin/comments/nm5eg5/ktor_clean_architecture_backend/)
+- [Kotlin Microservices With Spring Boot And Spring Cloud: Part 5 - Event-driven microservices](https://www.reddit.com/r/Kotlin/comments/nm4et2/kotlin_microservices_with_spring_boot_and_spring/)
+- [Viper or MVVM?](https://www.reddit.com/r/Kotlin/comments/nm43tv/viper_or_mvvm/)
+- [Kotlin Team AMA #3: Ask Us Anything](https://www.reddit.com/r/Kotlin/comments/nm2eaf/kotlin_team_ama_3_ask_us_anything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
