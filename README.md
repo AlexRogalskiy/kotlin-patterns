@@ -249,6 +249,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MutableSharedFlow is kind of complicated](https://www.reddit.com/r/Kotlin/comments/nn6u17/mutablesharedflow_is_kind_of_complicated/)
+- [Ktor 1.6.0 Released](https://www.reddit.com/r/Kotlin/comments/nn0lzz/ktor_160_released/)
+- [Talking Kotlin - Jetpack Compose with Leland Richardson](https://www.reddit.com/r/Kotlin/comments/nmvqkf/talking_kotlin_jetpack_compose_with_leland/)
 - [New programming subreddit for highschoolers: r/cshighschoolers](https://www.reddit.com/r/Kotlin/comments/nmm5dz/new_programming_subreddit_for_highschoolers/)
 - [Alien space invaders in Jetpack Compose Desktop](https://www.reddit.com/r/Kotlin/comments/nmhrey/alien_space_invaders_in_jetpack_compose_desktop/)
 - [I created a tool for my fellow Compose Desktop developers](https://www.reddit.com/r/Kotlin/comments/nmd3bb/i_created_a_tool_for_my_fellow_compose_desktop/)
@@ -256,9 +259,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [can someone explain "%-Modulus Operator"](https://www.reddit.com/r/Kotlin/comments/nm9nzd/can_someone_explain_modulus_operator/)
 - [Nine Highlights from the Kotlin Roadmap](https://www.reddit.com/r/Kotlin/comments/nm7ikj/nine_highlights_from_the_kotlin_roadmap/)
 - [Ktor Clean Architecture Backend](https://www.reddit.com/r/Kotlin/comments/nm5eg5/ktor_clean_architecture_backend/)
-- [Kotlin Microservices With Spring Boot And Spring Cloud: Part 5 - Event-driven microservices](https://www.reddit.com/r/Kotlin/comments/nm4et2/kotlin_microservices_with_spring_boot_and_spring/)
-- [Viper or MVVM?](https://www.reddit.com/r/Kotlin/comments/nm43tv/viper_or_mvvm/)
-- [Kotlin Team AMA #3: Ask Us Anything](https://www.reddit.com/r/Kotlin/comments/nm2eaf/kotlin_team_ama_3_ask_us_anything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
