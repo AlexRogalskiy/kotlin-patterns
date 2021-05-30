@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Having Tech or Coding Interview? Check Top 68 Kotlin Interview Questions 👉](https://www.reddit.com/r/Kotlin/comments/no2ml8/having_tech_or_coding_interview_check_top_68/)
+- [Explanation of notNull Built-in Delegate](https://www.reddit.com/r/Kotlin/comments/nnzfu1/explanation_of_notnull_builtin_delegate/)
+- [Converting Double to String with specific number of decimals](https://www.reddit.com/r/Kotlin/comments/nnxtrc/converting_double_to_string_with_specific_number/)
+- [Why Kotlin is taking over the world](https://www.reddit.com/r/Kotlin/comments/nnr187/why_kotlin_is_taking_over_the_world/)
+- [Introducing Satisfaketion: A zero-dependency fake data generation library](https://www.reddit.com/r/Kotlin/comments/nnmuqy/introducing_satisfaketion_a_zerodependency_fake/)
+- [Andrei Shikov on Twitter: Compose compiler now has support for Kotlin/Native...](https://www.reddit.com/r/Kotlin/comments/nnmu8d/andrei_shikov_on_twitter_compose_compiler_now_has/)
+- [Testing retrofit calls](https://www.reddit.com/r/Kotlin/comments/nnminp/testing_retrofit_calls/)
 - [MutableSharedFlow is kind of complicated](https://www.reddit.com/r/Kotlin/comments/nn6u17/mutablesharedflow_is_kind_of_complicated/)
 - [Ktor 1.6.0 Released](https://www.reddit.com/r/Kotlin/comments/nn0lzz/ktor_160_released/)
 - [Talking Kotlin - Jetpack Compose with Leland Richardson](https://www.reddit.com/r/Kotlin/comments/nmvqkf/talking_kotlin_jetpack_compose_with_leland/)
-- [New programming subreddit for highschoolers: r/cshighschoolers](https://www.reddit.com/r/Kotlin/comments/nmm5dz/new_programming_subreddit_for_highschoolers/)
-- [Alien space invaders in Jetpack Compose Desktop](https://www.reddit.com/r/Kotlin/comments/nmhrey/alien_space_invaders_in_jetpack_compose_desktop/)
-- [I created a tool for my fellow Compose Desktop developers](https://www.reddit.com/r/Kotlin/comments/nmd3bb/i_created_a_tool_for_my_fellow_compose_desktop/)
-- [[from the Kotlin roadmap] Why will the alpha release of the new Compiled Frontend be only available on KCMO?](https://www.reddit.com/r/Kotlin/comments/nma7ln/from_the_kotlin_roadmap_why_will_the_alpha/)
-- [can someone explain "%-Modulus Operator"](https://www.reddit.com/r/Kotlin/comments/nm9nzd/can_someone_explain_modulus_operator/)
-- [Nine Highlights from the Kotlin Roadmap](https://www.reddit.com/r/Kotlin/comments/nm7ikj/nine_highlights_from_the_kotlin_roadmap/)
-- [Ktor Clean Architecture Backend](https://www.reddit.com/r/Kotlin/comments/nm5eg5/ktor_clean_architecture_backend/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
