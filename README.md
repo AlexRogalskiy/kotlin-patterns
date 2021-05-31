@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anybody here have a debug xml problem?](https://www.reddit.com/r/Kotlin/comments/nojapq/anybody_here_have_a_debug_xml_problem/)
+- [Explanation of Kotlin's Built-in Delegates: vetoable and observable](https://www.reddit.com/r/Kotlin/comments/noh7ld/explanation_of_kotlins_builtin_delegates_vetoable/)
+- [Did you know you CAN add git repositories as Gradle dependencies?](https://www.reddit.com/r/Kotlin/comments/noa3p6/did_you_know_you_can_add_git_repositories_as/)
+- [Realm 7, the frozen throne](https://www.reddit.com/r/Kotlin/comments/no8que/realm_7_the_frozen_throne/)
+- [KotlinDL 0.2: Deep learning framework for JVM progresses](https://www.reddit.com/r/Kotlin/comments/no455n/kotlindl_02_deep_learning_framework_for_jvm/)
+- [High Tech Hacks!](https://www.reddit.com/r/Kotlin/comments/no43dg/high_tech_hacks/)
 - [Having Tech or Coding Interview? Check Top 68 Kotlin Interview Questions 👉](https://www.reddit.com/r/Kotlin/comments/no2ml8/having_tech_or_coding_interview_check_top_68/)
 - [Explanation of notNull Built-in Delegate](https://www.reddit.com/r/Kotlin/comments/nnzfu1/explanation_of_notnull_builtin_delegate/)
 - [Converting Double to String with specific number of decimals](https://www.reddit.com/r/Kotlin/comments/nnxtrc/converting_double_to_string_with_specific_number/)
 - [Why Kotlin is taking over the world](https://www.reddit.com/r/Kotlin/comments/nnr187/why_kotlin_is_taking_over_the_world/)
-- [Introducing Satisfaketion: A zero-dependency fake data generation library](https://www.reddit.com/r/Kotlin/comments/nnmuqy/introducing_satisfaketion_a_zerodependency_fake/)
-- [Andrei Shikov on Twitter: Compose compiler now has support for Kotlin/Native...](https://www.reddit.com/r/Kotlin/comments/nnmu8d/andrei_shikov_on_twitter_compose_compiler_now_has/)
-- [Testing retrofit calls](https://www.reddit.com/r/Kotlin/comments/nnminp/testing_retrofit_calls/)
-- [MutableSharedFlow is kind of complicated](https://www.reddit.com/r/Kotlin/comments/nn6u17/mutablesharedflow_is_kind_of_complicated/)
-- [Ktor 1.6.0 Released](https://www.reddit.com/r/Kotlin/comments/nn0lzz/ktor_160_released/)
-- [Talking Kotlin - Jetpack Compose with Leland Richardson](https://www.reddit.com/r/Kotlin/comments/nmvqkf/talking_kotlin_jetpack_compose_with_leland/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
