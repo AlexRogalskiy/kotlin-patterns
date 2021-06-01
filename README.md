@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made an auto publisher for Docker images containing the Kotlin SDK AND IT'S MADE WITH KOTLIN!!](https://www.reddit.com/r/Kotlin/comments/npjvr0/i_made_an_auto_publisher_for_docker_images/)
+- [Company is switching to Kotlin soon, super excited! Any advice?](https://www.reddit.com/r/Kotlin/comments/npdjjs/company_is_switching_to_kotlin_soon_super_excited/)
+- [Bugs from name shadowing inside apply and run?](https://www.reddit.com/r/Kotlin/comments/npamr4/bugs_from_name_shadowing_inside_apply_and_run/)
+- [What is the most user-friendly way to make a Kotlin GUI application?](https://www.reddit.com/r/Kotlin/comments/np6vbt/what_is_the_most_userfriendly_way_to_make_a/)
+- [RuneScape in Kotlin [Event Driven | Multi-World | Scriptable | OpenGL/DirectX]](https://www.reddit.com/r/Kotlin/comments/np42pe/runescape_in_kotlin_event_driven_multiworld/)
+- [[i made this] spring boot starter for generating REST endpoints with easily customizable ACL (acces control level) rules and before/after create/read/update/delete hooks](https://www.reddit.com/r/Kotlin/comments/np31em/i_made_this_spring_boot_starter_for_generating/)
+- [Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/nozkir/jetpack_compose/)
+- [JPackage for Kotlin applications](https://www.reddit.com/r/Kotlin/comments/noz4nv/jpackage_for_kotlin_applications/)
+- [Effective Kotlin Item 39: Use sealed classes and interfaces to express restricted hierarchies](https://www.reddit.com/r/Kotlin/comments/noy60c/effective_kotlin_item_39_use_sealed_classes_and/)
 - [Anybody here have a debug xml problem?](https://www.reddit.com/r/Kotlin/comments/nojapq/anybody_here_have_a_debug_xml_problem/)
-- [Explanation of Kotlin's Built-in Delegates: vetoable and observable](https://www.reddit.com/r/Kotlin/comments/noh7ld/explanation_of_kotlins_builtin_delegates_vetoable/)
-- [Did you know you CAN add git repositories as Gradle dependencies?](https://www.reddit.com/r/Kotlin/comments/noa3p6/did_you_know_you_can_add_git_repositories_as/)
-- [Realm 7, the frozen throne](https://www.reddit.com/r/Kotlin/comments/no8que/realm_7_the_frozen_throne/)
-- [KotlinDL 0.2: Deep learning framework for JVM progresses](https://www.reddit.com/r/Kotlin/comments/no455n/kotlindl_02_deep_learning_framework_for_jvm/)
-- [High Tech Hacks!](https://www.reddit.com/r/Kotlin/comments/no43dg/high_tech_hacks/)
-- [Having Tech or Coding Interview? Check Top 68 Kotlin Interview Questions 👉](https://www.reddit.com/r/Kotlin/comments/no2ml8/having_tech_or_coding_interview_check_top_68/)
-- [Explanation of notNull Built-in Delegate](https://www.reddit.com/r/Kotlin/comments/nnzfu1/explanation_of_notnull_builtin_delegate/)
-- [Converting Double to String with specific number of decimals](https://www.reddit.com/r/Kotlin/comments/nnxtrc/converting_double_to_string_with_specific_number/)
-- [Why Kotlin is taking over the world](https://www.reddit.com/r/Kotlin/comments/nnr187/why_kotlin_is_taking_over_the_world/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
