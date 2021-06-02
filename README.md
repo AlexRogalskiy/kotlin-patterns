@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Okio FileSystem Update](https://www.reddit.com/r/Kotlin/comments/nqbyxw/okio_filesystem_update/)
+- [Quarkus 2.0 Q&A](https://www.reddit.com/r/Kotlin/comments/nq2qbp/quarkus_20_qa/)
+- [Compose for Desktop: Milestone 4 Released](https://www.reddit.com/r/Kotlin/comments/nptz29/compose_for_desktop_milestone_4_released/)
+- [Fully automated luxury pipeline for updating dependencies with the help of Missinglink](https://www.reddit.com/r/Kotlin/comments/nps9w0/fully_automated_luxury_pipeline_for_updating/)
+- [Error: Cannot access 'RingBuffer': it is private in file](https://www.reddit.com/r/Kotlin/comments/npr4py/error_cannot_access_ringbuffer_it_is_private_in/)
 - [I made an auto publisher for Docker images containing the Kotlin SDK AND IT'S MADE WITH KOTLIN!!](https://www.reddit.com/r/Kotlin/comments/npjvr0/i_made_an_auto_publisher_for_docker_images/)
 - [Company is switching to Kotlin soon, super excited! Any advice?](https://www.reddit.com/r/Kotlin/comments/npdjjs/company_is_switching_to_kotlin_soon_super_excited/)
 - [Bugs from name shadowing inside apply and run?](https://www.reddit.com/r/Kotlin/comments/npamr4/bugs_from_name_shadowing_inside_apply_and_run/)
 - [What is the most user-friendly way to make a Kotlin GUI application?](https://www.reddit.com/r/Kotlin/comments/np6vbt/what_is_the_most_userfriendly_way_to_make_a/)
 - [RuneScape in Kotlin [Event Driven | Multi-World | Scriptable | OpenGL/DirectX]](https://www.reddit.com/r/Kotlin/comments/np42pe/runescape_in_kotlin_event_driven_multiworld/)
-- [[i made this] spring boot starter for generating REST endpoints with easily customizable ACL (acces control level) rules and before/after create/read/update/delete hooks](https://www.reddit.com/r/Kotlin/comments/np31em/i_made_this_spring_boot_starter_for_generating/)
-- [Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/nozkir/jetpack_compose/)
-- [JPackage for Kotlin applications](https://www.reddit.com/r/Kotlin/comments/noz4nv/jpackage_for_kotlin_applications/)
-- [Effective Kotlin Item 39: Use sealed classes and interfaces to express restricted hierarchies](https://www.reddit.com/r/Kotlin/comments/noy60c/effective_kotlin_item_39_use_sealed_classes_and/)
-- [Anybody here have a debug xml problem?](https://www.reddit.com/r/Kotlin/comments/nojapq/anybody_here_have_a_debug_xml_problem/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
