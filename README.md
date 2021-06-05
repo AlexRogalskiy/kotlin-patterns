@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin IDE Performance](https://www.reddit.com/r/Kotlin/comments/nsac4a/kotlin_ide_performance/)
+- [How do I set my drag and to go back to the original location once its done?](https://www.reddit.com/r/Kotlin/comments/ns7y40/how_do_i_set_my_drag_and_to_go_back_to_the/)
+- [how to change button color when OnClick is called](https://www.reddit.com/r/Kotlin/comments/ns6prw/how_to_change_button_color_when_onclick_is_called/)
+- [Server side kotlin using Ktor. An authentication example.](https://www.reddit.com/r/Kotlin/comments/ns1q52/server_side_kotlin_using_ktor_an_authentication/)
+- [Kotlin Collections vs Sequences in just 5minutes](https://www.reddit.com/r/Kotlin/comments/nrzw4l/kotlin_collections_vs_sequences_in_just_5minutes/)
+- [Reading "Mastering Kotlin"](https://www.reddit.com/r/Kotlin/comments/nrx968/reading_mastering_kotlin/)
 - [Fruit Ninja 🥝 on Jetpack Compose Desktop 🚀, using Canvas API 🎨](https://www.reddit.com/r/Kotlin/comments/nrr0mf/fruit_ninja_on_jetpack_compose_desktop_using/)
 - [which one should you pick? java or kotlin?](https://www.reddit.com/r/Kotlin/comments/nriwyw/which_one_should_you_pick_java_or_kotlin/)
 - [Please help me to understand this Binary Tree Node class!](https://www.reddit.com/r/Kotlin/comments/nrh94y/please_help_me_to_understand_this_binary_tree/)
 - [ktlint rules and access to resolved node types](https://www.reddit.com/r/Kotlin/comments/nrd43d/ktlint_rules_and_access_to_resolved_node_types/)
-- [[Style] Rules of thumb for default interface method impl vs extension method in the same file?](https://www.reddit.com/r/Kotlin/comments/nrbyfh/style_rules_of_thumb_for_default_interface_method/)
-- [Do you use drag and drop for android studio](https://www.reddit.com/r/Kotlin/comments/nrbn84/do_you_use_drag_and_drop_for_android_studio/)
-- [Have you heard that we’ve updated the Kotlin roadmap? Watch the video with the top 5 exciting highlights from our plans for 2021 and beyond!](https://www.reddit.com/r/Kotlin/comments/nrbghx/have_you_heard_that_weve_updated_the_kotlin/)
-- [Numpy for kotlin](https://www.reddit.com/r/Kotlin/comments/nrablr/numpy_for_kotlin/)
-- [Best way to store multiple variables to a file.](https://www.reddit.com/r/Kotlin/comments/nr81wi/best_way_to_store_multiple_variables_to_a_file/)
-- [Kotlin collections for beginners](https://www.reddit.com/r/Kotlin/comments/nr5tb8/kotlin_collections_for_beginners/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
