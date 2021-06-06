@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [In-depth look at gRPC for Android](https://www.reddit.com/r/Kotlin/comments/nt2jr8/indepth_look_at_grpc_for_android/)
+- [Android CodeView: Highlight search result in List Items](https://www.reddit.com/r/Kotlin/comments/nswnr5/android_codeview_highlight_search_result_in_list/)
+- [Function returning Index out-of-bound exception.](https://www.reddit.com/r/Kotlin/comments/nsvj8b/function_returning_index_outofbound_exception/)
+- [Uncoiling the coil | Kotlin Mumbai Meetup](https://www.reddit.com/r/Kotlin/comments/nsv1oi/uncoiling_the_coil_kotlin_mumbai_meetup/)
+- [API Service built with Kotlin - Ktor, Kodein, JWT Auth, SQLDelight, PostgreSQL](https://www.reddit.com/r/Kotlin/comments/nsp8ts/api_service_built_with_kotlin_ktor_kodein_jwt/)
+- [I am a developer and created an open community for shorts ( 30 second read ) on programming. Feel free to use the Kotlin resources for experienced and newbies [ Details in first comment ]](https://www.reddit.com/r/Kotlin/comments/nsnwlw/i_am_a_developer_and_created_an_open_community/)
 - [Kotlin IDE Performance](https://www.reddit.com/r/Kotlin/comments/nsac4a/kotlin_ide_performance/)
 - [How do I set my drag and to go back to the original location once its done?](https://www.reddit.com/r/Kotlin/comments/ns7y40/how_do_i_set_my_drag_and_to_go_back_to_the/)
 - [how to change button color when OnClick is called](https://www.reddit.com/r/Kotlin/comments/ns6prw/how_to_change_button_color_when_onclick_is_called/)
 - [Server side kotlin using Ktor. An authentication example.](https://www.reddit.com/r/Kotlin/comments/ns1q52/server_side_kotlin_using_ktor_an_authentication/)
-- [Kotlin Collections vs Sequences in just 5minutes](https://www.reddit.com/r/Kotlin/comments/nrzw4l/kotlin_collections_vs_sequences_in_just_5minutes/)
-- [Reading "Mastering Kotlin"](https://www.reddit.com/r/Kotlin/comments/nrx968/reading_mastering_kotlin/)
-- [Fruit Ninja 🥝 on Jetpack Compose Desktop 🚀, using Canvas API 🎨](https://www.reddit.com/r/Kotlin/comments/nrr0mf/fruit_ninja_on_jetpack_compose_desktop_using/)
-- [which one should you pick? java or kotlin?](https://www.reddit.com/r/Kotlin/comments/nriwyw/which_one_should_you_pick_java_or_kotlin/)
-- [Please help me to understand this Binary Tree Node class!](https://www.reddit.com/r/Kotlin/comments/nrh94y/please_help_me_to_understand_this_binary_tree/)
-- [ktlint rules and access to resolved node types](https://www.reddit.com/r/Kotlin/comments/nrd43d/ktlint_rules_and_access_to_resolved_node_types/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
