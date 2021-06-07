@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functional Interfaces (SAM) in Kotlin](https://www.reddit.com/r/Kotlin/comments/nu21q4/functional_interfaces_sam_in_kotlin/)
+- [Let your delegates auto-nullify references☠️](https://www.reddit.com/r/Kotlin/comments/nts80l/let_your_delegates_autonullify_references/)
+- [Can I get some reasons to use Kotlin instead of Java?](https://www.reddit.com/r/Kotlin/comments/ntmw9b/can_i_get_some_reasons_to_use_kotlin_instead_of/)
+- [PrintLn vs Print?](https://www.reddit.com/r/Kotlin/comments/ntkhcj/println_vs_print/)
+- [Will clients / employers refuse to hire me if I code software using Kotlin?](https://www.reddit.com/r/Kotlin/comments/ntixz4/will_clients_employers_refuse_to_hire_me_if_i/)
+- [Any software to make windows apps with kotlin?](https://www.reddit.com/r/Kotlin/comments/nte2mv/any_software_to_make_windows_apps_with_kotlin/)
+- [Hello I am new here. I am learning Kotlin right now and I have no idea what is the difference between the version of JVM. What is the version JVM should I choose for Kotlin?](https://www.reddit.com/r/Kotlin/comments/ntc8gq/hello_i_am_new_here_i_am_learning_kotlin_right/)
 - [In-depth look at gRPC for Android](https://www.reddit.com/r/Kotlin/comments/nt2jr8/indepth_look_at_grpc_for_android/)
 - [Android CodeView: Highlight search result in List Items](https://www.reddit.com/r/Kotlin/comments/nswnr5/android_codeview_highlight_search_result_in_list/)
 - [Function returning Index out-of-bound exception.](https://www.reddit.com/r/Kotlin/comments/nsvj8b/function_returning_index_outofbound_exception/)
-- [Uncoiling the coil | Kotlin Mumbai Meetup](https://www.reddit.com/r/Kotlin/comments/nsv1oi/uncoiling_the_coil_kotlin_mumbai_meetup/)
-- [API Service built with Kotlin - Ktor, Kodein, JWT Auth, SQLDelight, PostgreSQL](https://www.reddit.com/r/Kotlin/comments/nsp8ts/api_service_built_with_kotlin_ktor_kodein_jwt/)
-- [I am a developer and created an open community for shorts ( 30 second read ) on programming. Feel free to use the Kotlin resources for experienced and newbies [ Details in first comment ]](https://www.reddit.com/r/Kotlin/comments/nsnwlw/i_am_a_developer_and_created_an_open_community/)
-- [Kotlin IDE Performance](https://www.reddit.com/r/Kotlin/comments/nsac4a/kotlin_ide_performance/)
-- [How do I set my drag and to go back to the original location once its done?](https://www.reddit.com/r/Kotlin/comments/ns7y40/how_do_i_set_my_drag_and_to_go_back_to_the/)
-- [how to change button color when OnClick is called](https://www.reddit.com/r/Kotlin/comments/ns6prw/how_to_change_button_color_when_onclick_is_called/)
-- [Server side kotlin using Ktor. An authentication example.](https://www.reddit.com/r/Kotlin/comments/ns1q52/server_side_kotlin_using_ktor_an_authentication/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
