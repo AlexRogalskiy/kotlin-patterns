@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to add a custom header to an HTTP Request?](https://www.reddit.com/r/Kotlin/comments/nuu7c2/how_to_add_a_custom_header_to_an_http_request/)
+- [hi all!](https://www.reddit.com/r/Kotlin/comments/nuo64n/hi_all/)
+- [Kotlin 1.5 Event Materials and the 10 Most Interesting Questions from the Q&A](https://www.reddit.com/r/Kotlin/comments/nujwqy/kotlin_15_event_materials_and_the_10_most/)
+- [KMP marketshare](https://www.reddit.com/r/Kotlin/comments/nuhd70/kmp_marketshare/)
+- [Talking Kotlin: Realm for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/nudzhf/talking_kotlin_realm_for_kotlin_multiplatform/)
+- [Custom DSL for use as config file](https://www.reddit.com/r/Kotlin/comments/nubhto/custom_dsl_for_use_as_config_file/)
+- [Effective Kotlin Item 40: Prefer class hierarchies to tagged classes](https://www.reddit.com/r/Kotlin/comments/nu6t5r/effective_kotlin_item_40_prefer_class_hierarchies/)
+- [[Kotlin/JS] Design Kotlin + ReactJS Web app with Material Designing components](https://www.reddit.com/r/Kotlin/comments/nu5otr/kotlinjs_design_kotlin_reactjs_web_app_with/)
+- [Quick testing tips #5: Use Mockito verify to assert interactions on mocks](https://www.reddit.com/r/Kotlin/comments/nu5hwi/quick_testing_tips_5_use_mockito_verify_to_assert/)
 - [Functional Interfaces (SAM) in Kotlin](https://www.reddit.com/r/Kotlin/comments/nu21q4/functional_interfaces_sam_in_kotlin/)
-- [Let your delegates auto-nullify references☠️](https://www.reddit.com/r/Kotlin/comments/nts80l/let_your_delegates_autonullify_references/)
-- [Can I get some reasons to use Kotlin instead of Java?](https://www.reddit.com/r/Kotlin/comments/ntmw9b/can_i_get_some_reasons_to_use_kotlin_instead_of/)
-- [PrintLn vs Print?](https://www.reddit.com/r/Kotlin/comments/ntkhcj/println_vs_print/)
-- [Will clients / employers refuse to hire me if I code software using Kotlin?](https://www.reddit.com/r/Kotlin/comments/ntixz4/will_clients_employers_refuse_to_hire_me_if_i/)
-- [Any software to make windows apps with kotlin?](https://www.reddit.com/r/Kotlin/comments/nte2mv/any_software_to_make_windows_apps_with_kotlin/)
-- [Hello I am new here. I am learning Kotlin right now and I have no idea what is the difference between the version of JVM. What is the version JVM should I choose for Kotlin?](https://www.reddit.com/r/Kotlin/comments/ntc8gq/hello_i_am_new_here_i_am_learning_kotlin_right/)
-- [In-depth look at gRPC for Android](https://www.reddit.com/r/Kotlin/comments/nt2jr8/indepth_look_at_grpc_for_android/)
-- [Android CodeView: Highlight search result in List Items](https://www.reddit.com/r/Kotlin/comments/nswnr5/android_codeview_highlight_search_result_in_list/)
-- [Function returning Index out-of-bound exception.](https://www.reddit.com/r/Kotlin/comments/nsvj8b/function_returning_index_outofbound_exception/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
