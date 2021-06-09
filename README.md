@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [HELP](https://www.reddit.com/r/Kotlin/comments/nvjxld/help/)
+- [State of Jetpack Compose for custom libraries?](https://www.reddit.com/r/Kotlin/comments/nvfaho/state_of_jetpack_compose_for_custom_libraries/)
+- [.addAll() Type Mismatch?](https://www.reddit.com/r/Kotlin/comments/nvdz4t/addall_type_mismatch/)
+- [Room or SharedPreferences or Services for timer 🤔🤔?](https://www.reddit.com/r/Kotlin/comments/nvb434/room_or_sharedpreferences_or_services_for_timer/)
+- [Kweb 0.10.0: Batching of DOM modifications to speed up web page rendering and eliminate flicker](https://www.reddit.com/r/Kotlin/comments/nv4rp9/kweb_0100_batching_of_dom_modifications_to_speed/)
+- [New Project: CLI to transform Excel spreadsheets to JSON (in Kotlin)](https://www.reddit.com/r/Kotlin/comments/nuvx8h/new_project_cli_to_transform_excel_spreadsheets/)
+- [how do the pros do it?](https://www.reddit.com/r/Kotlin/comments/nuva3h/how_do_the_pros_do_it/)
 - [How to add a custom header to an HTTP Request?](https://www.reddit.com/r/Kotlin/comments/nuu7c2/how_to_add_a_custom_header_to_an_http_request/)
 - [hi all!](https://www.reddit.com/r/Kotlin/comments/nuo64n/hi_all/)
 - [Kotlin 1.5 Event Materials and the 10 Most Interesting Questions from the Q&A](https://www.reddit.com/r/Kotlin/comments/nujwqy/kotlin_15_event_materials_and_the_10_most/)
-- [KMP marketshare](https://www.reddit.com/r/Kotlin/comments/nuhd70/kmp_marketshare/)
-- [Talking Kotlin: Realm for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/nudzhf/talking_kotlin_realm_for_kotlin_multiplatform/)
-- [Custom DSL for use as config file](https://www.reddit.com/r/Kotlin/comments/nubhto/custom_dsl_for_use_as_config_file/)
-- [Effective Kotlin Item 40: Prefer class hierarchies to tagged classes](https://www.reddit.com/r/Kotlin/comments/nu6t5r/effective_kotlin_item_40_prefer_class_hierarchies/)
-- [[Kotlin/JS] Design Kotlin + ReactJS Web app with Material Designing components](https://www.reddit.com/r/Kotlin/comments/nu5otr/kotlinjs_design_kotlin_reactjs_web_app_with/)
-- [Quick testing tips #5: Use Mockito verify to assert interactions on mocks](https://www.reddit.com/r/Kotlin/comments/nu5hwi/quick_testing_tips_5_use_mockito_verify_to_assert/)
-- [Functional Interfaces (SAM) in Kotlin](https://www.reddit.com/r/Kotlin/comments/nu21q4/functional_interfaces_sam_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
