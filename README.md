@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Simple Steps for Improving Your IDE Performance](https://www.reddit.com/r/Kotlin/comments/nw79m1/simple_steps_for_improving_your_ide_performance/)
+- [Kotlin Certifications: Do They Exist? How Much Do They Cost?](https://www.reddit.com/r/Kotlin/comments/nvx8ii/kotlin_certifications_do_they_exist_how_much_do/)
+- [The Programmers Guide To Kotlin](https://www.reddit.com/r/Kotlin/comments/nvva9i/the_programmers_guide_to_kotlin/)
+- [Jackson SOAP implementation over jackson-dataformat-xml](https://www.reddit.com/r/Kotlin/comments/nvpo70/jackson_soap_implementation_over/)
+- [API Help](https://www.reddit.com/r/Kotlin/comments/nvlc6m/api_help/)
 - [HELP](https://www.reddit.com/r/Kotlin/comments/nvjxld/help/)
 - [State of Jetpack Compose for custom libraries?](https://www.reddit.com/r/Kotlin/comments/nvfaho/state_of_jetpack_compose_for_custom_libraries/)
 - [.addAll() Type Mismatch?](https://www.reddit.com/r/Kotlin/comments/nvdz4t/addall_type_mismatch/)
 - [Room or SharedPreferences or Services for timer 🤔🤔?](https://www.reddit.com/r/Kotlin/comments/nvb434/room_or_sharedpreferences_or_services_for_timer/)
 - [Kweb 0.10.0: Batching of DOM modifications to speed up web page rendering and eliminate flicker](https://www.reddit.com/r/Kotlin/comments/nv4rp9/kweb_0100_batching_of_dom_modifications_to_speed/)
-- [New Project: CLI to transform Excel spreadsheets to JSON (in Kotlin)](https://www.reddit.com/r/Kotlin/comments/nuvx8h/new_project_cli_to_transform_excel_spreadsheets/)
-- [how do the pros do it?](https://www.reddit.com/r/Kotlin/comments/nuva3h/how_do_the_pros_do_it/)
-- [How to add a custom header to an HTTP Request?](https://www.reddit.com/r/Kotlin/comments/nuu7c2/how_to_add_a_custom_header_to_an_http_request/)
-- [hi all!](https://www.reddit.com/r/Kotlin/comments/nuo64n/hi_all/)
-- [Kotlin 1.5 Event Materials and the 10 Most Interesting Questions from the Q&A](https://www.reddit.com/r/Kotlin/comments/nujwqy/kotlin_15_event_materials_and_the_10_most/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
