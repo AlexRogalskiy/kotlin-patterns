@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What If There Was Kotlin IL For C# Like There's Kotlin JVM For Java?](https://www.reddit.com/r/Kotlin/comments/nx3fwr/what_if_there_was_kotlin_il_for_c_like_theres/)
+- [Any solutions for sending account confirmation emails?](https://www.reddit.com/r/Kotlin/comments/nwxubj/any_solutions_for_sending_account_confirmation/)
+- [How to use APIs of websites with Kotlin?](https://www.reddit.com/r/Kotlin/comments/nwq0e1/how_to_use_apis_of_websites_with_kotlin/)
+- [Create Your KMM Library](https://www.reddit.com/r/Kotlin/comments/nwnp96/create_your_kmm_library/)
+- [Need Help Editing a Query Based on User Input](https://www.reddit.com/r/Kotlin/comments/nwcl5p/need_help_editing_a_query_based_on_user_input/)
 - [Simple Steps for Improving Your IDE Performance](https://www.reddit.com/r/Kotlin/comments/nw79m1/simple_steps_for_improving_your_ide_performance/)
 - [Kotlin Certifications: Do They Exist? How Much Do They Cost?](https://www.reddit.com/r/Kotlin/comments/nvx8ii/kotlin_certifications_do_they_exist_how_much_do/)
 - [The Programmers Guide To Kotlin](https://www.reddit.com/r/Kotlin/comments/nvva9i/the_programmers_guide_to_kotlin/)
 - [Jackson SOAP implementation over jackson-dataformat-xml](https://www.reddit.com/r/Kotlin/comments/nvpo70/jackson_soap_implementation_over/)
 - [API Help](https://www.reddit.com/r/Kotlin/comments/nvlc6m/api_help/)
-- [HELP](https://www.reddit.com/r/Kotlin/comments/nvjxld/help/)
-- [State of Jetpack Compose for custom libraries?](https://www.reddit.com/r/Kotlin/comments/nvfaho/state_of_jetpack_compose_for_custom_libraries/)
-- [.addAll() Type Mismatch?](https://www.reddit.com/r/Kotlin/comments/nvdz4t/addall_type_mismatch/)
-- [Room or SharedPreferences or Services for timer 🤔🤔?](https://www.reddit.com/r/Kotlin/comments/nvb434/room_or_sharedpreferences_or_services_for_timer/)
-- [Kweb 0.10.0: Batching of DOM modifications to speed up web page rendering and eliminate flicker](https://www.reddit.com/r/Kotlin/comments/nv4rp9/kweb_0100_batching_of_dom_modifications_to_speed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
