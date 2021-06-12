@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is kotlin right for me?](https://www.reddit.com/r/Kotlin/comments/nxrxv1/is_kotlin_right_for_me/)
+- [how to fix no main manifest attribute, in Helloworld.jar?](https://www.reddit.com/r/Kotlin/comments/nxpktv/how_to_fix_no_main_manifest_attribute_in/)
+- [Jetpack Compose: An easy way to RecyclerView](https://www.reddit.com/r/Kotlin/comments/nxa4gw/jetpack_compose_an_easy_way_to_recyclerview/)
+- [There's a type mismatch in comparing two values, I can't figure how to overcome it.](https://www.reddit.com/r/Kotlin/comments/nx95jh/theres_a_type_mismatch_in_comparing_two_values_i/)
+- [Android Kotlin best practices](https://www.reddit.com/r/Kotlin/comments/nx673l/android_kotlin_best_practices/)
 - [What If There Was Kotlin IL For C# Like There's Kotlin JVM For Java?](https://www.reddit.com/r/Kotlin/comments/nx3fwr/what_if_there_was_kotlin_il_for_c_like_theres/)
 - [Any solutions for sending account confirmation emails?](https://www.reddit.com/r/Kotlin/comments/nwxubj/any_solutions_for_sending_account_confirmation/)
 - [How to use APIs of websites with Kotlin?](https://www.reddit.com/r/Kotlin/comments/nwq0e1/how_to_use_apis_of_websites_with_kotlin/)
 - [Create Your KMM Library](https://www.reddit.com/r/Kotlin/comments/nwnp96/create_your_kmm_library/)
 - [Need Help Editing a Query Based on User Input](https://www.reddit.com/r/Kotlin/comments/nwcl5p/need_help_editing_a_query_based_on_user_input/)
-- [Simple Steps for Improving Your IDE Performance](https://www.reddit.com/r/Kotlin/comments/nw79m1/simple_steps_for_improving_your_ide_performance/)
-- [Kotlin Certifications: Do They Exist? How Much Do They Cost?](https://www.reddit.com/r/Kotlin/comments/nvx8ii/kotlin_certifications_do_they_exist_how_much_do/)
-- [The Programmers Guide To Kotlin](https://www.reddit.com/r/Kotlin/comments/nvva9i/the_programmers_guide_to_kotlin/)
-- [Jackson SOAP implementation over jackson-dataformat-xml](https://www.reddit.com/r/Kotlin/comments/nvpo70/jackson_soap_implementation_over/)
-- [API Help](https://www.reddit.com/r/Kotlin/comments/nvlc6m/api_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
