@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🛫 Level up your collections skills! In this episode of Standard Library Safari by @sebi_io , you’ll learn about advanced collection functionality: ✅ Checking predicates 📊 Chunks & Windows 🥞 Flattening 🧪 Reducing & Folding ...and more! Check it out!](https://www.reddit.com/r/Kotlin/comments/nyg8v0/level_up_your_collections_skills_in_this_episode/)
+- [How can I debug Kotlin multiplatform applications?](https://www.reddit.com/r/Kotlin/comments/ny9xtg/how_can_i_debug_kotlin_multiplatform_applications/)
+- [Kotlin Tutorial #5 | High Level Functions](https://www.reddit.com/r/Kotlin/comments/ny5zam/kotlin_tutorial_5_high_level_functions/)
+- [Is TornadoFX stable/well-established to be used for production?](https://www.reddit.com/r/Kotlin/comments/ny4iop/is_tornadofx_stablewellestablished_to_be_used_for/)
+- [val x = object : SomeClass - what is this type of construction called?](https://www.reddit.com/r/Kotlin/comments/ny3sl0/val_x_object_someclass_what_is_this_type_of/)
+- [Kotlin Interfaces and Classes | Tutorial #4](https://www.reddit.com/r/Kotlin/comments/nxzi6n/kotlin_interfaces_and_classes_tutorial_4/)
 - [Is kotlin right for me?](https://www.reddit.com/r/Kotlin/comments/nxrxv1/is_kotlin_right_for_me/)
 - [how to fix no main manifest attribute, in Helloworld.jar?](https://www.reddit.com/r/Kotlin/comments/nxpktv/how_to_fix_no_main_manifest_attribute_in/)
 - [Jetpack Compose: An easy way to RecyclerView](https://www.reddit.com/r/Kotlin/comments/nxa4gw/jetpack_compose_an_easy_way_to_recyclerview/)
 - [There's a type mismatch in comparing two values, I can't figure how to overcome it.](https://www.reddit.com/r/Kotlin/comments/nx95jh/theres_a_type_mismatch_in_comparing_two_values_i/)
-- [Android Kotlin best practices](https://www.reddit.com/r/Kotlin/comments/nx673l/android_kotlin_best_practices/)
-- [What If There Was Kotlin IL For C# Like There's Kotlin JVM For Java?](https://www.reddit.com/r/Kotlin/comments/nx3fwr/what_if_there_was_kotlin_il_for_c_like_theres/)
-- [Any solutions for sending account confirmation emails?](https://www.reddit.com/r/Kotlin/comments/nwxubj/any_solutions_for_sending_account_confirmation/)
-- [How to use APIs of websites with Kotlin?](https://www.reddit.com/r/Kotlin/comments/nwq0e1/how_to_use_apis_of_websites_with_kotlin/)
-- [Create Your KMM Library](https://www.reddit.com/r/Kotlin/comments/nwnp96/create_your_kmm_library/)
-- [Need Help Editing a Query Based on User Input](https://www.reddit.com/r/Kotlin/comments/nwcl5p/need_help_editing_a_query_based_on_user_input/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
