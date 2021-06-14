@@ -249,6 +249,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Understanding Math Behind Fruit ninja and Alien Invader | Jetpack Compose Canvas API](https://www.reddit.com/r/Kotlin/comments/nysdgg/understanding_math_behind_fruit_ninja_and_alien/)
+- [Yes, you can build Chrome extension using Compose](https://www.reddit.com/r/Kotlin/comments/nys427/yes_you_can_build_chrome_extension_using_compose/)
 - [🛫 Level up your collections skills! In this episode of Standard Library Safari by @sebi_io , you’ll learn about advanced collection functionality: ✅ Checking predicates 📊 Chunks & Windows 🥞 Flattening 🧪 Reducing & Folding ...and more! Check it out!](https://www.reddit.com/r/Kotlin/comments/nyg8v0/level_up_your_collections_skills_in_this_episode/)
 - [How can I debug Kotlin multiplatform applications?](https://www.reddit.com/r/Kotlin/comments/ny9xtg/how_can_i_debug_kotlin_multiplatform_applications/)
 - [Kotlin Tutorial #5 | High Level Functions](https://www.reddit.com/r/Kotlin/comments/ny5zam/kotlin_tutorial_5_high_level_functions/)
@@ -257,8 +259,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Interfaces and Classes | Tutorial #4](https://www.reddit.com/r/Kotlin/comments/nxzi6n/kotlin_interfaces_and_classes_tutorial_4/)
 - [Is kotlin right for me?](https://www.reddit.com/r/Kotlin/comments/nxrxv1/is_kotlin_right_for_me/)
 - [how to fix no main manifest attribute, in Helloworld.jar?](https://www.reddit.com/r/Kotlin/comments/nxpktv/how_to_fix_no_main_manifest_attribute_in/)
-- [Jetpack Compose: An easy way to RecyclerView](https://www.reddit.com/r/Kotlin/comments/nxa4gw/jetpack_compose_an_easy_way_to_recyclerview/)
-- [There's a type mismatch in comparing two values, I can't figure how to overcome it.](https://www.reddit.com/r/Kotlin/comments/nx95jh/theres_a_type_mismatch_in_comparing_two_values_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
