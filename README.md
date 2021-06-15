@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Slate Kit: App - Args, Envs, Confs, Help, Life-Cycle](https://www.reddit.com/r/Kotlin/comments/nzyqo0/slate_kit_app_args_envs_confs_help_lifecycle/)
+- [How can I access the Kotlin Result type from Swift in a KMM project?](https://www.reddit.com/r/Kotlin/comments/nzusax/how_can_i_access_the_kotlin_result_type_from/)
+- [How to Use Result Data Type](https://www.reddit.com/r/Kotlin/comments/nzu3m1/how_to_use_result_data_type/)
+- [Compose: Showing Images From a URL](https://www.reddit.com/r/Kotlin/comments/nznjx7/compose_showing_images_from_a_url/)
+- [Effective Kotlin Item 41: Use enum to represent a list of values](https://www.reddit.com/r/Kotlin/comments/nzh82p/effective_kotlin_item_41_use_enum_to_represent_a/)
 - [Understanding Math Behind Fruit ninja and Alien Invader | Jetpack Compose Canvas API](https://www.reddit.com/r/Kotlin/comments/nysdgg/understanding_math_behind_fruit_ninja_and_alien/)
 - [Yes, you can build Chrome extension using Compose](https://www.reddit.com/r/Kotlin/comments/nys427/yes_you_can_build_chrome_extension_using_compose/)
 - [🛫 Level up your collections skills! In this episode of Standard Library Safari by @sebi_io , you’ll learn about advanced collection functionality: ✅ Checking predicates 📊 Chunks & Windows 🥞 Flattening 🧪 Reducing & Folding ...and more! Check it out!](https://www.reddit.com/r/Kotlin/comments/nyg8v0/level_up_your_collections_skills_in_this_episode/)
 - [How can I debug Kotlin multiplatform applications?](https://www.reddit.com/r/Kotlin/comments/ny9xtg/how_can_i_debug_kotlin_multiplatform_applications/)
 - [Kotlin Tutorial #5 | High Level Functions](https://www.reddit.com/r/Kotlin/comments/ny5zam/kotlin_tutorial_5_high_level_functions/)
-- [Is TornadoFX stable/well-established to be used for production?](https://www.reddit.com/r/Kotlin/comments/ny4iop/is_tornadofx_stablewellestablished_to_be_used_for/)
-- [val x = object : SomeClass - what is this type of construction called?](https://www.reddit.com/r/Kotlin/comments/ny3sl0/val_x_object_someclass_what_is_this_type_of/)
-- [Kotlin Interfaces and Classes | Tutorial #4](https://www.reddit.com/r/Kotlin/comments/nxzi6n/kotlin_interfaces_and_classes_tutorial_4/)
-- [Is kotlin right for me?](https://www.reddit.com/r/Kotlin/comments/nxrxv1/is_kotlin_right_for_me/)
-- [how to fix no main manifest attribute, in Helloworld.jar?](https://www.reddit.com/r/Kotlin/comments/nxpktv/how_to_fix_no_main_manifest_attribute_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
