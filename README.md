@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Slate Kit: App - Args, Envs, Confs, Help, Life-Cycle](https://www.reddit.com/r/Kotlin/comments/nzyqo0/slate_kit_app_args_envs_confs_help_lifecycle/)
-- [How can I access the Kotlin Result type from Swift in a KMM project?](https://www.reddit.com/r/Kotlin/comments/nzusax/how_can_i_access_the_kotlin_result_type_from/)
-- [How to Use Result Data Type](https://www.reddit.com/r/Kotlin/comments/nzu3m1/how_to_use_result_data_type/)
-- [Compose: Showing Images From a URL](https://www.reddit.com/r/Kotlin/comments/nznjx7/compose_showing_images_from_a_url/)
-- [Effective Kotlin Item 41: Use enum to represent a list of values](https://www.reddit.com/r/Kotlin/comments/nzh82p/effective_kotlin_item_41_use_enum_to_represent_a/)
-- [Understanding Math Behind Fruit ninja and Alien Invader | Jetpack Compose Canvas API](https://www.reddit.com/r/Kotlin/comments/nysdgg/understanding_math_behind_fruit_ninja_and_alien/)
-- [Yes, you can build Chrome extension using Compose](https://www.reddit.com/r/Kotlin/comments/nys427/yes_you_can_build_chrome_extension_using_compose/)
-- [🛫 Level up your collections skills! In this episode of Standard Library Safari by @sebi_io , you’ll learn about advanced collection functionality: ✅ Checking predicates 📊 Chunks & Windows 🥞 Flattening 🧪 Reducing & Folding ...and more! Check it out!](https://www.reddit.com/r/Kotlin/comments/nyg8v0/level_up_your_collections_skills_in_this_episode/)
-- [How can I debug Kotlin multiplatform applications?](https://www.reddit.com/r/Kotlin/comments/ny9xtg/how_can_i_debug_kotlin_multiplatform_applications/)
-- [Kotlin Tutorial #5 | High Level Functions](https://www.reddit.com/r/Kotlin/comments/ny5zam/kotlin_tutorial_5_high_level_functions/)
+- [Declaritive ui toolkit for server side rendering for kotlin?](https://www.reddit.com/r/Kotlin/comments/o0sw7b/declaritive_ui_toolkit_for_server_side_rendering/)
+- [Question about Java/Kotlin compatibility](https://www.reddit.com/r/Kotlin/comments/o0q1kk/question_about_javakotlin_compatibility/)
+- [Can make a linux application with kotlin?](https://www.reddit.com/r/Kotlin/comments/o0pfuq/can_make_a_linux_application_with_kotlin/)
+- [CompleteKotlin: Develop native apps against any target, on any host OS (e.g. iOS code on Linux)](https://www.reddit.com/r/Kotlin/comments/o0mwpi/completekotlin_develop_native_apps_against_any/)
+- [I built a game using Compose Web and radio buttons](https://www.reddit.com/r/Kotlin/comments/o0mtzi/i_built_a_game_using_compose_web_and_radio_buttons/)
+- [Kotlin Tutorial #6 | Filtering & Sorting Data In 15 Mins](https://www.reddit.com/r/Kotlin/comments/o0jg7u/kotlin_tutorial_6_filtering_sorting_data_in_15/)
+- [Answering the Top 10 Questions About Kotlin’s Future](https://www.reddit.com/r/Kotlin/comments/o0gswv/answering_the_top_10_questions_about_kotlins/)
+- [Should Kotlin be your go-to language? Garth Gilmour & Eamonn Boyle at GOTO Copenhagen 2019](https://www.reddit.com/r/Kotlin/comments/o0d5t5/should_kotlin_be_your_goto_language_garth_gilmour/)
+- [Select image from gallery and save it in room database](https://www.reddit.com/r/Kotlin/comments/o0c4ji/select_image_from_gallery_and_save_it_in_room/)
+- [Interfaces in kotlin](https://www.reddit.com/r/Kotlin/comments/o09q32/interfaces_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
