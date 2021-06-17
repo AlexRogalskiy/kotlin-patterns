@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for an extra par of eyes that can help me solve this.](https://www.reddit.com/r/Kotlin/comments/o1ibap/looking_for_an_extra_par_of_eyes_that_can_help_me/)
+- [Please Help me find the problem with chaining these together!](https://www.reddit.com/r/Kotlin/comments/o1femv/please_help_me_find_the_problem_with_chaining/)
+- [Native, KMM or Flutter for Android dev amateur?](https://www.reddit.com/r/Kotlin/comments/o19rxm/native_kmm_or_flutter_for_android_dev_amateur/)
+- [Error in Code](https://www.reddit.com/r/Kotlin/comments/o199bu/error_in_code/)
+- [JetBrains Server-side Kotlin Webinars: http4k: Server as a Function](https://www.reddit.com/r/Kotlin/comments/o0yywg/jetbrains_serverside_kotlin_webinars_http4k/)
 - [Declaritive ui toolkit for server side rendering for kotlin?](https://www.reddit.com/r/Kotlin/comments/o0sw7b/declaritive_ui_toolkit_for_server_side_rendering/)
 - [Question about Java/Kotlin compatibility](https://www.reddit.com/r/Kotlin/comments/o0q1kk/question_about_javakotlin_compatibility/)
 - [Can make a linux application with kotlin?](https://www.reddit.com/r/Kotlin/comments/o0pfuq/can_make_a_linux_application_with_kotlin/)
 - [CompleteKotlin: Develop native apps against any target, on any host OS (e.g. iOS code on Linux)](https://www.reddit.com/r/Kotlin/comments/o0mwpi/completekotlin_develop_native_apps_against_any/)
 - [I built a game using Compose Web and radio buttons](https://www.reddit.com/r/Kotlin/comments/o0mtzi/i_built_a_game_using_compose_web_and_radio_buttons/)
-- [Kotlin Tutorial #6 | Filtering & Sorting Data In 15 Mins](https://www.reddit.com/r/Kotlin/comments/o0jg7u/kotlin_tutorial_6_filtering_sorting_data_in_15/)
-- [Answering the Top 10 Questions About Kotlin’s Future](https://www.reddit.com/r/Kotlin/comments/o0gswv/answering_the_top_10_questions_about_kotlins/)
-- [Should Kotlin be your go-to language? Garth Gilmour & Eamonn Boyle at GOTO Copenhagen 2019](https://www.reddit.com/r/Kotlin/comments/o0d5t5/should_kotlin_be_your_goto_language_garth_gilmour/)
-- [Select image from gallery and save it in room database](https://www.reddit.com/r/Kotlin/comments/o0c4ji/select_image_from_gallery_and_save_it_in_room/)
-- [Interfaces in kotlin](https://www.reddit.com/r/Kotlin/comments/o09q32/interfaces_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
