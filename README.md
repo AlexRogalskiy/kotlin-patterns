@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest](https://www.reddit.com/r/Kotlin/comments/o28gux/calling_all_kotlin_programmers_take_part_in/)
+- [JVM Ecosystem Report 2021](https://www.reddit.com/r/Kotlin/comments/o21f2h/jvm_ecosystem_report_2021/)
+- [Context Receivers Proposal](https://www.reddit.com/r/Kotlin/comments/o2099p/context_receivers_proposal/)
+- [Where is the sizeof?](https://www.reddit.com/r/Kotlin/comments/o1xy6v/where_is_the_sizeof/)
+- [How to publish a Kotlin module to local maven repo](https://www.reddit.com/r/Kotlin/comments/o1rkce/how_to_publish_a_kotlin_module_to_local_maven_repo/)
+- [How to create windows floating over other apps on Android?](https://www.reddit.com/r/Kotlin/comments/o1qyyz/how_to_create_windows_floating_over_other_apps_on/)
+- [What did really help you learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/o1plsu/what_did_really_help_you_learn_kotlin/)
 - [Looking for an extra par of eyes that can help me solve this.](https://www.reddit.com/r/Kotlin/comments/o1ibap/looking_for_an_extra_par_of_eyes_that_can_help_me/)
 - [Please Help me find the problem with chaining these together!](https://www.reddit.com/r/Kotlin/comments/o1femv/please_help_me_find_the_problem_with_chaining/)
 - [Native, KMM or Flutter for Android dev amateur?](https://www.reddit.com/r/Kotlin/comments/o19rxm/native_kmm_or_flutter_for_android_dev_amateur/)
-- [Error in Code](https://www.reddit.com/r/Kotlin/comments/o199bu/error_in_code/)
-- [JetBrains Server-side Kotlin Webinars: http4k: Server as a Function](https://www.reddit.com/r/Kotlin/comments/o0yywg/jetbrains_serverside_kotlin_webinars_http4k/)
-- [Declaritive ui toolkit for server side rendering for kotlin?](https://www.reddit.com/r/Kotlin/comments/o0sw7b/declaritive_ui_toolkit_for_server_side_rendering/)
-- [Question about Java/Kotlin compatibility](https://www.reddit.com/r/Kotlin/comments/o0q1kk/question_about_javakotlin_compatibility/)
-- [Can make a linux application with kotlin?](https://www.reddit.com/r/Kotlin/comments/o0pfuq/can_make_a_linux_application_with_kotlin/)
-- [CompleteKotlin: Develop native apps against any target, on any host OS (e.g. iOS code on Linux)](https://www.reddit.com/r/Kotlin/comments/o0mwpi/completekotlin_develop_native_apps_against_any/)
-- [I built a game using Compose Web and radio buttons](https://www.reddit.com/r/Kotlin/comments/o0mtzi/i_built_a_game_using_compose_web_and_radio_buttons/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
