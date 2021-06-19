@@ -249,6 +249,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Special for developers interested in the field of Android](https://www.reddit.com/r/Kotlin/comments/o2zofe/special_for_developers_interested_in_the_field_of/)
+- [It is possible to mix Java Future with Kotlin for async?](https://www.reddit.com/r/Kotlin/comments/o2l70x/it_is_possible_to_mix_java_future_with_kotlin_for/)
+- [How to build a GraphQL Gateway with Spring Boot and Kotlin](https://www.reddit.com/r/Kotlin/comments/o2jnwi/how_to_build_a_graphql_gateway_with_spring_boot/)
 - [Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest](https://www.reddit.com/r/Kotlin/comments/o28gux/calling_all_kotlin_programmers_take_part_in/)
 - [JVM Ecosystem Report 2021](https://www.reddit.com/r/Kotlin/comments/o21f2h/jvm_ecosystem_report_2021/)
 - [Context Receivers Proposal](https://www.reddit.com/r/Kotlin/comments/o2099p/context_receivers_proposal/)
@@ -256,9 +259,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to publish a Kotlin module to local maven repo](https://www.reddit.com/r/Kotlin/comments/o1rkce/how_to_publish_a_kotlin_module_to_local_maven_repo/)
 - [How to create windows floating over other apps on Android?](https://www.reddit.com/r/Kotlin/comments/o1qyyz/how_to_create_windows_floating_over_other_apps_on/)
 - [What did really help you learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/o1plsu/what_did_really_help_you_learn_kotlin/)
-- [Looking for an extra par of eyes that can help me solve this.](https://www.reddit.com/r/Kotlin/comments/o1ibap/looking_for_an_extra_par_of_eyes_that_can_help_me/)
-- [Please Help me find the problem with chaining these together!](https://www.reddit.com/r/Kotlin/comments/o1femv/please_help_me_find_the_problem_with_chaining/)
-- [Native, KMM or Flutter for Android dev amateur?](https://www.reddit.com/r/Kotlin/comments/o19rxm/native_kmm_or_flutter_for_android_dev_amateur/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
