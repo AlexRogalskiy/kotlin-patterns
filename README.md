@@ -249,6 +249,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built this JetQuotes Desktop Client using Compose for Desktop UI Toolkit](https://www.reddit.com/r/Kotlin/comments/o43hba/i_built_this_jetquotes_desktop_client_using/)
 - [Flocking Boids 🐜 in Jetpack Compose Canvas 🚀| Flocking Algorithm [Cohesion, Alignment and Separation]](https://www.reddit.com/r/Kotlin/comments/o3t8wk/flocking_boids_in_jetpack_compose_canvas_flocking/)
 - [Where can I learn advanced Kotlin from?](https://www.reddit.com/r/Kotlin/comments/o3oxvo/where_can_i_learn_advanced_kotlin_from/)
 - [What’s new in KMM? 🤔 Find out from the comfort of your couch! 🤩 In this video, Kate will give you an overview of the most interesting KMM ecosystem highlights since the technology went Alpha in August of 2020. 🚀](https://www.reddit.com/r/Kotlin/comments/o3lfkz/whats_new_in_kmm_find_out_from_the_comfort_of/)
@@ -258,7 +259,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [It is possible to mix Java Future with Kotlin for async?](https://www.reddit.com/r/Kotlin/comments/o2l70x/it_is_possible_to_mix_java_future_with_kotlin_for/)
 - [How to build a GraphQL Gateway with Spring Boot and Kotlin](https://www.reddit.com/r/Kotlin/comments/o2jnwi/how_to_build_a_graphql_gateway_with_spring_boot/)
 - [Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest](https://www.reddit.com/r/Kotlin/comments/o28gux/calling_all_kotlin_programmers_take_part_in/)
-- [JVM Ecosystem Report 2021](https://www.reddit.com/r/Kotlin/comments/o21f2h/jvm_ecosystem_report_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
