@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built this JetQuotes Desktop Client using Compose for Desktop UI Toolkit](https://www.reddit.com/r/Kotlin/comments/o43hba/i_built_this_jetquotes_desktop_client_using/)
-- [Flocking Boids 🐜 in Jetpack Compose Canvas 🚀| Flocking Algorithm [Cohesion, Alignment and Separation]](https://www.reddit.com/r/Kotlin/comments/o3t8wk/flocking_boids_in_jetpack_compose_canvas_flocking/)
-- [Where can I learn advanced Kotlin from?](https://www.reddit.com/r/Kotlin/comments/o3oxvo/where_can_i_learn_advanced_kotlin_from/)
-- [What’s new in KMM? 🤔 Find out from the comfort of your couch! 🤩 In this video, Kate will give you an overview of the most interesting KMM ecosystem highlights since the technology went Alpha in August of 2020. 🚀](https://www.reddit.com/r/Kotlin/comments/o3lfkz/whats_new_in_kmm_find_out_from_the_comfort_of/)
-- [array](https://www.reddit.com/r/Kotlin/comments/o3jvwf/array/)
-- [Kotlin Flow a much better version of Sequence?](https://www.reddit.com/r/Kotlin/comments/o3axmh/kotlin_flow_a_much_better_version_of_sequence/)
-- [Special for developers interested in the field of Android](https://www.reddit.com/r/Kotlin/comments/o2zofe/special_for_developers_interested_in_the_field_of/)
-- [It is possible to mix Java Future with Kotlin for async?](https://www.reddit.com/r/Kotlin/comments/o2l70x/it_is_possible_to_mix_java_future_with_kotlin_for/)
-- [How to build a GraphQL Gateway with Spring Boot and Kotlin](https://www.reddit.com/r/Kotlin/comments/o2jnwi/how_to_build_a_graphql_gateway_with_spring_boot/)
-- [Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest](https://www.reddit.com/r/Kotlin/comments/o28gux/calling_all_kotlin_programmers_take_part_in/)
+- [Are there any good tutorials showing the use of Reactor streams using Kotlin?](https://www.reddit.com/r/Kotlin/comments/o5asdg/are_there_any_good_tutorials_showing_the_use_of/)
+- [Join the Kotlin Krew this Thursday at 7:30pm PST for a chat on Multiplatform Mobile in Production Projects!](https://www.reddit.com/r/Kotlin/comments/o59y9c/join_the_kotlin_krew_this_thursday_at_730pm_pst/)
+- [Will `Jetpack Compose for Web` replaces `kotlin-react`?](https://www.reddit.com/r/Kotlin/comments/o543b2/will_jetpack_compose_for_web_replaces_kotlinreact/)
+- [How to import my main app classes into my library module?](https://www.reddit.com/r/Kotlin/comments/o50ao0/how_to_import_my_main_app_classes_into_my_library/)
+- [Save the date for the first KMM webinar on the Kotlin YouTube channel! Together with Kevin Galligan from Touhlab we’ll walk through top 10 questions developers want to know about KMM! June 29th 4:30 - 5:30 p.m (UTC)](https://www.reddit.com/r/Kotlin/comments/o4zw4v/save_the_date_for_the_first_kmm_webinar_on_the/)
+- [Ktor WebSockets on Heroku - often receiving OutOfMemoryError](https://www.reddit.com/r/Kotlin/comments/o4umhx/ktor_websockets_on_heroku_often_receiving/)
+- [Tentatively making Warden (ABAC for Kotlin) public](https://www.reddit.com/r/Kotlin/comments/o4qcyh/tentatively_making_warden_abac_for_kotlin_public/)
+- [[Kotlin]Part 2 - To find the 360-degree view of images using Huawei Panorama Kit in Android](https://www.reddit.com/r/Kotlin/comments/o4pkpm/kotlinpart_2_to_find_the_360degree_view_of_images/)
+- [Effective Kotlin Item 42: Respect the contract of equals](https://www.reddit.com/r/Kotlin/comments/o4pepj/effective_kotlin_item_42_respect_the_contract_of/)
+- [Did you already use Kotlin+coroutines for scripting? If so, you should take a look at kotlin-process to easily call external processes!](https://www.reddit.com/r/Kotlin/comments/o4ov5l/did_you_already_use_kotlincoroutines_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
