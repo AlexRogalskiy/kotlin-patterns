@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+
+permalink: pretty
+
+baseurl: https://github.com/AlexRogalskiy/android-patterns
+title: Kotlin Design Patterns
+description:
+  Explores different architectural concepts and design principles for Kotlin
+  applications
+
+author: Alexander Rogalskiy
+
+docs: https://github.com/AlexRogalskiy/kotlin-patterns/wiki
+blog: https://alexrogalskiy.github.io/
