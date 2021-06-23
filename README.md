@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Getting started with Ktor — Part I: The Basics.](https://www.reddit.com/r/Kotlin/comments/o613m3/getting_started_with_ktor_part_i_the_basics/)
+- [What's the difference between MoShi (Reflect) and MoShi (Codegen) and which one is better?](https://www.reddit.com/r/Kotlin/comments/o5znwi/whats_the_difference_between_moshi_reflect_and/)
+- [Thoughts on a Google Kotlin Certification](https://www.reddit.com/r/Kotlin/comments/o5xleu/thoughts_on_a_google_kotlin_certification/)
+- [What's the best JSON to Moshi converter?](https://www.reddit.com/r/Kotlin/comments/o5ovbq/whats_the_best_json_to_moshi_converter/)
+- [Jetpack is not open source!?](https://www.reddit.com/r/Kotlin/comments/o5hh3u/jetpack_is_not_open_source/)
+- [Can the golang and kotlin be used together in an android app for different purposes?](https://www.reddit.com/r/Kotlin/comments/o5h4vm/can_the_golang_and_kotlin_be_used_together_in_an/)
+- [A simple Kotlin Exponential Backoff library designed for kotlinx.coroutines.](https://www.reddit.com/r/Kotlin/comments/o5feo2/a_simple_kotlin_exponential_backoff_library/)
 - [Are there any good tutorials showing the use of Reactor streams using Kotlin?](https://www.reddit.com/r/Kotlin/comments/o5asdg/are_there_any_good_tutorials_showing_the_use_of/)
 - [Join the Kotlin Krew this Thursday at 7:30pm PST for a chat on Multiplatform Mobile in Production Projects!](https://www.reddit.com/r/Kotlin/comments/o59y9c/join_the_kotlin_krew_this_thursday_at_730pm_pst/)
 - [Will `Jetpack Compose for Web` replaces `kotlin-react`?](https://www.reddit.com/r/Kotlin/comments/o543b2/will_jetpack_compose_for_web_replaces_kotlinreact/)
-- [How to import my main app classes into my library module?](https://www.reddit.com/r/Kotlin/comments/o50ao0/how_to_import_my_main_app_classes_into_my_library/)
-- [Save the date for the first KMM webinar on the Kotlin YouTube channel! Together with Kevin Galligan from Touhlab we’ll walk through top 10 questions developers want to know about KMM! June 29th 4:30 - 5:30 p.m (UTC)](https://www.reddit.com/r/Kotlin/comments/o4zw4v/save_the_date_for_the_first_kmm_webinar_on_the/)
-- [Ktor WebSockets on Heroku - often receiving OutOfMemoryError](https://www.reddit.com/r/Kotlin/comments/o4umhx/ktor_websockets_on_heroku_often_receiving/)
-- [Tentatively making Warden (ABAC for Kotlin) public](https://www.reddit.com/r/Kotlin/comments/o4qcyh/tentatively_making_warden_abac_for_kotlin_public/)
-- [[Kotlin]Part 2 - To find the 360-degree view of images using Huawei Panorama Kit in Android](https://www.reddit.com/r/Kotlin/comments/o4pkpm/kotlinpart_2_to_find_the_360degree_view_of_images/)
-- [Effective Kotlin Item 42: Respect the contract of equals](https://www.reddit.com/r/Kotlin/comments/o4pepj/effective_kotlin_item_42_respect_the_contract_of/)
-- [Did you already use Kotlin+coroutines for scripting? If so, you should take a look at kotlin-process to easily call external processes!](https://www.reddit.com/r/Kotlin/comments/o4ov5l/did_you_already_use_kotlincoroutines_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
