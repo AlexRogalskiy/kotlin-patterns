@@ -43,27 +43,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Kotlin Design Patterns](#kotlin-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>RedHat lang posts</em>](#redhat-lang-posts)
-         * [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
-         * [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
-         * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
-         * [<em>Karumi posts</em>](#karumi-posts)
-         * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
+- [Kotlin Design Patterns](#kotlin-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>RedHat lang posts</em>](#redhat-lang-posts)
+    - [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
+    - [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
+    - [<em>Super Kotlin posts</em>](#super-kotlin-posts)
+    - [<em>Karumi posts</em>](#karumi-posts)
+    - [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -249,6 +251,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [Getting started with Ktor — Part I: The Basics.](https://www.reddit.com/r/Kotlin/comments/o613m3/getting_started_with_ktor_part_i_the_basics/)
 - [What's the difference between MoShi (Reflect) and MoShi (Codegen) and which one is better?](https://www.reddit.com/r/Kotlin/comments/o5znwi/whats_the_difference_between_moshi_reflect_and/)
 - [Thoughts on a Google Kotlin Certification](https://www.reddit.com/r/Kotlin/comments/o5xleu/thoughts_on_a_google_kotlin_certification/)
@@ -257,8 +260,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Can the golang and kotlin be used together in an android app for different purposes?](https://www.reddit.com/r/Kotlin/comments/o5h4vm/can_the_golang_and_kotlin_be_used_together_in_an/)
 - [A simple Kotlin Exponential Backoff library designed for kotlinx.coroutines.](https://www.reddit.com/r/Kotlin/comments/o5feo2/a_simple_kotlin_exponential_backoff_library/)
 - [Are there any good tutorials showing the use of Reactor streams using Kotlin?](https://www.reddit.com/r/Kotlin/comments/o5asdg/are_there_any_good_tutorials_showing_the_use_of/)
-- [Join the Kotlin Krew this Thursday at 7:30pm PST for a chat on Multiplatform Mobile in Production Projects!](https://www.reddit.com/r/Kotlin/comments/o59y9c/join_the_kotlin_krew_this_thursday_at_730pm_pst/)
+- [Join the Kotlin Krew this Thursday at 7:30pm PST for a chat on Multiplatform Mobile in Production Projects!](https://www.reddit.com/r/Kotlin/comments/o59y9c/join_the_kotlin_krew_this_thursday_at\_730pm_pst/)
 - [Will `Jetpack Compose for Web` replaces `kotlin-react`?](https://www.reddit.com/r/Kotlin/comments/o543b2/will_jetpack_compose_for_web_replaces_kotlinreact/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
