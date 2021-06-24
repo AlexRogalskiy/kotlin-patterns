@@ -249,18 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [Compose Snake: Sharing my first desktop application in Kotlin using Kotlin Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/o6fi77/compose_snake_sharing_my_first_desktop/)
+- [How to repeat an ouput repeated time using for loop in kotlin](https://www.reddit.com/r/Kotlin/comments/o6f9jf/how_to_repeat_an_ouput_repeated_time_using_for/)
+- [IDE Error](https://www.reddit.com/r/Kotlin/comments/o6dx9y/ide_error/)
+- [Kotlin Multiplatform Mobile for AppCode](https://www.reddit.com/r/Kotlin/comments/o6dckb/kotlin_multiplatform_mobile_for_appcode/)
+- [Unit 5: Data persistence added to Google Codelabs](https://www.reddit.com/r/Kotlin/comments/o69j35/unit_5_data_persistence_added_to_google_codelabs/)
+- [How to add a varible to a textview.](https://www.reddit.com/r/Kotlin/comments/o64u45/how_to_add_a_varible_to_a_textview/)
 - [Getting started with Ktor — Part I: The Basics.](https://www.reddit.com/r/Kotlin/comments/o613m3/getting_started_with_ktor_part_i_the_basics/)
 - [What's the difference between MoShi (Reflect) and MoShi (Codegen) and which one is better?](https://www.reddit.com/r/Kotlin/comments/o5znwi/whats_the_difference_between_moshi_reflect_and/)
 - [Thoughts on a Google Kotlin Certification](https://www.reddit.com/r/Kotlin/comments/o5xleu/thoughts_on_a_google_kotlin_certification/)
 - [What's the best JSON to Moshi converter?](https://www.reddit.com/r/Kotlin/comments/o5ovbq/whats_the_best_json_to_moshi_converter/)
-- [Jetpack is not open source!?](https://www.reddit.com/r/Kotlin/comments/o5hh3u/jetpack_is_not_open_source/)
-- [Can the golang and kotlin be used together in an android app for different purposes?](https://www.reddit.com/r/Kotlin/comments/o5h4vm/can_the_golang_and_kotlin_be_used_together_in_an/)
-- [A simple Kotlin Exponential Backoff library designed for kotlinx.coroutines.](https://www.reddit.com/r/Kotlin/comments/o5feo2/a_simple_kotlin_exponential_backoff_library/)
-- [Are there any good tutorials showing the use of Reactor streams using Kotlin?](https://www.reddit.com/r/Kotlin/comments/o5asdg/are_there_any_good_tutorials_showing_the_use_of/)
-- [Join the Kotlin Krew this Thursday at 7:30pm PST for a chat on Multiplatform Mobile in Production Projects!](https://www.reddit.com/r/Kotlin/comments/o59y9c/join_the_kotlin_krew_this_thursday_at\_730pm_pst/)
-- [Will `Jetpack Compose for Web` replaces `kotlin-react`?](https://www.reddit.com/r/Kotlin/comments/o543b2/will_jetpack_compose_for_web_replaces_kotlinreact/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
