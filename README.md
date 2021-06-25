@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beginner Question Regarding Constraints](https://www.reddit.com/r/Kotlin/comments/o7b2nq/beginner_question_regarding_constraints/)
+- [How to read Kotlin multiplatform projects?](https://www.reddit.com/r/Kotlin/comments/o7b0is/how_to_read_kotlin_multiplatform_projects/)
+- [Not enough youtube and twitch channels covering kotlin](https://www.reddit.com/r/Kotlin/comments/o7auo7/not_enough_youtube_and_twitch_channels_covering/)
+- [finnmath: Mathematical library for the JVM and Android written in Kotlin](https://www.reddit.com/r/Kotlin/comments/o76gwl/finnmath_mathematical_library_for_the_jvm_and/)
+- [Kotlin 1.5.20 Released](https://www.reddit.com/r/Kotlin/comments/o73lze/kotlin_1520_released/)
+- [Is Kotlin/JS production ready in 2021?](https://www.reddit.com/r/Kotlin/comments/o6rsy1/is_kotlinjs_production_ready_in_2021/)
 - [Compose Snake: Sharing my first desktop application in Kotlin using Kotlin Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/o6fi77/compose_snake_sharing_my_first_desktop/)
 - [How to repeat an ouput repeated time using for loop in kotlin](https://www.reddit.com/r/Kotlin/comments/o6f9jf/how_to_repeat_an_ouput_repeated_time_using_for/)
 - [IDE Error](https://www.reddit.com/r/Kotlin/comments/o6dx9y/ide_error/)
 - [Kotlin Multiplatform Mobile for AppCode](https://www.reddit.com/r/Kotlin/comments/o6dckb/kotlin_multiplatform_mobile_for_appcode/)
-- [Unit 5: Data persistence added to Google Codelabs](https://www.reddit.com/r/Kotlin/comments/o69j35/unit_5_data_persistence_added_to_google_codelabs/)
-- [How to add a varible to a textview.](https://www.reddit.com/r/Kotlin/comments/o64u45/how_to_add_a_varible_to_a_textview/)
-- [Getting started with Ktor — Part I: The Basics.](https://www.reddit.com/r/Kotlin/comments/o613m3/getting_started_with_ktor_part_i_the_basics/)
-- [What's the difference between MoShi (Reflect) and MoShi (Codegen) and which one is better?](https://www.reddit.com/r/Kotlin/comments/o5znwi/whats_the_difference_between_moshi_reflect_and/)
-- [Thoughts on a Google Kotlin Certification](https://www.reddit.com/r/Kotlin/comments/o5xleu/thoughts_on_a_google_kotlin_certification/)
-- [What's the best JSON to Moshi converter?](https://www.reddit.com/r/Kotlin/comments/o5ovbq/whats_the_best_json_to_moshi_converter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
