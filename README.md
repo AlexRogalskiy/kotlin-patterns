@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is a good immutable collections library?](https://www.reddit.com/r/Kotlin/comments/o7stbk/what_is_a_good_immutable_collections_library/)
+- [Constructor properties vs abstract fields](https://www.reddit.com/r/Kotlin/comments/o7q9fc/constructor_properties_vs_abstract_fields/)
+- [Deploy a Dockerized Spring Boot App to AWS, Azure, Google Cloud](https://www.reddit.com/r/Kotlin/comments/o7pvfd/deploy_a_dockerized_spring_boot_app_to_aws_azure/)
+- [Help me understand this Kotlin syntax "(context: Context) : NavController(context) { ... }"](https://www.reddit.com/r/Kotlin/comments/o7ongy/help_me_understand_this_kotlin_syntax_context/)
+- [🛠 Reactive Streams with Kotlin, Webflux, and Rsocket-JS](https://www.reddit.com/r/Kotlin/comments/o7mjsw/reactive_streams_with_kotlin_webflux_and_rsocketjs/)
+- [Kotlin/JS Migration Guide](https://www.reddit.com/r/Kotlin/comments/o7lz0n/kotlinjs_migration_guide/)
+- [Kotlin 1.5.20 comes with various improvements for Kotlin/JVM, Kotlin/Native, Kotlin/JS, and the standard library. 🎉 In this video, @antonarhipov highlights the most important features of this release. Check it out! ⬇️](https://www.reddit.com/r/Kotlin/comments/o7i6s1/kotlin_1520_comes_with_various_improvements_for/)
 - [Beginner Question Regarding Constraints](https://www.reddit.com/r/Kotlin/comments/o7b2nq/beginner_question_regarding_constraints/)
 - [How to read Kotlin multiplatform projects?](https://www.reddit.com/r/Kotlin/comments/o7b0is/how_to_read_kotlin_multiplatform_projects/)
 - [Not enough youtube and twitch channels covering kotlin](https://www.reddit.com/r/Kotlin/comments/o7auo7/not_enough_youtube_and_twitch_channels_covering/)
-- [finnmath: Mathematical library for the JVM and Android written in Kotlin](https://www.reddit.com/r/Kotlin/comments/o76gwl/finnmath_mathematical_library_for_the_jvm_and/)
-- [Kotlin 1.5.20 Released](https://www.reddit.com/r/Kotlin/comments/o73lze/kotlin_1520_released/)
-- [Is Kotlin/JS production ready in 2021?](https://www.reddit.com/r/Kotlin/comments/o6rsy1/is_kotlinjs_production_ready_in_2021/)
-- [Compose Snake: Sharing my first desktop application in Kotlin using Kotlin Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/o6fi77/compose_snake_sharing_my_first_desktop/)
-- [How to repeat an ouput repeated time using for loop in kotlin](https://www.reddit.com/r/Kotlin/comments/o6f9jf/how_to_repeat_an_ouput_repeated_time_using_for/)
-- [IDE Error](https://www.reddit.com/r/Kotlin/comments/o6dx9y/ide_error/)
-- [Kotlin Multiplatform Mobile for AppCode](https://www.reddit.com/r/Kotlin/comments/o6dckb/kotlin_multiplatform_mobile_for_appcode/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
