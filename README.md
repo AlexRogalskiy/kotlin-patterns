@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Special for developers interested in the field of Android!!](https://www.reddit.com/r/Kotlin/comments/o8dqwb/special_for_developers_interested_in_the_field_of/)
+- [Best tutorial for begining kotlin for dart devs](https://www.reddit.com/r/Kotlin/comments/o8clak/best_tutorial_for_begining_kotlin_for_dart_devs/)
+- [Watch the first episode of our new series and win a Kotlin-branded t-shirt! 👕👕👕 In this series, we take 5 questions from the community and pose them to members of the Kotlin team! 🤩 Egor Tolstoy, Kotlin Product Lead, will be joining us in the first episode. 😍 Watch it to the end!](https://www.reddit.com/r/Kotlin/comments/o8byzg/watch_the_first_episode_of_our_new_series_and_win/)
+- [Best IDE to do simple programming without the need to setup Gradle or any build system](https://www.reddit.com/r/Kotlin/comments/o8bgbf/best_ide_to_do_simple_programming_without_the/)
+- [Mosaic – initial v0.1.0 release](https://www.reddit.com/r/Kotlin/comments/o83lwm/mosaic_initial_v010_release/)
+- [Best kotlin tutorial for someone who is proficient in java?](https://www.reddit.com/r/Kotlin/comments/o8283l/best_kotlin_tutorial_for_someone_who_is/)
+- [Kotlin beginner](https://www.reddit.com/r/Kotlin/comments/o81ytn/kotlin_beginner/)
 - [What is a good immutable collections library?](https://www.reddit.com/r/Kotlin/comments/o7stbk/what_is_a_good_immutable_collections_library/)
 - [Constructor properties vs abstract fields](https://www.reddit.com/r/Kotlin/comments/o7q9fc/constructor_properties_vs_abstract_fields/)
 - [Deploy a Dockerized Spring Boot App to AWS, Azure, Google Cloud](https://www.reddit.com/r/Kotlin/comments/o7pvfd/deploy_a_dockerized_spring_boot_app_to_aws_azure/)
-- [Help me understand this Kotlin syntax "(context: Context) : NavController(context) { ... }"](https://www.reddit.com/r/Kotlin/comments/o7ongy/help_me_understand_this_kotlin_syntax_context/)
-- [🛠 Reactive Streams with Kotlin, Webflux, and Rsocket-JS](https://www.reddit.com/r/Kotlin/comments/o7mjsw/reactive_streams_with_kotlin_webflux_and_rsocketjs/)
-- [Kotlin/JS Migration Guide](https://www.reddit.com/r/Kotlin/comments/o7lz0n/kotlinjs_migration_guide/)
-- [Kotlin 1.5.20 comes with various improvements for Kotlin/JVM, Kotlin/Native, Kotlin/JS, and the standard library. 🎉 In this video, @antonarhipov highlights the most important features of this release. Check it out! ⬇️](https://www.reddit.com/r/Kotlin/comments/o7i6s1/kotlin_1520_comes_with_various_improvements_for/)
-- [Beginner Question Regarding Constraints](https://www.reddit.com/r/Kotlin/comments/o7b2nq/beginner_question_regarding_constraints/)
-- [How to read Kotlin multiplatform projects?](https://www.reddit.com/r/Kotlin/comments/o7b0is/how_to_read_kotlin_multiplatform_projects/)
-- [Not enough youtube and twitch channels covering kotlin](https://www.reddit.com/r/Kotlin/comments/o7auo7/not_enough_youtube_and_twitch_channels_covering/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
