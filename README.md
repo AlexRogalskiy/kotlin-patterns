@@ -249,6 +249,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Beginner] I want to learn to work with APIs but i think I may be over thinking it](https://www.reddit.com/r/Kotlin/comments/o99vuf/beginner_i_want_to_learn_to_work_with_apis_but_i/)
+- [How/why are inline properties useful?](https://www.reddit.com/r/Kotlin/comments/o96ei0/howwhy_are_inline_properties_useful/)
+- [The best of IntelliJ in 10min](https://www.reddit.com/r/Kotlin/comments/o94n9d/the_best_of_intellij_in_10min/)
 - [Special for developers interested in the field of Android!!](https://www.reddit.com/r/Kotlin/comments/o8dqwb/special_for_developers_interested_in_the_field_of/)
 - [Best tutorial for begining kotlin for dart devs](https://www.reddit.com/r/Kotlin/comments/o8clak/best_tutorial_for_begining_kotlin_for_dart_devs/)
 - [Watch the first episode of our new series and win a Kotlin-branded t-shirt! 👕👕👕 In this series, we take 5 questions from the community and pose them to members of the Kotlin team! 🤩 Egor Tolstoy, Kotlin Product Lead, will be joining us in the first episode. 😍 Watch it to the end!](https://www.reddit.com/r/Kotlin/comments/o8byzg/watch_the_first_episode_of_our_new_series_and_win/)
@@ -256,9 +259,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Mosaic – initial v0.1.0 release](https://www.reddit.com/r/Kotlin/comments/o83lwm/mosaic_initial_v010_release/)
 - [Best kotlin tutorial for someone who is proficient in java?](https://www.reddit.com/r/Kotlin/comments/o8283l/best_kotlin_tutorial_for_someone_who_is/)
 - [Kotlin beginner](https://www.reddit.com/r/Kotlin/comments/o81ytn/kotlin_beginner/)
-- [What is a good immutable collections library?](https://www.reddit.com/r/Kotlin/comments/o7stbk/what_is_a_good_immutable_collections_library/)
-- [Constructor properties vs abstract fields](https://www.reddit.com/r/Kotlin/comments/o7q9fc/constructor_properties_vs_abstract_fields/)
-- [Deploy a Dockerized Spring Boot App to AWS, Azure, Google Cloud](https://www.reddit.com/r/Kotlin/comments/o7pvfd/deploy_a_dockerized_spring_boot_app_to_aws_azure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
