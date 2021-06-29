@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Recently started bigger project in LWJGL and did simple example usage in Kotlin.](https://www.reddit.com/r/Kotlin/comments/o9xzox/recently_started_bigger_project_in_lwjgl_and_did/)
+- [STT application without google services.](https://www.reddit.com/r/Kotlin/comments/o9tnxr/stt_application_without_google_services/)
+- [Has anyone used Graal Native Image for a significant project? How well did it work?](https://www.reddit.com/r/Kotlin/comments/o9nnoa/has_anyone_used_graal_native_image_for_a/)
+- [Is this a scenario where I would benefit from coroutines?](https://www.reddit.com/r/Kotlin/comments/o9m0ik/is_this_a_scenario_where_i_would_benefit_from/)
+- [Compose: Displaying Snackbars](https://www.reddit.com/r/Kotlin/comments/o9ln8m/compose_displaying_snackbars/)
+- [Understanding modern image loading on Android](https://www.reddit.com/r/Kotlin/comments/o9islj/understanding_modern_image_loading_on_android/)
+- [Null can not be a value of a non-null type TypeVariable(V)](https://www.reddit.com/r/Kotlin/comments/o9h6ki/null_can_not_be_a_value_of_a_nonnull_type/)
+- [Effective Kotlin Item 43: Respect the contract of hashCode](https://www.reddit.com/r/Kotlin/comments/o9f8lt/effective_kotlin_item_43_respect_the_contract_of/)
 - [[Beginner] I want to learn to work with APIs but i think I may be over thinking it](https://www.reddit.com/r/Kotlin/comments/o99vuf/beginner_i_want_to_learn_to_work_with_apis_but_i/)
 - [How/why are inline properties useful?](https://www.reddit.com/r/Kotlin/comments/o96ei0/howwhy_are_inline_properties_useful/)
-- [The best of IntelliJ in 10min](https://www.reddit.com/r/Kotlin/comments/o94n9d/the_best_of_intellij_in_10min/)
-- [Special for developers interested in the field of Android!!](https://www.reddit.com/r/Kotlin/comments/o8dqwb/special_for_developers_interested_in_the_field_of/)
-- [Best tutorial for begining kotlin for dart devs](https://www.reddit.com/r/Kotlin/comments/o8clak/best_tutorial_for_begining_kotlin_for_dart_devs/)
-- [Watch the first episode of our new series and win a Kotlin-branded t-shirt! 👕👕👕 In this series, we take 5 questions from the community and pose them to members of the Kotlin team! 🤩 Egor Tolstoy, Kotlin Product Lead, will be joining us in the first episode. 😍 Watch it to the end!](https://www.reddit.com/r/Kotlin/comments/o8byzg/watch_the_first_episode_of_our_new_series_and_win/)
-- [Best IDE to do simple programming without the need to setup Gradle or any build system](https://www.reddit.com/r/Kotlin/comments/o8bgbf/best_ide_to_do_simple_programming_without_the/)
-- [Mosaic – initial v0.1.0 release](https://www.reddit.com/r/Kotlin/comments/o83lwm/mosaic_initial_v010_release/)
-- [Best kotlin tutorial for someone who is proficient in java?](https://www.reddit.com/r/Kotlin/comments/o8283l/best_kotlin_tutorial_for_someone_who_is/)
-- [Kotlin beginner](https://www.reddit.com/r/Kotlin/comments/o81ytn/kotlin_beginner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
