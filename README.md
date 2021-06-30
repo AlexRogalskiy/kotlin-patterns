@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Recently started bigger project in LWJGL and did simple example usage in Kotlin.](https://www.reddit.com/r/Kotlin/comments/o9xzox/recently_started_bigger_project_in_lwjgl_and_did/)
+- [Kotlin Native wrapper library for libMRAA](https://www.reddit.com/r/Kotlin/comments/oalesq/kotlin_native_wrapper_library_for_libmraa/)
+- [Kotlin Features Survey Edition #2](https://www.reddit.com/r/Kotlin/comments/oafpei/kotlin_features_survey_edition_2/)
+- [Is there a better way](https://www.reddit.com/r/Kotlin/comments/oadqni/is_there_a_better_way/)
+- [Kotlin Tutorial #7 | Working with Infinite Collections](https://www.reddit.com/r/Kotlin/comments/oa9y3k/kotlin_tutorial_7_working_with_infinite/)
+- [Dealing with 3rd-party library upgrading Kotlin version](https://www.reddit.com/r/Kotlin/comments/oa8vqz/dealing_with_3rdparty_library_upgrading_kotlin/)
+- [Add functions with Annotation Processing](https://www.reddit.com/r/Kotlin/comments/oa0unm/add_functions_with_annotation_processing/)
+- [I just finished the Udacity Kotlin Bootcamp](https://www.reddit.com/r/Kotlin/comments/oa0nnh/i_just_finished_the_udacity_kotlin_bootcamp/)
 - [STT application without google services.](https://www.reddit.com/r/Kotlin/comments/o9tnxr/stt_application_without_google_services/)
 - [Has anyone used Graal Native Image for a significant project? How well did it work?](https://www.reddit.com/r/Kotlin/comments/o9nnoa/has_anyone_used_graal_native_image_for_a/)
 - [Is this a scenario where I would benefit from coroutines?](https://www.reddit.com/r/Kotlin/comments/o9m0ik/is_this_a_scenario_where_i_would_benefit_from/)
-- [Compose: Displaying Snackbars](https://www.reddit.com/r/Kotlin/comments/o9ln8m/compose_displaying_snackbars/)
-- [Understanding modern image loading on Android](https://www.reddit.com/r/Kotlin/comments/o9islj/understanding_modern_image_loading_on_android/)
-- [Null can not be a value of a non-null type TypeVariable(V)](https://www.reddit.com/r/Kotlin/comments/o9h6ki/null_can_not_be_a_value_of_a_nonnull_type/)
-- [Effective Kotlin Item 43: Respect the contract of hashCode](https://www.reddit.com/r/Kotlin/comments/o9f8lt/effective_kotlin_item_43_respect_the_contract_of/)
-- [[Beginner] I want to learn to work with APIs but i think I may be over thinking it](https://www.reddit.com/r/Kotlin/comments/o99vuf/beginner_i_want_to_learn_to_work_with_apis_but_i/)
-- [How/why are inline properties useful?](https://www.reddit.com/r/Kotlin/comments/o96ei0/howwhy_are_inline_properties_useful/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
