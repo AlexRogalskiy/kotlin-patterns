@@ -43,29 +43,27 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-
-- [Kotlin Design Patterns](#kotlin-design-patterns)
-  - [<em>Table of contents</em>](#-table-of-contents)
-  - [<em>Summary</em>](#-summary)
-  - [<em>Documentation</em>](#-documentation)
-  - [<em>Statistics</em>](#-statistics)
-  - [<em>Versioning</em>](#-versioning)
-  - [<em>Authors</em>](#-authors)
-  - [<em>Contributing</em>](#-contributing)
-  - [<em>Visitor stats</em>](#-visitor-stats)
-  - [<em>Licensing</em>](#-licensing)
-  - [<em>Development Support</em>](#-development-support)
-  - [<em>Acknowledgement</em>](#-acknowledgement)
-  - [<em>OpenGraph Card</em>](#-opengraph-card)
-  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-    - [<em>Reddit posts</em>](#reddit-posts)
-    - [<em>RedHat lang posts</em>](#redhat-lang-posts)
-    - [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
-    - [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
-    - [<em>Super Kotlin posts</em>](#super-kotlin-posts)
-    - [<em>Karumi posts</em>](#karumi-posts)
-    - [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
-
+   * [Kotlin Design Patterns](#kotlin-design-patterns)
+      * [<em>Table of contents</em>](#-table-of-contents)
+      * [<em>Summary</em>](#-summary)
+      * [<em>Documentation</em>](#-documentation)
+      * [<em>Statistics</em>](#-statistics)
+      * [<em>Versioning</em>](#-versioning)
+      * [<em>Authors</em>](#-authors)
+      * [<em>Contributing</em>](#-contributing)
+      * [<em>Visitor stats</em>](#-visitor-stats)
+      * [<em>Licensing</em>](#-licensing)
+      * [<em>Development Support</em>](#-development-support)
+      * [<em>Acknowledgement</em>](#-acknowledgement)
+      * [<em>OpenGraph Card</em>](#-opengraph-card)
+      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+         * [<em>Reddit posts</em>](#reddit-posts)
+         * [<em>RedHat lang posts</em>](#redhat-lang-posts)
+         * [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
+         * [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
+         * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
+         * [<em>Karumi posts</em>](#karumi-posts)
+         * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
 <!--te-->
 
 ## ☝ *Summary*
@@ -251,18 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [Getting started with Ktor — Part I: The Basics.](https://www.reddit.com/r/Kotlin/comments/o613m3/getting_started_with_ktor_part_i_the_basics/)
-- [What's the difference between MoShi (Reflect) and MoShi (Codegen) and which one is better?](https://www.reddit.com/r/Kotlin/comments/o5znwi/whats_the_difference_between_moshi_reflect_and/)
-- [Thoughts on a Google Kotlin Certification](https://www.reddit.com/r/Kotlin/comments/o5xleu/thoughts_on_a_google_kotlin_certification/)
-- [What's the best JSON to Moshi converter?](https://www.reddit.com/r/Kotlin/comments/o5ovbq/whats_the_best_json_to_moshi_converter/)
-- [Jetpack is not open source!?](https://www.reddit.com/r/Kotlin/comments/o5hh3u/jetpack_is_not_open_source/)
-- [Can the golang and kotlin be used together in an android app for different purposes?](https://www.reddit.com/r/Kotlin/comments/o5h4vm/can_the_golang_and_kotlin_be_used_together_in_an/)
-- [A simple Kotlin Exponential Backoff library designed for kotlinx.coroutines.](https://www.reddit.com/r/Kotlin/comments/o5feo2/a_simple_kotlin_exponential_backoff_library/)
-- [Are there any good tutorials showing the use of Reactor streams using Kotlin?](https://www.reddit.com/r/Kotlin/comments/o5asdg/are_there_any_good_tutorials_showing_the_use_of/)
-- [Join the Kotlin Krew this Thursday at 7:30pm PST for a chat on Multiplatform Mobile in Production Projects!](https://www.reddit.com/r/Kotlin/comments/o59y9c/join_the_kotlin_krew_this_thursday_at\_730pm_pst/)
-- [Will `Jetpack Compose for Web` replaces `kotlin-react`?](https://www.reddit.com/r/Kotlin/comments/o543b2/will_jetpack_compose_for_web_replaces_kotlinreact/)
-
+- [Simple socket implementation on my first Kotlin Android app](https://www.reddit.com/r/Kotlin/comments/ob40vv/simple_socket_implementation_on_my_first_kotlin/)
+- [Why does IntelliJ keep asking for the Main Class when I try to run my program?](https://www.reddit.com/r/Kotlin/comments/oaxfkx/why_does_intellij_keep_asking_for_the_main_class/)
+- [Want to know more about Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/oawsdj/want_to_know_more_about_kotlin_coroutines/)
+- [Share your Gradle configuration with the Gradle Kotlin DSL — A guide for Android projects](https://www.reddit.com/r/Kotlin/comments/oarhdh/share_your_gradle_configuration_with_the_gradle/)
+- [Kotlin Native wrapper library for libMRAA](https://www.reddit.com/r/Kotlin/comments/oalesq/kotlin_native_wrapper_library_for_libmraa/)
+- [Kotlin Features Survey Edition #2](https://www.reddit.com/r/Kotlin/comments/oafpei/kotlin_features_survey_edition_2/)
+- [Is there a better way](https://www.reddit.com/r/Kotlin/comments/oadqni/is_there_a_better_way/)
+- [Kotlin Tutorial #7 | Working with Infinite Collections](https://www.reddit.com/r/Kotlin/comments/oa9y3k/kotlin_tutorial_7_working_with_infinite/)
+- [Dealing with 3rd-party library upgrading Kotlin version](https://www.reddit.com/r/Kotlin/comments/oa8vqz/dealing_with_3rdparty_library_upgrading_kotlin/)
+- [Add functions with Annotation Processing](https://www.reddit.com/r/Kotlin/comments/oa0unm/add_functions_with_annotation_processing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
