@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Simple socket implementation on my first Kotlin Android app](https://www.reddit.com/r/Kotlin/comments/ob40vv/simple_socket_implementation_on_my_first_kotlin/)
+- [Why does IntelliJ keep asking for the Main Class when I try to run my program?](https://www.reddit.com/r/Kotlin/comments/oaxfkx/why_does_intellij_keep_asking_for_the_main_class/)
+- [Want to know more about Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/oawsdj/want_to_know_more_about_kotlin_coroutines/)
+- [Share your Gradle configuration with the Gradle Kotlin DSL — A guide for Android projects](https://www.reddit.com/r/Kotlin/comments/oarhdh/share_your_gradle_configuration_with_the_gradle/)
 - [Kotlin Native wrapper library for libMRAA](https://www.reddit.com/r/Kotlin/comments/oalesq/kotlin_native_wrapper_library_for_libmraa/)
 - [Kotlin Features Survey Edition #2](https://www.reddit.com/r/Kotlin/comments/oafpei/kotlin_features_survey_edition_2/)
 - [Is there a better way](https://www.reddit.com/r/Kotlin/comments/oadqni/is_there_a_better_way/)
 - [Kotlin Tutorial #7 | Working with Infinite Collections](https://www.reddit.com/r/Kotlin/comments/oa9y3k/kotlin_tutorial_7_working_with_infinite/)
 - [Dealing with 3rd-party library upgrading Kotlin version](https://www.reddit.com/r/Kotlin/comments/oa8vqz/dealing_with_3rdparty_library_upgrading_kotlin/)
 - [Add functions with Annotation Processing](https://www.reddit.com/r/Kotlin/comments/oa0unm/add_functions_with_annotation_processing/)
-- [I just finished the Udacity Kotlin Bootcamp](https://www.reddit.com/r/Kotlin/comments/oa0nnh/i_just_finished_the_udacity_kotlin_bootcamp/)
-- [STT application without google services.](https://www.reddit.com/r/Kotlin/comments/o9tnxr/stt_application_without_google_services/)
-- [Has anyone used Graal Native Image for a significant project? How well did it work?](https://www.reddit.com/r/Kotlin/comments/o9nnoa/has_anyone_used_graal_native_image_for_a/)
-- [Is this a scenario where I would benefit from coroutines?](https://www.reddit.com/r/Kotlin/comments/o9m0ik/is_this_a_scenario_where_i_would_benefit_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
