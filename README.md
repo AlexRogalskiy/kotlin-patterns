@@ -43,27 +43,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Kotlin Design Patterns](#kotlin-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>RedHat lang posts</em>](#redhat-lang-posts)
-         * [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
-         * [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
-         * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
-         * [<em>Karumi posts</em>](#karumi-posts)
-         * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
+- [Kotlin Design Patterns](#kotlin-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>RedHat lang posts</em>](#redhat-lang-posts)
+    - [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
+    - [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
+    - [<em>Super Kotlin posts</em>](#super-kotlin-posts)
+    - [<em>Karumi posts</em>](#karumi-posts)
+    - [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -249,16 +251,18 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [Simple socket implementation on my first Kotlin Android app](https://www.reddit.com/r/Kotlin/comments/ob40vv/simple_socket_implementation_on_my_first_kotlin/)
 - [Why does IntelliJ keep asking for the Main Class when I try to run my program?](https://www.reddit.com/r/Kotlin/comments/oaxfkx/why_does_intellij_keep_asking_for_the_main_class/)
 - [Want to know more about Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/oawsdj/want_to_know_more_about_kotlin_coroutines/)
 - [Share your Gradle configuration with the Gradle Kotlin DSL — A guide for Android projects](https://www.reddit.com/r/Kotlin/comments/oarhdh/share_your_gradle_configuration_with_the_gradle/)
 - [Kotlin Native wrapper library for libMRAA](https://www.reddit.com/r/Kotlin/comments/oalesq/kotlin_native_wrapper_library_for_libmraa/)
-- [Kotlin Features Survey Edition #2](https://www.reddit.com/r/Kotlin/comments/oafpei/kotlin_features_survey_edition_2/)
+- [Kotlin Features Survey Edition #2](https://www.reddit.com/r/Kotlin/comments/oafpei/kotlin_features_survey_edition\_2/)
 - [Is there a better way](https://www.reddit.com/r/Kotlin/comments/oadqni/is_there_a_better_way/)
-- [Kotlin Tutorial #7 | Working with Infinite Collections](https://www.reddit.com/r/Kotlin/comments/oa9y3k/kotlin_tutorial_7_working_with_infinite/)
-- [Dealing with 3rd-party library upgrading Kotlin version](https://www.reddit.com/r/Kotlin/comments/oa8vqz/dealing_with_3rdparty_library_upgrading_kotlin/)
+- [Kotlin Tutorial #7 | Working with Infinite Collections](https://www.reddit.com/r/Kotlin/comments/oa9y3k/kotlin_tutorial\_7\_working_with_infinite/)
+- [Dealing with 3rd-party library upgrading Kotlin version](https://www.reddit.com/r/Kotlin/comments/oa8vqz/dealing_with\_3rdparty_library_upgrading_kotlin/)
 - [Add functions with Annotation Processing](https://www.reddit.com/r/Kotlin/comments/oa0unm/add_functions_with_annotation_processing/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
