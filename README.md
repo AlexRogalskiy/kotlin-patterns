@@ -249,16 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Simple socket implementation on my first Kotlin Android app](https://www.reddit.com/r/Kotlin/comments/ob40vv/simple_socket_implementation_on_my_first_kotlin/)
-- [Why does IntelliJ keep asking for the Main Class when I try to run my program?](https://www.reddit.com/r/Kotlin/comments/oaxfkx/why_does_intellij_keep_asking_for_the_main_class/)
-- [Want to know more about Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/oawsdj/want_to_know_more_about_kotlin_coroutines/)
-- [Share your Gradle configuration with the Gradle Kotlin DSL — A guide for Android projects](https://www.reddit.com/r/Kotlin/comments/oarhdh/share_your_gradle_configuration_with_the_gradle/)
-- [Kotlin Native wrapper library for libMRAA](https://www.reddit.com/r/Kotlin/comments/oalesq/kotlin_native_wrapper_library_for_libmraa/)
-- [Kotlin Features Survey Edition #2](https://www.reddit.com/r/Kotlin/comments/oafpei/kotlin_features_survey_edition_2/)
-- [Is there a better way](https://www.reddit.com/r/Kotlin/comments/oadqni/is_there_a_better_way/)
-- [Kotlin Tutorial #7 | Working with Infinite Collections](https://www.reddit.com/r/Kotlin/comments/oa9y3k/kotlin_tutorial_7_working_with_infinite/)
-- [Dealing with 3rd-party library upgrading Kotlin version](https://www.reddit.com/r/Kotlin/comments/oa8vqz/dealing_with_3rdparty_library_upgrading_kotlin/)
-- [Add functions with Annotation Processing](https://www.reddit.com/r/Kotlin/comments/oa0unm/add_functions_with_annotation_processing/)
+- [Integration Testing with Testcontainers](https://www.reddit.com/r/Kotlin/comments/obw56j/integration_testing_with_testcontainers/)
+- [Google Associate Android Developer Certification?](https://www.reddit.com/r/Kotlin/comments/obvsbp/google_associate_android_developer_certification/)
+- [How we use Kotlin for backend services at Zalando](https://www.reddit.com/r/Kotlin/comments/obvhj1/how_we_use_kotlin_for_backend_services_at_zalando/)
+- [Brex is using Kotlin for server-side development](https://www.reddit.com/r/Kotlin/comments/obu7fg/brex_is_using_kotlin_for_serverside_development/)
+- [Is Kotlin likely to go the way of Java? (Oracle)](https://www.reddit.com/r/Kotlin/comments/obt9mj/is_kotlin_likely_to_go_the_way_of_java_oracle/)
+- [Meet Value classes in MockK v1.12.0](https://www.reddit.com/r/Kotlin/comments/obrlzw/meet_value_classes_in_mockk_v1120/)
+- [Kotlin React Native](https://www.reddit.com/r/Kotlin/comments/obn0yj/kotlin_react_native/)
+- [A new episode of Spring Time in Kotlin is out! 🤩 In this episode, Anton Arhipov will show us how to use the @Testcontainers library for integration testing of a Spring Boot application with #Kotlin. Watch and subscribe for future updates! 🚀](https://www.reddit.com/r/Kotlin/comments/obkvpg/a_new_episode_of_spring_time_in_kotlin_is_out_in/)
+- [One thing very few people are talking about when it comes to Android apps on Windows 11](https://www.reddit.com/r/Kotlin/comments/obgg9y/one_thing_very_few_people_are_talking_about_when/)
+- [How Java is platform independent [Video]](https://www.reddit.com/r/Kotlin/comments/obfwdv/how_java_is_platform_independent_video/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
