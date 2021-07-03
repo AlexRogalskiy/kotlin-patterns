@@ -249,18 +249,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [Looking for the idiomatic way to inherit a property](https://www.reddit.com/r/Kotlin/comments/och9yn/looking_for_the_idiomatic_way_to_inherit_a/)
+- [Yet another DI library, bit this time it's not a service locator](https://www.reddit.com/r/Kotlin/comments/ocez3s/yet_another_di_library_bit_this_time_its_not_a/)
+- [Kotlin Multiplatform Survey](https://www.reddit.com/r/Kotlin/comments/ocblp0/kotlin_multiplatform_survey/)
+- [JUXT Blog - Kotlin Adventures With Crux](https://www.reddit.com/r/Kotlin/comments/oc9qby/juxt_blog_kotlin_adventures_with_crux/)
+- [Tempest lets you call DynamoDB with Kotlin Coroutine](https://www.reddit.com/r/Kotlin/comments/oc3d5l/tempest_lets_you_call_dynamodb_with_kotlin/)
+- [Fail your build on Kotlin warnings](https://www.reddit.com/r/Kotlin/comments/oc0t8i/fail_your_build_on_kotlin_warnings/)
 - [Integration Testing with Testcontainers](https://www.reddit.com/r/Kotlin/comments/obw56j/integration_testing_with_testcontainers/)
 - [Google Associate Android Developer Certification?](https://www.reddit.com/r/Kotlin/comments/obvsbp/google_associate_android_developer_certification/)
 - [How we use Kotlin for backend services at Zalando](https://www.reddit.com/r/Kotlin/comments/obvhj1/how_we_use_kotlin_for_backend_services_at_zalando/)
 - [Brex is using Kotlin for server-side development](https://www.reddit.com/r/Kotlin/comments/obu7fg/brex_is_using_kotlin_for_serverside_development/)
-- [Is Kotlin likely to go the way of Java? (Oracle)](https://www.reddit.com/r/Kotlin/comments/obt9mj/is_kotlin_likely_to_go_the_way_of_java_oracle/)
-- [Meet Value classes in MockK v1.12.0](https://www.reddit.com/r/Kotlin/comments/obrlzw/meet_value_classes_in_mockk_v1120/)
-- [Kotlin React Native](https://www.reddit.com/r/Kotlin/comments/obn0yj/kotlin_react_native/)
-- [A new episode of Spring Time in Kotlin is out! 🤩 In this episode, Anton Arhipov will show us how to use the @Testcontainers library for integration testing of a Spring Boot application with #Kotlin. Watch and subscribe for future updates! 🚀](https://www.reddit.com/r/Kotlin/comments/obkvpg/a_new_episode_of_spring_time_in_kotlin_is_out_in/)
-- [One thing very few people are talking about when it comes to Android apps on Windows 11](https://www.reddit.com/r/Kotlin/comments/obgg9y/one_thing_very_few_people_are_talking_about_when/)
-- [How Java is platform independent \[Video\]](https://www.reddit.com/r/Kotlin/comments/obfwdv/how_java_is_platform_independent_video/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
