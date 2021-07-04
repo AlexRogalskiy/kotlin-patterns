@@ -2,7 +2,7 @@
 
 Thanks for contributing to ObjectMappers!
 
-This is a set of guidelines for contributing to IceCore Hashids. Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
+This is a set of guidelines for contributing to IceCore Hashids. Please take a moment to review this document to make the contribution process easy and effective for everyone involved.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
@@ -14,7 +14,7 @@ ObjectMappers is an open source project and we love to receive contributions fro
 
 The project development workflow and process uses [GitHub Issues](https://github.com/AlexRogalskiy/object-mappers-playground/issues)- and [Pull Requests](https://github.com/AlexRogalskiy/object-mappers-playground/pulls) management to track issues and pull requests.
 
-Before you continue with this contribution guideslines we highly recommend to read the awesome GitHub [Open Source Guide](https://opensource.guide) on how to [making open source contributions](https://opensource.guide/how-to-contribute).
+Before you continue with this contribution guideslines we highly recommend to read the awesome GitHub [Open source Guide](https://opensource.guide) on how to [making open source contributions](https://opensource.guide/how-to-contribute).
 
 ### *Bug Reports*
 
@@ -35,7 +35,7 @@ When you are creating a bug report, please provide as much detail and context as
 
 If possible please provide more context by answering these questions:
 
-- **Did the problem start happening recently** (e.g. after updating to a new version of IceCore Hashids) or was this always a problem? If the problem started happening recently, **can you reproduce the problem in an older version of IceCore Hashids**? What is the most recent version in which the problem does not happen?
+- **Did the problem start happening recently** (for example after updating to a new version of IceCore Hashids) or was this always a problem? If the problem started happening recently, **can you reproduce the problem in an older version of IceCore Hashids**? What is the most recent version in which the problem does not happen?
 - **Can you reliably reproduce the issue?** If not, provide details about how often the problem happens and under which conditions it normally happens.
 
 Please include details about your configuration and environment:
@@ -69,7 +69,7 @@ Before creating enhancement suggestions, please check if your idea fits with the
 
 This section guides you through submitting an pull request. Following these guidelines helps maintainers and the community to better understand your code.
 
-**Please** [**suggest an enhancement**](info.md#enhancement-suggestions) **or** [**report a bug**](info.md#bug-reports) **first before embarking on any significant pull request** (e.g. implementing features, refactoring code, fixing a bug), otherwise you risk spending a lot of time working on something that the core team members and project owner might not want to merge into the project.
+**Please** [**suggest an enhancement**](info.md#enhancement-suggestions) **or** [**report a bug**](info.md#bug-reports) **first before embarking on any significant pull request** (for example implementing features, refactoring code, fixing a bug), otherwise you risk spending a lot of time working on something that the core team members and project owner might not want to merge into the project.
 
 When you are submitting an pull request, please provide as much detail and context as possible. Fill out [the required template](https://github.com/AlexRogalskiy/object-mappers-playground/blob/develop/.github/PULL_REQUEST_TEMPLATE.md) to help maintainers to understand your submitted code.
 
@@ -103,7 +103,7 @@ The IceCore Hashids uses the [gitflow](http://nvie.com/posts/a-successful-git-br
 
 ### *Improve Issues*
 
-Some issues are created with missing information, not reproducible, or plain invalid. You can help to make it easier for maintainer to understand and resolve them faster. since handling issues takes a lot of time that could rather spend on writing code.
+Some issues are created with missing information, not reproducible, or plain invalid. You can help to make it easier for maintainer to understand and resolve them faster. Since handling issues takes a lot of time that could rather spend on writing code.
 
 ### *Give Feedback On Issues and Pull Requests*
 
@@ -111,7 +111,7 @@ We're always looking for more opinions on discussions in issues and pull request
 
 The [question](https://github.com/AlexRogalskiy/object-mappers-playground/labels/question) issue label is a good place to find ongoing discussions and questions.
 
-## *Styleguides*
+## *StyleguIDes*
 
 Every major open source project has its own style guide, a set of standards and conventions for the writing and design of code, documentations and Git commit messages. It is much easier to understand a large codebase when all the code in it is in a consistent style.
 
@@ -156,7 +156,7 @@ The more code there is to go through, the less likely developers can understand 
 
 #### *Minimal and readable*
 
-Minimal does not mean terse – don't sacrifice communication to brevity. Use consistent naming and indentation following the [styleguide](info.md#styleguides), and include comments if needed to explain portions of the code.
+Minimal does not mean terse – don't sacrifice communication to brevity. Use consistent naming and indentation following the [styleguIDe](info.md#styleguides), and include comments if needed to explain portions of the code.
 
 ### *Complete*
 
@@ -178,4 +178,4 @@ Every significant change is documented in the [changelog](https://github.com/Ale
 
 ## *Credits*
 
-Thanks for the inspirations and attributions to GitHub's [Open Source Guides](https://opensource.guide) and various contribution guides of large open source projects like [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [React](https://facebook.github.io/react/contributing/how-to-contribute.html) and [Ruby on Rails](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html).
+Thanks for the inspirations and attributions to GitHub's [Open source Guides](https://opensource.guide) and various contribution guides of large open source projects like [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [React](https://facebook.github.io/react/contributing/how-to-contribute.html) and [Ruby on Rails](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html).

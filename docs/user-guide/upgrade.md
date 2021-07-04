@@ -43,7 +43,7 @@ There are two ways to upgrade. One is an automated way that assumes you have mad
 
 ### Easy Way (Recommended)
 
-Create a new repo with the current project by following the [setup instructions](https://github.com/AlexRogalskiy/object-mappers-playground#setup-instructions) in the README.
+Create a new repository with the current project by following the [setup instructions](https://github.com/AlexRogalskiy/object-mappers-playground#setup-instructions) in the README.
 
 ### Advanced
 
