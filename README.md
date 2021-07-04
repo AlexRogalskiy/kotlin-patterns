@@ -249,7 +249,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [Marrying KMM and Swift with Sourcery](https://www.reddit.com/r/Kotlin/comments/odau0p/marrying_kmm_and_swift_with_sourcery/)
+- [Resources for learning Kotlin to make Apps, have C++ experience](https://www.reddit.com/r/Kotlin/comments/ocyimp/resources_for_learning_kotlin_to_make_apps_have_c/)
+- [Mutable/Immutable/View pattern example in Kotlin](https://www.reddit.com/r/Kotlin/comments/octl5o/mutableimmutableview_pattern_example_in_kotlin/)
 - [Looking for the idiomatic way to inherit a property](https://www.reddit.com/r/Kotlin/comments/och9yn/looking_for_the_idiomatic_way_to_inherit_a/)
 - [Yet another DI library, bit this time it's not a service locator](https://www.reddit.com/r/Kotlin/comments/ocez3s/yet_another_di_library_bit_this_time_its_not_a/)
 - [Kotlin Multiplatform Survey](https://www.reddit.com/r/Kotlin/comments/ocblp0/kotlin_multiplatform_survey/)
@@ -257,10 +259,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Tempest lets you call DynamoDB with Kotlin Coroutine](https://www.reddit.com/r/Kotlin/comments/oc3d5l/tempest_lets_you_call_dynamodb_with_kotlin/)
 - [Fail your build on Kotlin warnings](https://www.reddit.com/r/Kotlin/comments/oc0t8i/fail_your_build_on_kotlin_warnings/)
 - [Integration Testing with Testcontainers](https://www.reddit.com/r/Kotlin/comments/obw56j/integration_testing_with_testcontainers/)
-- [Google Associate Android Developer Certification?](https://www.reddit.com/r/Kotlin/comments/obvsbp/google_associate_android_developer_certification/)
-- [How we use Kotlin for backend services at Zalando](https://www.reddit.com/r/Kotlin/comments/obvhj1/how_we_use_kotlin_for_backend_services_at_zalando/)
-- [Brex is using Kotlin for server-side development](https://www.reddit.com/r/Kotlin/comments/obu7fg/brex_is_using_kotlin_for_serverside_development/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
