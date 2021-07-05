@@ -252,16 +252,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 
+- [The Kotlin programming language repository summary](https://www.reddit.com/r/Kotlin/comments/odr92g/the_kotlin_programming_language_repository_summary/)
+- [Is There a Coroutine Equivalent of Of Using a Blocking Queue for Asynchronous Tasks?](https://www.reddit.com/r/Kotlin/comments/odlc1w/is_there_a_coroutine_equivalent_of_of_using_a/)
+- [The Most Popular Programming Languages - 1965/2021 - New Update](https://www.reddit.com/r/Kotlin/comments/odgp5b/the_most_popular_programming_languages\_19652021/)
+- [Kotlin for server-side development](https://www.reddit.com/r/Kotlin/comments/odgf6x/kotlin_for_serverside_development/)
 - [Marrying KMM and Swift with Sourcery](https://www.reddit.com/r/Kotlin/comments/odau0p/marrying_kmm_and_swift_with_sourcery/)
 - [Resources for learning Kotlin to make Apps, have C++ experience](https://www.reddit.com/r/Kotlin/comments/ocyimp/resources_for_learning_kotlin_to_make_apps_have_c/)
 - [Mutable/Immutable/View pattern example in Kotlin](https://www.reddit.com/r/Kotlin/comments/octl5o/mutableimmutableview_pattern_example_in_kotlin/)
 - [Looking for the idiomatic way to inherit a property](https://www.reddit.com/r/Kotlin/comments/och9yn/looking_for_the_idiomatic_way_to_inherit_a/)
 - [Yet another DI library, bit this time it's not a service locator](https://www.reddit.com/r/Kotlin/comments/ocez3s/yet_another_di_library_bit_this_time_its_not_a/)
 - [Kotlin Multiplatform Survey](https://www.reddit.com/r/Kotlin/comments/ocblp0/kotlin_multiplatform_survey/)
-- [JUXT Blog - Kotlin Adventures With Crux](https://www.reddit.com/r/Kotlin/comments/oc9qby/juxt_blog_kotlin_adventures_with_crux/)
-- [Tempest lets you call DynamoDB with Kotlin Coroutine](https://www.reddit.com/r/Kotlin/comments/oc3d5l/tempest_lets_you_call_dynamodb_with_kotlin/)
-- [Fail your build on Kotlin warnings](https://www.reddit.com/r/Kotlin/comments/oc0t8i/fail_your_build_on_kotlin_warnings/)
-- [Integration Testing with Testcontainers](https://www.reddit.com/r/Kotlin/comments/obw56j/integration_testing_with_testcontainers/)
 
 <!-- REDDIT-POST-LIST:END -->
 
