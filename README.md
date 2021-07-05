@@ -43,27 +43,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Kotlin Design Patterns](#kotlin-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>RedHat lang posts</em>](#redhat-lang-posts)
-         * [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
-         * [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
-         * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
-         * [<em>Karumi posts</em>](#karumi-posts)
-         * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
+- [Kotlin Design Patterns](#kotlin-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>RedHat lang posts</em>](#redhat-lang-posts)
+    - [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
+    - [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
+    - [<em>Super Kotlin posts</em>](#super-kotlin-posts)
+    - [<em>Karumi posts</em>](#karumi-posts)
+    - [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -249,6 +251,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [Marrying KMM and Swift with Sourcery](https://www.reddit.com/r/Kotlin/comments/odau0p/marrying_kmm_and_swift_with_sourcery/)
 - [Resources for learning Kotlin to make Apps, have C++ experience](https://www.reddit.com/r/Kotlin/comments/ocyimp/resources_for_learning_kotlin_to_make_apps_have_c/)
 - [Mutable/Immutable/View pattern example in Kotlin](https://www.reddit.com/r/Kotlin/comments/octl5o/mutableimmutableview_pattern_example_in_kotlin/)
@@ -259,6 +262,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Tempest lets you call DynamoDB with Kotlin Coroutine](https://www.reddit.com/r/Kotlin/comments/oc3d5l/tempest_lets_you_call_dynamodb_with_kotlin/)
 - [Fail your build on Kotlin warnings](https://www.reddit.com/r/Kotlin/comments/oc0t8i/fail_your_build_on_kotlin_warnings/)
 - [Integration Testing with Testcontainers](https://www.reddit.com/r/Kotlin/comments/obw56j/integration_testing_with_testcontainers/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
