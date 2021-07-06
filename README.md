@@ -251,18 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [Is it a good idea that I'm trying to learn multithreading in Java before I can fully grasp how Coroutine works in Kotlin?](https://www.reddit.com/r/Kotlin/comments/oel1lo/is_it_a_good_idea_that_im_trying_to_learn/)
+- [Implementation of Post request with volley?](https://www.reddit.com/r/Kotlin/comments/oeg1hc/implementation_of_post_request_with_volley/)
+- [Live Webinar - Kotlin Features Survey Webinar](https://www.reddit.com/r/Kotlin/comments/oed0e1/live_webinar_kotlin_features_survey_webinar/)
+- [Kotlin Tutorial #8 | Using Kotlin’s Nullablity Constraints to Improve Code](https://www.reddit.com/r/Kotlin/comments/oecf9r/kotlin_tutorial_8_using_kotlins_nullablity/)
+- [reverse char array in kotlin](https://www.reddit.com/r/Kotlin/comments/oec1cg/reverse_char_array_in_kotlin/)
+- [Looking for some project based tutorial](https://www.reddit.com/r/Kotlin/comments/oeaf73/looking_for_some_project_based_tutorial/)
+- [I used GitHub Copilot for Kotlin (around the 20 minute mark) let’s just say it has a little ways to go 😅](https://www.reddit.com/r/Kotlin/comments/oe9lp6/i_used_github_copilot_for_kotlin_around_the_20/)
+- [Unresolved reference can't compare this[other] < this[lowest]](https://www.reddit.com/r/Kotlin/comments/oe88jx/unresolved_reference_cant_compare_thisother/)
+- [Effective Kotlin Item 44: Respect the contract of compareTo](https://www.reddit.com/r/Kotlin/comments/oe2cc7/effective_kotlin_item_44_respect_the_contract_of/)
 - [The Kotlin programming language repository summary](https://www.reddit.com/r/Kotlin/comments/odr92g/the_kotlin_programming_language_repository_summary/)
-- [Is There a Coroutine Equivalent of Of Using a Blocking Queue for Asynchronous Tasks?](https://www.reddit.com/r/Kotlin/comments/odlc1w/is_there_a_coroutine_equivalent_of_of_using_a/)
-- [The Most Popular Programming Languages - 1965/2021 - New Update](https://www.reddit.com/r/Kotlin/comments/odgp5b/the_most_popular_programming_languages\_19652021/)
-- [Kotlin for server-side development](https://www.reddit.com/r/Kotlin/comments/odgf6x/kotlin_for_serverside_development/)
-- [Marrying KMM and Swift with Sourcery](https://www.reddit.com/r/Kotlin/comments/odau0p/marrying_kmm_and_swift_with_sourcery/)
-- [Resources for learning Kotlin to make Apps, have C++ experience](https://www.reddit.com/r/Kotlin/comments/ocyimp/resources_for_learning_kotlin_to_make_apps_have_c/)
-- [Mutable/Immutable/View pattern example in Kotlin](https://www.reddit.com/r/Kotlin/comments/octl5o/mutableimmutableview_pattern_example_in_kotlin/)
-- [Looking for the idiomatic way to inherit a property](https://www.reddit.com/r/Kotlin/comments/och9yn/looking_for_the_idiomatic_way_to_inherit_a/)
-- [Yet another DI library, bit this time it's not a service locator](https://www.reddit.com/r/Kotlin/comments/ocez3s/yet_another_di_library_bit_this_time_its_not_a/)
-- [Kotlin Multiplatform Survey](https://www.reddit.com/r/Kotlin/comments/ocblp0/kotlin_multiplatform_survey/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
