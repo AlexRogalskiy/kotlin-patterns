@@ -251,6 +251,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Type-safe heterogeneous map in Kotlin](https://www.reddit.com/r/Kotlin/comments/oewwg4/typesafe_heterogeneous_map_in_kotlin/)
+- [Why use Composition?](https://www.reddit.com/r/Kotlin/comments/oev4av/why_use_composition/)
+- [Case studies for Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/oerpdw/case_studies_for_kotlinjs/)
 - [Is it a good idea that I'm trying to learn multithreading in Java before I can fully grasp how Coroutine works in Kotlin?](https://www.reddit.com/r/Kotlin/comments/oel1lo/is_it_a_good_idea_that_im_trying_to_learn/)
 - [Implementation of Post request with volley?](https://www.reddit.com/r/Kotlin/comments/oeg1hc/implementation_of_post_request_with_volley/)
 - [Live Webinar - Kotlin Features Survey Webinar](https://www.reddit.com/r/Kotlin/comments/oed0e1/live_webinar_kotlin_features_survey_webinar/)
@@ -258,9 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [reverse char array in kotlin](https://www.reddit.com/r/Kotlin/comments/oec1cg/reverse_char_array_in_kotlin/)
 - [Looking for some project based tutorial](https://www.reddit.com/r/Kotlin/comments/oeaf73/looking_for_some_project_based_tutorial/)
 - [I used GitHub Copilot for Kotlin (around the 20 minute mark) let’s just say it has a little ways to go 😅](https://www.reddit.com/r/Kotlin/comments/oe9lp6/i_used_github_copilot_for_kotlin_around_the_20/)
-- [Unresolved reference can't compare this[other] < this[lowest]](https://www.reddit.com/r/Kotlin/comments/oe88jx/unresolved_reference_cant_compare_thisother/)
-- [Effective Kotlin Item 44: Respect the contract of compareTo](https://www.reddit.com/r/Kotlin/comments/oe2cc7/effective_kotlin_item_44_respect_the_contract_of/)
-- [The Kotlin programming language repository summary](https://www.reddit.com/r/Kotlin/comments/odr92g/the_kotlin_programming_language_repository_summary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
