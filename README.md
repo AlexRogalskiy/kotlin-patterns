@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lightweight scripts-like Kotlin programs?](https://www.reddit.com/r/Kotlin/comments/ofv8hy/lightweight_scriptslike_kotlin_programs/)
+- [Ktor - How to measure the size of outgoing traffic](https://www.reddit.com/r/Kotlin/comments/ofohyc/ktor_how_to_measure_the_size_of_outgoing_traffic/)
+- [Open Source Gurus Josh Long (Spring), Fred Simon (JFrog), Luke Daley (Gradle), and Jiyasa Grover (Twitter) debate next Thursday in DevProdEng Showdown!](https://www.reddit.com/r/Kotlin/comments/ofm610/open_source_gurus_josh_long_spring_fred_simon/)
+- [Adding Volume to the Kotlin Identity](https://www.reddit.com/r/Kotlin/comments/ofm3wd/adding_volume_to_the_kotlin_identity/)
+- [Adding Volume to the Kotlin Identity](https://www.reddit.com/r/Kotlin/comments/ofis1x/adding_volume_to_the_kotlin_identity/)
+- [Default Parameters in TypeScript Typings](https://www.reddit.com/r/Kotlin/comments/ofbovb/default_parameters_in_typescript_typings/)
 - [Type-safe heterogeneous map in Kotlin](https://www.reddit.com/r/Kotlin/comments/oewwg4/typesafe_heterogeneous_map_in_kotlin/)
 - [Why use Composition?](https://www.reddit.com/r/Kotlin/comments/oev4av/why_use_composition/)
 - [Case studies for Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/oerpdw/case_studies_for_kotlinjs/)
 - [Is it a good idea that I'm trying to learn multithreading in Java before I can fully grasp how Coroutine works in Kotlin?](https://www.reddit.com/r/Kotlin/comments/oel1lo/is_it_a_good_idea_that_im_trying_to_learn/)
-- [Implementation of Post request with volley?](https://www.reddit.com/r/Kotlin/comments/oeg1hc/implementation_of_post_request_with_volley/)
-- [Live Webinar - Kotlin Features Survey Webinar](https://www.reddit.com/r/Kotlin/comments/oed0e1/live_webinar_kotlin_features_survey_webinar/)
-- [Kotlin Tutorial #8 | Using Kotlin’s Nullablity Constraints to Improve Code](https://www.reddit.com/r/Kotlin/comments/oecf9r/kotlin_tutorial_8_using_kotlins_nullablity/)
-- [reverse char array in kotlin](https://www.reddit.com/r/Kotlin/comments/oec1cg/reverse_char_array_in_kotlin/)
-- [Looking for some project based tutorial](https://www.reddit.com/r/Kotlin/comments/oeaf73/looking_for_some_project_based_tutorial/)
-- [I used GitHub Copilot for Kotlin (around the 20 minute mark) let’s just say it has a little ways to go 😅](https://www.reddit.com/r/Kotlin/comments/oe9lp6/i_used_github_copilot_for_kotlin_around_the_20/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
