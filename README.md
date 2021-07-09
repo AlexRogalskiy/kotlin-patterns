@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for recommendations for very fast/efficient shape libraries](https://www.reddit.com/r/Kotlin/comments/oggnh5/looking_for_recommendations_for_very/)
+- [Formatting check](https://www.reddit.com/r/Kotlin/comments/ogeud1/formatting_check/)
+- [Is there a class that I can put and read forward indefinitely?](https://www.reddit.com/r/Kotlin/comments/ogdlu1/is_there_a_class_that_i_can_put_and_read_forward/)
+- [🦁 Tune into the latest episode of Standard Library Safari and learn all about Kotlin lists! 📋 Lists are the most popular kind of collection in Kotlin – and for good reason! Watch our video to sharpen your skills and learn something new about the Kotlin list API!](https://www.reddit.com/r/Kotlin/comments/ogdhri/tune_into_the_latest_episode_of_standard_library/)
+- [Just getting started, any tips?](https://www.reddit.com/r/Kotlin/comments/ogahdx/just_getting_started_any_tips/)
+- [Kotlin/KEEP Context Receivers](https://www.reddit.com/r/Kotlin/comments/og14os/kotlinkeep_context_receivers/)
+- [Kotlin 1.5.20 advances Java interoperability, helps to speed things up](https://www.reddit.com/r/Kotlin/comments/og11l8/kotlin_1520_advances_java_interoperability_helps/)
 - [Lightweight scripts-like Kotlin programs?](https://www.reddit.com/r/Kotlin/comments/ofv8hy/lightweight_scriptslike_kotlin_programs/)
 - [Ktor - How to measure the size of outgoing traffic](https://www.reddit.com/r/Kotlin/comments/ofohyc/ktor_how_to_measure_the_size_of_outgoing_traffic/)
 - [Open Source Gurus Josh Long (Spring), Fred Simon (JFrog), Luke Daley (Gradle), and Jiyasa Grover (Twitter) debate next Thursday in DevProdEng Showdown!](https://www.reddit.com/r/Kotlin/comments/ofm610/open_source_gurus_josh_long_spring_fred_simon/)
-- [Adding Volume to the Kotlin Identity](https://www.reddit.com/r/Kotlin/comments/ofm3wd/adding_volume_to_the_kotlin_identity/)
-- [Adding Volume to the Kotlin Identity](https://www.reddit.com/r/Kotlin/comments/ofis1x/adding_volume_to_the_kotlin_identity/)
-- [Default Parameters in TypeScript Typings](https://www.reddit.com/r/Kotlin/comments/ofbovb/default_parameters_in_typescript_typings/)
-- [Type-safe heterogeneous map in Kotlin](https://www.reddit.com/r/Kotlin/comments/oewwg4/typesafe_heterogeneous_map_in_kotlin/)
-- [Why use Composition?](https://www.reddit.com/r/Kotlin/comments/oev4av/why_use_composition/)
-- [Case studies for Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/oerpdw/case_studies_for_kotlinjs/)
-- [Is it a good idea that I'm trying to learn multithreading in Java before I can fully grasp how Coroutine works in Kotlin?](https://www.reddit.com/r/Kotlin/comments/oel1lo/is_it_a_good_idea_that_im_trying_to_learn/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
