@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Calculus library](https://www.reddit.com/r/Kotlin/comments/oh35gf/calculus_library/)
+- [The Kotlin Features Webinar with Roman Elizarov and Svetlana Isakova](https://www.reddit.com/r/Kotlin/comments/oguz27/the_kotlin_features_webinar_with_roman_elizarov/)
+- [Best webscraping tool for kotlin 2021?](https://www.reddit.com/r/Kotlin/comments/ogr2av/best_webscraping_tool_for_kotlin_2021/)
+- [Building Your App with Kotlin: Interesting Facts You Need to Know](https://www.reddit.com/r/Kotlin/comments/ogr1m6/building_your_app_with_kotlin_interesting_facts/)
+- [Ktor help for developing mobile client application](https://www.reddit.com/r/Kotlin/comments/ogpsvx/ktor_help_for_developing_mobile_client_application/)
 - [Looking for recommendations for very fast/efficient shape libraries](https://www.reddit.com/r/Kotlin/comments/oggnh5/looking_for_recommendations_for_very/)
 - [Formatting check](https://www.reddit.com/r/Kotlin/comments/ogeud1/formatting_check/)
 - [Is there a class that I can put and read forward indefinitely?](https://www.reddit.com/r/Kotlin/comments/ogdlu1/is_there_a_class_that_i_can_put_and_read_forward/)
 - [🦁 Tune into the latest episode of Standard Library Safari and learn all about Kotlin lists! 📋 Lists are the most popular kind of collection in Kotlin – and for good reason! Watch our video to sharpen your skills and learn something new about the Kotlin list API!](https://www.reddit.com/r/Kotlin/comments/ogdhri/tune_into_the_latest_episode_of_standard_library/)
 - [Just getting started, any tips?](https://www.reddit.com/r/Kotlin/comments/ogahdx/just_getting_started_any_tips/)
-- [Kotlin/KEEP Context Receivers](https://www.reddit.com/r/Kotlin/comments/og14os/kotlinkeep_context_receivers/)
-- [Kotlin 1.5.20 advances Java interoperability, helps to speed things up](https://www.reddit.com/r/Kotlin/comments/og11l8/kotlin_1520_advances_java_interoperability_helps/)
-- [Lightweight scripts-like Kotlin programs?](https://www.reddit.com/r/Kotlin/comments/ofv8hy/lightweight_scriptslike_kotlin_programs/)
-- [Ktor - How to measure the size of outgoing traffic](https://www.reddit.com/r/Kotlin/comments/ofohyc/ktor_how_to_measure_the_size_of_outgoing_traffic/)
-- [Open Source Gurus Josh Long (Spring), Fred Simon (JFrog), Luke Daley (Gradle), and Jiyasa Grover (Twitter) debate next Thursday in DevProdEng Showdown!](https://www.reddit.com/r/Kotlin/comments/ofm610/open_source_gurus_josh_long_spring_fred_simon/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
