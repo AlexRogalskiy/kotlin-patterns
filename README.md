@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Effective Resources for Intermediate Developer in Other Languages](https://www.reddit.com/r/Kotlin/comments/ohlou3/effective_resources_for_intermediate_developer_in/)
+- [Talking Kotlin #100 Kotlin at DoorDash](https://www.reddit.com/r/Kotlin/comments/ohkwwv/talking_kotlin_100_kotlin_at_doordash/)
+- [How to make simple server API with kotlin?](https://www.reddit.com/r/Kotlin/comments/ohilvm/how_to_make_simple_server_api_with_kotlin/)
+- [No 'run' button?](https://www.reddit.com/r/Kotlin/comments/ohifq3/no_run_button/)
+- [Is KorGE the right choice for a small Kotlin 2d game?](https://www.reddit.com/r/Kotlin/comments/ohhfxw/is_korge_the_right_choice_for_a_small_kotlin_2d/)
+- [What Http libraries exist for kotlin and do you need one for the places API](https://www.reddit.com/r/Kotlin/comments/ohg5mf/what_http_libraries_exist_for_kotlin_and_do_you/)
 - [Calculus library](https://www.reddit.com/r/Kotlin/comments/oh35gf/calculus_library/)
 - [The Kotlin Features Webinar with Roman Elizarov and Svetlana Isakova](https://www.reddit.com/r/Kotlin/comments/oguz27/the_kotlin_features_webinar_with_roman_elizarov/)
 - [Best webscraping tool for kotlin 2021?](https://www.reddit.com/r/Kotlin/comments/ogr2av/best_webscraping_tool_for_kotlin_2021/)
 - [Building Your App with Kotlin: Interesting Facts You Need to Know](https://www.reddit.com/r/Kotlin/comments/ogr1m6/building_your_app_with_kotlin_interesting_facts/)
-- [Ktor help for developing mobile client application](https://www.reddit.com/r/Kotlin/comments/ogpsvx/ktor_help_for_developing_mobile_client_application/)
-- [Looking for recommendations for very fast/efficient shape libraries](https://www.reddit.com/r/Kotlin/comments/oggnh5/looking_for_recommendations_for_very/)
-- [Formatting check](https://www.reddit.com/r/Kotlin/comments/ogeud1/formatting_check/)
-- [Is there a class that I can put and read forward indefinitely?](https://www.reddit.com/r/Kotlin/comments/ogdlu1/is_there_a_class_that_i_can_put_and_read_forward/)
-- [🦁 Tune into the latest episode of Standard Library Safari and learn all about Kotlin lists! 📋 Lists are the most popular kind of collection in Kotlin – and for good reason! Watch our video to sharpen your skills and learn something new about the Kotlin list API!](https://www.reddit.com/r/Kotlin/comments/ogdhri/tune_into_the_latest_episode_of_standard_library/)
-- [Just getting started, any tips?](https://www.reddit.com/r/Kotlin/comments/ogahdx/just_getting_started_any_tips/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
