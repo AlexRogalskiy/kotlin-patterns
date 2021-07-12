@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [so glad that result is finalized in 1.5](https://www.reddit.com/r/Kotlin/comments/oi9rh2/so_glad_that_result_is_finalized_in_15/)
+- [Downloading kotlin API reference docs](https://www.reddit.com/r/Kotlin/comments/oi8unm/downloading_kotlin_api_reference_docs/)
+- [Ktoml: Kotlin Native serialization library for TOML](https://www.reddit.com/r/Kotlin/comments/oi6ze2/ktoml_kotlin_native_serialization_library_for_toml/)
+- [Need Advice](https://www.reddit.com/r/Kotlin/comments/ohwo3y/need_advice/)
 - [Effective Resources for Intermediate Developer in Other Languages](https://www.reddit.com/r/Kotlin/comments/ohlou3/effective_resources_for_intermediate_developer_in/)
 - [Talking Kotlin #100 Kotlin at DoorDash](https://www.reddit.com/r/Kotlin/comments/ohkwwv/talking_kotlin_100_kotlin_at_doordash/)
 - [How to make simple server API with kotlin?](https://www.reddit.com/r/Kotlin/comments/ohilvm/how_to_make_simple_server_api_with_kotlin/)
 - [No 'run' button?](https://www.reddit.com/r/Kotlin/comments/ohifq3/no_run_button/)
 - [Is KorGE the right choice for a small Kotlin 2d game?](https://www.reddit.com/r/Kotlin/comments/ohhfxw/is_korge_the_right_choice_for_a_small_kotlin_2d/)
 - [What Http libraries exist for kotlin and do you need one for the places API](https://www.reddit.com/r/Kotlin/comments/ohg5mf/what_http_libraries_exist_for_kotlin_and_do_you/)
-- [Calculus library](https://www.reddit.com/r/Kotlin/comments/oh35gf/calculus_library/)
-- [The Kotlin Features Webinar with Roman Elizarov and Svetlana Isakova](https://www.reddit.com/r/Kotlin/comments/oguz27/the_kotlin_features_webinar_with_roman_elizarov/)
-- [Best webscraping tool for kotlin 2021?](https://www.reddit.com/r/Kotlin/comments/ogr2av/best_webscraping_tool_for_kotlin_2021/)
-- [Building Your App with Kotlin: Interesting Facts You Need to Know](https://www.reddit.com/r/Kotlin/comments/ogr1m6/building_your_app_with_kotlin_interesting_facts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
