@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to test vector drawables in espresso which are dynamic](https://www.reddit.com/r/Kotlin/comments/oizecm/how_to_test_vector_drawables_in_espresso_which/)
+- [Creating fakes using reflection](https://www.reddit.com/r/Kotlin/comments/oiyp76/creating_fakes_using_reflection/)
+- [Effective Kotlin Item 45: Consider extracting non-essential parts of your API into extensions](https://www.reddit.com/r/Kotlin/comments/oimay4/effective_kotlin_item_45_consider_extracting/)
+- [Future of Java (Kotlin by Extension)](https://www.reddit.com/r/Kotlin/comments/oilhx9/future_of_java_kotlin_by_extension/)
+- [Utterly lost. Need noob advice.](https://www.reddit.com/r/Kotlin/comments/oihxk5/utterly_lost_need_noob_advice/)
 - [so glad that result is finalized in 1.5](https://www.reddit.com/r/Kotlin/comments/oi9rh2/so_glad_that_result_is_finalized_in_15/)
 - [Downloading kotlin API reference docs](https://www.reddit.com/r/Kotlin/comments/oi8unm/downloading_kotlin_api_reference_docs/)
 - [Ktoml: Kotlin Native serialization library for TOML](https://www.reddit.com/r/Kotlin/comments/oi6ze2/ktoml_kotlin_native_serialization_library_for_toml/)
 - [Need Advice](https://www.reddit.com/r/Kotlin/comments/ohwo3y/need_advice/)
 - [Effective Resources for Intermediate Developer in Other Languages](https://www.reddit.com/r/Kotlin/comments/ohlou3/effective_resources_for_intermediate_developer_in/)
-- [Talking Kotlin #100 Kotlin at DoorDash](https://www.reddit.com/r/Kotlin/comments/ohkwwv/talking_kotlin_100_kotlin_at_doordash/)
-- [How to make simple server API with kotlin?](https://www.reddit.com/r/Kotlin/comments/ohilvm/how_to_make_simple_server_api_with_kotlin/)
-- [No 'run' button?](https://www.reddit.com/r/Kotlin/comments/ohifq3/no_run_button/)
-- [Is KorGE the right choice for a small Kotlin 2d game?](https://www.reddit.com/r/Kotlin/comments/ohhfxw/is_korge_the_right_choice_for_a_small_kotlin_2d/)
-- [What Http libraries exist for kotlin and do you need one for the places API](https://www.reddit.com/r/Kotlin/comments/ohg5mf/what_http_libraries_exist_for_kotlin_and_do_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
