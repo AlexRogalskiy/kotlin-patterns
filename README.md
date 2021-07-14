@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to parse nested json with retrofit](https://www.reddit.com/r/Kotlin/comments/ojr5u1/how_to_parse_nested_json_with_retrofit/)
+- [Released Kotlin 1.5.21](https://www.reddit.com/r/Kotlin/comments/ojkj8g/released_kotlin_1521/)
+- [Kotlin Features Survey Webinar](https://www.reddit.com/r/Kotlin/comments/ojibus/kotlin_features_survey_webinar/)
+- [Does KMM have hot/live reload [like ReacNative or even Flutter] ?](https://www.reddit.com/r/Kotlin/comments/ojhxzx/does_kmm_have_hotlive_reload_like_reacnative_or/)
+- [Is there a kotlin lookup library? or a better way to learn kotlin?](https://www.reddit.com/r/Kotlin/comments/ojg6hs/is_there_a_kotlin_lookup_library_or_a_better_way/)
+- [kotlin-satlib: SAT solver wrappers for Kotlin](https://www.reddit.com/r/Kotlin/comments/ojejpi/kotlinsatlib_sat_solver_wrappers_for_kotlin/)
+- [Any clever/efficient way to sort a list of objects according to another list of ordered values of a specific field?](https://www.reddit.com/r/Kotlin/comments/oje4d0/any_cleverefficient_way_to_sort_a_list_of_objects/)
 - [How to test vector drawables in espresso which are dynamic](https://www.reddit.com/r/Kotlin/comments/oizecm/how_to_test_vector_drawables_in_espresso_which/)
 - [Creating fakes using reflection](https://www.reddit.com/r/Kotlin/comments/oiyp76/creating_fakes_using_reflection/)
 - [Effective Kotlin Item 45: Consider extracting non-essential parts of your API into extensions](https://www.reddit.com/r/Kotlin/comments/oimay4/effective_kotlin_item_45_consider_extracting/)
-- [Future of Java (Kotlin by Extension)](https://www.reddit.com/r/Kotlin/comments/oilhx9/future_of_java_kotlin_by_extension/)
-- [Utterly lost. Need noob advice.](https://www.reddit.com/r/Kotlin/comments/oihxk5/utterly_lost_need_noob_advice/)
-- [so glad that result is finalized in 1.5](https://www.reddit.com/r/Kotlin/comments/oi9rh2/so_glad_that_result_is_finalized_in_15/)
-- [Downloading kotlin API reference docs](https://www.reddit.com/r/Kotlin/comments/oi8unm/downloading_kotlin_api_reference_docs/)
-- [Ktoml: Kotlin Native serialization library for TOML](https://www.reddit.com/r/Kotlin/comments/oi6ze2/ktoml_kotlin_native_serialization_library_for_toml/)
-- [Need Advice](https://www.reddit.com/r/Kotlin/comments/ohwo3y/need_advice/)
-- [Effective Resources for Intermediate Developer in Other Languages](https://www.reddit.com/r/Kotlin/comments/ohlou3/effective_resources_for_intermediate_developer_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
