@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Object vs. Class](https://www.reddit.com/r/Kotlin/comments/okfq4j/object_vs_class/)
+- [How to make heads and tails of Kotlin's rich and diverse feature set?](https://www.reddit.com/r/Kotlin/comments/okauv5/how_to_make_heads_and_tails_of_kotlins_rich_and/)
+- [Solving Advent of Code Puzzles in Idiomatic Kotlin](https://www.reddit.com/r/Kotlin/comments/ok7ncd/solving_advent_of_code_puzzles_in_idiomatic_kotlin/)
+- [How to build an XCFramework on Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/ok681w/how_to_build_an_xcframework_on_kotlin/)
+- [Head First Kotlin short review](https://www.reddit.com/r/Kotlin/comments/ok3wsh/head_first_kotlin_short_review/)
+- [Changing colors of media icons based on current color of video in background without using gradients](https://www.reddit.com/r/Kotlin/comments/ok18hx/changing_colors_of_media_icons_based_on_current/)
+- [[22 hrs left] Android App Development Bootcamp with Kotlin - Masterclass](https://www.reddit.com/r/Kotlin/comments/ok16un/22_hrs_left_android_app_development_bootcamp_with/)
+- [Kotlin coroutines dispatchers](https://www.reddit.com/r/Kotlin/comments/ojzaxg/kotlin_coroutines_dispatchers/)
+- [Kotlin coroutines dispatchers - how each of them works and where should be used](https://www.reddit.com/r/Kotlin/comments/ojys77/kotlin_coroutines_dispatchers_how_each_of_them/)
 - [How to parse nested json with retrofit](https://www.reddit.com/r/Kotlin/comments/ojr5u1/how_to_parse_nested_json_with_retrofit/)
-- [Released Kotlin 1.5.21](https://www.reddit.com/r/Kotlin/comments/ojkj8g/released_kotlin_1521/)
-- [Kotlin Features Survey Webinar](https://www.reddit.com/r/Kotlin/comments/ojibus/kotlin_features_survey_webinar/)
-- [Does KMM have hot/live reload [like ReacNative or even Flutter] ?](https://www.reddit.com/r/Kotlin/comments/ojhxzx/does_kmm_have_hotlive_reload_like_reacnative_or/)
-- [Is there a kotlin lookup library? or a better way to learn kotlin?](https://www.reddit.com/r/Kotlin/comments/ojg6hs/is_there_a_kotlin_lookup_library_or_a_better_way/)
-- [kotlin-satlib: SAT solver wrappers for Kotlin](https://www.reddit.com/r/Kotlin/comments/ojejpi/kotlinsatlib_sat_solver_wrappers_for_kotlin/)
-- [Any clever/efficient way to sort a list of objects according to another list of ordered values of a specific field?](https://www.reddit.com/r/Kotlin/comments/oje4d0/any_cleverefficient_way_to_sort_a_list_of_objects/)
-- [How to test vector drawables in espresso which are dynamic](https://www.reddit.com/r/Kotlin/comments/oizecm/how_to_test_vector_drawables_in_espresso_which/)
-- [Creating fakes using reflection](https://www.reddit.com/r/Kotlin/comments/oiyp76/creating_fakes_using_reflection/)
-- [Effective Kotlin Item 45: Consider extracting non-essential parts of your API into extensions](https://www.reddit.com/r/Kotlin/comments/oimay4/effective_kotlin_item_45_consider_extracting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
