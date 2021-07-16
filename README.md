@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Having this error and I don’t know what it means. The emulator only runs the previous project I worked on and I get this error. Please help](https://www.reddit.com/r/Kotlin/comments/ol3c46/having_this_error_and_i_dont_know_what_it_means/)
+- [How to Capture Audio Playback](https://www.reddit.com/r/Kotlin/comments/okycnq/how_to_capture_audio_playback/)
+- [Not long ago I did a presentation in my company to introduce them to Kotlin Multiplatform. I have a recorded version here, let me know what you guys think 🙂](https://www.reddit.com/r/Kotlin/comments/okv18k/not_long_ago_i_did_a_presentation_in_my_company/)
+- [Multiplatform Gradle Plugin Improved for Connecting KMM Modules](https://www.reddit.com/r/Kotlin/comments/okty5j/multiplatform_gradle_plugin_improved_for/)
+- [does a native Android App written Kotlin need a kotlin server/backend or am I able to use the same for my web app written in a different language?](https://www.reddit.com/r/Kotlin/comments/okr0lw/does_a_native_android_app_written_kotlin_need_a/)
+- [Books](https://www.reddit.com/r/Kotlin/comments/okpwtb/books/)
+- [Mobile Banking App with Kotlin](https://www.reddit.com/r/Kotlin/comments/okp0wi/mobile_banking_app_with_kotlin/)
+- [Check out the new series from the Kotlin team! Learn idiomatic Kotlin and practice your language skills by completing short fun, tasks from the Advent of Code 2020!](https://www.reddit.com/r/Kotlin/comments/oknu8r/check_out_the_new_series_from_the_kotlin_team/)
+- [Idk if some of you work with Typescript, but I do and I miss Kotlin's beautiful stdlib. So....](https://www.reddit.com/r/Kotlin/comments/okmi8x/idk_if_some_of_you_work_with_typescript_but_i_do/)
 - [Object vs. Class](https://www.reddit.com/r/Kotlin/comments/okfq4j/object_vs_class/)
-- [How to make heads and tails of Kotlin's rich and diverse feature set?](https://www.reddit.com/r/Kotlin/comments/okauv5/how_to_make_heads_and_tails_of_kotlins_rich_and/)
-- [Solving Advent of Code Puzzles in Idiomatic Kotlin](https://www.reddit.com/r/Kotlin/comments/ok7ncd/solving_advent_of_code_puzzles_in_idiomatic_kotlin/)
-- [How to build an XCFramework on Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/ok681w/how_to_build_an_xcframework_on_kotlin/)
-- [Head First Kotlin short review](https://www.reddit.com/r/Kotlin/comments/ok3wsh/head_first_kotlin_short_review/)
-- [Changing colors of media icons based on current color of video in background without using gradients](https://www.reddit.com/r/Kotlin/comments/ok18hx/changing_colors_of_media_icons_based_on_current/)
-- [[22 hrs left] Android App Development Bootcamp with Kotlin - Masterclass](https://www.reddit.com/r/Kotlin/comments/ok16un/22_hrs_left_android_app_development_bootcamp_with/)
-- [Kotlin coroutines dispatchers](https://www.reddit.com/r/Kotlin/comments/ojzaxg/kotlin_coroutines_dispatchers/)
-- [Kotlin coroutines dispatchers - how each of them works and where should be used](https://www.reddit.com/r/Kotlin/comments/ojys77/kotlin_coroutines_dispatchers_how_each_of_them/)
-- [How to parse nested json with retrofit](https://www.reddit.com/r/Kotlin/comments/ojr5u1/how_to_parse_nested_json_with_retrofit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
