@@ -251,6 +251,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Colour gets overridden?](https://www.reddit.com/r/Kotlin/comments/olg03p/colour_gets_overridden/)
+- [7 JVM Arguments boost your application performances](https://www.reddit.com/r/Kotlin/comments/oldwuy/7_jvm_arguments_boost_your_application/)
+- [Kotlin DSL, BuildSrc, Product Flavors, Flavor Icon and more](https://www.reddit.com/r/Kotlin/comments/olbz4d/kotlin_dsl_buildsrc_product_flavors_flavor_icon/)
 - [Having this error and I don’t know what it means. The emulator only runs the previous project I worked on and I get this error. Please help](https://www.reddit.com/r/Kotlin/comments/ol3c46/having_this_error_and_i_dont_know_what_it_means/)
 - [How to Capture Audio Playback](https://www.reddit.com/r/Kotlin/comments/okycnq/how_to_capture_audio_playback/)
 - [Not long ago I did a presentation in my company to introduce them to Kotlin Multiplatform. I have a recorded version here, let me know what you guys think 🙂](https://www.reddit.com/r/Kotlin/comments/okv18k/not_long_ago_i_did_a_presentation_in_my_company/)
@@ -258,9 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [does a native Android App written Kotlin need a kotlin server/backend or am I able to use the same for my web app written in a different language?](https://www.reddit.com/r/Kotlin/comments/okr0lw/does_a_native_android_app_written_kotlin_need_a/)
 - [Books](https://www.reddit.com/r/Kotlin/comments/okpwtb/books/)
 - [Mobile Banking App with Kotlin](https://www.reddit.com/r/Kotlin/comments/okp0wi/mobile_banking_app_with_kotlin/)
-- [Check out the new series from the Kotlin team! Learn idiomatic Kotlin and practice your language skills by completing short fun, tasks from the Advent of Code 2020!](https://www.reddit.com/r/Kotlin/comments/oknu8r/check_out_the_new_series_from_the_kotlin_team/)
-- [Idk if some of you work with Typescript, but I do and I miss Kotlin's beautiful stdlib. So....](https://www.reddit.com/r/Kotlin/comments/okmi8x/idk_if_some_of_you_work_with_typescript_but_i_do/)
-- [Object vs. Class](https://www.reddit.com/r/Kotlin/comments/okfq4j/object_vs_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
