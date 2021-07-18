@@ -39,14 +39,16 @@ extra:
       link: 'https://github.com/AlexRogalskiy/kotlin-patterns'
 
 markdown_extensions:
-  - markdown.extensions.admonition
-  - markdown.extensions.codehilite:
+  - admonition
+  - codehilite:
       linenums: true
       use_pygments: false
-  - markdown.extensions.def_list
-  - markdown.extensions.footnotes
-  - markdown.extensions.meta
-  - markdown.extensions.toc:
+      guess_lang: false
+  - def_list
+  - footnotes
+  - tables
+  - meta
+  - toc:
       permalink: true
 
 pages:
