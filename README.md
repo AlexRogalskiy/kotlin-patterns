@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Experiment to make OpenGL work together with Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/on36sy/experiment_to_make_opengl_work_together_with/)
+- [How to pass data between activities that isn't bound to the first activity's view](https://www.reddit.com/r/Kotlin/comments/omtvc3/how_to_pass_data_between_activities_that_isnt/)
+- [Best practice for constants?](https://www.reddit.com/r/Kotlin/comments/omswjl/best_practice_for_constants/)
+- [Calendar Component in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/ompe45/calendar_component_in_jetpack_compose/)
+- [How to efficiently write bytes to file with buffer?](https://www.reddit.com/r/Kotlin/comments/ompbsc/how_to_efficiently_write_bytes_to_file_with_buffer/)
+- [kotlin startonlyhotspot module](https://www.reddit.com/r/Kotlin/comments/omkkmy/kotlin_startonlyhotspot_module/)
+- [Extract data API](https://www.reddit.com/r/Kotlin/comments/omihm3/extract_data_api/)
 - [Useful Kotlin Idioms You Should Know](https://www.reddit.com/r/Kotlin/comments/ombsdm/useful_kotlin_idioms_you_should_know/)
 - [The First Apps To Use Android 12's Material You Theming](https://www.reddit.com/r/Kotlin/comments/om1t0m/the_first_apps_to_use_android_12s_material_you/)
 - [Kotlin examples not so easy to find for AWS?](https://www.reddit.com/r/Kotlin/comments/om0c8w/kotlin_examples_not_so_easy_to_find_for_aws/)
-- [KMM: Learn How Multiplatform Went Down in the Real World](https://www.reddit.com/r/Kotlin/comments/olwvt8/kmm_learn_how_multiplatform_went_down_in_the_real/)
-- [Colour gets overridden?](https://www.reddit.com/r/Kotlin/comments/olg03p/colour_gets_overridden/)
-- [7 JVM Arguments boost your application performances](https://www.reddit.com/r/Kotlin/comments/oldwuy/7_jvm_arguments_boost_your_application/)
-- [Kotlin DSL, BuildSrc, Product Flavors, Flavor Icon and more](https://www.reddit.com/r/Kotlin/comments/olbz4d/kotlin_dsl_buildsrc_product_flavors_flavor_icon/)
-- [Having this error and I don’t know what it means. The emulator only runs the previous project I worked on and I get this error. Please help](https://www.reddit.com/r/Kotlin/comments/ol3c46/having_this_error_and_i_dont_know_what_it_means/)
-- [How to Capture Audio Playback](https://www.reddit.com/r/Kotlin/comments/okycnq/how_to_capture_audio_playback/)
-- [Not long ago I did a presentation in my company to introduce them to Kotlin Multiplatform. I have a recorded version here, let me know what you guys think 🙂](https://www.reddit.com/r/Kotlin/comments/okv18k/not_long_ago_i_did_a_presentation_in_my_company/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
