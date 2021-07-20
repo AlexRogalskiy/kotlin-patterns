@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Cookbook featured in Programming Cookbooks 2021 by O'Reilly](https://www.reddit.com/r/Kotlin/comments/onqbi2/kotlin_cookbook_featured_in_programming_cookbooks/)
+- [[HELP] Please help me with the solution to a simple Kotlin codelabs app](https://www.reddit.com/r/Kotlin/comments/onl0g3/help_please_help_me_with_the_solution_to_a_simple/)
+- [Build multiplatform projects in Kotlin and learn more about server driven UI!](https://www.reddit.com/r/Kotlin/comments/onc4fe/build_multiplatform_projects_in_kotlin_and_learn/)
+- [WHAT IS KOTLIN MULTIPLATFORM?](https://www.reddit.com/r/Kotlin/comments/onbuhc/what_is_kotlin_multiplatform/)
+- [👨‍🏫 Did you know? Kotlin is becoming increasingly popular with educators, and many of the top universities now have Kotlin in their curriculums. 📈 We sit down with Ksenia Shneyveys and talk about the role of Kotlin in teaching. 🎓 Tune in now! 🎧](https://www.reddit.com/r/Kotlin/comments/ona3a8/did_you_know_kotlin_is_becoming_increasingly/)
+- [Effective Kotlin Item 46: Avoid member extensions](https://www.reddit.com/r/Kotlin/comments/on9jdo/effective_kotlin_item_46_avoid_member_extensions/)
 - [Experiment to make OpenGL work together with Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/on36sy/experiment_to_make_opengl_work_together_with/)
 - [How to pass data between activities that isn't bound to the first activity's view](https://www.reddit.com/r/Kotlin/comments/omtvc3/how_to_pass_data_between_activities_that_isnt/)
 - [Best practice for constants?](https://www.reddit.com/r/Kotlin/comments/omswjl/best_practice_for_constants/)
 - [Calendar Component in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/ompe45/calendar_component_in_jetpack_compose/)
-- [How to efficiently write bytes to file with buffer?](https://www.reddit.com/r/Kotlin/comments/ompbsc/how_to_efficiently_write_bytes_to_file_with_buffer/)
-- [kotlin startonlyhotspot module](https://www.reddit.com/r/Kotlin/comments/omkkmy/kotlin_startonlyhotspot_module/)
-- [Extract data API](https://www.reddit.com/r/Kotlin/comments/omihm3/extract_data_api/)
-- [Useful Kotlin Idioms You Should Know](https://www.reddit.com/r/Kotlin/comments/ombsdm/useful_kotlin_idioms_you_should_know/)
-- [The First Apps To Use Android 12's Material You Theming](https://www.reddit.com/r/Kotlin/comments/om1t0m/the_first_apps_to_use_android_12s_material_you/)
-- [Kotlin examples not so easy to find for AWS?](https://www.reddit.com/r/Kotlin/comments/om0c8w/kotlin_examples_not_so_easy_to_find_for_aws/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
