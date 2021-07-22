@@ -251,7 +251,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Generics Are Too Limited (Click Here If You're Interested In My Solution)](https://www.reddit.com/r/Kotlin/comments/oofv1f/generics_are_too_limited_click_here_if_youre/)
+- [Idiomatic Kotlin: Solving Advent of Code Puzzles, Day 2](https://www.reddit.com/r/Kotlin/comments/oot0ot/idiomatic_kotlin_solving_advent_of_code_puzzles/)
+- [Learn Kotlin by Solving Puzzles! 🧩Let’s continue learning to write idiomatic Kotlin code by solving a problem from day 2 of Advent of Code 2020. This puzzle incorporates string utility functions, regular expressions, operations on collections, and more: ⬇️](https://www.reddit.com/r/Kotlin/comments/ooszig/learn_kotlin_by_solving_puzzles_lets_continue/)
+- [Doodle apps will soon run on desktop](https://www.reddit.com/r/Kotlin/comments/ooso5z/doodle_apps_will_soon_run_on_desktop/)
 - [[Yak Shaving] For an optional closure/function/lambda param, is it better to be nullable-defaulted-to-null or defaulted-to-{}?](https://www.reddit.com/r/Kotlin/comments/oo8r8k/yak_shaving_for_an_optional_closurefunctionlambda/)
 - [Preview of Kotlin 1.5.30 With Native Apple Silicon Support, Improved Kotlin DSL for the CocoaPods Gradle Plugin, and More](https://www.reddit.com/r/Kotlin/comments/oo4zzd/preview_of_kotlin_1530_with_native_apple_silicon/)
 - [Bookmarkable micro-content on Kotlin: 20 micro-contents on the basics of the language structure and concepts for quick reference](https://www.reddit.com/r/Kotlin/comments/oo4p29/bookmarkable_microcontent_on_kotlin_20/)
@@ -259,8 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Confused!](https://www.reddit.com/r/Kotlin/comments/oo0x0p/confused/)
 - [Kotlin Cookbook - Programming 2021 Book Bundle by O'Reilly](https://www.reddit.com/r/Kotlin/comments/oo0r0t/kotlin_cookbook_programming_2021_book_bundle_by/)
 - [newbie looking for android tv tutorials](https://www.reddit.com/r/Kotlin/comments/oo0m0y/newbie_looking_for_android_tv_tutorials/)
-- [Don't mock static: test SLF4J Logger with appenders (examples in Kotlin and Java)](https://www.reddit.com/r/Kotlin/comments/oo008z/dont_mock_static_test_slf4j_logger_with_appenders/)
-- [Why Doesn't Kotlin Use An Interface For Numbers That Overload Operators?](https://www.reddit.com/r/Kotlin/comments/onxjft/why_doesnt_kotlin_use_an_interface_for_numbers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
