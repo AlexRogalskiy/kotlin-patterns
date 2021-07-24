@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Release 0.8.0 · sokomishalov/skraper](https://www.reddit.com/r/Kotlin/comments/oqbqdg/release_080_sokomishalovskraper/)
+- [Optimizing Your Kotlin Build](https://www.reddit.com/r/Kotlin/comments/oq40h0/optimizing_your_kotlin_build/)
+- [MongoDB Database is not created in Kotlin(Ktor)](https://www.reddit.com/r/Kotlin/comments/oq3amc/mongodb_database_is_not_created_in_kotlinktor/)
+- [Coroutines (Part I) – Grasping the Fundamentals](https://www.reddit.com/r/Kotlin/comments/oq0dfd/coroutines_part_i_grasping_the_fundamentals/)
+- [Localisating libraries (offering libraries with l10n/i18n support)](https://www.reddit.com/r/Kotlin/comments/opzeai/localisating_libraries_offering_libraries_with/)
+- [Building Data Pipelines Using Kotlin](https://www.reddit.com/r/Kotlin/comments/optwug/building_data_pipelines_using_kotlin/)
 - [🧩 Creating an HTTP API with Ktor and Kotlin](https://www.reddit.com/r/Kotlin/comments/opjxzq/creating_an_http_api_with_ktor_and_kotlin/)
 - [Kweb 0.10.11 released, fixed browser history management, improved hyperlinks, improved SVG support, multiple API cleanups and Kdoc improvements](https://www.reddit.com/r/Kotlin/comments/opftty/kweb_01011_released_fixed_browser_history/)
-- [Kotlin Cookbook featured in the Programming Cookbooks Bundle 2021 by O'Reilly](https://www.reddit.com/r/Kotlin/comments/opbrjt/kotlin_cookbook_featured_in_the_programming/)
 - [how to write this javascript into kotlin?](https://www.reddit.com/r/Kotlin/comments/op7gv8/how_to_write_this_javascript_into_kotlin/)
-- [Idiomatic Kotlin: Solving Advent of Code Puzzles, Day 2](https://www.reddit.com/r/Kotlin/comments/oot0ot/idiomatic_kotlin_solving_advent_of_code_puzzles/)
 - [Learn Kotlin by Solving Puzzles! 🧩Let’s continue learning to write idiomatic Kotlin code by solving a problem from day 2 of Advent of Code 2020. This puzzle incorporates string utility functions, regular expressions, operations on collections, and more: ⬇️](https://www.reddit.com/r/Kotlin/comments/ooszig/learn_kotlin_by_solving_puzzles_lets_continue/)
-- [Doodle apps will soon run on desktop](https://www.reddit.com/r/Kotlin/comments/ooso5z/doodle_apps_will_soon_run_on_desktop/)
-- [[Yak Shaving] For an optional closure/function/lambda param, is it better to be nullable-defaulted-to-null or defaulted-to-{}?](https://www.reddit.com/r/Kotlin/comments/oo8r8k/yak_shaving_for_an_optional_closurefunctionlambda/)
-- [Preview of Kotlin 1.5.30 With Native Apple Silicon Support, Improved Kotlin DSL for the CocoaPods Gradle Plugin, and More](https://www.reddit.com/r/Kotlin/comments/oo4zzd/preview_of_kotlin_1530_with_native_apple_silicon/)
-- [Bookmarkable micro-content on Kotlin: 20 micro-contents on the basics of the language structure and concepts for quick reference](https://www.reddit.com/r/Kotlin/comments/oo4p29/bookmarkable_microcontent_on_kotlin_20/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
