@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are the things you don't like when working with kotlin?](https://www.reddit.com/r/Kotlin/comments/oqu8ap/what_are_the_things_you_dont_like_when_working/)
+- [What is the equivalent of Kotlin `invoke()` in Java?](https://www.reddit.com/r/Kotlin/comments/oqu4pi/what_is_the_equivalent_of_kotlin_invoke_in_java/)
+- [How to do optional nullables?](https://www.reddit.com/r/Kotlin/comments/oqtcfb/how_to_do_optional_nullables/)
+- [Is there a current explanation for how to use @sample in Dokka?](https://www.reddit.com/r/Kotlin/comments/oqryy1/is_there_a_current_explanation_for_how_to_use/)
+- [Kotlin Binary CLI Tool Template - quickly create your own CLI tool and compile it down to binary](https://www.reddit.com/r/Kotlin/comments/oqrwtq/kotlin_binary_cli_tool_template_quickly_create/)
+- [Learning Kotlin, I want to get better](https://www.reddit.com/r/Kotlin/comments/oqqpuo/learning_kotlin_i_want_to_get_better/)
+- [Lienzo-core toolkit for Kotlin](https://www.reddit.com/r/Kotlin/comments/oqho1z/lienzocore_toolkit_for_kotlin/)
 - [Release 0.8.0 · sokomishalov/skraper](https://www.reddit.com/r/Kotlin/comments/oqbqdg/release_080_sokomishalovskraper/)
 - [Optimizing Your Kotlin Build](https://www.reddit.com/r/Kotlin/comments/oq40h0/optimizing_your_kotlin_build/)
 - [MongoDB Database is not created in Kotlin(Ktor)](https://www.reddit.com/r/Kotlin/comments/oq3amc/mongodb_database_is_not_created_in_kotlinktor/)
-- [Coroutines (Part I) – Grasping the Fundamentals](https://www.reddit.com/r/Kotlin/comments/oq0dfd/coroutines_part_i_grasping_the_fundamentals/)
-- [Localisating libraries (offering libraries with l10n/i18n support)](https://www.reddit.com/r/Kotlin/comments/opzeai/localisating_libraries_offering_libraries_with/)
-- [Building Data Pipelines Using Kotlin](https://www.reddit.com/r/Kotlin/comments/optwug/building_data_pipelines_using_kotlin/)
-- [🧩 Creating an HTTP API with Ktor and Kotlin](https://www.reddit.com/r/Kotlin/comments/opjxzq/creating_an_http_api_with_ktor_and_kotlin/)
-- [Kweb 0.10.11 released, fixed browser history management, improved hyperlinks, improved SVG support, multiple API cleanups and Kdoc improvements](https://www.reddit.com/r/Kotlin/comments/opftty/kweb_01011_released_fixed_browser_history/)
-- [how to write this javascript into kotlin?](https://www.reddit.com/r/Kotlin/comments/op7gv8/how_to_write_this_javascript_into_kotlin/)
-- [Learn Kotlin by Solving Puzzles! 🧩Let’s continue learning to write idiomatic Kotlin code by solving a problem from day 2 of Advent of Code 2020. This puzzle incorporates string utility functions, regular expressions, operations on collections, and more: ⬇️](https://www.reddit.com/r/Kotlin/comments/ooszig/learn_kotlin_by_solving_puzzles_lets_continue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
