@@ -251,6 +251,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[KOTLIN | NEWBIES] Kotlin Notes For Absolute Beginners](https://www.reddit.com/r/Kotlin/comments/orisox/kotlin_newbies_kotlin_notes_for_absolute_beginners/)
+- [GitHub - emrul/graal-js-kotlin-coroutines: Experiments with Kotlin/Coroutines/GraalJS/JDK16](https://www.reddit.com/r/Kotlin/comments/orife6/github_emrulgraaljskotlincoroutines_experiments/)
+- [Kotlin Cookbook in Programming Bundle by O'Reilly](https://www.reddit.com/r/Kotlin/comments/or8bub/kotlin_cookbook_in_programming_bundle_by_oreilly/)
 - [What are the things you don't like when working with kotlin?](https://www.reddit.com/r/Kotlin/comments/oqu8ap/what_are_the_things_you_dont_like_when_working/)
 - [What is the equivalent of Kotlin `invoke()` in Java?](https://www.reddit.com/r/Kotlin/comments/oqu4pi/what_is_the_equivalent_of_kotlin_invoke_in_java/)
 - [How to do optional nullables?](https://www.reddit.com/r/Kotlin/comments/oqtcfb/how_to_do_optional_nullables/)
@@ -258,9 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Binary CLI Tool Template - quickly create your own CLI tool and compile it down to binary](https://www.reddit.com/r/Kotlin/comments/oqrwtq/kotlin_binary_cli_tool_template_quickly_create/)
 - [Learning Kotlin, I want to get better](https://www.reddit.com/r/Kotlin/comments/oqqpuo/learning_kotlin_i_want_to_get_better/)
 - [Lienzo-core toolkit for Kotlin](https://www.reddit.com/r/Kotlin/comments/oqho1z/lienzocore_toolkit_for_kotlin/)
-- [Release 0.8.0 · sokomishalov/skraper](https://www.reddit.com/r/Kotlin/comments/oqbqdg/release_080_sokomishalovskraper/)
-- [Optimizing Your Kotlin Build](https://www.reddit.com/r/Kotlin/comments/oq40h0/optimizing_your_kotlin_build/)
-- [MongoDB Database is not created in Kotlin(Ktor)](https://www.reddit.com/r/Kotlin/comments/oq3amc/mongodb_database_is_not_created_in_kotlinktor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
