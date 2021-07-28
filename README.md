@@ -251,6 +251,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What math do I need to know for kotlin](https://www.reddit.com/r/Kotlin/comments/oszeui/what_math_do_i_need_to_know_for_kotlin/)
+- [[React-Kotlin-JS] Responsive Side Navigation Bar?](https://www.reddit.com/r/Kotlin/comments/osj7zg/reactkotlinjs_responsive_side_navigation_bar/)
 - [Help me understand the spread operator](https://www.reddit.com/r/Kotlin/comments/os8pt1/help_me_understand_the_spread_operator/)
 - [Effective Kotlin Item 33: Consider factory functions instead of constructors](https://www.reddit.com/r/Kotlin/comments/oru3zl/effective_kotlin_item_33_consider_factory/)
 - [Cat controls button android 11](https://www.reddit.com/r/Kotlin/comments/orthod/cat_controls_button_android_11/)
@@ -259,8 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [GitHub - emrul/graal-js-kotlin-coroutines: Experiments with Kotlin/Coroutines/GraalJS/JDK16](https://www.reddit.com/r/Kotlin/comments/orife6/github_emrulgraaljskotlincoroutines_experiments/)
 - [Kotlin Cookbook in Programming Bundle by O'Reilly](https://www.reddit.com/r/Kotlin/comments/or8bub/kotlin_cookbook_in_programming_bundle_by_oreilly/)
 - [What are the things you don't like when working with kotlin?](https://www.reddit.com/r/Kotlin/comments/oqu8ap/what_are_the_things_you_dont_like_when_working/)
-- [What is the equivalent of Kotlin `invoke()` in Java?](https://www.reddit.com/r/Kotlin/comments/oqu4pi/what_is_the_equivalent_of_kotlin_invoke_in_java/)
-- [How to do optional nullables?](https://www.reddit.com/r/Kotlin/comments/oqtcfb/how_to_do_optional_nullables/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
