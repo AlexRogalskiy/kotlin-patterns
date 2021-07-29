@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jetpack Compose is now 1.0: announcing Android’s modern toolkit for building native UI](https://www.reddit.com/r/Kotlin/comments/ote4h2/jetpack_compose_is_now_10_announcing_androids/)
+- [How to parse JSON Key dynamically](https://www.reddit.com/r/Kotlin/comments/otd41n/how_to_parse_json_key_dynamically/)
+- [KMM(Kotlin multi platform):](https://www.reddit.com/r/Kotlin/comments/ot6x7y/kmmkotlin_multi_platform/)
+- [How does suspension work in Kotlin coroutines?](https://www.reddit.com/r/Kotlin/comments/ot5as5/how_does_suspension_work_in_kotlin_coroutines/)
+- [Jobs?](https://www.reddit.com/r/Kotlin/comments/ot0isu/jobs/)
 - [What math do I need to know for kotlin](https://www.reddit.com/r/Kotlin/comments/oszeui/what_math_do_i_need_to_know_for_kotlin/)
 - [[React-Kotlin-JS] Responsive Side Navigation Bar?](https://www.reddit.com/r/Kotlin/comments/osj7zg/reactkotlinjs_responsive_side_navigation_bar/)
 - [Help me understand the spread operator](https://www.reddit.com/r/Kotlin/comments/os8pt1/help_me_understand_the_spread_operator/)
 - [Effective Kotlin Item 33: Consider factory functions instead of constructors](https://www.reddit.com/r/Kotlin/comments/oru3zl/effective_kotlin_item_33_consider_factory/)
 - [Cat controls button android 11](https://www.reddit.com/r/Kotlin/comments/orthod/cat_controls_button_android_11/)
-- [Hire Kotlin Developers India | Kotlin Android Application Development Company](https://www.reddit.com/r/Kotlin/comments/orsfac/hire_kotlin_developers_india_kotlin_android/)
-- [[KOTLIN | NEWBIES] Kotlin Notes For Absolute Beginners](https://www.reddit.com/r/Kotlin/comments/orisox/kotlin_newbies_kotlin_notes_for_absolute_beginners/)
-- [GitHub - emrul/graal-js-kotlin-coroutines: Experiments with Kotlin/Coroutines/GraalJS/JDK16](https://www.reddit.com/r/Kotlin/comments/orife6/github_emrulgraaljskotlincoroutines_experiments/)
-- [Kotlin Cookbook in Programming Bundle by O'Reilly](https://www.reddit.com/r/Kotlin/comments/or8bub/kotlin_cookbook_in_programming_bundle_by_oreilly/)
-- [What are the things you don't like when working with kotlin?](https://www.reddit.com/r/Kotlin/comments/oqu8ap/what_are_the_things_you_dont_like_when_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
