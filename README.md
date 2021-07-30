@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Points in rectangle area](https://www.reddit.com/r/Kotlin/comments/ou6n6r/points_in_rectangle_area/)
+- ['this' is not defined in the context](https://www.reddit.com/r/Kotlin/comments/ou2zgp/this_is_not_defined_in_the_context/)
+- [Noob question about depency management](https://www.reddit.com/r/Kotlin/comments/otwvms/noob_question_about_depency_management/)
+- [Where to go from now? Finished 12 out of 18 projects in hyperskill](https://www.reddit.com/r/Kotlin/comments/otrvfn/where_to_go_from_now_finished_12_out_of_18/)
+- [What are the requirements to successfully use listFiles?](https://www.reddit.com/r/Kotlin/comments/otp6xl/what_are_the_requirements_to_successfully_use/)
 - [Jetpack Compose is now 1.0: announcing Android’s modern toolkit for building native UI](https://www.reddit.com/r/Kotlin/comments/ote4h2/jetpack_compose_is_now_10_announcing_androids/)
 - [How to parse JSON Key dynamically](https://www.reddit.com/r/Kotlin/comments/otd41n/how_to_parse_json_key_dynamically/)
 - [KMM(Kotlin multi platform):](https://www.reddit.com/r/Kotlin/comments/ot6x7y/kmmkotlin_multi_platform/)
 - [How does suspension work in Kotlin coroutines?](https://www.reddit.com/r/Kotlin/comments/ot5as5/how_does_suspension_work_in_kotlin_coroutines/)
 - [Jobs?](https://www.reddit.com/r/Kotlin/comments/ot0isu/jobs/)
-- [What math do I need to know for kotlin](https://www.reddit.com/r/Kotlin/comments/oszeui/what_math_do_i_need_to_know_for_kotlin/)
-- [[React-Kotlin-JS] Responsive Side Navigation Bar?](https://www.reddit.com/r/Kotlin/comments/osj7zg/reactkotlinjs_responsive_side_navigation_bar/)
-- [Help me understand the spread operator](https://www.reddit.com/r/Kotlin/comments/os8pt1/help_me_understand_the_spread_operator/)
-- [Effective Kotlin Item 33: Consider factory functions instead of constructors](https://www.reddit.com/r/Kotlin/comments/oru3zl/effective_kotlin_item_33_consider_factory/)
-- [Cat controls button android 11](https://www.reddit.com/r/Kotlin/comments/orthod/cat_controls_button_android_11/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
