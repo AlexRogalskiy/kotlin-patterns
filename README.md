@@ -251,6 +251,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Coroutines (Part II) – Job, SupervisorJob, Launch and Async by Victor Brandalise](https://www.reddit.com/r/Kotlin/comments/ouixyy/coroutines_part_ii_job_supervisorjob_launch_and/)
+- [How to Secure Secrets 🔑 in Android-Android Security-01](https://www.reddit.com/r/Kotlin/comments/ougko9/how_to_secure_secrets_in_androidandroid_security01/)
+- [OutOfMemoryError: Kill process or sacrifice child – causes & solutions](https://www.reddit.com/r/Kotlin/comments/oufuer/outofmemoryerror_kill_process_or_sacrifice_child/)
 - [Points in rectangle area](https://www.reddit.com/r/Kotlin/comments/ou6n6r/points_in_rectangle_area/)
 - ['this' is not defined in the context](https://www.reddit.com/r/Kotlin/comments/ou2zgp/this_is_not_defined_in_the_context/)
 - [Noob question about depency management](https://www.reddit.com/r/Kotlin/comments/otwvms/noob_question_about_depency_management/)
@@ -258,9 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What are the requirements to successfully use listFiles?](https://www.reddit.com/r/Kotlin/comments/otp6xl/what_are_the_requirements_to_successfully_use/)
 - [Jetpack Compose is now 1.0: announcing Android’s modern toolkit for building native UI](https://www.reddit.com/r/Kotlin/comments/ote4h2/jetpack_compose_is_now_10_announcing_androids/)
 - [How to parse JSON Key dynamically](https://www.reddit.com/r/Kotlin/comments/otd41n/how_to_parse_json_key_dynamically/)
-- [KMM(Kotlin multi platform):](https://www.reddit.com/r/Kotlin/comments/ot6x7y/kmmkotlin_multi_platform/)
-- [How does suspension work in Kotlin coroutines?](https://www.reddit.com/r/Kotlin/comments/ot5as5/how_does_suspension_work_in_kotlin_coroutines/)
-- [Jobs?](https://www.reddit.com/r/Kotlin/comments/ot0isu/jobs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
