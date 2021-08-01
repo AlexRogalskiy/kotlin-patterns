@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a better way to make a secondary constructor with lots of default values?](https://www.reddit.com/r/Kotlin/comments/ovi6sb/is_there_a_better_way_to_make_a_secondary/)
+- [Where should I start?](https://www.reddit.com/r/Kotlin/comments/ov9grd/where_should_i_start/)
+- [Kotlin Generics Help Needed](https://www.reddit.com/r/Kotlin/comments/ov8ppi/kotlin_generics_help_needed/)
+- [Please explain the meaning and reasoning behind this: "Anyways, never catch exceptions when not strictly required! It's always easier to introduce an error handling later, than remove it!" in Kotlin.](https://www.reddit.com/r/Kotlin/comments/ov3l83/please_explain_the_meaning_and_reasoning_behind/)
+- [Noob questions 2](https://www.reddit.com/r/Kotlin/comments/ov1fk4/noob_questions_2/)
 - [Coroutines (Part II) – Job, SupervisorJob, Launch and Async by Victor Brandalise](https://www.reddit.com/r/Kotlin/comments/ouixyy/coroutines_part_ii_job_supervisorjob_launch_and/)
 - [How to Secure Secrets 🔑 in Android-Android Security-01](https://www.reddit.com/r/Kotlin/comments/ougko9/how_to_secure_secrets_in_androidandroid_security01/)
 - [OutOfMemoryError: Kill process or sacrifice child – causes & solutions](https://www.reddit.com/r/Kotlin/comments/oufuer/outofmemoryerror_kill_process_or_sacrifice_child/)
 - [Points in rectangle area](https://www.reddit.com/r/Kotlin/comments/ou6n6r/points_in_rectangle_area/)
 - ['this' is not defined in the context](https://www.reddit.com/r/Kotlin/comments/ou2zgp/this_is_not_defined_in_the_context/)
-- [Noob question about depency management](https://www.reddit.com/r/Kotlin/comments/otwvms/noob_question_about_depency_management/)
-- [Where to go from now? Finished 12 out of 18 projects in hyperskill](https://www.reddit.com/r/Kotlin/comments/otrvfn/where_to_go_from_now_finished_12_out_of_18/)
-- [What are the requirements to successfully use listFiles?](https://www.reddit.com/r/Kotlin/comments/otp6xl/what_are_the_requirements_to_successfully_use/)
-- [Jetpack Compose is now 1.0: announcing Android’s modern toolkit for building native UI](https://www.reddit.com/r/Kotlin/comments/ote4h2/jetpack_compose_is_now_10_announcing_androids/)
-- [How to parse JSON Key dynamically](https://www.reddit.com/r/Kotlin/comments/otd41n/how_to_parse_json_key_dynamically/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
