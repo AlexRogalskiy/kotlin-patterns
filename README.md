@@ -251,6 +251,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [IDEA 2021.2 and Kotlin plugin updates](https://www.reddit.com/r/Kotlin/comments/ovvav9/idea_20212_and_kotlin_plugin_updates/)
 - [Is there a better way to make a secondary constructor with lots of default values?](https://www.reddit.com/r/Kotlin/comments/ovi6sb/is_there_a_better_way_to_make_a_secondary/)
 - [Where should I start?](https://www.reddit.com/r/Kotlin/comments/ov9grd/where_should_i_start/)
 - [Kotlin Generics Help Needed](https://www.reddit.com/r/Kotlin/comments/ov8ppi/kotlin_generics_help_needed/)
@@ -260,7 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to Secure Secrets 🔑 in Android-Android Security-01](https://www.reddit.com/r/Kotlin/comments/ougko9/how_to_secure_secrets_in_androidandroid_security01/)
 - [OutOfMemoryError: Kill process or sacrifice child – causes & solutions](https://www.reddit.com/r/Kotlin/comments/oufuer/outofmemoryerror_kill_process_or_sacrifice_child/)
 - [Points in rectangle area](https://www.reddit.com/r/Kotlin/comments/ou6n6r/points_in_rectangle_area/)
-- ['this' is not defined in the context](https://www.reddit.com/r/Kotlin/comments/ou2zgp/this_is_not_defined_in_the_context/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
