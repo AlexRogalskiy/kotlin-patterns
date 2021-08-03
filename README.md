@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Kotlin a useful and fun language for a hobbyist?](https://www.reddit.com/r/Kotlin/comments/owskms/is_kotlin_a_useful_and_fun_language_for_a_hobbyist/)
+- [Exploring Coroutines, Retrofit, and Fragments](https://www.reddit.com/r/Kotlin/comments/owq01t/exploring_coroutines_retrofit_and_fragments/)
+- [What capacity should be used for a Channel when the capacity doesn't matter?](https://www.reddit.com/r/Kotlin/comments/owj7fv/what_capacity_should_be_used_for_a_channel_when/)
+- [🧩 Adding Auth0 Authentication to a Ktor HTTP API](https://www.reddit.com/r/Kotlin/comments/owgnkg/adding_auth0_authentication_to_a_ktor_http_api/)
+- [Can't build jar using Intellij](https://www.reddit.com/r/Kotlin/comments/owbgm9/cant_build_jar_using_intellij/)
+- [Thoughts/Feedback on a tool to help manage software migrations (like migrating from Java to Kotlin)](https://www.reddit.com/r/Kotlin/comments/owa2yy/thoughtsfeedback_on_a_tool_to_help_manage/)
+- [Effective Kotlin Item 34: Consider a primary constructor with named optional arguments](https://www.reddit.com/r/Kotlin/comments/ow9hxt/effective_kotlin_item_34_consider_a_primary/)
+- [Why Is Kotlin The Most Preferred Choice Of Developers? Let's Take A Look](https://www.reddit.com/r/Kotlin/comments/ow9cog/why_is_kotlin_the_most_preferred_choice_of/)
 - [IDEA 2021.2 and Kotlin plugin updates](https://www.reddit.com/r/Kotlin/comments/ovvav9/idea_20212_and_kotlin_plugin_updates/)
 - [Is there a better way to make a secondary constructor with lots of default values?](https://www.reddit.com/r/Kotlin/comments/ovi6sb/is_there_a_better_way_to_make_a_secondary/)
-- [Where should I start?](https://www.reddit.com/r/Kotlin/comments/ov9grd/where_should_i_start/)
-- [Kotlin Generics Help Needed](https://www.reddit.com/r/Kotlin/comments/ov8ppi/kotlin_generics_help_needed/)
-- [Please explain the meaning and reasoning behind this: "Anyways, never catch exceptions when not strictly required! It's always easier to introduce an error handling later, than remove it!" in Kotlin.](https://www.reddit.com/r/Kotlin/comments/ov3l83/please_explain_the_meaning_and_reasoning_behind/)
-- [Noob questions 2](https://www.reddit.com/r/Kotlin/comments/ov1fk4/noob_questions_2/)
-- [Coroutines (Part II) – Job, SupervisorJob, Launch and Async by Victor Brandalise](https://www.reddit.com/r/Kotlin/comments/ouixyy/coroutines_part_ii_job_supervisorjob_launch_and/)
-- [How to Secure Secrets 🔑 in Android-Android Security-01](https://www.reddit.com/r/Kotlin/comments/ougko9/how_to_secure_secrets_in_androidandroid_security01/)
-- [OutOfMemoryError: Kill process or sacrifice child – causes & solutions](https://www.reddit.com/r/Kotlin/comments/oufuer/outofmemoryerror_kill_process_or_sacrifice_child/)
-- [Points in rectangle area](https://www.reddit.com/r/Kotlin/comments/ou6n6r/points_in_rectangle_area/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
