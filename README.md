@@ -240,6 +240,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 
 [![Stargazers repo roster for @AlexRogalskiy/kotlin-patterns](https://reporoster.com/stars/AlexRogalskiy/kotlin-patterns)][stars]
 
+[![Stargazers over time](https://starchart.cc/AlexRogalskiy/kotlin-patterns.svg)][stars_chart]
+
 ## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
@@ -379,6 +381,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 [wiki]: https://github.com/AlexRogalskiy/kotlin-patterns/wiki
 
 [stars]: https://github.com/AlexRogalskiy/kotlin-patterns/stargazers
+
+[stars_chart]: https://starchart.cc/AlexRogalskiy/kotlin-patterns
 
 [contributors]: https://github.com/AlexRogalskiy/kotlin-patterns/graphs/contributors
 
