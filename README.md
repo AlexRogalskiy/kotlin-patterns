@@ -251,6 +251,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Cookbook in Programming Cookbooks Bundle](https://www.reddit.com/r/Kotlin/comments/ox2ivd/kotlin_cookbook_in_programming_cookbooks_bundle/)
+- [What is the most lightweight 2D library written in kotlin, to use opengl ES2?](https://www.reddit.com/r/Kotlin/comments/ox03rm/what_is_the_most_lightweight_2d_library_written/)
+- [local only hotspot](https://www.reddit.com/r/Kotlin/comments/owx4qw/local_only_hotspot/)
 - [Is Kotlin a useful and fun language for a hobbyist?](https://www.reddit.com/r/Kotlin/comments/owskms/is_kotlin_a_useful_and_fun_language_for_a_hobbyist/)
 - [Exploring Coroutines, Retrofit, and Fragments](https://www.reddit.com/r/Kotlin/comments/owq01t/exploring_coroutines_retrofit_and_fragments/)
 - [What capacity should be used for a Channel when the capacity doesn't matter?](https://www.reddit.com/r/Kotlin/comments/owj7fv/what_capacity_should_be_used_for_a_channel_when/)
@@ -258,9 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Can't build jar using Intellij](https://www.reddit.com/r/Kotlin/comments/owbgm9/cant_build_jar_using_intellij/)
 - [Thoughts/Feedback on a tool to help manage software migrations (like migrating from Java to Kotlin)](https://www.reddit.com/r/Kotlin/comments/owa2yy/thoughtsfeedback_on_a_tool_to_help_manage/)
 - [Effective Kotlin Item 34: Consider a primary constructor with named optional arguments](https://www.reddit.com/r/Kotlin/comments/ow9hxt/effective_kotlin_item_34_consider_a_primary/)
-- [Why Is Kotlin The Most Preferred Choice Of Developers? Let's Take A Look](https://www.reddit.com/r/Kotlin/comments/ow9cog/why_is_kotlin_the_most_preferred_choice_of/)
-- [IDEA 2021.2 and Kotlin plugin updates](https://www.reddit.com/r/Kotlin/comments/ovvav9/idea_20212_and_kotlin_plugin_updates/)
-- [Is there a better way to make a secondary constructor with lots of default values?](https://www.reddit.com/r/Kotlin/comments/ovi6sb/is_there_a_better_way_to_make_a_secondary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
