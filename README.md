@@ -254,16 +254,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 
-- [The Kotlin programming language repository summary](https://www.reddit.com/r/Kotlin/comments/odr92g/the_kotlin_programming_language_repository_summary/)
-- [Is There a Coroutine Equivalent of Of Using a Blocking Queue for Asynchronous Tasks?](https://www.reddit.com/r/Kotlin/comments/odlc1w/is_there_a_coroutine_equivalent_of_of_using_a/)
-- [The Most Popular Programming Languages - 1965/2021 - New Update](https://www.reddit.com/r/Kotlin/comments/odgp5b/the_most_popular_programming_languages\_19652021/)
-- [Kotlin for server-side development](https://www.reddit.com/r/Kotlin/comments/odgf6x/kotlin_for_serverside_development/)
-- [Marrying KMM and Swift with Sourcery](https://www.reddit.com/r/Kotlin/comments/odau0p/marrying_kmm_and_swift_with_sourcery/)
-- [Resources for learning Kotlin to make Apps, have C++ experience](https://www.reddit.com/r/Kotlin/comments/ocyimp/resources_for_learning_kotlin_to_make_apps_have_c/)
-- [Mutable/Immutable/View pattern example in Kotlin](https://www.reddit.com/r/Kotlin/comments/octl5o/mutableimmutableview_pattern_example_in_kotlin/)
-- [Looking for the idiomatic way to inherit a property](https://www.reddit.com/r/Kotlin/comments/och9yn/looking_for_the_idiomatic_way_to_inherit_a/)
-- [Yet another DI library, bit this time it's not a service locator](https://www.reddit.com/r/Kotlin/comments/ocez3s/yet_another_di_library_bit_this_time_its_not_a/)
-- [Kotlin Multiplatform Survey](https://www.reddit.com/r/Kotlin/comments/ocblp0/kotlin_multiplatform_survey/)
+- [Kotlin Cookbook in Programming Cookbooks Bundle](https://www.reddit.com/r/Kotlin/comments/ox2ivd/kotlin_cookbook_in_programming_cookbooks_bundle/)
+- [What is the most lightweight 2D library written in kotlin, to use opengl ES2?](https://www.reddit.com/r/Kotlin/comments/ox03rm/what_is_the_most_lightweight\_2d_library_written/)
+- [local only hotspot](https://www.reddit.com/r/Kotlin/comments/owx4qw/local_only_hotspot/)
+- [Is Kotlin a useful and fun language for a hobbyist?](https://www.reddit.com/r/Kotlin/comments/owskms/is_kotlin_a_useful_and_fun_language_for_a_hobbyist/)
+- [Exploring Coroutines, Retrofit, and Fragments](https://www.reddit.com/r/Kotlin/comments/owq01t/exploring_coroutines_retrofit_and_fragments/)
+- [What capacity should be used for a Channel when the capacity doesn't matter?](https://www.reddit.com/r/Kotlin/comments/owj7fv/what_capacity_should_be_used_for_a_channel_when/)
+- [🧩 Adding Auth0 Authentication to a Ktor HTTP API](https://www.reddit.com/r/Kotlin/comments/owgnkg/adding_auth0\_authentication_to_a_ktor_http_api/)
+- [Can't build jar using Intellij](https://www.reddit.com/r/Kotlin/comments/owbgm9/cant_build_jar_using_intellij/)
+- [Thoughts/Feedback on a tool to help manage software migrations (like migrating from Java to Kotlin)](https://www.reddit.com/r/Kotlin/comments/owa2yy/thoughtsfeedback_on_a_tool_to_help_manage/)
+- [Effective Kotlin Item 34: Consider a primary constructor with named optional arguments](https://www.reddit.com/r/Kotlin/comments/ow9hxt/effective_kotlin_item\_34\_consider_a_primary/)
 
 <!-- REDDIT-POST-LIST:END -->
 
