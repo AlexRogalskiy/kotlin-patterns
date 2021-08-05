@@ -251,18 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [Kotlin Cookbook in Programming Cookbooks Bundle](https://www.reddit.com/r/Kotlin/comments/ox2ivd/kotlin_cookbook_in_programming_cookbooks_bundle/)
-- [What is the most lightweight 2D library written in kotlin, to use opengl ES2?](https://www.reddit.com/r/Kotlin/comments/ox03rm/what_is_the_most_lightweight\_2d_library_written/)
+- [How do I generate code to "deserialize" Couchbase documents/dictionaries to data classes?](https://www.reddit.com/r/Kotlin/comments/oy7dvk/how_do_i_generate_code_to_deserialize_couchbase/)
+- [Hopping Islands: From Java to Kotlin - Part 1](https://www.reddit.com/r/Kotlin/comments/oy2cwa/hopping_islands_from_java_to_kotlin_part_1/)
+- [Compose Multiplatform goes Alpha, unifying Desktop, Web, and Android UIs | The Kotlin Blog](https://www.reddit.com/r/Kotlin/comments/oxtfj7/compose_multiplatform_goes_alpha_unifying_desktop/)
+- [Adding Auth0 RBAC Authorization to a Ktor API](https://www.reddit.com/r/Kotlin/comments/oxr5wu/adding_auth0_rbac_authorization_to_a_ktor_api/)
+- [How "alpha" Kotlin Multiplatform is?](https://www.reddit.com/r/Kotlin/comments/oxr3x3/how_alpha_kotlin_multiplatform_is/)
+- [Can you open InteliJ from Mac Finder?](https://www.reddit.com/r/Kotlin/comments/oxqtu2/can_you_open_intelij_from_mac_finder/)
+- [Skipping an item in a map?](https://www.reddit.com/r/Kotlin/comments/oxqic5/skipping_an_item_in_a_map/)
+- [Why using Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/oxnd0g/why_using_kotlin_coroutines/)
+- [What is the most lightweight 2D library written in kotlin, to use opengl ES2?](https://www.reddit.com/r/Kotlin/comments/ox03rm/what_is_the_most_lightweight_2d_library_written/)
 - [local only hotspot](https://www.reddit.com/r/Kotlin/comments/owx4qw/local_only_hotspot/)
-- [Is Kotlin a useful and fun language for a hobbyist?](https://www.reddit.com/r/Kotlin/comments/owskms/is_kotlin_a_useful_and_fun_language_for_a_hobbyist/)
-- [Exploring Coroutines, Retrofit, and Fragments](https://www.reddit.com/r/Kotlin/comments/owq01t/exploring_coroutines_retrofit_and_fragments/)
-- [What capacity should be used for a Channel when the capacity doesn't matter?](https://www.reddit.com/r/Kotlin/comments/owj7fv/what_capacity_should_be_used_for_a_channel_when/)
-- [🧩 Adding Auth0 Authentication to a Ktor HTTP API](https://www.reddit.com/r/Kotlin/comments/owgnkg/adding_auth0\_authentication_to_a_ktor_http_api/)
-- [Can't build jar using Intellij](https://www.reddit.com/r/Kotlin/comments/owbgm9/cant_build_jar_using_intellij/)
-- [Thoughts/Feedback on a tool to help manage software migrations (like migrating from Java to Kotlin)](https://www.reddit.com/r/Kotlin/comments/owa2yy/thoughtsfeedback_on_a_tool_to_help_manage/)
-- [Effective Kotlin Item 34: Consider a primary constructor with named optional arguments](https://www.reddit.com/r/Kotlin/comments/ow9hxt/effective_kotlin_item\_34\_consider_a_primary/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
