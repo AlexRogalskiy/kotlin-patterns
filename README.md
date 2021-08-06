@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [WHAT IS ANGULAR CLI?](https://www.reddit.com/r/Kotlin/comments/oykqsp/what_is_angular_cli/)
+- [Hi Everybody! My random function looks like this. I couldn't find a solution. Would you help me pls? (Android Studio)](https://www.reddit.com/r/Kotlin/comments/oykiut/hi_everybody_my_random_function_looks_like_this_i/)
+- [Are Kotlin programmers in high demand?](https://www.reddit.com/r/Kotlin/comments/oyhgsl/are_kotlin_programmers_in_high_demand/)
+- [Let’s celebrate 10 years of Kotlin! It has evolved from a Java alternative into a whole ecosystem that allows users to write code for a wide variety of purposes! Learn more about the 10 years story of Kotlin in this video.](https://www.reddit.com/r/Kotlin/comments/oyg7sm/lets_celebrate_10_years_of_kotlin_it_has_evolved/)
+- [Is there a way to load a resource bundle from an XML file in Kotlin? getBundle() Works fine with properties files, not so much XML. NOT Android.](https://www.reddit.com/r/Kotlin/comments/oyc2vg/is_there_a_way_to_load_a_resource_bundle_from_an/)
+- [Google launches Jetpack Compose 1.0, making Android UI design easier w/ Kotlin](https://www.reddit.com/r/Kotlin/comments/oya8te/google_launches_jetpack_compose_10_making_android/)
+- [Kotlin is fast!](https://www.reddit.com/r/Kotlin/comments/oy8sgj/kotlin_is_fast/)
 - [How do I generate code to "deserialize" Couchbase documents/dictionaries to data classes?](https://www.reddit.com/r/Kotlin/comments/oy7dvk/how_do_i_generate_code_to_deserialize_couchbase/)
 - [Hopping Islands: From Java to Kotlin - Part 1](https://www.reddit.com/r/Kotlin/comments/oy2cwa/hopping_islands_from_java_to_kotlin_part_1/)
 - [Compose Multiplatform goes Alpha, unifying Desktop, Web, and Android UIs | The Kotlin Blog](https://www.reddit.com/r/Kotlin/comments/oxtfj7/compose_multiplatform_goes_alpha_unifying_desktop/)
-- [Adding Auth0 RBAC Authorization to a Ktor API](https://www.reddit.com/r/Kotlin/comments/oxr5wu/adding_auth0_rbac_authorization_to_a_ktor_api/)
-- [How "alpha" Kotlin Multiplatform is?](https://www.reddit.com/r/Kotlin/comments/oxr3x3/how_alpha_kotlin_multiplatform_is/)
-- [Can you open InteliJ from Mac Finder?](https://www.reddit.com/r/Kotlin/comments/oxqtu2/can_you_open_intelij_from_mac_finder/)
-- [Skipping an item in a map?](https://www.reddit.com/r/Kotlin/comments/oxqic5/skipping_an_item_in_a_map/)
-- [Why using Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/oxnd0g/why_using_kotlin_coroutines/)
-- [What is the most lightweight 2D library written in kotlin, to use opengl ES2?](https://www.reddit.com/r/Kotlin/comments/ox03rm/what_is_the_most_lightweight_2d_library_written/)
-- [local only hotspot](https://www.reddit.com/r/Kotlin/comments/owx4qw/local_only_hotspot/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
