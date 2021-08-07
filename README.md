@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [WHAT IS ANGULAR CLI?](https://www.reddit.com/r/Kotlin/comments/oykqsp/what_is_angular_cli/)
+- [Is there any difference between local functions and lambdas?](https://www.reddit.com/r/Kotlin/comments/ozfpwn/is_there_any_difference_between_local_functions/)
+- [[Need HELP] How to add Selection to RecyclerView with binding](https://www.reddit.com/r/Kotlin/comments/ozd8xk/need_help_how_to_add_selection_to_recyclerview/)
+- [how to optimize netty settings in ktor?](https://www.reddit.com/r/Kotlin/comments/oz7h6m/how_to_optimize_netty_settings_in_ktor/)
+- [I tried importing some Kotlin files but I'm getting this error, how can I solve it?](https://www.reddit.com/r/Kotlin/comments/oz4eh9/i_tried_importing_some_kotlin_files_but_im/)
+- [Simple Exoteric Language and Interpreter in Kotlin](https://www.reddit.com/r/Kotlin/comments/oz3rn6/simple_exoteric_language_and_interpreter_in_kotlin/)
+- [Traits for testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/oz2ejt/traits_for_testing_in_kotlin/)
 - [Hi Everybody! My random function looks like this. I couldn't find a solution. Would you help me pls? (Android Studio)](https://www.reddit.com/r/Kotlin/comments/oykiut/hi_everybody_my_random_function_looks_like_this_i/)
 - [Are Kotlin programmers in high demand?](https://www.reddit.com/r/Kotlin/comments/oyhgsl/are_kotlin_programmers_in_high_demand/)
 - [Let’s celebrate 10 years of Kotlin! It has evolved from a Java alternative into a whole ecosystem that allows users to write code for a wide variety of purposes! Learn more about the 10 years story of Kotlin in this video.](https://www.reddit.com/r/Kotlin/comments/oyg7sm/lets_celebrate_10_years_of_kotlin_it_has_evolved/)
 - [Is there a way to load a resource bundle from an XML file in Kotlin? getBundle() Works fine with properties files, not so much XML. NOT Android.](https://www.reddit.com/r/Kotlin/comments/oyc2vg/is_there_a_way_to_load_a_resource_bundle_from_an/)
-- [Google launches Jetpack Compose 1.0, making Android UI design easier w/ Kotlin](https://www.reddit.com/r/Kotlin/comments/oya8te/google_launches_jetpack_compose_10_making_android/)
-- [Kotlin is fast!](https://www.reddit.com/r/Kotlin/comments/oy8sgj/kotlin_is_fast/)
-- [How do I generate code to "deserialize" Couchbase documents/dictionaries to data classes?](https://www.reddit.com/r/Kotlin/comments/oy7dvk/how_do_i_generate_code_to_deserialize_couchbase/)
-- [Hopping Islands: From Java to Kotlin - Part 1](https://www.reddit.com/r/Kotlin/comments/oy2cwa/hopping_islands_from_java_to_kotlin_part_1/)
-- [Compose Multiplatform goes Alpha, unifying Desktop, Web, and Android UIs | The Kotlin Blog](https://www.reddit.com/r/Kotlin/comments/oxtfj7/compose_multiplatform_goes_alpha_unifying_desktop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
