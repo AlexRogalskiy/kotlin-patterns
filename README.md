@@ -251,6 +251,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I really need your help](https://www.reddit.com/r/Kotlin/comments/ozzfiz/i_really_need_your_help/)
+- [A Kotlin programmer's approach to microservices?](https://www.reddit.com/r/Kotlin/comments/ozk7xk/a_kotlin_programmers_approach_to_microservices/)
 - [Is there any difference between local functions and lambdas?](https://www.reddit.com/r/Kotlin/comments/ozfpwn/is_there_any_difference_between_local_functions/)
 - [[Need HELP] How to add Selection to RecyclerView with binding](https://www.reddit.com/r/Kotlin/comments/ozd8xk/need_help_how_to_add_selection_to_recyclerview/)
 - [how to optimize netty settings in ktor?](https://www.reddit.com/r/Kotlin/comments/oz7h6m/how_to_optimize_netty_settings_in_ktor/)
@@ -259,8 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Traits for testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/oz2ejt/traits_for_testing_in_kotlin/)
 - [Hi Everybody! My random function looks like this. I couldn't find a solution. Would you help me pls? (Android Studio)](https://www.reddit.com/r/Kotlin/comments/oykiut/hi_everybody_my_random_function_looks_like_this_i/)
 - [Are Kotlin programmers in high demand?](https://www.reddit.com/r/Kotlin/comments/oyhgsl/are_kotlin_programmers_in_high_demand/)
-- [Let’s celebrate 10 years of Kotlin! It has evolved from a Java alternative into a whole ecosystem that allows users to write code for a wide variety of purposes! Learn more about the 10 years story of Kotlin in this video.](https://www.reddit.com/r/Kotlin/comments/oyg7sm/lets_celebrate_10_years_of_kotlin_it_has_evolved/)
-- [Is there a way to load a resource bundle from an XML file in Kotlin? getBundle() Works fine with properties files, not so much XML. NOT Android.](https://www.reddit.com/r/Kotlin/comments/oyc2vg/is_there_a_way_to_load_a_resource_bundle_from_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
