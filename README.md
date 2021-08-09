@@ -251,6 +251,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Install and Start Using the Kotlin SDK with Couchbase Server](https://www.reddit.com/r/Kotlin/comments/p0r33b/install_and_start_using_the_kotlin_sdk_with/)
+- [How to get and modify result of originalCall in coAnswers (mockk)?](https://www.reddit.com/r/Kotlin/comments/p0htx4/how_to_get_and_modify_result_of_originalcall_in/)
 - [I really need your help](https://www.reddit.com/r/Kotlin/comments/ozzfiz/i_really_need_your_help/)
 - [A Kotlin programmer's approach to microservices?](https://www.reddit.com/r/Kotlin/comments/ozk7xk/a_kotlin_programmers_approach_to_microservices/)
 - [Is there any difference between local functions and lambdas?](https://www.reddit.com/r/Kotlin/comments/ozfpwn/is_there_any_difference_between_local_functions/)
@@ -259,8 +261,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I tried importing some Kotlin files but I'm getting this error, how can I solve it?](https://www.reddit.com/r/Kotlin/comments/oz4eh9/i_tried_importing_some_kotlin_files_but_im/)
 - [Simple Exoteric Language and Interpreter in Kotlin](https://www.reddit.com/r/Kotlin/comments/oz3rn6/simple_exoteric_language_and_interpreter_in_kotlin/)
 - [Traits for testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/oz2ejt/traits_for_testing_in_kotlin/)
-- [Hi Everybody! My random function looks like this. I couldn't find a solution. Would you help me pls? (Android Studio)](https://www.reddit.com/r/Kotlin/comments/oykiut/hi_everybody_my_random_function_looks_like_this_i/)
-- [Are Kotlin programmers in high demand?](https://www.reddit.com/r/Kotlin/comments/oyhgsl/are_kotlin_programmers_in_high_demand/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
