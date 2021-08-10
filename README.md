@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why do suspend functions do not give the warning like below when inlining? Does this mean we should inline all suspend functions?](https://www.reddit.com/r/Kotlin/comments/p1fhr4/why_do_suspend_functions_do_not_give_the_warning/)
+- [Why IllegalStateException is not being mapped to ExceptionMapper<Exception> in Kotlin.](https://www.reddit.com/r/Kotlin/comments/p15rwp/why_illegalstateexception_is_not_being_mapped_to/)
+- [How can I achieve that generics functionality in Kotlin and Retrofit?](https://www.reddit.com/r/Kotlin/comments/p13y0k/how_can_i_achieve_that_generics_functionality_in/)
+- [Kotlin with Spring Boot as a GraalVM native image](https://www.reddit.com/r/Kotlin/comments/p1333t/kotlin_with_spring_boot_as_a_graalvm_native_image/)
+- [Why is a Kotlin local function required to be declared before, unlike C#?](https://www.reddit.com/r/Kotlin/comments/p106v4/why_is_a_kotlin_local_function_required_to_be/)
+- [Don't know why but my Kotlin compiler feels slower even in comparison to Python](https://www.reddit.com/r/Kotlin/comments/p0ywp5/dont_know_why_but_my_kotlin_compiler_feels_slower/)
+- [Effective Kotlin Item 35: Consider defining a DSL for complex object creation](https://www.reddit.com/r/Kotlin/comments/p0wtdw/effective_kotlin_item_35_consider_defining_a_dsl/)
 - [Install and Start Using the Kotlin SDK with Couchbase Server](https://www.reddit.com/r/Kotlin/comments/p0r33b/install_and_start_using_the_kotlin_sdk_with/)
 - [How to get and modify result of originalCall in coAnswers (mockk)?](https://www.reddit.com/r/Kotlin/comments/p0htx4/how_to_get_and_modify_result_of_originalcall_in/)
 - [I really need your help](https://www.reddit.com/r/Kotlin/comments/ozzfiz/i_really_need_your_help/)
-- [A Kotlin programmer's approach to microservices?](https://www.reddit.com/r/Kotlin/comments/ozk7xk/a_kotlin_programmers_approach_to_microservices/)
-- [Is there any difference between local functions and lambdas?](https://www.reddit.com/r/Kotlin/comments/ozfpwn/is_there_any_difference_between_local_functions/)
-- [[Need HELP] How to add Selection to RecyclerView with binding](https://www.reddit.com/r/Kotlin/comments/ozd8xk/need_help_how_to_add_selection_to_recyclerview/)
-- [how to optimize netty settings in ktor?](https://www.reddit.com/r/Kotlin/comments/oz7h6m/how_to_optimize_netty_settings_in_ktor/)
-- [I tried importing some Kotlin files but I'm getting this error, how can I solve it?](https://www.reddit.com/r/Kotlin/comments/oz4eh9/i_tried_importing_some_kotlin_files_but_im/)
-- [Simple Exoteric Language and Interpreter in Kotlin](https://www.reddit.com/r/Kotlin/comments/oz3rn6/simple_exoteric_language_and_interpreter_in_kotlin/)
-- [Traits for testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/oz2ejt/traits_for_testing_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
