@@ -251,16 +251,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Display inferred type in IDE?](https://www.reddit.com/r/Kotlin/comments/p1v84p/display_inferred_type_in_ide/)
+- [Designing an open Exception class for a library](https://www.reddit.com/r/Kotlin/comments/p1ra4r/designing_an_open_exception_class_for_a_library/)
+- [Function Types Variable Naming Convention/Recommendation](https://www.reddit.com/r/Kotlin/comments/p1p7ug/function_types_variable_naming/)
+- [Is there a Storybook for Kotlin?](https://www.reddit.com/r/Kotlin/comments/p1ophk/is_there_a_storybook_for_kotlin/)
+- [Could someone explain this syntax to me?](https://www.reddit.com/r/Kotlin/comments/p1o09l/could_someone_explain_this_syntax_to_me/)
+- [Game which speed up your math skills...](https://www.reddit.com/r/Kotlin/comments/p1nudh/game_which_speed_up_your_math_skills/)
+- [How Inject hilt dependency into compose function](https://www.reddit.com/r/Kotlin/comments/p1hs3w/how_inject_hilt_dependency_into_compose_function/)
+- [I hate the code I wrote and want feedback for how to revise it](https://www.reddit.com/r/Kotlin/comments/p1hczl/i_hate_the_code_i_wrote_and_want_feedback_for_how/)
 - [Why do suspend functions do not give the warning like below when inlining? Does this mean we should inline all suspend functions?](https://www.reddit.com/r/Kotlin/comments/p1fhr4/why_do_suspend_functions_do_not_give_the_warning/)
 - [Why IllegalStateException is not being mapped to ExceptionMapper<Exception> in Kotlin.](https://www.reddit.com/r/Kotlin/comments/p15rwp/why_illegalstateexception_is_not_being_mapped_to/)
-- [How can I achieve that generics functionality in Kotlin and Retrofit?](https://www.reddit.com/r/Kotlin/comments/p13y0k/how_can_i_achieve_that_generics_functionality_in/)
-- [Kotlin with Spring Boot as a GraalVM native image](https://www.reddit.com/r/Kotlin/comments/p1333t/kotlin_with_spring_boot_as_a_graalvm_native_image/)
-- [Why is a Kotlin local function required to be declared before, unlike C#?](https://www.reddit.com/r/Kotlin/comments/p106v4/why_is_a_kotlin_local_function_required_to_be/)
-- [Don't know why but my Kotlin compiler feels slower even in comparison to Python](https://www.reddit.com/r/Kotlin/comments/p0ywp5/dont_know_why_but_my_kotlin_compiler_feels_slower/)
-- [Effective Kotlin Item 35: Consider defining a DSL for complex object creation](https://www.reddit.com/r/Kotlin/comments/p0wtdw/effective_kotlin_item_35_consider_defining_a_dsl/)
-- [Install and Start Using the Kotlin SDK with Couchbase Server](https://www.reddit.com/r/Kotlin/comments/p0r33b/install_and_start_using_the_kotlin_sdk_with/)
-- [How to get and modify result of originalCall in coAnswers (mockk)?](https://www.reddit.com/r/Kotlin/comments/p0htx4/how_to_get_and_modify_result_of_originalcall_in/)
-- [I really need your help](https://www.reddit.com/r/Kotlin/comments/ozzfiz/i_really_need_your_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
