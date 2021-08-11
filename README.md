@@ -43,29 +43,27 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-
-- [Kotlin Design Patterns](#kotlin-design-patterns)
-  - [<em>Table of contents</em>](#-table-of-contents)
-  - [<em>Summary</em>](#-summary)
-  - [<em>Documentation</em>](#-documentation)
-  - [<em>Statistics</em>](#-statistics)
-  - [<em>Versioning</em>](#-versioning)
-  - [<em>Authors</em>](#-authors)
-  - [<em>Contributing</em>](#-contributing)
-  - [<em>Visitor stats</em>](#-visitor-stats)
-  - [<em>Licensing</em>](#-licensing)
-  - [<em>Development Support</em>](#-development-support)
-  - [<em>Acknowledgement</em>](#-acknowledgement)
-  - [<em>OpenGraph Card</em>](#-opengraph-card)
-  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-    - [<em>Reddit posts</em>](#reddit-posts)
-    - [<em>RedHat lang posts</em>](#redhat-lang-posts)
-    - [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
-    - [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
-    - [<em>Super Kotlin posts</em>](#super-kotlin-posts)
-    - [<em>Karumi posts</em>](#karumi-posts)
-    - [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
-
+   * [Kotlin Design Patterns](#kotlin-design-patterns)
+      * [<em>Table of contents</em>](#-table-of-contents)
+      * [<em>Summary</em>](#-summary)
+      * [<em>Documentation</em>](#-documentation)
+      * [<em>Statistics</em>](#-statistics)
+      * [<em>Versioning</em>](#-versioning)
+      * [<em>Authors</em>](#-authors)
+      * [<em>Contributing</em>](#-contributing)
+      * [<em>Visitor stats</em>](#-visitor-stats)
+      * [<em>Licensing</em>](#-licensing)
+      * [<em>Development Support</em>](#-development-support)
+      * [<em>Acknowledgement</em>](#-acknowledgement)
+      * [<em>OpenGraph Card</em>](#-opengraph-card)
+      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+         * [<em>Reddit posts</em>](#reddit-posts)
+         * [<em>RedHat lang posts</em>](#redhat-lang-posts)
+         * [<em>Kotlin lang posts</em>](#kotlin-lang-posts)
+         * [<em>Kotlin Academy posts</em>](#kotlin-academy-posts)
+         * [<em>Super Kotlin posts</em>](#super-kotlin-posts)
+         * [<em>Karumi posts</em>](#karumi-posts)
+         * [<em>Talking Kotlin posts</em>](#talking-kotlin-posts)
 <!--te-->
 
 ## ☝ *Summary*
@@ -270,18 +268,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [Kotlin Cookbook in Programming Cookbooks Bundle](https://www.reddit.com/r/Kotlin/comments/ox2ivd/kotlin_cookbook_in_programming_cookbooks_bundle/)
-- [What is the most lightweight 2D library written in kotlin, to use opengl ES2?](https://www.reddit.com/r/Kotlin/comments/ox03rm/what_is_the_most_lightweight\_2d_library_written/)
-- [local only hotspot](https://www.reddit.com/r/Kotlin/comments/owx4qw/local_only_hotspot/)
-- [Is Kotlin a useful and fun language for a hobbyist?](https://www.reddit.com/r/Kotlin/comments/owskms/is_kotlin_a_useful_and_fun_language_for_a_hobbyist/)
-- [Exploring Coroutines, Retrofit, and Fragments](https://www.reddit.com/r/Kotlin/comments/owq01t/exploring_coroutines_retrofit_and_fragments/)
-- [What capacity should be used for a Channel when the capacity doesn't matter?](https://www.reddit.com/r/Kotlin/comments/owj7fv/what_capacity_should_be_used_for_a_channel_when/)
-- [🧩 Adding Auth0 Authentication to a Ktor HTTP API](https://www.reddit.com/r/Kotlin/comments/owgnkg/adding_auth0\_authentication_to_a_ktor_http_api/)
-- [Can't build jar using Intellij](https://www.reddit.com/r/Kotlin/comments/owbgm9/cant_build_jar_using_intellij/)
-- [Thoughts/Feedback on a tool to help manage software migrations (like migrating from Java to Kotlin)](https://www.reddit.com/r/Kotlin/comments/owa2yy/thoughtsfeedback_on_a_tool_to_help_manage/)
-- [Effective Kotlin Item 34: Consider a primary constructor with named optional arguments](https://www.reddit.com/r/Kotlin/comments/ow9hxt/effective_kotlin_item\_34\_consider_a_primary/)
-
+- [Display inferred type in IDE?](https://www.reddit.com/r/Kotlin/comments/p1v84p/display_inferred_type_in_ide/)
+- [Designing an open Exception class for a library](https://www.reddit.com/r/Kotlin/comments/p1ra4r/designing_an_open_exception_class_for_a_library/)
+- [Function Types Variable Naming Convention/Recommendation](https://www.reddit.com/r/Kotlin/comments/p1p7ug/function_types_variable_naming/)
+- [Is there a Storybook for Kotlin?](https://www.reddit.com/r/Kotlin/comments/p1ophk/is_there_a_storybook_for_kotlin/)
+- [Could someone explain this syntax to me?](https://www.reddit.com/r/Kotlin/comments/p1o09l/could_someone_explain_this_syntax_to_me/)
+- [Game which speed up your math skills...](https://www.reddit.com/r/Kotlin/comments/p1nudh/game_which_speed_up_your_math_skills/)
+- [How Inject hilt dependency into compose function](https://www.reddit.com/r/Kotlin/comments/p1hs3w/how_inject_hilt_dependency_into_compose_function/)
+- [I hate the code I wrote and want feedback for how to revise it](https://www.reddit.com/r/Kotlin/comments/p1hczl/i_hate_the_code_i_wrote_and_want_feedback_for_how/)
+- [Why do suspend functions do not give the warning like below when inlining? Does this mean we should inline all suspend functions?](https://www.reddit.com/r/Kotlin/comments/p1fhr4/why_do_suspend_functions_do_not_give_the_warning/)
+- [Why IllegalStateException is not being mapped to ExceptionMapper<Exception> in Kotlin.](https://www.reddit.com/r/Kotlin/comments/p15rwp/why_illegalstateexception_is_not_being_mapped_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
