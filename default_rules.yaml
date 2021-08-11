@@ -75,7 +75,7 @@ line_rules:
           - '_recommended_labels_for_your_project'
 
   FROM:
-    paramSyntaxRegex: /^[${}\w./\-:]+(:[${}\w.]+)?(-[${}\w.]+)?( as \w+)?$/i
+    paramSyntaxRegex: /^[${}\w./\-:]+(:[${}\w.]+)?(-[${}\w.]+)?( as [-_\w]+)?$/i
     rules:
       - label: 'is_latest_tag'
         regex: /latest/
@@ -206,7 +206,7 @@ line_rules:
     paramSyntaxRegex: /.+/
     rules: []
   USER:
-    paramSyntaxRegex: /^[a-z0-9_][a-z0-9_-]{0,40}$/
+    paramSyntaxRegex: /^[a-zA-Z0-9_$][a-zA-Z0-9_-]{0,40}$/
     rules: []
   WORKDIR:
     paramSyntaxRegex: /^~?[\w\d-\/.{}$\/:]+[\s]*$/

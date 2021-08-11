@@ -15,14 +15,14 @@ jobs:
         run: |
           echo ::set-output name=current_version::${GITHUB_REF#refs/tags/v}
         shell: bash
-        
+
       - name: Build Changelog
         id: github_release
         uses: mikepenz/release-changelog-builder-action@main
         with:
           configuration: ".github/workflows/changelog/configuration.json"
           owner: "AlexRogalskiy"
-          repo: "java-patterns"
+          repo: "kotlin-patterns"
           ignorePreReleases: "false"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -163,6 +163,9 @@ python -m mkdocs
 ```shell script
 python -m pip install mkdocs-material
 python -m pip install markdown-include
+...
+(see requirements.txt)
+...
 ```
 
 4\) Start the server at ***localhost*** by running the following command:
@@ -178,6 +181,20 @@ python -m mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ```
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
+
+## 🧶 *Kubernetes*
+
+Running k8s cluster with tilt command by acquiring k8s deployment configuration:
+
+```shell
+tilt up
+```
+
+Shutting down k8s cluster with provisioned resources removal:
+
+```shell
+tilt down --delete-namespaces
+```
 
 ## ⏰ *Statistics*
 

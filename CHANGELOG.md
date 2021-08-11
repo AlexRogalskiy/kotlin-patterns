@@ -1,4 +1,4 @@
-# [0.0.0](https://github.com/AlexRogalskiy/kotlin-patterns/compare/v1.0.1...v0.0.0) (2021-08-04)
+# [0.0.0](https://github.com/AlexRogalskiy/kotlin-patterns/compare/v1.0.1...v0.0.0) (2021-08-11)
 
 
 

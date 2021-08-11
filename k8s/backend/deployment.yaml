@@ -1,0 +1,68 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend
+  namespace: webapp
+  labels:
+    app.kubernetes.io/name: backend
+    app.kubernetes.io/instance: kotlin-patterns
+    app.kubernetes.io/version: '0.0.0'
+    app.kubernetes.io/component: backend
+    app.kubernetes.io/part-of: documentation
+    app.kubernetes.io/managed-by: tilt
+
+spec:
+  replicas: 1
+  minReadySeconds: 60
+  revisionHistoryLimit: 5
+  progressDeadlineSeconds: 120
+  strategy:
+    rollingUpdate:
+      maxSurge: 10%
+      maxUnavailable: 0
+    type: RollingUpdate
+  selector:
+    matchLabels:
+      app: backend
+  template:
+    metadata:
+      labels:
+        app: backend
+      annotations:
+        scheduler.alpha.kubernetes.io/critical-pod: ''
+    spec:
+      dnsPolicy: Default
+      terminationGracePeriodSeconds: 30
+      tolerations:
+        - key: 'CriticalAddonsOnly'
+          operator: 'Exists'
+      containers:
+        - name: backend
+          image: kotlin-patterns
+          imagePullPolicy: IfNotPresent
+          ports:
+            - name: http
+              containerPort: 8000
+              protocol: TCP
+          env:
+            - name: WATCH_NAMESPACE
+              valueFrom:
+                fieldRef:
+                  fieldPath: metadata.namespace
+            - name: POD_NAME
+              valueFrom:
+                fieldRef:
+                  fieldPath: metadata.name
+          volumeMounts:
+            - name: data
+              mountPath: /data
+          resources:
+            limits:
+              cpu: 2000m
+              memory: 512Mi
+            requests:
+              cpu: 100m
+              memory: 32Mi
+      volumes:
+        - name: data
+          emptyDir: {}
