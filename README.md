@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin has already been on the scene for ten years. Since its conception, it’s been changing the way people work, both at JetBrains and beyond. But what lies in store for Kotlin in the next decade? Together with Roman Elizarov, we’ve gazed into the future, and we’ve collected our insights for you!](https://www.reddit.com/r/Kotlin/comments/p2h94k/kotlin_has_already_been_on_the_scene_for_ten/)
+- [Unsigned literals : convenience idea](https://www.reddit.com/r/Kotlin/comments/p2aeg5/unsigned_literals_convenience_idea/)
+- [Statistics for Data Analysis with Kotlin](https://www.reddit.com/r/Kotlin/comments/p296rv/statistics_for_data_analysis_with_kotlin/)
+- [Sequence builders in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/p28fxr/sequence_builders_in_kotlin_coroutines/)
 - [Display inferred type in IDE?](https://www.reddit.com/r/Kotlin/comments/p1v84p/display_inferred_type_in_ide/)
 - [Designing an open Exception class for a library](https://www.reddit.com/r/Kotlin/comments/p1ra4r/designing_an_open_exception_class_for_a_library/)
 - [Function Types Variable Naming Convention/Recommendation](https://www.reddit.com/r/Kotlin/comments/p1p7ug/function_types_variable_naming/)
 - [Is there a Storybook for Kotlin?](https://www.reddit.com/r/Kotlin/comments/p1ophk/is_there_a_storybook_for_kotlin/)
 - [Could someone explain this syntax to me?](https://www.reddit.com/r/Kotlin/comments/p1o09l/could_someone_explain_this_syntax_to_me/)
 - [Game which speed up your math skills...](https://www.reddit.com/r/Kotlin/comments/p1nudh/game_which_speed_up_your_math_skills/)
-- [How Inject hilt dependency into compose function](https://www.reddit.com/r/Kotlin/comments/p1hs3w/how_inject_hilt_dependency_into_compose_function/)
-- [I hate the code I wrote and want feedback for how to revise it](https://www.reddit.com/r/Kotlin/comments/p1hczl/i_hate_the_code_i_wrote_and_want_feedback_for_how/)
-- [Why do suspend functions do not give the warning like below when inlining? Does this mean we should inline all suspend functions?](https://www.reddit.com/r/Kotlin/comments/p1fhr4/why_do_suspend_functions_do_not_give_the_warning/)
-- [Why IllegalStateException is not being mapped to ExceptionMapper<Exception> in Kotlin.](https://www.reddit.com/r/Kotlin/comments/p15rwp/why_illegalstateexception_is_not_being_mapped_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
