@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I created mining app using desktop compose](https://www.reddit.com/r/Kotlin/comments/p3l72u/i_created_mining_app_using_desktop_compose/)
+- [Why are companion objects?](https://www.reddit.com/r/Kotlin/comments/p3l3s1/why_are_companion_objects/)
+- [java or kotlin or scala?](https://www.reddit.com/r/Kotlin/comments/p3jzdp/java_or_kotlin_or_scala/)
+- [Using kotlin.Result causes runtime errors (up to 1.5.30-RC)](https://www.reddit.com/r/Kotlin/comments/p3jjg2/using_kotlinresult_causes_runtime_errors_up_to/)
+- [Kotlin Benchmarks Update :)](https://www.reddit.com/r/Kotlin/comments/p3jc0w/kotlin_benchmarks_update/)
 - [What should I learn next?](https://www.reddit.com/r/Kotlin/comments/p2z5op/what_should_i_learn_next/)
 - [Kotlin Contracts](https://www.reddit.com/r/Kotlin/comments/p2y60u/kotlin_contracts/)
 - [Ten Years Of Kotlin Programming Language](https://www.reddit.com/r/Kotlin/comments/p2xer8/ten_years_of_kotlin_programming_language/)
 - [noob question level 3](https://www.reddit.com/r/Kotlin/comments/p2vc9d/noob_question_level_3/)
 - [Kotlin has already been on the scene for ten years. Since its conception, it’s been changing the way people work, both at JetBrains and beyond. But what lies in store for Kotlin in the next decade? Together with Roman Elizarov, we’ve gazed into the future, and we’ve collected our insights for you!](https://www.reddit.com/r/Kotlin/comments/p2h94k/kotlin_has_already_been_on_the_scene_for_ten/)
-- [Unsigned literals : convenience idea](https://www.reddit.com/r/Kotlin/comments/p2aeg5/unsigned_literals_convenience_idea/)
-- [Statistics for Data Analysis with Kotlin](https://www.reddit.com/r/Kotlin/comments/p296rv/statistics_for_data_analysis_with_kotlin/)
-- [Sequence builders in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/p28fxr/sequence_builders_in_kotlin_coroutines/)
-- [Display inferred type in IDE?](https://www.reddit.com/r/Kotlin/comments/p1v84p/display_inferred_type_in_ide/)
-- [Designing an open Exception class for a library](https://www.reddit.com/r/Kotlin/comments/p1ra4r/designing_an_open_exception_class_for_a_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
