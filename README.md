@@ -269,6 +269,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Talking Kotlin: 10 Years of Kotlin Special](https://www.reddit.com/r/Kotlin/comments/p4b5x5/talking_kotlin_10_years_of_kotlin_special/)
+- [Kotlin for backend Engineering](https://www.reddit.com/r/Kotlin/comments/p43fb3/kotlin_for_backend_engineering/)
 - [I created mining app using desktop compose](https://www.reddit.com/r/Kotlin/comments/p3l72u/i_created_mining_app_using_desktop_compose/)
 - [Why are companion objects?](https://www.reddit.com/r/Kotlin/comments/p3l3s1/why_are_companion_objects/)
 - [java or kotlin or scala?](https://www.reddit.com/r/Kotlin/comments/p3jzdp/java_or_kotlin_or_scala/)
@@ -277,8 +279,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What should I learn next?](https://www.reddit.com/r/Kotlin/comments/p2z5op/what_should_i_learn_next/)
 - [Kotlin Contracts](https://www.reddit.com/r/Kotlin/comments/p2y60u/kotlin_contracts/)
 - [Ten Years Of Kotlin Programming Language](https://www.reddit.com/r/Kotlin/comments/p2xer8/ten_years_of_kotlin_programming_language/)
-- [noob question level 3](https://www.reddit.com/r/Kotlin/comments/p2vc9d/noob_question_level_3/)
-- [Kotlin has already been on the scene for ten years. Since its conception, it’s been changing the way people work, both at JetBrains and beyond. But what lies in store for Kotlin in the next decade? Together with Roman Elizarov, we’ve gazed into the future, and we’ve collected our insights for you!](https://www.reddit.com/r/Kotlin/comments/p2h94k/kotlin_has_already_been_on_the_scene_for_ten/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
