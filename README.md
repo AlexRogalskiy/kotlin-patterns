@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kert: A concise HTTP, GRPC & GraphQL library for Kotlin](https://www.reddit.com/r/Kotlin/comments/p5052i/kert_a_concise_http_grpc_graphql_library_for/)
+- [Ktor can't connect to websocket](https://www.reddit.com/r/Kotlin/comments/p504fx/ktor_cant_connect_to_websocket/)
+- [Is Ktor the best for creating a REST API?](https://www.reddit.com/r/Kotlin/comments/p4zufi/is_ktor_the_best_for_creating_a_rest_api/)
+- [Can kotlin/jvm module use kotlin/native module?](https://www.reddit.com/r/Kotlin/comments/p4ya7q/can_kotlinjvm_module_use_kotlinnative_module/)
 - [Talking Kotlin: 10 Years of Kotlin Special](https://www.reddit.com/r/Kotlin/comments/p4b5x5/talking_kotlin_10_years_of_kotlin_special/)
 - [Kotlin for backend Engineering](https://www.reddit.com/r/Kotlin/comments/p43fb3/kotlin_for_backend_engineering/)
 - [I created mining app using desktop compose](https://www.reddit.com/r/Kotlin/comments/p3l72u/i_created_mining_app_using_desktop_compose/)
 - [Why are companion objects?](https://www.reddit.com/r/Kotlin/comments/p3l3s1/why_are_companion_objects/)
 - [java or kotlin or scala?](https://www.reddit.com/r/Kotlin/comments/p3jzdp/java_or_kotlin_or_scala/)
 - [Using kotlin.Result causes runtime errors (up to 1.5.30-RC)](https://www.reddit.com/r/Kotlin/comments/p3jjg2/using_kotlinresult_causes_runtime_errors_up_to/)
-- [Kotlin Benchmarks Update :)](https://www.reddit.com/r/Kotlin/comments/p3jc0w/kotlin_benchmarks_update/)
-- [What should I learn next?](https://www.reddit.com/r/Kotlin/comments/p2z5op/what_should_i_learn_next/)
-- [Kotlin Contracts](https://www.reddit.com/r/Kotlin/comments/p2y60u/kotlin_contracts/)
-- [Ten Years Of Kotlin Programming Language](https://www.reddit.com/r/Kotlin/comments/p2xer8/ten_years_of_kotlin_programming_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
