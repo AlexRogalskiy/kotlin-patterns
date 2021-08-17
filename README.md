@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [image is not reflected in the recyclerview when I just want to update first name, last name and age](https://www.reddit.com/r/Kotlin/comments/p5qb2r/image_is_not_reflected_in_the_recyclerview_when_i/)
+- [Simple question from a begginer](https://www.reddit.com/r/Kotlin/comments/p5na1d/simple_question_from_a_begginer/)
+- [Installing just kotlin and not an IDE](https://www.reddit.com/r/Kotlin/comments/p5mcae/installing_just_kotlin_and_not_an_ide/)
+- [Question on exhaustiveness of Doubles in `when`s](https://www.reddit.com/r/Kotlin/comments/p5lcik/question_on_exhaustiveness_of_doubles_in_whens/)
+- [and abd problem turned into a headache](https://www.reddit.com/r/Kotlin/comments/p5jwgv/and_abd_problem_turned_into_a_headache/)
+- [MathGame v. 2.0 update](https://www.reddit.com/r/Kotlin/comments/p5b47t/mathgame_v_20_update/)
 - [Kert: A concise HTTP, GRPC & GraphQL library for Kotlin](https://www.reddit.com/r/Kotlin/comments/p5052i/kert_a_concise_http_grpc_graphql_library_for/)
 - [Ktor can't connect to websocket](https://www.reddit.com/r/Kotlin/comments/p504fx/ktor_cant_connect_to_websocket/)
 - [Is Ktor the best for creating a REST API?](https://www.reddit.com/r/Kotlin/comments/p4zufi/is_ktor_the_best_for_creating_a_rest_api/)
 - [Can kotlin/jvm module use kotlin/native module?](https://www.reddit.com/r/Kotlin/comments/p4ya7q/can_kotlinjvm_module_use_kotlinnative_module/)
-- [Talking Kotlin: 10 Years of Kotlin Special](https://www.reddit.com/r/Kotlin/comments/p4b5x5/talking_kotlin_10_years_of_kotlin_special/)
-- [Kotlin for backend Engineering](https://www.reddit.com/r/Kotlin/comments/p43fb3/kotlin_for_backend_engineering/)
-- [I created mining app using desktop compose](https://www.reddit.com/r/Kotlin/comments/p3l72u/i_created_mining_app_using_desktop_compose/)
-- [Why are companion objects?](https://www.reddit.com/r/Kotlin/comments/p3l3s1/why_are_companion_objects/)
-- [java or kotlin or scala?](https://www.reddit.com/r/Kotlin/comments/p3jzdp/java_or_kotlin_or_scala/)
-- [Using kotlin.Result causes runtime errors (up to 1.5.30-RC)](https://www.reddit.com/r/Kotlin/comments/p3jjg2/using_kotlinresult_causes_runtime_errors_up_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
