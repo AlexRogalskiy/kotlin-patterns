@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Coroutines vs Futures in Kotlin?](https://www.reddit.com/r/Kotlin/comments/p68vk3/coroutines_vs_futures_in_kotlin/)
+- [In the new episode of the 5 Kotlin Questions series, Vsevolod Tolstopyatov, Kotlin Libraries Team Lead, will answer 5 frequently asked questions about coroutines! 🚀 Tune in to learn more about the present state and the future of coroutines!](https://www.reddit.com/r/Kotlin/comments/p68rak/in_the_new_episode_of_the_5_kotlin_questions/)
+- [Run-time initialization of global immutable value](https://www.reddit.com/r/Kotlin/comments/p66q6k/runtime_initialization_of_global_immutable_value/)
+- [Try Kotlin Multiplatform Mobile in AppCode for Free!](https://www.reddit.com/r/Kotlin/comments/p66ef0/try_kotlin_multiplatform_mobile_in_appcode_for/)
+- [Calling backend developers!](https://www.reddit.com/r/Kotlin/comments/p65x8c/calling_backend_developers/)
+- [Coroutines (Part III) – Structured Concurrency and Cancellation](https://www.reddit.com/r/Kotlin/comments/p61r7p/coroutines_part_iii_structured_concurrency_and/)
+- [From very basic Java to kotlin how long?](https://www.reddit.com/r/Kotlin/comments/p5y57f/from_very_basic_java_to_kotlin_how_long/)
 - [image is not reflected in the recyclerview when I just want to update first name, last name and age](https://www.reddit.com/r/Kotlin/comments/p5qb2r/image_is_not_reflected_in_the_recyclerview_when_i/)
 - [Simple question from a begginer](https://www.reddit.com/r/Kotlin/comments/p5na1d/simple_question_from_a_begginer/)
 - [Installing just kotlin and not an IDE](https://www.reddit.com/r/Kotlin/comments/p5mcae/installing_just_kotlin_and_not_an_ide/)
-- [Question on exhaustiveness of Doubles in `when`s](https://www.reddit.com/r/Kotlin/comments/p5lcik/question_on_exhaustiveness_of_doubles_in_whens/)
-- [and abd problem turned into a headache](https://www.reddit.com/r/Kotlin/comments/p5jwgv/and_abd_problem_turned_into_a_headache/)
-- [MathGame v. 2.0 update](https://www.reddit.com/r/Kotlin/comments/p5b47t/mathgame_v_20_update/)
-- [Kert: A concise HTTP, GRPC & GraphQL library for Kotlin](https://www.reddit.com/r/Kotlin/comments/p5052i/kert_a_concise_http_grpc_graphql_library_for/)
-- [Ktor can't connect to websocket](https://www.reddit.com/r/Kotlin/comments/p504fx/ktor_cant_connect_to_websocket/)
-- [Is Ktor the best for creating a REST API?](https://www.reddit.com/r/Kotlin/comments/p4zufi/is_ktor_the_best_for_creating_a_rest_api/)
-- [Can kotlin/jvm module use kotlin/native module?](https://www.reddit.com/r/Kotlin/comments/p4ya7q/can_kotlinjvm_module_use_kotlinnative_module/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
