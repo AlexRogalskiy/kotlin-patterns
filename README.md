@@ -269,6 +269,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Guitar tuner](https://www.reddit.com/r/Kotlin/comments/p6uxdy/guitar_tuner/)
+- [I'm confused about learning Kotlin and android development!](https://www.reddit.com/r/Kotlin/comments/p6q5ft/im_confused_about_learning_kotlin_and_android/)
+- [Coroutine builders](https://www.reddit.com/r/Kotlin/comments/p6mspf/coroutine_builders/)
 - [Coroutines vs Futures in Kotlin?](https://www.reddit.com/r/Kotlin/comments/p68vk3/coroutines_vs_futures_in_kotlin/)
 - [In the new episode of the 5 Kotlin Questions series, Vsevolod Tolstopyatov, Kotlin Libraries Team Lead, will answer 5 frequently asked questions about coroutines! 🚀 Tune in to learn more about the present state and the future of coroutines!](https://www.reddit.com/r/Kotlin/comments/p68rak/in_the_new_episode_of_the_5_kotlin_questions/)
 - [Run-time initialization of global immutable value](https://www.reddit.com/r/Kotlin/comments/p66q6k/runtime_initialization_of_global_immutable_value/)
@@ -276,9 +279,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Calling backend developers!](https://www.reddit.com/r/Kotlin/comments/p65x8c/calling_backend_developers/)
 - [Coroutines (Part III) – Structured Concurrency and Cancellation](https://www.reddit.com/r/Kotlin/comments/p61r7p/coroutines_part_iii_structured_concurrency_and/)
 - [From very basic Java to kotlin how long?](https://www.reddit.com/r/Kotlin/comments/p5y57f/from_very_basic_java_to_kotlin_how_long/)
-- [image is not reflected in the recyclerview when I just want to update first name, last name and age](https://www.reddit.com/r/Kotlin/comments/p5qb2r/image_is_not_reflected_in_the_recyclerview_when_i/)
-- [Simple question from a begginer](https://www.reddit.com/r/Kotlin/comments/p5na1d/simple_question_from_a_begginer/)
-- [Installing just kotlin and not an IDE](https://www.reddit.com/r/Kotlin/comments/p5mcae/installing_just_kotlin_and_not_an_ide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
