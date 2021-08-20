@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Shoulders of Giants: Languages Kotlin learned from - Andrey Breslav - GeekOUT 2018](https://www.reddit.com/r/Kotlin/comments/p7jwho/shoulders_of_giants_languages_kotlin_learned_from/)
+- [Learn Idiomatic Kotlin! In this video we'll show how to rewrite the code written in an imperative fashion in a more functional style and how to work with pairs, use ‘reduce’, edit code in a “column selection” mode, and even fix an integer overflow.](https://www.reddit.com/r/Kotlin/comments/p7imu8/learn_idiomatic_kotlin_in_this_video_well_show/)
+- [Must Know Kotlin Features For Android App Development](https://www.reddit.com/r/Kotlin/comments/p7gntt/must_know_kotlin_features_for_android_app/)
+- [Don't waste your time handling strings XML files manually on Android!](https://www.reddit.com/r/Kotlin/comments/p7bwqg/dont_waste_your_time_handling_strings_xml_files/)
 - [Guitar tuner](https://www.reddit.com/r/Kotlin/comments/p6uxdy/guitar_tuner/)
 - [I'm confused about learning Kotlin and android development!](https://www.reddit.com/r/Kotlin/comments/p6q5ft/im_confused_about_learning_kotlin_and_android/)
 - [Coroutine builders](https://www.reddit.com/r/Kotlin/comments/p6mspf/coroutine_builders/)
 - [Coroutines vs Futures in Kotlin?](https://www.reddit.com/r/Kotlin/comments/p68vk3/coroutines_vs_futures_in_kotlin/)
 - [In the new episode of the 5 Kotlin Questions series, Vsevolod Tolstopyatov, Kotlin Libraries Team Lead, will answer 5 frequently asked questions about coroutines! 🚀 Tune in to learn more about the present state and the future of coroutines!](https://www.reddit.com/r/Kotlin/comments/p68rak/in_the_new_episode_of_the_5_kotlin_questions/)
 - [Run-time initialization of global immutable value](https://www.reddit.com/r/Kotlin/comments/p66q6k/runtime_initialization_of_global_immutable_value/)
-- [Try Kotlin Multiplatform Mobile in AppCode for Free!](https://www.reddit.com/r/Kotlin/comments/p66ef0/try_kotlin_multiplatform_mobile_in_appcode_for/)
-- [Calling backend developers!](https://www.reddit.com/r/Kotlin/comments/p65x8c/calling_backend_developers/)
-- [Coroutines (Part III) – Structured Concurrency and Cancellation](https://www.reddit.com/r/Kotlin/comments/p61r7p/coroutines_part_iii_structured_concurrency_and/)
-- [From very basic Java to kotlin how long?](https://www.reddit.com/r/Kotlin/comments/p5y57f/from_very_basic_java_to_kotlin_how_long/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
