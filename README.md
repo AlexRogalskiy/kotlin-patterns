@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for talent to build Kotlin Written Crash Course (PAID)](https://www.reddit.com/r/Kotlin/comments/p8a96t/looking_for_talent_to_build_kotlin_written_crash/)
+- [Why do Kotlin file I/O exceptions not map to Java ones?](https://www.reddit.com/r/Kotlin/comments/p88xf2/why_do_kotlin_file_io_exceptions_not_map_to_java/)
+- [🛠 Build and Secure an API with Spring Boot and Kotlin](https://www.reddit.com/r/Kotlin/comments/p85frb/build_and_secure_an_api_with_spring_boot_and/)
+- [KVision 5.0.0 is released (major upgrade with Bootstrap 5 support)](https://www.reddit.com/r/Kotlin/comments/p7xijx/kvision_500_is_released_major_upgrade_with/)
 - [Shoulders of Giants: Languages Kotlin learned from - Andrey Breslav - GeekOUT 2018](https://www.reddit.com/r/Kotlin/comments/p7jwho/shoulders_of_giants_languages_kotlin_learned_from/)
 - [Learn Idiomatic Kotlin! In this video we'll show how to rewrite the code written in an imperative fashion in a more functional style and how to work with pairs, use ‘reduce’, edit code in a “column selection” mode, and even fix an integer overflow.](https://www.reddit.com/r/Kotlin/comments/p7imu8/learn_idiomatic_kotlin_in_this_video_well_show/)
 - [Must Know Kotlin Features For Android App Development](https://www.reddit.com/r/Kotlin/comments/p7gntt/must_know_kotlin_features_for_android_app/)
 - [Don't waste your time handling strings XML files manually on Android!](https://www.reddit.com/r/Kotlin/comments/p7bwqg/dont_waste_your_time_handling_strings_xml_files/)
 - [Guitar tuner](https://www.reddit.com/r/Kotlin/comments/p6uxdy/guitar_tuner/)
 - [I'm confused about learning Kotlin and android development!](https://www.reddit.com/r/Kotlin/comments/p6q5ft/im_confused_about_learning_kotlin_and_android/)
-- [Coroutine builders](https://www.reddit.com/r/Kotlin/comments/p6mspf/coroutine_builders/)
-- [Coroutines vs Futures in Kotlin?](https://www.reddit.com/r/Kotlin/comments/p68vk3/coroutines_vs_futures_in_kotlin/)
-- [In the new episode of the 5 Kotlin Questions series, Vsevolod Tolstopyatov, Kotlin Libraries Team Lead, will answer 5 frequently asked questions about coroutines! 🚀 Tune in to learn more about the present state and the future of coroutines!](https://www.reddit.com/r/Kotlin/comments/p68rak/in_the_new_episode_of_the_5_kotlin_questions/)
-- [Run-time initialization of global immutable value](https://www.reddit.com/r/Kotlin/comments/p66q6k/runtime_initialization_of_global_immutable_value/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
