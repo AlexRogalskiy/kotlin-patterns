@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using only Kotlin to build android apps](https://www.reddit.com/r/Kotlin/comments/p9mrt3/using_only_kotlin_to_build_android_apps/)
+- [fragments and activities](https://www.reddit.com/r/Kotlin/comments/p9m5js/fragments_and_activities/)
+- [Natural example of interface where implementations return subtypes](https://www.reddit.com/r/Kotlin/comments/p9h822/natural_example_of_interface_where/)
+- [Multiple lines of code execute for “when” conditionals?](https://www.reddit.com/r/Kotlin/comments/p9d0xn/multiple_lines_of_code_execute_for_when/)
+- [I would like to share my Kotlin Coroutines playground](https://www.reddit.com/r/Kotlin/comments/p99iir/i_would_like_to_share_my_kotlin_coroutines/)
+- [Starting a new Ktor project from ground up](https://www.reddit.com/r/Kotlin/comments/p97u29/starting_a_new_ktor_project_from_ground_up/)
 - [Simple quiz application](https://www.reddit.com/r/Kotlin/comments/p905u7/simple_quiz_application/)
 - [I just started learning kotlin but I'm having trouble in setting up my IDE and I'm getting errors when I try to run the simplest programs. Can anyone help? Please?](https://www.reddit.com/r/Kotlin/comments/p8vicz/i_just_started_learning_kotlin_but_im_having/)
 - [I create a series of videos on "Idiomatic Kotlin". Check out my episode on "Collections vs. Sequences".](https://www.reddit.com/r/Kotlin/comments/p8pv63/i_create_a_series_of_videos_on_idiomatic_kotlin/)
 - [Looking for talent to build Kotlin Written Crash Course (PAID)](https://www.reddit.com/r/Kotlin/comments/p8a96t/looking_for_talent_to_build_kotlin_written_crash/)
-- [Why do Kotlin file I/O exceptions not map to Java ones?](https://www.reddit.com/r/Kotlin/comments/p88xf2/why_do_kotlin_file_io_exceptions_not_map_to_java/)
-- [🛠 Build and Secure an API with Spring Boot and Kotlin](https://www.reddit.com/r/Kotlin/comments/p85frb/build_and_secure_an_api_with_spring_boot_and/)
-- [KVision 5.0.0 is released (major upgrade with Bootstrap 5 support)](https://www.reddit.com/r/Kotlin/comments/p7xijx/kvision_500_is_released_major_upgrade_with/)
-- [Shoulders of Giants: Languages Kotlin learned from - Andrey Breslav - GeekOUT 2018](https://www.reddit.com/r/Kotlin/comments/p7jwho/shoulders_of_giants_languages_kotlin_learned_from/)
-- [Learn Idiomatic Kotlin! In this video we'll show how to rewrite the code written in an imperative fashion in a more functional style and how to work with pairs, use ‘reduce’, edit code in a “column selection” mode, and even fix an integer overflow.](https://www.reddit.com/r/Kotlin/comments/p7imu8/learn_idiomatic_kotlin_in_this_video_well_show/)
-- [Must Know Kotlin Features For Android App Development](https://www.reddit.com/r/Kotlin/comments/p7gntt/must_know_kotlin_features_for_android_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
