@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using only Kotlin to build android apps](https://www.reddit.com/r/Kotlin/comments/p9mrt3/using_only_kotlin_to_build_android_apps/)
-- [fragments and activities](https://www.reddit.com/r/Kotlin/comments/p9m5js/fragments_and_activities/)
-- [Natural example of interface where implementations return subtypes](https://www.reddit.com/r/Kotlin/comments/p9h822/natural_example_of_interface_where/)
-- [Multiple lines of code execute for “when” conditionals?](https://www.reddit.com/r/Kotlin/comments/p9d0xn/multiple_lines_of_code_execute_for_when/)
-- [I would like to share my Kotlin Coroutines playground](https://www.reddit.com/r/Kotlin/comments/p99iir/i_would_like_to_share_my_kotlin_coroutines/)
-- [Starting a new Ktor project from ground up](https://www.reddit.com/r/Kotlin/comments/p97u29/starting_a_new_ktor_project_from_ground_up/)
-- [Simple quiz application](https://www.reddit.com/r/Kotlin/comments/p905u7/simple_quiz_application/)
-- [I just started learning kotlin but I'm having trouble in setting up my IDE and I'm getting errors when I try to run the simplest programs. Can anyone help? Please?](https://www.reddit.com/r/Kotlin/comments/p8vicz/i_just_started_learning_kotlin_but_im_having/)
-- [I create a series of videos on "Idiomatic Kotlin". Check out my episode on "Collections vs. Sequences".](https://www.reddit.com/r/Kotlin/comments/p8pv63/i_create_a_series_of_videos_on_idiomatic_kotlin/)
-- [Looking for talent to build Kotlin Written Crash Course (PAID)](https://www.reddit.com/r/Kotlin/comments/p8a96t/looking_for_talent_to_build_kotlin_written_crash/)
+- [The best way to build a desktop app using Kotlin?](https://www.reddit.com/r/Kotlin/comments/paa4mn/the_best_way_to_build_a_desktop_app_using_kotlin/)
+- [Adding sorting option](https://www.reddit.com/r/Kotlin/comments/pa9lur/adding_sorting_option/)
+- [Anyone one know how to fix this error?](https://www.reddit.com/r/Kotlin/comments/pa7ms4/anyone_one_know_how_to_fix_this_error/)
+- [How do I make a constructor have a default if not directly addressed?](https://www.reddit.com/r/Kotlin/comments/pa2w2j/how_do_i_make_a_constructor_have_a_default_if_not/)
+- [Kotlin’s Sealed Interfaces & The Hole in The Sealing](https://www.reddit.com/r/Kotlin/comments/pa1nfw/kotlins_sealed_interfaces_the_hole_in_the_sealing/)
+- [OpenApi Generator with Retrofit with coroutines](https://www.reddit.com/r/Kotlin/comments/p9yyph/openapi_generator_with_retrofit_with_coroutines/)
+- [Effective Kotlin Item 47: Avoid unnecessary object creation](https://www.reddit.com/r/Kotlin/comments/p9vwqn/effective_kotlin_item_47_avoid_unnecessary_object/)
+- [How can we move a view dynamically bypassing some values to ViewDragHelper?](https://www.reddit.com/r/Kotlin/comments/p9vk3v/how_can_we_move_a_view_dynamically_bypassing_some/)
+- [Overhead added by collecting thread dumps](https://www.reddit.com/r/Kotlin/comments/p9tu3r/overhead_added_by_collecting_thread_dumps/)
+- [Does Kotlin have a certification exam?](https://www.reddit.com/r/Kotlin/comments/p9tonu/does_kotlin_have_a_certification_exam/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
