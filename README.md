@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Multiplatform Example, KaMP Kit Goes Jetpack Compose (KoMPose Kit)](https://www.reddit.com/r/Kotlin/comments/patbw6/kotlin_multiplatform_example_kamp_kit_goes/)
+- [Java to Kotlin: A Refactoring Guide](https://www.reddit.com/r/Kotlin/comments/pasl8c/java_to_kotlin_a_refactoring_guide/)
+- [Feedback requested on tiny JDBC layer in Javalin web API.](https://www.reddit.com/r/Kotlin/comments/papagx/feedback_requested_on_tiny_jdbc_layer_in_javalin/)
+- [Java's 'import static' version in Kotlin?](https://www.reddit.com/r/Kotlin/comments/pagqlx/javas_import_static_version_in_kotlin/)
 - [The best way to build a desktop app using Kotlin?](https://www.reddit.com/r/Kotlin/comments/paa4mn/the_best_way_to_build_a_desktop_app_using_kotlin/)
-- [Adding sorting option](https://www.reddit.com/r/Kotlin/comments/pa9lur/adding_sorting_option/)
 - [Anyone one know how to fix this error?](https://www.reddit.com/r/Kotlin/comments/pa7ms4/anyone_one_know_how_to_fix_this_error/)
 - [How do I make a constructor have a default if not directly addressed?](https://www.reddit.com/r/Kotlin/comments/pa2w2j/how_do_i_make_a_constructor_have_a_default_if_not/)
 - [Kotlin’s Sealed Interfaces & The Hole in The Sealing](https://www.reddit.com/r/Kotlin/comments/pa1nfw/kotlins_sealed_interfaces_the_hole_in_the_sealing/)
 - [OpenApi Generator with Retrofit with coroutines](https://www.reddit.com/r/Kotlin/comments/p9yyph/openapi_generator_with_retrofit_with_coroutines/)
 - [Effective Kotlin Item 47: Avoid unnecessary object creation](https://www.reddit.com/r/Kotlin/comments/p9vwqn/effective_kotlin_item_47_avoid_unnecessary_object/)
-- [How can we move a view dynamically bypassing some values to ViewDragHelper?](https://www.reddit.com/r/Kotlin/comments/p9vk3v/how_can_we_move_a_view_dynamically_bypassing_some/)
-- [Overhead added by collecting thread dumps](https://www.reddit.com/r/Kotlin/comments/p9tu3r/overhead_added_by_collecting_thread_dumps/)
-- [Does Kotlin have a certification exam?](https://www.reddit.com/r/Kotlin/comments/p9tonu/does_kotlin_have_a_certification_exam/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
