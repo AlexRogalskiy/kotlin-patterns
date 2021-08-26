@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Async Coroutines](https://www.reddit.com/r/Kotlin/comments/pbmvob/async_coroutines/)
+- [What's the status of KEEP-87 and type class support in kotlin?](https://www.reddit.com/r/Kotlin/comments/pbczb2/whats_the_status_of_keep87_and_type_class_support/)
+- [Anyone using Kotlin 1.4 with Springboot in Production?!](https://www.reddit.com/r/Kotlin/comments/pbb776/anyone_using_kotlin_14_with_springboot_in/)
+- [70+ Android App Projects built with Jetpack Compose for Beginners, Intermediate and Experienced Developers](https://www.reddit.com/r/Kotlin/comments/pb8kcb/70_android_app_projects_built_with_jetpack/)
+- [Kotlin 1.5.30](https://www.reddit.com/r/Kotlin/comments/pb822x/kotlin_1530/)
+- [Kotlin 1.5.30 brings in a number of interesting updates! Check out the video for all the highlights!](https://www.reddit.com/r/Kotlin/comments/pb7r7h/kotlin_1530_brings_in_a_number_of_interesting/)
+- [What is CoroutineContext and how does it work?](https://www.reddit.com/r/Kotlin/comments/pb7fwp/what_is_coroutinecontext_and_how_does_it_work/)
+- [Anyone having first hand experience working with Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/pb2cj1/anyone_having_first_hand_experience_working_with/)
 - [Kotlin Multiplatform Example, KaMP Kit Goes Jetpack Compose (KoMPose Kit)](https://www.reddit.com/r/Kotlin/comments/patbw6/kotlin_multiplatform_example_kamp_kit_goes/)
 - [Java to Kotlin: A Refactoring Guide](https://www.reddit.com/r/Kotlin/comments/pasl8c/java_to_kotlin_a_refactoring_guide/)
-- [Feedback requested on tiny JDBC layer in Javalin web API.](https://www.reddit.com/r/Kotlin/comments/papagx/feedback_requested_on_tiny_jdbc_layer_in_javalin/)
-- [Java's 'import static' version in Kotlin?](https://www.reddit.com/r/Kotlin/comments/pagqlx/javas_import_static_version_in_kotlin/)
-- [The best way to build a desktop app using Kotlin?](https://www.reddit.com/r/Kotlin/comments/paa4mn/the_best_way_to_build_a_desktop_app_using_kotlin/)
-- [Anyone one know how to fix this error?](https://www.reddit.com/r/Kotlin/comments/pa7ms4/anyone_one_know_how_to_fix_this_error/)
-- [How do I make a constructor have a default if not directly addressed?](https://www.reddit.com/r/Kotlin/comments/pa2w2j/how_do_i_make_a_constructor_have_a_default_if_not/)
-- [Kotlin’s Sealed Interfaces & The Hole in The Sealing](https://www.reddit.com/r/Kotlin/comments/pa1nfw/kotlins_sealed_interfaces_the_hole_in_the_sealing/)
-- [OpenApi Generator with Retrofit with coroutines](https://www.reddit.com/r/Kotlin/comments/p9yyph/openapi_generator_with_retrofit_with_coroutines/)
-- [Effective Kotlin Item 47: Avoid unnecessary object creation](https://www.reddit.com/r/Kotlin/comments/p9vwqn/effective_kotlin_item_47_avoid_unnecessary_object/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
