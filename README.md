@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin 1.5.30 and KMM/KMP](https://www.reddit.com/r/Kotlin/comments/pcqlo9/kotlin_1530_and_kmmkmp/)
+- [Is Android studio must for Android development?](https://www.reddit.com/r/Kotlin/comments/pcmyoo/is_android_studio_must_for_android_development/)
+- [Where can i learn Kotlin from scratch. Any leads to resources would be nice](https://www.reddit.com/r/Kotlin/comments/pcm4au/where_can_i_learn_kotlin_from_scratch_any_leads/)
+- [Can you tell me of a site where I can post "projects" as well as "ask & answer" ?](https://www.reddit.com/r/Kotlin/comments/pcdqa0/can_you_tell_me_of_a_site_where_i_can_post/)
 - [SIMPLE TO-DO LIST](https://www.reddit.com/r/Kotlin/comments/pcd25y/simple_todo_list/)
 - [Can u solve my kotlin doubt.....](https://www.reddit.com/r/Kotlin/comments/pccnz1/can_u_solve_my_kotlin_doubt/)
 - [Issues with intelliJ idea](https://www.reddit.com/r/Kotlin/comments/pbx63j/issues_with_intellij_idea/)
 - [Is there an equivalent for Compose Web for server side Kotlin apps?](https://www.reddit.com/r/Kotlin/comments/pbs4r5/is_there_an_equivalent_for_compose_web_for_server/)
 - [Async Coroutines](https://www.reddit.com/r/Kotlin/comments/pbmvob/async_coroutines/)
 - [What's the status of KEEP-87 and type class support in kotlin?](https://www.reddit.com/r/Kotlin/comments/pbczb2/whats_the_status_of_keep87_and_type_class_support/)
-- [Anyone using Kotlin 1.4 with Springboot in Production?!](https://www.reddit.com/r/Kotlin/comments/pbb776/anyone_using_kotlin_14_with_springboot_in/)
-- [70+ Android App Projects built with Jetpack Compose for Beginners, Intermediate and Experienced Developers](https://www.reddit.com/r/Kotlin/comments/pb8kcb/70_android_app_projects_built_with_jetpack/)
-- [Kotlin 1.5.30](https://www.reddit.com/r/Kotlin/comments/pb822x/kotlin_1530/)
-- [Kotlin 1.5.30 brings in a number of interesting updates! Check out the video for all the highlights!](https://www.reddit.com/r/Kotlin/comments/pb7r7h/kotlin_1530_brings_in_a_number_of_interesting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
