@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Talking Kotlin #102 – Kotlin in AppCode: What? Where? Why?](https://www.reddit.com/r/Kotlin/comments/pdat7c/talking_kotlin_102_kotlin_in_appcode_what_where/)
+- [Issue with Gradle Build for Kotlin App using Web3j Library](https://www.reddit.com/r/Kotlin/comments/pd87qo/issue_with_gradle_build_for_kotlin_app_using/)
+- [Kotlin update previews experimental features](https://www.reddit.com/r/Kotlin/comments/pd4xqc/kotlin_update_previews_experimental_features/)
+- [I need any ideas](https://www.reddit.com/r/Kotlin/comments/pd3l34/i_need_any_ideas/)
+- [Kotlin-React | Created Netflix Inspired Home Page UI using Kotlin React](https://www.reddit.com/r/Kotlin/comments/pd2aze/kotlinreact_created_netflix_inspired_home_page_ui/)
 - [Kotlin 1.5.30 and KMM/KMP](https://www.reddit.com/r/Kotlin/comments/pcqlo9/kotlin_1530_and_kmmkmp/)
 - [Is Android studio must for Android development?](https://www.reddit.com/r/Kotlin/comments/pcmyoo/is_android_studio_must_for_android_development/)
 - [Where can i learn Kotlin from scratch. Any leads to resources would be nice](https://www.reddit.com/r/Kotlin/comments/pcm4au/where_can_i_learn_kotlin_from_scratch_any_leads/)
 - [Can you tell me of a site where I can post "projects" as well as "ask & answer" ?](https://www.reddit.com/r/Kotlin/comments/pcdqa0/can_you_tell_me_of_a_site_where_i_can_post/)
-- [SIMPLE TO-DO LIST](https://www.reddit.com/r/Kotlin/comments/pcd25y/simple_todo_list/)
 - [Can u solve my kotlin doubt.....](https://www.reddit.com/r/Kotlin/comments/pccnz1/can_u_solve_my_kotlin_doubt/)
-- [Issues with intelliJ idea](https://www.reddit.com/r/Kotlin/comments/pbx63j/issues_with_intellij_idea/)
-- [Is there an equivalent for Compose Web for server side Kotlin apps?](https://www.reddit.com/r/Kotlin/comments/pbs4r5/is_there_an_equivalent_for_compose_web_for_server/)
-- [Async Coroutines](https://www.reddit.com/r/Kotlin/comments/pbmvob/async_coroutines/)
-- [What's the status of KEEP-87 and type class support in kotlin?](https://www.reddit.com/r/Kotlin/comments/pbczb2/whats_the_status_of_keep87_and_type_class_support/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
