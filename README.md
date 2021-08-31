@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hello, i am coming from flutter so need your help to start my project.](https://www.reddit.com/r/Kotlin/comments/pdsbhv/hello_i_am_coming_from_flutter_so_need_your_help/)
-- [I wrote a ktor app to generate Discord profile banners, looking for a review.](https://www.reddit.com/r/Kotlin/comments/pdrnsj/i_wrote_a_ktor_app_to_generate_discord_profile/)
-- [Avoid adding same object from mutableListOf to JPanel](https://www.reddit.com/r/Kotlin/comments/pdol6o/avoid_adding_same_object_from_mutablelistof_to/)
-- [Machine Learning in Kotlin (Question)](https://www.reddit.com/r/Kotlin/comments/pdodj6/machine_learning_in_kotlin_question/)
-- [How to fix "no main manifest attribute" in vscode?](https://www.reddit.com/r/Kotlin/comments/pdoais/how_to_fix_no_main_manifest_attribute_in_vscode/)
-- [Talking Kotlin #102 – Kotlin in AppCode: What? Where? Why?](https://www.reddit.com/r/Kotlin/comments/pdat7c/talking_kotlin_102_kotlin_in_appcode_what_where/)
-- [Issue with Gradle Build for Kotlin App using Web3j Library](https://www.reddit.com/r/Kotlin/comments/pd87qo/issue_with_gradle_build_for_kotlin_app_using/)
-- [Kotlin update previews experimental features](https://www.reddit.com/r/Kotlin/comments/pd4xqc/kotlin_update_previews_experimental_features/)
-- [I need any ideas](https://www.reddit.com/r/Kotlin/comments/pd3l34/i_need_any_ideas/)
-- [Kotlin-React | Created Netflix Inspired Home Page UI using Kotlin React](https://www.reddit.com/r/Kotlin/comments/pd2aze/kotlinreact_created_netflix_inspired_home_page_ui/)
+- [Functional Android Development with Kotlin](https://www.reddit.com/r/Kotlin/comments/peqmqg/functional_android_development_with_kotlin/)
+- [AWS SDK for Kotlin alpha release](https://www.reddit.com/r/Kotlin/comments/peliah/aws_sdk_for_kotlin_alpha_release/)
+- [Kuberam: Jetpack Compose project using MVVM](https://www.reddit.com/r/Kotlin/comments/pekdtf/kuberam_jetpack_compose_project_using_mvvm/)
+- [Head First Android Development, 3rd Edition eBook](https://www.reddit.com/r/Kotlin/comments/peid99/head_first_android_development_3rd_edition_ebook/)
+- [70+ Jetpack Compose Tutorials for Beginners, Intermediate and Experienced Android developers](https://www.reddit.com/r/Kotlin/comments/pegwmk/70_jetpack_compose_tutorials_for_beginners/)
+- [Building an XCFramework on Kotlin Multiplatform from Kotlin 1.5.30](https://www.reddit.com/r/Kotlin/comments/pegjif/building_an_xcframework_on_kotlin_multiplatform/)
+- [Effective Kotlin Item 48: Use inline modifier for functions with parameters of functional types](https://www.reddit.com/r/Kotlin/comments/peds1i/effective_kotlin_item_48_use_inline_modifier_for/)
+- [How to run a XML file in vscode?](https://www.reddit.com/r/Kotlin/comments/ped52m/how_to_run_a_xml_file_in_vscode/)
+- [Is it possible to share variables from lambda to outside of the scope?](https://www.reddit.com/r/Kotlin/comments/peb9i5/is_it_possible_to_share_variables_from_lambda_to/)
+- [Kotlin-Multiplatform Shared Test Resources](https://www.reddit.com/r/Kotlin/comments/pe9o0m/kotlinmultiplatform_shared_test_resources/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
