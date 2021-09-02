@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Microservices with UI using SQL, NoSQL, REST and, gRPC. Also has Go & Java versions!](https://www.reddit.com/r/Kotlin/comments/pfygbw/kotlin_microservices_with_ui_using_sql_nosql_rest/)
+- [Idiomatic Kotlin: Solving Advent of Code Puzzles, Passport Validation](https://www.reddit.com/r/Kotlin/comments/pfwq9z/idiomatic_kotlin_solving_advent_of_code_puzzles/)
+- [Coroutines under the hood](https://www.reddit.com/r/Kotlin/comments/pfq412/coroutines_under_the_hood/)
+- [New Zircon Release is out: 2021.1.0-RELEASE](https://www.reddit.com/r/Kotlin/comments/pfpuoc/new_zircon_release_is_out_202110release/)
+- [KtTalk: A kotlin library that add smalltalk style methods to objects.](https://www.reddit.com/r/Kotlin/comments/pflmc0/kttalk_a_kotlin_library_that_add_smalltalk_style/)
 - [Implementing OpenGL ES graphics in Kotlin? Good tutorials?](https://www.reddit.com/r/Kotlin/comments/pf9rxi/implementing_opengl_es_graphics_in_kotlin_good/)
 - [Try the New Kotlin/Native Memory Manager Development Preview](https://www.reddit.com/r/Kotlin/comments/pf8k7i/try_the_new_kotlinnative_memory_manager/)
 - [Would you consider this an "inappropriate" use of a value class?](https://www.reddit.com/r/Kotlin/comments/pf5p80/would_you_consider_this_an_inappropriate_use_of_a/)
 - [Kotlin Cookbook: A Problem Focused Approach eBook](https://www.reddit.com/r/Kotlin/comments/pf2cwd/kotlin_cookbook_a_problem_focused_approach_ebook/)
 - [I produce a series of YouTube #Shorts with "bitesized" pieces of information; the first one is about a lesser known Kotlin feature](https://www.reddit.com/r/Kotlin/comments/pf1vzi/i_produce_a_series_of_youtube_shorts_with/)
-- [Resultado del primer día del reto de hacer una app en 7 días](https://www.reddit.com/r/Kotlin/comments/pewwt5/resultado_del_primer_día_del_reto_de_hacer_una/)
-- [Inline Classes and Autoboxing (Updated for Kotlin 1.5)](https://www.reddit.com/r/Kotlin/comments/pewomm/inline_classes_and_autoboxing_updated_for_kotlin/)
-- [A question for Kotlin developers...](https://www.reddit.com/r/Kotlin/comments/pewckv/a_question_for_kotlin_developers/)
-- [Functional Android Development with Kotlin](https://www.reddit.com/r/Kotlin/comments/peqmqg/functional_android_development_with_kotlin/)
-- [AWS SDK for Kotlin alpha release](https://www.reddit.com/r/Kotlin/comments/peliah/aws_sdk_for_kotlin_alpha_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
