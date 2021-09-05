@@ -269,6 +269,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose Desktop tasks](https://www.reddit.com/r/Kotlin/comments/phu5a2/compose_desktop_tasks/)
 - [Assuming the data class's generated copy() is unacceptable, what's the best way to implement a value type?](https://www.reddit.com/r/Kotlin/comments/ph5zss/assuming_the_data_classs_generated_copy_is/)
 - [Chaos Engineering – Blocked Threads](https://www.reddit.com/r/Kotlin/comments/ph2f6u/chaos_engineering_blocked_threads/)
 - [How to dynamically add annotation to class metadata?](https://www.reddit.com/r/Kotlin/comments/pglwqg/how_to_dynamically_add_annotation_to_class/)
@@ -277,7 +278,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Ktor vs Spring for creating an API](https://www.reddit.com/r/Kotlin/comments/pgfuhn/ktor_vs_spring_for_creating_an_api/)
 - [Kotlin Data Types](https://www.reddit.com/r/Kotlin/comments/pgfjll/kotlin_data_types/)
 - [Kotlin method analysis](https://www.reddit.com/r/Kotlin/comments/pgdn0i/kotlin_method_analysis/)
-- [Kotlin Microservices with UI using SQL, NoSQL, REST and, gRPC. Also has Go & Java versions!](https://www.reddit.com/r/Kotlin/comments/pfygbw/kotlin_microservices_with_ui_using_sql_nosql_rest/)
 - [Idiomatic Kotlin: Solving Advent of Code Puzzles, Passport Validation](https://www.reddit.com/r/Kotlin/comments/pfwq9z/idiomatic_kotlin_solving_advent_of_code_puzzles/)
 <!-- REDDIT-POST-LIST:END -->
 
