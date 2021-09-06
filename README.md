@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how can I launch an activity for a condition in a collection?](https://www.reddit.com/r/Kotlin/comments/pin5rq/how_can_i_launch_an_activity_for_a_condition_in_a/)
+- [Can you create Desktop applications with Kotlin just like you can with Java?](https://www.reddit.com/r/Kotlin/comments/pim24s/can_you_create_desktop_applications_with_kotlin/)
+- [Command line Kotlin project manager?](https://www.reddit.com/r/Kotlin/comments/piib83/command_line_kotlin_project_manager/)
+- [My entire family loves Kotlin](https://www.reddit.com/r/Kotlin/comments/pii4kk/my_entire_family_loves_kotlin/)
+- [Is it just me, or is concurrency in Kotlin complicated?](https://www.reddit.com/r/Kotlin/comments/pi9tsq/is_it_just_me_or_is_concurrency_in_kotlin/)
+- [Newb Question: Why can't I assign numbers beginning with zero to variables?](https://www.reddit.com/r/Kotlin/comments/pi7jm1/newb_question_why_cant_i_assign_numbers_beginning/)
 - [Compose Desktop tasks](https://www.reddit.com/r/Kotlin/comments/phu5a2/compose_desktop_tasks/)
 - [Assuming the data class's generated copy() is unacceptable, what's the best way to implement a value type?](https://www.reddit.com/r/Kotlin/comments/ph5zss/assuming_the_data_classs_generated_copy_is/)
 - [Chaos Engineering – Blocked Threads](https://www.reddit.com/r/Kotlin/comments/ph2f6u/chaos_engineering_blocked_threads/)
 - [How to dynamically add annotation to class metadata?](https://www.reddit.com/r/Kotlin/comments/pglwqg/how_to_dynamically_add_annotation_to_class/)
-- [Discord link?](https://www.reddit.com/r/Kotlin/comments/pgk9pn/discord_link/)
-- [How do I get a message from a websocket listener to a different class?](https://www.reddit.com/r/Kotlin/comments/pgk2ll/how_do_i_get_a_message_from_a_websocket_listener/)
-- [Ktor vs Spring for creating an API](https://www.reddit.com/r/Kotlin/comments/pgfuhn/ktor_vs_spring_for_creating_an_api/)
-- [Kotlin Data Types](https://www.reddit.com/r/Kotlin/comments/pgfjll/kotlin_data_types/)
-- [Kotlin method analysis](https://www.reddit.com/r/Kotlin/comments/pgdn0i/kotlin_method_analysis/)
-- [Idiomatic Kotlin: Solving Advent of Code Puzzles, Passport Validation](https://www.reddit.com/r/Kotlin/comments/pfwq9z/idiomatic_kotlin_solving_advent_of_code_puzzles/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
