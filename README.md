@@ -269,16 +269,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Arrow playing nicely along with Json Serializable and the Database?](https://www.reddit.com/r/Kotlin/comments/pj53e2/is_arrow_playing_nicely_along_with_json/)
+- [Kotlin at Ten. Interview with JetBrains’ Roman Elizarov](https://www.reddit.com/r/Kotlin/comments/pj2zgt/kotlin_at_ten_interview_with_jetbrains_roman/)
+- [Effective Kotlin Item 49: Consider using inline value classes](https://www.reddit.com/r/Kotlin/comments/pivpoq/effective_kotlin_item_49_consider_using_inline/)
+- [Using type-safe project dependencies on Gradle](https://www.reddit.com/r/Kotlin/comments/piq2s8/using_typesafe_project_dependencies_on_gradle/)
 - [how can I launch an activity for a condition in a collection?](https://www.reddit.com/r/Kotlin/comments/pin5rq/how_can_i_launch_an_activity_for_a_condition_in_a/)
 - [Can you create Desktop applications with Kotlin just like you can with Java?](https://www.reddit.com/r/Kotlin/comments/pim24s/can_you_create_desktop_applications_with_kotlin/)
 - [Command line Kotlin project manager?](https://www.reddit.com/r/Kotlin/comments/piib83/command_line_kotlin_project_manager/)
 - [My entire family loves Kotlin](https://www.reddit.com/r/Kotlin/comments/pii4kk/my_entire_family_loves_kotlin/)
 - [Is it just me, or is concurrency in Kotlin complicated?](https://www.reddit.com/r/Kotlin/comments/pi9tsq/is_it_just_me_or_is_concurrency_in_kotlin/)
 - [Newb Question: Why can't I assign numbers beginning with zero to variables?](https://www.reddit.com/r/Kotlin/comments/pi7jm1/newb_question_why_cant_i_assign_numbers_beginning/)
-- [Compose Desktop tasks](https://www.reddit.com/r/Kotlin/comments/phu5a2/compose_desktop_tasks/)
-- [Assuming the data class's generated copy() is unacceptable, what's the best way to implement a value type?](https://www.reddit.com/r/Kotlin/comments/ph5zss/assuming_the_data_classs_generated_copy_is/)
-- [Chaos Engineering – Blocked Threads](https://www.reddit.com/r/Kotlin/comments/ph2f6u/chaos_engineering_blocked_threads/)
-- [How to dynamically add annotation to class metadata?](https://www.reddit.com/r/Kotlin/comments/pglwqg/how_to_dynamically_add_annotation_to_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
