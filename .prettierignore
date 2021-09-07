@@ -14,3 +14,7 @@ coverage
 dist
 helm
 tilt_modules
+okteto
+charts
+k8s
+release

@@ -7,6 +7,9 @@ images
 node_modules
 tilt_modules
 k8s
+charts
+release
 helm
 reports
+okteto
 scripts

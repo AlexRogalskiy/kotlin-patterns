@@ -2,14 +2,13 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: backend-kotlin-patterns-configmap
-  namespace: webapp
   labels:
     app.kubernetes.io/name: backend-kotlin-patterns
     app.kubernetes.io/instance: styled-kotlin-patterns
     app.kubernetes.io/version: v1
     app.kubernetes.io/component: function
     app.kubernetes.io/part-of: serverless
-    app.kubernetes.io/managed-by: tilt
+    app.kubernetes.io/managed-by: okteto
 data:
   SERVER_PORT: '8000'
   APP_NAME: styled-kotlin-patterns
@@ -18,14 +17,13 @@ apiVersion: v1
 kind: Service
 metadata:
   name: backend-kotlin-patterns
-  namespace: webapp
   labels:
     app.kubernetes.io/name: backend-kotlin-patterns
     app.kubernetes.io/instance: styled-kotlin-patterns
     app.kubernetes.io/version: v1
     app.kubernetes.io/component: function
     app.kubernetes.io/part-of: serverless
-    app.kubernetes.io/managed-by: tilt
+    app.kubernetes.io/managed-by: okteto
 spec:
   type: ClusterIP
   clusterIP: None
@@ -39,18 +37,42 @@ spec:
     app.kubernetes.io/name: backend-kotlin-patterns
     app.kubernetes.io/version: v1
 ---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: backend-kotlin-patterns-ingress
+  labels:
+    app.kubernetes.io/name: backend-kotlin-patterns
+    app.kubernetes.io/instance: styled-kotlin-patterns
+    app.kubernetes.io/version: v1
+    app.kubernetes.io/component: function
+    app.kubernetes.io/part-of: serverless
+    app.kubernetes.io/managed-by: okteto
+  annotations:
+    dev.okteto.com/generate-host: "true"
+spec:
+  rules:
+    - http:
+        paths:
+          - path: /kotlin-patterns
+            pathType: Prefix
+            backend:
+              service:
+                name: backend-kotlin-patterns
+                port:
+                  number: 8000
+---
 apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: backend-kotlin-patterns-v1
-  namespace: webapp
   labels:
     app.kubernetes.io/name: backend-kotlin-patterns
     app.kubernetes.io/instance: styled-kotlin-patterns
     app.kubernetes.io/version: v1
     app.kubernetes.io/component: function
     app.kubernetes.io/part-of: documentation
-    app.kubernetes.io/managed-by: tilt
+    app.kubernetes.io/managed-by: okteto
 spec:
   replicas: 1
   minReadySeconds: 60
@@ -77,16 +99,9 @@ spec:
       restartPolicy: Always
       schedulerName: default-scheduler
       terminationGracePeriodSeconds: 30
-#      tolerations:
-#        - key: "node-priority"
-#          operator: "Equal"
-#          value: "infra"
-#          effect: "NoExecute"
-#      nodeSelector:
-#        node-priority: infra
       containers:
         - name: backend-kotlin-patterns
-          image: styled-kotlin-patterns
+          image: okteto.dev/styled-kotlin-patterns
           imagePullPolicy: IfNotPresent
           terminationMessagePath: /etc/logs/termination.log
           terminationMessagePolicy: File
@@ -118,7 +133,7 @@ spec:
               memory: "2G"
               ephemeral-storage: "2G"
             limits:
-              cpu: 2
+              cpu: 1
               memory: "3G"
               ephemeral-storage: "3G"
           securityContext:

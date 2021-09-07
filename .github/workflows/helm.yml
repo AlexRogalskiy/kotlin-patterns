@@ -13,7 +13,7 @@ jobs:
         id: prep
         run: |
           VERSION=$(grep 'version' package.json | awk '{ print $4 }' | tr -d '"')
-          CHANGELOG="https://github.com/AlexRogalskiy/java-patterns/blob/main/CHANGELOG.md#$(echo $VERSION | tr -d '.')"
+          CHANGELOG="https://github.com/AlexRogalskiy/kotlin-patterns/blob/main/CHANGELOG.md#$(echo $VERSION | tr -d '.')"
           echo ::set-output name=BUILD_DATE::$(date -u +'%Y-%m-%dT%H:%M:%SZ')
           echo ::set-output name=VERSION::${VERSION}
           echo ::set-output name=CHANGELOG::${CHANGELOG}
@@ -43,7 +43,7 @@ jobs:
           build-args: |
             REVISON=${{ github.sha }}
           tags: |
-            ghcr.io/AlexRogalskiy/java-patterns:${{ steps.prep.outputs.VERSION }}
+            ghcr.io/AlexRogalskiy/kotlin-patterns:${{ steps.prep.outputs.VERSION }}
           labels: |
             org.opencontainers.image.title=${{ github.event.repository.name }}
             org.opencontainers.image.description=${{ github.event.repository.description }}
@@ -54,7 +54,7 @@ jobs:
             org.opencontainers.image.created=${{ steps.prep.outputs.BUILD_DATE }}
       - name: Check images
         run: |
-          docker buildx imagetools inspect ghcr.io/AlexRogalskiy/java-patterns:${{ steps.prep.outputs.VERSION }}
+          docker buildx imagetools inspect ghcr.io/AlexRogalskiy/kotlin-patterns:${{ steps.prep.outputs.VERSION }}
       - name: Publish Helm charts
         uses: stefanprodan/helm-gh-pages@v1.3.0
         with:

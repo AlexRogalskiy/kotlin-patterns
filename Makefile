@@ -15,6 +15,8 @@ else
 endif
 
 IMAGE ?= styled-kotlin-patterns
+OKTETO_IMAGE ?= okteto/styled-kotlin-patterns
+DOCKER_IMAGE ?= alexanderr/styled-kotlin-patterns
 TAG ?= latest
 
 # UNAME_OS stores the value of uname -s.
@@ -107,12 +109,12 @@ helm-lint:
 # Run helm start command.
 .PHONY: helm-start
 helm-start:
-	helm upgrade --install backend-java-patterns -f charts/values.yaml --create-namespace --namespace webapp charts
+	helm upgrade --install backend-kotlin-patterns -f charts/values.yaml --create-namespace --namespace webapp charts
 
 # Run helm stop command.
 .PHONY: helm-stop
 helm-stop:
-	helm uninstall backend-java-patterns --namespace webapp
+	helm uninstall backend-kotlin-patterns --namespace webapp
 
 # Run helm package command.
 .PHONY: helm-package
@@ -123,3 +125,25 @@ helm-package:
 # Run helm dev command.
 .PHONY: helm-dev
 helm-dev: clean helm-lint helm-package
+
+# Run okteto build command.
+.PHONY: okteto
+okteto:
+	okteto build -t $(DOCKER_IMAGE) .
+	okteto build -t $(OKTETO_IMAGE) .
+
+# Run local build command.
+.PHONY: local-build
+local-build:
+	python3 -m pip install -r ./docs/requirements.txt
+	python3 -m mkdocs build --clean --config-file mkdocs.yml
+
+# Run local run command.
+.PHONY: local-run
+local-run:
+	python3 -m mkdocs serve --verbose --dirtyreload
+
+# Run github pages deploy command.
+.PHONY: gh-pages
+gh-pages:
+	python3 -m mkdocs --verbose gh-deploy --force --remote-branch gh-pages

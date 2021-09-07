@@ -4,6 +4,9 @@ set -e
 
 cd "$(dirname "$0")" || exit 1
 
-# Build docker images
+# Docker image params
 GIT_SHA=$(git rev-parse HEAD)
-docker build -f Dockerfile -t styled-kotlin-patterns -t styled-kotlin-patterns:$GIT_SHA --build-arg VERCEL_TOKEN=$1 .
+IMAGE_TAG="styled-kotlin-patterns"
+
+# Build docker image
+docker build -f Dockerfile -t "${IMAGE_TAG}" -t "${IMAGE_TAG}:${GIT_SHA}" .

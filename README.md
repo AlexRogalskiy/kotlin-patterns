@@ -170,6 +170,7 @@ python -m pip install markdown-include
 4\) Start the server at ***localhost*** by running the following command:
 
 ```shell script
+python -m mkdocs build --clean --config-file mkdocs.yml
 python -m mkdocs serve --verbose --dirtyreload
 ```
 
