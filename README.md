@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin 2021 Premier Online Event](https://www.reddit.com/r/Kotlin/comments/pkgcco/kotlin_2021_premier_online_event/)
+- [Handling data between activities](https://www.reddit.com/r/Kotlin/comments/pkaw4c/handling_data_between_activities/)
+- [Coroutines built-in support vs library](https://www.reddit.com/r/Kotlin/comments/pk6wpv/coroutines_builtin_support_vs_library/)
 - [How do I run through every possible combination of the previously initialized lists such that I eventually solve for the random password generated? (BTW I know that this code probably isn't the best, but I just started and am still trying to figure this out. This is a personal project)](https://www.reddit.com/r/Kotlin/comments/pjxxl7/how_do_i_run_through_every_possible_combination/)
 - [Accelerated Kotlin build times with Kotlin Symbol Processing 1.0](https://www.reddit.com/r/Kotlin/comments/pjvx5f/accelerated_kotlin_build_times_with_kotlin_symbol/)
 - [Sample the World of KMM](https://www.reddit.com/r/Kotlin/comments/pjuxbc/sample_the_world_of_kmm/)
 - [Check out the Kotlin News for August 2021](https://www.reddit.com/r/Kotlin/comments/pjqske/check_out_the_kotlin_news_for_august_2021/)
-- [I get empty Aggregated Heart Rate Data from Google Fitness Api ?](https://www.reddit.com/r/Kotlin/comments/pjms7y/i_get_empty_aggregated_heart_rate_data_from/)
 - [How To Forward Call Information From Android Device to Web Side?](https://www.reddit.com/r/Kotlin/comments/pjl2xe/how_to_forward_call_information_from_android/)
 - [Featurea is new Kotlin game engine for mobile, desktop and web](https://www.reddit.com/r/Kotlin/comments/pjihqc/featurea_is_new_kotlin_game_engine_for_mobile/)
 - [Kotlin at Ten. Interview with JetBrains’ Roman Elizarov](https://www.reddit.com/r/Kotlin/comments/pj2zgt/kotlin_at_ten_interview_with_jetbrains_roman/)
-- [Effective Kotlin Item 49: Consider using inline value classes](https://www.reddit.com/r/Kotlin/comments/pivpoq/effective_kotlin_item_49_consider_using_inline/)
-- [Using type-safe project dependencies on Gradle](https://www.reddit.com/r/Kotlin/comments/piq2s8/using_typesafe_project_dependencies_on_gradle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
