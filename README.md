@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [In case you don't have the type hints enabled in IntelliJ, you should do so right now: I made a YouTube Short showing you how!](https://www.reddit.com/r/Kotlin/comments/pl58nw/in_case_you_dont_have_the_type_hints_enabled_in/)
+- [Is the Lazy<T> property delegate special?](https://www.reddit.com/r/Kotlin/comments/pl0xce/is_the_lazyt_property_delegate_special/)
+- [In the new episode of the idiomatic Kotlin #AdventofCode series, you’ll learn about: 🔟 Binary representation of numbers. ⚡ The power of local functions. 👻 Why ‘max’ disappeared from stdlib but will “reappear” in a new form. Check it out ⏬](https://www.reddit.com/r/Kotlin/comments/pkzv1u/in_the_new_episode_of_the_idiomatic_kotlin/)
+- [Jo guys](https://www.reddit.com/r/Kotlin/comments/pky2e2/jo_guys/)
+- [Experiences with Kotlin for web?](https://www.reddit.com/r/Kotlin/comments/pkwyfe/experiences_with_kotlin_for_web/)
 - [Kotlin 2021 Premier Online Event](https://www.reddit.com/r/Kotlin/comments/pkgcco/kotlin_2021_premier_online_event/)
 - [Handling data between activities](https://www.reddit.com/r/Kotlin/comments/pkaw4c/handling_data_between_activities/)
 - [Coroutines built-in support vs library](https://www.reddit.com/r/Kotlin/comments/pk6wpv/coroutines_builtin_support_vs_library/)
 - [How do I run through every possible combination of the previously initialized lists such that I eventually solve for the random password generated? (BTW I know that this code probably isn't the best, but I just started and am still trying to figure this out. This is a personal project)](https://www.reddit.com/r/Kotlin/comments/pjxxl7/how_do_i_run_through_every_possible_combination/)
 - [Accelerated Kotlin build times with Kotlin Symbol Processing 1.0](https://www.reddit.com/r/Kotlin/comments/pjvx5f/accelerated_kotlin_build_times_with_kotlin_symbol/)
-- [Sample the World of KMM](https://www.reddit.com/r/Kotlin/comments/pjuxbc/sample_the_world_of_kmm/)
-- [Check out the Kotlin News for August 2021](https://www.reddit.com/r/Kotlin/comments/pjqske/check_out_the_kotlin_news_for_august_2021/)
-- [How To Forward Call Information From Android Device to Web Side?](https://www.reddit.com/r/Kotlin/comments/pjl2xe/how_to_forward_call_information_from_android/)
-- [Featurea is new Kotlin game engine for mobile, desktop and web](https://www.reddit.com/r/Kotlin/comments/pjihqc/featurea_is_new_kotlin_game_engine_for_mobile/)
-- [Kotlin at Ten. Interview with JetBrains’ Roman Elizarov](https://www.reddit.com/r/Kotlin/comments/pj2zgt/kotlin_at_ten_interview_with_jetbrains_roman/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
