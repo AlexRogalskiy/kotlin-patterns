@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [In case you don't have the type hints enabled in IntelliJ, you should do so right now: I made a YouTube Short showing you how!](https://www.reddit.com/r/Kotlin/comments/pl58nw/in_case_you_dont_have_the_type_hints_enabled_in/)
-- [Is the Lazy<T> property delegate special?](https://www.reddit.com/r/Kotlin/comments/pl0xce/is_the_lazyt_property_delegate_special/)
-- [In the new episode of the idiomatic Kotlin #AdventofCode series, you’ll learn about: 🔟 Binary representation of numbers. ⚡ The power of local functions. 👻 Why ‘max’ disappeared from stdlib but will “reappear” in a new form. Check it out ⏬](https://www.reddit.com/r/Kotlin/comments/pkzv1u/in_the_new_episode_of_the_idiomatic_kotlin/)
-- [Jo guys](https://www.reddit.com/r/Kotlin/comments/pky2e2/jo_guys/)
-- [Experiences with Kotlin for web?](https://www.reddit.com/r/Kotlin/comments/pkwyfe/experiences_with_kotlin_for_web/)
-- [Kotlin 2021 Premier Online Event](https://www.reddit.com/r/Kotlin/comments/pkgcco/kotlin_2021_premier_online_event/)
-- [Handling data between activities](https://www.reddit.com/r/Kotlin/comments/pkaw4c/handling_data_between_activities/)
-- [Coroutines built-in support vs library](https://www.reddit.com/r/Kotlin/comments/pk6wpv/coroutines_builtin_support_vs_library/)
-- [How do I run through every possible combination of the previously initialized lists such that I eventually solve for the random password generated? (BTW I know that this code probably isn't the best, but I just started and am still trying to figure this out. This is a personal project)](https://www.reddit.com/r/Kotlin/comments/pjxxl7/how_do_i_run_through_every_possible_combination/)
-- [Accelerated Kotlin build times with Kotlin Symbol Processing 1.0](https://www.reddit.com/r/Kotlin/comments/pjvx5f/accelerated_kotlin_build_times_with_kotlin_symbol/)
+- [Here's a puzzler for you. Guess before running.](https://www.reddit.com/r/Kotlin/comments/plw3tw/heres_a_puzzler_for_you_guess_before_running/)
+- [Compile Time](https://www.reddit.com/r/Kotlin/comments/pltkxu/compile_time/)
+- [Is Kotlin a good first language to learn?](https://www.reddit.com/r/Kotlin/comments/plq6q4/is_kotlin_a_good_first_language_to_learn/)
+- [Doodle 0.6.0 Supports Desktop](https://www.reddit.com/r/Kotlin/comments/pln78q/doodle_060_supports_desktop/)
+- [Kotlin libraries authors research](https://www.reddit.com/r/Kotlin/comments/plm9tm/kotlin_libraries_authors_research/)
+- [Is it a good idea to use Emacs for Kotlin?](https://www.reddit.com/r/Kotlin/comments/plk17i/is_it_a_good_idea_to_use_emacs_for_kotlin/)
+- [Interruptible countdown?](https://www.reddit.com/r/Kotlin/comments/pljcdh/interruptible_countdown/)
+- [List within a List](https://www.reddit.com/r/Kotlin/comments/pliwyn/list_within_a_list/)
+- [Thinking functionally in Kotlin](https://www.reddit.com/r/Kotlin/comments/plgls9/thinking_functionally_in_kotlin/)
+- [Kotlin Functions](https://www.reddit.com/r/Kotlin/comments/plf7hm/kotlin_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
