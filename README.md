@@ -270,6 +270,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any recommendations for new Android dev but proficient in Kotlin?](https://www.reddit.com/r/Kotlin/comments/pmjxup/any_recommendations_for_new_android_dev_but/)
+- [Suggested Dependencies for Spring Boot Kotlin](https://www.reddit.com/r/Kotlin/comments/pmc4do/suggested_dependencies_for_spring_boot_kotlin/)
+- [Chaos Engineering – Simulating CPU Spike](https://www.reddit.com/r/Kotlin/comments/pm588z/chaos_engineering_simulating_cpu_spike/)
 - [Here's a puzzler for you. Guess before running.](https://www.reddit.com/r/Kotlin/comments/plw3tw/heres_a_puzzler_for_you_guess_before_running/)
 - [Compile Time](https://www.reddit.com/r/Kotlin/comments/pltkxu/compile_time/)
 - [Is Kotlin a good first language to learn?](https://www.reddit.com/r/Kotlin/comments/plq6q4/is_kotlin_a_good_first_language_to_learn/)
@@ -277,9 +280,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin libraries authors research](https://www.reddit.com/r/Kotlin/comments/plm9tm/kotlin_libraries_authors_research/)
 - [Is it a good idea to use Emacs for Kotlin?](https://www.reddit.com/r/Kotlin/comments/plk17i/is_it_a_good_idea_to_use_emacs_for_kotlin/)
 - [Interruptible countdown?](https://www.reddit.com/r/Kotlin/comments/pljcdh/interruptible_countdown/)
-- [List within a List](https://www.reddit.com/r/Kotlin/comments/pliwyn/list_within_a_list/)
-- [Thinking functionally in Kotlin](https://www.reddit.com/r/Kotlin/comments/plgls9/thinking_functionally_in_kotlin/)
-- [Kotlin Functions](https://www.reddit.com/r/Kotlin/comments/plf7hm/kotlin_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
