@@ -270,6 +270,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a free real time transcription API?](https://www.reddit.com/r/Kotlin/comments/pn1dmq/is_there_a_free_real_time_transcription_api/)
+- [What can I do to learn ktor without documents?](https://www.reddit.com/r/Kotlin/comments/pmwria/what_can_i_do_to_learn_ktor_without_documents/)
+- [Overriding toString method of a variable in a companion object does not work?](https://www.reddit.com/r/Kotlin/comments/pmotrk/overriding_tostring_method_of_a_variable_in_a/)
 - [Any recommendations for new Android dev but proficient in Kotlin?](https://www.reddit.com/r/Kotlin/comments/pmjxup/any_recommendations_for_new_android_dev_but/)
 - [Suggested Dependencies for Spring Boot Kotlin](https://www.reddit.com/r/Kotlin/comments/pmc4do/suggested_dependencies_for_spring_boot_kotlin/)
 - [Chaos Engineering – Simulating CPU Spike](https://www.reddit.com/r/Kotlin/comments/pm588z/chaos_engineering_simulating_cpu_spike/)
@@ -277,9 +280,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Compile Time](https://www.reddit.com/r/Kotlin/comments/pltkxu/compile_time/)
 - [Is Kotlin a good first language to learn?](https://www.reddit.com/r/Kotlin/comments/plq6q4/is_kotlin_a_good_first_language_to_learn/)
 - [Doodle 0.6.0 Supports Desktop](https://www.reddit.com/r/Kotlin/comments/pln78q/doodle_060_supports_desktop/)
-- [Kotlin libraries authors research](https://www.reddit.com/r/Kotlin/comments/plm9tm/kotlin_libraries_authors_research/)
-- [Is it a good idea to use Emacs for Kotlin?](https://www.reddit.com/r/Kotlin/comments/plk17i/is_it_a_good_idea_to_use_emacs_for_kotlin/)
-- [Interruptible countdown?](https://www.reddit.com/r/Kotlin/comments/pljcdh/interruptible_countdown/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
