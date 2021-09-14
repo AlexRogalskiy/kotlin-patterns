@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [App dev.](https://www.reddit.com/r/Kotlin/comments/pnink1/app_dev/)
+- [Javalin 4.0.0 has been released (web micro-framework)](https://www.reddit.com/r/Kotlin/comments/pnh9j0/javalin_400_has_been_released_web_microframework/)
+- [Talking Kotlin #103 – Teaching Coroutines](https://www.reddit.com/r/Kotlin/comments/pnfr0l/talking_kotlin_103_teaching_coroutines/)
+- [Data Structure and Algorithms in Kotlin](https://www.reddit.com/r/Kotlin/comments/pnf8sv/data_structure_and_algorithms_in_kotlin/)
+- [A Collection of Best Kotlin Tutorials for Beginners](https://www.reddit.com/r/Kotlin/comments/pnd022/a_collection_of_best_kotlin_tutorials_for/)
+- [Kotlin Quick Reference by Alvin Alexander](https://www.reddit.com/r/Kotlin/comments/pnaur9/kotlin_quick_reference_by_alvin_alexander/)
 - [Is there a free real time transcription API?](https://www.reddit.com/r/Kotlin/comments/pn1dmq/is_there_a_free_real_time_transcription_api/)
-- [What can I do to learn ktor without documents?](https://www.reddit.com/r/Kotlin/comments/pmwria/what_can_i_do_to_learn_ktor_without_documents/)
 - [Overriding toString method of a variable in a companion object does not work?](https://www.reddit.com/r/Kotlin/comments/pmotrk/overriding_tostring_method_of_a_variable_in_a/)
 - [Any recommendations for new Android dev but proficient in Kotlin?](https://www.reddit.com/r/Kotlin/comments/pmjxup/any_recommendations_for_new_android_dev_but/)
 - [Suggested Dependencies for Spring Boot Kotlin](https://www.reddit.com/r/Kotlin/comments/pmc4do/suggested_dependencies_for_spring_boot_kotlin/)
-- [Chaos Engineering – Simulating CPU Spike](https://www.reddit.com/r/Kotlin/comments/pm588z/chaos_engineering_simulating_cpu_spike/)
-- [Here's a puzzler for you. Guess before running.](https://www.reddit.com/r/Kotlin/comments/plw3tw/heres_a_puzzler_for_you_guess_before_running/)
-- [Compile Time](https://www.reddit.com/r/Kotlin/comments/pltkxu/compile_time/)
-- [Is Kotlin a good first language to learn?](https://www.reddit.com/r/Kotlin/comments/plq6q4/is_kotlin_a_good_first_language_to_learn/)
-- [Doodle 0.6.0 Supports Desktop](https://www.reddit.com/r/Kotlin/comments/pln78q/doodle_060_supports_desktop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
