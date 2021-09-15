@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with kotlin](https://www.reddit.com/r/Kotlin/comments/pofsjs/help_with_kotlin/)
+- [Writing Unadulterated Services with Kotlin and Coroutines](https://www.reddit.com/r/Kotlin/comments/pocx3p/writing_unadulterated_services_with_kotlin_and/)
+- [The Actual Number of Kotlin Developers, or Who Our Active Users Are](https://www.reddit.com/r/Kotlin/comments/po5qac/the_actual_number_of_kotlin_developers_or_who_our/)
+- [What's the best paperback book I can get?](https://www.reddit.com/r/Kotlin/comments/po3ov7/whats_the_best_paperback_book_i_can_get/)
+- [Effective Kotlin Item 50: Eliminate obsolete object references](https://www.reddit.com/r/Kotlin/comments/pnypak/effective_kotlin_item_50_eliminate_obsolete/)
 - [App dev.](https://www.reddit.com/r/Kotlin/comments/pnink1/app_dev/)
 - [Javalin 4.0.0 has been released (web micro-framework)](https://www.reddit.com/r/Kotlin/comments/pnh9j0/javalin_400_has_been_released_web_microframework/)
 - [Talking Kotlin #103 – Teaching Coroutines](https://www.reddit.com/r/Kotlin/comments/pnfr0l/talking_kotlin_103_teaching_coroutines/)
 - [Data Structure and Algorithms in Kotlin](https://www.reddit.com/r/Kotlin/comments/pnf8sv/data_structure_and_algorithms_in_kotlin/)
 - [A Collection of Best Kotlin Tutorials for Beginners](https://www.reddit.com/r/Kotlin/comments/pnd022/a_collection_of_best_kotlin_tutorials_for/)
-- [Kotlin Quick Reference by Alvin Alexander](https://www.reddit.com/r/Kotlin/comments/pnaur9/kotlin_quick_reference_by_alvin_alexander/)
-- [Is there a free real time transcription API?](https://www.reddit.com/r/Kotlin/comments/pn1dmq/is_there_a_free_real_time_transcription_api/)
-- [Overriding toString method of a variable in a companion object does not work?](https://www.reddit.com/r/Kotlin/comments/pmotrk/overriding_tostring_method_of_a_variable_in_a/)
-- [Any recommendations for new Android dev but proficient in Kotlin?](https://www.reddit.com/r/Kotlin/comments/pmjxup/any_recommendations_for_new_android_dev_but/)
-- [Suggested Dependencies for Spring Boot Kotlin](https://www.reddit.com/r/Kotlin/comments/pmc4do/suggested_dependencies_for_spring_boot_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
