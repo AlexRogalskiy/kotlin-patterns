@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMM Standardizes Mobile App Analytics at Cox Automotive](https://www.reddit.com/r/Kotlin/comments/pov5vl/kmm_standardizes_mobile_app_analytics_at_cox/)
+- [What's the best way to fill an indexed array of objects with properties? Like an array of maps? Example in JS](https://www.reddit.com/r/Kotlin/comments/pou3ry/whats_the_best_way_to_fill_an_indexed_array_of/)
+- [Performance for my Ktor web service (Profiling?)](https://www.reddit.com/r/Kotlin/comments/poti0r/performance_for_my_ktor_web_service_profiling/)
+- [Currency Exchange App in Kotlin with Dagger2 and RxJava2](https://www.reddit.com/r/Kotlin/comments/posccv/currency_exchange_app_in_kotlin_with_dagger2_and/)
+- [CharSequence?.orEmpty?](https://www.reddit.com/r/Kotlin/comments/poqv5d/charsequenceorempty/)
+- [Best way to "combine" exceptions that are caught while retrying an operation?](https://www.reddit.com/r/Kotlin/comments/poq1ny/best_way_to_combine_exceptions_that_are_caught/)
+- [Awesome job opportunity for Lead and/or Full-Stack Kotlin devs](https://www.reddit.com/r/Kotlin/comments/poilhp/awesome_job_opportunity_for_lead_andor_fullstack/)
 - [Help with kotlin](https://www.reddit.com/r/Kotlin/comments/pofsjs/help_with_kotlin/)
 - [Writing Unadulterated Services with Kotlin and Coroutines](https://www.reddit.com/r/Kotlin/comments/pocx3p/writing_unadulterated_services_with_kotlin_and/)
 - [The Actual Number of Kotlin Developers, or Who Our Active Users Are](https://www.reddit.com/r/Kotlin/comments/po5qac/the_actual_number_of_kotlin_developers_or_who_our/)
-- [What's the best paperback book I can get?](https://www.reddit.com/r/Kotlin/comments/po3ov7/whats_the_best_paperback_book_i_can_get/)
-- [Effective Kotlin Item 50: Eliminate obsolete object references](https://www.reddit.com/r/Kotlin/comments/pnypak/effective_kotlin_item_50_eliminate_obsolete/)
-- [App dev.](https://www.reddit.com/r/Kotlin/comments/pnink1/app_dev/)
-- [Javalin 4.0.0 has been released (web micro-framework)](https://www.reddit.com/r/Kotlin/comments/pnh9j0/javalin_400_has_been_released_web_microframework/)
-- [Talking Kotlin #103 – Teaching Coroutines](https://www.reddit.com/r/Kotlin/comments/pnfr0l/talking_kotlin_103_teaching_coroutines/)
-- [Data Structure and Algorithms in Kotlin](https://www.reddit.com/r/Kotlin/comments/pnf8sv/data_structure_and_algorithms_in_kotlin/)
-- [A Collection of Best Kotlin Tutorials for Beginners](https://www.reddit.com/r/Kotlin/comments/pnd022/a_collection_of_best_kotlin_tutorials_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
