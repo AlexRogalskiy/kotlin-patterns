@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [KMM Standardizes Mobile App Analytics at Cox Automotive](https://www.reddit.com/r/Kotlin/comments/pov5vl/kmm_standardizes_mobile_app_analytics_at_cox/)
+- [Why is array not a collection type?](https://www.reddit.com/r/Kotlin/comments/ppn4n0/why_is_array_not_a_collection_type/)
+- [Kotlin generators vs. Java iterators](https://www.reddit.com/r/Kotlin/comments/ppkis4/kotlin_generators_vs_java_iterators/)
+- [Is there any reason to prefer `operator fun invoke()` rather than implementing `() -> T` as an interface?](https://www.reddit.com/r/Kotlin/comments/ppkfpu/is_there_any_reason_to_prefer_operator_fun_invoke/)
+- [cannot understand .reduce in kotlin](https://www.reddit.com/r/Kotlin/comments/ppidax/cannot_understand_reduce_in_kotlin/)
+- [[Yak Shaving] Data class or interface as input param?](https://www.reddit.com/r/Kotlin/comments/ppdmbs/yak_shaving_data_class_or_interface_as_input_param/)
+- [Job and children awaiting in Kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/pp8qkr/job_and_children_awaiting_in_kotlin_coroutines/)
+- [Flutter developer here. Want to know how much is size of a minimal app made via Kotlin.](https://www.reddit.com/r/Kotlin/comments/pp8ede/flutter_developer_here_want_to_know_how_much_is/)
 - [What's the best way to fill an indexed array of objects with properties? Like an array of maps? Example in JS](https://www.reddit.com/r/Kotlin/comments/pou3ry/whats_the_best_way_to_fill_an_indexed_array_of/)
 - [Performance for my Ktor web service (Profiling?)](https://www.reddit.com/r/Kotlin/comments/poti0r/performance_for_my_ktor_web_service_profiling/)
 - [Currency Exchange App in Kotlin with Dagger2 and RxJava2](https://www.reddit.com/r/Kotlin/comments/posccv/currency_exchange_app_in_kotlin_with_dagger2_and/)
-- [CharSequence?.orEmpty?](https://www.reddit.com/r/Kotlin/comments/poqv5d/charsequenceorempty/)
-- [Best way to "combine" exceptions that are caught while retrying an operation?](https://www.reddit.com/r/Kotlin/comments/poq1ny/best_way_to_combine_exceptions_that_are_caught/)
-- [Awesome job opportunity for Lead and/or Full-Stack Kotlin devs](https://www.reddit.com/r/Kotlin/comments/poilhp/awesome_job_opportunity_for_lead_andor_fullstack/)
-- [Help with kotlin](https://www.reddit.com/r/Kotlin/comments/pofsjs/help_with_kotlin/)
-- [Writing Unadulterated Services with Kotlin and Coroutines](https://www.reddit.com/r/Kotlin/comments/pocx3p/writing_unadulterated_services_with_kotlin_and/)
-- [The Actual Number of Kotlin Developers, or Who Our Active Users Are](https://www.reddit.com/r/Kotlin/comments/po5qac/the_actual_number_of_kotlin_developers_or_who_our/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
