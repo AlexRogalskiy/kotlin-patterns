@@ -270,6 +270,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Web frontend recommendations to transition from Android Development](https://www.reddit.com/r/Kotlin/comments/pqa6pt/web_frontend_recommendations_to_transition_from/)
+- [How to initialise Array<T> with Kotlin Native?](https://www.reddit.com/r/Kotlin/comments/ppz218/how_to_initialise_arrayt_with_kotlin_native/)
+- [Big announcements and future Kotlin plans!](https://www.reddit.com/r/Kotlin/comments/ppworz/big_announcements_and_future_kotlin_plans/)
 - [Why is array not a collection type?](https://www.reddit.com/r/Kotlin/comments/ppn4n0/why_is_array_not_a_collection_type/)
 - [Kotlin generators vs. Java iterators](https://www.reddit.com/r/Kotlin/comments/ppkis4/kotlin_generators_vs_java_iterators/)
 - [Is there any reason to prefer `operator fun invoke()` rather than implementing `() -> T` as an interface?](https://www.reddit.com/r/Kotlin/comments/ppkfpu/is_there_any_reason_to_prefer_operator_fun_invoke/)
@@ -277,9 +280,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [[Yak Shaving] Data class or interface as input param?](https://www.reddit.com/r/Kotlin/comments/ppdmbs/yak_shaving_data_class_or_interface_as_input_param/)
 - [Job and children awaiting in Kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/pp8qkr/job_and_children_awaiting_in_kotlin_coroutines/)
 - [Flutter developer here. Want to know how much is size of a minimal app made via Kotlin.](https://www.reddit.com/r/Kotlin/comments/pp8ede/flutter_developer_here_want_to_know_how_much_is/)
-- [What's the best way to fill an indexed array of objects with properties? Like an array of maps? Example in JS](https://www.reddit.com/r/Kotlin/comments/pou3ry/whats_the_best_way_to_fill_an_indexed_array_of/)
-- [Performance for my Ktor web service (Profiling?)](https://www.reddit.com/r/Kotlin/comments/poti0r/performance_for_my_ktor_web_service_profiling/)
-- [Currency Exchange App in Kotlin with Dagger2 and RxJava2](https://www.reddit.com/r/Kotlin/comments/posccv/currency_exchange_app_in_kotlin_with_dagger2_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
