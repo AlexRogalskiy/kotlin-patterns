@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Reflekt: a multiplatform library for performing reflection at compile time](https://www.reddit.com/r/Kotlin/comments/pqv2vn/reflekt_a_multiplatform_library_for_performing/)
+- [Help with code || Beginner](https://www.reddit.com/r/Kotlin/comments/pqowjr/help_with_code_beginner/)
+- [Kotlin/Native or Kotlin/JVM for a simple game framework](https://www.reddit.com/r/Kotlin/comments/pqnz4l/kotlinnative_or_kotlinjvm_for_a_simple_game/)
+- [Recursive problem in Kotlin. What does this function return?](https://www.reddit.com/r/Kotlin/comments/pqmcxu/recursive_problem_in_kotlin_what_does_this/)
+- [Major domains where Kotlin knowledge can be used](https://www.reddit.com/r/Kotlin/comments/pqkrqd/major_domains_where_kotlin_knowledge_can_be_used/)
+- [Comparing Kotlin and Golang implementations of the Monkey language](https://www.reddit.com/r/Kotlin/comments/pqjzwn/comparing_kotlin_and_golang_implementations_of/)
 - [Web frontend recommendations to transition from Android Development](https://www.reddit.com/r/Kotlin/comments/pqa6pt/web_frontend_recommendations_to_transition_from/)
 - [How to initialise Array<T> with Kotlin Native?](https://www.reddit.com/r/Kotlin/comments/ppz218/how_to_initialise_arrayt_with_kotlin_native/)
 - [Big announcements and future Kotlin plans!](https://www.reddit.com/r/Kotlin/comments/ppworz/big_announcements_and_future_kotlin_plans/)
 - [Why is array not a collection type?](https://www.reddit.com/r/Kotlin/comments/ppn4n0/why_is_array_not_a_collection_type/)
-- [Kotlin generators vs. Java iterators](https://www.reddit.com/r/Kotlin/comments/ppkis4/kotlin_generators_vs_java_iterators/)
-- [Is there any reason to prefer `operator fun invoke()` rather than implementing `() -> T` as an interface?](https://www.reddit.com/r/Kotlin/comments/ppkfpu/is_there_any_reason_to_prefer_operator_fun_invoke/)
-- [cannot understand .reduce in kotlin](https://www.reddit.com/r/Kotlin/comments/ppidax/cannot_understand_reduce_in_kotlin/)
-- [[Yak Shaving] Data class or interface as input param?](https://www.reddit.com/r/Kotlin/comments/ppdmbs/yak_shaving_data_class_or_interface_as_input_param/)
-- [Job and children awaiting in Kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/pp8qkr/job_and_children_awaiting_in_kotlin_coroutines/)
-- [Flutter developer here. Want to know how much is size of a minimal app made via Kotlin.](https://www.reddit.com/r/Kotlin/comments/pp8ede/flutter_developer_here_want_to_know_how_much_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
