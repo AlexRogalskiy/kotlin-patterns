@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pass high-order functions again to another method call](https://www.reddit.com/r/Kotlin/comments/prhdii/pass_highorder_functions_again_to_another_method/)
+- [Kotlin Coroutines Mentor](https://www.reddit.com/r/Kotlin/comments/pr92nt/kotlin_coroutines_mentor/)
+- [Minecraft forge modding with kotlin?](https://www.reddit.com/r/Kotlin/comments/pr61fp/minecraft_forge_modding_with_kotlin/)
+- [Does anyone know how kotlinx.serialization works internally? The class structure introspector to be more specific](https://www.reddit.com/r/Kotlin/comments/pr2b4b/does_anyone_know_how_kotlinxserialization_works/)
 - [Reflekt: a multiplatform library for performing reflection at compile time](https://www.reddit.com/r/Kotlin/comments/pqv2vn/reflekt_a_multiplatform_library_for_performing/)
 - [Help with code || Beginner](https://www.reddit.com/r/Kotlin/comments/pqowjr/help_with_code_beginner/)
 - [Kotlin/Native or Kotlin/JVM for a simple game framework](https://www.reddit.com/r/Kotlin/comments/pqnz4l/kotlinnative_or_kotlinjvm_for_a_simple_game/)
 - [Recursive problem in Kotlin. What does this function return?](https://www.reddit.com/r/Kotlin/comments/pqmcxu/recursive_problem_in_kotlin_what_does_this/)
 - [Major domains where Kotlin knowledge can be used](https://www.reddit.com/r/Kotlin/comments/pqkrqd/major_domains_where_kotlin_knowledge_can_be_used/)
 - [Comparing Kotlin and Golang implementations of the Monkey language](https://www.reddit.com/r/Kotlin/comments/pqjzwn/comparing_kotlin_and_golang_implementations_of/)
-- [Web frontend recommendations to transition from Android Development](https://www.reddit.com/r/Kotlin/comments/pqa6pt/web_frontend_recommendations_to_transition_from/)
-- [How to initialise Array<T> with Kotlin Native?](https://www.reddit.com/r/Kotlin/comments/ppz218/how_to_initialise_arrayt_with_kotlin_native/)
-- [Big announcements and future Kotlin plans!](https://www.reddit.com/r/Kotlin/comments/ppworz/big_announcements_and_future_kotlin_plans/)
-- [Why is array not a collection type?](https://www.reddit.com/r/Kotlin/comments/ppn4n0/why_is_array_not_a_collection_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
