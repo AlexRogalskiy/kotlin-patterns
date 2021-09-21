@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin 1.5.31 Released](https://www.reddit.com/r/Kotlin/comments/ps7h0f/kotlin_1531_released/)
+- [Arrow 1.0 is now available](https://www.reddit.com/r/Kotlin/comments/ps5nea/arrow_10_is_now_available/)
+- [Any Mock Interview platforms that allow Kotlin?](https://www.reddit.com/r/Kotlin/comments/prx134/any_mock_interview_platforms_that_allow_kotlin/)
+- [Use a gradle library in my own gradle kotlin project](https://www.reddit.com/r/Kotlin/comments/prv3k9/use_a_gradle_library_in_my_own_gradle_kotlin/)
+- [Item 51: Prefer Sequence for big collections with more than one processing step](https://www.reddit.com/r/Kotlin/comments/prq7hy/item_51_prefer_sequence_for_big_collections_with/)
+- [Amazon Web Services introduces software development kits for Swift and Kotlin](https://www.reddit.com/r/Kotlin/comments/progkn/amazon_web_services_introduces_software/)
 - [Pass high-order functions again to another method call](https://www.reddit.com/r/Kotlin/comments/prhdii/pass_highorder_functions_again_to_another_method/)
 - [Kotlin Coroutines Mentor](https://www.reddit.com/r/Kotlin/comments/pr92nt/kotlin_coroutines_mentor/)
 - [Minecraft forge modding with kotlin?](https://www.reddit.com/r/Kotlin/comments/pr61fp/minecraft_forge_modding_with_kotlin/)
 - [Does anyone know how kotlinx.serialization works internally? The class structure introspector to be more specific](https://www.reddit.com/r/Kotlin/comments/pr2b4b/does_anyone_know_how_kotlinxserialization_works/)
-- [Reflekt: a multiplatform library for performing reflection at compile time](https://www.reddit.com/r/Kotlin/comments/pqv2vn/reflekt_a_multiplatform_library_for_performing/)
-- [Help with code || Beginner](https://www.reddit.com/r/Kotlin/comments/pqowjr/help_with_code_beginner/)
-- [Kotlin/Native or Kotlin/JVM for a simple game framework](https://www.reddit.com/r/Kotlin/comments/pqnz4l/kotlinnative_or_kotlinjvm_for_a_simple_game/)
-- [Recursive problem in Kotlin. What does this function return?](https://www.reddit.com/r/Kotlin/comments/pqmcxu/recursive_problem_in_kotlin_what_does_this/)
-- [Major domains where Kotlin knowledge can be used](https://www.reddit.com/r/Kotlin/comments/pqkrqd/major_domains_where_kotlin_knowledge_can_be_used/)
-- [Comparing Kotlin and Golang implementations of the Monkey language](https://www.reddit.com/r/Kotlin/comments/pqjzwn/comparing_kotlin_and_golang_implementations_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
