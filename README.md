@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Kotlin becoming too complex?](https://www.reddit.com/r/Kotlin/comments/pst2q1/is_kotlin_becoming_too_complex/)
+- [Annotation like C++'s `nodiscard` or Rust's `#[must_use]`?](https://www.reddit.com/r/Kotlin/comments/psn4y7/annotation_like_cs_nodiscard_or_rusts_must_use/)
+- [Name Abbreviations to List](https://www.reddit.com/r/Kotlin/comments/psjm6p/name_abbreviations_to_list/)
+- [What's something that can be done with Java generics, but not with Kotlin generics?](https://www.reddit.com/r/Kotlin/comments/psh2bk/whats_something_that_can_be_done_with_java/)
+- [I produced a video about the Result<T> mechanism of Kotlin; it's the latest episode of my Idiomatic Kotlin series!](https://www.reddit.com/r/Kotlin/comments/psgge1/i_produced_a_video_about_the_resultt_mechanism_of/)
+- [Overhead added by Garbage Collection Logging](https://www.reddit.com/r/Kotlin/comments/psb3h5/overhead_added_by_garbage_collection_logging/)
 - [Kotlin 1.5.31 Released](https://www.reddit.com/r/Kotlin/comments/ps7h0f/kotlin_1531_released/)
 - [Arrow 1.0 is now available](https://www.reddit.com/r/Kotlin/comments/ps5nea/arrow_10_is_now_available/)
 - [Any Mock Interview platforms that allow Kotlin?](https://www.reddit.com/r/Kotlin/comments/prx134/any_mock_interview_platforms_that_allow_kotlin/)
 - [Use a gradle library in my own gradle kotlin project](https://www.reddit.com/r/Kotlin/comments/prv3k9/use_a_gradle_library_in_my_own_gradle_kotlin/)
-- [Item 51: Prefer Sequence for big collections with more than one processing step](https://www.reddit.com/r/Kotlin/comments/prq7hy/item_51_prefer_sequence_for_big_collections_with/)
-- [Amazon Web Services introduces software development kits for Swift and Kotlin](https://www.reddit.com/r/Kotlin/comments/progkn/amazon_web_services_introduces_software/)
-- [Pass high-order functions again to another method call](https://www.reddit.com/r/Kotlin/comments/prhdii/pass_highorder_functions_again_to_another_method/)
-- [Kotlin Coroutines Mentor](https://www.reddit.com/r/Kotlin/comments/pr92nt/kotlin_coroutines_mentor/)
-- [Minecraft forge modding with kotlin?](https://www.reddit.com/r/Kotlin/comments/pr61fp/minecraft_forge_modding_with_kotlin/)
-- [Does anyone know how kotlinx.serialization works internally? The class structure introspector to be more specific](https://www.reddit.com/r/Kotlin/comments/pr2b4b/does_anyone_know_how_kotlinxserialization_works/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
