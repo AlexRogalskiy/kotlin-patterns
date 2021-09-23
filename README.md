@@ -270,6 +270,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cancellation in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/pt2n6h/cancellation_in_kotlin_coroutines/)
+- [Kotlin Constructors & Initialisers](https://www.reddit.com/r/Kotlin/comments/pt1y12/kotlin_constructors_initialisers/)
 - [Is Kotlin becoming too complex?](https://www.reddit.com/r/Kotlin/comments/pst2q1/is_kotlin_becoming_too_complex/)
 - [Annotation like C++'s `nodiscard` or Rust's `#[must_use]`?](https://www.reddit.com/r/Kotlin/comments/psn4y7/annotation_like_cs_nodiscard_or_rusts_must_use/)
 - [Name Abbreviations to List](https://www.reddit.com/r/Kotlin/comments/psjm6p/name_abbreviations_to_list/)
@@ -278,8 +280,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Overhead added by Garbage Collection Logging](https://www.reddit.com/r/Kotlin/comments/psb3h5/overhead_added_by_garbage_collection_logging/)
 - [Kotlin 1.5.31 Released](https://www.reddit.com/r/Kotlin/comments/ps7h0f/kotlin_1531_released/)
 - [Arrow 1.0 is now available](https://www.reddit.com/r/Kotlin/comments/ps5nea/arrow_10_is_now_available/)
-- [Any Mock Interview platforms that allow Kotlin?](https://www.reddit.com/r/Kotlin/comments/prx134/any_mock_interview_platforms_that_allow_kotlin/)
-- [Use a gradle library in my own gradle kotlin project](https://www.reddit.com/r/Kotlin/comments/prv3k9/use_a_gradle_library_in_my_own_gradle_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
