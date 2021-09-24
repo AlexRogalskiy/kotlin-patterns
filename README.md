@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Comparing Kotlin and Go implementations of the Monkey language II: Raiders of the Lost Performance](https://www.reddit.com/r/Kotlin/comments/pu8o9x/comparing_kotlin_and_go_implementations_of_the/)
+- [Building Command Line Interfaces with Kotlin using picoCLI](https://www.reddit.com/r/Kotlin/comments/pu1y7e/building_command_line_interfaces_with_kotlin/)
+- [Why can't we use `continue`, `break`, etc inside a (inlineable) closure passed to an inline function?](https://www.reddit.com/r/Kotlin/comments/ptvy5k/why_cant_we_use_continue_break_etc_inside_a/)
+- [Best Kotlin speakers?](https://www.reddit.com/r/Kotlin/comments/ptozfb/best_kotlin_speakers/)
 - [Cancellation in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/pt2n6h/cancellation_in_kotlin_coroutines/)
 - [Kotlin Constructors & Initialisers](https://www.reddit.com/r/Kotlin/comments/pt1y12/kotlin_constructors_initialisers/)
 - [Is Kotlin becoming too complex?](https://www.reddit.com/r/Kotlin/comments/pst2q1/is_kotlin_becoming_too_complex/)
 - [Annotation like C++'s `nodiscard` or Rust's `#[must_use]`?](https://www.reddit.com/r/Kotlin/comments/psn4y7/annotation_like_cs_nodiscard_or_rusts_must_use/)
 - [Name Abbreviations to List](https://www.reddit.com/r/Kotlin/comments/psjm6p/name_abbreviations_to_list/)
 - [What's something that can be done with Java generics, but not with Kotlin generics?](https://www.reddit.com/r/Kotlin/comments/psh2bk/whats_something_that_can_be_done_with_java/)
-- [I produced a video about the Result<T> mechanism of Kotlin; it's the latest episode of my Idiomatic Kotlin series!](https://www.reddit.com/r/Kotlin/comments/psgge1/i_produced_a_video_about_the_resultt_mechanism_of/)
-- [Overhead added by Garbage Collection Logging](https://www.reddit.com/r/Kotlin/comments/psb3h5/overhead_added_by_garbage_collection_logging/)
-- [Kotlin 1.5.31 Released](https://www.reddit.com/r/Kotlin/comments/ps7h0f/kotlin_1531_released/)
-- [Arrow 1.0 is now available](https://www.reddit.com/r/Kotlin/comments/ps5nea/arrow_10_is_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
