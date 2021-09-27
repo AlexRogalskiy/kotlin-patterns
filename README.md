@@ -270,6 +270,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to convert Map<Item, List<Item2>> to Map<Item2, List<Item>> basically grouping by Item2](https://www.reddit.com/r/Kotlin/comments/pw2h6m/how_to_convert_mapitem_listitem2_to_mapitem2/)
+- [Multiple ways to configure Spring (Kotlin DSL is one of them!)](https://www.reddit.com/r/Kotlin/comments/pvxf0h/multiple_ways_to_configure_spring_kotlin_dsl_is/)
 - [Stupid Question: Public vs Private vs Unmarked variables/properties?](https://www.reddit.com/r/Kotlin/comments/pumolj/stupid_question_public_vs_private_vs_unmarked/)
 - [A preview of Kotlin 1.6.0 is out](https://www.reddit.com/r/Kotlin/comments/pum0tk/a_preview_of_kotlin_160_is_out/)
 - [Sort letter from given input string](https://www.reddit.com/r/Kotlin/comments/puhemw/sort_letter_from_given_input_string/)
@@ -278,8 +280,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Comparing Kotlin and Go implementations of the Monkey language II: Raiders of the Lost Performance](https://www.reddit.com/r/Kotlin/comments/pu8o9x/comparing_kotlin_and_go_implementations_of_the/)
 - [Building Command Line Interfaces with Kotlin using picoCLI](https://www.reddit.com/r/Kotlin/comments/pu1y7e/building_command_line_interfaces_with_kotlin/)
 - [Why can't we use `continue`, `break`, etc inside a (inlineable) closure passed to an inline function?](https://www.reddit.com/r/Kotlin/comments/ptvy5k/why_cant_we_use_continue_break_etc_inside_a/)
-- [Best Kotlin speakers?](https://www.reddit.com/r/Kotlin/comments/ptozfb/best_kotlin_speakers/)
-- [Cancellation in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/pt2n6h/cancellation_in_kotlin_coroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
