@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to convert Map<Item, List<Item2>> to Map<Item2, List<Item>> basically grouping by Item2](https://www.reddit.com/r/Kotlin/comments/pw2h6m/how_to_convert_mapitem_listitem2_to_mapitem2/)
-- [Multiple ways to configure Spring (Kotlin DSL is one of them!)](https://www.reddit.com/r/Kotlin/comments/pvxf0h/multiple_ways_to_configure_spring_kotlin_dsl_is/)
-- [Stupid Question: Public vs Private vs Unmarked variables/properties?](https://www.reddit.com/r/Kotlin/comments/pumolj/stupid_question_public_vs_private_vs_unmarked/)
-- [A preview of Kotlin 1.6.0 is out](https://www.reddit.com/r/Kotlin/comments/pum0tk/a_preview_of_kotlin_160_is_out/)
-- [Sort letter from given input string](https://www.reddit.com/r/Kotlin/comments/puhemw/sort_letter_from_given_input_string/)
-- [help](https://www.reddit.com/r/Kotlin/comments/puhci1/help/)
-- [Your questions to the Kotlin Product Manager for Kotlin Build Tools](https://www.reddit.com/r/Kotlin/comments/pughtv/your_questions_to_the_kotlin_product_manager_for/)
-- [Comparing Kotlin and Go implementations of the Monkey language II: Raiders of the Lost Performance](https://www.reddit.com/r/Kotlin/comments/pu8o9x/comparing_kotlin_and_go_implementations_of_the/)
-- [Building Command Line Interfaces with Kotlin using picoCLI](https://www.reddit.com/r/Kotlin/comments/pu1y7e/building_command_line_interfaces_with_kotlin/)
-- [Why can't we use `continue`, `break`, etc inside a (inlineable) closure passed to an inline function?](https://www.reddit.com/r/Kotlin/comments/ptvy5k/why_cant_we_use_continue_break_etc_inside_a/)
+- [Hiring Kotlin Programmer (basic)](https://www.reddit.com/r/Kotlin/comments/pwur18/hiring_kotlin_programmer_basic/)
+- [Kotlin Heroes is here!](https://www.reddit.com/r/Kotlin/comments/pwr0qq/kotlin_heroes_is_here/)
+- [Function returning different type than defined.](https://www.reddit.com/r/Kotlin/comments/pwpmw8/function_returning_different_type_than_defined/)
+- [Can we put navhost fragment on a fragment like what we do with an activity in Navigation component.](https://www.reddit.com/r/Kotlin/comments/pwo64d/can_we_put_navhost_fragment_on_a_fragment_like/)
+- [How to debug generated API in kotlin - responseBody supports only JSON body error](https://www.reddit.com/r/Kotlin/comments/pwh0fn/how_to_debug_generated_api_in_kotlin_responsebody/)
+- [kotlinx.serialization 1.3 Released: Experimental IO Stream-Based JSON Serialization, Fine-Grained Defaults Control](https://www.reddit.com/r/Kotlin/comments/pwglwc/kotlinxserialization_13_released_experimental_io/)
+- [Item 52: Consider associating elements to a map](https://www.reddit.com/r/Kotlin/comments/pwegzc/item_52_consider_associating_elements_to_a_map/)
+- [Kotlin Setters & Getters](https://www.reddit.com/r/Kotlin/comments/pwdmgj/kotlin_setters_getters/)
+- [I wrote an API in Kotlin + Flow to make Android Contacts straightforward to use (no ContentProviders)](https://www.reddit.com/r/Kotlin/comments/pwdhdo/i_wrote_an_api_in_kotlin_flow_to_make_android/)
+- [This weekend, I tried playing with KotlinJS and Ktor. Here's the result](https://www.reddit.com/r/Kotlin/comments/pwctq0/this_weekend_i_tried_playing_with_kotlinjs_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
