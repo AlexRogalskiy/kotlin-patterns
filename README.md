@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A help on Kotlin Gson](https://www.reddit.com/r/Kotlin/comments/pyt0r9/a_help_on_kotlin_gson/)
+- [Are there plans for buildList to become official?](https://www.reddit.com/r/Kotlin/comments/pypqvx/are_there_plans_for_buildlist_to_become_official/)
+- [How to get acces to the previous element in a container for a predicate function?](https://www.reddit.com/r/Kotlin/comments/pyojh1/how_to_get_acces_to_the_previous_element_in_a/)
+- [All About Opt-In Annotations - zsmb.co](https://www.reddit.com/r/Kotlin/comments/pylv6z/all_about_optin_annotations_zsmbco/)
+- [#KotlinTips has come to YouTube! Each episode is short and sweet. Check out the first one, in which Kate Petrova offers 3 tips that make working with Kotlin collections even more fun. Don't forget to subscribe for more!](https://www.reddit.com/r/Kotlin/comments/pyjv5i/kotlintips_has_come_to_youtube_each_episode_is/)
+- [Serialization - For Android development, will this make a difference? (Encoding and decoding streams instead of strings from Retrofit responses](https://www.reddit.com/r/Kotlin/comments/pya3qj/serialization_for_android_development_will_this/)
 - [running into error with safeargs plugin on android kotlin HELP](https://www.reddit.com/r/Kotlin/comments/py5keb/running_into_error_with_safeargs_plugin_on/)
 - [Best, most recent resources to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/pxy5vi/best_most_recent_resources_to_learn_kotlin/)
 - [Cleaning method which returns the document name after the id [Spring Data/MongoDB]](https://www.reddit.com/r/Kotlin/comments/pxwgrn/cleaning_method_which_returns_the_document_name/)
 - [When Gradle and smart-light became friends...](https://www.reddit.com/r/Kotlin/comments/pxruu4/when_gradle_and_smartlight_became_friends/)
-- [Exception handling in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/pxr3eo/exception_handling_in_kotlin_coroutines/)
-- [Trying to user jSerialComm in Kotlin](https://www.reddit.com/r/Kotlin/comments/px4h4n/trying_to_user_jserialcomm_in_kotlin/)
-- [I need to share, my first stack overflow in Kotlin and I'm happy :D](https://www.reddit.com/r/Kotlin/comments/px21uj/i_need_to_share_my_first_stack_overflow_in_kotlin/)
-- [Hiring Kotlin Programmer (basic)](https://www.reddit.com/r/Kotlin/comments/pwur18/hiring_kotlin_programmer_basic/)
-- [Kotlin Heroes is here!](https://www.reddit.com/r/Kotlin/comments/pwr0qq/kotlin_heroes_is_here/)
-- [Can we put navhost fragment on a fragment like what we do with an activity in Navigation component.](https://www.reddit.com/r/Kotlin/comments/pwo64d/can_we_put_navhost_fragment_on_a_fragment_like/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
