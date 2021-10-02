@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What's the most kotlin way to make a contract that a property of a class will get supplied by its creator?](https://www.reddit.com/r/Kotlin/comments/pzlbbi/whats_the_most_kotlin_way_to_make_a_contract_that/)
+- [Why are there two different sets of Kotlin beginner codelabs on the Google dev site?](https://www.reddit.com/r/Kotlin/comments/pzj8qd/why_are_there_two_different_sets_of_kotlin/)
+- [Download Podcast Data Fails](https://www.reddit.com/r/Kotlin/comments/pzfj38/download_podcast_data_fails/)
+- [Someone please help...](https://www.reddit.com/r/Kotlin/comments/pzextk/someone_please_help/)
+- [📲 Get Started with Android Authentication using Kotlin](https://www.reddit.com/r/Kotlin/comments/pz9n39/get_started_with_android_authentication_using/)
+- [📲 Get Started with Android Authentication using Kotlin](https://www.reddit.com/r/Kotlin/comments/pz8bgl/get_started_with_android_authentication_using/)
+- [JVM Testing Newsletter | October 2021](https://www.reddit.com/r/Kotlin/comments/pz70kd/jvm_testing_newsletter_october_2021/)
+- [When passing something like a List to a function, does Kotlin copy the entire list, in a complexity of o(length of list), or does it just pass a reference, in o(1)?](https://www.reddit.com/r/Kotlin/comments/pz3zmb/when_passing_something_like_a_list_to_a_function/)
+- [How to create windows floating over other apps on Android?](https://www.reddit.com/r/Kotlin/comments/pz32i1/how_to_create_windows_floating_over_other_apps_on/)
 - [A help on Kotlin Gson](https://www.reddit.com/r/Kotlin/comments/pyt0r9/a_help_on_kotlin_gson/)
-- [Are there plans for buildList to become official?](https://www.reddit.com/r/Kotlin/comments/pypqvx/are_there_plans_for_buildlist_to_become_official/)
-- [How to get acces to the previous element in a container for a predicate function?](https://www.reddit.com/r/Kotlin/comments/pyojh1/how_to_get_acces_to_the_previous_element_in_a/)
-- [All About Opt-In Annotations - zsmb.co](https://www.reddit.com/r/Kotlin/comments/pylv6z/all_about_optin_annotations_zsmbco/)
-- [#KotlinTips has come to YouTube! Each episode is short and sweet. Check out the first one, in which Kate Petrova offers 3 tips that make working with Kotlin collections even more fun. Don't forget to subscribe for more!](https://www.reddit.com/r/Kotlin/comments/pyjv5i/kotlintips_has_come_to_youtube_each_episode_is/)
-- [Serialization - For Android development, will this make a difference? (Encoding and decoding streams instead of strings from Retrofit responses](https://www.reddit.com/r/Kotlin/comments/pya3qj/serialization_for_android_development_will_this/)
-- [running into error with safeargs plugin on android kotlin HELP](https://www.reddit.com/r/Kotlin/comments/py5keb/running_into_error_with_safeargs_plugin_on/)
-- [Best, most recent resources to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/pxy5vi/best_most_recent_resources_to_learn_kotlin/)
-- [Cleaning method which returns the document name after the id [Spring Data/MongoDB]](https://www.reddit.com/r/Kotlin/comments/pxwgrn/cleaning_method_which_returns_the_document_name/)
-- [When Gradle and smart-light became friends...](https://www.reddit.com/r/Kotlin/comments/pxruu4/when_gradle_and_smartlight_became_friends/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
