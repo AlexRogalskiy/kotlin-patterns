@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ICPC World Finals: JetBrains Presentation and Livecoding Session Feat. Gennady ‘tourist’ Korotkevich](https://www.reddit.com/r/Kotlin/comments/q025e0/icpc_world_finals_jetbrains_presentation_and/)
+- [Is coroutines are better than multithreading?](https://www.reddit.com/r/Kotlin/comments/q00jfw/is_coroutines_are_better_than_multithreading/)
+- [Inheritance in Kotlin](https://www.reddit.com/r/Kotlin/comments/q00frj/inheritance_in_kotlin/)
+- [Does Kotlin need 3d graphics engine?](https://www.reddit.com/r/Kotlin/comments/pzxreo/does_kotlin_need_3d_graphics_engine/)
+- [Is there a Binary Search function that returns the element with the lowest/highest index in case of equality?](https://www.reddit.com/r/Kotlin/comments/pzrymp/is_there_a_binary_search_function_that_returns/)
+- [Fullscreen Intent on Lockscreen Not Working](https://www.reddit.com/r/Kotlin/comments/pzoywr/fullscreen_intent_on_lockscreen_not_working/)
 - [What's the most kotlin way to make a contract that a property of a class will get supplied by its creator?](https://www.reddit.com/r/Kotlin/comments/pzlbbi/whats_the_most_kotlin_way_to_make_a_contract_that/)
 - [Why are there two different sets of Kotlin beginner codelabs on the Google dev site?](https://www.reddit.com/r/Kotlin/comments/pzj8qd/why_are_there_two_different_sets_of_kotlin/)
 - [Download Podcast Data Fails](https://www.reddit.com/r/Kotlin/comments/pzfj38/download_podcast_data_fails/)
-- [Someone please help...](https://www.reddit.com/r/Kotlin/comments/pzextk/someone_please_help/)
 - [📲 Get Started with Android Authentication using Kotlin](https://www.reddit.com/r/Kotlin/comments/pz9n39/get_started_with_android_authentication_using/)
-- [📲 Get Started with Android Authentication using Kotlin](https://www.reddit.com/r/Kotlin/comments/pz8bgl/get_started_with_android_authentication_using/)
-- [JVM Testing Newsletter | October 2021](https://www.reddit.com/r/Kotlin/comments/pz70kd/jvm_testing_newsletter_october_2021/)
-- [When passing something like a List to a function, does Kotlin copy the entire list, in a complexity of o(length of list), or does it just pass a reference, in o(1)?](https://www.reddit.com/r/Kotlin/comments/pz3zmb/when_passing_something_like_a_list_to_a_function/)
-- [How to create windows floating over other apps on Android?](https://www.reddit.com/r/Kotlin/comments/pz32i1/how_to_create_windows_floating_over_other_apps_on/)
-- [A help on Kotlin Gson](https://www.reddit.com/r/Kotlin/comments/pyt0r9/a_help_on_kotlin_gson/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
