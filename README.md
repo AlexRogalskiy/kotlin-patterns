@@ -270,6 +270,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Testing the Kotlin Native memory model](https://www.reddit.com/r/Kotlin/comments/q0qf4f/testing_the_kotlin_native_memory_model/)
+- [An Android Application class ??](https://www.reddit.com/r/Kotlin/comments/q0nfrg/an_android_application_class/)
+- [Are there any libraries well suited to the manipulation of bits, bytes and byte arrays used in packet communication?](https://www.reddit.com/r/Kotlin/comments/q0d00h/are_there_any_libraries_well_suited_to_the/)
 - [ICPC World Finals: JetBrains Presentation and Livecoding Session Feat. Gennady ‘tourist’ Korotkevich](https://www.reddit.com/r/Kotlin/comments/q025e0/icpc_world_finals_jetbrains_presentation_and/)
 - [Is coroutines are better than multithreading?](https://www.reddit.com/r/Kotlin/comments/q00jfw/is_coroutines_are_better_than_multithreading/)
 - [Inheritance in Kotlin](https://www.reddit.com/r/Kotlin/comments/q00frj/inheritance_in_kotlin/)
@@ -277,9 +280,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Is there a Binary Search function that returns the element with the lowest/highest index in case of equality?](https://www.reddit.com/r/Kotlin/comments/pzrymp/is_there_a_binary_search_function_that_returns/)
 - [Fullscreen Intent on Lockscreen Not Working](https://www.reddit.com/r/Kotlin/comments/pzoywr/fullscreen_intent_on_lockscreen_not_working/)
 - [What's the most kotlin way to make a contract that a property of a class will get supplied by its creator?](https://www.reddit.com/r/Kotlin/comments/pzlbbi/whats_the_most_kotlin_way_to_make_a_contract_that/)
-- [Why are there two different sets of Kotlin beginner codelabs on the Google dev site?](https://www.reddit.com/r/Kotlin/comments/pzj8qd/why_are_there_two_different_sets_of_kotlin/)
-- [Download Podcast Data Fails](https://www.reddit.com/r/Kotlin/comments/pzfj38/download_podcast_data_fails/)
-- [📲 Get Started with Android Authentication using Kotlin](https://www.reddit.com/r/Kotlin/comments/pz9n39/get_started_with_android_authentication_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
