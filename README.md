@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Delete item from RecyclerView?](https://www.reddit.com/r/Kotlin/comments/q1efbv/delete_item_from_recyclerview/)
+- [Sorting List based on how similar to object](https://www.reddit.com/r/Kotlin/comments/q1di9z/sorting_list_based_on_how_similar_to_object/)
+- [Kotlin Youtube Channels?](https://www.reddit.com/r/Kotlin/comments/q18b8b/kotlin_youtube_channels/)
+- [Introducing Konsole: A Kotlin-idiomatic library for writing dynamic command line applications](https://www.reddit.com/r/Kotlin/comments/q17zjq/introducing_konsole_a_kotlinidiomatic_library_for/)
+- [💻 Dependency injections with Koin](https://www.reddit.com/r/Kotlin/comments/q16dor/dependency_injections_with_koin/)
+- [I wrote a Kotlin program to sync room light and video](https://www.reddit.com/r/Kotlin/comments/q1298y/i_wrote_a_kotlin_program_to_sync_room_light_and/)
+- [Kotlin exercises questions!](https://www.reddit.com/r/Kotlin/comments/q10tdd/kotlin_exercises_questions/)
+- [noob help with kotlin functions](https://www.reddit.com/r/Kotlin/comments/q106s2/noob_help_with_kotlin_functions/)
 - [Testing the Kotlin Native memory model](https://www.reddit.com/r/Kotlin/comments/q0qf4f/testing_the_kotlin_native_memory_model/)
-- [An Android Application class ??](https://www.reddit.com/r/Kotlin/comments/q0nfrg/an_android_application_class/)
 - [Are there any libraries well suited to the manipulation of bits, bytes and byte arrays used in packet communication?](https://www.reddit.com/r/Kotlin/comments/q0d00h/are_there_any_libraries_well_suited_to_the/)
-- [ICPC World Finals: JetBrains Presentation and Livecoding Session Feat. Gennady ‘tourist’ Korotkevich](https://www.reddit.com/r/Kotlin/comments/q025e0/icpc_world_finals_jetbrains_presentation_and/)
-- [Is coroutines are better than multithreading?](https://www.reddit.com/r/Kotlin/comments/q00jfw/is_coroutines_are_better_than_multithreading/)
-- [Inheritance in Kotlin](https://www.reddit.com/r/Kotlin/comments/q00frj/inheritance_in_kotlin/)
-- [Does Kotlin need 3d graphics engine?](https://www.reddit.com/r/Kotlin/comments/pzxreo/does_kotlin_need_3d_graphics_engine/)
-- [Is there a Binary Search function that returns the element with the lowest/highest index in case of equality?](https://www.reddit.com/r/Kotlin/comments/pzrymp/is_there_a_binary_search_function_that_returns/)
-- [Fullscreen Intent on Lockscreen Not Working](https://www.reddit.com/r/Kotlin/comments/pzoywr/fullscreen_intent_on_lockscreen_not_working/)
-- [What's the most kotlin way to make a contract that a property of a class will get supplied by its creator?](https://www.reddit.com/r/Kotlin/comments/pzlbbi/whats_the_most_kotlin_way_to_make_a_contract_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
