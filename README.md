@@ -270,16 +270,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Destructuring Declarations: How to make your code more idiomatic!](https://www.reddit.com/r/Kotlin/comments/q28m4x/destructuring_declarations_how_to_make_your_code/)
+- [New free email list for Kotlin! (weekly)](https://www.reddit.com/r/Kotlin/comments/q275yu/new_free_email_list_for_kotlin_weekly/)
+- [How to use an in-memory database for testing on Ktor](https://www.reddit.com/r/Kotlin/comments/q1td5q/how_to_use_an_inmemory_database_for_testing_on/)
+- [KotlinDL 0.3 Is Out With ONNX Integration, Object Detection API, 20+ New Models in ModelHub, and Many New Layers](https://www.reddit.com/r/Kotlin/comments/q1op3y/kotlindl_03_is_out_with_onnx_integration_object/)
+- [Assistance](https://www.reddit.com/r/Kotlin/comments/q1libv/assistance/)
 - [Delete item from RecyclerView?](https://www.reddit.com/r/Kotlin/comments/q1efbv/delete_item_from_recyclerview/)
 - [Sorting List based on how similar to object](https://www.reddit.com/r/Kotlin/comments/q1di9z/sorting_list_based_on_how_similar_to_object/)
 - [Kotlin Youtube Channels?](https://www.reddit.com/r/Kotlin/comments/q18b8b/kotlin_youtube_channels/)
 - [Introducing Konsole: A Kotlin-idiomatic library for writing dynamic command line applications](https://www.reddit.com/r/Kotlin/comments/q17zjq/introducing_konsole_a_kotlinidiomatic_library_for/)
 - [💻 Dependency injections with Koin](https://www.reddit.com/r/Kotlin/comments/q16dor/dependency_injections_with_koin/)
-- [I wrote a Kotlin program to sync room light and video](https://www.reddit.com/r/Kotlin/comments/q1298y/i_wrote_a_kotlin_program_to_sync_room_light_and/)
-- [Kotlin exercises questions!](https://www.reddit.com/r/Kotlin/comments/q10tdd/kotlin_exercises_questions/)
-- [noob help with kotlin functions](https://www.reddit.com/r/Kotlin/comments/q106s2/noob_help_with_kotlin_functions/)
-- [Testing the Kotlin Native memory model](https://www.reddit.com/r/Kotlin/comments/q0qf4f/testing_the_kotlin_native_memory_model/)
-- [Are there any libraries well suited to the manipulation of bits, bytes and byte arrays used in packet communication?](https://www.reddit.com/r/Kotlin/comments/q0d00h/are_there_any_libraries_well_suited_to_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
