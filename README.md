@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Yet another DI for kotlin multiplatform](https://www.reddit.com/r/Kotlin/comments/q3cssp/yet_another_di_for_kotlin_multiplatform/)
+- [Hopping Islands: From Java to Kotlin — Part 2](https://www.reddit.com/r/Kotlin/comments/q38v49/hopping_islands_from_java_to_kotlin_part_2/)
+- [The Road to the New Kotlin Compiler](https://www.reddit.com/r/Kotlin/comments/q38s6l/the_road_to_the_new_kotlin_compiler/)
+- [Is there a way to avoid storing delegation objects on the object itself?](https://www.reddit.com/r/Kotlin/comments/q36vr3/is_there_a_way_to_avoid_storing_delegation/)
+- [The road to the K2 compiler](https://www.reddit.com/r/Kotlin/comments/q36u7u/the_road_to_the_k2_compiler/)
+- [Looking for practical guide on converting Java to Kotlin manually](https://www.reddit.com/r/Kotlin/comments/q36pjf/looking_for_practical_guide_on_converting_java_to/)
+- [Kotlin Koders Europe 2021 - A conference for all Kotlin developers - December 1st & 2nd - Paris, France](https://www.reddit.com/r/Kotlin/comments/q35alb/kotlin_koders_europe_2021_a_conference_for_all/)
 - [What should a function called TextUtils.isDigitsOnly(String) return for an empty string?](https://www.reddit.com/r/Kotlin/comments/q2llvo/what_should_a_function_called/)
 - [Platform class java.sql.Timestamp error?](https://www.reddit.com/r/Kotlin/comments/q2lf7n/platform_class_javasqltimestamp_error/)
 - [Should I learn Kotlin? (As a game/graphics/web dev..)](https://www.reddit.com/r/Kotlin/comments/q2jw2u/should_i_learn_kotlin_as_a_gamegraphicsweb_dev/)
-- [Writing Software to Write About Writing Software](https://www.reddit.com/r/Kotlin/comments/q2huh3/writing_software_to_write_about_writing_software/)
-- [Kotlin Visibility Modifiers](https://www.reddit.com/r/Kotlin/comments/q2ffgb/kotlin_visibility_modifiers/)
-- [Scoping functions in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/q2exph/scoping_functions_in_kotlin_coroutines/)
-- [Javalin routing library loosely based on Ktor locations feature](https://www.reddit.com/r/Kotlin/comments/q2c7du/javalin_routing_library_loosely_based_on_ktor/)
-- [Job opening for experienced Kotlin server dev at well-funded FinTech startup](https://www.reddit.com/r/Kotlin/comments/q2b9r7/job_opening_for_experienced_kotlin_server_dev_at/)
-- [Destructuring Declarations: How to make your code more idiomatic!](https://www.reddit.com/r/Kotlin/comments/q28m4x/destructuring_declarations_how_to_make_your_code/)
-- [New free email list for Kotlin! (weekly)](https://www.reddit.com/r/Kotlin/comments/q275yu/new_free_email_list_for_kotlin_weekly/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
