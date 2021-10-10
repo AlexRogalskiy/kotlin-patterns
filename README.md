@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why this error?](https://www.reddit.com/r/Kotlin/comments/q4t02z/why_this_error/)
+- [Question about class constructors when you don't initialize the parameters](https://www.reddit.com/r/Kotlin/comments/q4j9aq/question_about_class_constructors_when_you_dont/)
 - [Looking for Kotlin graphics programming projects that individuals or communities are actively working on.](https://www.reddit.com/r/Kotlin/comments/q42je1/looking_for_kotlin_graphics_programming_projects/)
 - [Results of the Kotlin Multiplatform Survey Q1-Q2 2021](https://www.reddit.com/r/Kotlin/comments/q42442/results_of_the_kotlin_multiplatform_survey_q1q2/)
 - [ReactButton 2.0.3 Release with customized tooltip feature](https://www.reddit.com/r/Kotlin/comments/q3wbuu/reactbutton_203_release_with_customized_tooltip/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Write Tests for all your Missed Branches](https://www.reddit.com/r/Kotlin/comments/q3swvu/write_tests_for_all_your_missed_branches/)
 - [Yet another DI for kotlin multiplatform](https://www.reddit.com/r/Kotlin/comments/q3cssp/yet_another_di_for_kotlin_multiplatform/)
 - [Hopping Islands: From Java to Kotlin — Part 2](https://www.reddit.com/r/Kotlin/comments/q38v49/hopping_islands_from_java_to_kotlin_part_2/)
-- [The Road to the New Kotlin Compiler](https://www.reddit.com/r/Kotlin/comments/q38s6l/the_road_to_the_new_kotlin_compiler/)
-- [Is there a way to avoid storing delegation objects on the object itself?](https://www.reddit.com/r/Kotlin/comments/q36vr3/is_there_a_way_to_avoid_storing_delegation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
