@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to parse this JSON fragment to Kotlin data class?](https://www.reddit.com/r/Kotlin/comments/q5d5iv/how_to_parse_this_json_fragment_to_kotlin_data/)
+- [Problem with regular expression](https://www.reddit.com/r/Kotlin/comments/q59agl/problem_with_regular_expression/)
 - [Why this error?](https://www.reddit.com/r/Kotlin/comments/q4t02z/why_this_error/)
 - [Question about class constructors when you don't initialize the parameters](https://www.reddit.com/r/Kotlin/comments/q4j9aq/question_about_class_constructors_when_you_dont/)
 - [Looking for Kotlin graphics programming projects that individuals or communities are actively working on.](https://www.reddit.com/r/Kotlin/comments/q42je1/looking_for_kotlin_graphics_programming_projects/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Couchbase Lite 3.0 now in beta with enhanced Kotlin support, N1QL query strings](https://www.reddit.com/r/Kotlin/comments/q3uk7w/couchbase_lite_30_now_in_beta_with_enhanced/)
 - [Resourses](https://www.reddit.com/r/Kotlin/comments/q3t8sj/resourses/)
 - [Write Tests for all your Missed Branches](https://www.reddit.com/r/Kotlin/comments/q3swvu/write_tests_for_all_your_missed_branches/)
-- [Yet another DI for kotlin multiplatform](https://www.reddit.com/r/Kotlin/comments/q3cssp/yet_another_di_for_kotlin_multiplatform/)
-- [Hopping Islands: From Java to Kotlin — Part 2](https://www.reddit.com/r/Kotlin/comments/q38v49/hopping_islands_from_java_to_kotlin_part_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
