@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I emit the first value from a Flow immediately, then debounce the next ones? This is my current workaround.](https://www.reddit.com/r/Kotlin/comments/q69bjl/how_do_i_emit_the_first_value_from_a_flow/)
+- [Kotlin News September 2021 👀](https://www.reddit.com/r/Kotlin/comments/q5xn9d/kotlin_news_september_2021/)
+- [Kotlin/Native for Embedded devices programming](https://www.reddit.com/r/Kotlin/comments/q5qyy1/kotlinnative_for_embedded_devices_programming/)
 - [How to parse this JSON fragment to Kotlin data class?](https://www.reddit.com/r/Kotlin/comments/q5d5iv/how_to_parse_this_json_fragment_to_kotlin_data/)
 - [Problem with regular expression](https://www.reddit.com/r/Kotlin/comments/q59agl/problem_with_regular_expression/)
 - [Why this error?](https://www.reddit.com/r/Kotlin/comments/q4t02z/why_this_error/)
 - [Question about class constructors when you don't initialize the parameters](https://www.reddit.com/r/Kotlin/comments/q4j9aq/question_about_class_constructors_when_you_dont/)
 - [Looking for Kotlin graphics programming projects that individuals or communities are actively working on.](https://www.reddit.com/r/Kotlin/comments/q42je1/looking_for_kotlin_graphics_programming_projects/)
 - [Results of the Kotlin Multiplatform Survey Q1-Q2 2021](https://www.reddit.com/r/Kotlin/comments/q42442/results_of_the_kotlin_multiplatform_survey_q1q2/)
-- [ReactButton 2.0.3 Release with customized tooltip feature](https://www.reddit.com/r/Kotlin/comments/q3wbuu/reactbutton_203_release_with_customized_tooltip/)
 - [Couchbase Lite 3.0 now in beta with enhanced Kotlin support, N1QL query strings](https://www.reddit.com/r/Kotlin/comments/q3uk7w/couchbase_lite_30_now_in_beta_with_enhanced/)
-- [Resourses](https://www.reddit.com/r/Kotlin/comments/q3t8sj/resourses/)
-- [Write Tests for all your Missed Branches](https://www.reddit.com/r/Kotlin/comments/q3swvu/write_tests_for_all_your_missed_branches/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
