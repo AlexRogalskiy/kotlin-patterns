@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/Native , No Run configuration found in Intelli IDEA?](https://www.reddit.com/r/Kotlin/comments/q7ggt0/kotlinnative_no_run_configuration_found_in/)
+- [Constructing coroutine scope](https://www.reddit.com/r/Kotlin/comments/q762z7/constructing_coroutine_scope/)
 - [noob question about functional programming and android](https://www.reddit.com/r/Kotlin/comments/q7002o/noob_question_about_functional_programming_and/)
 - [New to programming and KOTLIN](https://www.reddit.com/r/Kotlin/comments/q6zwgp/new_to_programming_and_kotlin/)
 - [Define global const kotlin android-studio](https://www.reddit.com/r/Kotlin/comments/q6uag8/define_global_const_kotlin_androidstudio/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Last preview of Kotlin 1.6.0 is out](https://www.reddit.com/r/Kotlin/comments/q6plx8/last_preview_of_kotlin_160_is_out/)
 - [Kotlin Symbol Processors](https://www.reddit.com/r/Kotlin/comments/q6phu8/kotlin_symbol_processors/)
 - [type check with generics](https://www.reddit.com/r/Kotlin/comments/q6kfy0/type_check_with_generics/)
-- [Auto importing references in kotlin](https://www.reddit.com/r/Kotlin/comments/q6k68x/auto_importing_references_in_kotlin/)
-- [Kotlin subtle philosophy?](https://www.reddit.com/r/Kotlin/comments/q6hxfz/kotlin_subtle_philosophy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
