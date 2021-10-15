@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Working with kotlin in VS Code](https://www.reddit.com/r/Kotlin/comments/q89ge2/working_with_kotlin_in_vs_code/)
+- [Performance impact of java.lang.System.getProperty()](https://www.reddit.com/r/Kotlin/comments/q82frc/performance_impact_of_javalangsystemgetproperty/)
+- [How can i use openGl via KMP/Compose ?](https://www.reddit.com/r/Kotlin/comments/q7v3dg/how_can_i_use_opengl_via_kmpcompose/)
+- [Windows COM Object](https://www.reddit.com/r/Kotlin/comments/q7usp6/windows_com_object/)
+- [Devfest talks about ML with Android 11;](https://www.reddit.com/r/Kotlin/comments/q7szh2/devfest_talks_about_ml_with_android_11/)
+- [Question About Jetpack Navigation Component](https://www.reddit.com/r/Kotlin/comments/q7rrnn/question_about_jetpack_navigation_component/)
 - [Kotlin/Native , No Run configuration found in Intelli IDEA?](https://www.reddit.com/r/Kotlin/comments/q7ggt0/kotlinnative_no_run_configuration_found_in/)
 - [Constructing coroutine scope](https://www.reddit.com/r/Kotlin/comments/q762z7/constructing_coroutine_scope/)
 - [noob question about functional programming and android](https://www.reddit.com/r/Kotlin/comments/q7002o/noob_question_about_functional_programming_and/)
 - [New to programming and KOTLIN](https://www.reddit.com/r/Kotlin/comments/q6zwgp/new_to_programming_and_kotlin/)
-- [Define global const kotlin android-studio](https://www.reddit.com/r/Kotlin/comments/q6uag8/define_global_const_kotlin_androidstudio/)
-- [Is there any Kotlin bindings available for low memory consuming UI Frameworks?](https://www.reddit.com/r/Kotlin/comments/q6rpsh/is_there_any_kotlin_bindings_available_for_low/)
-- [Can you remove variable for the lambda?](https://www.reddit.com/r/Kotlin/comments/q6q1dp/can_you_remove_variable_for_the_lambda/)
-- [Last preview of Kotlin 1.6.0 is out](https://www.reddit.com/r/Kotlin/comments/q6plx8/last_preview_of_kotlin_160_is_out/)
-- [Kotlin Symbol Processors](https://www.reddit.com/r/Kotlin/comments/q6phu8/kotlin_symbol_processors/)
-- [type check with generics](https://www.reddit.com/r/Kotlin/comments/q6kfy0/type_check_with_generics/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
