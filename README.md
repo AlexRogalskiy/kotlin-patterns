@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interested in learning kotlin and to code](https://www.reddit.com/r/Kotlin/comments/q8yteu/interested_in_learning_kotlin_and_to_code/)
+- [list.toIntArray() I can't get it to work](https://www.reddit.com/r/Kotlin/comments/q8wkcw/listtointarray_i_cant_get_it_to_work/)
+- [Is there any KEEP for adding support to something like F# computation expressions to Kotlin?](https://www.reddit.com/r/Kotlin/comments/q8rc7z/is_there_any_keep_for_adding_support_to_something/)
+- [Converting a Compose JVM Desktop app to Native Desktop app using Glucon / Qurkus / GraalVM ?](https://www.reddit.com/r/Kotlin/comments/q8f3w1/converting_a_compose_jvm_desktop_app_to_native/)
 - [Working with kotlin in VS Code](https://www.reddit.com/r/Kotlin/comments/q89ge2/working_with_kotlin_in_vs_code/)
-- [Performance impact of java.lang.System.getProperty()](https://www.reddit.com/r/Kotlin/comments/q82frc/performance_impact_of_javalangsystemgetproperty/)
 - [How can i use openGl via KMP/Compose ?](https://www.reddit.com/r/Kotlin/comments/q7v3dg/how_can_i_use_opengl_via_kmpcompose/)
 - [Windows COM Object](https://www.reddit.com/r/Kotlin/comments/q7usp6/windows_com_object/)
-- [Devfest talks about ML with Android 11;](https://www.reddit.com/r/Kotlin/comments/q7szh2/devfest_talks_about_ml_with_android_11/)
 - [Question About Jetpack Navigation Component](https://www.reddit.com/r/Kotlin/comments/q7rrnn/question_about_jetpack_navigation_component/)
 - [Kotlin/Native , No Run configuration found in Intelli IDEA?](https://www.reddit.com/r/Kotlin/comments/q7ggt0/kotlinnative_no_run_configuration_found_in/)
 - [Constructing coroutine scope](https://www.reddit.com/r/Kotlin/comments/q762z7/constructing_coroutine_scope/)
-- [noob question about functional programming and android](https://www.reddit.com/r/Kotlin/comments/q7002o/noob_question_about_functional_programming_and/)
-- [New to programming and KOTLIN](https://www.reddit.com/r/Kotlin/comments/q6zwgp/new_to_programming_and_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
