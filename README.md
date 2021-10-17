@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can't get drop-down menu to display on in Android Studio](https://www.reddit.com/r/Kotlin/comments/q9iv9c/cant_get_dropdown_menu_to_display_on_in_android/)
+- [When to use context receiver?](https://www.reddit.com/r/Kotlin/comments/q9f8yp/when_to_use_context_receiver/)
+- [How to use sealed interfaces in Android?](https://www.reddit.com/r/Kotlin/comments/q9bhl0/how_to_use_sealed_interfaces_in_android/)
 - [Interested in learning kotlin and to code](https://www.reddit.com/r/Kotlin/comments/q8yteu/interested_in_learning_kotlin_and_to_code/)
 - [list.toIntArray() I can't get it to work](https://www.reddit.com/r/Kotlin/comments/q8wkcw/listtointarray_i_cant_get_it_to_work/)
 - [Is there any KEEP for adding support to something like F# computation expressions to Kotlin?](https://www.reddit.com/r/Kotlin/comments/q8rc7z/is_there_any_keep_for_adding_support_to_something/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Working with kotlin in VS Code](https://www.reddit.com/r/Kotlin/comments/q89ge2/working_with_kotlin_in_vs_code/)
 - [How can i use openGl via KMP/Compose ?](https://www.reddit.com/r/Kotlin/comments/q7v3dg/how_can_i_use_opengl_via_kmpcompose/)
 - [Windows COM Object](https://www.reddit.com/r/Kotlin/comments/q7usp6/windows_com_object/)
-- [Question About Jetpack Navigation Component](https://www.reddit.com/r/Kotlin/comments/q7rrnn/question_about_jetpack_navigation_component/)
-- [Kotlin/Native , No Run configuration found in Intelli IDEA?](https://www.reddit.com/r/Kotlin/comments/q7ggt0/kotlinnative_no_run_configuration_found_in/)
-- [Constructing coroutine scope](https://www.reddit.com/r/Kotlin/comments/q762z7/constructing_coroutine_scope/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
