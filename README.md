@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Doesn’t have fields. WHAT](https://www.reddit.com/r/Kotlin/comments/qaa7uk/kotlin_doesnt_have_fields_what/)
+- [Kotlin multiplatform expressions evaluator](https://www.reddit.com/r/Kotlin/comments/qa4exd/kotlin_multiplatform_expressions_evaluator/)
+- [Kotlin - super language?](https://www.reddit.com/r/Kotlin/comments/qa3h8v/kotlin_super_language/)
+- [Kotlin and FaaS, an impossible union?](https://www.reddit.com/r/Kotlin/comments/qa1k5y/kotlin_and_faas_an_impossible_union/)
+- [Check out my spring boot starter and templates](https://www.reddit.com/r/Kotlin/comments/q9w1x0/check_out_my_spring_boot_starter_and_templates/)
+- [Compose for Wear OS: Scaffold](https://www.reddit.com/r/Kotlin/comments/q9sto4/compose_for_wear_os_scaffold/)
 - [Can't get drop-down menu to display on in Android Studio](https://www.reddit.com/r/Kotlin/comments/q9iv9c/cant_get_dropdown_menu_to_display_on_in_android/)
 - [When to use context receiver?](https://www.reddit.com/r/Kotlin/comments/q9f8yp/when_to_use_context_receiver/)
 - [How to use sealed interfaces in Android?](https://www.reddit.com/r/Kotlin/comments/q9bhl0/how_to_use_sealed_interfaces_in_android/)
 - [Interested in learning kotlin and to code](https://www.reddit.com/r/Kotlin/comments/q8yteu/interested_in_learning_kotlin_and_to_code/)
-- [list.toIntArray() I can't get it to work](https://www.reddit.com/r/Kotlin/comments/q8wkcw/listtointarray_i_cant_get_it_to_work/)
-- [Is there any KEEP for adding support to something like F# computation expressions to Kotlin?](https://www.reddit.com/r/Kotlin/comments/q8rc7z/is_there_any_keep_for_adding_support_to_something/)
-- [Converting a Compose JVM Desktop app to Native Desktop app using Glucon / Qurkus / GraalVM ?](https://www.reddit.com/r/Kotlin/comments/q8f3w1/converting_a_compose_jvm_desktop_app_to_native/)
-- [Working with kotlin in VS Code](https://www.reddit.com/r/Kotlin/comments/q89ge2/working_with_kotlin_in_vs_code/)
-- [How can i use openGl via KMP/Compose ?](https://www.reddit.com/r/Kotlin/comments/q7v3dg/how_can_i_use_opengl_via_kmpcompose/)
-- [Windows COM Object](https://www.reddit.com/r/Kotlin/comments/q7usp6/windows_com_object/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
