@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a way to parse Swift's NSExpressions for usage in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qb0hz7/is_there_a_way_to_parse_swifts_nsexpressions_for/)
+- [Java to Kotlin Refactoring](https://www.reddit.com/r/Kotlin/comments/qavdfv/java_to_kotlin_refactoring/)
+- [Where to start and what to learn to write my android application?](https://www.reddit.com/r/Kotlin/comments/qasx38/where_to_start_and_what_to_learn_to_write_my/)
+- [Is implementing something like this possible?](https://www.reddit.com/r/Kotlin/comments/qank8o/is_implementing_something_like_this_possible/)
+- [Kotlin Abstract Classes](https://www.reddit.com/r/Kotlin/comments/qaks1p/kotlin_abstract_classes/)
+- [An Open Source Task Prioritise app made with Jetpack Compose!](https://www.reddit.com/r/Kotlin/comments/qake3y/an_open_source_task_prioritise_app_made_with/)
 - [Kotlin Doesn’t have fields. WHAT](https://www.reddit.com/r/Kotlin/comments/qaa7uk/kotlin_doesnt_have_fields_what/)
 - [Kotlin multiplatform expressions evaluator](https://www.reddit.com/r/Kotlin/comments/qa4exd/kotlin_multiplatform_expressions_evaluator/)
 - [Kotlin - super language?](https://www.reddit.com/r/Kotlin/comments/qa3h8v/kotlin_super_language/)
 - [Kotlin and FaaS, an impossible union?](https://www.reddit.com/r/Kotlin/comments/qa1k5y/kotlin_and_faas_an_impossible_union/)
-- [Check out my spring boot starter and templates](https://www.reddit.com/r/Kotlin/comments/q9w1x0/check_out_my_spring_boot_starter_and_templates/)
-- [Compose for Wear OS: Scaffold](https://www.reddit.com/r/Kotlin/comments/q9sto4/compose_for_wear_os_scaffold/)
-- [Can't get drop-down menu to display on in Android Studio](https://www.reddit.com/r/Kotlin/comments/q9iv9c/cant_get_dropdown_menu_to_display_on_in_android/)
-- [When to use context receiver?](https://www.reddit.com/r/Kotlin/comments/q9f8yp/when_to_use_context_receiver/)
-- [How to use sealed interfaces in Android?](https://www.reddit.com/r/Kotlin/comments/q9bhl0/how_to_use_sealed_interfaces_in_android/)
-- [Interested in learning kotlin and to code](https://www.reddit.com/r/Kotlin/comments/q8yteu/interested_in_learning_kotlin_and_to_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
