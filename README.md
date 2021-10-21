@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to share code between projects kotlin server side (jvm)?](https://www.reddit.com/r/Kotlin/comments/qcg2v6/how_to_share_code_between_projects_kotlin_server/)
+- [Anyone know about kotlinx.coroutines.channels.ClosedReceiveChannelException: Channel was closed???](https://www.reddit.com/r/Kotlin/comments/qcdv32/anyone_know_about/)
+- [From Paris to Berlin — Creating Circuit-Breakers in Kotlin](https://www.reddit.com/r/Kotlin/comments/qc1htt/from_paris_to_berlin_creating_circuitbreakers_in/)
+- [Take Part in the Kotlin Event](https://www.reddit.com/r/Kotlin/comments/qbykl8/take_part_in_the_kotlin_event/)
+- [Coroutines answer to the problem with the mutable state](https://www.reddit.com/r/Kotlin/comments/qbwpz1/coroutines_answer_to_the_problem_with_the_mutable/)
+- [Need advice on which Kotlin book to choose](https://www.reddit.com/r/Kotlin/comments/qbtgpc/need_advice_on_which_kotlin_book_to_choose/)
 - [Java to Kotlin Gilded Rose Part 2](https://www.reddit.com/r/Kotlin/comments/qblady/java_to_kotlin_gilded_rose_part_2/)
 - [Kotlin 2021 Premier Online Event Keynote](https://www.reddit.com/r/Kotlin/comments/qbgx8m/kotlin_2021_premier_online_event_keynote/)
 - [Interviewing in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qbfj34/interviewing_in_kotlin/)
 - [Is there a way to parse Swift's NSExpressions for usage in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qb0hz7/is_there_a_way_to_parse_swifts_nsexpressions_for/)
-- [Java to Kotlin Refactoring](https://www.reddit.com/r/Kotlin/comments/qavdfv/java_to_kotlin_refactoring/)
-- [Where to start and what to learn to write my android application?](https://www.reddit.com/r/Kotlin/comments/qasx38/where_to_start_and_what_to_learn_to_write_my/)
-- [Is implementing something like this possible?](https://www.reddit.com/r/Kotlin/comments/qank8o/is_implementing_something_like_this_possible/)
-- [Kotlin Abstract Classes](https://www.reddit.com/r/Kotlin/comments/qaks1p/kotlin_abstract_classes/)
-- [An Open Source Task Prioritise app made with Jetpack Compose!](https://www.reddit.com/r/Kotlin/comments/qake3y/an_open_source_task_prioritise_app_made_with/)
-- [Kotlin Doesn’t have fields. WHAT](https://www.reddit.com/r/Kotlin/comments/qaa7uk/kotlin_doesnt_have_fields_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
