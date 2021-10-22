@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to share code between projects kotlin server side (jvm)?](https://www.reddit.com/r/Kotlin/comments/qcg2v6/how_to_share_code_between_projects_kotlin_server/)
-- [Anyone know about kotlinx.coroutines.channels.ClosedReceiveChannelException: Channel was closed???](https://www.reddit.com/r/Kotlin/comments/qcdv32/anyone_know_about/)
-- [From Paris to Berlin — Creating Circuit-Breakers in Kotlin](https://www.reddit.com/r/Kotlin/comments/qc1htt/from_paris_to_berlin_creating_circuitbreakers_in/)
-- [Take Part in the Kotlin Event](https://www.reddit.com/r/Kotlin/comments/qbykl8/take_part_in_the_kotlin_event/)
-- [Coroutines answer to the problem with the mutable state](https://www.reddit.com/r/Kotlin/comments/qbwpz1/coroutines_answer_to_the_problem_with_the_mutable/)
-- [Need advice on which Kotlin book to choose](https://www.reddit.com/r/Kotlin/comments/qbtgpc/need_advice_on_which_kotlin_book_to_choose/)
-- [Java to Kotlin Gilded Rose Part 2](https://www.reddit.com/r/Kotlin/comments/qblady/java_to_kotlin_gilded_rose_part_2/)
-- [Kotlin 2021 Premier Online Event Keynote](https://www.reddit.com/r/Kotlin/comments/qbgx8m/kotlin_2021_premier_online_event_keynote/)
-- [Interviewing in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qbfj34/interviewing_in_kotlin/)
-- [Is there a way to parse Swift's NSExpressions for usage in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qb0hz7/is_there_a_way_to_parse_swifts_nsexpressions_for/)
+- [Can't add CocoaPods Dependency](https://www.reddit.com/r/Kotlin/comments/qd5jt8/cant_add_cocoapods_dependency/)
+- [From zero to...](https://www.reddit.com/r/Kotlin/comments/qcz4k3/from_zero_to/)
+- [Matrix In Kotlin](https://www.reddit.com/r/Kotlin/comments/qcxjxd/matrix_in_kotlin/)
+- [I wrote a fun word game in Kotlin, feedback welcome!](https://www.reddit.com/r/Kotlin/comments/qcxizw/i_wrote_a_fun_word_game_in_kotlin_feedback_welcome/)
+- [Why did you choose Kotlin for a personal project?](https://www.reddit.com/r/Kotlin/comments/qcttki/why_did_you_choose_kotlin_for_a_personal_project/)
+- [[USE CASE] Defining shared domain models in Kotlin for cross platform use](https://www.reddit.com/r/Kotlin/comments/qctjel/use_case_defining_shared_domain_models_in_kotlin/)
+- [The Kotlin team has gone all in on Kotlin for WebAssembly. Join Sebastian and Svyatoslav for a look at the latest Kotlin target and compiler backend, including a demo!](https://www.reddit.com/r/Kotlin/comments/qct6r1/the_kotlin_team_has_gone_all_in_on_kotlin_for/)
+- [Reactive and Functional](https://www.reddit.com/r/Kotlin/comments/qct25a/reactive_and_functional/)
+- [[HELP] Using Spring Boot and CrudRepository, how to send Null/None in specific field?](https://www.reddit.com/r/Kotlin/comments/qcrpu9/help_using_spring_boot_and_crudrepository_how_to/)
+- [Is this a good way to make a segment tree in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qcqf6l/is_this_a_good_way_to_make_a_segment_tree_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
