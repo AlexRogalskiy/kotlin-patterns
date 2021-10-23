@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Problem with android studio xml file](https://www.reddit.com/r/Kotlin/comments/qdscyi/problem_with_android_studio_xml_file/)
+- [Preferred way to query and write to SQL db for Ktor](https://www.reddit.com/r/Kotlin/comments/qdlm14/preferred_way_to_query_and_write_to_sql_db_for/)
+- [LottieDialog: Android Library to create Lottie animation view dialog easily with a lot of customization](https://www.reddit.com/r/Kotlin/comments/qdg5nu/lottiedialog_android_library_to_create_lottie/)
+- [Introducing the Kotlin Mascot](https://www.reddit.com/r/Kotlin/comments/qdfmm1/introducing_the_kotlin_mascot/)
 - [Can't add CocoaPods Dependency](https://www.reddit.com/r/Kotlin/comments/qd5jt8/cant_add_cocoapods_dependency/)
 - [From zero to...](https://www.reddit.com/r/Kotlin/comments/qcz4k3/from_zero_to/)
 - [Matrix In Kotlin](https://www.reddit.com/r/Kotlin/comments/qcxjxd/matrix_in_kotlin/)
 - [I wrote a fun word game in Kotlin, feedback welcome!](https://www.reddit.com/r/Kotlin/comments/qcxizw/i_wrote_a_fun_word_game_in_kotlin_feedback_welcome/)
 - [Why did you choose Kotlin for a personal project?](https://www.reddit.com/r/Kotlin/comments/qcttki/why_did_you_choose_kotlin_for_a_personal_project/)
 - [[USE CASE] Defining shared domain models in Kotlin for cross platform use](https://www.reddit.com/r/Kotlin/comments/qctjel/use_case_defining_shared_domain_models_in_kotlin/)
-- [The Kotlin team has gone all in on Kotlin for WebAssembly. Join Sebastian and Svyatoslav for a look at the latest Kotlin target and compiler backend, including a demo!](https://www.reddit.com/r/Kotlin/comments/qct6r1/the_kotlin_team_has_gone_all_in_on_kotlin_for/)
-- [Reactive and Functional](https://www.reddit.com/r/Kotlin/comments/qct25a/reactive_and_functional/)
-- [[HELP] Using Spring Boot and CrudRepository, how to send Null/None in specific field?](https://www.reddit.com/r/Kotlin/comments/qcrpu9/help_using_spring_boot_and_crudrepository_how_to/)
-- [Is this a good way to make a segment tree in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qcqf6l/is_this_a_good_way_to_make_a_segment_tree_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
