@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to make an update function for a class that returns a new class of this type?](https://www.reddit.com/r/Kotlin/comments/qep7tc/how_to_make_an_update_function_for_a_class_that/)
 - [Do people still use open classes?](https://www.reddit.com/r/Kotlin/comments/qefudq/do_people_still_use_open_classes/)
 - [How to make RTCPeerConnection be available in Kotlin/JS without declaring the class myself?](https://www.reddit.com/r/Kotlin/comments/qeck4p/how_to_make_rtcpeerconnection_be_available_in/)
 - [We are on the verge of reaching the next important milestone: KMM will go Beta in Spring 2022! 🎉 In this video, Kate Petrova will tell you about all the important changes that you can expect with #KMM Beta. 🎁 Check it out! 👇](https://www.reddit.com/r/Kotlin/comments/qe7vss/we_are_on_the_verge_of_reaching_the_next/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [LottieDialog: Android Library to create Lottie animation view dialog easily with a lot of customization](https://www.reddit.com/r/Kotlin/comments/qdg5nu/lottiedialog_android_library_to_create_lottie/)
 - [Introducing the Kotlin Mascot](https://www.reddit.com/r/Kotlin/comments/qdfmm1/introducing_the_kotlin_mascot/)
 - [Can't add CocoaPods Dependency](https://www.reddit.com/r/Kotlin/comments/qd5jt8/cant_add_cocoapods_dependency/)
-- [From zero to...](https://www.reddit.com/r/Kotlin/comments/qcz4k3/from_zero_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
