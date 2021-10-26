@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Coroutine kotlin-android](https://www.reddit.com/r/Kotlin/comments/qfo92u/coroutine_kotlinandroid/)
+- [Compose for Wear OS: ScalingLazyColumn](https://www.reddit.com/r/Kotlin/comments/qfl3k7/compose_for_wear_os_scalinglazycolumn/)
+- [As a beginner in Kotlin, should I start learning XML first then move to jetpack compose, or should I learn jetpack compose directly. Are there benefits to learning XML?](https://www.reddit.com/r/Kotlin/comments/qfj0wp/as_a_beginner_in_kotlin_should_i_start_learning/)
+- [Spring cannot find bean by nested generic interface type](https://www.reddit.com/r/Kotlin/comments/qfi426/spring_cannot_find_bean_by_nested_generic/)
+- [Gradle plugin written with Kotlin -- how to get the CompileKotlin task reference](https://www.reddit.com/r/Kotlin/comments/qfe8ft/gradle_plugin_written_with_kotlin_how_to_get_the/)
+- [Effective Kotlin Item 55: Consider Arrays with primitives for performance-critical processing](https://www.reddit.com/r/Kotlin/comments/qfc481/effective_kotlin_item_55_consider_arrays_with/)
+- [A strange CompilingError of kotlin.reflect, why and how?](https://www.reddit.com/r/Kotlin/comments/qfaltw/a_strange_compilingerror_of_kotlinreflect_why_and/)
+- [How can I paste text from another app?](https://www.reddit.com/r/Kotlin/comments/qf7wv6/how_can_i_paste_text_from_another_app/)
 - [How to make an update function for a class that returns a new class of this type?](https://www.reddit.com/r/Kotlin/comments/qep7tc/how_to_make_an_update_function_for_a_class_that/)
 - [Do people still use open classes?](https://www.reddit.com/r/Kotlin/comments/qefudq/do_people_still_use_open_classes/)
-- [How to make RTCPeerConnection be available in Kotlin/JS without declaring the class myself?](https://www.reddit.com/r/Kotlin/comments/qeck4p/how_to_make_rtcpeerconnection_be_available_in/)
-- [We are on the verge of reaching the next important milestone: KMM will go Beta in Spring 2022! 🎉 In this video, Kate Petrova will tell you about all the important changes that you can expect with #KMM Beta. 🎁 Check it out! 👇](https://www.reddit.com/r/Kotlin/comments/qe7vss/we_are_on_the_verge_of_reaching_the_next/)
-- [Kotlin/Native : Getting error undefined reference when using generated C wrappers ?](https://www.reddit.com/r/Kotlin/comments/qe5dd8/kotlinnative_getting_error_undefined_reference/)
-- [Problem with android studio xml file](https://www.reddit.com/r/Kotlin/comments/qdscyi/problem_with_android_studio_xml_file/)
-- [Preferred way to query and write to SQL db for Ktor](https://www.reddit.com/r/Kotlin/comments/qdlm14/preferred_way_to_query_and_write_to_sql_db_for/)
-- [LottieDialog: Android Library to create Lottie animation view dialog easily with a lot of customization](https://www.reddit.com/r/Kotlin/comments/qdg5nu/lottiedialog_android_library_to_create_lottie/)
-- [Introducing the Kotlin Mascot](https://www.reddit.com/r/Kotlin/comments/qdfmm1/introducing_the_kotlin_mascot/)
-- [Can't add CocoaPods Dependency](https://www.reddit.com/r/Kotlin/comments/qd5jt8/cant_add_cocoapods_dependency/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
