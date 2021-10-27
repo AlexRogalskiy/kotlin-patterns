@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- ["The old API functions are marked as deprecated and will be removed in a future release."](https://www.reddit.com/r/Kotlin/comments/qgglck/the_old_api_functions_are_marked_as_deprecated/)
+- [The Best Machine Learning Courses on Udemy in 2021](https://www.reddit.com/r/Kotlin/comments/qgei3n/the_best_machine_learning_courses_on_udemy_in_2021/)
+- [How do I build APK from a GitHub repository? (Urgent)](https://www.reddit.com/r/Kotlin/comments/qgdyl4/how_do_i_build_apk_from_a_github_repository_urgent/)
+- [Absolute Beginner :](https://www.reddit.com/r/Kotlin/comments/qgahuy/absolute_beginner/)
+- [City Library — An advanced guide to Circuit Breakers in Kotlin](https://www.reddit.com/r/Kotlin/comments/qg88w7/city_library_an_advanced_guide_to_circuit/)
+- [Check out the What’s New in Ktor 2.0 talk to learn about features that the team has been working on to simplify development ⬇️](https://www.reddit.com/r/Kotlin/comments/qg829c/check_out_the_whats_new_in_ktor_20_talk_to_learn/)
+- [How to build Android Apps with Kotlin eBook](https://www.reddit.com/r/Kotlin/comments/qg7ggc/how_to_build_android_apps_with_kotlin_ebook/)
 - [Coroutine kotlin-android](https://www.reddit.com/r/Kotlin/comments/qfo92u/coroutine_kotlinandroid/)
 - [Compose for Wear OS: ScalingLazyColumn](https://www.reddit.com/r/Kotlin/comments/qfl3k7/compose_for_wear_os_scalinglazycolumn/)
-- [As a beginner in Kotlin, should I start learning XML first then move to jetpack compose, or should I learn jetpack compose directly. Are there benefits to learning XML?](https://www.reddit.com/r/Kotlin/comments/qfj0wp/as_a_beginner_in_kotlin_should_i_start_learning/)
 - [Spring cannot find bean by nested generic interface type](https://www.reddit.com/r/Kotlin/comments/qfi426/spring_cannot_find_bean_by_nested_generic/)
-- [Gradle plugin written with Kotlin -- how to get the CompileKotlin task reference](https://www.reddit.com/r/Kotlin/comments/qfe8ft/gradle_plugin_written_with_kotlin_how_to_get_the/)
-- [Effective Kotlin Item 55: Consider Arrays with primitives for performance-critical processing](https://www.reddit.com/r/Kotlin/comments/qfc481/effective_kotlin_item_55_consider_arrays_with/)
-- [A strange CompilingError of kotlin.reflect, why and how?](https://www.reddit.com/r/Kotlin/comments/qfaltw/a_strange_compilingerror_of_kotlinreflect_why_and/)
-- [How can I paste text from another app?](https://www.reddit.com/r/Kotlin/comments/qf7wv6/how_can_i_paste_text_from_another_app/)
-- [How to make an update function for a class that returns a new class of this type?](https://www.reddit.com/r/Kotlin/comments/qep7tc/how_to_make_an_update_function_for_a_class_that/)
-- [Do people still use open classes?](https://www.reddit.com/r/Kotlin/comments/qefudq/do_people_still_use_open_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
