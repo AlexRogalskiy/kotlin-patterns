@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why am I allowed to call BitmapFactory when I haven't instanciated it? Also, what is resources?](https://www.reddit.com/r/Kotlin/comments/qh86xl/why_am_i_allowed_to_call_bitmapfactory_when_i/)
+- [Roast our Kotlin Conf & get free virtual tickets :)](https://www.reddit.com/r/Kotlin/comments/qgyqdz/roast_our_kotlin_conf_get_free_virtual_tickets/)
+- [Why isn't this statement printing?](https://www.reddit.com/r/Kotlin/comments/qgyk7q/why_isnt_this_statement_printing/)
+- [Looking at Kotlin documentation, it says that things like Set or List are interfaces. So why can I call the constructor like "val list = List<Int>(3 , {it})" and have it work, when you can't instantiate interfaces?](https://www.reddit.com/r/Kotlin/comments/qgyexf/looking_at_kotlin_documentation_it_says_that/)
+- [Absolute Beginner : wallet algorithm](https://www.reddit.com/r/Kotlin/comments/qgv474/absolute_beginner_wallet_algorithm/)
+- [Testing Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/qgrn6w/testing_kotlin_coroutines/)
+- [Starting in Kotlin](https://www.reddit.com/r/Kotlin/comments/qglw4k/starting_in_kotlin/)
 - ["The old API functions are marked as deprecated and will be removed in a future release."](https://www.reddit.com/r/Kotlin/comments/qgglck/the_old_api_functions_are_marked_as_deprecated/)
 - [The Best Machine Learning Courses on Udemy in 2021](https://www.reddit.com/r/Kotlin/comments/qgei3n/the_best_machine_learning_courses_on_udemy_in_2021/)
 - [How do I build APK from a GitHub repository? (Urgent)](https://www.reddit.com/r/Kotlin/comments/qgdyl4/how_do_i_build_apk_from_a_github_repository_urgent/)
-- [Absolute Beginner :](https://www.reddit.com/r/Kotlin/comments/qgahuy/absolute_beginner/)
-- [City Library — An advanced guide to Circuit Breakers in Kotlin](https://www.reddit.com/r/Kotlin/comments/qg88w7/city_library_an_advanced_guide_to_circuit/)
-- [Check out the What’s New in Ktor 2.0 talk to learn about features that the team has been working on to simplify development ⬇️](https://www.reddit.com/r/Kotlin/comments/qg829c/check_out_the_whats_new_in_ktor_20_talk_to_learn/)
-- [How to build Android Apps with Kotlin eBook](https://www.reddit.com/r/Kotlin/comments/qg7ggc/how_to_build_android_apps_with_kotlin_ebook/)
-- [Coroutine kotlin-android](https://www.reddit.com/r/Kotlin/comments/qfo92u/coroutine_kotlinandroid/)
-- [Compose for Wear OS: ScalingLazyColumn](https://www.reddit.com/r/Kotlin/comments/qfl3k7/compose_for_wear_os_scalinglazycolumn/)
-- [Spring cannot find bean by nested generic interface type](https://www.reddit.com/r/Kotlin/comments/qfi426/spring_cannot_find_bean_by_nested_generic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
