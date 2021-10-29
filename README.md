@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java to Kotlin, Optional to Nullable](https://www.reddit.com/r/Kotlin/comments/qhisbb/java_to_kotlin_optional_to_nullable/)
+- [Kotlin Coroutines for Android Development - Howtodoandroid](https://www.reddit.com/r/Kotlin/comments/qhh1ub/kotlin_coroutines_for_android_development/)
 - [Why am I allowed to call BitmapFactory when I haven't instanciated it? Also, what is resources?](https://www.reddit.com/r/Kotlin/comments/qh86xl/why_am_i_allowed_to_call_bitmapfactory_when_i/)
 - [Roast our Kotlin Conf & get free virtual tickets :)](https://www.reddit.com/r/Kotlin/comments/qgyqdz/roast_our_kotlin_conf_get_free_virtual_tickets/)
 - [Why isn't this statement printing?](https://www.reddit.com/r/Kotlin/comments/qgyk7q/why_isnt_this_statement_printing/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Testing Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/qgrn6w/testing_kotlin_coroutines/)
 - [Starting in Kotlin](https://www.reddit.com/r/Kotlin/comments/qglw4k/starting_in_kotlin/)
 - ["The old API functions are marked as deprecated and will be removed in a future release."](https://www.reddit.com/r/Kotlin/comments/qgglck/the_old_api_functions_are_marked_as_deprecated/)
-- [The Best Machine Learning Courses on Udemy in 2021](https://www.reddit.com/r/Kotlin/comments/qgei3n/the_best_machine_learning_courses_on_udemy_in_2021/)
-- [How do I build APK from a GitHub repository? (Urgent)](https://www.reddit.com/r/Kotlin/comments/qgdyl4/how_do_i_build_apk_from_a_github_repository_urgent/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
