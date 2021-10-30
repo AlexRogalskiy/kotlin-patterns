@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I'm a little confused about why an object of a certain type can be set to an object of a different type, as long as the second type inherits from the first](https://www.reddit.com/r/Kotlin/comments/qio657/im_a_little_confused_about_why_an_object_of_a/)
+- [Does Bazel play well with Intellij?](https://www.reddit.com/r/Kotlin/comments/qiky67/does_bazel_play_well_with_intellij/)
+- [What Rust could learn from Kotlin](https://www.reddit.com/r/Kotlin/comments/qiis5r/what_rust_could_learn_from_kotlin/)
+- [Prototyping with Kotlin](https://www.reddit.com/r/Kotlin/comments/qii0or/prototyping_with_kotlin/)
+- [Jetpack Compose Multiplatform Beta Released](https://www.reddit.com/r/Kotlin/comments/qiehs1/jetpack_compose_multiplatform_beta_released/)
+- [Data classes: Immutable?](https://www.reddit.com/r/Kotlin/comments/qibnqc/data_classes_immutable/)
+- [Compose Multiplatform Goes Beta: Stabilized APIs, Compatibility with Google’s Compose Artifacts](https://www.reddit.com/r/Kotlin/comments/qiasxq/compose_multiplatform_goes_beta_stabilized_apis/)
+- [Kotlin Sealed Classes](https://www.reddit.com/r/Kotlin/comments/qi6lyv/kotlin_sealed_classes/)
 - [Java to Kotlin, Optional to Nullable](https://www.reddit.com/r/Kotlin/comments/qhisbb/java_to_kotlin_optional_to_nullable/)
 - [Kotlin Coroutines for Android Development - Howtodoandroid](https://www.reddit.com/r/Kotlin/comments/qhh1ub/kotlin_coroutines_for_android_development/)
-- [Why am I allowed to call BitmapFactory when I haven't instanciated it? Also, what is resources?](https://www.reddit.com/r/Kotlin/comments/qh86xl/why_am_i_allowed_to_call_bitmapfactory_when_i/)
-- [Roast our Kotlin Conf & get free virtual tickets :)](https://www.reddit.com/r/Kotlin/comments/qgyqdz/roast_our_kotlin_conf_get_free_virtual_tickets/)
-- [Why isn't this statement printing?](https://www.reddit.com/r/Kotlin/comments/qgyk7q/why_isnt_this_statement_printing/)
-- [Looking at Kotlin documentation, it says that things like Set or List are interfaces. So why can I call the constructor like "val list = List<Int>(3 , {it})" and have it work, when you can't instantiate interfaces?](https://www.reddit.com/r/Kotlin/comments/qgyexf/looking_at_kotlin_documentation_it_says_that/)
-- [Absolute Beginner : wallet algorithm](https://www.reddit.com/r/Kotlin/comments/qgv474/absolute_beginner_wallet_algorithm/)
-- [Testing Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/qgrn6w/testing_kotlin_coroutines/)
-- [Starting in Kotlin](https://www.reddit.com/r/Kotlin/comments/qglw4k/starting_in_kotlin/)
-- ["The old API functions are marked as deprecated and will be removed in a future release."](https://www.reddit.com/r/Kotlin/comments/qgglck/the_old_api_functions_are_marked_as_deprecated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
