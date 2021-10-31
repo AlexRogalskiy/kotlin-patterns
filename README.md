@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to provide one's own class to a typed instance?](https://www.reddit.com/r/Kotlin/comments/qjfbgj/how_to_provide_ones_own_class_to_a_typed_instance/)
+- [How to best express a Union of types in a multi-module project?](https://www.reddit.com/r/Kotlin/comments/qjbx49/how_to_best_express_a_union_of_types_in_a/)
+- [Equivalent of cppinsight for kotlin](https://www.reddit.com/r/Kotlin/comments/qixv0s/equivalent_of_cppinsight_for_kotlin/)
+- [Free Event - Bruce Eckel compares Java 17 and Kotlin in Live MeetUp](https://www.reddit.com/r/Kotlin/comments/qiwop8/free_event_bruce_eckel_compares_java_17_and/)
 - [I'm a little confused about why an object of a certain type can be set to an object of a different type, as long as the second type inherits from the first](https://www.reddit.com/r/Kotlin/comments/qio657/im_a_little_confused_about_why_an_object_of_a/)
 - [Does Bazel play well with Intellij?](https://www.reddit.com/r/Kotlin/comments/qiky67/does_bazel_play_well_with_intellij/)
 - [What Rust could learn from Kotlin](https://www.reddit.com/r/Kotlin/comments/qiis5r/what_rust_could_learn_from_kotlin/)
 - [Prototyping with Kotlin](https://www.reddit.com/r/Kotlin/comments/qii0or/prototyping_with_kotlin/)
 - [Jetpack Compose Multiplatform Beta Released](https://www.reddit.com/r/Kotlin/comments/qiehs1/jetpack_compose_multiplatform_beta_released/)
 - [Data classes: Immutable?](https://www.reddit.com/r/Kotlin/comments/qibnqc/data_classes_immutable/)
-- [Compose Multiplatform Goes Beta: Stabilized APIs, Compatibility with Google’s Compose Artifacts](https://www.reddit.com/r/Kotlin/comments/qiasxq/compose_multiplatform_goes_beta_stabilized_apis/)
-- [Kotlin Sealed Classes](https://www.reddit.com/r/Kotlin/comments/qi6lyv/kotlin_sealed_classes/)
-- [Java to Kotlin, Optional to Nullable](https://www.reddit.com/r/Kotlin/comments/qhisbb/java_to_kotlin_optional_to_nullable/)
-- [Kotlin Coroutines for Android Development - Howtodoandroid](https://www.reddit.com/r/Kotlin/comments/qhh1ub/kotlin_coroutines_for_android_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
