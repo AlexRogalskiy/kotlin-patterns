@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What's your side project written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qk3pwn/whats_your_side_project_written_in_kotlin/)
+- [Need Help Testing Callback Style Code with Coroutines](https://www.reddit.com/r/Kotlin/comments/qjs0im/need_help_testing_callback_style_code_with/)
+- [What are major productivity/performance trade-offs between kotlin and java; as of jdk 17/kotlin 1.6](https://www.reddit.com/r/Kotlin/comments/qjo9to/what_are_major_productivityperformance_tradeoffs/)
 - [How to provide one's own class to a typed instance?](https://www.reddit.com/r/Kotlin/comments/qjfbgj/how_to_provide_ones_own_class_to_a_typed_instance/)
 - [How to best express a Union of types in a multi-module project?](https://www.reddit.com/r/Kotlin/comments/qjbx49/how_to_best_express_a_union_of_types_in_a/)
 - [Equivalent of cppinsight for kotlin](https://www.reddit.com/r/Kotlin/comments/qixv0s/equivalent_of_cppinsight_for_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I'm a little confused about why an object of a certain type can be set to an object of a different type, as long as the second type inherits from the first](https://www.reddit.com/r/Kotlin/comments/qio657/im_a_little_confused_about_why_an_object_of_a/)
 - [Does Bazel play well with Intellij?](https://www.reddit.com/r/Kotlin/comments/qiky67/does_bazel_play_well_with_intellij/)
 - [What Rust could learn from Kotlin](https://www.reddit.com/r/Kotlin/comments/qiis5r/what_rust_could_learn_from_kotlin/)
-- [Prototyping with Kotlin](https://www.reddit.com/r/Kotlin/comments/qii0or/prototyping_with_kotlin/)
-- [Jetpack Compose Multiplatform Beta Released](https://www.reddit.com/r/Kotlin/comments/qiehs1/jetpack_compose_multiplatform_beta_released/)
-- [Data classes: Immutable?](https://www.reddit.com/r/Kotlin/comments/qibnqc/data_classes_immutable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
