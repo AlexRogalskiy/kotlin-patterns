@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing Kotlin support for protocol buffers](https://www.reddit.com/r/Kotlin/comments/qknme4/announcing_kotlin_support_for_protocol_buffers/)
+- [Interesting Garbage Collection Patterns](https://www.reddit.com/r/Kotlin/comments/qkc49w/interesting_garbage_collection_patterns/)
 - [What's your side project written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qk3pwn/whats_your_side_project_written_in_kotlin/)
 - [Need Help Testing Callback Style Code with Coroutines](https://www.reddit.com/r/Kotlin/comments/qjs0im/need_help_testing_callback_style_code_with/)
 - [What are major productivity/performance trade-offs between kotlin and java; as of jdk 17/kotlin 1.6](https://www.reddit.com/r/Kotlin/comments/qjo9to/what_are_major_productivityperformance_tradeoffs/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Equivalent of cppinsight for kotlin](https://www.reddit.com/r/Kotlin/comments/qixv0s/equivalent_of_cppinsight_for_kotlin/)
 - [Free Event - Bruce Eckel compares Java 17 and Kotlin in Live MeetUp](https://www.reddit.com/r/Kotlin/comments/qiwop8/free_event_bruce_eckel_compares_java_17_and/)
 - [I'm a little confused about why an object of a certain type can be set to an object of a different type, as long as the second type inherits from the first](https://www.reddit.com/r/Kotlin/comments/qio657/im_a_little_confused_about_why_an_object_of_a/)
-- [Does Bazel play well with Intellij?](https://www.reddit.com/r/Kotlin/comments/qiky67/does_bazel_play_well_with_intellij/)
-- [What Rust could learn from Kotlin](https://www.reddit.com/r/Kotlin/comments/qiis5r/what_rust_could_learn_from_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
