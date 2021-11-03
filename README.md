@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SQL builder?](https://www.reddit.com/r/Kotlin/comments/qlgft0/sql_builder/)
+- [I am considering switching to TypeScript on a personal project](https://www.reddit.com/r/Kotlin/comments/qlfxj8/i_am_considering_switching_to_typescript_on_a/)
+- [Looking for an old dependency: org.jetbrains.kotlinx:kotlinx-gradle-serialization-plugin:0.5.1](https://www.reddit.com/r/Kotlin/comments/qlcgzo/looking_for_an_old_dependency/)
+- [BLE with Kotlin](https://www.reddit.com/r/Kotlin/comments/qla7vf/ble_with_kotlin/)
+- [K2 Compiler: a Top-Down View](https://www.reddit.com/r/Kotlin/comments/ql82qs/k2_compiler_a_topdown_view/)
+- [Google recently released Kotlin Symbol Processing (KSP), a new tool to do metaprogramming on Kotlin. KSP is a lightweight alternative to both Java Annotation Processors and Kotlin Compiler plugins. In this talk Jeffrey and Ting-Yuan describe why they built KSP and with which design pr principles.](https://www.reddit.com/r/Kotlin/comments/ql5d12/google_recently_released_kotlin_symbol_processing/)
+- [Compose for Wear OS: Navigation](https://www.reddit.com/r/Kotlin/comments/ql0o1t/compose_for_wear_os_navigation/)
 - [Announcing Kotlin support for protocol buffers](https://www.reddit.com/r/Kotlin/comments/qknme4/announcing_kotlin_support_for_protocol_buffers/)
 - [Interesting Garbage Collection Patterns](https://www.reddit.com/r/Kotlin/comments/qkc49w/interesting_garbage_collection_patterns/)
 - [What's your side project written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qk3pwn/whats_your_side_project_written_in_kotlin/)
-- [Need Help Testing Callback Style Code with Coroutines](https://www.reddit.com/r/Kotlin/comments/qjs0im/need_help_testing_callback_style_code_with/)
-- [What are major productivity/performance trade-offs between kotlin and java; as of jdk 17/kotlin 1.6](https://www.reddit.com/r/Kotlin/comments/qjo9to/what_are_major_productivityperformance_tradeoffs/)
-- [How to provide one's own class to a typed instance?](https://www.reddit.com/r/Kotlin/comments/qjfbgj/how_to_provide_ones_own_class_to_a_typed_instance/)
-- [How to best express a Union of types in a multi-module project?](https://www.reddit.com/r/Kotlin/comments/qjbx49/how_to_best_express_a_union_of_types_in_a/)
-- [Equivalent of cppinsight for kotlin](https://www.reddit.com/r/Kotlin/comments/qixv0s/equivalent_of_cppinsight_for_kotlin/)
-- [Free Event - Bruce Eckel compares Java 17 and Kotlin in Live MeetUp](https://www.reddit.com/r/Kotlin/comments/qiwop8/free_event_bruce_eckel_compares_java_17_and/)
-- [I'm a little confused about why an object of a certain type can be set to an object of a different type, as long as the second type inherits from the first](https://www.reddit.com/r/Kotlin/comments/qio657/im_a_little_confused_about_why_an_object_of_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
