@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Coroutines to RxJava2 + RxAndroid](https://www.reddit.com/r/Kotlin/comments/qm6az5/kotlin_coroutines_to_rxjava2_rxandroid/)
+- [Help in creating txt file](https://www.reddit.com/r/Kotlin/comments/qm5pni/help_in_creating_txt_file/)
+- [Learning Kotlin - Do you find answers by using Google/StackOverflow? Drawbacks to Crossplatform?](https://www.reddit.com/r/Kotlin/comments/qm299q/learning_kotlin_do_you_find_answers_by_using/)
+- [TDD Gilded Rose](https://www.reddit.com/r/Kotlin/comments/qludxr/tdd_gilded_rose/)
+- [Kotlin roadmap updated](https://www.reddit.com/r/Kotlin/comments/qlu9wo/kotlin_roadmap_updated/)
+- [Can any one give me some pointers on how to build BFF(backend for frontend) layer between your app nd backend?](https://www.reddit.com/r/Kotlin/comments/qlt57a/can_any_one_give_me_some_pointers_on_how_to_build/)
+- [Channel in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/qlquo0/channel_in_kotlin_coroutines/)
+- [Bridging the gap between Swift 5.5 concurrency and Kotlin Coroutines with KMP-NativeCoroutines](https://www.reddit.com/r/Kotlin/comments/qlkreu/bridging_the_gap_between_swift_55_concurrency_and/)
 - [SQL builder?](https://www.reddit.com/r/Kotlin/comments/qlgft0/sql_builder/)
 - [I am considering switching to TypeScript on a personal project](https://www.reddit.com/r/Kotlin/comments/qlfxj8/i_am_considering_switching_to_typescript_on_a/)
-- [Looking for an old dependency: org.jetbrains.kotlinx:kotlinx-gradle-serialization-plugin:0.5.1](https://www.reddit.com/r/Kotlin/comments/qlcgzo/looking_for_an_old_dependency/)
-- [BLE with Kotlin](https://www.reddit.com/r/Kotlin/comments/qla7vf/ble_with_kotlin/)
-- [K2 Compiler: a Top-Down View](https://www.reddit.com/r/Kotlin/comments/ql82qs/k2_compiler_a_topdown_view/)
-- [Google recently released Kotlin Symbol Processing (KSP), a new tool to do metaprogramming on Kotlin. KSP is a lightweight alternative to both Java Annotation Processors and Kotlin Compiler plugins. In this talk Jeffrey and Ting-Yuan describe why they built KSP and with which design pr principles.](https://www.reddit.com/r/Kotlin/comments/ql5d12/google_recently_released_kotlin_symbol_processing/)
-- [Compose for Wear OS: Navigation](https://www.reddit.com/r/Kotlin/comments/ql0o1t/compose_for_wear_os_navigation/)
-- [Announcing Kotlin support for protocol buffers](https://www.reddit.com/r/Kotlin/comments/qknme4/announcing_kotlin_support_for_protocol_buffers/)
-- [Interesting Garbage Collection Patterns](https://www.reddit.com/r/Kotlin/comments/qkc49w/interesting_garbage_collection_patterns/)
-- [What's your side project written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/qk3pwn/whats_your_side_project_written_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
