@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin plugin version for IDEA 2021.3](https://www.reddit.com/r/Kotlin/comments/qmvzna/kotlin_plugin_version_for_idea_20213/)
+- [Compose for Web ? A HTML in Kotlin syntax ???](https://www.reddit.com/r/Kotlin/comments/qmrwj1/compose_for_web_a_html_in_kotlin_syntax/)
+- [Problem with run “hello world”. I don’t have the button “run main.kt” how can i get it? (I’m a beginner)](https://www.reddit.com/r/Kotlin/comments/qmrhlb/problem_with_run_hello_world_i_dont_have_the/)
+- [Describe a companion object in documentation](https://www.reddit.com/r/Kotlin/comments/qmn5jx/describe_a_companion_object_in_documentation/)
+- [Multiplatform Compose and Gradle module metadata abuse](https://www.reddit.com/r/Kotlin/comments/qmleu6/multiplatform_compose_and_gradle_module_metadata/)
+- [Introduce Kotlin coroutines and Flows to the callback-based Java client](https://www.reddit.com/r/Kotlin/comments/qmh45s/introduce_kotlin_coroutines_and_flows_to_the/)
+- [Kotlin 1.6.0 RC2 Released](https://www.reddit.com/r/Kotlin/comments/qmcy5x/kotlin_160_rc2_released/)
+- [Seeking for advice](https://www.reddit.com/r/Kotlin/comments/qmbkjv/seeking_for_advice/)
 - [Kotlin Coroutines to RxJava2 + RxAndroid](https://www.reddit.com/r/Kotlin/comments/qm6az5/kotlin_coroutines_to_rxjava2_rxandroid/)
-- [Help in creating txt file](https://www.reddit.com/r/Kotlin/comments/qm5pni/help_in_creating_txt_file/)
 - [Learning Kotlin - Do you find answers by using Google/StackOverflow? Drawbacks to Crossplatform?](https://www.reddit.com/r/Kotlin/comments/qm299q/learning_kotlin_do_you_find_answers_by_using/)
-- [TDD Gilded Rose](https://www.reddit.com/r/Kotlin/comments/qludxr/tdd_gilded_rose/)
-- [Kotlin roadmap updated](https://www.reddit.com/r/Kotlin/comments/qlu9wo/kotlin_roadmap_updated/)
-- [Can any one give me some pointers on how to build BFF(backend for frontend) layer between your app nd backend?](https://www.reddit.com/r/Kotlin/comments/qlt57a/can_any_one_give_me_some_pointers_on_how_to_build/)
-- [Channel in Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/qlquo0/channel_in_kotlin_coroutines/)
-- [Bridging the gap between Swift 5.5 concurrency and Kotlin Coroutines with KMP-NativeCoroutines](https://www.reddit.com/r/Kotlin/comments/qlkreu/bridging_the_gap_between_swift_55_concurrency_and/)
-- [SQL builder?](https://www.reddit.com/r/Kotlin/comments/qlgft0/sql_builder/)
-- [I am considering switching to TypeScript on a personal project](https://www.reddit.com/r/Kotlin/comments/qlfxj8/i_am_considering_switching_to_typescript_on_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
