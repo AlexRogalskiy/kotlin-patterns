@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is this an over-engineered way to have an Android ViewModel with MVI design pattern?](https://www.reddit.com/r/Kotlin/comments/qnoerj/is_this_an_overengineered_way_to_have_an_android/)
+- [I am no longer considering switching my personal project to TypeScript](https://www.reddit.com/r/Kotlin/comments/qniuos/i_am_no_longer_considering_switching_my_personal/)
+- [Is there an object overload for data class copy function?](https://www.reddit.com/r/Kotlin/comments/qn45pe/is_there_an_object_overload_for_data_class_copy/)
+- [RxJava Observable Types](https://www.reddit.com/r/Kotlin/comments/qn2piw/rxjava_observable_types/)
 - [Kotlin plugin version for IDEA 2021.3](https://www.reddit.com/r/Kotlin/comments/qmvzna/kotlin_plugin_version_for_idea_20213/)
 - [Compose for Web ? A HTML in Kotlin syntax ???](https://www.reddit.com/r/Kotlin/comments/qmrwj1/compose_for_web_a_html_in_kotlin_syntax/)
 - [Problem with run “hello world”. I don’t have the button “run main.kt” how can i get it? (I’m a beginner)](https://www.reddit.com/r/Kotlin/comments/qmrhlb/problem_with_run_hello_world_i_dont_have_the/)
 - [Describe a companion object in documentation](https://www.reddit.com/r/Kotlin/comments/qmn5jx/describe_a_companion_object_in_documentation/)
 - [Multiplatform Compose and Gradle module metadata abuse](https://www.reddit.com/r/Kotlin/comments/qmleu6/multiplatform_compose_and_gradle_module_metadata/)
 - [Introduce Kotlin coroutines and Flows to the callback-based Java client](https://www.reddit.com/r/Kotlin/comments/qmh45s/introduce_kotlin_coroutines_and_flows_to_the/)
-- [Kotlin 1.6.0 RC2 Released](https://www.reddit.com/r/Kotlin/comments/qmcy5x/kotlin_160_rc2_released/)
-- [Seeking for advice](https://www.reddit.com/r/Kotlin/comments/qmbkjv/seeking_for_advice/)
-- [Kotlin Coroutines to RxJava2 + RxAndroid](https://www.reddit.com/r/Kotlin/comments/qm6az5/kotlin_coroutines_to_rxjava2_rxandroid/)
-- [Learning Kotlin - Do you find answers by using Google/StackOverflow? Drawbacks to Crossplatform?](https://www.reddit.com/r/Kotlin/comments/qm299q/learning_kotlin_do_you_find_answers_by_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
