@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is this an over-engineered way to have an Android ViewModel with MVI design pattern?](https://www.reddit.com/r/Kotlin/comments/qnoerj/is_this_an_overengineered_way_to_have_an_android/)
+- [Help Needed - New Job w/ Kotlin](https://www.reddit.com/r/Kotlin/comments/qo7rl1/help_needed_new_job_w_kotlin/)
+- [Is it obligatory to use sp?](https://www.reddit.com/r/Kotlin/comments/qo611b/is_it_obligatory_to_use_sp/)
+- [CSV parser that does not throw errors](https://www.reddit.com/r/Kotlin/comments/qo5p5d/csv_parser_that_does_not_throw_errors/)
+- [Trying to to run my little kotlin projects in vs code](https://www.reddit.com/r/Kotlin/comments/qo431u/trying_to_to_run_my_little_kotlin_projects_in_vs/)
+- [Watch the talk on the recently announced Gradle plugin for Kotlin code coverage measurements!](https://www.reddit.com/r/Kotlin/comments/qo1hjy/watch_the_talk_on_the_recently_announced_gradle/)
 - [I am no longer considering switching my personal project to TypeScript](https://www.reddit.com/r/Kotlin/comments/qniuos/i_am_no_longer_considering_switching_my_personal/)
 - [Is there an object overload for data class copy function?](https://www.reddit.com/r/Kotlin/comments/qn45pe/is_there_an_object_overload_for_data_class_copy/)
 - [RxJava Observable Types](https://www.reddit.com/r/Kotlin/comments/qn2piw/rxjava_observable_types/)
 - [Kotlin plugin version for IDEA 2021.3](https://www.reddit.com/r/Kotlin/comments/qmvzna/kotlin_plugin_version_for_idea_20213/)
 - [Compose for Web ? A HTML in Kotlin syntax ???](https://www.reddit.com/r/Kotlin/comments/qmrwj1/compose_for_web_a_html_in_kotlin_syntax/)
-- [Problem with run “hello world”. I don’t have the button “run main.kt” how can i get it? (I’m a beginner)](https://www.reddit.com/r/Kotlin/comments/qmrhlb/problem_with_run_hello_world_i_dont_have_the/)
-- [Describe a companion object in documentation](https://www.reddit.com/r/Kotlin/comments/qmn5jx/describe_a_companion_object_in_documentation/)
-- [Multiplatform Compose and Gradle module metadata abuse](https://www.reddit.com/r/Kotlin/comments/qmleu6/multiplatform_compose_and_gradle_module_metadata/)
-- [Introduce Kotlin coroutines and Flows to the callback-based Java client](https://www.reddit.com/r/Kotlin/comments/qmh45s/introduce_kotlin_coroutines_and_flows_to_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
