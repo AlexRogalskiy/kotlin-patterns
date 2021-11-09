@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are there career options for someone like me?](https://www.reddit.com/r/Kotlin/comments/qpmqj1/are_there_career_options_for_someone_like_me/)
+- [kotlin works in jdk 17?](https://www.reddit.com/r/Kotlin/comments/qpgs4h/kotlin_works_in_jdk_17/)
+- [Program to plan studies in University](https://www.reddit.com/r/Kotlin/comments/qp9lzd/program_to_plan_studies_in_university/)
+- [I’m new to coding and feeling a bit overwhelmed](https://www.reddit.com/r/Kotlin/comments/qp3mrj/im_new_to_coding_and_feeling_a_bit_overwhelmed/)
 - [kotlin Cross Platform Questions](https://www.reddit.com/r/Kotlin/comments/qp2fnk/kotlin_cross_platform_questions/)
 - [Learning Exposed is hard](https://www.reddit.com/r/Kotlin/comments/qosqjf/learning_exposed_is_hard/)
 - [🚀 One of the most exciting announcements at #kotlinevent21! Qodana is a code quality monitoring platform that brings the intelligence of an IDE into your CI workflow. In this session, you will learn how to use Qodana for analyzing your Kotlin projects.](https://www.reddit.com/r/Kotlin/comments/qokwy8/one_of_the_most_exciting_announcements_at/)
 - [Help Needed - New Job w/ Kotlin](https://www.reddit.com/r/Kotlin/comments/qo7rl1/help_needed_new_job_w_kotlin/)
 - [Is it obligatory to use sp?](https://www.reddit.com/r/Kotlin/comments/qo611b/is_it_obligatory_to_use_sp/)
 - [CSV parser that does not throw errors](https://www.reddit.com/r/Kotlin/comments/qo5p5d/csv_parser_that_does_not_throw_errors/)
-- [Trying to to run my little kotlin projects in vs code](https://www.reddit.com/r/Kotlin/comments/qo431u/trying_to_to_run_my_little_kotlin_projects_in_vs/)
-- [Watch the talk on the recently announced Gradle plugin for Kotlin code coverage measurements!](https://www.reddit.com/r/Kotlin/comments/qo1hjy/watch_the_talk_on_the_recently_announced_gradle/)
-- [I am no longer considering switching my personal project to TypeScript](https://www.reddit.com/r/Kotlin/comments/qniuos/i_am_no_longer_considering_switching_my_personal/)
-- [Is there an object overload for data class copy function?](https://www.reddit.com/r/Kotlin/comments/qn45pe/is_there_an_object_overload_for_data_class_copy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
