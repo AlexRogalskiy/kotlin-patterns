@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [.contains working but .equals not?](https://www.reddit.com/r/Kotlin/comments/qqcul3/contains_working_but_equals_not/)
+- [The Beginner’s Guide to Kotlin Coroutine Internals](https://www.reddit.com/r/Kotlin/comments/qqac0n/the_beginners_guide_to_kotlin_coroutine_internals/)
+- [K2 Compiler, Kotlin/Wasm, and Tooling Announcements at the 2021 Kotlin Event](https://www.reddit.com/r/Kotlin/comments/qq9r2v/k2_compiler_kotlinwasm_and_tooling_announcements/)
+- [Kotlin library to build Elasticsearch queries](https://www.reddit.com/r/Kotlin/comments/qq5lw0/kotlin_library_to_build_elasticsearch_queries/)
+- [Check out the most interesting developments around Kotlin in October 2021! This episode is dedicated to the Kotlin 2021 Premier Online Event, the new Kotlin Mascot, K2 Compiler, Multik Library, Kotlin Multiplatform Survey and Kotlin Multiplatform Libraries.](https://www.reddit.com/r/Kotlin/comments/qpzp8p/check_out_the_most_interesting_developments/)
 - [Are there career options for someone like me?](https://www.reddit.com/r/Kotlin/comments/qpmqj1/are_there_career_options_for_someone_like_me/)
 - [kotlin works in jdk 17?](https://www.reddit.com/r/Kotlin/comments/qpgs4h/kotlin_works_in_jdk_17/)
 - [Program to plan studies in University](https://www.reddit.com/r/Kotlin/comments/qp9lzd/program_to_plan_studies_in_university/)
 - [I’m new to coding and feeling a bit overwhelmed](https://www.reddit.com/r/Kotlin/comments/qp3mrj/im_new_to_coding_and_feeling_a_bit_overwhelmed/)
 - [kotlin Cross Platform Questions](https://www.reddit.com/r/Kotlin/comments/qp2fnk/kotlin_cross_platform_questions/)
-- [Learning Exposed is hard](https://www.reddit.com/r/Kotlin/comments/qosqjf/learning_exposed_is_hard/)
-- [🚀 One of the most exciting announcements at #kotlinevent21! Qodana is a code quality monitoring platform that brings the intelligence of an IDE into your CI workflow. In this session, you will learn how to use Qodana for analyzing your Kotlin projects.](https://www.reddit.com/r/Kotlin/comments/qokwy8/one_of_the_most_exciting_announcements_at/)
-- [Help Needed - New Job w/ Kotlin](https://www.reddit.com/r/Kotlin/comments/qo7rl1/help_needed_new_job_w_kotlin/)
-- [Is it obligatory to use sp?](https://www.reddit.com/r/Kotlin/comments/qo611b/is_it_obligatory_to_use_sp/)
-- [CSV parser that does not throw errors](https://www.reddit.com/r/Kotlin/comments/qo5p5d/csv_parser_that_does_not_throw_errors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
