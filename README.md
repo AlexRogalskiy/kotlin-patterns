@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gradle JVM Toolchain Support in the Kotlin Plugin](https://www.reddit.com/r/Kotlin/comments/qqz4cq/gradle_jvm_toolchain_support_in_the_kotlin_plugin/)
+- [5 Kotlin Questions with Sebastian Aigner &lpar;Developer Advocate for Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/qqybqf/5_kotlin_questions_with_sebastian_aigner/)
+- [Thoughts aloud about Exposed](https://www.reddit.com/r/Kotlin/comments/qqp87z/thoughts_aloud_about_exposed/)
+- [Diktat: Yet another Kotlin Linter &lpar;with autofixers and hundred of inspections&rpar;!](https://www.reddit.com/r/Kotlin/comments/qqoj45/diktat_yet_another_kotlin_linter_with_autofixers/)
+- [What Kotlin could learn from Rust](https://www.reddit.com/r/Kotlin/comments/qqljuc/what_kotlin_could_learn_from_rust/)
+- [What are your favourite Kotlin blogs or channels?](https://www.reddit.com/r/Kotlin/comments/qqj2gw/what_are_your_favourite_kotlin_blogs_or_channels/)
 - [.contains working but .equals not?](https://www.reddit.com/r/Kotlin/comments/qqcul3/contains_working_but_equals_not/)
 - [The Beginner’s Guide to Kotlin Coroutine Internals](https://www.reddit.com/r/Kotlin/comments/qqac0n/the_beginners_guide_to_kotlin_coroutine_internals/)
 - [K2 Compiler, Kotlin/Wasm, and Tooling Announcements at the 2021 Kotlin Event](https://www.reddit.com/r/Kotlin/comments/qq9r2v/k2_compiler_kotlinwasm_and_tooling_announcements/)
 - [Kotlin library to build Elasticsearch queries](https://www.reddit.com/r/Kotlin/comments/qq5lw0/kotlin_library_to_build_elasticsearch_queries/)
-- [Check out the most interesting developments around Kotlin in October 2021! This episode is dedicated to the Kotlin 2021 Premier Online Event, the new Kotlin Mascot, K2 Compiler, Multik Library, Kotlin Multiplatform Survey and Kotlin Multiplatform Libraries.](https://www.reddit.com/r/Kotlin/comments/qpzp8p/check_out_the_most_interesting_developments/)
-- [Are there career options for someone like me?](https://www.reddit.com/r/Kotlin/comments/qpmqj1/are_there_career_options_for_someone_like_me/)
-- [kotlin works in jdk 17?](https://www.reddit.com/r/Kotlin/comments/qpgs4h/kotlin_works_in_jdk_17/)
-- [Program to plan studies in University](https://www.reddit.com/r/Kotlin/comments/qp9lzd/program_to_plan_studies_in_university/)
-- [I’m new to coding and feeling a bit overwhelmed](https://www.reddit.com/r/Kotlin/comments/qp3mrj/im_new_to_coding_and_feeling_a_bit_overwhelmed/)
-- [kotlin Cross Platform Questions](https://www.reddit.com/r/Kotlin/comments/qp2fnk/kotlin_cross_platform_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
