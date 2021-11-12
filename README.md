@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Seven Highlights from the Kotlin Roadmap Autumn 2021](https://www.reddit.com/r/Kotlin/comments/qrq0ps/seven_highlights_from_the_kotlin_roadmap_autumn/)
+- [Kotlin 1.6 is right around the corner – but what has to happen for a new version of Kotlin to be released? Marina Shishkina, Release and Automation Team Lead for Kotlin, tells us about processes, challenges, the library train and more! 🚂 Check it out!](https://www.reddit.com/r/Kotlin/comments/qrnf5d/kotlin_16_is_right_around_the_corner_but_what_has/)
+- [Gilded Rose TDD Part 2](https://www.reddit.com/r/Kotlin/comments/qrjmdh/gilded_rose_tdd_part_2/)
+- [Esito: Esito ambition is to be your return type for suspending functions](https://www.reddit.com/r/Kotlin/comments/qrirq2/esito_esito_ambition_is_to_be_your_return_type/)
+- [How we built Localazy CLI with Kotlin MPP and Github Actions](https://www.reddit.com/r/Kotlin/comments/qrhztr/how_we_built_localazy_cli_with_kotlin_mpp_and/)
+- [Hey Kotlin Developers, In this video I talk about Scope Functions, their differences with some samples, and how to pick the best one for every use case.](https://www.reddit.com/r/Kotlin/comments/qrfh79/hey_kotlin_developers_in_this_video_i_talk_about/)
+- [We all know how difficult it is to deal with exceptions in coroutines. So, this article will help you learn how to handle exceptions in Kotlin coroutines.](https://www.reddit.com/r/Kotlin/comments/qrd6fo/we_all_know_how_difficult_it_is_to_deal_with/)
 - [Gradle JVM Toolchain Support in the Kotlin Plugin](https://www.reddit.com/r/Kotlin/comments/qqz4cq/gradle_jvm_toolchain_support_in_the_kotlin_plugin/)
 - [5 Kotlin Questions with Sebastian Aigner &lpar;Developer Advocate for Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/qqybqf/5_kotlin_questions_with_sebastian_aigner/)
 - [Thoughts aloud about Exposed](https://www.reddit.com/r/Kotlin/comments/qqp87z/thoughts_aloud_about_exposed/)
-- [Diktat: Yet another Kotlin Linter &lpar;with autofixers and hundred of inspections&rpar;!](https://www.reddit.com/r/Kotlin/comments/qqoj45/diktat_yet_another_kotlin_linter_with_autofixers/)
-- [What Kotlin could learn from Rust](https://www.reddit.com/r/Kotlin/comments/qqljuc/what_kotlin_could_learn_from_rust/)
-- [What are your favourite Kotlin blogs or channels?](https://www.reddit.com/r/Kotlin/comments/qqj2gw/what_are_your_favourite_kotlin_blogs_or_channels/)
-- [.contains working but .equals not?](https://www.reddit.com/r/Kotlin/comments/qqcul3/contains_working_but_equals_not/)
-- [The Beginner’s Guide to Kotlin Coroutine Internals](https://www.reddit.com/r/Kotlin/comments/qqac0n/the_beginners_guide_to_kotlin_coroutine_internals/)
-- [K2 Compiler, Kotlin/Wasm, and Tooling Announcements at the 2021 Kotlin Event](https://www.reddit.com/r/Kotlin/comments/qq9r2v/k2_compiler_kotlinwasm_and_tooling_announcements/)
-- [Kotlin library to build Elasticsearch queries](https://www.reddit.com/r/Kotlin/comments/qq5lw0/kotlin_library_to_build_elasticsearch_queries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
