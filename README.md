@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you add 3 integers together in kotlin?](https://www.reddit.com/r/Kotlin/comments/qsgcqe/how_do_you_add_3_integers_together_in_kotlin/)
+- [Sorry Kotlin](https://www.reddit.com/r/Kotlin/comments/qsc1x8/sorry_kotlin/)
 - [Seven Highlights from the Kotlin Roadmap Autumn 2021](https://www.reddit.com/r/Kotlin/comments/qrq0ps/seven_highlights_from_the_kotlin_roadmap_autumn/)
 - [Kotlin 1.6 is right around the corner – but what has to happen for a new version of Kotlin to be released? Marina Shishkina, Release and Automation Team Lead for Kotlin, tells us about processes, challenges, the library train and more! 🚂 Check it out!](https://www.reddit.com/r/Kotlin/comments/qrnf5d/kotlin_16_is_right_around_the_corner_but_what_has/)
 - [Gilded Rose TDD Part 2](https://www.reddit.com/r/Kotlin/comments/qrjmdh/gilded_rose_tdd_part_2/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Hey Kotlin Developers, In this video I talk about Scope Functions, their differences with some samples, and how to pick the best one for every use case.](https://www.reddit.com/r/Kotlin/comments/qrfh79/hey_kotlin_developers_in_this_video_i_talk_about/)
 - [We all know how difficult it is to deal with exceptions in coroutines. So, this article will help you learn how to handle exceptions in Kotlin coroutines.](https://www.reddit.com/r/Kotlin/comments/qrd6fo/we_all_know_how_difficult_it_is_to_deal_with/)
 - [Gradle JVM Toolchain Support in the Kotlin Plugin](https://www.reddit.com/r/Kotlin/comments/qqz4cq/gradle_jvm_toolchain_support_in_the_kotlin_plugin/)
-- [5 Kotlin Questions with Sebastian Aigner &lpar;Developer Advocate for Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/qqybqf/5_kotlin_questions_with_sebastian_aigner/)
-- [Thoughts aloud about Exposed](https://www.reddit.com/r/Kotlin/comments/qqp87z/thoughts_aloud_about_exposed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
