@@ -272,8 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you add 3 integers together in kotlin?](https://www.reddit.com/r/Kotlin/comments/qsgcqe/how_do_you_add_3_integers_together_in_kotlin/)
-- [Sorry Kotlin](https://www.reddit.com/r/Kotlin/comments/qsc1x8/sorry_kotlin/)
+- [How to suppress experimental feature warnings](https://www.reddit.com/r/Kotlin/comments/qsy9x5/how_to_suppress_experimental_feature_warnings/)
+- [Kotlin Vs. Java: Which One Should You Opt For Android App Development?](https://www.reddit.com/r/Kotlin/comments/qsu54h/kotlin_vs_java_which_one_should_you_opt_for/)
 - [Seven Highlights from the Kotlin Roadmap Autumn 2021](https://www.reddit.com/r/Kotlin/comments/qrq0ps/seven_highlights_from_the_kotlin_roadmap_autumn/)
 - [Kotlin 1.6 is right around the corner – but what has to happen for a new version of Kotlin to be released? Marina Shishkina, Release and Automation Team Lead for Kotlin, tells us about processes, challenges, the library train and more! 🚂 Check it out!](https://www.reddit.com/r/Kotlin/comments/qrnf5d/kotlin_16_is_right_around_the_corner_but_what_has/)
 - [Gilded Rose TDD Part 2](https://www.reddit.com/r/Kotlin/comments/qrjmdh/gilded_rose_tdd_part_2/)
