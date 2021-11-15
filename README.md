@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is wrong here?](https://www.reddit.com/r/Kotlin/comments/qu2p46/what_is_wrong_here/)
+- [Native-image with Spring Boot](https://www.reddit.com/r/Kotlin/comments/qttq1z/nativeimage_with_spring_boot/)
+- [Help. I am making a Simple Calculator and need help adding the operators &quot;%&quot; &quot;//&quot; &quot;**&quot; To the code below.](https://www.reddit.com/r/Kotlin/comments/qtscyg/help_i_am_making_a_simple_calculator_and_need/)
+- [I need help DONT give me the answer just a hint plz :&gt;](https://www.reddit.com/r/Kotlin/comments/qtpios/i_need_help_dont_give_me_the_answer_just_a_hint/)
 - [How to suppress experimental feature warnings](https://www.reddit.com/r/Kotlin/comments/qsy9x5/how_to_suppress_experimental_feature_warnings/)
 - [Kotlin Vs. Java: Which One Should You Opt For Android App Development?](https://www.reddit.com/r/Kotlin/comments/qsu54h/kotlin_vs_java_which_one_should_you_opt_for/)
 - [Seven Highlights from the Kotlin Roadmap Autumn 2021](https://www.reddit.com/r/Kotlin/comments/qrq0ps/seven_highlights_from_the_kotlin_roadmap_autumn/)
 - [Kotlin 1.6 is right around the corner – but what has to happen for a new version of Kotlin to be released? Marina Shishkina, Release and Automation Team Lead for Kotlin, tells us about processes, challenges, the library train and more! 🚂 Check it out!](https://www.reddit.com/r/Kotlin/comments/qrnf5d/kotlin_16_is_right_around_the_corner_but_what_has/)
 - [Gilded Rose TDD Part 2](https://www.reddit.com/r/Kotlin/comments/qrjmdh/gilded_rose_tdd_part_2/)
 - [Esito: Esito ambition is to be your return type for suspending functions](https://www.reddit.com/r/Kotlin/comments/qrirq2/esito_esito_ambition_is_to_be_your_return_type/)
-- [How we built Localazy CLI with Kotlin MPP and Github Actions](https://www.reddit.com/r/Kotlin/comments/qrhztr/how_we_built_localazy_cli_with_kotlin_mpp_and/)
-- [Hey Kotlin Developers, In this video I talk about Scope Functions, their differences with some samples, and how to pick the best one for every use case.](https://www.reddit.com/r/Kotlin/comments/qrfh79/hey_kotlin_developers_in_this_video_i_talk_about/)
-- [We all know how difficult it is to deal with exceptions in coroutines. So, this article will help you learn how to handle exceptions in Kotlin coroutines.](https://www.reddit.com/r/Kotlin/comments/qrd6fo/we_all_know_how_difficult_it_is_to_deal_with/)
-- [Gradle JVM Toolchain Support in the Kotlin Plugin](https://www.reddit.com/r/Kotlin/comments/qqz4cq/gradle_jvm_toolchain_support_in_the_kotlin_plugin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
