@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s new in Kotlin 1.6.0](https://www.reddit.com/r/Kotlin/comments/qvdejc/whats_new_in_kotlin_160/)
+- [Kotlin 1.6.0 has been released 🚀](https://www.reddit.com/r/Kotlin/comments/qvafh6/kotlin_160_has_been_released/)
+- [Kotlin 1.6.0 Released](https://www.reddit.com/r/Kotlin/comments/qv9d20/kotlin_160_released/)
+- [Kotlin Enum Classes](https://www.reddit.com/r/Kotlin/comments/qv5elv/kotlin_enum_classes/)
+- [What are some &quot;famous&quot; apps that are made with Kotlin?](https://www.reddit.com/r/Kotlin/comments/qv0n5i/what_are_some_famous_apps_that_are_made_with/)
 - [Kotlin 1.6.0 has been released!](https://www.reddit.com/r/Kotlin/comments/qusk46/kotlin_160_has_been_released/)
 - [Interesting Kotlin topics for a Talk](https://www.reddit.com/r/Kotlin/comments/quscas/interesting_kotlin_topics_for_a_talk/)
 - [Detect Proactively Whether Application’s Memory is Under-allocated](https://www.reddit.com/r/Kotlin/comments/qucwu7/detect_proactively_whether_applications_memory_is/)
 - [Ktor websocket ping/pong payload edit](https://www.reddit.com/r/Kotlin/comments/qubsgm/ktor_websocket_pingpong_payload_edit/)
 - [File&lpar;Image&rpar; upload with spring boot example](https://www.reddit.com/r/Kotlin/comments/qu8xrh/fileimage_upload_with_spring_boot_example/)
-- [What is wrong here?](https://www.reddit.com/r/Kotlin/comments/qu2p46/what_is_wrong_here/)
-- [Native-image with Spring Boot](https://www.reddit.com/r/Kotlin/comments/qttq1z/nativeimage_with_spring_boot/)
-- [Help. I am making a Simple Calculator and need help adding the operators &quot;%&quot; &quot;//&quot; &quot;**&quot; To the code below.](https://www.reddit.com/r/Kotlin/comments/qtscyg/help_i_am_making_a_simple_calculator_and_need/)
-- [I need help DONT give me the answer just a hint plz :&gt;](https://www.reddit.com/r/Kotlin/comments/qtpios/i_need_help_dont_give_me_the_answer_just_a_hint/)
-- [How to suppress experimental feature warnings](https://www.reddit.com/r/Kotlin/comments/qsy9x5/how_to_suppress_experimental_feature_warnings/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
