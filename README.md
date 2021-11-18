@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Higher-order functions - class instance variable references to functions and input parameters at run-time ?](https://www.reddit.com/r/Kotlin/comments/qw9eo0/kotlin_higherorder_functions_class_instance/)
+- [Bottom Sheet button](https://www.reddit.com/r/Kotlin/comments/qw95s8/bottom_sheet_button/)
+- [Optimising CI build times of a Kotlin Multiplatform project](https://www.reddit.com/r/Kotlin/comments/qw4dag/optimising_ci_build_times_of_a_kotlin/)
+- [Kotlin compatibility QuickSheet](https://www.reddit.com/r/Kotlin/comments/qw3p5i/kotlin_compatibility_quicksheet/)
+- [Kotlin Standard Library Changes in 1.6](https://www.reddit.com/r/Kotlin/comments/qvxice/kotlin_standard_library_changes_in_16/)
+- [Coroutines, Distributed Cache, Resilience, and Replication in Kotlin — Making a VMA’s application](https://www.reddit.com/r/Kotlin/comments/qvuk2c/coroutines_distributed_cache_resilience_and/)
+- [Variables point to objects](https://www.reddit.com/r/Kotlin/comments/qvu29c/variables_point_to_objects/)
+- [50+ Free Kotlin, Flutter, Firebase and other Android App Development Books](https://www.reddit.com/r/Kotlin/comments/qvt163/50_free_kotlin_flutter_firebase_and_other_android/)
 - [What&#39;s new in Kotlin 1.6.0](https://www.reddit.com/r/Kotlin/comments/qvdejc/whats_new_in_kotlin_160/)
 - [Kotlin 1.6.0 has been released 🚀](https://www.reddit.com/r/Kotlin/comments/qvafh6/kotlin_160_has_been_released/)
-- [Kotlin 1.6.0 Released](https://www.reddit.com/r/Kotlin/comments/qv9d20/kotlin_160_released/)
-- [Kotlin Enum Classes](https://www.reddit.com/r/Kotlin/comments/qv5elv/kotlin_enum_classes/)
-- [What are some &quot;famous&quot; apps that are made with Kotlin?](https://www.reddit.com/r/Kotlin/comments/qv0n5i/what_are_some_famous_apps_that_are_made_with/)
-- [Kotlin 1.6.0 has been released!](https://www.reddit.com/r/Kotlin/comments/qusk46/kotlin_160_has_been_released/)
-- [Interesting Kotlin topics for a Talk](https://www.reddit.com/r/Kotlin/comments/quscas/interesting_kotlin_topics_for_a_talk/)
-- [Detect Proactively Whether Application’s Memory is Under-allocated](https://www.reddit.com/r/Kotlin/comments/qucwu7/detect_proactively_whether_applications_memory_is/)
-- [Ktor websocket ping/pong payload edit](https://www.reddit.com/r/Kotlin/comments/qubsgm/ktor_websocket_pingpong_payload_edit/)
-- [File&lpar;Image&rpar; upload with spring boot example](https://www.reddit.com/r/Kotlin/comments/qu8xrh/fileimage_upload_with_spring_boot_example/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
