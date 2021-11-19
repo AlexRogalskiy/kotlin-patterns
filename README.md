@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/qx36j9/learning_kotlin/)
+- [Opinion on Micronaut, Javalin and Sprint](https://www.reddit.com/r/Kotlin/comments/qwv660/opinion_on_micronaut_javalin_and_sprint/)
+- [How can I put a property as readonly &lpar;val&rpar; if I must construct the list before?](https://www.reddit.com/r/Kotlin/comments/qwpakp/how_can_i_put_a_property_as_readonly_val_if_i/)
+- [With Kotlin 1.6, the standard library gets more love! Join Sebastian and learn about the newly stabilized features included in this latest release: collection builders, durations, bit-level rotate operations, the typeOf function for reified generics, and more.](https://www.reddit.com/r/Kotlin/comments/qwodek/with_kotlin_16_the_standard_library_gets_more/)
 - [Kotlin Higher-order functions - class instance variable references to functions and input parameters at run-time ?](https://www.reddit.com/r/Kotlin/comments/qw9eo0/kotlin_higherorder_functions_class_instance/)
 - [Bottom Sheet button](https://www.reddit.com/r/Kotlin/comments/qw95s8/bottom_sheet_button/)
 - [Optimising CI build times of a Kotlin Multiplatform project](https://www.reddit.com/r/Kotlin/comments/qw4dag/optimising_ci_build_times_of_a_kotlin/)
 - [Kotlin compatibility QuickSheet](https://www.reddit.com/r/Kotlin/comments/qw3p5i/kotlin_compatibility_quicksheet/)
 - [Kotlin Standard Library Changes in 1.6](https://www.reddit.com/r/Kotlin/comments/qvxice/kotlin_standard_library_changes_in_16/)
 - [Coroutines, Distributed Cache, Resilience, and Replication in Kotlin — Making a VMA’s application](https://www.reddit.com/r/Kotlin/comments/qvuk2c/coroutines_distributed_cache_resilience_and/)
-- [Variables point to objects](https://www.reddit.com/r/Kotlin/comments/qvu29c/variables_point_to_objects/)
-- [50+ Free Kotlin, Flutter, Firebase and other Android App Development Books](https://www.reddit.com/r/Kotlin/comments/qvt163/50_free_kotlin_flutter_firebase_and_other_android/)
-- [What&#39;s new in Kotlin 1.6.0](https://www.reddit.com/r/Kotlin/comments/qvdejc/whats_new_in_kotlin_160/)
-- [Kotlin 1.6.0 has been released 🚀](https://www.reddit.com/r/Kotlin/comments/qvafh6/kotlin_160_has_been_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
