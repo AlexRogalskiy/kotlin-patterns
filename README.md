@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can you get a job by knowing only kotlin... ?](https://www.reddit.com/r/Kotlin/comments/qxufdx/can_you_get_a_job_by_knowing_only_kotlin/)
+- [Android CodeView: Create a code editor with Snippets](https://www.reddit.com/r/Kotlin/comments/qxiojl/android_codeview_create_a_code_editor_with/)
+- [Problem: exhausting when statement with sealed interface and generics](https://www.reddit.com/r/Kotlin/comments/qxhjvh/problem_exhausting_when_statement_with_sealed/)
+- [Here is an article about my DI library for Kotlin Mutliplatform](https://www.reddit.com/r/Kotlin/comments/qxdy5x/here_is_an_article_about_my_di_library_for_kotlin/)
 - [Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/qx36j9/learning_kotlin/)
 - [Opinion on Micronaut, Javalin and Sprint](https://www.reddit.com/r/Kotlin/comments/qwv660/opinion_on_micronaut_javalin_and_sprint/)
 - [How can I put a property as readonly &lpar;val&rpar; if I must construct the list before?](https://www.reddit.com/r/Kotlin/comments/qwpakp/how_can_i_put_a_property_as_readonly_val_if_i/)
 - [With Kotlin 1.6, the standard library gets more love! Join Sebastian and learn about the newly stabilized features included in this latest release: collection builders, durations, bit-level rotate operations, the typeOf function for reified generics, and more.](https://www.reddit.com/r/Kotlin/comments/qwodek/with_kotlin_16_the_standard_library_gets_more/)
 - [Kotlin Higher-order functions - class instance variable references to functions and input parameters at run-time ?](https://www.reddit.com/r/Kotlin/comments/qw9eo0/kotlin_higherorder_functions_class_instance/)
 - [Bottom Sheet button](https://www.reddit.com/r/Kotlin/comments/qw95s8/bottom_sheet_button/)
-- [Optimising CI build times of a Kotlin Multiplatform project](https://www.reddit.com/r/Kotlin/comments/qw4dag/optimising_ci_build_times_of_a_kotlin/)
-- [Kotlin compatibility QuickSheet](https://www.reddit.com/r/Kotlin/comments/qw3p5i/kotlin_compatibility_quicksheet/)
-- [Kotlin Standard Library Changes in 1.6](https://www.reddit.com/r/Kotlin/comments/qvxice/kotlin_standard_library_changes_in_16/)
-- [Coroutines, Distributed Cache, Resilience, and Replication in Kotlin — Making a VMA’s application](https://www.reddit.com/r/Kotlin/comments/qvuk2c/coroutines_distributed_cache_resilience_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
