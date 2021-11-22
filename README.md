@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GRPC in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/qz7a5a/grpc_in_kotlin_multiplatform/)
+- [Kotlin Native — Using Swift, not Objective-C](https://www.reddit.com/r/Kotlin/comments/qz3ht1/kotlin_native_using_swift_not_objectivec/)
+- [Native-image with Micronaut](https://www.reddit.com/r/Kotlin/comments/qyyprj/nativeimage_with_micronaut/)
+- [/Kotlin Subdirect Statistics](https://www.reddit.com/r/Kotlin/comments/qyozx2/kotlin_subdirect_statistics/)
+- [Is there any report generation library like Jasper report for Kotlin?](https://www.reddit.com/r/Kotlin/comments/qynkoq/is_there_any_report_generation_library_like/)
+- [Which Skills to have for Kotlin jobs](https://www.reddit.com/r/Kotlin/comments/qylsoq/which_skills_to_have_for_kotlin_jobs/)
 - [Can somenone tell me how do i get a simple image/video popup like this](https://www.reddit.com/r/Kotlin/comments/qyfxl6/can_somenone_tell_me_how_do_i_get_a_simple/)
 - [Can I build modern Windows Apps using Kotlin?](https://www.reddit.com/r/Kotlin/comments/qy9myq/can_i_build_modern_windows_apps_using_kotlin/)
 - [Can you get a job by knowing only kotlin... ?](https://www.reddit.com/r/Kotlin/comments/qxufdx/can_you_get_a_job_by_knowing_only_kotlin/)
 - [Android CodeView: Create a code editor with Snippets](https://www.reddit.com/r/Kotlin/comments/qxiojl/android_codeview_create_a_code_editor_with/)
-- [Problem: exhausting when statement with sealed interface and generics](https://www.reddit.com/r/Kotlin/comments/qxhjvh/problem_exhausting_when_statement_with_sealed/)
-- [Here is an article about my DI library for Kotlin Mutliplatform](https://www.reddit.com/r/Kotlin/comments/qxdy5x/here_is_an_article_about_my_di_library_for_kotlin/)
-- [Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/qx36j9/learning_kotlin/)
-- [Opinion on Micronaut, Javalin and Sprint](https://www.reddit.com/r/Kotlin/comments/qwv660/opinion_on_micronaut_javalin_and_sprint/)
-- [How can I put a property as readonly &lpar;val&rpar; if I must construct the list before?](https://www.reddit.com/r/Kotlin/comments/qwpakp/how_can_i_put_a_property_as_readonly_val_if_i/)
-- [With Kotlin 1.6, the standard library gets more love! Join Sebastian and learn about the newly stabilized features included in this latest release: collection builders, durations, bit-level rotate operations, the typeOf function for reified generics, and more.](https://www.reddit.com/r/Kotlin/comments/qwodek/with_kotlin_16_the_standard_library_gets_more/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
