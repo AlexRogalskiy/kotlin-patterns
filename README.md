@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Questions about kotlin/native](https://www.reddit.com/r/Kotlin/comments/qzq1id/questions_about_kotlinnative/)
+- [A Comparison for Android App Development: Kotlin vs Groovy](https://www.reddit.com/r/Kotlin/comments/qzpso6/a_comparison_for_android_app_development_kotlin/)
+- [Doodle Makes Forms Easy](https://www.reddit.com/r/Kotlin/comments/qzp1mx/doodle_makes_forms_easy/)
+- [CS1 in Kotlin](https://www.reddit.com/r/Kotlin/comments/qzmz8n/cs1_in_kotlin/)
+- [We&#39;ve updated the #Kotlin #public #roadmap to reflect our plans for Kotlin 1.7 and beyond! In this video we will talk about the seven exciting highlights from this update!](https://www.reddit.com/r/Kotlin/comments/qzmm6f/weve_updated_the_kotlin_public_roadmap_to_reflect/)
+- [IOS app entirely using Kotlin](https://www.reddit.com/r/Kotlin/comments/qzl66g/ios_app_entirely_using_kotlin/)
+- [Which Back-End Technologies We Use For Creating Online-Based Apps](https://www.reddit.com/r/Kotlin/comments/qzj1w5/which_backend_technologies_we_use_for_creating/)
+- [Best courses for Kotlin](https://www.reddit.com/r/Kotlin/comments/qzinuj/best_courses_for_kotlin/)
 - [GRPC in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/qz7a5a/grpc_in_kotlin_multiplatform/)
 - [Kotlin Native — Using Swift, not Objective-C](https://www.reddit.com/r/Kotlin/comments/qz3ht1/kotlin_native_using_swift_not_objectivec/)
-- [Native-image with Micronaut](https://www.reddit.com/r/Kotlin/comments/qyyprj/nativeimage_with_micronaut/)
-- [/Kotlin Subdirect Statistics](https://www.reddit.com/r/Kotlin/comments/qyozx2/kotlin_subdirect_statistics/)
-- [Is there any report generation library like Jasper report for Kotlin?](https://www.reddit.com/r/Kotlin/comments/qynkoq/is_there_any_report_generation_library_like/)
-- [Which Skills to have for Kotlin jobs](https://www.reddit.com/r/Kotlin/comments/qylsoq/which_skills_to_have_for_kotlin_jobs/)
-- [Can somenone tell me how do i get a simple image/video popup like this](https://www.reddit.com/r/Kotlin/comments/qyfxl6/can_somenone_tell_me_how_do_i_get_a_simple/)
-- [Can I build modern Windows Apps using Kotlin?](https://www.reddit.com/r/Kotlin/comments/qy9myq/can_i_build_modern_windows_apps_using_kotlin/)
-- [Can you get a job by knowing only kotlin... ?](https://www.reddit.com/r/Kotlin/comments/qxufdx/can_you_get_a_job_by_knowing_only_kotlin/)
-- [Android CodeView: Create a code editor with Snippets](https://www.reddit.com/r/Kotlin/comments/qxiojl/android_codeview_create_a_code_editor_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
