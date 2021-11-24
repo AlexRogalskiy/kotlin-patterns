@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Kotlin future-proof?](https://www.reddit.com/r/Kotlin/comments/r0g2ju/is_kotlin_futureproof/)
+- [Is Firebase Enough For Big Projects?](https://www.reddit.com/r/Kotlin/comments/r0enyu/is_firebase_enough_for_big_projects/)
+- [is coroutine suitable for background services?](https://www.reddit.com/r/Kotlin/comments/r0azco/is_coroutine_suitable_for_background_services/)
+- [Kotlin Data Classes](https://www.reddit.com/r/Kotlin/comments/r078ba/kotlin_data_classes/)
 - [Questions about kotlin/native](https://www.reddit.com/r/Kotlin/comments/qzq1id/questions_about_kotlinnative/)
 - [A Comparison for Android App Development: Kotlin vs Groovy](https://www.reddit.com/r/Kotlin/comments/qzpso6/a_comparison_for_android_app_development_kotlin/)
 - [Doodle Makes Forms Easy](https://www.reddit.com/r/Kotlin/comments/qzp1mx/doodle_makes_forms_easy/)
 - [CS1 in Kotlin](https://www.reddit.com/r/Kotlin/comments/qzmz8n/cs1_in_kotlin/)
 - [We&#39;ve updated the #Kotlin #public #roadmap to reflect our plans for Kotlin 1.7 and beyond! In this video we will talk about the seven exciting highlights from this update!](https://www.reddit.com/r/Kotlin/comments/qzmm6f/weve_updated_the_kotlin_public_roadmap_to_reflect/)
 - [IOS app entirely using Kotlin](https://www.reddit.com/r/Kotlin/comments/qzl66g/ios_app_entirely_using_kotlin/)
-- [Which Back-End Technologies We Use For Creating Online-Based Apps](https://www.reddit.com/r/Kotlin/comments/qzj1w5/which_backend_technologies_we_use_for_creating/)
-- [Best courses for Kotlin](https://www.reddit.com/r/Kotlin/comments/qzinuj/best_courses_for_kotlin/)
-- [GRPC in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/qz7a5a/grpc_in_kotlin_multiplatform/)
-- [Kotlin Native — Using Swift, not Objective-C](https://www.reddit.com/r/Kotlin/comments/qz3ht1/kotlin_native_using_swift_not_objectivec/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
