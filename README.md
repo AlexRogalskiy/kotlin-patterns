@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/Kotlin/comments/r166ih/documenting_a_grpc_api_tools_comparison/)
+- [How&#39;s the situation in the Kotlin job market?](https://www.reddit.com/r/Kotlin/comments/r12op7/hows_the_situation_in_the_kotlin_job_market/)
 - [Is Kotlin future-proof?](https://www.reddit.com/r/Kotlin/comments/r0g2ju/is_kotlin_futureproof/)
 - [Is Firebase Enough For Big Projects?](https://www.reddit.com/r/Kotlin/comments/r0enyu/is_firebase_enough_for_big_projects/)
 - [is coroutine suitable for background services?](https://www.reddit.com/r/Kotlin/comments/r0azco/is_coroutine_suitable_for_background_services/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [A Comparison for Android App Development: Kotlin vs Groovy](https://www.reddit.com/r/Kotlin/comments/qzpso6/a_comparison_for_android_app_development_kotlin/)
 - [Doodle Makes Forms Easy](https://www.reddit.com/r/Kotlin/comments/qzp1mx/doodle_makes_forms_easy/)
 - [CS1 in Kotlin](https://www.reddit.com/r/Kotlin/comments/qzmz8n/cs1_in_kotlin/)
-- [We&#39;ve updated the #Kotlin #public #roadmap to reflect our plans for Kotlin 1.7 and beyond! In this video we will talk about the seven exciting highlights from this update!](https://www.reddit.com/r/Kotlin/comments/qzmm6f/weve_updated_the_kotlin_public_roadmap_to_reflect/)
-- [IOS app entirely using Kotlin](https://www.reddit.com/r/Kotlin/comments/qzl66g/ios_app_entirely_using_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
