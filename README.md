@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Desktop themes for compose](https://www.reddit.com/r/Kotlin/comments/r2zqc0/desktop_themes_for_compose/)
+- [Kotlin list transformations](https://www.reddit.com/r/Kotlin/comments/r2x0rj/kotlin_list_transformations/)
+- [Help with firestore](https://www.reddit.com/r/Kotlin/comments/r2v60j/help_with_firestore/)
+- [Android: Regex Named Groups and Backreferences](https://www.reddit.com/r/Kotlin/comments/r2melr/android_regex_named_groups_and_backreferences/)
+- [How to play animation on all lazy list items, even if their position is offscreen? &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/r2h6gm/how_to_play_animation_on_all_lazy_list_items_even/)
 - [The power of Kotlin // Beyond Coding Podcast #28 - Patrick Akil with Paulien van Alst and Urs Peter](https://www.reddit.com/r/Kotlin/comments/r257vz/the_power_of_kotlin_beyond_coding_podcast_28/)
 - [I really enjoy the &quot;scope&quot; pattern that Kotlin uses. Where to learn more?](https://www.reddit.com/r/Kotlin/comments/r23nza/i_really_enjoy_the_scope_pattern_that_kotlin_uses/)
 - [Database help](https://www.reddit.com/r/Kotlin/comments/r21e3t/database_help/)
 - [I finished my codecademy course - how can I learn more Kotlin now? &lpar;above beginners, below experts&rpar;](https://www.reddit.com/r/Kotlin/comments/r1vc80/i_finished_my_codecademy_course_how_can_i_learn/)
-- [Kotlin Coroutines - Exception Handling and Cancellation - Howtodoandroid](https://www.reddit.com/r/Kotlin/comments/r1od6o/kotlin_coroutines_exception_handling_and/)
 - [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/Kotlin/comments/r166ih/documenting_a_grpc_api_tools_comparison/)
-- [How&#39;s the situation in the Kotlin job market?](https://www.reddit.com/r/Kotlin/comments/r12op7/hows_the_situation_in_the_kotlin_job_market/)
-- [Is Kotlin future-proof?](https://www.reddit.com/r/Kotlin/comments/r0g2ju/is_kotlin_futureproof/)
-- [Is Firebase Enough For Big Projects?](https://www.reddit.com/r/Kotlin/comments/r0enyu/is_firebase_enough_for_big_projects/)
-- [is coroutine suitable for background services?](https://www.reddit.com/r/Kotlin/comments/r0azco/is_coroutine_suitable_for_background_services/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
