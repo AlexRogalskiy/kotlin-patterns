@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a rich text implementation in desktop compose?](https://www.reddit.com/r/Kotlin/comments/r3i9be/is_there_a_rich_text_implementation_in_desktop/)
+- [Is it good to start learning from clean architecture ?](https://www.reddit.com/r/Kotlin/comments/r3b2fc/is_it_good_to_start_learning_from_clean/)
+- [multidimensional arrays](https://www.reddit.com/r/Kotlin/comments/r36582/multidimensional_arrays/)
 - [Desktop themes for compose](https://www.reddit.com/r/Kotlin/comments/r2zqc0/desktop_themes_for_compose/)
 - [Kotlin list transformations](https://www.reddit.com/r/Kotlin/comments/r2x0rj/kotlin_list_transformations/)
 - [Help with firestore](https://www.reddit.com/r/Kotlin/comments/r2v60j/help_with_firestore/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to play animation on all lazy list items, even if their position is offscreen? &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/r2h6gm/how_to_play_animation_on_all_lazy_list_items_even/)
 - [The power of Kotlin // Beyond Coding Podcast #28 - Patrick Akil with Paulien van Alst and Urs Peter](https://www.reddit.com/r/Kotlin/comments/r257vz/the_power_of_kotlin_beyond_coding_podcast_28/)
 - [I really enjoy the &quot;scope&quot; pattern that Kotlin uses. Where to learn more?](https://www.reddit.com/r/Kotlin/comments/r23nza/i_really_enjoy_the_scope_pattern_that_kotlin_uses/)
-- [Database help](https://www.reddit.com/r/Kotlin/comments/r21e3t/database_help/)
-- [I finished my codecademy course - how can I learn more Kotlin now? &lpar;above beginners, below experts&rpar;](https://www.reddit.com/r/Kotlin/comments/r1vc80/i_finished_my_codecademy_course_how_can_i_learn/)
-- [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/Kotlin/comments/r166ih/documenting_a_grpc_api_tools_comparison/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
