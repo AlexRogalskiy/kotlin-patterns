@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing Polyglot, a desktop Compose app that outputs localized Android &amp; iOS Strings, Plurals, and Arrays. Featuring import, export, dark theme, automatic translation with Google Translate, and more](https://www.reddit.com/r/Kotlin/comments/r4b06a/introducing_polyglot_a_desktop_compose_app_that/)
+- [How can I populate a spinner with id and value from SQLite database?](https://www.reddit.com/r/Kotlin/comments/r4algg/how_can_i_populate_a_spinner_with_id_and_value/)
+- [I&#39;ve blogged about whether you should switch from Java to Kotlin](https://www.reddit.com/r/Kotlin/comments/r46png/ive_blogged_about_whether_you_should_switch_from/)
+- [noob help with room database in android](https://www.reddit.com/r/Kotlin/comments/r407if/noob_help_with_room_database_in_android/)
 - [Is there a rich text implementation in desktop compose?](https://www.reddit.com/r/Kotlin/comments/r3i9be/is_there_a_rich_text_implementation_in_desktop/)
 - [Is it good to start learning from clean architecture ?](https://www.reddit.com/r/Kotlin/comments/r3b2fc/is_it_good_to_start_learning_from_clean/)
 - [multidimensional arrays](https://www.reddit.com/r/Kotlin/comments/r36582/multidimensional_arrays/)
 - [Desktop themes for compose](https://www.reddit.com/r/Kotlin/comments/r2zqc0/desktop_themes_for_compose/)
 - [Kotlin list transformations](https://www.reddit.com/r/Kotlin/comments/r2x0rj/kotlin_list_transformations/)
 - [Help with firestore](https://www.reddit.com/r/Kotlin/comments/r2v60j/help_with_firestore/)
-- [Android: Regex Named Groups and Backreferences](https://www.reddit.com/r/Kotlin/comments/r2melr/android_regex_named_groups_and_backreferences/)
-- [How to play animation on all lazy list items, even if their position is offscreen? &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/r2h6gm/how_to_play_animation_on_all_lazy_list_items_even/)
-- [The power of Kotlin // Beyond Coding Podcast #28 - Patrick Akil with Paulien van Alst and Urs Peter](https://www.reddit.com/r/Kotlin/comments/r257vz/the_power_of_kotlin_beyond_coding_podcast_28/)
-- [I really enjoy the &quot;scope&quot; pattern that Kotlin uses. Where to learn more?](https://www.reddit.com/r/Kotlin/comments/r23nza/i_really_enjoy_the_scope_pattern_that_kotlin_uses/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
