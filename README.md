@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Introducing Polyglot, a desktop Compose app that outputs localized Android &amp; iOS Strings, Plurals, and Arrays. Featuring import, export, dark theme, automatic translation with Google Translate, and more](https://www.reddit.com/r/Kotlin/comments/r4b06a/introducing_polyglot_a_desktop_compose_app_that/)
-- [How can I populate a spinner with id and value from SQLite database?](https://www.reddit.com/r/Kotlin/comments/r4algg/how_can_i_populate_a_spinner_with_id_and_value/)
-- [I&#39;ve blogged about whether you should switch from Java to Kotlin](https://www.reddit.com/r/Kotlin/comments/r46png/ive_blogged_about_whether_you_should_switch_from/)
-- [noob help with room database in android](https://www.reddit.com/r/Kotlin/comments/r407if/noob_help_with_room_database_in_android/)
-- [Is there a rich text implementation in desktop compose?](https://www.reddit.com/r/Kotlin/comments/r3i9be/is_there_a_rich_text_implementation_in_desktop/)
-- [Is it good to start learning from clean architecture ?](https://www.reddit.com/r/Kotlin/comments/r3b2fc/is_it_good_to_start_learning_from_clean/)
-- [multidimensional arrays](https://www.reddit.com/r/Kotlin/comments/r36582/multidimensional_arrays/)
-- [Desktop themes for compose](https://www.reddit.com/r/Kotlin/comments/r2zqc0/desktop_themes_for_compose/)
-- [Kotlin list transformations](https://www.reddit.com/r/Kotlin/comments/r2x0rj/kotlin_list_transformations/)
-- [Help with firestore](https://www.reddit.com/r/Kotlin/comments/r2v60j/help_with_firestore/)
+- [Under The Hood – Crashlytics](https://www.reddit.com/r/Kotlin/comments/r5xnig/under_the_hood_crashlytics/)
+- [Kotlin Bintray Bad Gateway](https://www.reddit.com/r/Kotlin/comments/r5ul4k/kotlin_bintray_bad_gateway/)
+- [best GUI framework for Kotlin? I’m working on a desktop program and i’ve been using JavaFX, and was curious if Kotlin had anything better? I’m aware of TornadoFX but i don’t really enjoy the way it’s setup.](https://www.reddit.com/r/Kotlin/comments/r5q26j/best_gui_framework_for_kotlin_im_working_on_a/)
+- [How do I split a string into single characters and put them into a list?](https://www.reddit.com/r/Kotlin/comments/r5jwm4/how_do_i_split_a_string_into_single_characters/)
+- [does anyone use this for non android uses? I like java but use Kotlin every time over java.](https://www.reddit.com/r/Kotlin/comments/r5eces/does_anyone_use_this_for_non_android_uses_i_like/)
+- [Advent of Code 2021 is coming! Get Ready!](https://www.reddit.com/r/Kotlin/comments/r521gu/advent_of_code_2021_is_coming_get_ready/)
+- [InvalidMutabilityException in non-concurrent native build](https://www.reddit.com/r/Kotlin/comments/r502sk/invalidmutabilityexception_in_nonconcurrent/)
+- [KVision 5.6.0 is released](https://www.reddit.com/r/Kotlin/comments/r4zy48/kvision_560_is_released/)
+- [Delegate by map, Type conversions](https://www.reddit.com/r/Kotlin/comments/r4y3ql/delegate_by_map_type_conversions/)
+- [100% Kotlin Twitter Library](https://www.reddit.com/r/Kotlin/comments/r4w8id/100_kotlin_twitter_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
