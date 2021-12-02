@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Under The Hood – Crashlytics](https://www.reddit.com/r/Kotlin/comments/r5xnig/under_the_hood_crashlytics/)
+- [Introducing Fabrikt, a Kotlin code generator from OpenApi3 specifications. 100% written in Kotlin, and battle-tested in production at Zalando Tech.](https://www.reddit.com/r/Kotlin/comments/r6qur1/introducing_fabrikt_a_kotlin_code_generator_from/)
+- [PHP Developer trying to find content to learn Kotlin](https://www.reddit.com/r/Kotlin/comments/r6q3xy/php_developer_trying_to_find_content_to_learn/)
+- [A JavaScript engine for the JVM, built from the ground up with Kotlin](https://www.reddit.com/r/Kotlin/comments/r6ojgi/a_javascript_engine_for_the_jvm_built_from_the/)
+- [Kotlin Interview Questions](https://www.reddit.com/r/Kotlin/comments/r6nu0z/kotlin_interview_questions/)
+- [Kotlin developer vs Kotlin basics in jetbrains academy](https://www.reddit.com/r/Kotlin/comments/r6ilkj/kotlin_developer_vs_kotlin_basics_in_jetbrains/)
 - [Kotlin Bintray Bad Gateway](https://www.reddit.com/r/Kotlin/comments/r5ul4k/kotlin_bintray_bad_gateway/)
 - [best GUI framework for Kotlin? I’m working on a desktop program and i’ve been using JavaFX, and was curious if Kotlin had anything better? I’m aware of TornadoFX but i don’t really enjoy the way it’s setup.](https://www.reddit.com/r/Kotlin/comments/r5q26j/best_gui_framework_for_kotlin_im_working_on_a/)
 - [How do I split a string into single characters and put them into a list?](https://www.reddit.com/r/Kotlin/comments/r5jwm4/how_do_i_split_a_string_into_single_characters/)
 - [does anyone use this for non android uses? I like java but use Kotlin every time over java.](https://www.reddit.com/r/Kotlin/comments/r5eces/does_anyone_use_this_for_non_android_uses_i_like/)
 - [Advent of Code 2021 is coming! Get Ready!](https://www.reddit.com/r/Kotlin/comments/r521gu/advent_of_code_2021_is_coming_get_ready/)
-- [InvalidMutabilityException in non-concurrent native build](https://www.reddit.com/r/Kotlin/comments/r502sk/invalidmutabilityexception_in_nonconcurrent/)
-- [KVision 5.6.0 is released](https://www.reddit.com/r/Kotlin/comments/r4zy48/kvision_560_is_released/)
-- [Delegate by map, Type conversions](https://www.reddit.com/r/Kotlin/comments/r4y3ql/delegate_by_map_type_conversions/)
-- [100% Kotlin Twitter Library](https://www.reddit.com/r/Kotlin/comments/r4w8id/100_kotlin_twitter_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
