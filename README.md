@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Introducing Fabrikt, a Kotlin code generator from OpenApi3 specifications. 100% written in Kotlin, and battle-tested in production at Zalando Tech.](https://www.reddit.com/r/Kotlin/comments/r6qur1/introducing_fabrikt_a_kotlin_code_generator_from/)
-- [PHP Developer trying to find content to learn Kotlin](https://www.reddit.com/r/Kotlin/comments/r6q3xy/php_developer_trying_to_find_content_to_learn/)
-- [A JavaScript engine for the JVM, built from the ground up with Kotlin](https://www.reddit.com/r/Kotlin/comments/r6ojgi/a_javascript_engine_for_the_jvm_built_from_the/)
-- [Kotlin Interview Questions](https://www.reddit.com/r/Kotlin/comments/r6nu0z/kotlin_interview_questions/)
-- [Kotlin developer vs Kotlin basics in jetbrains academy](https://www.reddit.com/r/Kotlin/comments/r6ilkj/kotlin_developer_vs_kotlin_basics_in_jetbrains/)
-- [Kotlin Bintray Bad Gateway](https://www.reddit.com/r/Kotlin/comments/r5ul4k/kotlin_bintray_bad_gateway/)
-- [best GUI framework for Kotlin? I’m working on a desktop program and i’ve been using JavaFX, and was curious if Kotlin had anything better? I’m aware of TornadoFX but i don’t really enjoy the way it’s setup.](https://www.reddit.com/r/Kotlin/comments/r5q26j/best_gui_framework_for_kotlin_im_working_on_a/)
-- [How do I split a string into single characters and put them into a list?](https://www.reddit.com/r/Kotlin/comments/r5jwm4/how_do_i_split_a_string_into_single_characters/)
-- [does anyone use this for non android uses? I like java but use Kotlin every time over java.](https://www.reddit.com/r/Kotlin/comments/r5eces/does_anyone_use_this_for_non_android_uses_i_like/)
-- [Advent of Code 2021 is coming! Get Ready!](https://www.reddit.com/r/Kotlin/comments/r521gu/advent_of_code_2021_is_coming_get_ready/)
+- [Announcing 4koma, a new TOML library for Kotlin](https://www.reddit.com/r/Kotlin/comments/r7j4cn/announcing_4koma_a_new_toml_library_for_kotlin/)
+- [AWS SDK for Kotlin &lpar;Developer Preview&rpar;](https://www.reddit.com/r/Kotlin/comments/r7e7ac/aws_sdk_for_kotlin_developer_preview/)
+- [Compose Multiplatform 1.0 Goes Live!](https://www.reddit.com/r/Kotlin/comments/r77zw1/compose_multiplatform_10_goes_live/)
+- [Compose Multiplatform 1.0 is going live!](https://www.reddit.com/r/Kotlin/comments/r77g0w/compose_multiplatform_10_is_going_live/)
+- [Kotlin vs JavaScript Backend](https://www.reddit.com/r/Kotlin/comments/r767hu/kotlin_vs_javascript_backend/)
+- [Learning AWS with Localstack and Reactive Kotlin — A stamps and coins implementation](https://www.reddit.com/r/Kotlin/comments/r764u4/learning_aws_with_localstack_and_reactive_kotlin/)
+- [The Advent of Code 2021 in Kotlin, Day 1: Sonar Sweep](https://www.reddit.com/r/Kotlin/comments/r75ka0/the_advent_of_code_2021_in_kotlin_day_1_sonar/)
+- [GitHub - ReevaJS/reeva: A JavaScript engine for the JVM, built from the ground up with Kotlin.](https://www.reddit.com/r/Kotlin/comments/r74qry/github_reevajsreeva_a_javascript_engine_for_the/)
+- [TypeVille 2022 Conference](https://www.reddit.com/r/Kotlin/comments/r74el1/typeville_2022_conference/)
+- [I interviewed Sebastian Aigner, Developer Advocate for Kotlin at JetBrains, for my series &quot;Career Paths&quot;, on his role, how he came to JetBrains, as well as personal questions](https://www.reddit.com/r/Kotlin/comments/r73u2s/i_interviewed_sebastian_aigner_developer_advocate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
