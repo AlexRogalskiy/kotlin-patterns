@@ -1,14 +1,5 @@
 # Changelog
 
-## [Unreleased](https://github.com/AlexRogalskiy/kotlin-patterns/tree/HEAD)
-
-[Full Changelog](https://github.com/AlexRogalskiy/kotlin-patterns/compare/1.0.1...HEAD)
-
-**Merged pull requests:**
-
-- github-actions: bump wagoid/commitlint-github-action from v2.2.3 to v2.2.5 [\#53](https://github.com/AlexRogalskiy/kotlin-patterns/pull/53) ([dependabot[bot]](https://github.com/apps/dependabot))
-- :arrow\_up: Updates wagoid/commitlint-github-action action to v2.2.5 [\#51](https://github.com/AlexRogalskiy/kotlin-patterns/pull/51) ([renovate[bot]](https://github.com/apps/renovate))
-
 ## [1.0.1](https://github.com/AlexRogalskiy/kotlin-patterns/tree/1.0.1) (2021-02-18)
 
 [Full Changelog](https://github.com/AlexRogalskiy/kotlin-patterns/compare/v1...1.0.1)
