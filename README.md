@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin functions help! Output not returning!](https://www.reddit.com/r/Kotlin/comments/r8cr1q/kotlin_functions_help_output_not_returning/)
+- [Is multiplatform available for desktop?](https://www.reddit.com/r/Kotlin/comments/r8a01l/is_multiplatform_available_for_desktop/)
+- [More Kotlin TDD exploration](https://www.reddit.com/r/Kotlin/comments/r88x0w/more_kotlin_tdd_exploration/)
+- [Lightweight build alternatives to Gradle / Maven](https://www.reddit.com/r/Kotlin/comments/r865ya/lightweight_build_alternatives_to_gradle_maven/)
+- [Why are &quot;unsigned&quot; data experimental?](https://www.reddit.com/r/Kotlin/comments/r80ghu/why_are_unsigned_data_experimental/)
+- [Doing AoC in Kotlin and It feels really unintuitive](https://www.reddit.com/r/Kotlin/comments/r7ye4v/doing_aoc_in_kotlin_and_it_feels_really/)
+- [Advent of Code 2021 in Kotlin, Day 2: Dive! Solution](https://www.reddit.com/r/Kotlin/comments/r7x0hv/advent_of_code_2021_in_kotlin_day_2_dive_solution/)
+- [Flutter or React &lpar;Native&rpar; for Kotlin Developer?](https://www.reddit.com/r/Kotlin/comments/r7wz6z/flutter_or_react_native_for_kotlin_developer/)
 - [Announcing 4koma, a new TOML library for Kotlin](https://www.reddit.com/r/Kotlin/comments/r7j4cn/announcing_4koma_a_new_toml_library_for_kotlin/)
 - [AWS SDK for Kotlin &lpar;Developer Preview&rpar;](https://www.reddit.com/r/Kotlin/comments/r7e7ac/aws_sdk_for_kotlin_developer_preview/)
-- [Compose Multiplatform 1.0 Goes Live!](https://www.reddit.com/r/Kotlin/comments/r77zw1/compose_multiplatform_10_goes_live/)
-- [Compose Multiplatform 1.0 is going live!](https://www.reddit.com/r/Kotlin/comments/r77g0w/compose_multiplatform_10_is_going_live/)
-- [Kotlin vs JavaScript Backend](https://www.reddit.com/r/Kotlin/comments/r767hu/kotlin_vs_javascript_backend/)
-- [Learning AWS with Localstack and Reactive Kotlin — A stamps and coins implementation](https://www.reddit.com/r/Kotlin/comments/r764u4/learning_aws_with_localstack_and_reactive_kotlin/)
-- [The Advent of Code 2021 in Kotlin, Day 1: Sonar Sweep](https://www.reddit.com/r/Kotlin/comments/r75ka0/the_advent_of_code_2021_in_kotlin_day_1_sonar/)
-- [GitHub - ReevaJS/reeva: A JavaScript engine for the JVM, built from the ground up with Kotlin.](https://www.reddit.com/r/Kotlin/comments/r74qry/github_reevajsreeva_a_javascript_engine_for_the/)
-- [TypeVille 2022 Conference](https://www.reddit.com/r/Kotlin/comments/r74el1/typeville_2022_conference/)
-- [I interviewed Sebastian Aigner, Developer Advocate for Kotlin at JetBrains, for my series &quot;Career Paths&quot;, on his role, how he came to JetBrains, as well as personal questions](https://www.reddit.com/r/Kotlin/comments/r73u2s/i_interviewed_sebastian_aigner_developer_advocate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
