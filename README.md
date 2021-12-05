@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Unsigned Interger Types dont seem to inherit the Number abstract class](https://www.reddit.com/r/Kotlin/comments/r92gqz/unsigned_interger_types_dont_seem_to_inherit_the/)
+- [Please help me explaining this coroutine behavior](https://www.reddit.com/r/Kotlin/comments/r8tk4m/please_help_me_explaining_this_coroutine_behavior/)
+- [How would you write this in better idiomatic Kotlin?](https://www.reddit.com/r/Kotlin/comments/r8n3gy/how_would_you_write_this_in_better_idiomatic/)
+- [Compose Multiplatform Out of Beta](https://www.reddit.com/r/Kotlin/comments/r8kypg/compose_multiplatform_out_of_beta/)
 - [Kotlin functions help! Output not returning!](https://www.reddit.com/r/Kotlin/comments/r8cr1q/kotlin_functions_help_output_not_returning/)
 - [Is multiplatform available for desktop?](https://www.reddit.com/r/Kotlin/comments/r8a01l/is_multiplatform_available_for_desktop/)
 - [More Kotlin TDD exploration](https://www.reddit.com/r/Kotlin/comments/r88x0w/more_kotlin_tdd_exploration/)
 - [Lightweight build alternatives to Gradle / Maven](https://www.reddit.com/r/Kotlin/comments/r865ya/lightweight_build_alternatives_to_gradle_maven/)
 - [Why are &quot;unsigned&quot; data experimental?](https://www.reddit.com/r/Kotlin/comments/r80ghu/why_are_unsigned_data_experimental/)
 - [Doing AoC in Kotlin and It feels really unintuitive](https://www.reddit.com/r/Kotlin/comments/r7ye4v/doing_aoc_in_kotlin_and_it_feels_really/)
-- [Advent of Code 2021 in Kotlin, Day 2: Dive! Solution](https://www.reddit.com/r/Kotlin/comments/r7x0hv/advent_of_code_2021_in_kotlin_day_2_dive_solution/)
-- [Flutter or React &lpar;Native&rpar; for Kotlin Developer?](https://www.reddit.com/r/Kotlin/comments/r7wz6z/flutter_or_react_native_for_kotlin_developer/)
-- [Announcing 4koma, a new TOML library for Kotlin](https://www.reddit.com/r/Kotlin/comments/r7j4cn/announcing_4koma_a_new_toml_library_for_kotlin/)
-- [AWS SDK for Kotlin &lpar;Developer Preview&rpar;](https://www.reddit.com/r/Kotlin/comments/r7e7ac/aws_sdk_for_kotlin_developer_preview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
