@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I run Kotlin on CodeRunner?](https://www.reddit.com/r/Kotlin/comments/r9tak3/how_do_i_run_kotlin_on_coderunner/)
+- [Building a REST API using Kotlin &lpar; Ktor &rpar;](https://www.reddit.com/r/Kotlin/comments/r9ejfa/building_a_rest_api_using_kotlin_ktor/)
+- [How to lateinit function? Or is it lateinit by dedault until first invocation?](https://www.reddit.com/r/Kotlin/comments/r9dyn5/how_to_lateinit_function_or_is_it_lateinit_by/)
+- [Announcing Kobweb, an opinionated framework on top of Web Compose](https://www.reddit.com/r/Kotlin/comments/r94xg3/announcing_kobweb_an_opinionated_framework_on_top/)
 - [Unsigned Interger Types dont seem to inherit the Number abstract class](https://www.reddit.com/r/Kotlin/comments/r92gqz/unsigned_interger_types_dont_seem_to_inherit_the/)
 - [Please help me explaining this coroutine behavior](https://www.reddit.com/r/Kotlin/comments/r8tk4m/please_help_me_explaining_this_coroutine_behavior/)
 - [How would you write this in better idiomatic Kotlin?](https://www.reddit.com/r/Kotlin/comments/r8n3gy/how_would_you_write_this_in_better_idiomatic/)
 - [Compose Multiplatform Out of Beta](https://www.reddit.com/r/Kotlin/comments/r8kypg/compose_multiplatform_out_of_beta/)
 - [Kotlin functions help! Output not returning!](https://www.reddit.com/r/Kotlin/comments/r8cr1q/kotlin_functions_help_output_not_returning/)
 - [Is multiplatform available for desktop?](https://www.reddit.com/r/Kotlin/comments/r8a01l/is_multiplatform_available_for_desktop/)
-- [More Kotlin TDD exploration](https://www.reddit.com/r/Kotlin/comments/r88x0w/more_kotlin_tdd_exploration/)
-- [Lightweight build alternatives to Gradle / Maven](https://www.reddit.com/r/Kotlin/comments/r865ya/lightweight_build_alternatives_to_gradle_maven/)
-- [Why are &quot;unsigned&quot; data experimental?](https://www.reddit.com/r/Kotlin/comments/r80ghu/why_are_unsigned_data_experimental/)
-- [Doing AoC in Kotlin and It feels really unintuitive](https://www.reddit.com/r/Kotlin/comments/r7ye4v/doing_aoc_in_kotlin_and_it_feels_really/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
