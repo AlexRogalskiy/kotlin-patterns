@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Passing Returning values?](https://www.reddit.com/r/Kotlin/comments/ran9lr/passing_returning_values/)
+- [What is the best approach to prevent multiple execution of button onclicklistener?](https://www.reddit.com/r/Kotlin/comments/rahmkt/what_is_the_best_approach_to_prevent_multiple/)
+- [I downloaded SDKMAN, but when I used &quot;sdk install kotlin&quot; to install it, it displayed &quot;zsh: permission denied: sdk&quot; &lpar;I used the Mac&#39;s Terminal](https://www.reddit.com/r/Kotlin/comments/rafdda/i_downloaded_sdkman_but_when_i_used_sdk_install/)
+- [Unit Testing Android’s Room Database | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/raa3w2/unit_testing_androids_room_database_erselan_khan/)
+- [Doubt: Viro core sequence animation.](https://www.reddit.com/r/Kotlin/comments/ra44dz/doubt_viro_core_sequence_animation/)
+- [Functional programming in Kotlin: Exploring Arrow](https://www.reddit.com/r/Kotlin/comments/ra1v3q/functional_programming_in_kotlin_exploring_arrow/)
+- [Introducing Sketch, a zero-dependency image manipulation library for Kotlin](https://www.reddit.com/r/Kotlin/comments/ra1arq/introducing_sketch_a_zerodependency_image/)
+- [After downloading and unzipping tar.gz, where should I put it?](https://www.reddit.com/r/Kotlin/comments/r9z36m/after_downloading_and_unzipping_targz_where/)
 - [How do I run Kotlin on CodeRunner?](https://www.reddit.com/r/Kotlin/comments/r9tak3/how_do_i_run_kotlin_on_coderunner/)
 - [Building a REST API using Kotlin &lpar; Ktor &rpar;](https://www.reddit.com/r/Kotlin/comments/r9ejfa/building_a_rest_api_using_kotlin_ktor/)
-- [How to lateinit function? Or is it lateinit by dedault until first invocation?](https://www.reddit.com/r/Kotlin/comments/r9dyn5/how_to_lateinit_function_or_is_it_lateinit_by/)
-- [Announcing Kobweb, an opinionated framework on top of Web Compose](https://www.reddit.com/r/Kotlin/comments/r94xg3/announcing_kobweb_an_opinionated_framework_on_top/)
-- [Unsigned Interger Types dont seem to inherit the Number abstract class](https://www.reddit.com/r/Kotlin/comments/r92gqz/unsigned_interger_types_dont_seem_to_inherit_the/)
-- [Please help me explaining this coroutine behavior](https://www.reddit.com/r/Kotlin/comments/r8tk4m/please_help_me_explaining_this_coroutine_behavior/)
-- [How would you write this in better idiomatic Kotlin?](https://www.reddit.com/r/Kotlin/comments/r8n3gy/how_would_you_write_this_in_better_idiomatic/)
-- [Compose Multiplatform Out of Beta](https://www.reddit.com/r/Kotlin/comments/r8kypg/compose_multiplatform_out_of_beta/)
-- [Kotlin functions help! Output not returning!](https://www.reddit.com/r/Kotlin/comments/r8cr1q/kotlin_functions_help_output_not_returning/)
-- [Is multiplatform available for desktop?](https://www.reddit.com/r/Kotlin/comments/r8a01l/is_multiplatform_available_for_desktop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
