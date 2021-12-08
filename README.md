@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New to Kotlin: Tasked to add a secondary attribute to class &quot;Dice&quot;](https://www.reddit.com/r/Kotlin/comments/rbe2en/new_to_kotlin_tasked_to_add_a_secondary_attribute/)
+- [When i click outside of vertical scrollable column its expandable rows stop responding, did anyone encounter similar issue? There is blank space above and under the column, without any touch handlers](https://www.reddit.com/r/Kotlin/comments/rb4bcf/when_i_click_outside_of_vertical_scrollable/)
+- [The nautical adventure continues with the third day of Advent of Code 2021! 🌲 Join Seb in wrangling binary numbers in Kotlin to make sure the submarine continues safely on its journey!](https://www.reddit.com/r/Kotlin/comments/rb355z/the_nautical_adventure_continues_with_the_third/)
+- [Continuation in Kotlin](https://www.reddit.com/r/Kotlin/comments/rb1fj8/continuation_in_kotlin/)
+- [New to Kotlin, please help me understand this coroutine:](https://www.reddit.com/r/Kotlin/comments/razsde/new_to_kotlin_please_help_me_understand_this/)
+- [[Noob Question] What is the difference between readln and readLine?](https://www.reddit.com/r/Kotlin/comments/rayfik/noob_question_what_is_the_difference_between/)
+- [Android Application Context ?????](https://www.reddit.com/r/Kotlin/comments/ravyw5/android_application_context/)
+- [Room Database | Android Jetpack](https://www.reddit.com/r/Kotlin/comments/rasilo/room_database_android_jetpack/)
 - [Passing Returning values?](https://www.reddit.com/r/Kotlin/comments/ran9lr/passing_returning_values/)
 - [What is the best approach to prevent multiple execution of button onclicklistener?](https://www.reddit.com/r/Kotlin/comments/rahmkt/what_is_the_best_approach_to_prevent_multiple/)
-- [I downloaded SDKMAN, but when I used &quot;sdk install kotlin&quot; to install it, it displayed &quot;zsh: permission denied: sdk&quot; &lpar;I used the Mac&#39;s Terminal](https://www.reddit.com/r/Kotlin/comments/rafdda/i_downloaded_sdkman_but_when_i_used_sdk_install/)
-- [Unit Testing Android’s Room Database | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/raa3w2/unit_testing_androids_room_database_erselan_khan/)
-- [Doubt: Viro core sequence animation.](https://www.reddit.com/r/Kotlin/comments/ra44dz/doubt_viro_core_sequence_animation/)
-- [Functional programming in Kotlin: Exploring Arrow](https://www.reddit.com/r/Kotlin/comments/ra1v3q/functional_programming_in_kotlin_exploring_arrow/)
-- [Introducing Sketch, a zero-dependency image manipulation library for Kotlin](https://www.reddit.com/r/Kotlin/comments/ra1arq/introducing_sketch_a_zerodependency_image/)
-- [After downloading and unzipping tar.gz, where should I put it?](https://www.reddit.com/r/Kotlin/comments/r9z36m/after_downloading_and_unzipping_targz_where/)
-- [How do I run Kotlin on CodeRunner?](https://www.reddit.com/r/Kotlin/comments/r9tak3/how_do_i_run_kotlin_on_coderunner/)
-- [Building a REST API using Kotlin &lpar; Ktor &rpar;](https://www.reddit.com/r/Kotlin/comments/r9ejfa/building_a_rest_api_using_kotlin_ktor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
