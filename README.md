@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a playlist of 7 hours of chill synth music to lift you up and motivate you while coding/developing. If you are also into this, share yours!](https://www.reddit.com/r/Kotlin/comments/rc66y6/i_made_a_playlist_of_7_hours_of_chill_synth_music/)
+- [Error when calling another class](https://www.reddit.com/r/Kotlin/comments/rbxp3n/error_when_calling_another_class/)
+- [When everything just aligns, ty kotlin DSL](https://www.reddit.com/r/Kotlin/comments/rbxoa0/when_everything_just_aligns_ty_kotlin_dsl/)
+- [I am confused about data class](https://www.reddit.com/r/Kotlin/comments/rbw5mw/i_am_confused_about_data_class/)
+- [Garth Gilmour &amp; Eamonn Boyle recreate a game of Breakout clone for the browser using KotlinJS](https://www.reddit.com/r/Kotlin/comments/rbrfgv/garth_gilmour_eamonn_boyle_recreate_a_game_of/)
+- [Gradle alternitives for kotlin native?](https://www.reddit.com/r/Kotlin/comments/rbgkn4/gradle_alternitives_for_kotlin_native/)
+- [Package by Feature, Not by Layer](https://www.reddit.com/r/Kotlin/comments/rbfkxe/package_by_feature_not_by_layer/)
 - [New to Kotlin: Tasked to add a secondary attribute to class &quot;Dice&quot;](https://www.reddit.com/r/Kotlin/comments/rbe2en/new_to_kotlin_tasked_to_add_a_secondary_attribute/)
 - [When i click outside of vertical scrollable column its expandable rows stop responding, did anyone encounter similar issue? There is blank space above and under the column, without any touch handlers](https://www.reddit.com/r/Kotlin/comments/rb4bcf/when_i_click_outside_of_vertical_scrollable/)
 - [The nautical adventure continues with the third day of Advent of Code 2021! 🌲 Join Seb in wrangling binary numbers in Kotlin to make sure the submarine continues safely on its journey!](https://www.reddit.com/r/Kotlin/comments/rb355z/the_nautical_adventure_continues_with_the_third/)
-- [Continuation in Kotlin](https://www.reddit.com/r/Kotlin/comments/rb1fj8/continuation_in_kotlin/)
-- [New to Kotlin, please help me understand this coroutine:](https://www.reddit.com/r/Kotlin/comments/razsde/new_to_kotlin_please_help_me_understand_this/)
-- [[Noob Question] What is the difference between readln and readLine?](https://www.reddit.com/r/Kotlin/comments/rayfik/noob_question_what_is_the_difference_between/)
-- [Android Application Context ?????](https://www.reddit.com/r/Kotlin/comments/ravyw5/android_application_context/)
-- [Room Database | Android Jetpack](https://www.reddit.com/r/Kotlin/comments/rasilo/room_database_android_jetpack/)
-- [Passing Returning values?](https://www.reddit.com/r/Kotlin/comments/ran9lr/passing_returning_values/)
-- [What is the best approach to prevent multiple execution of button onclicklistener?](https://www.reddit.com/r/Kotlin/comments/rahmkt/what_is_the_best_approach_to_prevent_multiple/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
