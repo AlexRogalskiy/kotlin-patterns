@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building Micronaut applications with Micronaut Data R2dbc and Kotlin](https://www.reddit.com/r/Kotlin/comments/rct1db/building_micronaut_applications_with_micronaut/)
+- [Is there a free kotlin bootcamp ?](https://www.reddit.com/r/Kotlin/comments/rcqzyd/is_there_a_free_kotlin_bootcamp/)
+- [Kermit 1.0: A KMP Logging Library.](https://www.reddit.com/r/Kotlin/comments/rco87h/kermit_10_a_kmp_logging_library/)
+- [Kermit KMP Logging 1.0](https://www.reddit.com/r/Kotlin/comments/rcnouq/kermit_kmp_logging_10/)
+- [Results of the Kotlin Features Survey 2021](https://www.reddit.com/r/Kotlin/comments/rcm8mi/results_of_the_kotlin_features_survey_2021/)
+- [Check out the most interesting developments around Kotlin in November 2021!](https://www.reddit.com/r/Kotlin/comments/rci7ev/check_out_the_most_interesting_developments/)
+- [I want to create an app but I&#39;m new to kotlin.](https://www.reddit.com/r/Kotlin/comments/rcgkuf/i_want_to_create_an_app_but_im_new_to_kotlin/)
+- [Unit testing on Android for Functions and Methods](https://www.reddit.com/r/Kotlin/comments/rcbuna/unit_testing_on_android_for_functions_and_methods/)
+- [JUnit Annotations: Android](https://www.reddit.com/r/Kotlin/comments/rcbs94/junit_annotations_android/)
 - [I made a playlist of 7 hours of chill synth music to lift you up and motivate you while coding/developing. If you are also into this, share yours!](https://www.reddit.com/r/Kotlin/comments/rc66y6/i_made_a_playlist_of_7_hours_of_chill_synth_music/)
-- [Error when calling another class](https://www.reddit.com/r/Kotlin/comments/rbxp3n/error_when_calling_another_class/)
-- [When everything just aligns, ty kotlin DSL](https://www.reddit.com/r/Kotlin/comments/rbxoa0/when_everything_just_aligns_ty_kotlin_dsl/)
-- [I am confused about data class](https://www.reddit.com/r/Kotlin/comments/rbw5mw/i_am_confused_about_data_class/)
-- [Garth Gilmour &amp; Eamonn Boyle recreate a game of Breakout clone for the browser using KotlinJS](https://www.reddit.com/r/Kotlin/comments/rbrfgv/garth_gilmour_eamonn_boyle_recreate_a_game_of/)
-- [Gradle alternitives for kotlin native?](https://www.reddit.com/r/Kotlin/comments/rbgkn4/gradle_alternitives_for_kotlin_native/)
-- [Package by Feature, Not by Layer](https://www.reddit.com/r/Kotlin/comments/rbfkxe/package_by_feature_not_by_layer/)
-- [New to Kotlin: Tasked to add a secondary attribute to class &quot;Dice&quot;](https://www.reddit.com/r/Kotlin/comments/rbe2en/new_to_kotlin_tasked_to_add_a_secondary_attribute/)
-- [When i click outside of vertical scrollable column its expandable rows stop responding, did anyone encounter similar issue? There is blank space above and under the column, without any touch handlers](https://www.reddit.com/r/Kotlin/comments/rb4bcf/when_i_click_outside_of_vertical_scrollable/)
-- [The nautical adventure continues with the third day of Advent of Code 2021! 🌲 Join Seb in wrangling binary numbers in Kotlin to make sure the submarine continues safely on its journey!](https://www.reddit.com/r/Kotlin/comments/rb355z/the_nautical_adventure_continues_with_the_third/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
