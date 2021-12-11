@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why do i get ArrayIndexOutOfBoundsException???](https://www.reddit.com/r/Kotlin/comments/rdhwtl/why_do_i_get_arrayindexoutofboundsexception/)
+- [Diktat 1.0.0 released](https://www.reddit.com/r/Kotlin/comments/rdbk0w/diktat_100_released/)
+- [Video Player](https://www.reddit.com/r/Kotlin/comments/rd7wab/video_player/)
+- [If I were to start my Android career in 2022, here is how I would do it](https://www.reddit.com/r/Kotlin/comments/rd7qqr/if_i_were_to_start_my_android_career_in_2022_here/)
+- [Unit testing on Android for Functions and Methods](https://www.reddit.com/r/Kotlin/comments/rd4wba/unit_testing_on_android_for_functions_and_methods/)
+- [kotlin var,val,lazy??](https://www.reddit.com/r/Kotlin/comments/rd4ptx/kotlin_varvallazy/)
+- [Kotlin to Java](https://www.reddit.com/r/Kotlin/comments/rcz519/kotlin_to_java/)
+- [Is there an easy way to wait a set amount of time in Kotlin &lpar;without freezing the app&rpar;](https://www.reddit.com/r/Kotlin/comments/rcyu95/is_there_an_easy_way_to_wait_a_set_amount_of_time/)
 - [Building Micronaut applications with Micronaut Data R2dbc and Kotlin](https://www.reddit.com/r/Kotlin/comments/rct1db/building_micronaut_applications_with_micronaut/)
 - [Is there a free kotlin bootcamp ?](https://www.reddit.com/r/Kotlin/comments/rcqzyd/is_there_a_free_kotlin_bootcamp/)
-- [Kermit 1.0: A KMP Logging Library.](https://www.reddit.com/r/Kotlin/comments/rco87h/kermit_10_a_kmp_logging_library/)
-- [Kermit KMP Logging 1.0](https://www.reddit.com/r/Kotlin/comments/rcnouq/kermit_kmp_logging_10/)
-- [Results of the Kotlin Features Survey 2021](https://www.reddit.com/r/Kotlin/comments/rcm8mi/results_of_the_kotlin_features_survey_2021/)
-- [Check out the most interesting developments around Kotlin in November 2021!](https://www.reddit.com/r/Kotlin/comments/rci7ev/check_out_the_most_interesting_developments/)
-- [I want to create an app but I&#39;m new to kotlin.](https://www.reddit.com/r/Kotlin/comments/rcgkuf/i_want_to_create_an_app_but_im_new_to_kotlin/)
-- [Unit testing on Android for Functions and Methods](https://www.reddit.com/r/Kotlin/comments/rcbuna/unit_testing_on_android_for_functions_and_methods/)
-- [JUnit Annotations: Android](https://www.reddit.com/r/Kotlin/comments/rcbs94/junit_annotations_android/)
-- [I made a playlist of 7 hours of chill synth music to lift you up and motivate you while coding/developing. If you are also into this, share yours!](https://www.reddit.com/r/Kotlin/comments/rc66y6/i_made_a_playlist_of_7_hours_of_chill_synth_music/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
