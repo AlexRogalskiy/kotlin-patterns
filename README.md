@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktoml 0.2.9 released](https://www.reddit.com/r/Kotlin/comments/rea64x/ktoml_029_released/)
+- [Disabled Drop Down Lists](https://www.reddit.com/r/Kotlin/comments/re5c35/disabled_drop_down_lists/)
+- [Variable declaration.](https://www.reddit.com/r/Kotlin/comments/re5550/variable_declaration/)
+- [A proof-of-concept for Python extensions in Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/re1nam/a_proofofconcept_for_python_extensions_in/)
+- [Hey guys, check out this article on the Composite pattern in Kotlin and Android.](https://www.reddit.com/r/Kotlin/comments/rdzuvt/hey_guys_check_out_this_article_on_the_composite/)
+- [Runtime Exception on a test](https://www.reddit.com/r/Kotlin/comments/rdpu3m/runtime_exception_on_a_test/)
 - [Why do i get ArrayIndexOutOfBoundsException???](https://www.reddit.com/r/Kotlin/comments/rdhwtl/why_do_i_get_arrayindexoutofboundsexception/)
 - [Diktat 1.0.0 released](https://www.reddit.com/r/Kotlin/comments/rdbk0w/diktat_100_released/)
 - [Video Player](https://www.reddit.com/r/Kotlin/comments/rd7wab/video_player/)
 - [If I were to start my Android career in 2022, here is how I would do it](https://www.reddit.com/r/Kotlin/comments/rd7qqr/if_i_were_to_start_my_android_career_in_2022_here/)
-- [Unit testing on Android for Functions and Methods](https://www.reddit.com/r/Kotlin/comments/rd4wba/unit_testing_on_android_for_functions_and_methods/)
-- [kotlin var,val,lazy??](https://www.reddit.com/r/Kotlin/comments/rd4ptx/kotlin_varvallazy/)
-- [Kotlin to Java](https://www.reddit.com/r/Kotlin/comments/rcz519/kotlin_to_java/)
-- [Is there an easy way to wait a set amount of time in Kotlin &lpar;without freezing the app&rpar;](https://www.reddit.com/r/Kotlin/comments/rcyu95/is_there_an_easy_way_to_wait_a_set_amount_of_time/)
-- [Building Micronaut applications with Micronaut Data R2dbc and Kotlin](https://www.reddit.com/r/Kotlin/comments/rct1db/building_micronaut_applications_with_micronaut/)
-- [Is there a free kotlin bootcamp ?](https://www.reddit.com/r/Kotlin/comments/rcqzyd/is_there_a_free_kotlin_bootcamp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
