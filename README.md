@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to create a domain &lpar;subset&rpar; of String values](https://www.reddit.com/r/Kotlin/comments/rf3z69/how_to_create_a_domain_subset_of_string_values/)
+- [Adding a second dice roller](https://www.reddit.com/r/Kotlin/comments/rf27bp/adding_a_second_dice_roller/)
+- [noob help with making object A available to class B by passing them in as an argument to a class B&#39;s constructor](https://www.reddit.com/r/Kotlin/comments/rf1pxr/noob_help_with_making_object_a_available_to_class/)
+- [Kotlin book with goal of Android Programming](https://www.reddit.com/r/Kotlin/comments/revdmw/kotlin_book_with_goal_of_android_programming/)
+- [Native-image with Quarkus](https://www.reddit.com/r/Kotlin/comments/ret3bw/nativeimage_with_quarkus/)
+- [Three-framework problem with Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/ren26d/threeframework_problem_with_kotlin_multiplatform/)
+- [Doodle 0.6.3 released](https://www.reddit.com/r/Kotlin/comments/remu99/doodle_063_released/)
 - [Ktoml 0.2.9 released](https://www.reddit.com/r/Kotlin/comments/rea64x/ktoml_029_released/)
 - [Disabled Drop Down Lists](https://www.reddit.com/r/Kotlin/comments/re5c35/disabled_drop_down_lists/)
 - [Variable declaration.](https://www.reddit.com/r/Kotlin/comments/re5550/variable_declaration/)
-- [A proof-of-concept for Python extensions in Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/re1nam/a_proofofconcept_for_python_extensions_in/)
-- [Hey guys, check out this article on the Composite pattern in Kotlin and Android.](https://www.reddit.com/r/Kotlin/comments/rdzuvt/hey_guys_check_out_this_article_on_the_composite/)
-- [Runtime Exception on a test](https://www.reddit.com/r/Kotlin/comments/rdpu3m/runtime_exception_on_a_test/)
-- [Why do i get ArrayIndexOutOfBoundsException???](https://www.reddit.com/r/Kotlin/comments/rdhwtl/why_do_i_get_arrayindexoutofboundsexception/)
-- [Diktat 1.0.0 released](https://www.reddit.com/r/Kotlin/comments/rdbk0w/diktat_100_released/)
-- [Video Player](https://www.reddit.com/r/Kotlin/comments/rd7wab/video_player/)
-- [If I were to start my Android career in 2022, here is how I would do it](https://www.reddit.com/r/Kotlin/comments/rd7qqr/if_i_were_to_start_my_android_career_in_2022_here/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
