@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Yet another safe-args library for Compose Navigation](https://www.reddit.com/r/Kotlin/comments/rfqd34/yet_another_safeargs_library_for_compose/)
+- [I wrote an interpreter for the Folders programming language](https://www.reddit.com/r/Kotlin/comments/rfodft/i_wrote_an_interpreter_for_the_folders/)
+- [Serial Bluetooth write](https://www.reddit.com/r/Kotlin/comments/rfmyxe/serial_bluetooth_write/)
+- [Value classes are legit! 🤙](https://www.reddit.com/r/Kotlin/comments/rfm8db/value_classes_are_legit/)
+- [What are the implications for contract&#39;s callsInPlace `InvocationKind.AT_MOST_ONCE` ?](https://www.reddit.com/r/Kotlin/comments/rflbq5/what_are_the_implications_for_contracts/)
+- [Join us for the new episode of Talking Kotlin! 🎙️Our guest Margarita Nedzelka from SonarSource tells us how she and her team built a static analyzer for Kotlin. Bonus 🎁there is also the weather segment and suggestions on how to make great cookies! 🍪](https://www.reddit.com/r/Kotlin/comments/rfkv88/join_us_for_the_new_episode_of_talking_kotlin_our/)
+- [How to get Kotlin/Native compiler to IntelliJ &lpar;defaults to Amazon Corretto&rpar;?](https://www.reddit.com/r/Kotlin/comments/rfffiw/how_to_get_kotlinnative_compiler_to_intellij/)
+- [Complete Kotlin library for retrying on I/O failures](https://www.reddit.com/r/Kotlin/comments/rfb7sw/complete_kotlin_library_for_retrying_on_io/)
 - [How to create a domain &lpar;subset&rpar; of String values](https://www.reddit.com/r/Kotlin/comments/rf3z69/how_to_create_a_domain_subset_of_string_values/)
 - [Adding a second dice roller](https://www.reddit.com/r/Kotlin/comments/rf27bp/adding_a_second_dice_roller/)
-- [noob help with making object A available to class B by passing them in as an argument to a class B&#39;s constructor](https://www.reddit.com/r/Kotlin/comments/rf1pxr/noob_help_with_making_object_a_available_to_class/)
-- [Kotlin book with goal of Android Programming](https://www.reddit.com/r/Kotlin/comments/revdmw/kotlin_book_with_goal_of_android_programming/)
-- [Native-image with Quarkus](https://www.reddit.com/r/Kotlin/comments/ret3bw/nativeimage_with_quarkus/)
-- [Three-framework problem with Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/ren26d/threeframework_problem_with_kotlin_multiplatform/)
-- [Doodle 0.6.3 released](https://www.reddit.com/r/Kotlin/comments/remu99/doodle_063_released/)
-- [Ktoml 0.2.9 released](https://www.reddit.com/r/Kotlin/comments/rea64x/ktoml_029_released/)
-- [Disabled Drop Down Lists](https://www.reddit.com/r/Kotlin/comments/re5c35/disabled_drop_down_lists/)
-- [Variable declaration.](https://www.reddit.com/r/Kotlin/comments/re5550/variable_declaration/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
