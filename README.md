@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gilded Rose TDD Part 5](https://www.reddit.com/r/Kotlin/comments/rghvy2/gilded_rose_tdd_part_5/)
+- [Can we use jetpack instead XML? because it&#39;s easier for me as a flutter developer and similar to dart code](https://www.reddit.com/r/Kotlin/comments/rggijp/can_we_use_jetpack_instead_xml_because_its_easier/)
+- [Dynamically generated class during compile time](https://www.reddit.com/r/Kotlin/comments/rgf136/dynamically_generated_class_during_compile_time/)
+- [What is a good assumption for enterprise applications ?](https://www.reddit.com/r/Kotlin/comments/rgepvz/what_is_a_good_assumption_for_enterprise/)
+- [Kotlin Vs. Groovy: Which Programming Language is the Best in 2022?](https://www.reddit.com/r/Kotlin/comments/rgebvd/kotlin_vs_groovy_which_programming_language_is/)
+- [Is it useless to learn kotlin if you don&#39;t wanna learn Java?for android devlopment](https://www.reddit.com/r/Kotlin/comments/rgdl52/is_it_useless_to_learn_kotlin_if_you_dont_wanna/)
+- [auto import not working for compose](https://www.reddit.com/r/Kotlin/comments/rg9xhs/auto_import_not_working_for_compose/)
+- [Which one would you prefer when setting empty state?](https://www.reddit.com/r/Kotlin/comments/rg5akm/which_one_would_you_prefer_when_setting_empty/)
 - [Yet another safe-args library for Compose Navigation](https://www.reddit.com/r/Kotlin/comments/rfqd34/yet_another_safeargs_library_for_compose/)
 - [I wrote an interpreter for the Folders programming language](https://www.reddit.com/r/Kotlin/comments/rfodft/i_wrote_an_interpreter_for_the_folders/)
-- [Serial Bluetooth write](https://www.reddit.com/r/Kotlin/comments/rfmyxe/serial_bluetooth_write/)
-- [Value classes are legit! 🤙](https://www.reddit.com/r/Kotlin/comments/rfm8db/value_classes_are_legit/)
-- [What are the implications for contract&#39;s callsInPlace `InvocationKind.AT_MOST_ONCE` ?](https://www.reddit.com/r/Kotlin/comments/rflbq5/what_are_the_implications_for_contracts/)
-- [Join us for the new episode of Talking Kotlin! 🎙️Our guest Margarita Nedzelka from SonarSource tells us how she and her team built a static analyzer for Kotlin. Bonus 🎁there is also the weather segment and suggestions on how to make great cookies! 🍪](https://www.reddit.com/r/Kotlin/comments/rfkv88/join_us_for_the_new_episode_of_talking_kotlin_our/)
-- [How to get Kotlin/Native compiler to IntelliJ &lpar;defaults to Amazon Corretto&rpar;?](https://www.reddit.com/r/Kotlin/comments/rfffiw/how_to_get_kotlinnative_compiler_to_intellij/)
-- [Complete Kotlin library for retrying on I/O failures](https://www.reddit.com/r/Kotlin/comments/rfb7sw/complete_kotlin_library_for_retrying_on_io/)
-- [How to create a domain &lpar;subset&rpar; of String values](https://www.reddit.com/r/Kotlin/comments/rf3z69/how_to_create_a_domain_subset_of_string_values/)
-- [Adding a second dice roller](https://www.reddit.com/r/Kotlin/comments/rf27bp/adding_a_second_dice_roller/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
