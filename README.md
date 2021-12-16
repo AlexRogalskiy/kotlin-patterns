@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Share your Kotlin expertise at Functional Conf 2022 - Call for Proposals &lpar;closes January 15&rpar;](https://www.reddit.com/r/Kotlin/comments/rhf3d5/share_your_kotlin_expertise_at_functional_conf/)
+- [Kotlin/JS testing and mocking libraries](https://www.reddit.com/r/Kotlin/comments/rhezr3/kotlinjs_testing_and_mocking_libraries/)
+- [How to continiously read user input from console?](https://www.reddit.com/r/Kotlin/comments/rh6mo9/how_to_continiously_read_user_input_from_console/)
+- [Unclear what value is expected in this parameter?](https://www.reddit.com/r/Kotlin/comments/rh35ad/unclear_what_value_is_expected_in_this_parameter/)
+- [[FATE] Looking For Paid Developers To Join The Next Biggest RSPS - Competitive Rates](https://www.reddit.com/r/Kotlin/comments/rh2fw8/fate_looking_for_paid_developers_to_join_the_next/)
+- [I have a problem. I try more many but not correct! whyy ?? help me](https://www.reddit.com/r/Kotlin/comments/rgx4wf/i_have_a_problem_i_try_more_many_but_not_correct/)
+- [Windows Application completely using Kotlin](https://www.reddit.com/r/Kotlin/comments/rgwqtd/windows_application_completely_using_kotlin/)
 - [Gilded Rose TDD Part 5](https://www.reddit.com/r/Kotlin/comments/rghvy2/gilded_rose_tdd_part_5/)
 - [Can we use jetpack instead XML? because it&#39;s easier for me as a flutter developer and similar to dart code](https://www.reddit.com/r/Kotlin/comments/rggijp/can_we_use_jetpack_instead_xml_because_its_easier/)
 - [Dynamically generated class during compile time](https://www.reddit.com/r/Kotlin/comments/rgf136/dynamically_generated_class_during_compile_time/)
-- [What is a good assumption for enterprise applications ?](https://www.reddit.com/r/Kotlin/comments/rgepvz/what_is_a_good_assumption_for_enterprise/)
-- [Kotlin Vs. Groovy: Which Programming Language is the Best in 2022?](https://www.reddit.com/r/Kotlin/comments/rgebvd/kotlin_vs_groovy_which_programming_language_is/)
-- [Is it useless to learn kotlin if you don&#39;t wanna learn Java?for android devlopment](https://www.reddit.com/r/Kotlin/comments/rgdl52/is_it_useless_to_learn_kotlin_if_you_dont_wanna/)
-- [auto import not working for compose](https://www.reddit.com/r/Kotlin/comments/rg9xhs/auto_import_not_working_for_compose/)
-- [Which one would you prefer when setting empty state?](https://www.reddit.com/r/Kotlin/comments/rg5akm/which_one_would_you_prefer_when_setting_empty/)
-- [Yet another safe-args library for Compose Navigation](https://www.reddit.com/r/Kotlin/comments/rfqd34/yet_another_safeargs_library_for_compose/)
-- [I wrote an interpreter for the Folders programming language](https://www.reddit.com/r/Kotlin/comments/rfodft/i_wrote_an_interpreter_for_the_folders/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
