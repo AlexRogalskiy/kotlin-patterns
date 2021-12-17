@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Adopting Kotlin Multiplatform Mobile &lpar;KMM&rpar; at Meetup](https://www.reddit.com/r/Kotlin/comments/ri4frw/adopting_kotlin_multiplatform_mobile_kmm_at_meetup/)
+- [Android Developers Backstage – Episode 180: Kotlin Magic Platform](https://www.reddit.com/r/Kotlin/comments/rhzldg/android_developers_backstage_episode_180_kotlin/)
+- [Learning Backend for Android Development](https://www.reddit.com/r/Kotlin/comments/rhvizb/learning_backend_for_android_development/)
 - [Share your Kotlin expertise at Functional Conf 2022 - Call for Proposals &lpar;closes January 15&rpar;](https://www.reddit.com/r/Kotlin/comments/rhf3d5/share_your_kotlin_expertise_at_functional_conf/)
 - [Kotlin/JS testing and mocking libraries](https://www.reddit.com/r/Kotlin/comments/rhezr3/kotlinjs_testing_and_mocking_libraries/)
 - [How to continiously read user input from console?](https://www.reddit.com/r/Kotlin/comments/rh6mo9/how_to_continiously_read_user_input_from_console/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [[FATE] Looking For Paid Developers To Join The Next Biggest RSPS - Competitive Rates](https://www.reddit.com/r/Kotlin/comments/rh2fw8/fate_looking_for_paid_developers_to_join_the_next/)
 - [I have a problem. I try more many but not correct! whyy ?? help me](https://www.reddit.com/r/Kotlin/comments/rgx4wf/i_have_a_problem_i_try_more_many_but_not_correct/)
 - [Windows Application completely using Kotlin](https://www.reddit.com/r/Kotlin/comments/rgwqtd/windows_application_completely_using_kotlin/)
-- [Gilded Rose TDD Part 5](https://www.reddit.com/r/Kotlin/comments/rghvy2/gilded_rose_tdd_part_5/)
-- [Can we use jetpack instead XML? because it&#39;s easier for me as a flutter developer and similar to dart code](https://www.reddit.com/r/Kotlin/comments/rggijp/can_we_use_jetpack_instead_xml_because_its_easier/)
-- [Dynamically generated class during compile time](https://www.reddit.com/r/Kotlin/comments/rgf136/dynamically_generated_class_during_compile_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
