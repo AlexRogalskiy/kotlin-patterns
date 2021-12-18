@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best option to set dynamic interactive clock in bottom nav](https://www.reddit.com/r/Kotlin/comments/rirgoa/best_option_to_set_dynamic_interactive_clock_in/)
+- [Introducing Apollo Kotlin](https://www.reddit.com/r/Kotlin/comments/rijqmc/introducing_apollo_kotlin/)
+- [Kotlin Tips is the series of short videos where members of the Kotlin team show how to use Kotlin in more efficient and idiomatic way to have more fun when writing code. In this episode Kate Petrova shows 3 tips that will help you work with Strings in Kotlin.](https://www.reddit.com/r/Kotlin/comments/rigit3/kotlin_tips_is_the_series_of_short_videos_where/)
+- [Android Kotlin vs Java: Part - 1 | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/rif2o1/android_kotlin_vs_java_part_1_erselan_khan/)
+- [4koma 0.4.0 released](https://www.reddit.com/r/Kotlin/comments/rid9rw/4koma_040_released/)
+- [want to Create application with kotlin&lpar;android studio&rpar;](https://www.reddit.com/r/Kotlin/comments/ribr1f/want_to_create_application_with_kotlinandroid/)
 - [Adopting Kotlin Multiplatform Mobile &lpar;KMM&rpar; at Meetup](https://www.reddit.com/r/Kotlin/comments/ri4frw/adopting_kotlin_multiplatform_mobile_kmm_at_meetup/)
 - [Android Developers Backstage – Episode 180: Kotlin Magic Platform](https://www.reddit.com/r/Kotlin/comments/rhzldg/android_developers_backstage_episode_180_kotlin/)
 - [Learning Backend for Android Development](https://www.reddit.com/r/Kotlin/comments/rhvizb/learning_backend_for_android_development/)
 - [Share your Kotlin expertise at Functional Conf 2022 - Call for Proposals &lpar;closes January 15&rpar;](https://www.reddit.com/r/Kotlin/comments/rhf3d5/share_your_kotlin_expertise_at_functional_conf/)
-- [Kotlin/JS testing and mocking libraries](https://www.reddit.com/r/Kotlin/comments/rhezr3/kotlinjs_testing_and_mocking_libraries/)
-- [How to continiously read user input from console?](https://www.reddit.com/r/Kotlin/comments/rh6mo9/how_to_continiously_read_user_input_from_console/)
-- [Unclear what value is expected in this parameter?](https://www.reddit.com/r/Kotlin/comments/rh35ad/unclear_what_value_is_expected_in_this_parameter/)
-- [[FATE] Looking For Paid Developers To Join The Next Biggest RSPS - Competitive Rates](https://www.reddit.com/r/Kotlin/comments/rh2fw8/fate_looking_for_paid_developers_to_join_the_next/)
-- [I have a problem. I try more many but not correct! whyy ?? help me](https://www.reddit.com/r/Kotlin/comments/rgx4wf/i_have_a_problem_i_try_more_many_but_not_correct/)
-- [Windows Application completely using Kotlin](https://www.reddit.com/r/Kotlin/comments/rgwqtd/windows_application_completely_using_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
