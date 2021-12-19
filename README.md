@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Firebase SDK and Realtime Database](https://www.reddit.com/r/Kotlin/comments/rjg0ay/kotlin_firebase_sdk_and_realtime_database/)
+- [Android Kotlin vs Java: Part — 2 | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/rj9xl3/android_kotlin_vs_java_part_2_erselan_khan/)
+- [My images grid recyclerview scrolling is Laggy any tips?](https://www.reddit.com/r/Kotlin/comments/rj9m01/my_images_grid_recyclerview_scrolling_is_laggy/)
+- [Measuring time and durations in Kotlin](https://www.reddit.com/r/Kotlin/comments/rj7scg/measuring_time_and_durations_in_kotlin/)
 - [Best option to set dynamic interactive clock in bottom nav](https://www.reddit.com/r/Kotlin/comments/rirgoa/best_option_to_set_dynamic_interactive_clock_in/)
 - [Introducing Apollo Kotlin](https://www.reddit.com/r/Kotlin/comments/rijqmc/introducing_apollo_kotlin/)
 - [Kotlin Tips is the series of short videos where members of the Kotlin team show how to use Kotlin in more efficient and idiomatic way to have more fun when writing code. In this episode Kate Petrova shows 3 tips that will help you work with Strings in Kotlin.](https://www.reddit.com/r/Kotlin/comments/rigit3/kotlin_tips_is_the_series_of_short_videos_where/)
 - [Android Kotlin vs Java: Part - 1 | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/rif2o1/android_kotlin_vs_java_part_1_erselan_khan/)
 - [4koma 0.4.0 released](https://www.reddit.com/r/Kotlin/comments/rid9rw/4koma_040_released/)
 - [want to Create application with kotlin&lpar;android studio&rpar;](https://www.reddit.com/r/Kotlin/comments/ribr1f/want_to_create_application_with_kotlinandroid/)
-- [Adopting Kotlin Multiplatform Mobile &lpar;KMM&rpar; at Meetup](https://www.reddit.com/r/Kotlin/comments/ri4frw/adopting_kotlin_multiplatform_mobile_kmm_at_meetup/)
-- [Android Developers Backstage – Episode 180: Kotlin Magic Platform](https://www.reddit.com/r/Kotlin/comments/rhzldg/android_developers_backstage_episode_180_kotlin/)
-- [Learning Backend for Android Development](https://www.reddit.com/r/Kotlin/comments/rhvizb/learning_backend_for_android_development/)
-- [Share your Kotlin expertise at Functional Conf 2022 - Call for Proposals &lpar;closes January 15&rpar;](https://www.reddit.com/r/Kotlin/comments/rhf3d5/share_your_kotlin_expertise_at_functional_conf/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
