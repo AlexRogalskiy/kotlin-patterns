@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ble send value to predefined BLE Server](https://www.reddit.com/r/Kotlin/comments/rk7apy/ble_send_value_to_predefined_ble_server/)
+- [Use Ktor websockets to create chatting application &lpar;with source code&rpar;](https://www.reddit.com/r/Kotlin/comments/rk1jp0/use_ktor_websockets_to_create_chatting/)
+- [Beautify third-party API with Kotlin](https://www.reddit.com/r/Kotlin/comments/rk0jta/beautify_thirdparty_api_with_kotlin/)
+- [Coroutines: How does Mutex provide same guarantee as synchronized?](https://www.reddit.com/r/Kotlin/comments/rjxm3h/coroutines_how_does_mutex_provide_same_guarantee/)
+- [Python backend for Kotlin](https://www.reddit.com/r/Kotlin/comments/rjvngz/python_backend_for_kotlin/)
 - [Kotlin Firebase SDK and Realtime Database](https://www.reddit.com/r/Kotlin/comments/rjg0ay/kotlin_firebase_sdk_and_realtime_database/)
 - [Android Kotlin vs Java: Part — 2 | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/rj9xl3/android_kotlin_vs_java_part_2_erselan_khan/)
 - [My images grid recyclerview scrolling is Laggy any tips?](https://www.reddit.com/r/Kotlin/comments/rj9m01/my_images_grid_recyclerview_scrolling_is_laggy/)
 - [Measuring time and durations in Kotlin](https://www.reddit.com/r/Kotlin/comments/rj7scg/measuring_time_and_durations_in_kotlin/)
 - [Best option to set dynamic interactive clock in bottom nav](https://www.reddit.com/r/Kotlin/comments/rirgoa/best_option_to_set_dynamic_interactive_clock_in/)
-- [Introducing Apollo Kotlin](https://www.reddit.com/r/Kotlin/comments/rijqmc/introducing_apollo_kotlin/)
-- [Kotlin Tips is the series of short videos where members of the Kotlin team show how to use Kotlin in more efficient and idiomatic way to have more fun when writing code. In this episode Kate Petrova shows 3 tips that will help you work with Strings in Kotlin.](https://www.reddit.com/r/Kotlin/comments/rigit3/kotlin_tips_is_the_series_of_short_videos_where/)
-- [Android Kotlin vs Java: Part - 1 | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/rif2o1/android_kotlin_vs_java_part_1_erselan_khan/)
-- [4koma 0.4.0 released](https://www.reddit.com/r/Kotlin/comments/rid9rw/4koma_040_released/)
-- [want to Create application with kotlin&lpar;android studio&rpar;](https://www.reddit.com/r/Kotlin/comments/ribr1f/want_to_create_application_with_kotlinandroid/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
