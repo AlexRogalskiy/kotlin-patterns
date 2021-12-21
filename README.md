@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [easily validate your Jetpack Compose text fields](https://www.reddit.com/r/Kotlin/comments/rkukcb/easily_validate_your_jetpack_compose_text_fields/)
+- [Compose - Why aren&#39;t API&#39;s consistent across platforms?](https://www.reddit.com/r/Kotlin/comments/rkuie4/compose_why_arent_apis_consistent_across_platforms/)
+- [I made a thing to let you POST notifications to your phone, desktop and web.](https://www.reddit.com/r/Kotlin/comments/rks65y/i_made_a_thing_to_let_you_post_notifications_to/)
+- [My Golbalscope.launch looping itself, how to solve?](https://www.reddit.com/r/Kotlin/comments/rkrrkq/my_golbalscopelaunch_looping_itself_how_to_solve/)
+- [What type of framework is compose multi-platform?](https://www.reddit.com/r/Kotlin/comments/rknckt/what_type_of_framework_is_compose_multiplatform/)
+- [Google Play Data Safety Section](https://www.reddit.com/r/Kotlin/comments/rkmhkj/google_play_data_safety_section/)
+- [In this episode, Anton talks about the highlights of Kotlin Coroutines 1.6.0](https://www.reddit.com/r/Kotlin/comments/rkk6ov/in_this_episode_anton_talks_about_the_highlights/)
+- [What&#39;s new in Kotlin Coroutines 1.6.0](https://www.reddit.com/r/Kotlin/comments/rkjp8n/whats_new_in_kotlin_coroutines_160/)
+- [Is today’s microservice more bloated than yesterday’s monolith?](https://www.reddit.com/r/Kotlin/comments/rkhver/is_todays_microservice_more_bloated_than/)
 - [Ble send value to predefined BLE Server](https://www.reddit.com/r/Kotlin/comments/rk7apy/ble_send_value_to_predefined_ble_server/)
-- [Use Ktor websockets to create chatting application &lpar;with source code&rpar;](https://www.reddit.com/r/Kotlin/comments/rk1jp0/use_ktor_websockets_to_create_chatting/)
-- [Beautify third-party API with Kotlin](https://www.reddit.com/r/Kotlin/comments/rk0jta/beautify_thirdparty_api_with_kotlin/)
-- [Coroutines: How does Mutex provide same guarantee as synchronized?](https://www.reddit.com/r/Kotlin/comments/rjxm3h/coroutines_how_does_mutex_provide_same_guarantee/)
-- [Python backend for Kotlin](https://www.reddit.com/r/Kotlin/comments/rjvngz/python_backend_for_kotlin/)
-- [Kotlin Firebase SDK and Realtime Database](https://www.reddit.com/r/Kotlin/comments/rjg0ay/kotlin_firebase_sdk_and_realtime_database/)
-- [Android Kotlin vs Java: Part — 2 | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/rj9xl3/android_kotlin_vs_java_part_2_erselan_khan/)
-- [My images grid recyclerview scrolling is Laggy any tips?](https://www.reddit.com/r/Kotlin/comments/rj9m01/my_images_grid_recyclerview_scrolling_is_laggy/)
-- [Measuring time and durations in Kotlin](https://www.reddit.com/r/Kotlin/comments/rj7scg/measuring_time_and_durations_in_kotlin/)
-- [Best option to set dynamic interactive clock in bottom nav](https://www.reddit.com/r/Kotlin/comments/rirgoa/best_option_to_set_dynamic_interactive_clock_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
