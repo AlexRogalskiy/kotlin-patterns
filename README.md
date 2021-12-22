@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin-graphql](https://www.reddit.com/r/Kotlin/comments/rlqaqb/kotlingraphql/)
+- [JetBrains Toolbox Case Study: Moving 1M users to Kotlin &amp; Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/rlkyot/jetbrains_toolbox_case_study_moving_1m_users_to/)
+- [Build REST API with Kotlin and Ktor](https://www.reddit.com/r/Kotlin/comments/rlb50z/build_rest_api_with_kotlin_and_ktor/)
+- [How can one dislike Ternary Operator but like Elvis Operator?](https://www.reddit.com/r/Kotlin/comments/rl9g6g/how_can_one_dislike_ternary_operator_but_like/)
+- [The 5 Java Concise Syntax I Miss in Kotlin](https://www.reddit.com/r/Kotlin/comments/rl6l4m/the_5_java_concise_syntax_i_miss_in_kotlin/)
 - [easily validate your Jetpack Compose text fields](https://www.reddit.com/r/Kotlin/comments/rkukcb/easily_validate_your_jetpack_compose_text_fields/)
 - [Compose - Why aren&#39;t API&#39;s consistent across platforms?](https://www.reddit.com/r/Kotlin/comments/rkuie4/compose_why_arent_apis_consistent_across_platforms/)
 - [I made a thing to let you POST notifications to your phone, desktop and web.](https://www.reddit.com/r/Kotlin/comments/rks65y/i_made_a_thing_to_let_you_post_notifications_to/)
 - [My Golbalscope.launch looping itself, how to solve?](https://www.reddit.com/r/Kotlin/comments/rkrrkq/my_golbalscopelaunch_looping_itself_how_to_solve/)
 - [What type of framework is compose multi-platform?](https://www.reddit.com/r/Kotlin/comments/rknckt/what_type_of_framework_is_compose_multiplatform/)
-- [Google Play Data Safety Section](https://www.reddit.com/r/Kotlin/comments/rkmhkj/google_play_data_safety_section/)
-- [In this episode, Anton talks about the highlights of Kotlin Coroutines 1.6.0](https://www.reddit.com/r/Kotlin/comments/rkk6ov/in_this_episode_anton_talks_about_the_highlights/)
-- [What&#39;s new in Kotlin Coroutines 1.6.0](https://www.reddit.com/r/Kotlin/comments/rkjp8n/whats_new_in_kotlin_coroutines_160/)
-- [Is today’s microservice more bloated than yesterday’s monolith?](https://www.reddit.com/r/Kotlin/comments/rkhver/is_todays_microservice_more_bloated_than/)
-- [Ble send value to predefined BLE Server](https://www.reddit.com/r/Kotlin/comments/rk7apy/ble_send_value_to_predefined_ble_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
