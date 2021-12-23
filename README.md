@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin-graphql](https://www.reddit.com/r/Kotlin/comments/rlqaqb/kotlingraphql/)
-- [JetBrains Toolbox Case Study: Moving 1M users to Kotlin &amp; Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/rlkyot/jetbrains_toolbox_case_study_moving_1m_users_to/)
-- [Build REST API with Kotlin and Ktor](https://www.reddit.com/r/Kotlin/comments/rlb50z/build_rest_api_with_kotlin_and_ktor/)
-- [How can one dislike Ternary Operator but like Elvis Operator?](https://www.reddit.com/r/Kotlin/comments/rl9g6g/how_can_one_dislike_ternary_operator_but_like/)
-- [The 5 Java Concise Syntax I Miss in Kotlin](https://www.reddit.com/r/Kotlin/comments/rl6l4m/the_5_java_concise_syntax_i_miss_in_kotlin/)
-- [easily validate your Jetpack Compose text fields](https://www.reddit.com/r/Kotlin/comments/rkukcb/easily_validate_your_jetpack_compose_text_fields/)
-- [Compose - Why aren&#39;t API&#39;s consistent across platforms?](https://www.reddit.com/r/Kotlin/comments/rkuie4/compose_why_arent_apis_consistent_across_platforms/)
-- [I made a thing to let you POST notifications to your phone, desktop and web.](https://www.reddit.com/r/Kotlin/comments/rks65y/i_made_a_thing_to_let_you_post_notifications_to/)
-- [My Golbalscope.launch looping itself, how to solve?](https://www.reddit.com/r/Kotlin/comments/rkrrkq/my_golbalscopelaunch_looping_itself_how_to_solve/)
-- [What type of framework is compose multi-platform?](https://www.reddit.com/r/Kotlin/comments/rknckt/what_type_of_framework_is_compose_multiplatform/)
+- [Reuse code on backend + mobile?](https://www.reddit.com/r/Kotlin/comments/rmh21v/reuse_code_on_backend_mobile/)
+- [Hopping Islands: From Java to Kotlin — Part 3](https://www.reddit.com/r/Kotlin/comments/rmfw5z/hopping_islands_from_java_to_kotlin_part_3/)
+- [Hello, how Navigation from one fragment to another in single activity keep both on screen](https://www.reddit.com/r/Kotlin/comments/rma7u3/hello_how_navigation_from_one_fragment_to_another/)
+- [Fun DSLs in Kotlin - Builders and Receiver Types | João N. Matos](https://www.reddit.com/r/Kotlin/comments/rm9bhk/fun_dsls_in_kotlin_builders_and_receiver_types/)
+- [On the Safe Side: Log your 3rd-party Package Versions](https://www.reddit.com/r/Kotlin/comments/rm83ew/on_the_safe_side_log_your_3rdparty_package/)
+- [What can I make with Kotlin?](https://www.reddit.com/r/Kotlin/comments/rm52ng/what_can_i_make_with_kotlin/)
+- [Introducing kotlinx.coroutines 1.6.0](https://www.reddit.com/r/Kotlin/comments/rm4iqr/introducing_kotlinxcoroutines_160/)
+- [Android Kotlin vs Java Series: Part -3 | Handle Null Objects](https://www.reddit.com/r/Kotlin/comments/rm3xhs/android_kotlin_vs_java_series_part_3_handle_null/)
+- [Kotlin Flow a much better version of Sequence?](https://www.reddit.com/r/Kotlin/comments/rm19z7/kotlin_flow_a_much_better_version_of_sequence/)
+- [TypeVille Conference - Call For Papers till 9 January](https://www.reddit.com/r/Kotlin/comments/rm0rbz/typeville_conference_call_for_papers_till_9/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
