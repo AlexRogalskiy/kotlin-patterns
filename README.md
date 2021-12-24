@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google Pub Sub Docs](https://www.reddit.com/r/Kotlin/comments/rn424a/google_pub_sub_docs/)
+- [KMM Memory Model - when to switch?](https://www.reddit.com/r/Kotlin/comments/rn3j4e/kmm_memory_model_when_to_switch/)
+- [I wrote a short post about how we&#39;re using OpenAPI at work for robust REST APIs - I&#39;d be happy to hear what you&#39;re thinking about it 🙏&lpar;any feedback is welcomed!&rpar;](https://www.reddit.com/r/Kotlin/comments/rn27ra/i_wrote_a_short_post_about_how_were_using_openapi/)
+- [Android Kotlin vs Java Series: Part -3 | Handle Null Objects](https://www.reddit.com/r/Kotlin/comments/rmy7m8/android_kotlin_vs_java_series_part_3_handle_null/)
+- [Debugging coroutines](https://www.reddit.com/r/Kotlin/comments/rmuvdj/debugging_coroutines/)
+- [a test of Kover : Code Coverage plugin for Kotlin](https://www.reddit.com/r/Kotlin/comments/rmrzqs/a_test_of_kover_code_coverage_plugin_for_kotlin/)
+- [is there a framework &lpar;java or kotlin&rpar; to safely evaluate user-provided code &lpar;any language&rpar;?](https://www.reddit.com/r/Kotlin/comments/rmrrfa/is_there_a_framework_java_or_kotlin_to_safely/)
 - [Reuse code on backend + mobile?](https://www.reddit.com/r/Kotlin/comments/rmh21v/reuse_code_on_backend_mobile/)
 - [Hopping Islands: From Java to Kotlin — Part 3](https://www.reddit.com/r/Kotlin/comments/rmfw5z/hopping_islands_from_java_to_kotlin_part_3/)
 - [Hello, how Navigation from one fragment to another in single activity keep both on screen](https://www.reddit.com/r/Kotlin/comments/rma7u3/hello_how_navigation_from_one_fragment_to_another/)
-- [Fun DSLs in Kotlin - Builders and Receiver Types | João N. Matos](https://www.reddit.com/r/Kotlin/comments/rm9bhk/fun_dsls_in_kotlin_builders_and_receiver_types/)
-- [On the Safe Side: Log your 3rd-party Package Versions](https://www.reddit.com/r/Kotlin/comments/rm83ew/on_the_safe_side_log_your_3rdparty_package/)
-- [What can I make with Kotlin?](https://www.reddit.com/r/Kotlin/comments/rm52ng/what_can_i_make_with_kotlin/)
-- [Introducing kotlinx.coroutines 1.6.0](https://www.reddit.com/r/Kotlin/comments/rm4iqr/introducing_kotlinxcoroutines_160/)
-- [Android Kotlin vs Java Series: Part -3 | Handle Null Objects](https://www.reddit.com/r/Kotlin/comments/rm3xhs/android_kotlin_vs_java_series_part_3_handle_null/)
-- [Kotlin Flow a much better version of Sequence?](https://www.reddit.com/r/Kotlin/comments/rm19z7/kotlin_flow_a_much_better_version_of_sequence/)
-- [TypeVille Conference - Call For Papers till 9 January](https://www.reddit.com/r/Kotlin/comments/rm0rbz/typeville_conference_call_for_papers_till_9/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
