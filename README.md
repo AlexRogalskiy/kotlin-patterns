@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to implement minimise and full screen between two fragment?](https://www.reddit.com/r/Kotlin/comments/rnnm0n/how_to_implement_minimise_and_full_screen_between/)
+- [Help parsing JSON with Retrofit &amp; Moshi](https://www.reddit.com/r/Kotlin/comments/rnk5cq/help_parsing_json_with_retrofit_moshi/)
+- [Java versus Kotlin - personal experiences](https://www.reddit.com/r/Kotlin/comments/rnihe8/java_versus_kotlin_personal_experiences/)
 - [Google Pub Sub Docs](https://www.reddit.com/r/Kotlin/comments/rn424a/google_pub_sub_docs/)
 - [KMM Memory Model - when to switch?](https://www.reddit.com/r/Kotlin/comments/rn3j4e/kmm_memory_model_when_to_switch/)
 - [I wrote a short post about how we&#39;re using OpenAPI at work for robust REST APIs - I&#39;d be happy to hear what you&#39;re thinking about it 🙏&lpar;any feedback is welcomed!&rpar;](https://www.reddit.com/r/Kotlin/comments/rn27ra/i_wrote_a_short_post_about_how_were_using_openapi/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Debugging coroutines](https://www.reddit.com/r/Kotlin/comments/rmuvdj/debugging_coroutines/)
 - [a test of Kover : Code Coverage plugin for Kotlin](https://www.reddit.com/r/Kotlin/comments/rmrzqs/a_test_of_kover_code_coverage_plugin_for_kotlin/)
 - [is there a framework &lpar;java or kotlin&rpar; to safely evaluate user-provided code &lpar;any language&rpar;?](https://www.reddit.com/r/Kotlin/comments/rmrrfa/is_there_a_framework_java_or_kotlin_to_safely/)
-- [Reuse code on backend + mobile?](https://www.reddit.com/r/Kotlin/comments/rmh21v/reuse_code_on_backend_mobile/)
-- [Hopping Islands: From Java to Kotlin — Part 3](https://www.reddit.com/r/Kotlin/comments/rmfw5z/hopping_islands_from_java_to_kotlin_part_3/)
-- [Hello, how Navigation from one fragment to another in single activity keep both on screen](https://www.reddit.com/r/Kotlin/comments/rma7u3/hello_how_navigation_from_one_fragment_to_another/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
