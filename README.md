@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My mapbox map works in my emulator but not in my device](https://www.reddit.com/r/Kotlin/comments/rpa0vi/my_mapbox_map_works_in_my_emulator_but_not_in_my/)
+- [C++ and Kotlin - minimal % of each for an Android app](https://www.reddit.com/r/Kotlin/comments/rp409s/c_and_kotlin_minimal_of_each_for_an_android_app/)
+- [Why we always use repositoryintrface and then repository implementation. How does it help in unit testing? And what other benefits are?](https://www.reddit.com/r/Kotlin/comments/rp1y69/why_we_always_use_repositoryintrface_and_then/)
+- [Android Kotlin vs Java Series: Part - 4 | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/rov9h0/android_kotlin_vs_java_series_part_4_erselan_khan/)
+- [I need to learn Kotlin for my internship. Can you recommend me a good Udemy course?](https://www.reddit.com/r/Kotlin/comments/rou543/i_need_to_learn_kotlin_for_my_internship_can_you/)
 - [StateFlow backpressure?](https://www.reddit.com/r/Kotlin/comments/rojgbz/stateflow_backpressure/)
 - [Companies that use server-side Kotlin](https://www.reddit.com/r/Kotlin/comments/roalfd/companies_that_use_serverside_kotlin/)
 - [Open source Android app](https://www.reddit.com/r/Kotlin/comments/roa5pn/open_source_android_app/)
 - [How to implement minimise and full screen between two fragment?](https://www.reddit.com/r/Kotlin/comments/rnnm0n/how_to_implement_minimise_and_full_screen_between/)
 - [Help parsing JSON with Retrofit &amp; Moshi](https://www.reddit.com/r/Kotlin/comments/rnk5cq/help_parsing_json_with_retrofit_moshi/)
-- [Java versus Kotlin - personal experiences](https://www.reddit.com/r/Kotlin/comments/rnihe8/java_versus_kotlin_personal_experiences/)
-- [KMM Memory Model - when to switch?](https://www.reddit.com/r/Kotlin/comments/rn3j4e/kmm_memory_model_when_to_switch/)
-- [I wrote a short post about how we&#39;re using OpenAPI at work for robust REST APIs - I&#39;d be happy to hear what you&#39;re thinking about it 🙏&lpar;any feedback is welcomed!&rpar;](https://www.reddit.com/r/Kotlin/comments/rn27ra/i_wrote_a_short_post_about_how_were_using_openapi/)
-- [Android Kotlin vs Java Series: Part -3 | Handle Null Objects](https://www.reddit.com/r/Kotlin/comments/rmy7m8/android_kotlin_vs_java_series_part_3_handle_null/)
-- [Debugging coroutines](https://www.reddit.com/r/Kotlin/comments/rmuvdj/debugging_coroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
