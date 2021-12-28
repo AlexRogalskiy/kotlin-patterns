@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Talking Kotlin #109 – Slacking with Zac Sweers](https://www.reddit.com/r/Kotlin/comments/rpuwdn/talking_kotlin_109_slacking_with_zac_sweers/)
 - [My mapbox map works in my emulator but not in my device](https://www.reddit.com/r/Kotlin/comments/rpa0vi/my_mapbox_map_works_in_my_emulator_but_not_in_my/)
 - [C++ and Kotlin - minimal % of each for an Android app](https://www.reddit.com/r/Kotlin/comments/rp409s/c_and_kotlin_minimal_of_each_for_an_android_app/)
 - [Why we always use repositoryintrface and then repository implementation. How does it help in unit testing? And what other benefits are?](https://www.reddit.com/r/Kotlin/comments/rp1y69/why_we_always_use_repositoryintrface_and_then/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Companies that use server-side Kotlin](https://www.reddit.com/r/Kotlin/comments/roalfd/companies_that_use_serverside_kotlin/)
 - [Open source Android app](https://www.reddit.com/r/Kotlin/comments/roa5pn/open_source_android_app/)
 - [How to implement minimise and full screen between two fragment?](https://www.reddit.com/r/Kotlin/comments/rnnm0n/how_to_implement_minimise_and_full_screen_between/)
-- [Help parsing JSON with Retrofit &amp; Moshi](https://www.reddit.com/r/Kotlin/comments/rnk5cq/help_parsing_json_with_retrofit_moshi/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
