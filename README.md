@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functional Interfaces in Kotlin](https://www.reddit.com/r/Kotlin/comments/rqod40/functional_interfaces_in_kotlin/)
+- [Is there something like Laracasts for Kotlin?](https://www.reddit.com/r/Kotlin/comments/rql9yp/is_there_something_like_laracasts_for_kotlin/)
+- [Kotlin 2021 - Wrapped Up!](https://www.reddit.com/r/Kotlin/comments/rqgfwp/kotlin_2021_wrapped_up/)
+- [Is there some syntax sugar for read-only property caching?](https://www.reddit.com/r/Kotlin/comments/rqcanv/is_there_some_syntax_sugar_for_readonly_property/)
+- [Does Kotlin Multiplatform needs Java installed on the target machine?](https://www.reddit.com/r/Kotlin/comments/rqam6g/does_kotlin_multiplatform_needs_java_installed_on/)
 - [Talking Kotlin #109 – Slacking with Zac Sweers](https://www.reddit.com/r/Kotlin/comments/rpuwdn/talking_kotlin_109_slacking_with_zac_sweers/)
 - [My mapbox map works in my emulator but not in my device](https://www.reddit.com/r/Kotlin/comments/rpa0vi/my_mapbox_map_works_in_my_emulator_but_not_in_my/)
 - [C++ and Kotlin - minimal % of each for an Android app](https://www.reddit.com/r/Kotlin/comments/rp409s/c_and_kotlin_minimal_of_each_for_an_android_app/)
 - [Why we always use repositoryintrface and then repository implementation. How does it help in unit testing? And what other benefits are?](https://www.reddit.com/r/Kotlin/comments/rp1y69/why_we_always_use_repositoryintrface_and_then/)
 - [Android Kotlin vs Java Series: Part - 4 | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/rov9h0/android_kotlin_vs_java_series_part_4_erselan_khan/)
-- [I need to learn Kotlin for my internship. Can you recommend me a good Udemy course?](https://www.reddit.com/r/Kotlin/comments/rou543/i_need_to_learn_kotlin_for_my_internship_can_you/)
-- [StateFlow backpressure?](https://www.reddit.com/r/Kotlin/comments/rojgbz/stateflow_backpressure/)
-- [Companies that use server-side Kotlin](https://www.reddit.com/r/Kotlin/comments/roalfd/companies_that_use_serverside_kotlin/)
-- [Open source Android app](https://www.reddit.com/r/Kotlin/comments/roa5pn/open_source_android_app/)
-- [How to implement minimise and full screen between two fragment?](https://www.reddit.com/r/Kotlin/comments/rnnm0n/how_to_implement_minimise_and_full_screen_between/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
