@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interesting problem withContext&lpar;&rpar; in Kotlin](https://www.reddit.com/r/Kotlin/comments/rsi5ko/interesting_problem_withcontext_in_kotlin/)
+- [Why are my coroutines slow?](https://www.reddit.com/r/Kotlin/comments/rs7lf3/why_are_my_coroutines_slow/)
+- [Exploring Compose for Desktop. Is there any basic of UI](https://www.reddit.com/r/Kotlin/comments/rrwu3v/exploring_compose_for_desktop_is_there_any_basic/)
 - [running function B after function A &lpar;android kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/rrnhrc/running_function_b_after_function_a_android_kotlin/)
 - [sorting a kotlin list but with conditionals](https://www.reddit.com/r/Kotlin/comments/rrjldl/sorting_a_kotlin_list_but_with_conditionals/)
 - [Guess what firstNotNullOfOrNull does](https://www.reddit.com/r/Kotlin/comments/rres6u/guess_what_firstnotnullofornull_does/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [The easiest way to more idiomatic Kotlin with Scope Functions: Which are there and when to use which?](https://www.reddit.com/r/Kotlin/comments/rra9eb/the_easiest_way_to_more_idiomatic_kotlin_with/)
 - [How to manage focus between two recyclerviews to set focus on previously focused when back](https://www.reddit.com/r/Kotlin/comments/rr9vbp/how_to_manage_focus_between_two_recyclerviews_to/)
 - [Kotlin + JavaFX + Gradle + Jigsaw](https://www.reddit.com/r/Kotlin/comments/rr6zhd/kotlin_javafx_gradle_jigsaw/)
-- [Android Kotlin vs Java Series: Part - 5 | Erselan Khan](https://www.reddit.com/r/Kotlin/comments/rr6jsc/android_kotlin_vs_java_series_part_5_erselan_khan/)
-- [Doubt: Making a screen full-screen on all devices](https://www.reddit.com/r/Kotlin/comments/rr1n17/doubt_making_a_screen_fullscreen_on_all_devices/)
-- [Chaos Engineering – Simulating OutOfMemoryError](https://www.reddit.com/r/Kotlin/comments/rqyyxg/chaos_engineering_simulating_outofmemoryerror/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
