@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I want to build an App](https://www.reddit.com/r/Kotlin/comments/rszcxc/i_want_to_build_an_app/)
+- [Google Protocol Buffers Support Idiomatic Kotlin Bindings](https://www.reddit.com/r/Kotlin/comments/rswo9n/google_protocol_buffers_support_idiomatic_kotlin/)
+- [Why would I want to target JVM &gt; 8?](https://www.reddit.com/r/Kotlin/comments/rsvgpr/why_would_i_want_to_target_jvm_8/)
+- [I&#39;m slightly surprised that Kotlin allows === equality checking for null](https://www.reddit.com/r/Kotlin/comments/rsthrq/im_slightly_surprised_that_kotlin_allows_equality/)
+- [Experiences in using Kotlin for legacy Java application?](https://www.reddit.com/r/Kotlin/comments/rstdgw/experiences_in_using_kotlin_for_legacy_java/)
+- [Is there a way to print 2d array stacked instead of linear?](https://www.reddit.com/r/Kotlin/comments/rsjuus/is_there_a_way_to_print_2d_array_stacked_instead/)
 - [Interesting problem withContext&lpar;&rpar; in Kotlin](https://www.reddit.com/r/Kotlin/comments/rsi5ko/interesting_problem_withcontext_in_kotlin/)
 - [Why are my coroutines slow?](https://www.reddit.com/r/Kotlin/comments/rs7lf3/why_are_my_coroutines_slow/)
 - [Exploring Compose for Desktop. Is there any basic of UI](https://www.reddit.com/r/Kotlin/comments/rrwu3v/exploring_compose_for_desktop_is_there_any_basic/)
-- [running function B after function A &lpar;android kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/rrnhrc/running_function_b_after_function_a_android_kotlin/)
 - [sorting a kotlin list but with conditionals](https://www.reddit.com/r/Kotlin/comments/rrjldl/sorting_a_kotlin_list_but_with_conditionals/)
-- [Guess what firstNotNullOfOrNull does](https://www.reddit.com/r/Kotlin/comments/rres6u/guess_what_firstnotnullofornull_does/)
-- [One hour Kotlin guide for beginners](https://www.reddit.com/r/Kotlin/comments/rrdqhn/one_hour_kotlin_guide_for_beginners/)
-- [The easiest way to more idiomatic Kotlin with Scope Functions: Which are there and when to use which?](https://www.reddit.com/r/Kotlin/comments/rra9eb/the_easiest_way_to_more_idiomatic_kotlin_with/)
-- [How to manage focus between two recyclerviews to set focus on previously focused when back](https://www.reddit.com/r/Kotlin/comments/rr9vbp/how_to_manage_focus_between_two_recyclerviews_to/)
-- [Kotlin + JavaFX + Gradle + Jigsaw](https://www.reddit.com/r/Kotlin/comments/rr6zhd/kotlin_javafx_gradle_jigsaw/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
