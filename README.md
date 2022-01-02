@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Creating a type-safe WHERE clause DSL using Kotlin](https://www.reddit.com/r/Kotlin/comments/rtxfdm/creating_a_typesafe_where_clause_dsl_using_kotlin/)
+- [how to declare dependency for sourceSet](https://www.reddit.com/r/Kotlin/comments/rtvau4/how_to_declare_dependency_for_sourceset/)
+- [Casting null to a generic non-null type discrepancy](https://www.reddit.com/r/Kotlin/comments/rtu427/casting_null_to_a_generic_nonnull_type_discrepancy/)
+- [Why won&#39;t my string print?](https://www.reddit.com/r/Kotlin/comments/rtr18w/why_wont_my_string_print/)
+- [Any idiomatic kotlin function for below snippet?](https://www.reddit.com/r/Kotlin/comments/rtg1ic/any_idiomatic_kotlin_function_for_below_snippet/)
 - [I want to build an App](https://www.reddit.com/r/Kotlin/comments/rszcxc/i_want_to_build_an_app/)
 - [Google Protocol Buffers Support Idiomatic Kotlin Bindings](https://www.reddit.com/r/Kotlin/comments/rswo9n/google_protocol_buffers_support_idiomatic_kotlin/)
 - [Why would I want to target JVM &gt; 8?](https://www.reddit.com/r/Kotlin/comments/rsvgpr/why_would_i_want_to_target_jvm_8/)
 - [I&#39;m slightly surprised that Kotlin allows === equality checking for null](https://www.reddit.com/r/Kotlin/comments/rsthrq/im_slightly_surprised_that_kotlin_allows_equality/)
 - [Experiences in using Kotlin for legacy Java application?](https://www.reddit.com/r/Kotlin/comments/rstdgw/experiences_in_using_kotlin_for_legacy_java/)
-- [Is there a way to print 2d array stacked instead of linear?](https://www.reddit.com/r/Kotlin/comments/rsjuus/is_there_a_way_to_print_2d_array_stacked_instead/)
-- [Interesting problem withContext&lpar;&rpar; in Kotlin](https://www.reddit.com/r/Kotlin/comments/rsi5ko/interesting_problem_withcontext_in_kotlin/)
-- [Why are my coroutines slow?](https://www.reddit.com/r/Kotlin/comments/rs7lf3/why_are_my_coroutines_slow/)
-- [Exploring Compose for Desktop. Is there any basic of UI](https://www.reddit.com/r/Kotlin/comments/rrwu3v/exploring_compose_for_desktop_is_there_any_basic/)
-- [sorting a kotlin list but with conditionals](https://www.reddit.com/r/Kotlin/comments/rrjldl/sorting_a_kotlin_list_but_with_conditionals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
