@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Confusing behaviour in method resolution for Generic functions with specialised alternatives](https://www.reddit.com/r/Kotlin/comments/rul16p/confusing_behaviour_in_method_resolution_for/)
+- [How to wrap callback api which keeps listeners via weak ref with Flow?](https://www.reddit.com/r/Kotlin/comments/rud13q/how_to_wrap_callback_api_which_keeps_listeners/)
+- [kotlin or java to coding android apps in 2022?](https://www.reddit.com/r/Kotlin/comments/ru9w7n/kotlin_or_java_to_coding_android_apps_in_2022/)
+- [Why doesn&#39;t `function&lpar;&rpar;{}` require the brace in the same line?](https://www.reddit.com/r/Kotlin/comments/rtyzwq/why_doesnt_function_require_the_brace_in_the_same/)
 - [Creating a type-safe WHERE clause DSL using Kotlin](https://www.reddit.com/r/Kotlin/comments/rtxfdm/creating_a_typesafe_where_clause_dsl_using_kotlin/)
 - [how to declare dependency for sourceSet](https://www.reddit.com/r/Kotlin/comments/rtvau4/how_to_declare_dependency_for_sourceset/)
 - [Casting null to a generic non-null type discrepancy](https://www.reddit.com/r/Kotlin/comments/rtu427/casting_null_to_a_generic_nonnull_type_discrepancy/)
 - [Why won&#39;t my string print?](https://www.reddit.com/r/Kotlin/comments/rtr18w/why_wont_my_string_print/)
 - [Any idiomatic kotlin function for below snippet?](https://www.reddit.com/r/Kotlin/comments/rtg1ic/any_idiomatic_kotlin_function_for_below_snippet/)
 - [I want to build an App](https://www.reddit.com/r/Kotlin/comments/rszcxc/i_want_to_build_an_app/)
-- [Google Protocol Buffers Support Idiomatic Kotlin Bindings](https://www.reddit.com/r/Kotlin/comments/rswo9n/google_protocol_buffers_support_idiomatic_kotlin/)
-- [Why would I want to target JVM &gt; 8?](https://www.reddit.com/r/Kotlin/comments/rsvgpr/why_would_i_want_to_target_jvm_8/)
-- [I&#39;m slightly surprised that Kotlin allows === equality checking for null](https://www.reddit.com/r/Kotlin/comments/rsthrq/im_slightly_surprised_that_kotlin_allows_equality/)
-- [Experiences in using Kotlin for legacy Java application?](https://www.reddit.com/r/Kotlin/comments/rstdgw/experiences_in_using_kotlin_for_legacy_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
