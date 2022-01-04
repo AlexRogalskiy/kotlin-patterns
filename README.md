@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Experience with Kotlin - inherent code clarity and less bugs](https://www.reddit.com/r/Kotlin/comments/rux791/experience_with_kotlin_inherent_code_clarity_and/)
 - [Confusing behaviour in method resolution for Generic functions with specialised alternatives](https://www.reddit.com/r/Kotlin/comments/rul16p/confusing_behaviour_in_method_resolution_for/)
 - [How to wrap callback api which keeps listeners via weak ref with Flow?](https://www.reddit.com/r/Kotlin/comments/rud13q/how_to_wrap_callback_api_which_keeps_listeners/)
 - [kotlin or java to coding android apps in 2022?](https://www.reddit.com/r/Kotlin/comments/ru9w7n/kotlin_or_java_to_coding_android_apps_in_2022/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Casting null to a generic non-null type discrepancy](https://www.reddit.com/r/Kotlin/comments/rtu427/casting_null_to_a_generic_nonnull_type_discrepancy/)
 - [Why won&#39;t my string print?](https://www.reddit.com/r/Kotlin/comments/rtr18w/why_wont_my_string_print/)
 - [Any idiomatic kotlin function for below snippet?](https://www.reddit.com/r/Kotlin/comments/rtg1ic/any_idiomatic_kotlin_function_for_below_snippet/)
-- [I want to build an App](https://www.reddit.com/r/Kotlin/comments/rszcxc/i_want_to_build_an_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
