@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Altering annotation at runtime](https://www.reddit.com/r/Kotlin/comments/rwa8c8/altering_annotation_at_runtime/)
+- [kotlin-native apps](https://www.reddit.com/r/Kotlin/comments/rw3bmr/kotlinnative_apps/)
+- [Kotlin &lpar;JVM&rpar; londogard-nlp-toolkit 1.1.0 release! 🥳](https://www.reddit.com/r/Kotlin/comments/rvwsx3/kotlin_jvm_londogardnlptoolkit_110_release/)
+- [Do you use kotlin/js?](https://www.reddit.com/r/Kotlin/comments/rvu1ra/do_you_use_kotlinjs/)
+- [Query of a kotlin beginner](https://www.reddit.com/r/Kotlin/comments/rvr9cd/query_of_a_kotlin_beginner/)
 - [Experience with Kotlin - inherent code clarity and less bugs](https://www.reddit.com/r/Kotlin/comments/rux791/experience_with_kotlin_inherent_code_clarity_and/)
 - [Confusing behaviour in method resolution for Generic functions with specialised alternatives](https://www.reddit.com/r/Kotlin/comments/rul16p/confusing_behaviour_in_method_resolution_for/)
 - [How to wrap callback api which keeps listeners via weak ref with Flow?](https://www.reddit.com/r/Kotlin/comments/rud13q/how_to_wrap_callback_api_which_keeps_listeners/)
 - [kotlin or java to coding android apps in 2022?](https://www.reddit.com/r/Kotlin/comments/ru9w7n/kotlin_or_java_to_coding_android_apps_in_2022/)
 - [Why doesn&#39;t `function&lpar;&rpar;{}` require the brace in the same line?](https://www.reddit.com/r/Kotlin/comments/rtyzwq/why_doesnt_function_require_the_brace_in_the_same/)
-- [Creating a type-safe WHERE clause DSL using Kotlin](https://www.reddit.com/r/Kotlin/comments/rtxfdm/creating_a_typesafe_where_clause_dsl_using_kotlin/)
-- [how to declare dependency for sourceSet](https://www.reddit.com/r/Kotlin/comments/rtvau4/how_to_declare_dependency_for_sourceset/)
-- [Casting null to a generic non-null type discrepancy](https://www.reddit.com/r/Kotlin/comments/rtu427/casting_null_to_a_generic_nonnull_type_discrepancy/)
-- [Why won&#39;t my string print?](https://www.reddit.com/r/Kotlin/comments/rtr18w/why_wont_my_string_print/)
-- [Any idiomatic kotlin function for below snippet?](https://www.reddit.com/r/Kotlin/comments/rtg1ic/any_idiomatic_kotlin_function_for_below_snippet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
