@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Generate and fill PDF using Kotlin](https://www.reddit.com/r/Kotlin/comments/rwy90u/generate_and_fill_pdf_using_kotlin/)
+- [Kotlin/JS Module vs Bundle](https://www.reddit.com/r/Kotlin/comments/rwu6h2/kotlinjs_module_vs_bundle/)
+- [Kotlin coroutines stack trace issue](https://www.reddit.com/r/Kotlin/comments/rwswao/kotlin_coroutines_stack_trace_issue/)
+- [Transform item that contains a list](https://www.reddit.com/r/Kotlin/comments/rwr7mk/transform_item_that_contains_a_list/)
+- [Check out the latest episode of Kotlin News!](https://www.reddit.com/r/Kotlin/comments/rwoot6/check_out_the_latest_episode_of_kotlin_news/)
+- [A go-to GUI library for Kotlin](https://www.reddit.com/r/Kotlin/comments/rwlomi/a_goto_gui_library_for_kotlin/)
 - [Altering annotation at runtime](https://www.reddit.com/r/Kotlin/comments/rwa8c8/altering_annotation_at_runtime/)
 - [kotlin-native apps](https://www.reddit.com/r/Kotlin/comments/rw3bmr/kotlinnative_apps/)
 - [Kotlin &lpar;JVM&rpar; londogard-nlp-toolkit 1.1.0 release! 🥳](https://www.reddit.com/r/Kotlin/comments/rvwsx3/kotlin_jvm_londogardnlptoolkit_110_release/)
 - [Do you use kotlin/js?](https://www.reddit.com/r/Kotlin/comments/rvu1ra/do_you_use_kotlinjs/)
-- [Query of a kotlin beginner](https://www.reddit.com/r/Kotlin/comments/rvr9cd/query_of_a_kotlin_beginner/)
-- [Experience with Kotlin - inherent code clarity and less bugs](https://www.reddit.com/r/Kotlin/comments/rux791/experience_with_kotlin_inherent_code_clarity_and/)
-- [Confusing behaviour in method resolution for Generic functions with specialised alternatives](https://www.reddit.com/r/Kotlin/comments/rul16p/confusing_behaviour_in_method_resolution_for/)
-- [How to wrap callback api which keeps listeners via weak ref with Flow?](https://www.reddit.com/r/Kotlin/comments/rud13q/how_to_wrap_callback_api_which_keeps_listeners/)
-- [kotlin or java to coding android apps in 2022?](https://www.reddit.com/r/Kotlin/comments/ru9w7n/kotlin_or_java_to_coding_android_apps_in_2022/)
-- [Why doesn&#39;t `function&lpar;&rpar;{}` require the brace in the same line?](https://www.reddit.com/r/Kotlin/comments/rtyzwq/why_doesnt_function_require_the_brace_in_the_same/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
