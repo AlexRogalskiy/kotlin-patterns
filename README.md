@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Generate and fill PDF using Kotlin](https://www.reddit.com/r/Kotlin/comments/rwy90u/generate_and_fill_pdf_using_kotlin/)
-- [Kotlin/JS Module vs Bundle](https://www.reddit.com/r/Kotlin/comments/rwu6h2/kotlinjs_module_vs_bundle/)
-- [Kotlin coroutines stack trace issue](https://www.reddit.com/r/Kotlin/comments/rwswao/kotlin_coroutines_stack_trace_issue/)
-- [Transform item that contains a list](https://www.reddit.com/r/Kotlin/comments/rwr7mk/transform_item_that_contains_a_list/)
-- [Check out the latest episode of Kotlin News!](https://www.reddit.com/r/Kotlin/comments/rwoot6/check_out_the_latest_episode_of_kotlin_news/)
-- [A go-to GUI library for Kotlin](https://www.reddit.com/r/Kotlin/comments/rwlomi/a_goto_gui_library_for_kotlin/)
-- [Altering annotation at runtime](https://www.reddit.com/r/Kotlin/comments/rwa8c8/altering_annotation_at_runtime/)
-- [kotlin-native apps](https://www.reddit.com/r/Kotlin/comments/rw3bmr/kotlinnative_apps/)
-- [Kotlin &lpar;JVM&rpar; londogard-nlp-toolkit 1.1.0 release! 🥳](https://www.reddit.com/r/Kotlin/comments/rvwsx3/kotlin_jvm_londogardnlptoolkit_110_release/)
-- [Do you use kotlin/js?](https://www.reddit.com/r/Kotlin/comments/rvu1ra/do_you_use_kotlinjs/)
+- [Week 1 - Made my first program!](https://www.reddit.com/r/Kotlin/comments/rxlkf9/week_1_made_my_first_program/)
+- [Manual CoroutineScopes: how to avoid GlobalScope](https://www.reddit.com/r/Kotlin/comments/rxjb6n/manual_coroutinescopes_how_to_avoid_globalscope/)
+- [Good Kotlin Source Code](https://www.reddit.com/r/Kotlin/comments/rxg4ra/good_kotlin_source_code/)
+- [Import generated Kotlin/JS module in Svelte Application](https://www.reddit.com/r/Kotlin/comments/rxffvh/import_generated_kotlinjs_module_in_svelte/)
+- [recyclerview UI loses items when app resumes](https://www.reddit.com/r/Kotlin/comments/rxbth7/recyclerview_ui_loses_items_when_app_resumes/)
+- [Kotlin: Decompiled – How its features are represented on the JVM](https://www.reddit.com/r/Kotlin/comments/rxb1ph/kotlin_decompiled_how_its_features_are/)
+- [Can I access a field of an object:abstract class?](https://www.reddit.com/r/Kotlin/comments/rxa6fw/can_i_access_a_field_of_an_objectabstract_class/)
+- [Lightweight IDE/Text Editor for Kotlin](https://www.reddit.com/r/Kotlin/comments/rx6mxs/lightweight_idetext_editor_for_kotlin/)
+- [Spring Boot Rest with Suspend function stop execution when client abort the connection.](https://www.reddit.com/r/Kotlin/comments/rx6jln/spring_boot_rest_with_suspend_function_stop/)
+- [Wondering how to make Kotlin backend projects with no Android involved.](https://www.reddit.com/r/Kotlin/comments/rx32xh/wondering_how_to_make_kotlin_backend_projects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
