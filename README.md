@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Noob question: Good ORM that handles subqueries for Kotlin Spring](https://www.reddit.com/r/Kotlin/comments/ryat6f/noob_question_good_orm_that_handles_subqueries/)
+- [Anyone tried to benchmark common code of KMM in iOS vs Swift compiled code on iOS?](https://www.reddit.com/r/Kotlin/comments/ry7nu0/anyone_tried_to_benchmark_common_code_of_kmm_in/)
+- [Is kotlin viable for desktop development?](https://www.reddit.com/r/Kotlin/comments/ry5ge9/is_kotlin_viable_for_desktop_development/)
+- [How would you describe kotlin?](https://www.reddit.com/r/Kotlin/comments/ry4lwe/how_would_you_describe_kotlin/)
+- [I can&#39;t make a working run configuration in IntelliJ IDEA and I need help](https://www.reddit.com/r/Kotlin/comments/rxzm2o/i_cant_make_a_working_run_configuration_in/)
 - [Week 1 - Made my first program!](https://www.reddit.com/r/Kotlin/comments/rxlkf9/week_1_made_my_first_program/)
 - [Manual CoroutineScopes: how to avoid GlobalScope](https://www.reddit.com/r/Kotlin/comments/rxjb6n/manual_coroutinescopes_how_to_avoid_globalscope/)
 - [Good Kotlin Source Code](https://www.reddit.com/r/Kotlin/comments/rxg4ra/good_kotlin_source_code/)
 - [Import generated Kotlin/JS module in Svelte Application](https://www.reddit.com/r/Kotlin/comments/rxffvh/import_generated_kotlinjs_module_in_svelte/)
 - [recyclerview UI loses items when app resumes](https://www.reddit.com/r/Kotlin/comments/rxbth7/recyclerview_ui_loses_items_when_app_resumes/)
-- [Kotlin: Decompiled – How its features are represented on the JVM](https://www.reddit.com/r/Kotlin/comments/rxb1ph/kotlin_decompiled_how_its_features_are/)
-- [Can I access a field of an object:abstract class?](https://www.reddit.com/r/Kotlin/comments/rxa6fw/can_i_access_a_field_of_an_objectabstract_class/)
-- [Lightweight IDE/Text Editor for Kotlin](https://www.reddit.com/r/Kotlin/comments/rx6mxs/lightweight_idetext_editor_for_kotlin/)
-- [Spring Boot Rest with Suspend function stop execution when client abort the connection.](https://www.reddit.com/r/Kotlin/comments/rx6jln/spring_boot_rest_with_suspend_function_stop/)
-- [Wondering how to make Kotlin backend projects with no Android involved.](https://www.reddit.com/r/Kotlin/comments/rx32xh/wondering_how_to_make_kotlin_backend_projects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
