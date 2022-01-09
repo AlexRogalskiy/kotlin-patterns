@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Advantage of using object declaration for public static constants?](https://www.reddit.com/r/Kotlin/comments/rzfw1p/advantage_of_using_object_declaration_for_public/)
+- [Kotlin for backend?](https://www.reddit.com/r/Kotlin/comments/rzdiab/kotlin_for_backend/)
+- [How to learn Compose Desktop?](https://www.reddit.com/r/Kotlin/comments/rzb6zm/how_to_learn_compose_desktop/)
+- [ComposePrefs - Fully featured preferences library for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/rz97zu/composeprefs_fully_featured_preferences_library/)
+- [Do kotlin have @Guardedby annotation for coroutines mutex?](https://www.reddit.com/r/Kotlin/comments/rz2rp6/do_kotlin_have_guardedby_annotation_for/)
+- [Hi guys, I&#39;m new to all of the kotlin mean. I don&#39;t want to declare a button val using find view as... And if a write the code and want to insert after that the button, just let me to declare him as a var, how can I make fim let me insert it. Sry for my bad English I hope you can understand and help](https://www.reddit.com/r/Kotlin/comments/rz1ewt/hi_guys_im_new_to_all_of_the_kotlin_mean_i_dont/)
+- [Katlib - a companion to standard Kotlin library](https://www.reddit.com/r/Kotlin/comments/rz0nk5/katlib_a_companion_to_standard_kotlin_library/)
+- [Is there android TV developers? Really Want to see kotlin android tv apps](https://www.reddit.com/r/Kotlin/comments/ryycn1/is_there_android_tv_developers_really_want_to_see/)
 - [Noob question: Good ORM that handles subqueries for Kotlin Spring](https://www.reddit.com/r/Kotlin/comments/ryat6f/noob_question_good_orm_that_handles_subqueries/)
 - [Anyone tried to benchmark common code of KMM in iOS vs Swift compiled code on iOS?](https://www.reddit.com/r/Kotlin/comments/ry7nu0/anyone_tried_to_benchmark_common_code_of_kmm_in/)
-- [Is kotlin viable for desktop development?](https://www.reddit.com/r/Kotlin/comments/ry5ge9/is_kotlin_viable_for_desktop_development/)
-- [How would you describe kotlin?](https://www.reddit.com/r/Kotlin/comments/ry4lwe/how_would_you_describe_kotlin/)
-- [I can&#39;t make a working run configuration in IntelliJ IDEA and I need help](https://www.reddit.com/r/Kotlin/comments/rxzm2o/i_cant_make_a_working_run_configuration_in/)
-- [Week 1 - Made my first program!](https://www.reddit.com/r/Kotlin/comments/rxlkf9/week_1_made_my_first_program/)
-- [Manual CoroutineScopes: how to avoid GlobalScope](https://www.reddit.com/r/Kotlin/comments/rxjb6n/manual_coroutinescopes_how_to_avoid_globalscope/)
-- [Good Kotlin Source Code](https://www.reddit.com/r/Kotlin/comments/rxg4ra/good_kotlin_source_code/)
-- [Import generated Kotlin/JS module in Svelte Application](https://www.reddit.com/r/Kotlin/comments/rxffvh/import_generated_kotlinjs_module_in_svelte/)
-- [recyclerview UI loses items when app resumes](https://www.reddit.com/r/Kotlin/comments/rxbth7/recyclerview_ui_loses_items_when_app_resumes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
