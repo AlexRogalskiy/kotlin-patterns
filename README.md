@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Could I create a blogging platform with ktor? &lpar;For learning purposes&rpar;](https://www.reddit.com/r/Kotlin/comments/rzvpl0/could_i_create_a_blogging_platform_with_ktor_for/)
 - [Advantage of using object declaration for public static constants?](https://www.reddit.com/r/Kotlin/comments/rzfw1p/advantage_of_using_object_declaration_for_public/)
 - [Kotlin for backend?](https://www.reddit.com/r/Kotlin/comments/rzdiab/kotlin_for_backend/)
 - [How to learn Compose Desktop?](https://www.reddit.com/r/Kotlin/comments/rzb6zm/how_to_learn_compose_desktop/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Katlib - a companion to standard Kotlin library](https://www.reddit.com/r/Kotlin/comments/rz0nk5/katlib_a_companion_to_standard_kotlin_library/)
 - [Is there android TV developers? Really Want to see kotlin android tv apps](https://www.reddit.com/r/Kotlin/comments/ryycn1/is_there_android_tv_developers_really_want_to_see/)
 - [Noob question: Good ORM that handles subqueries for Kotlin Spring](https://www.reddit.com/r/Kotlin/comments/ryat6f/noob_question_good_orm_that_handles_subqueries/)
-- [Anyone tried to benchmark common code of KMM in iOS vs Swift compiled code on iOS?](https://www.reddit.com/r/Kotlin/comments/ry7nu0/anyone_tried_to_benchmark_common_code_of_kmm_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
