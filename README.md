@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[2022] Vert.x vs Spring](https://www.reddit.com/r/Kotlin/comments/s10lc0/2022_vertx_vs_spring/)
+- [Validation &amp; Requires + JSON](https://www.reddit.com/r/Kotlin/comments/s0ybhy/validation_requires_json/)
+- [SIGN IN ISSUE](https://www.reddit.com/r/Kotlin/comments/s0p52h/sign_in_issue/)
+- [2022 Hot Podcasts](https://www.reddit.com/r/Kotlin/comments/s0mjaj/2022_hot_podcasts/)
+- [Game Dev](https://www.reddit.com/r/Kotlin/comments/s0l9sa/game_dev/)
+- [First time using Kotlin, issues with Room and coroutines, assistance appreciated for basic error](https://www.reddit.com/r/Kotlin/comments/s0kktg/first_time_using_kotlin_issues_with_room_and/)
+- [Help with parsing json](https://www.reddit.com/r/Kotlin/comments/s0eezl/help_with_parsing_json/)
+- [[2022] Vert.x vs Ktor](https://www.reddit.com/r/Kotlin/comments/s08n83/2022_vertx_vs_ktor/)
 - [Could I create a blogging platform with ktor? &lpar;For learning purposes&rpar;](https://www.reddit.com/r/Kotlin/comments/rzvpl0/could_i_create_a_blogging_platform_with_ktor_for/)
 - [Advantage of using object declaration for public static constants?](https://www.reddit.com/r/Kotlin/comments/rzfw1p/advantage_of_using_object_declaration_for_public/)
-- [Kotlin for backend?](https://www.reddit.com/r/Kotlin/comments/rzdiab/kotlin_for_backend/)
-- [How to learn Compose Desktop?](https://www.reddit.com/r/Kotlin/comments/rzb6zm/how_to_learn_compose_desktop/)
-- [ComposePrefs - Fully featured preferences library for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/rz97zu/composeprefs_fully_featured_preferences_library/)
-- [Do kotlin have @Guardedby annotation for coroutines mutex?](https://www.reddit.com/r/Kotlin/comments/rz2rp6/do_kotlin_have_guardedby_annotation_for/)
-- [Hi guys, I&#39;m new to all of the kotlin mean. I don&#39;t want to declare a button val using find view as... And if a write the code and want to insert after that the button, just let me to declare him as a var, how can I make fim let me insert it. Sry for my bad English I hope you can understand and help](https://www.reddit.com/r/Kotlin/comments/rz1ewt/hi_guys_im_new_to_all_of_the_kotlin_mean_i_dont/)
-- [Katlib - a companion to standard Kotlin library](https://www.reddit.com/r/Kotlin/comments/rz0nk5/katlib_a_companion_to_standard_kotlin_library/)
-- [Is there android TV developers? Really Want to see kotlin android tv apps](https://www.reddit.com/r/Kotlin/comments/ryycn1/is_there_android_tv_developers_really_want_to_see/)
-- [Noob question: Good ORM that handles subqueries for Kotlin Spring](https://www.reddit.com/r/Kotlin/comments/ryat6f/noob_question_good_orm_that_handles_subqueries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
