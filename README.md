@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[2022] Vert.x vs Spring](https://www.reddit.com/r/Kotlin/comments/s10lc0/2022_vertx_vs_spring/)
-- [Validation &amp; Requires + JSON](https://www.reddit.com/r/Kotlin/comments/s0ybhy/validation_requires_json/)
-- [SIGN IN ISSUE](https://www.reddit.com/r/Kotlin/comments/s0p52h/sign_in_issue/)
-- [2022 Hot Podcasts](https://www.reddit.com/r/Kotlin/comments/s0mjaj/2022_hot_podcasts/)
-- [Game Dev](https://www.reddit.com/r/Kotlin/comments/s0l9sa/game_dev/)
-- [First time using Kotlin, issues with Room and coroutines, assistance appreciated for basic error](https://www.reddit.com/r/Kotlin/comments/s0kktg/first_time_using_kotlin_issues_with_room_and/)
-- [Help with parsing json](https://www.reddit.com/r/Kotlin/comments/s0eezl/help_with_parsing_json/)
-- [[2022] Vert.x vs Ktor](https://www.reddit.com/r/Kotlin/comments/s08n83/2022_vertx_vs_ktor/)
-- [Could I create a blogging platform with ktor? &lpar;For learning purposes&rpar;](https://www.reddit.com/r/Kotlin/comments/rzvpl0/could_i_create_a_blogging_platform_with_ktor_for/)
-- [Advantage of using object declaration for public static constants?](https://www.reddit.com/r/Kotlin/comments/rzfw1p/advantage_of_using_object_declaration_for_public/)
+- [Understanding and Configuring your Kotlin Multiplatform Mobile Test Suite](https://www.reddit.com/r/Kotlin/comments/s1q5z8/understanding_and_configuring_your_kotlin/)
+- [Proper Kotlin Library Structure?](https://www.reddit.com/r/Kotlin/comments/s1mg22/proper_kotlin_library_structure/)
+- [Don&#39;t know where to begin](https://www.reddit.com/r/Kotlin/comments/s1lies/dont_know_where_to_begin/)
+- [Delegate with a reference to the delegating class?](https://www.reddit.com/r/Kotlin/comments/s1k843/delegate_with_a_reference_to_the_delegating_class/)
+- [[Event C4P] Last day to submit your Kotlin talk to TypeVille!](https://www.reddit.com/r/Kotlin/comments/s1jn8d/event_c4p_last_day_to_submit_your_kotlin_talk_to/)
+- [Kotlin Multiplatform User Survey: Winter 2022](https://www.reddit.com/r/Kotlin/comments/s1ff75/kotlin_multiplatform_user_survey_winter_2022/)
+- [How do you create beautiful pages in Kotlin?](https://www.reddit.com/r/Kotlin/comments/s1ber2/how_do_you_create_beautiful_pages_in_kotlin/)
+- [Illustrate Kotlin Collection Functions &lpar;Partition; Windowed; Chunked&rpar;](https://www.reddit.com/r/Kotlin/comments/s1as7q/illustrate_kotlin_collection_functions_partition/)
+- [Testing Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/s18x91/testing_kotlin_coroutines/)
+- [Time Complexity](https://www.reddit.com/r/Kotlin/comments/s11zk3/time_complexity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
