@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can you suggest me some tutorials&lpar;video&rpar; to learn Android as soon as possible?](https://www.reddit.com/r/Kotlin/comments/s2f9at/can_you_suggest_me_some_tutorialsvideo_to_learn/)
+- [I wrote a HTML to Compose for Web Converter](https://www.reddit.com/r/Kotlin/comments/s2dsgf/i_wrote_a_html_to_compose_for_web_converter/)
+- [typeOf&lt;T&gt; and KType](https://www.reddit.com/r/Kotlin/comments/s2ditd/typeoft_and_ktype/)
+- [Fastest way to learn how to build a web app with Kotlin, KTOR, GraphQL and H2 in a couple of days?](https://www.reddit.com/r/Kotlin/comments/s2bsjq/fastest_way_to_learn_how_to_build_a_web_app_with/)
+- [Kotlin equivalent for static methods as callbacks](https://www.reddit.com/r/Kotlin/comments/s28pnx/kotlin_equivalent_for_static_methods_as_callbacks/)
+- [How and why does .removeLastOrNull&lpar; &rpar; not work? &lpar;Beginner level exercise&rpar;](https://www.reddit.com/r/Kotlin/comments/s26fbb/how_and_why_does_removelastornull_not_work/)
+- [I was wondering if anyone could explain this issue to me.](https://www.reddit.com/r/Kotlin/comments/s2130j/i_was_wondering_if_anyone_could_explain_this/)
 - [Understanding and Configuring your Kotlin Multiplatform Mobile Test Suite](https://www.reddit.com/r/Kotlin/comments/s1q5z8/understanding_and_configuring_your_kotlin/)
 - [Proper Kotlin Library Structure?](https://www.reddit.com/r/Kotlin/comments/s1mg22/proper_kotlin_library_structure/)
 - [Don&#39;t know where to begin](https://www.reddit.com/r/Kotlin/comments/s1lies/dont_know_where_to_begin/)
-- [Delegate with a reference to the delegating class?](https://www.reddit.com/r/Kotlin/comments/s1k843/delegate_with_a_reference_to_the_delegating_class/)
-- [[Event C4P] Last day to submit your Kotlin talk to TypeVille!](https://www.reddit.com/r/Kotlin/comments/s1jn8d/event_c4p_last_day_to_submit_your_kotlin_talk_to/)
-- [Kotlin Multiplatform User Survey: Winter 2022](https://www.reddit.com/r/Kotlin/comments/s1ff75/kotlin_multiplatform_user_survey_winter_2022/)
-- [How do you create beautiful pages in Kotlin?](https://www.reddit.com/r/Kotlin/comments/s1ber2/how_do_you_create_beautiful_pages_in_kotlin/)
-- [Illustrate Kotlin Collection Functions &lpar;Partition; Windowed; Chunked&rpar;](https://www.reddit.com/r/Kotlin/comments/s1as7q/illustrate_kotlin_collection_functions_partition/)
-- [Testing Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/s18x91/testing_kotlin_coroutines/)
-- [Time Complexity](https://www.reddit.com/r/Kotlin/comments/s11zk3/time_complexity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
