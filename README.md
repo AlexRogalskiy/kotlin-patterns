@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can you suggest me some tutorials&lpar;video&rpar; to learn Android as soon as possible?](https://www.reddit.com/r/Kotlin/comments/s2f9at/can_you_suggest_me_some_tutorialsvideo_to_learn/)
-- [I wrote a HTML to Compose for Web Converter](https://www.reddit.com/r/Kotlin/comments/s2dsgf/i_wrote_a_html_to_compose_for_web_converter/)
-- [typeOf&lt;T&gt; and KType](https://www.reddit.com/r/Kotlin/comments/s2ditd/typeoft_and_ktype/)
-- [Fastest way to learn how to build a web app with Kotlin, KTOR, GraphQL and H2 in a couple of days?](https://www.reddit.com/r/Kotlin/comments/s2bsjq/fastest_way_to_learn_how_to_build_a_web_app_with/)
-- [Kotlin equivalent for static methods as callbacks](https://www.reddit.com/r/Kotlin/comments/s28pnx/kotlin_equivalent_for_static_methods_as_callbacks/)
-- [How and why does .removeLastOrNull&lpar; &rpar; not work? &lpar;Beginner level exercise&rpar;](https://www.reddit.com/r/Kotlin/comments/s26fbb/how_and_why_does_removelastornull_not_work/)
-- [I was wondering if anyone could explain this issue to me.](https://www.reddit.com/r/Kotlin/comments/s2130j/i_was_wondering_if_anyone_could_explain_this/)
-- [Understanding and Configuring your Kotlin Multiplatform Mobile Test Suite](https://www.reddit.com/r/Kotlin/comments/s1q5z8/understanding_and_configuring_your_kotlin/)
-- [Proper Kotlin Library Structure?](https://www.reddit.com/r/Kotlin/comments/s1mg22/proper_kotlin_library_structure/)
-- [Don&#39;t know where to begin](https://www.reddit.com/r/Kotlin/comments/s1lies/dont_know_where_to_begin/)
+- [Anyone have experience with this course?](https://www.reddit.com/r/Kotlin/comments/s3d4fi/anyone_have_experience_with_this_course/)
+- [Are &quot;function types&quot; more or less &quot;functional interfaces&quot;?](https://www.reddit.com/r/Kotlin/comments/s35x3t/are_function_types_more_or_less_functional/)
+- [Kotlin volunteer projects](https://www.reddit.com/r/Kotlin/comments/s355vg/kotlin_volunteer_projects/)
+- [Mobile Developers Cafe - Weekly Issue is out now with loads of Mobile developer content.](https://www.reddit.com/r/Kotlin/comments/s354u1/mobile_developers_cafe_weekly_issue_is_out_now/)
+- [I Wrote a Small Validation Library](https://www.reddit.com/r/Kotlin/comments/s34mvw/i_wrote_a_small_validation_library/)
+- [Questions about a project I&#39;m working on](https://www.reddit.com/r/Kotlin/comments/s324ir/questions_about_a_project_im_working_on/)
+- [In this episode of 5 Kotlin Questions, Kotlin Build Tools product manager Eugene Rubilov sheds light on our approach to Build Tools. He answers 5 popular questions from the community while covering the present state of Kotlin and some future plans.](https://www.reddit.com/r/Kotlin/comments/s31657/in_this_episode_of_5_kotlin_questions_kotlin/)
+- [A problem ;-;](https://www.reddit.com/r/Kotlin/comments/s2ziux/a_problem/)
+- [Kotlin Server-side Survey](https://www.reddit.com/r/Kotlin/comments/s2z15y/kotlin_serverside_survey/)
+- [Are there significant things you can&#39;t do in Kotlin that you can do in Java &lpar;besides importing 3rd party libraries&rpar;?](https://www.reddit.com/r/Kotlin/comments/s2pz6q/are_there_significant_things_you_cant_do_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
