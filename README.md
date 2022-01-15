@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/native: library for file io?](https://www.reddit.com/r/Kotlin/comments/s3wzmt/kotlinnative_library_for_file_io/)
+- [change the value of a variable of a activity with the new data of a fragment?](https://www.reddit.com/r/Kotlin/comments/s3vd1y/change_the_value_of_a_variable_of_a_activity_with/)
 - [Anyone have experience with this course?](https://www.reddit.com/r/Kotlin/comments/s3d4fi/anyone_have_experience_with_this_course/)
 - [Are &quot;function types&quot; more or less &quot;functional interfaces&quot;?](https://www.reddit.com/r/Kotlin/comments/s35x3t/are_function_types_more_or_less_functional/)
 - [Kotlin volunteer projects](https://www.reddit.com/r/Kotlin/comments/s355vg/kotlin_volunteer_projects/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Questions about a project I&#39;m working on](https://www.reddit.com/r/Kotlin/comments/s324ir/questions_about_a_project_im_working_on/)
 - [In this episode of 5 Kotlin Questions, Kotlin Build Tools product manager Eugene Rubilov sheds light on our approach to Build Tools. He answers 5 popular questions from the community while covering the present state of Kotlin and some future plans.](https://www.reddit.com/r/Kotlin/comments/s31657/in_this_episode_of_5_kotlin_questions_kotlin/)
 - [A problem ;-;](https://www.reddit.com/r/Kotlin/comments/s2ziux/a_problem/)
-- [Kotlin Server-side Survey](https://www.reddit.com/r/Kotlin/comments/s2z15y/kotlin_serverside_survey/)
-- [Are there significant things you can&#39;t do in Kotlin that you can do in Java &lpar;besides importing 3rd party libraries&rpar;?](https://www.reddit.com/r/Kotlin/comments/s2pz6q/are_there_significant_things_you_cant_do_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
