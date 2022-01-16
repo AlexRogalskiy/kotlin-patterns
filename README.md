@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I created an open-source Spring boot starter so you could easily create a trading bot. Please, let me know what you think of it :&rpar;](https://www.reddit.com/r/Kotlin/comments/s4vawd/i_created_an_opensource_spring_boot_starter_so/)
+- [Is it worth to try to avoid recursion?](https://www.reddit.com/r/Kotlin/comments/s4siur/is_it_worth_to_try_to_avoid_recursion/)
+- [Any notable Twitter accounts about Kotlin?](https://www.reddit.com/r/Kotlin/comments/s4ipyu/any_notable_twitter_accounts_about_kotlin/)
 - [Kotlin/native: library for file io?](https://www.reddit.com/r/Kotlin/comments/s3wzmt/kotlinnative_library_for_file_io/)
 - [change the value of a variable of a activity with the new data of a fragment?](https://www.reddit.com/r/Kotlin/comments/s3vd1y/change_the_value_of_a_variable_of_a_activity_with/)
 - [Anyone have experience with this course?](https://www.reddit.com/r/Kotlin/comments/s3d4fi/anyone_have_experience_with_this_course/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin volunteer projects](https://www.reddit.com/r/Kotlin/comments/s355vg/kotlin_volunteer_projects/)
 - [Mobile Developers Cafe - Weekly Issue is out now with loads of Mobile developer content.](https://www.reddit.com/r/Kotlin/comments/s354u1/mobile_developers_cafe_weekly_issue_is_out_now/)
 - [I Wrote a Small Validation Library](https://www.reddit.com/r/Kotlin/comments/s34mvw/i_wrote_a_small_validation_library/)
-- [Questions about a project I&#39;m working on](https://www.reddit.com/r/Kotlin/comments/s324ir/questions_about_a_project_im_working_on/)
-- [In this episode of 5 Kotlin Questions, Kotlin Build Tools product manager Eugene Rubilov sheds light on our approach to Build Tools. He answers 5 popular questions from the community while covering the present state of Kotlin and some future plans.](https://www.reddit.com/r/Kotlin/comments/s31657/in_this_episode_of_5_kotlin_questions_kotlin/)
-- [A problem ;-;](https://www.reddit.com/r/Kotlin/comments/s2ziux/a_problem/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
