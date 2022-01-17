@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Creating streak algorithm](https://www.reddit.com/r/Kotlin/comments/s5nyvo/creating_streak_algorithm/)
+- [Error handling in Retrofit using NetworkResponseAdapter library](https://www.reddit.com/r/Kotlin/comments/s5kzjt/error_handling_in_retrofit_using/)
+- [Kimmer: Port immer for kotlin/jvm](https://www.reddit.com/r/Kotlin/comments/s5f32d/kimmer_port_immer_for_kotlinjvm/)
+- [Kotlin Multiplatform Mobile performance on M1 Macbooks](https://www.reddit.com/r/Kotlin/comments/s59c6m/kotlin_multiplatform_mobile_performance_on_m1/)
 - [I created an open-source Spring boot starter so you could easily create a trading bot. Please, let me know what you think of it :&rpar;](https://www.reddit.com/r/Kotlin/comments/s4vawd/i_created_an_opensource_spring_boot_starter_so/)
 - [Is it worth to try to avoid recursion?](https://www.reddit.com/r/Kotlin/comments/s4siur/is_it_worth_to_try_to_avoid_recursion/)
 - [Any notable Twitter accounts about Kotlin?](https://www.reddit.com/r/Kotlin/comments/s4ipyu/any_notable_twitter_accounts_about_kotlin/)
 - [Kotlin/native: library for file io?](https://www.reddit.com/r/Kotlin/comments/s3wzmt/kotlinnative_library_for_file_io/)
 - [change the value of a variable of a activity with the new data of a fragment?](https://www.reddit.com/r/Kotlin/comments/s3vd1y/change_the_value_of_a_variable_of_a_activity_with/)
 - [Anyone have experience with this course?](https://www.reddit.com/r/Kotlin/comments/s3d4fi/anyone_have_experience_with_this_course/)
-- [Are &quot;function types&quot; more or less &quot;functional interfaces&quot;?](https://www.reddit.com/r/Kotlin/comments/s35x3t/are_function_types_more_or_less_functional/)
-- [Kotlin volunteer projects](https://www.reddit.com/r/Kotlin/comments/s355vg/kotlin_volunteer_projects/)
-- [Mobile Developers Cafe - Weekly Issue is out now with loads of Mobile developer content.](https://www.reddit.com/r/Kotlin/comments/s354u1/mobile_developers_cafe_weekly_issue_is_out_now/)
-- [I Wrote a Small Validation Library](https://www.reddit.com/r/Kotlin/comments/s34mvw/i_wrote_a_small_validation_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
