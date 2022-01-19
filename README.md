@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [&quot;A closure is a poor man&#39;s object&quot;. !.](https://www.reddit.com/r/Kotlin/comments/s6i6qy/a_closure_is_a_poor_mans_object/)
+- [Best course/tutorial to learn GraphQL with Kotlin?](https://www.reddit.com/r/Kotlin/comments/s797dt/best_coursetutorial_to_learn_graphql_with_kotlin/)
+- [Kotliner CLI](https://www.reddit.com/r/Kotlin/comments/s76eqc/kotliner_cli/)
+- [The new episode of Spring Time in Kotlin is out! In this video, Anton shows how to add Kotlin to an existing Spring/Java project that uses Maven as a build tool. Check it out and subscribe for more! 👇](https://www.reddit.com/r/Kotlin/comments/s73gcp/the_new_episode_of_spring_time_in_kotlin_is_out/)
+- [Apollo Kotlin - getting started with GraphQL on Android](https://www.reddit.com/r/Kotlin/comments/s6wb42/apollo_kotlin_getting_started_with_graphql_on/)
+- [Return interface instead of data class?](https://www.reddit.com/r/Kotlin/comments/s6utca/return_interface_instead_of_data_class/)
+- [Collection Functions that turn list to map](https://www.reddit.com/r/Kotlin/comments/s6tlxu/collection_functions_that_turn_list_to_map/)
+- [Need your kind suggestions.](https://www.reddit.com/r/Kotlin/comments/s6p83n/need_your_kind_suggestions/)
 - [How do I execute the secondary constructor?](https://www.reddit.com/r/Kotlin/comments/s6hctu/how_do_i_execute_the_secondary_constructor/)
 - [How can i set my wallpaper using kotlin](https://www.reddit.com/r/Kotlin/comments/s6a3vu/how_can_i_set_my_wallpaper_using_kotlin/)
 - [Cooking your Ravioli &quot;Al Dente&quot; with Hexagonal Architecture](https://www.reddit.com/r/Kotlin/comments/s69hl0/cooking_your_ravioli_al_dente_with_hexagonal/)
-- [The documentation of https://github.com/babyfish-ct/kimmer is ready](https://www.reddit.com/r/Kotlin/comments/s68qbe/the_documentation_of/)
-- [Ktargeter: a Kotlin compiler plugin that allows overriding annotation use-site targets for properties. v0.3.0 is published with Kotlin 1.6 support](https://www.reddit.com/r/Kotlin/comments/s66vqd/ktargeter_a_kotlin_compiler_plugin_that_allows/)
-- [I wrote a library that translates Kotlin data classes to JavaScript](https://www.reddit.com/r/Kotlin/comments/s65vc0/i_wrote_a_library_that_translates_kotlin_data/)
-- [resukt: a `Result&lt;T, F&gt;` type, implemented in a similar way to the `Result&lt;T&gt;` in the standard library](https://www.reddit.com/r/Kotlin/comments/s65mtd/resukt_a_resultt_f_type_implemented_in_a_similar/)
-- [MocKMP: a Mocking processor for Kotlin/Multiplatform](https://www.reddit.com/r/Kotlin/comments/s65f9m/mockmp_a_mocking_processor_for_kotlinmultiplatform/)
-- [Flow building](https://www.reddit.com/r/Kotlin/comments/s5zyw8/flow_building/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
