@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is There Any Way to Write Generic Curried Functions?](https://www.reddit.com/r/Kotlin/comments/s81p46/is_there_any_way_to_write_generic_curried/)
+- [How do I show an Info Window based on what marker the user has clicked?](https://www.reddit.com/r/Kotlin/comments/s80cg8/how_do_i_show_an_info_window_based_on_what_marker/)
+- [Kotlin form state management and validation library](https://www.reddit.com/r/Kotlin/comments/s7tq8i/kotlin_form_state_management_and_validation/)
+- [Is this more readable?](https://www.reddit.com/r/Kotlin/comments/s7poqc/is_this_more_readable/)
+- [Kotlin Collection Functions: Zip, ZipWithNext, UnZip](https://www.reddit.com/r/Kotlin/comments/s7k3o4/kotlin_collection_functions_zip_zipwithnext_unzip/)
 - [Best course/tutorial to learn GraphQL with Kotlin?](https://www.reddit.com/r/Kotlin/comments/s797dt/best_coursetutorial_to_learn_graphql_with_kotlin/)
 - [Kotliner CLI](https://www.reddit.com/r/Kotlin/comments/s76eqc/kotliner_cli/)
 - [The new episode of Spring Time in Kotlin is out! In this video, Anton shows how to add Kotlin to an existing Spring/Java project that uses Maven as a build tool. Check it out and subscribe for more! 👇](https://www.reddit.com/r/Kotlin/comments/s73gcp/the_new_episode_of_spring_time_in_kotlin_is_out/)
 - [Apollo Kotlin - getting started with GraphQL on Android](https://www.reddit.com/r/Kotlin/comments/s6wb42/apollo_kotlin_getting_started_with_graphql_on/)
 - [Return interface instead of data class?](https://www.reddit.com/r/Kotlin/comments/s6utca/return_interface_instead_of_data_class/)
-- [Collection Functions that turn list to map](https://www.reddit.com/r/Kotlin/comments/s6tlxu/collection_functions_that_turn_list_to_map/)
-- [Need your kind suggestions.](https://www.reddit.com/r/Kotlin/comments/s6p83n/need_your_kind_suggestions/)
-- [How do I execute the secondary constructor?](https://www.reddit.com/r/Kotlin/comments/s6hctu/how_do_i_execute_the_secondary_constructor/)
-- [How can i set my wallpaper using kotlin](https://www.reddit.com/r/Kotlin/comments/s6a3vu/how_can_i_set_my_wallpaper_using_kotlin/)
-- [Cooking your Ravioli &quot;Al Dente&quot; with Hexagonal Architecture](https://www.reddit.com/r/Kotlin/comments/s69hl0/cooking_your_ravioli_al_dente_with_hexagonal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
