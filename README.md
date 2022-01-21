@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need help: task is to create a mutable map with the count of every char from a long string using a for-loop](https://www.reddit.com/r/Kotlin/comments/s8vfiz/need_help_task_is_to_create_a_mutable_map_with/)
+- [How to specify type explicitly as nullable or non-nullable?](https://www.reddit.com/r/Kotlin/comments/s8tvrj/how_to_specify_type_explicitly_as_nullable_or/)
+- [Jetbrains looks like it&#39;s about to release Compose ui for ios, and web!](https://www.reddit.com/r/Kotlin/comments/s8trlo/jetbrains_looks_like_its_about_to_release_compose/)
+- [Is IntelliJ the only working IDE for Kotlin?](https://www.reddit.com/r/Kotlin/comments/s8rwoh/is_intellij_the_only_working_ide_for_kotlin/)
+- [How can I require a scope for a function to be used in?](https://www.reddit.com/r/Kotlin/comments/s8qzrw/how_can_i_require_a_scope_for_a_function_to_be/)
+- [Kotlin Multiplatform on the Web](https://www.reddit.com/r/Kotlin/comments/s8nish/kotlin_multiplatform_on_the_web/)
+- [Kotlin Collection Functions &lpar;Scan, Reduce, Fold&rpar;](https://www.reddit.com/r/Kotlin/comments/s8gbpd/kotlin_collection_functions_scan_reduce_fold/)
+- [GitHub Actions Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/s8ewyg/github_actions_kotlin_dsl/)
 - [Is There Any Way to Write Generic Curried Functions?](https://www.reddit.com/r/Kotlin/comments/s81p46/is_there_any_way_to_write_generic_curried/)
 - [How do I show an Info Window based on what marker the user has clicked?](https://www.reddit.com/r/Kotlin/comments/s80cg8/how_do_i_show_an_info_window_based_on_what_marker/)
-- [Kotlin form state management and validation library](https://www.reddit.com/r/Kotlin/comments/s7tq8i/kotlin_form_state_management_and_validation/)
-- [Is this more readable?](https://www.reddit.com/r/Kotlin/comments/s7poqc/is_this_more_readable/)
-- [Kotlin Collection Functions: Zip, ZipWithNext, UnZip](https://www.reddit.com/r/Kotlin/comments/s7k3o4/kotlin_collection_functions_zip_zipwithnext_unzip/)
-- [Best course/tutorial to learn GraphQL with Kotlin?](https://www.reddit.com/r/Kotlin/comments/s797dt/best_coursetutorial_to_learn_graphql_with_kotlin/)
-- [Kotliner CLI](https://www.reddit.com/r/Kotlin/comments/s76eqc/kotliner_cli/)
-- [The new episode of Spring Time in Kotlin is out! In this video, Anton shows how to add Kotlin to an existing Spring/Java project that uses Maven as a build tool. Check it out and subscribe for more! 👇](https://www.reddit.com/r/Kotlin/comments/s73gcp/the_new_episode_of_spring_time_in_kotlin_is_out/)
-- [Apollo Kotlin - getting started with GraphQL on Android](https://www.reddit.com/r/Kotlin/comments/s6wb42/apollo_kotlin_getting_started_with_graphql_on/)
-- [Return interface instead of data class?](https://www.reddit.com/r/Kotlin/comments/s6utca/return_interface_instead_of_data_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
