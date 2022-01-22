@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Handling the unexpected in Kotlin with Monads](https://www.reddit.com/r/Kotlin/comments/s9nvk1/handling_the_unexpected_in_kotlin_with_monads/)
+- [A naive question about Kotlin Android](https://www.reddit.com/r/Kotlin/comments/s98uia/a_naive_question_about_kotlin_android/)
+- [Factory Design Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/s96ptp/factory_design_pattern_in_kotlin/)
 - [Need help: task is to create a mutable map with the count of every char from a long string using a for-loop](https://www.reddit.com/r/Kotlin/comments/s8vfiz/need_help_task_is_to_create_a_mutable_map_with/)
 - [How to specify type explicitly as nullable or non-nullable?](https://www.reddit.com/r/Kotlin/comments/s8tvrj/how_to_specify_type_explicitly_as_nullable_or/)
 - [Jetbrains looks like it&#39;s about to release Compose ui for ios, and web!](https://www.reddit.com/r/Kotlin/comments/s8trlo/jetbrains_looks_like_its_about_to_release_compose/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How can I require a scope for a function to be used in?](https://www.reddit.com/r/Kotlin/comments/s8qzrw/how_can_i_require_a_scope_for_a_function_to_be/)
 - [Kotlin Multiplatform on the Web](https://www.reddit.com/r/Kotlin/comments/s8nish/kotlin_multiplatform_on_the_web/)
 - [Kotlin Collection Functions &lpar;Scan, Reduce, Fold&rpar;](https://www.reddit.com/r/Kotlin/comments/s8gbpd/kotlin_collection_functions_scan_reduce_fold/)
-- [GitHub Actions Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/s8ewyg/github_actions_kotlin_dsl/)
-- [Is There Any Way to Write Generic Curried Functions?](https://www.reddit.com/r/Kotlin/comments/s81p46/is_there_any_way_to_write_generic_curried/)
-- [How do I show an Info Window based on what marker the user has clicked?](https://www.reddit.com/r/Kotlin/comments/s80cg8/how_do_i_show_an_info_window_based_on_what_marker/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
