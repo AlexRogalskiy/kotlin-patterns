@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Similar but completely different: map, onEach, and forEach](https://www.reddit.com/r/Kotlin/comments/sag7vh/similar_but_completely_different_map_oneach_and/)
+- [Improve compilation speed](https://www.reddit.com/r/Kotlin/comments/sa2vky/improve_compilation_speed/)
+- [Compose for Desktop: how to wrap own data in a remembered state?](https://www.reddit.com/r/Kotlin/comments/s9zi1u/compose_for_desktop_how_to_wrap_own_data_in_a/)
+- [Hopefully, one look, we can differentiate onEach and forEach](https://www.reddit.com/r/Kotlin/comments/s9sxer/hopefully_one_look_we_can_differentiate_oneach/)
 - [Handling the unexpected in Kotlin with Monads](https://www.reddit.com/r/Kotlin/comments/s9nvk1/handling_the_unexpected_in_kotlin_with_monads/)
 - [A naive question about Kotlin Android](https://www.reddit.com/r/Kotlin/comments/s98uia/a_naive_question_about_kotlin_android/)
 - [Factory Design Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/s96ptp/factory_design_pattern_in_kotlin/)
 - [Need help: task is to create a mutable map with the count of every char from a long string using a for-loop](https://www.reddit.com/r/Kotlin/comments/s8vfiz/need_help_task_is_to_create_a_mutable_map_with/)
 - [How to specify type explicitly as nullable or non-nullable?](https://www.reddit.com/r/Kotlin/comments/s8tvrj/how_to_specify_type_explicitly_as_nullable_or/)
 - [Jetbrains looks like it&#39;s about to release Compose ui for ios, and web!](https://www.reddit.com/r/Kotlin/comments/s8trlo/jetbrains_looks_like_its_about_to_release_compose/)
-- [Is IntelliJ the only working IDE for Kotlin?](https://www.reddit.com/r/Kotlin/comments/s8rwoh/is_intellij_the_only_working_ide_for_kotlin/)
-- [How can I require a scope for a function to be used in?](https://www.reddit.com/r/Kotlin/comments/s8qzrw/how_can_i_require_a_scope_for_a_function_to_be/)
-- [Kotlin Multiplatform on the Web](https://www.reddit.com/r/Kotlin/comments/s8nish/kotlin_multiplatform_on_the_web/)
-- [Kotlin Collection Functions &lpar;Scan, Reduce, Fold&rpar;](https://www.reddit.com/r/Kotlin/comments/s8gbpd/kotlin_collection_functions_scan_reduce_fold/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
