@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Meet N Greet with Engineer @ Very!](https://www.reddit.com/r/Kotlin/comments/sboxwo/meet_n_greet_with_engineer_very/)
+- [Making Kotlin&#39;s In / Out Type Variant Easier to remember](https://www.reddit.com/r/Kotlin/comments/sctsoa/making_kotlins_in_out_type_variant_easier_to/)
+- [App crashed after exporting method](https://www.reddit.com/r/Kotlin/comments/scrv8t/app_crashed_after_exporting_method/)
+- [In this episode of 5 Kotlin questions Ksenia Shneyveys – Kotlin Marketing Manager for Education answers 5 popular questions about how to learn and teach Kotlin. Check it out!](https://www.reddit.com/r/Kotlin/comments/scgv6z/in_this_episode_of_5_kotlin_questions_ksenia/)
+- [Missing Kotlin offline conferences? Check out TypeVille!](https://www.reddit.com/r/Kotlin/comments/scge01/missing_kotlin_offline_conferences_check_out/)
+- [Style Question: Defining classes that are only used as function inputs?](https://www.reddit.com/r/Kotlin/comments/scehsk/style_question_defining_classes_that_are_only/)
+- [Kotlin-Algorithms-and-Design-Patterns repository](https://www.reddit.com/r/Kotlin/comments/sc9jvb/kotlinalgorithmsanddesignpatterns_repository/)
 - [After inflating a fragment the application crashes](https://www.reddit.com/r/Kotlin/comments/sboct6/after_inflating_a_fragment_the_application_crashes/)
 - [Is it worth rewriting large Java project into Kotlin?](https://www.reddit.com/r/Kotlin/comments/sbmzd4/is_it_worth_rewriting_large_java_project_into/)
 - [Can I create an iOS and Android application on a Windows machine using KMM?](https://www.reddit.com/r/Kotlin/comments/sbmy7u/can_i_create_an_ios_and_android_application_on_a/)
 - [How to handle database migrations with Liquibase on Ktor](https://www.reddit.com/r/Kotlin/comments/sblcrg/how_to_handle_database_migrations_with_liquibase/)
-- [Android Studio - first run of JUnit test is not running - beginner here](https://www.reddit.com/r/Kotlin/comments/sb5r39/android_studio_first_run_of_junit_test_is_not/)
-- [lucilla: Fast, efficient, in-memory Full Text Search for Kotlin](https://www.reddit.com/r/Kotlin/comments/sb1sn0/lucilla_fast_efficient_inmemory_full_text_search/)
-- [How can I resolve this ambiguity?](https://www.reddit.com/r/Kotlin/comments/satf9y/how_can_i_resolve_this_ambiguity/)
-- [Similar but completely different: map, onEach, and forEach](https://www.reddit.com/r/Kotlin/comments/sag7vh/similar_but_completely_different_map_oneach_and/)
-- [Improve compilation speed](https://www.reddit.com/r/Kotlin/comments/sa2vky/improve_compilation_speed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
