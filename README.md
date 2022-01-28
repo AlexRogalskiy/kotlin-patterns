@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question solving need help](https://www.reddit.com/r/Kotlin/comments/secw2n/question_solving_need_help/)
+- [kotlin coroutines or jvm virtual threads?](https://www.reddit.com/r/Kotlin/comments/se3bj9/kotlin_coroutines_or_jvm_virtual_threads/)
+- [The time has come to pick the winners of our Kotlin Care Packages!](https://www.reddit.com/r/Kotlin/comments/se34gn/the_time_has_come_to_pick_the_winners_of_our/)
+- [How do you do CI for linting / code inspection for Kotlin code? For example, Intellij IDEA&#39;s &quot;code inspection&quot;?](https://www.reddit.com/r/Kotlin/comments/sdv3ic/how_do_you_do_ci_for_linting_code_inspection_for/)
 - [Kotlin book for beginner programmers](https://www.reddit.com/r/Kotlin/comments/sdlj1c/kotlin_book_for_beginner_programmers/)
 - [Tail Recursion beats Fibonacci Memoization &lpar;Kotlin tailrec&rpar;](https://www.reddit.com/r/Kotlin/comments/sdb2h9/tail_recursion_beats_fibonacci_memoization_kotlin/)
 - [Caribou: Use data-driven metrics to reduce your technical debt](https://www.reddit.com/r/Kotlin/comments/sd5o5a/caribou_use_datadriven_metrics_to_reduce_your/)
 - [Kotlin-Algorithms-and-Design-Patterns repository](https://www.reddit.com/r/Kotlin/comments/sd4fpy/kotlinalgorithmsanddesignpatterns_repository/)
 - [[QUESTION] Access TextViews within another class](https://www.reddit.com/r/Kotlin/comments/sd3an7/question_access_textviews_within_another_class/)
 - [Learning recyclerview is insane how do I begin to understand this? from Google android in Kotlin course](https://www.reddit.com/r/Kotlin/comments/scvlt4/learning_recyclerview_is_insane_how_do_i_begin_to/)
-- [Making Kotlin&#39;s In / Out Type Variant Easier to remember](https://www.reddit.com/r/Kotlin/comments/sctsoa/making_kotlins_in_out_type_variant_easier_to/)
-- [In this episode of 5 Kotlin questions Ksenia Shneyveys – Kotlin Marketing Manager for Education answers 5 popular questions about how to learn and teach Kotlin. Check it out!](https://www.reddit.com/r/Kotlin/comments/scgv6z/in_this_episode_of_5_kotlin_questions_ksenia/)
-- [Missing Kotlin offline conferences? Check out TypeVille!](https://www.reddit.com/r/Kotlin/comments/scge01/missing_kotlin_offline_conferences_check_out/)
-- [Style Question: Defining classes that are only used as function inputs?](https://www.reddit.com/r/Kotlin/comments/scehsk/style_question_defining_classes_that_are_only/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
