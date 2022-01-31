@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to test nested functions? [Beginner]](https://www.reddit.com/r/Kotlin/comments/sgjhec/how_to_test_nested_functions_beginner/)
+- [How to learn Kotlin and Functional Programming coming from Python](https://www.reddit.com/r/Kotlin/comments/sgambg/how_to_learn_kotlin_and_functional_programming/)
+- [How does Kotlin &quot;Clean Code&quot; look like?](https://www.reddit.com/r/Kotlin/comments/sg9o6m/how_does_kotlin_clean_code_look_like/)
+- [SLF4K - Kotlin extensions for SLF4J](https://www.reddit.com/r/Kotlin/comments/sg8rbc/slf4k_kotlin_extensions_for_slf4j/)
+- [Java and Kotlin in same project/service](https://www.reddit.com/r/Kotlin/comments/sg7506/java_and_kotlin_in_same_projectservice/)
 - [Help converting Kotlin to Java](https://www.reddit.com/r/Kotlin/comments/sfn9e6/help_converting_kotlin_to_java/)
 - [Any good open source projects in kotlin](https://www.reddit.com/r/Kotlin/comments/sfmr0x/any_good_open_source_projects_in_kotlin/)
 - [Implementing an implicit intent](https://www.reddit.com/r/Kotlin/comments/sfksre/implementing_an_implicit_intent/)
 - [Does it make sense to develop a fullstack kotlin/js kotlin/jvm PWA which uses firebase?](https://www.reddit.com/r/Kotlin/comments/sfg7uc/does_it_make_sense_to_develop_a_fullstack/)
 - [which things should I learn in order to become a full stack developer with Kotlin?](https://www.reddit.com/r/Kotlin/comments/sfahz6/which_things_should_i_learn_in_order_to_become_a/)
-- [Is Kotlin a good intro to programming?](https://www.reddit.com/r/Kotlin/comments/sf274m/is_kotlin_a_good_intro_to_programming/)
-- [The new AWS SDK for Kotlin with Coroutines support](https://www.reddit.com/r/Kotlin/comments/seskkm/the_new_aws_sdk_for_kotlin_with_coroutines_support/)
-- [Need help with the if conditioning](https://www.reddit.com/r/Kotlin/comments/sepp71/need_help_with_the_if_conditioning/)
-- [Question solving need help](https://www.reddit.com/r/Kotlin/comments/secw2n/question_solving_need_help/)
-- [kotlin coroutines or jvm virtual threads?](https://www.reddit.com/r/Kotlin/comments/se3bj9/kotlin_coroutines_or_jvm_virtual_threads/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
