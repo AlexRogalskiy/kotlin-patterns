@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to test nested functions? [Beginner]](https://www.reddit.com/r/Kotlin/comments/sgjhec/how_to_test_nested_functions_beginner/)
-- [How to learn Kotlin and Functional Programming coming from Python](https://www.reddit.com/r/Kotlin/comments/sgambg/how_to_learn_kotlin_and_functional_programming/)
-- [How does Kotlin &quot;Clean Code&quot; look like?](https://www.reddit.com/r/Kotlin/comments/sg9o6m/how_does_kotlin_clean_code_look_like/)
-- [SLF4K - Kotlin extensions for SLF4J](https://www.reddit.com/r/Kotlin/comments/sg8rbc/slf4k_kotlin_extensions_for_slf4j/)
-- [Java and Kotlin in same project/service](https://www.reddit.com/r/Kotlin/comments/sg7506/java_and_kotlin_in_same_projectservice/)
-- [Help converting Kotlin to Java](https://www.reddit.com/r/Kotlin/comments/sfn9e6/help_converting_kotlin_to_java/)
-- [Any good open source projects in kotlin](https://www.reddit.com/r/Kotlin/comments/sfmr0x/any_good_open_source_projects_in_kotlin/)
-- [Implementing an implicit intent](https://www.reddit.com/r/Kotlin/comments/sfksre/implementing_an_implicit_intent/)
-- [Does it make sense to develop a fullstack kotlin/js kotlin/jvm PWA which uses firebase?](https://www.reddit.com/r/Kotlin/comments/sfg7uc/does_it_make_sense_to_develop_a_fullstack/)
-- [which things should I learn in order to become a full stack developer with Kotlin?](https://www.reddit.com/r/Kotlin/comments/sfahz6/which_things_should_i_learn_in_order_to_become_a/)
+- [IntelliJ won&#39;t allow me to type.](https://www.reddit.com/r/Kotlin/comments/shbiz8/intellij_wont_allow_me_to_type/)
+- [&#39;Variable must be initialized&#39; as class parameter](https://www.reddit.com/r/Kotlin/comments/sh9wqa/variable_must_be_initialized_as_class_parameter/)
+- [Some questions about Kotlin](https://www.reddit.com/r/Kotlin/comments/sh5wrm/some_questions_about_kotlin/)
+- [is kotlin included in java default installment?](https://www.reddit.com/r/Kotlin/comments/sh4tih/is_kotlin_included_in_java_default_installment/)
+- [Kotlin Algorithms for you!](https://www.reddit.com/r/Kotlin/comments/sh0uj6/kotlin_algorithms_for_you/)
+- [Comparing Kotlin Coroutine Launch, Async-Await, SuspendCancellableCoroutine](https://www.reddit.com/r/Kotlin/comments/sgzlm7/comparing_kotlin_coroutine_launch_asyncawait/)
+- [Enum constants with space](https://www.reddit.com/r/Kotlin/comments/sgz3fk/enum_constants_with_space/)
+- [Can Kotlin export to web assembly &lpar;WA&rpar;?](https://www.reddit.com/r/Kotlin/comments/sgxn4q/can_kotlin_export_to_web_assembly_wa/)
+- [How are people testing Compose Multiplatform apps?](https://www.reddit.com/r/Kotlin/comments/sgvbnp/how_are_people_testing_compose_multiplatform_apps/)
+- [KotlinJS, ONNX and Deep Learning in the browser!](https://www.reddit.com/r/Kotlin/comments/sgusa6/kotlinjs_onnx_and_deep_learning_in_the_browser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
