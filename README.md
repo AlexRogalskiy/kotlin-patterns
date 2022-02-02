@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Experienced Java/Kotlin developers: what libraries do you use in your day to day work?](https://www.reddit.com/r/Kotlin/comments/sia7eq/experienced_javakotlin_developers_what_libraries/)
+- [Learn How DoorDash built a No Code platform for building customized workflows using Kotlin](https://www.reddit.com/r/Kotlin/comments/sia45g/learn_how_doordash_built_a_no_code_platform_for/)
+- [How do you use a javax timer in Kotlin](https://www.reddit.com/r/Kotlin/comments/si9qfo/how_do_you_use_a_javax_timer_in_kotlin/)
+- [Talking Kotlin – The First Kotlin Commit in Android](https://www.reddit.com/r/Kotlin/comments/si17zr/talking_kotlin_the_first_kotlin_commit_in_android/)
+- [Datafaker 1.1.0 Released](https://www.reddit.com/r/Kotlin/comments/shryg8/datafaker_110_released/)
+- [How can I go past beginner mode and get out of tutorial hell in Kotlin?](https://www.reddit.com/r/Kotlin/comments/shoapp/how_can_i_go_past_beginner_mode_and_get_out_of/)
 - [IntelliJ won&#39;t allow me to type.](https://www.reddit.com/r/Kotlin/comments/shbiz8/intellij_wont_allow_me_to_type/)
 - [&#39;Variable must be initialized&#39; as class parameter](https://www.reddit.com/r/Kotlin/comments/sh9wqa/variable_must_be_initialized_as_class_parameter/)
 - [Some questions about Kotlin](https://www.reddit.com/r/Kotlin/comments/sh5wrm/some_questions_about_kotlin/)
 - [is kotlin included in java default installment?](https://www.reddit.com/r/Kotlin/comments/sh4tih/is_kotlin_included_in_java_default_installment/)
-- [Kotlin Algorithms for you!](https://www.reddit.com/r/Kotlin/comments/sh0uj6/kotlin_algorithms_for_you/)
-- [Comparing Kotlin Coroutine Launch, Async-Await, SuspendCancellableCoroutine](https://www.reddit.com/r/Kotlin/comments/sgzlm7/comparing_kotlin_coroutine_launch_asyncawait/)
-- [Enum constants with space](https://www.reddit.com/r/Kotlin/comments/sgz3fk/enum_constants_with_space/)
-- [Can Kotlin export to web assembly &lpar;WA&rpar;?](https://www.reddit.com/r/Kotlin/comments/sgxn4q/can_kotlin_export_to_web_assembly_wa/)
-- [How are people testing Compose Multiplatform apps?](https://www.reddit.com/r/Kotlin/comments/sgvbnp/how_are_people_testing_compose_multiplatform_apps/)
-- [KotlinJS, ONNX and Deep Learning in the browser!](https://www.reddit.com/r/Kotlin/comments/sgusa6/kotlinjs_onnx_and_deep_learning_in_the_browser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
