@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Wordle in Kotlin JavaFX](https://www.reddit.com/r/Kotlin/comments/sj1fww/wordle_in_kotlin_javafx/)
+- [Learning kotlin from scratch](https://www.reddit.com/r/Kotlin/comments/sj1f2v/learning_kotlin_from_scratch/)
+- [Reduce with unknown number of elements?](https://www.reddit.com/r/Kotlin/comments/siy9us/reduce_with_unknown_number_of_elements/)
+- [Kotlin Literature for Someone With a .Net Background?](https://www.reddit.com/r/Kotlin/comments/siuj3v/kotlin_literature_for_someone_with_a_net/)
+- [Compiler Warnings Are Good, Actually](https://www.reddit.com/r/Kotlin/comments/siomtx/compiler_warnings_are_good_actually/)
+- [How to explain a novice recruiter how to find a good Kotlin dev?](https://www.reddit.com/r/Kotlin/comments/sie27k/how_to_explain_a_novice_recruiter_how_to_find_a/)
 - [Experienced Java/Kotlin developers: what libraries do you use in your day to day work?](https://www.reddit.com/r/Kotlin/comments/sia7eq/experienced_javakotlin_developers_what_libraries/)
 - [Learn How DoorDash built a No Code platform for building customized workflows using Kotlin](https://www.reddit.com/r/Kotlin/comments/sia45g/learn_how_doordash_built_a_no_code_platform_for/)
 - [How do you use a javax timer in Kotlin](https://www.reddit.com/r/Kotlin/comments/si9qfo/how_do_you_use_a_javax_timer_in_kotlin/)
 - [Talking Kotlin – The First Kotlin Commit in Android](https://www.reddit.com/r/Kotlin/comments/si17zr/talking_kotlin_the_first_kotlin_commit_in_android/)
-- [Datafaker 1.1.0 Released](https://www.reddit.com/r/Kotlin/comments/shryg8/datafaker_110_released/)
-- [How can I go past beginner mode and get out of tutorial hell in Kotlin?](https://www.reddit.com/r/Kotlin/comments/shoapp/how_can_i_go_past_beginner_mode_and_get_out_of/)
-- [IntelliJ won&#39;t allow me to type.](https://www.reddit.com/r/Kotlin/comments/shbiz8/intellij_wont_allow_me_to_type/)
-- [&#39;Variable must be initialized&#39; as class parameter](https://www.reddit.com/r/Kotlin/comments/sh9wqa/variable_must_be_initialized_as_class_parameter/)
-- [Some questions about Kotlin](https://www.reddit.com/r/Kotlin/comments/sh5wrm/some_questions_about_kotlin/)
-- [is kotlin included in java default installment?](https://www.reddit.com/r/Kotlin/comments/sh4tih/is_kotlin_included_in_java_default_installment/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
