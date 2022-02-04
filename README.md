@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you implement a java swing KeyListener?](https://www.reddit.com/r/Kotlin/comments/sjyvs0/how_do_you_implement_a_java_swing_keylistener/)
+- [High performance with idiomatic Kotlin](https://www.reddit.com/r/Kotlin/comments/sjucff/high_performance_with_idiomatic_kotlin/)
+- [Announcing Arrow Analysis - a Kotlin compiler plug-in by 47 Degrees](https://www.reddit.com/r/Kotlin/comments/sjn34u/announcing_arrow_analysis_a_kotlin_compiler/)
+- [Problem with access to a class from different file](https://www.reddit.com/r/Kotlin/comments/sjk1m0/problem_with_access_to_a_class_from_different_file/)
+- [What are the next trends in programming languages, developer tools, technology adoption, and beyond? What are you most excited about? What challenges keep you up at night? These are the questions we are trying to answer in our developer survey.](https://www.reddit.com/r/Kotlin/comments/sjipct/what_are_the_next_trends_in_programming_languages/)
+- [Wordle Solver in Kotlin Compose Desktop](https://www.reddit.com/r/Kotlin/comments/sjgc5g/wordle_solver_in_kotlin_compose_desktop/)
+- [I don&#39;t understand this. RecyclerView.Adapter&lt;ItemAdapter.ItemViewHolder&gt;&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/sjaone/i_dont_understand_this/)
 - [Wordle in Kotlin JavaFX](https://www.reddit.com/r/Kotlin/comments/sj1fww/wordle_in_kotlin_javafx/)
 - [Learning kotlin from scratch](https://www.reddit.com/r/Kotlin/comments/sj1f2v/learning_kotlin_from_scratch/)
 - [Reduce with unknown number of elements?](https://www.reddit.com/r/Kotlin/comments/siy9us/reduce_with_unknown_number_of_elements/)
-- [Kotlin Literature for Someone With a .Net Background?](https://www.reddit.com/r/Kotlin/comments/siuj3v/kotlin_literature_for_someone_with_a_net/)
-- [Compiler Warnings Are Good, Actually](https://www.reddit.com/r/Kotlin/comments/siomtx/compiler_warnings_are_good_actually/)
-- [How to explain a novice recruiter how to find a good Kotlin dev?](https://www.reddit.com/r/Kotlin/comments/sie27k/how_to_explain_a_novice_recruiter_how_to_find_a/)
-- [Experienced Java/Kotlin developers: what libraries do you use in your day to day work?](https://www.reddit.com/r/Kotlin/comments/sia7eq/experienced_javakotlin_developers_what_libraries/)
-- [Learn How DoorDash built a No Code platform for building customized workflows using Kotlin](https://www.reddit.com/r/Kotlin/comments/sia45g/learn_how_doordash_built_a_no_code_platform_for/)
-- [How do you use a javax timer in Kotlin](https://www.reddit.com/r/Kotlin/comments/si9qfo/how_do_you_use_a_javax_timer_in_kotlin/)
-- [Talking Kotlin – The First Kotlin Commit in Android](https://www.reddit.com/r/Kotlin/comments/si17zr/talking_kotlin_the_first_kotlin_commit_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
