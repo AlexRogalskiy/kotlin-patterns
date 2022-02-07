@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How does Google&#39;s payment systems works?](https://www.reddit.com/r/Kotlin/comments/sm725a/how_does_googles_payment_systems_works/)
+- [Unable to link local jar file in gradle](https://www.reddit.com/r/Kotlin/comments/sm5vyt/unable_to_link_local_jar_file_in_gradle/)
+- [I&#39;ve created a small library for interactive CLI UI called &#39;kotlin-inquirer&#39;](https://www.reddit.com/r/Kotlin/comments/slzk48/ive_created_a_small_library_for_interactive_cli/)
+- [Android kotlin app to web?](https://www.reddit.com/r/Kotlin/comments/sly2qi/android_kotlin_app_to_web/)
+- [There is a bug in kotlin](https://www.reddit.com/r/Kotlin/comments/slveb5/there_is_a_bug_in_kotlin/)
 - [I cant get any Kotlin program to run on my laptop](https://www.reddit.com/r/Kotlin/comments/sljguu/i_cant_get_any_kotlin_program_to_run_on_my_laptop/)
 - [Noob trying to figure this out](https://www.reddit.com/r/Kotlin/comments/sldiej/noob_trying_to_figure_this_out/)
 - [How should I create my Kotlin multi-module project with Intellij Idea?](https://www.reddit.com/r/Kotlin/comments/sl6wdv/how_should_i_create_my_kotlin_multimodule_project/)
 - [Overhead added by collecting thread dumps](https://www.reddit.com/r/Kotlin/comments/sl09qb/overhead_added_by_collecting_thread_dumps/)
 - [FOSDEM 2022 Online Conference This Weekend: Kotlin Tracts](https://www.reddit.com/r/Kotlin/comments/skzdk6/fosdem_2022_online_conference_this_weekend_kotlin/)
-- [Compose Navigation Reimagined](https://www.reddit.com/r/Kotlin/comments/skm858/compose_navigation_reimagined/)
-- [Could a raspberry pi 0 run run kotlin/jvm code?](https://www.reddit.com/r/Kotlin/comments/skjoq4/could_a_raspberry_pi_0_run_run_kotlinjvm_code/)
-- [Functional Programming in Kotlin – Venkat Subramaniam](https://www.reddit.com/r/Kotlin/comments/skedlz/functional_programming_in_kotlin_venkat/)
-- [Full stack web app or server with user accounts example](https://www.reddit.com/r/Kotlin/comments/sk1p54/full_stack_web_app_or_server_with_user_accounts/)
-- [How do you implement a java swing KeyListener?](https://www.reddit.com/r/Kotlin/comments/sjyvs0/how_do_you_implement_a_java_swing_keylistener/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
