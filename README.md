@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Which of these courses are preferable?](https://www.reddit.com/r/Kotlin/comments/sn5quk/which_of_these_courses_are_preferable/)
-- [[Jetpack Compose Desktop] Built an app with ktor](https://www.reddit.com/r/Kotlin/comments/sn3coa/jetpack_compose_desktop_built_an_app_with_ktor/)
-- [Start an suspend function from a non suspend function.](https://www.reddit.com/r/Kotlin/comments/smvjc9/start_an_suspend_function_from_a_non_suspend/)
-- [Check out the most interesting developments around Kotlin in January 2022!](https://www.reddit.com/r/Kotlin/comments/smv2zz/check_out_the_most_interesting_developments/)
-- [Referencial Equality](https://www.reddit.com/r/Kotlin/comments/smi9ei/referencial_equality/)
-- [Event-Driven Architectures with Kotlin on Serverless Kafka](https://www.reddit.com/r/Kotlin/comments/smhb94/eventdriven_architectures_with_kotlin_on/)
-- [How does Google&#39;s payment systems works?](https://www.reddit.com/r/Kotlin/comments/sm725a/how_does_googles_payment_systems_works/)
-- [Unable to link local jar file in gradle](https://www.reddit.com/r/Kotlin/comments/sm5vyt/unable_to_link_local_jar_file_in_gradle/)
-- [I&#39;ve created a small library for interactive CLI UI called &#39;kotlin-inquirer&#39;](https://www.reddit.com/r/Kotlin/comments/slzk48/ive_created_a_small_library_for_interactive_cli/)
-- [Android kotlin app to web?](https://www.reddit.com/r/Kotlin/comments/sly2qi/android_kotlin_app_to_web/)
+- [Kotlin Multiplaform with Compose](https://www.reddit.com/r/Kotlin/comments/snxxlx/kotlin_multiplaform_with_compose/)
+- [What cool libraries exist for Kotline native targetting desktop &lpar;Linux, MacOS, Windows&rpar;?](https://www.reddit.com/r/Kotlin/comments/snszl2/what_cool_libraries_exist_for_kotline_native/)
+- [Notebook - programming?](https://www.reddit.com/r/Kotlin/comments/snsiwb/notebook_programming/)
+- [Managing User Data Storage](https://www.reddit.com/r/Kotlin/comments/snpck8/managing_user_data_storage/)
+- [Kotlin 1.6.20-M1 in a nutshell](https://www.reddit.com/r/Kotlin/comments/snnude/kotlin_1620m1_in_a_nutshell/)
+- [Is there a way to encode strings to Base32 and Base64, respectfully, and vice versa?](https://www.reddit.com/r/Kotlin/comments/snnacx/is_there_a_way_to_encode_strings_to_base32_and/)
+- [Preview of Kotlin 1.6.20 With Prototype of Context Receivers, Parallel Compilation on JVM, Incremental Compilation in JS](https://www.reddit.com/r/Kotlin/comments/snmc0p/preview_of_kotlin_1620_with_prototype_of_context/)
+- [image/video streaming library for kotlin?](https://www.reddit.com/r/Kotlin/comments/snl36p/imagevideo_streaming_library_for_kotlin/)
+- [Calling a function from a string](https://www.reddit.com/r/Kotlin/comments/snkmn0/calling_a_function_from_a_string/)
+- [What&#39;s up with Float.MAX_VALUE?](https://www.reddit.com/r/Kotlin/comments/snjd6i/whats_up_with_floatmax_value/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
