@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using Exposed, is it possible to define tables and entities in one class?](https://www.reddit.com/r/Kotlin/comments/sop48c/using_exposed_is_it_possible_to_define_tables_and/)
+- [Finding a Job Abroad](https://www.reddit.com/r/Kotlin/comments/soko98/finding_a_job_abroad/)
+- [Brand New Kotlin Multiplatform Podcast: ATOM](https://www.reddit.com/r/Kotlin/comments/soi40a/brand_new_kotlin_multiplatform_podcast_atom/)
+- [Serverless on AWS Lambda with Kotlin + Micronaut + Graal VM](https://www.reddit.com/r/Kotlin/comments/so8gd9/serverless_on_aws_lambda_with_kotlin_micronaut/)
 - [Kotlin Multiplaform with Compose](https://www.reddit.com/r/Kotlin/comments/snxxlx/kotlin_multiplaform_with_compose/)
 - [What cool libraries exist for Kotline native targetting desktop &lpar;Linux, MacOS, Windows&rpar;?](https://www.reddit.com/r/Kotlin/comments/snszl2/what_cool_libraries_exist_for_kotline_native/)
 - [Notebook - programming?](https://www.reddit.com/r/Kotlin/comments/snsiwb/notebook_programming/)
 - [Managing User Data Storage](https://www.reddit.com/r/Kotlin/comments/snpck8/managing_user_data_storage/)
 - [Kotlin 1.6.20-M1 in a nutshell](https://www.reddit.com/r/Kotlin/comments/snnude/kotlin_1620m1_in_a_nutshell/)
-- [Is there a way to encode strings to Base32 and Base64, respectfully, and vice versa?](https://www.reddit.com/r/Kotlin/comments/snnacx/is_there_a_way_to_encode_strings_to_base32_and/)
 - [Preview of Kotlin 1.6.20 With Prototype of Context Receivers, Parallel Compilation on JVM, Incremental Compilation in JS](https://www.reddit.com/r/Kotlin/comments/snmc0p/preview_of_kotlin_1620_with_prototype_of_context/)
-- [image/video streaming library for kotlin?](https://www.reddit.com/r/Kotlin/comments/snl36p/imagevideo_streaming_library_for_kotlin/)
-- [Calling a function from a string](https://www.reddit.com/r/Kotlin/comments/snkmn0/calling_a_function_from_a_string/)
-- [What&#39;s up with Float.MAX_VALUE?](https://www.reddit.com/r/Kotlin/comments/snjd6i/whats_up_with_floatmax_value/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
