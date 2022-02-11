@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How does Cloud Firestore work?](https://www.reddit.com/r/Kotlin/comments/sphi7a/how_does_cloud_firestore_work/)
+- [How do I implement googleMap.snapshot&lpar;&rpar; in kotlin?](https://www.reddit.com/r/Kotlin/comments/spf4z2/how_do_i_implement_googlemapsnapshot_in_kotlin/)
+- [What is the best practice for grouping related methods and variables?](https://www.reddit.com/r/Kotlin/comments/spco8x/what_is_the_best_practice_for_grouping_related/)
+- [JetBrain&#39;s Exposed DSL confusions](https://www.reddit.com/r/Kotlin/comments/sp5nu2/jetbrains_exposed_dsl_confusions/)
+- [Input from users](https://www.reddit.com/r/Kotlin/comments/sozwdw/input_from_users/)
 - [Using Exposed, is it possible to define tables and entities in one class?](https://www.reddit.com/r/Kotlin/comments/sop48c/using_exposed_is_it_possible_to_define_tables_and/)
 - [Finding a Job Abroad](https://www.reddit.com/r/Kotlin/comments/soko98/finding_a_job_abroad/)
 - [Brand New Kotlin Multiplatform Podcast: ATOM](https://www.reddit.com/r/Kotlin/comments/soi40a/brand_new_kotlin_multiplatform_podcast_atom/)
 - [Serverless on AWS Lambda with Kotlin + Micronaut + Graal VM](https://www.reddit.com/r/Kotlin/comments/so8gd9/serverless_on_aws_lambda_with_kotlin_micronaut/)
 - [Kotlin Multiplaform with Compose](https://www.reddit.com/r/Kotlin/comments/snxxlx/kotlin_multiplaform_with_compose/)
-- [What cool libraries exist for Kotline native targetting desktop &lpar;Linux, MacOS, Windows&rpar;?](https://www.reddit.com/r/Kotlin/comments/snszl2/what_cool_libraries_exist_for_kotline_native/)
-- [Notebook - programming?](https://www.reddit.com/r/Kotlin/comments/snsiwb/notebook_programming/)
-- [Managing User Data Storage](https://www.reddit.com/r/Kotlin/comments/snpck8/managing_user_data_storage/)
-- [Kotlin 1.6.20-M1 in a nutshell](https://www.reddit.com/r/Kotlin/comments/snnude/kotlin_1620m1_in_a_nutshell/)
-- [Preview of Kotlin 1.6.20 With Prototype of Context Receivers, Parallel Compilation on JVM, Incremental Compilation in JS](https://www.reddit.com/r/Kotlin/comments/snmc0p/preview_of_kotlin_1620_with_prototype_of_context/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
