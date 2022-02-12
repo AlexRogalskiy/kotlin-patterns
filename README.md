@@ -272,11 +272,11 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Choosing a framework for your Kotlin server-side app? 🤔Check out our new video, in which Anton Arhipov discusses the top 5 server-side frameworks for Kotlin! 🔝](https://www.reddit.com/r/Kotlin/comments/spvc5l/choosing_a_framework_for_your_kotlin_serverside/)
 - [How does Cloud Firestore work?](https://www.reddit.com/r/Kotlin/comments/sphi7a/how_does_cloud_firestore_work/)
 - [How do I implement googleMap.snapshot&lpar;&rpar; in kotlin?](https://www.reddit.com/r/Kotlin/comments/spf4z2/how_do_i_implement_googlemapsnapshot_in_kotlin/)
 - [What is the best practice for grouping related methods and variables?](https://www.reddit.com/r/Kotlin/comments/spco8x/what_is_the_best_practice_for_grouping_related/)
 - [JetBrain&#39;s Exposed DSL confusions](https://www.reddit.com/r/Kotlin/comments/sp5nu2/jetbrains_exposed_dsl_confusions/)
-- [Input from users](https://www.reddit.com/r/Kotlin/comments/sozwdw/input_from_users/)
 - [Using Exposed, is it possible to define tables and entities in one class?](https://www.reddit.com/r/Kotlin/comments/sop48c/using_exposed_is_it_possible_to_define_tables_and/)
 - [Finding a Job Abroad](https://www.reddit.com/r/Kotlin/comments/soko98/finding_a_job_abroad/)
 - [Brand New Kotlin Multiplatform Podcast: ATOM](https://www.reddit.com/r/Kotlin/comments/soi40a/brand_new_kotlin_multiplatform_podcast_atom/)
