@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Finding duplicates on a Pair list](https://www.reddit.com/r/Kotlin/comments/sr3xwb/finding_duplicates_on_a_pair_list/)
+- [How I can add Image and Text to Exposed Dropdown Menu?](https://www.reddit.com/r/Kotlin/comments/sr2jay/how_i_can_add_image_and_text_to_exposed_dropdown/)
+- [Testing Kotlin code with Spock&lpar;Groovy&rpar; - problem with optional fields](https://www.reddit.com/r/Kotlin/comments/sqw7cu/testing_kotlin_code_with_spockgroovy_problem_with/)
+- [todocheck now supports Kotlin](https://www.reddit.com/r/Kotlin/comments/squmh9/todocheck_now_supports_kotlin/)
+- [Extend existing entity in Kotlin](https://www.reddit.com/r/Kotlin/comments/sqr4ck/extend_existing_entity_in_kotlin/)
+- [[Serious question] Would potential Russia war over Ukraine threaten Kotlin future?](https://www.reddit.com/r/Kotlin/comments/sqlopj/serious_question_would_potential_russia_war_over/)
+- [Static Website Deployment with Kobweb](https://www.reddit.com/r/Kotlin/comments/sqg4t4/static_website_deployment_with_kobweb/)
 - [Choosing a framework for your Kotlin server-side app? 🤔Check out our new video, in which Anton Arhipov discusses the top 5 server-side frameworks for Kotlin! 🔝](https://www.reddit.com/r/Kotlin/comments/spvc5l/choosing_a_framework_for_your_kotlin_serverside/)
 - [How does Cloud Firestore work?](https://www.reddit.com/r/Kotlin/comments/sphi7a/how_does_cloud_firestore_work/)
 - [How do I implement googleMap.snapshot&lpar;&rpar; in kotlin?](https://www.reddit.com/r/Kotlin/comments/spf4z2/how_do_i_implement_googlemapsnapshot_in_kotlin/)
-- [What is the best practice for grouping related methods and variables?](https://www.reddit.com/r/Kotlin/comments/spco8x/what_is_the_best_practice_for_grouping_related/)
-- [JetBrain&#39;s Exposed DSL confusions](https://www.reddit.com/r/Kotlin/comments/sp5nu2/jetbrains_exposed_dsl_confusions/)
-- [Using Exposed, is it possible to define tables and entities in one class?](https://www.reddit.com/r/Kotlin/comments/sop48c/using_exposed_is_it_possible_to_define_tables_and/)
-- [Finding a Job Abroad](https://www.reddit.com/r/Kotlin/comments/soko98/finding_a_job_abroad/)
-- [Brand New Kotlin Multiplatform Podcast: ATOM](https://www.reddit.com/r/Kotlin/comments/soi40a/brand_new_kotlin_multiplatform_podcast_atom/)
-- [Serverless on AWS Lambda with Kotlin + Micronaut + Graal VM](https://www.reddit.com/r/Kotlin/comments/so8gd9/serverless_on_aws_lambda_with_kotlin_micronaut/)
-- [Kotlin Multiplaform with Compose](https://www.reddit.com/r/Kotlin/comments/snxxlx/kotlin_multiplaform_with_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
