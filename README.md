@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [DSL with new context receivers](https://www.reddit.com/r/Kotlin/comments/srwojs/dsl_with_new_context_receivers/)
+- [I&#39;ve created a logging module for Ktor client that correctly works with MDC Context. Do you find it useful?](https://www.reddit.com/r/Kotlin/comments/srpro3/ive_created_a_logging_module_for_ktor_client_that/)
+- [Differences between target JVM version 1.8 and 16](https://www.reddit.com/r/Kotlin/comments/srndyo/differences_between_target_jvm_version_18_and_16/)
+- [Structured concurrency explained - Part 1: Introduction](https://www.reddit.com/r/Kotlin/comments/srnb8n/structured_concurrency_explained_part_1/)
+- [Get null when the type is not &quot;as type&quot; instead of an exception?](https://www.reddit.com/r/Kotlin/comments/srhwfq/get_null_when_the_type_is_not_as_type_instead_of/)
 - [Finding duplicates on a Pair list](https://www.reddit.com/r/Kotlin/comments/sr3xwb/finding_duplicates_on_a_pair_list/)
 - [How I can add Image and Text to Exposed Dropdown Menu?](https://www.reddit.com/r/Kotlin/comments/sr2jay/how_i_can_add_image_and_text_to_exposed_dropdown/)
 - [Testing Kotlin code with Spock&lpar;Groovy&rpar; - problem with optional fields](https://www.reddit.com/r/Kotlin/comments/sqw7cu/testing_kotlin_code_with_spockgroovy_problem_with/)
 - [todocheck now supports Kotlin](https://www.reddit.com/r/Kotlin/comments/squmh9/todocheck_now_supports_kotlin/)
 - [Extend existing entity in Kotlin](https://www.reddit.com/r/Kotlin/comments/sqr4ck/extend_existing_entity_in_kotlin/)
-- [[Serious question] Would potential Russia war over Ukraine threaten Kotlin future?](https://www.reddit.com/r/Kotlin/comments/sqlopj/serious_question_would_potential_russia_war_over/)
-- [Static Website Deployment with Kobweb](https://www.reddit.com/r/Kotlin/comments/sqg4t4/static_website_deployment_with_kobweb/)
-- [Choosing a framework for your Kotlin server-side app? 🤔Check out our new video, in which Anton Arhipov discusses the top 5 server-side frameworks for Kotlin! 🔝](https://www.reddit.com/r/Kotlin/comments/spvc5l/choosing_a_framework_for_your_kotlin_serverside/)
-- [How does Cloud Firestore work?](https://www.reddit.com/r/Kotlin/comments/sphi7a/how_does_cloud_firestore_work/)
-- [How do I implement googleMap.snapshot&lpar;&rpar; in kotlin?](https://www.reddit.com/r/Kotlin/comments/spf4z2/how_do_i_implement_googlemapsnapshot_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
