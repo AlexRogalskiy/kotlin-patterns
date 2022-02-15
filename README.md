@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need someone to help](https://www.reddit.com/r/Kotlin/comments/sskhtd/i_need_someone_to_help/)
+- [why there is no .forEachRight?](https://www.reddit.com/r/Kotlin/comments/ssjcae/why_there_is_no_foreachright/)
+- [Metamask SSO Implementation](https://www.reddit.com/r/Kotlin/comments/ssidrw/metamask_sso_implementation/)
+- [Exploring Photo Picker in Android 13](https://www.reddit.com/r/Kotlin/comments/ssgztz/exploring_photo_picker_in_android_13/)
+- [[Question] Does Kotlin run in terminal?](https://www.reddit.com/r/Kotlin/comments/sse9lf/question_does_kotlin_run_in_terminal/)
+- [Experiences with Kotlin OR Frameworks](https://www.reddit.com/r/Kotlin/comments/ssangh/experiences_with_kotlin_or_frameworks/)
+- [Making Exposed entities @Serializable](https://www.reddit.com/r/Kotlin/comments/ss6c6x/making_exposed_entities_serializable/)
+- [Serverless Kotlin Multiplatform Examples](https://www.reddit.com/r/Kotlin/comments/ss11di/serverless_kotlin_multiplatform_examples/)
+- [A pure kotlin library &lpar;for android&rpar; to store values that expire after the specified duration of time &lpar;in memory and in shared preferences&rpar;](https://www.reddit.com/r/Kotlin/comments/sryyba/a_pure_kotlin_library_for_android_to_store_values/)
 - [DSL with new context receivers](https://www.reddit.com/r/Kotlin/comments/srwojs/dsl_with_new_context_receivers/)
-- [I&#39;ve created a logging module for Ktor client that correctly works with MDC Context. Do you find it useful?](https://www.reddit.com/r/Kotlin/comments/srpro3/ive_created_a_logging_module_for_ktor_client_that/)
-- [Differences between target JVM version 1.8 and 16](https://www.reddit.com/r/Kotlin/comments/srndyo/differences_between_target_jvm_version_18_and_16/)
-- [Structured concurrency explained - Part 1: Introduction](https://www.reddit.com/r/Kotlin/comments/srnb8n/structured_concurrency_explained_part_1/)
-- [Get null when the type is not &quot;as type&quot; instead of an exception?](https://www.reddit.com/r/Kotlin/comments/srhwfq/get_null_when_the_type_is_not_as_type_instead_of/)
-- [Finding duplicates on a Pair list](https://www.reddit.com/r/Kotlin/comments/sr3xwb/finding_duplicates_on_a_pair_list/)
-- [How I can add Image and Text to Exposed Dropdown Menu?](https://www.reddit.com/r/Kotlin/comments/sr2jay/how_i_can_add_image_and_text_to_exposed_dropdown/)
-- [Testing Kotlin code with Spock&lpar;Groovy&rpar; - problem with optional fields](https://www.reddit.com/r/Kotlin/comments/sqw7cu/testing_kotlin_code_with_spockgroovy_problem_with/)
-- [todocheck now supports Kotlin](https://www.reddit.com/r/Kotlin/comments/squmh9/todocheck_now_supports_kotlin/)
-- [Extend existing entity in Kotlin](https://www.reddit.com/r/Kotlin/comments/sqr4ck/extend_existing_entity_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
