@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trying Insertion sort in Kotlin](https://www.reddit.com/r/Kotlin/comments/st6yzm/trying_insertion_sort_in_kotlin/)
+- [Fake It, but Don&#39;t Make It](https://www.reddit.com/r/Kotlin/comments/ssyz7k/fake_it_but_dont_make_it/)
+- [Enum.hashCode isn&#39;t stable, so why is it used in data classes&#39; hashCode impl?](https://www.reddit.com/r/Kotlin/comments/sstmoh/enumhashcode_isnt_stable_so_why_is_it_used_in/)
 - [I need someone to help](https://www.reddit.com/r/Kotlin/comments/sskhtd/i_need_someone_to_help/)
 - [why there is no .forEachRight?](https://www.reddit.com/r/Kotlin/comments/ssjcae/why_there_is_no_foreachright/)
 - [Metamask SSO Implementation](https://www.reddit.com/r/Kotlin/comments/ssidrw/metamask_sso_implementation/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [[Question] Does Kotlin run in terminal?](https://www.reddit.com/r/Kotlin/comments/sse9lf/question_does_kotlin_run_in_terminal/)
 - [Experiences with Kotlin OR Frameworks](https://www.reddit.com/r/Kotlin/comments/ssangh/experiences_with_kotlin_or_frameworks/)
 - [Making Exposed entities @Serializable](https://www.reddit.com/r/Kotlin/comments/ss6c6x/making_exposed_entities_serializable/)
-- [Serverless Kotlin Multiplatform Examples](https://www.reddit.com/r/Kotlin/comments/ss11di/serverless_kotlin_multiplatform_examples/)
-- [A pure kotlin library &lpar;for android&rpar; to store values that expire after the specified duration of time &lpar;in memory and in shared preferences&rpar;](https://www.reddit.com/r/Kotlin/comments/sryyba/a_pure_kotlin_library_for_android_to_store_values/)
-- [DSL with new context receivers](https://www.reddit.com/r/Kotlin/comments/srwojs/dsl_with_new_context_receivers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
