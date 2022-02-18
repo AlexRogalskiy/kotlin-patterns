@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trying Insertion sort in Kotlin](https://www.reddit.com/r/Kotlin/comments/st6yzm/trying_insertion_sort_in_kotlin/)
-- [Fake It, but Don&#39;t Make It](https://www.reddit.com/r/Kotlin/comments/ssyz7k/fake_it_but_dont_make_it/)
-- [Enum.hashCode isn&#39;t stable, so why is it used in data classes&#39; hashCode impl?](https://www.reddit.com/r/Kotlin/comments/sstmoh/enumhashcode_isnt_stable_so_why_is_it_used_in/)
-- [I need someone to help](https://www.reddit.com/r/Kotlin/comments/sskhtd/i_need_someone_to_help/)
-- [why there is no .forEachRight?](https://www.reddit.com/r/Kotlin/comments/ssjcae/why_there_is_no_foreachright/)
-- [Metamask SSO Implementation](https://www.reddit.com/r/Kotlin/comments/ssidrw/metamask_sso_implementation/)
-- [Exploring Photo Picker in Android 13](https://www.reddit.com/r/Kotlin/comments/ssgztz/exploring_photo_picker_in_android_13/)
-- [[Question] Does Kotlin run in terminal?](https://www.reddit.com/r/Kotlin/comments/sse9lf/question_does_kotlin_run_in_terminal/)
-- [Experiences with Kotlin OR Frameworks](https://www.reddit.com/r/Kotlin/comments/ssangh/experiences_with_kotlin_or_frameworks/)
-- [Making Exposed entities @Serializable](https://www.reddit.com/r/Kotlin/comments/ss6c6x/making_exposed_entities_serializable/)
+- [Kotlin/native compose website?](https://www.reddit.com/r/Kotlin/comments/sv1b9o/kotlinnative_compose_website/)
+- [How can I make my class more reusable?](https://www.reddit.com/r/Kotlin/comments/suuqsi/how_can_i_make_my_class_more_reusable/)
+- [Your to-do app might already be running on Kotlin Multiplatform! 🤩 Check out the new episode of Talking Kotlin! We talked to Goncalo Silva – CTO of Doist, the makers of Todoist and TwistWork about their experience with different aspects of Kotlin.](https://www.reddit.com/r/Kotlin/comments/suttll/your_todo_app_might_already_be_running_on_kotlin/)
+- [[Question] GraphQL + R2DBC](https://www.reddit.com/r/Kotlin/comments/sutsgq/question_graphql_r2dbc/)
+- [Ktor plugin discussion](https://www.reddit.com/r/Kotlin/comments/sut7r6/ktor_plugin_discussion/)
+- [Help and guidance required](https://www.reddit.com/r/Kotlin/comments/surr6q/help_and_guidance_required/)
+- [[Question]Update Local variables from Firebase RealTime Database](https://www.reddit.com/r/Kotlin/comments/supl6c/questionupdate_local_variables_from_firebase/)
+- [KOTLIN Full Course for Beginners 2022 | KOTLIN CRASH COURSE](https://www.reddit.com/r/Kotlin/comments/sunri1/kotlin_full_course_for_beginners_2022_kotlin/)
+- [[QUESTION] How to Deserialize a UTC DateTime String using kotlinx-datetime](https://www.reddit.com/r/Kotlin/comments/sunko2/question_how_to_deserialize_a_utc_datetime_string/)
+- [Ktor vs Springboot for restful web services](https://www.reddit.com/r/Kotlin/comments/suffq6/ktor_vs_springboot_for_restful_web_services/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
