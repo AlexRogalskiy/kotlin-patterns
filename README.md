@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where can I learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/sxfkau/where_can_i_learn_kotlin/)
+- [Avoiding Stringly-typed in Kotlin](https://www.reddit.com/r/Kotlin/comments/sx5juh/avoiding_stringlytyped_in_kotlin/)
+- [Exploring Kotlin’s Context Receivers](https://www.reddit.com/r/Kotlin/comments/sx12df/exploring_kotlins_context_receivers/)
+- [Kotlin Concurrency and SharedImmutable](https://www.reddit.com/r/Kotlin/comments/swq048/kotlin_concurrency_and_sharedimmutable/)
 - [I&#39;ve been writing a library for Kotlin Simple RPCs &lpar;KSRPC&rpar;](https://www.reddit.com/r/Kotlin/comments/swd9p8/ive_been_writing_a_library_for_kotlin_simple_rpcs/)
 - [Implementation leanback VerticalGridview](https://www.reddit.com/r/Kotlin/comments/swah0w/implementation_leanback_verticalgridview/)
 - [A mildly annoying inconsistent syntax in Kotlin](https://www.reddit.com/r/Kotlin/comments/swafkr/a_mildly_annoying_inconsistent_syntax_in_kotlin/)
 - [SQL DSL for kotlin: kimmer-sql](https://www.reddit.com/r/Kotlin/comments/sw5ulr/sql_dsl_for_kotlin_kimmersql/)
 - [Started learning kotlin and no java background](https://www.reddit.com/r/Kotlin/comments/svn8uq/started_learning_kotlin_and_no_java_background/)
 - [[Meta] Can we get some learning resources in the sidebar?](https://www.reddit.com/r/Kotlin/comments/svmllk/meta_can_we_get_some_learning_resources_in_the/)
-- [Hi, how to run another script](https://www.reddit.com/r/Kotlin/comments/svhvvz/hi_how_to_run_another_script/)
-- [Learning the language](https://www.reddit.com/r/Kotlin/comments/svgyyj/learning_the_language/)
-- [Take part in the Kotlin JVM Survey 📒](https://www.reddit.com/r/Kotlin/comments/svew5w/take_part_in_the_kotlin_jvm_survey/)
-- [Kotlin/native compose website?](https://www.reddit.com/r/Kotlin/comments/sv1b9o/kotlinnative_compose_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
