@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktor Multiplayer Demo with Korge Client](https://www.reddit.com/r/Kotlin/comments/sy9ud7/ktor_multiplayer_demo_with_korge_client/)
+- [Testing Files without Files](https://www.reddit.com/r/Kotlin/comments/sxzgtv/testing_files_without_files/)
+- [Kotline double multiplication in parenthesis](https://www.reddit.com/r/Kotlin/comments/sxy7qi/kotline_double_multiplication_in_parenthesis/)
+- [Learn how to scale your Android build with Jetpack and Dagger](https://www.reddit.com/r/Kotlin/comments/sxra0c/learn_how_to_scale_your_android_build_with/)
+- [Create new sealed class from a sub selection of its members](https://www.reddit.com/r/Kotlin/comments/sxpgfx/create_new_sealed_class_from_a_sub_selection_of/)
 - [Where can I learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/sxfkau/where_can_i_learn_kotlin/)
 - [Avoiding Stringly-typed in Kotlin](https://www.reddit.com/r/Kotlin/comments/sx5juh/avoiding_stringlytyped_in_kotlin/)
 - [Exploring Kotlin’s Context Receivers](https://www.reddit.com/r/Kotlin/comments/sx12df/exploring_kotlins_context_receivers/)
 - [Kotlin Concurrency and SharedImmutable](https://www.reddit.com/r/Kotlin/comments/swq048/kotlin_concurrency_and_sharedimmutable/)
 - [I&#39;ve been writing a library for Kotlin Simple RPCs &lpar;KSRPC&rpar;](https://www.reddit.com/r/Kotlin/comments/swd9p8/ive_been_writing_a_library_for_kotlin_simple_rpcs/)
-- [Implementation leanback VerticalGridview](https://www.reddit.com/r/Kotlin/comments/swah0w/implementation_leanback_verticalgridview/)
-- [A mildly annoying inconsistent syntax in Kotlin](https://www.reddit.com/r/Kotlin/comments/swafkr/a_mildly_annoying_inconsistent_syntax_in_kotlin/)
-- [SQL DSL for kotlin: kimmer-sql](https://www.reddit.com/r/Kotlin/comments/sw5ulr/sql_dsl_for_kotlin_kimmersql/)
-- [Started learning kotlin and no java background](https://www.reddit.com/r/Kotlin/comments/svn8uq/started_learning_kotlin_and_no_java_background/)
-- [[Meta] Can we get some learning resources in the sidebar?](https://www.reddit.com/r/Kotlin/comments/svmllk/meta_can_we_get_some_learning_resources_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
