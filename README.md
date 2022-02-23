@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s the best way to make a more advanced text field in Compose Multiplatform? &lpar;Ie with a rope for larger files&rpar;](https://www.reddit.com/r/Kotlin/comments/sywqy0/whats_the_best_way_to_make_a_more_advanced_text/)
+- [BottomSheetDialog in Fragment](https://www.reddit.com/r/Kotlin/comments/syvqyb/bottomsheetdialog_in_fragment/)
+- [Maintain a class instance through a process](https://www.reddit.com/r/Kotlin/comments/syq8sl/maintain_a_class_instance_through_a_process/)
+- [Kotlin Under the Covers – Chet Haase](https://www.reddit.com/r/Kotlin/comments/syp8l2/kotlin_under_the_covers_chet_haase/)
+- [Android export and import data. It tackles how to backup and restore the data of local storage If app is deleted or uninstalled.](https://www.reddit.com/r/Kotlin/comments/synjrb/android_export_and_import_data_it_tackles_how_to/)
 - [Ktor Multiplayer Demo with Korge Client](https://www.reddit.com/r/Kotlin/comments/sy9ud7/ktor_multiplayer_demo_with_korge_client/)
 - [Testing Files without Files](https://www.reddit.com/r/Kotlin/comments/sxzgtv/testing_files_without_files/)
 - [Kotline double multiplication in parenthesis](https://www.reddit.com/r/Kotlin/comments/sxy7qi/kotline_double_multiplication_in_parenthesis/)
-- [Learn how to scale your Android build with Jetpack and Dagger](https://www.reddit.com/r/Kotlin/comments/sxra0c/learn_how_to_scale_your_android_build_with/)
 - [Create new sealed class from a sub selection of its members](https://www.reddit.com/r/Kotlin/comments/sxpgfx/create_new_sealed_class_from_a_sub_selection_of/)
-- [Where can I learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/sxfkau/where_can_i_learn_kotlin/)
 - [Avoiding Stringly-typed in Kotlin](https://www.reddit.com/r/Kotlin/comments/sx5juh/avoiding_stringlytyped_in_kotlin/)
-- [Exploring Kotlin’s Context Receivers](https://www.reddit.com/r/Kotlin/comments/sx12df/exploring_kotlins_context_receivers/)
-- [Kotlin Concurrency and SharedImmutable](https://www.reddit.com/r/Kotlin/comments/swq048/kotlin_concurrency_and_sharedimmutable/)
-- [I&#39;ve been writing a library for Kotlin Simple RPCs &lpar;KSRPC&rpar;](https://www.reddit.com/r/Kotlin/comments/swd9p8/ive_been_writing_a_library_for_kotlin_simple_rpcs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
