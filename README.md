@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Top 4 UX Trends of 2022](https://www.reddit.com/r/Kotlin/comments/szvl6q/top_4_ux_trends_of_2022/)
+- [Can you skip a parameter in kotlin?](https://www.reddit.com/r/Kotlin/comments/szdx40/can_you_skip_a_parameter_in_kotlin/)
+- [AWS SDK for Kotlin](https://www.reddit.com/r/Kotlin/comments/szbyt3/aws_sdk_for_kotlin/)
 - [What&#39;s the best way to make a more advanced text field in Compose Multiplatform? &lpar;Ie with a rope for larger files&rpar;](https://www.reddit.com/r/Kotlin/comments/sywqy0/whats_the_best_way_to_make_a_more_advanced_text/)
 - [BottomSheetDialog in Fragment](https://www.reddit.com/r/Kotlin/comments/syvqyb/bottomsheetdialog_in_fragment/)
 - [Maintain a class instance through a process](https://www.reddit.com/r/Kotlin/comments/syq8sl/maintain_a_class_instance_through_a_process/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Android export and import data. It tackles how to backup and restore the data of local storage If app is deleted or uninstalled.](https://www.reddit.com/r/Kotlin/comments/synjrb/android_export_and_import_data_it_tackles_how_to/)
 - [Ktor Multiplayer Demo with Korge Client](https://www.reddit.com/r/Kotlin/comments/sy9ud7/ktor_multiplayer_demo_with_korge_client/)
 - [Testing Files without Files](https://www.reddit.com/r/Kotlin/comments/sxzgtv/testing_files_without_files/)
-- [Kotline double multiplication in parenthesis](https://www.reddit.com/r/Kotlin/comments/sxy7qi/kotline_double_multiplication_in_parenthesis/)
-- [Create new sealed class from a sub selection of its members](https://www.reddit.com/r/Kotlin/comments/sxpgfx/create_new_sealed_class_from_a_sub_selection_of/)
-- [Avoiding Stringly-typed in Kotlin](https://www.reddit.com/r/Kotlin/comments/sx5juh/avoiding_stringlytyped_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
