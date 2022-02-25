@@ -272,7 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Top 4 UX Trends of 2022](https://www.reddit.com/r/Kotlin/comments/szvl6q/top_4_ux_trends_of_2022/)
+- [Looking for resources](https://www.reddit.com/r/Kotlin/comments/t0iadu/looking_for_resources/)
+- [Starting an Activity from a Service? App crashing.](https://www.reddit.com/r/Kotlin/comments/t0cyf0/starting_an_activity_from_a_service_app_crashing/)
 - [Can you skip a parameter in kotlin?](https://www.reddit.com/r/Kotlin/comments/szdx40/can_you_skip_a_parameter_in_kotlin/)
 - [AWS SDK for Kotlin](https://www.reddit.com/r/Kotlin/comments/szbyt3/aws_sdk_for_kotlin/)
 - [What&#39;s the best way to make a more advanced text field in Compose Multiplatform? &lpar;Ie with a rope for larger files&rpar;](https://www.reddit.com/r/Kotlin/comments/sywqy0/whats_the_best_way_to_make_a_more_advanced_text/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Under the Covers – Chet Haase](https://www.reddit.com/r/Kotlin/comments/syp8l2/kotlin_under_the_covers_chet_haase/)
 - [Android export and import data. It tackles how to backup and restore the data of local storage If app is deleted or uninstalled.](https://www.reddit.com/r/Kotlin/comments/synjrb/android_export_and_import_data_it_tackles_how_to/)
 - [Ktor Multiplayer Demo with Korge Client](https://www.reddit.com/r/Kotlin/comments/sy9ud7/ktor_multiplayer_demo_with_korge_client/)
-- [Testing Files without Files](https://www.reddit.com/r/Kotlin/comments/sxzgtv/testing_files_without_files/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
