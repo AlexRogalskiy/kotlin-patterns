@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Doodle 0.7.0 Released](https://www.reddit.com/r/Kotlin/comments/t17wrq/doodle_070_released/)
+- [How to process annotations](https://www.reddit.com/r/Kotlin/comments/t12sd1/how_to_process_annotations/)
+- [Idea hinting java variable type as &lpar;String..String?&rpar; rather than String!](https://www.reddit.com/r/Kotlin/comments/t0xyya/idea_hinting_java_variable_type_as_stringstring/)
 - [Looking for resources](https://www.reddit.com/r/Kotlin/comments/t0iadu/looking_for_resources/)
 - [Starting an Activity from a Service? App crashing.](https://www.reddit.com/r/Kotlin/comments/t0cyf0/starting_an_activity_from_a_service_app_crashing/)
 - [Can you skip a parameter in kotlin?](https://www.reddit.com/r/Kotlin/comments/szdx40/can_you_skip_a_parameter_in_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What&#39;s the best way to make a more advanced text field in Compose Multiplatform? &lpar;Ie with a rope for larger files&rpar;](https://www.reddit.com/r/Kotlin/comments/sywqy0/whats_the_best_way_to_make_a_more_advanced_text/)
 - [BottomSheetDialog in Fragment](https://www.reddit.com/r/Kotlin/comments/syvqyb/bottomsheetdialog_in_fragment/)
 - [Maintain a class instance through a process](https://www.reddit.com/r/Kotlin/comments/syq8sl/maintain_a_class_instance_through_a_process/)
-- [Kotlin Under the Covers – Chet Haase](https://www.reddit.com/r/Kotlin/comments/syp8l2/kotlin_under_the_covers_chet_haase/)
-- [Android export and import data. It tackles how to backup and restore the data of local storage If app is deleted or uninstalled.](https://www.reddit.com/r/Kotlin/comments/synjrb/android_export_and_import_data_it_tackles_how_to/)
-- [Ktor Multiplayer Demo with Korge Client](https://www.reddit.com/r/Kotlin/comments/sy9ud7/ktor_multiplayer_demo_with_korge_client/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
