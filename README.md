@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gradle cannot sync with Room dependencies..](https://www.reddit.com/r/Kotlin/comments/t2c3t0/gradle_cannot_sync_with_room_dependencies/)
+- [How to initialize Array of fixed size with hash maps of different sizes?](https://www.reddit.com/r/Kotlin/comments/t28bur/how_to_initialize_array_of_fixed_size_with_hash/)
+- [E/Error: Login failed for user &#39;adminname&#39;. E/AndroidRuntime: FATAL EXCEPTION: pool-1-thread-1](https://www.reddit.com/r/Kotlin/comments/t1wfyj/eerror_login_failed_for_user_adminname/)
 - [Doodle 0.7.0 Released](https://www.reddit.com/r/Kotlin/comments/t17wrq/doodle_070_released/)
 - [How to process annotations](https://www.reddit.com/r/Kotlin/comments/t12sd1/how_to_process_annotations/)
 - [Idea hinting java variable type as &lpar;String..String?&rpar; rather than String!](https://www.reddit.com/r/Kotlin/comments/t0xyya/idea_hinting_java_variable_type_as_stringstring/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Starting an Activity from a Service? App crashing.](https://www.reddit.com/r/Kotlin/comments/t0cyf0/starting_an_activity_from_a_service_app_crashing/)
 - [Can you skip a parameter in kotlin?](https://www.reddit.com/r/Kotlin/comments/szdx40/can_you_skip_a_parameter_in_kotlin/)
 - [AWS SDK for Kotlin](https://www.reddit.com/r/Kotlin/comments/szbyt3/aws_sdk_for_kotlin/)
-- [What&#39;s the best way to make a more advanced text field in Compose Multiplatform? &lpar;Ie with a rope for larger files&rpar;](https://www.reddit.com/r/Kotlin/comments/sywqy0/whats_the_best_way_to_make_a_more_advanced_text/)
-- [BottomSheetDialog in Fragment](https://www.reddit.com/r/Kotlin/comments/syvqyb/bottomsheetdialog_in_fragment/)
-- [Maintain a class instance through a process](https://www.reddit.com/r/Kotlin/comments/syq8sl/maintain_a_class_instance_through_a_process/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
