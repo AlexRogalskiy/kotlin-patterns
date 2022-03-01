@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Use Carthage dependencies in Kotlin Multiplatform Projects](https://www.reddit.com/r/Kotlin/comments/t3obn3/use_carthage_dependencies_in_kotlin_multiplatform/)
+- [Pluto : Open-source On-device debugger for Android apps](https://www.reddit.com/r/Kotlin/comments/t3o40n/pluto_opensource_ondevice_debugger_for_android/)
+- [Kotlin Illustrated Guide: Lambdas and Function References](https://www.reddit.com/r/Kotlin/comments/t3n1bk/kotlin_illustrated_guide_lambdas_and_function/)
+- [Getting started with Jetbrains Exposed, a Kotlin ORM framework](https://www.reddit.com/r/Kotlin/comments/t39mxt/getting_started_with_jetbrains_exposed_a_kotlin/)
+- [Kotlin Design Patterns Made Easy | Creational Patterns](https://www.reddit.com/r/Kotlin/comments/t34oc5/kotlin_design_patterns_made_easy_creational/)
+- [✍️ Plugin to generate Kotlin docs using AI](https://www.reddit.com/r/Kotlin/comments/t340yt/plugin_to_generate_kotlin_docs_using_ai/)
 - [How to structure a non-object-oriented project in Kotlin?](https://www.reddit.com/r/Kotlin/comments/t2z9ml/how_to_structure_a_nonobjectoriented_project_in/)
 - [Gradle cannot sync with Room dependencies..](https://www.reddit.com/r/Kotlin/comments/t2c3t0/gradle_cannot_sync_with_room_dependencies/)
 - [How to initialize Array of fixed size with hash maps of different sizes?](https://www.reddit.com/r/Kotlin/comments/t28bur/how_to_initialize_array_of_fixed_size_with_hash/)
 - [E/Error: Login failed for user &#39;adminname&#39;. E/AndroidRuntime: FATAL EXCEPTION: pool-1-thread-1](https://www.reddit.com/r/Kotlin/comments/t1wfyj/eerror_login_failed_for_user_adminname/)
-- [Doodle 0.7.0 Released](https://www.reddit.com/r/Kotlin/comments/t17wrq/doodle_070_released/)
-- [How to process annotations](https://www.reddit.com/r/Kotlin/comments/t12sd1/how_to_process_annotations/)
-- [Idea hinting java variable type as &lpar;String..String?&rpar; rather than String!](https://www.reddit.com/r/Kotlin/comments/t0xyya/idea_hinting_java_variable_type_as_stringstring/)
-- [Looking for resources](https://www.reddit.com/r/Kotlin/comments/t0iadu/looking_for_resources/)
-- [Starting an Activity from a Service? App crashing.](https://www.reddit.com/r/Kotlin/comments/t0cyf0/starting_an_activity_from_a_service_app_crashing/)
-- [Can you skip a parameter in kotlin?](https://www.reddit.com/r/Kotlin/comments/szdx40/can_you_skip_a_parameter_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
