@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Parsing XML from internal node - Simple XML Javax](https://www.reddit.com/r/Kotlin/comments/t4lad1/parsing_xml_from_internal_node_simple_xml_javax/)
+- [Chart library for Kotlin/JVM](https://www.reddit.com/r/Kotlin/comments/t4h5rq/chart_library_for_kotlinjvm/)
+- [Convertion of String to Double or Int in Kotlin and android studio.](https://www.reddit.com/r/Kotlin/comments/t48gxq/convertion_of_string_to_double_or_int_in_kotlin/)
+- [ZIO Has Type. Is there a way to achieve a similar concept in Kotlin?](https://www.reddit.com/r/Kotlin/comments/t406hm/zio_has_type_is_there_a_way_to_achieve_a_similar/)
 - [Use Carthage dependencies in Kotlin Multiplatform Projects](https://www.reddit.com/r/Kotlin/comments/t3obn3/use_carthage_dependencies_in_kotlin_multiplatform/)
 - [Pluto : Open-source On-device debugger for Android apps](https://www.reddit.com/r/Kotlin/comments/t3o40n/pluto_opensource_ondevice_debugger_for_android/)
 - [Kotlin Illustrated Guide: Lambdas and Function References](https://www.reddit.com/r/Kotlin/comments/t3n1bk/kotlin_illustrated_guide_lambdas_and_function/)
 - [Getting started with Jetbrains Exposed, a Kotlin ORM framework](https://www.reddit.com/r/Kotlin/comments/t39mxt/getting_started_with_jetbrains_exposed_a_kotlin/)
 - [Kotlin Design Patterns Made Easy | Creational Patterns](https://www.reddit.com/r/Kotlin/comments/t34oc5/kotlin_design_patterns_made_easy_creational/)
 - [✍️ Plugin to generate Kotlin docs using AI](https://www.reddit.com/r/Kotlin/comments/t340yt/plugin_to_generate_kotlin_docs_using_ai/)
-- [How to structure a non-object-oriented project in Kotlin?](https://www.reddit.com/r/Kotlin/comments/t2z9ml/how_to_structure_a_nonobjectoriented_project_in/)
-- [Gradle cannot sync with Room dependencies..](https://www.reddit.com/r/Kotlin/comments/t2c3t0/gradle_cannot_sync_with_room_dependencies/)
-- [How to initialize Array of fixed size with hash maps of different sizes?](https://www.reddit.com/r/Kotlin/comments/t28bur/how_to_initialize_array_of_fixed_size_with_hash/)
-- [E/Error: Login failed for user &#39;adminname&#39;. E/AndroidRuntime: FATAL EXCEPTION: pool-1-thread-1](https://www.reddit.com/r/Kotlin/comments/t1wfyj/eerror_login_failed_for_user_adminname/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
