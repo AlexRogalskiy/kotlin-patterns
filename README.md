@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can we make an application so people can vote and protect the results with Blockchain?](https://www.reddit.com/r/Kotlin/comments/t5foxv/can_we_make_an_application_so_people_can_vote_and/)
+- [Discover and connect to other devices using Klient2Klient](https://www.reddit.com/r/Kotlin/comments/t5dpj9/discover_and_connect_to_other_devices_using/)
+- [Naming convention for methods that do the same, but one is suspend and the other not](https://www.reddit.com/r/Kotlin/comments/t544r4/naming_convention_for_methods_that_do_the_same/)
+- [How is the market for Kotlin developers where you live?](https://www.reddit.com/r/Kotlin/comments/t4ynk7/how_is_the_market_for_kotlin_developers_where_you/)
+- [Strange type alias of ThreadLocal](https://www.reddit.com/r/Kotlin/comments/t4wdlk/strange_type_alias_of_threadlocal/)
+- [Khealth is a simple &amp; customizable health plugin for Ktor](https://www.reddit.com/r/Kotlin/comments/t4tit6/khealth_is_a_simple_customizable_health_plugin/)
+- [Kotlin: Allocation-free Vectorial operations using custom operators](https://www.reddit.com/r/Kotlin/comments/t4r6hl/kotlin_allocationfree_vectorial_operations_using/)
+- [Kotlin based Libraries](https://www.reddit.com/r/Kotlin/comments/t4ph8f/kotlin_based_libraries/)
 - [Parsing XML from internal node - Simple XML Javax](https://www.reddit.com/r/Kotlin/comments/t4lad1/parsing_xml_from_internal_node_simple_xml_javax/)
 - [Chart library for Kotlin/JVM](https://www.reddit.com/r/Kotlin/comments/t4h5rq/chart_library_for_kotlinjvm/)
-- [Convertion of String to Double or Int in Kotlin and android studio.](https://www.reddit.com/r/Kotlin/comments/t48gxq/convertion_of_string_to_double_or_int_in_kotlin/)
-- [ZIO Has Type. Is there a way to achieve a similar concept in Kotlin?](https://www.reddit.com/r/Kotlin/comments/t406hm/zio_has_type_is_there_a_way_to_achieve_a_similar/)
-- [Use Carthage dependencies in Kotlin Multiplatform Projects](https://www.reddit.com/r/Kotlin/comments/t3obn3/use_carthage_dependencies_in_kotlin_multiplatform/)
-- [Pluto : Open-source On-device debugger for Android apps](https://www.reddit.com/r/Kotlin/comments/t3o40n/pluto_opensource_ondevice_debugger_for_android/)
-- [Kotlin Illustrated Guide: Lambdas and Function References](https://www.reddit.com/r/Kotlin/comments/t3n1bk/kotlin_illustrated_guide_lambdas_and_function/)
-- [Getting started with Jetbrains Exposed, a Kotlin ORM framework](https://www.reddit.com/r/Kotlin/comments/t39mxt/getting_started_with_jetbrains_exposed_a_kotlin/)
-- [Kotlin Design Patterns Made Easy | Creational Patterns](https://www.reddit.com/r/Kotlin/comments/t34oc5/kotlin_design_patterns_made_easy_creational/)
-- [✍️ Plugin to generate Kotlin docs using AI](https://www.reddit.com/r/Kotlin/comments/t340yt/plugin_to_generate_kotlin_docs_using_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
