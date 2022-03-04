@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can we make an application so people can vote and protect the results with Blockchain?](https://www.reddit.com/r/Kotlin/comments/t5foxv/can_we_make_an_application_so_people_can_vote_and/)
+- [Image Slider with overlapping view Android Studio](https://www.reddit.com/r/Kotlin/comments/t64ec8/image_slider_with_overlapping_view_android_studio/)
+- [Error with inner class using android.location.LocationListener](https://www.reddit.com/r/Kotlin/comments/t5t7k5/error_with_inner_class_using/)
+- [use method from antoher fragment](https://www.reddit.com/r/Kotlin/comments/t5o18a/use_method_from_antoher_fragment/)
 - [Discover and connect to other devices using Klient2Klient](https://www.reddit.com/r/Kotlin/comments/t5dpj9/discover_and_connect_to_other_devices_using/)
 - [Naming convention for methods that do the same, but one is suspend and the other not](https://www.reddit.com/r/Kotlin/comments/t544r4/naming_convention_for_methods_that_do_the_same/)
-- [How is the market for Kotlin developers where you live?](https://www.reddit.com/r/Kotlin/comments/t4ynk7/how_is_the_market_for_kotlin_developers_where_you/)
 - [Strange type alias of ThreadLocal](https://www.reddit.com/r/Kotlin/comments/t4wdlk/strange_type_alias_of_threadlocal/)
 - [Khealth is a simple &amp; customizable health plugin for Ktor](https://www.reddit.com/r/Kotlin/comments/t4tit6/khealth_is_a_simple_customizable_health_plugin/)
 - [Kotlin: Allocation-free Vectorial operations using custom operators](https://www.reddit.com/r/Kotlin/comments/t4r6hl/kotlin_allocationfree_vectorial_operations_using/)
 - [Kotlin based Libraries](https://www.reddit.com/r/Kotlin/comments/t4ph8f/kotlin_based_libraries/)
 - [Parsing XML from internal node - Simple XML Javax](https://www.reddit.com/r/Kotlin/comments/t4lad1/parsing_xml_from_internal_node_simple_xml_javax/)
-- [Chart library for Kotlin/JVM](https://www.reddit.com/r/Kotlin/comments/t4h5rq/chart_library_for_kotlinjvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
