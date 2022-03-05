@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin download is broken](https://www.reddit.com/r/Kotlin/comments/t6svxi/kotlin_download_is_broken/)
+- [Object Oriented Programming Examples and Practice](https://www.reddit.com/r/Kotlin/comments/t6nzm2/object_oriented_programming_examples_and_practice/)
+- [Free Play Store Data Safety Generator](https://www.reddit.com/r/Kotlin/comments/t6gwb0/free_play_store_data_safety_generator/)
 - [Image Slider with overlapping view Android Studio](https://www.reddit.com/r/Kotlin/comments/t64ec8/image_slider_with_overlapping_view_android_studio/)
 - [Error with inner class using android.location.LocationListener](https://www.reddit.com/r/Kotlin/comments/t5t7k5/error_with_inner_class_using/)
 - [use method from antoher fragment](https://www.reddit.com/r/Kotlin/comments/t5o18a/use_method_from_antoher_fragment/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Naming convention for methods that do the same, but one is suspend and the other not](https://www.reddit.com/r/Kotlin/comments/t544r4/naming_convention_for_methods_that_do_the_same/)
 - [Strange type alias of ThreadLocal](https://www.reddit.com/r/Kotlin/comments/t4wdlk/strange_type_alias_of_threadlocal/)
 - [Khealth is a simple &amp; customizable health plugin for Ktor](https://www.reddit.com/r/Kotlin/comments/t4tit6/khealth_is_a_simple_customizable_health_plugin/)
-- [Kotlin: Allocation-free Vectorial operations using custom operators](https://www.reddit.com/r/Kotlin/comments/t4r6hl/kotlin_allocationfree_vectorial_operations_using/)
-- [Kotlin based Libraries](https://www.reddit.com/r/Kotlin/comments/t4ph8f/kotlin_based_libraries/)
-- [Parsing XML from internal node - Simple XML Javax](https://www.reddit.com/r/Kotlin/comments/t4lad1/parsing_xml_from_internal_node_simple_xml_javax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
