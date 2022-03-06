@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Fixture Generator Plugin](https://www.reddit.com/r/Kotlin/comments/t78jzn/kotlin_fixture_generator_plugin/)
+- [Comparing implementations of the Monkey language VII: My name is 3… Scala 3](https://www.reddit.com/r/Kotlin/comments/t755nf/comparing_implementations_of_the_monkey_language/)
 - [Kotlin download is broken](https://www.reddit.com/r/Kotlin/comments/t6svxi/kotlin_download_is_broken/)
 - [Object Oriented Programming Examples and Practice](https://www.reddit.com/r/Kotlin/comments/t6nzm2/object_oriented_programming_examples_and_practice/)
 - [Free Play Store Data Safety Generator](https://www.reddit.com/r/Kotlin/comments/t6gwb0/free_play_store_data_safety_generator/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [use method from antoher fragment](https://www.reddit.com/r/Kotlin/comments/t5o18a/use_method_from_antoher_fragment/)
 - [Discover and connect to other devices using Klient2Klient](https://www.reddit.com/r/Kotlin/comments/t5dpj9/discover_and_connect_to_other_devices_using/)
 - [Naming convention for methods that do the same, but one is suspend and the other not](https://www.reddit.com/r/Kotlin/comments/t544r4/naming_convention_for_methods_that_do_the_same/)
-- [Strange type alias of ThreadLocal](https://www.reddit.com/r/Kotlin/comments/t4wdlk/strange_type_alias_of_threadlocal/)
-- [Khealth is a simple &amp; customizable health plugin for Ktor](https://www.reddit.com/r/Kotlin/comments/t4tit6/khealth_is_a_simple_customizable_health_plugin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
