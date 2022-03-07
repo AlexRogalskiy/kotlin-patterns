@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OSMDroid - changing map tilesource to satellite and topographic is not working](https://www.reddit.com/r/Kotlin/comments/t87xe4/osmdroid_changing_map_tilesource_to_satellite_and/)
+- [Horrific Kotlin-specific syntax that still compiles &lpar;and nested if-expressions&rpar;](https://www.reddit.com/r/Kotlin/comments/t7ywp9/horrific_kotlinspecific_syntax_that_still/)
+- [How to run automated tests in Github actions for Kotlin?](https://www.reddit.com/r/Kotlin/comments/t7ykgq/how_to_run_automated_tests_in_github_actions_for/)
+- [Can I learn Kotlin without knowing Java?](https://www.reddit.com/r/Kotlin/comments/t7ygud/can_i_learn_kotlin_without_knowing_java/)
+- [Alarm doesnt work in background](https://www.reddit.com/r/Kotlin/comments/t7w597/alarm_doesnt_work_in_background/)
+- [help me with this](https://www.reddit.com/r/Kotlin/comments/t7uovw/help_me_with_this/)
 - [Kotlin Fixture Generator Plugin](https://www.reddit.com/r/Kotlin/comments/t78jzn/kotlin_fixture_generator_plugin/)
 - [Comparing implementations of the Monkey language VII: My name is 3… Scala 3](https://www.reddit.com/r/Kotlin/comments/t755nf/comparing_implementations_of_the_monkey_language/)
 - [Kotlin download is broken](https://www.reddit.com/r/Kotlin/comments/t6svxi/kotlin_download_is_broken/)
 - [Object Oriented Programming Examples and Practice](https://www.reddit.com/r/Kotlin/comments/t6nzm2/object_oriented_programming_examples_and_practice/)
-- [Free Play Store Data Safety Generator](https://www.reddit.com/r/Kotlin/comments/t6gwb0/free_play_store_data_safety_generator/)
-- [Image Slider with overlapping view Android Studio](https://www.reddit.com/r/Kotlin/comments/t64ec8/image_slider_with_overlapping_view_android_studio/)
-- [Error with inner class using android.location.LocationListener](https://www.reddit.com/r/Kotlin/comments/t5t7k5/error_with_inner_class_using/)
-- [use method from antoher fragment](https://www.reddit.com/r/Kotlin/comments/t5o18a/use_method_from_antoher_fragment/)
-- [Discover and connect to other devices using Klient2Klient](https://www.reddit.com/r/Kotlin/comments/t5dpj9/discover_and_connect_to_other_devices_using/)
-- [Naming convention for methods that do the same, but one is suspend and the other not](https://www.reddit.com/r/Kotlin/comments/t544r4/naming_convention_for_methods_that_do_the_same/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
