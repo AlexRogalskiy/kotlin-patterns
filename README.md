@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Getting ClassCastException in KClasses.getMemberProperties&lpar;&rpar; but only on Amazon&#39;s Corretto JVM - any ideas?](https://www.reddit.com/r/Kotlin/comments/t8qg99/getting_classcastexception_in/)
+- [A language for building DSL that decouples text and its formatting as a complementary alternative to Markdown and HTML. I have recently embedded this format in kotlin &lpar;but it can be done in any high level language&rpar; to decouple text and its formating and to solve internationalization problem.](https://www.reddit.com/r/Kotlin/comments/t8n35g/a_language_for_building_dsl_that_decouples_text/)
+- [Help](https://www.reddit.com/r/Kotlin/comments/t8n01e/help/)
+- [InvocationTargetException](https://www.reddit.com/r/Kotlin/comments/t8mqms/invocationtargetexception/)
+- [Can I convert url to File?](https://www.reddit.com/r/Kotlin/comments/t8j71t/can_i_convert_url_to_file/)
+- [Can you use ArrayOf to mp3s?](https://www.reddit.com/r/Kotlin/comments/t8hn7s/can_you_use_arrayof_to_mp3s/)
+- [needed help with this code but don’t know how to do it](https://www.reddit.com/r/Kotlin/comments/t8ga8j/needed_help_with_this_code_but_dont_know_how_to/)
 - [OSMDroid - changing map tilesource to satellite and topographic is not working](https://www.reddit.com/r/Kotlin/comments/t87xe4/osmdroid_changing_map_tilesource_to_satellite_and/)
 - [Horrific Kotlin-specific syntax that still compiles &lpar;and nested if-expressions&rpar;](https://www.reddit.com/r/Kotlin/comments/t7ywp9/horrific_kotlinspecific_syntax_that_still/)
 - [How to run automated tests in Github actions for Kotlin?](https://www.reddit.com/r/Kotlin/comments/t7ykgq/how_to_run_automated_tests_in_github_actions_for/)
-- [Can I learn Kotlin without knowing Java?](https://www.reddit.com/r/Kotlin/comments/t7ygud/can_i_learn_kotlin_without_knowing_java/)
-- [Alarm doesnt work in background](https://www.reddit.com/r/Kotlin/comments/t7w597/alarm_doesnt_work_in_background/)
-- [help me with this](https://www.reddit.com/r/Kotlin/comments/t7uovw/help_me_with_this/)
-- [Kotlin Fixture Generator Plugin](https://www.reddit.com/r/Kotlin/comments/t78jzn/kotlin_fixture_generator_plugin/)
-- [Comparing implementations of the Monkey language VII: My name is 3… Scala 3](https://www.reddit.com/r/Kotlin/comments/t755nf/comparing_implementations_of_the_monkey_language/)
-- [Kotlin download is broken](https://www.reddit.com/r/Kotlin/comments/t6svxi/kotlin_download_is_broken/)
-- [Object Oriented Programming Examples and Practice](https://www.reddit.com/r/Kotlin/comments/t6nzm2/object_oriented_programming_examples_and_practice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
