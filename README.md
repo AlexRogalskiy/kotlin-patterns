@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LittleKt: A multiplatform game framework - v0.2 Released](https://www.reddit.com/r/Kotlin/comments/t9ytdl/littlekt_a_multiplatform_game_framework_v02/)
 - [Theming in Android 9 vs 11](https://www.reddit.com/r/Kotlin/comments/t9ue17/theming_in_android_9_vs_11/)
 - [Kotlin Tutorial Suggestion for a newbie](https://www.reddit.com/r/Kotlin/comments/t9jrdy/kotlin_tutorial_suggestion_for_a_newbie/)
 - [Is it possible to use the google sheets api with Kotlin?](https://www.reddit.com/r/Kotlin/comments/t9a3yz/is_it_possible_to_use_the_google_sheets_api_with/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [InvocationTargetException](https://www.reddit.com/r/Kotlin/comments/t8mqms/invocationtargetexception/)
 - [Can I convert url to File?](https://www.reddit.com/r/Kotlin/comments/t8j71t/can_i_convert_url_to_file/)
 - [Can you use ArrayOf to mp3s?](https://www.reddit.com/r/Kotlin/comments/t8hn7s/can_you_use_arrayof_to_mp3s/)
-- [needed help with this code but don’t know how to do it](https://www.reddit.com/r/Kotlin/comments/t8ga8j/needed_help_with_this_code_but_dont_know_how_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
