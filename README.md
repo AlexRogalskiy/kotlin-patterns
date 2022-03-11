@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question regarding KSP and KAPT in multimodule project.](https://www.reddit.com/r/Kotlin/comments/tb3ps4/question_regarding_ksp_and_kapt_in_multimodule/)
+- [kotlin LSP support.](https://www.reddit.com/r/Kotlin/comments/tb365y/kotlin_lsp_support/)
+- [Why doesn&#39;t Kotlin allow me to use my function?](https://www.reddit.com/r/Kotlin/comments/tat78r/why_doesnt_kotlin_allow_me_to_use_my_function/)
 - [LittleKt: A multiplatform game framework - v0.2 Released](https://www.reddit.com/r/Kotlin/comments/t9ytdl/littlekt_a_multiplatform_game_framework_v02/)
 - [Theming in Android 9 vs 11](https://www.reddit.com/r/Kotlin/comments/t9ue17/theming_in_android_9_vs_11/)
 - [Kotlin Tutorial Suggestion for a newbie](https://www.reddit.com/r/Kotlin/comments/t9jrdy/kotlin_tutorial_suggestion_for_a_newbie/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Getting ClassCastException in KClasses.getMemberProperties&lpar;&rpar; but only on Amazon&#39;s Corretto JVM - any ideas?](https://www.reddit.com/r/Kotlin/comments/t8qg99/getting_classcastexception_in/)
 - [A language for building DSL that decouples text and its formatting as a complementary alternative to Markdown and HTML. I have recently embedded this format in kotlin &lpar;but it can be done in any high level language&rpar; to decouple text and its formating and to solve internationalization problem.](https://www.reddit.com/r/Kotlin/comments/t8n35g/a_language_for_building_dsl_that_decouples_text/)
 - [Help](https://www.reddit.com/r/Kotlin/comments/t8n01e/help/)
-- [InvocationTargetException](https://www.reddit.com/r/Kotlin/comments/t8mqms/invocationtargetexception/)
-- [Can I convert url to File?](https://www.reddit.com/r/Kotlin/comments/t8j71t/can_i_convert_url_to_file/)
-- [Can you use ArrayOf to mp3s?](https://www.reddit.com/r/Kotlin/comments/t8hn7s/can_you_use_arrayof_to_mp3s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
