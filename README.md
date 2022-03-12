@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin MultiPlatform - Android and Apple watches?](https://www.reddit.com/r/Kotlin/comments/tc1pb3/kotlin_multiplatform_android_and_apple_watches/)
+- [Barista — Enjoyable Espresso Android UI Tests](https://www.reddit.com/r/Kotlin/comments/tbqcgf/barista_enjoyable_espresso_android_ui_tests/)
+- [Does this have a certain name?](https://www.reddit.com/r/Kotlin/comments/tboezw/does_this_have_a_certain_name/)
+- [Dependency injection &lpar;Koin or Dagger, or anything&rpar; with multiple potential interface implemenations](https://www.reddit.com/r/Kotlin/comments/tbj7h6/dependency_injection_koin_or_dagger_or_anything/)
+- [Kotlin stdlib files missing from the apk during runtime](https://www.reddit.com/r/Kotlin/comments/tbj0t4/kotlin_stdlib_files_missing_from_the_apk_during/)
+- [How Do I deserialise this json with a missing property name to a Kotlin data class?](https://www.reddit.com/r/Kotlin/comments/tbhk5u/how_do_i_deserialise_this_json_with_a_missing/)
 - [Question regarding KSP and KAPT in multimodule project.](https://www.reddit.com/r/Kotlin/comments/tb3ps4/question_regarding_ksp_and_kapt_in_multimodule/)
 - [kotlin LSP support.](https://www.reddit.com/r/Kotlin/comments/tb365y/kotlin_lsp_support/)
 - [Why doesn&#39;t Kotlin allow me to use my function?](https://www.reddit.com/r/Kotlin/comments/tat78r/why_doesnt_kotlin_allow_me_to_use_my_function/)
 - [LittleKt: A multiplatform game framework - v0.2 Released](https://www.reddit.com/r/Kotlin/comments/t9ytdl/littlekt_a_multiplatform_game_framework_v02/)
-- [Theming in Android 9 vs 11](https://www.reddit.com/r/Kotlin/comments/t9ue17/theming_in_android_9_vs_11/)
-- [Kotlin Tutorial Suggestion for a newbie](https://www.reddit.com/r/Kotlin/comments/t9jrdy/kotlin_tutorial_suggestion_for_a_newbie/)
-- [Is it possible to use the google sheets api with Kotlin?](https://www.reddit.com/r/Kotlin/comments/t9a3yz/is_it_possible_to_use_the_google_sheets_api_with/)
-- [Getting ClassCastException in KClasses.getMemberProperties&lpar;&rpar; but only on Amazon&#39;s Corretto JVM - any ideas?](https://www.reddit.com/r/Kotlin/comments/t8qg99/getting_classcastexception_in/)
-- [A language for building DSL that decouples text and its formatting as a complementary alternative to Markdown and HTML. I have recently embedded this format in kotlin &lpar;but it can be done in any high level language&rpar; to decouple text and its formating and to solve internationalization problem.](https://www.reddit.com/r/Kotlin/comments/t8n35g/a_language_for_building_dsl_that_decouples_text/)
-- [Help](https://www.reddit.com/r/Kotlin/comments/t8n01e/help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
