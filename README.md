@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This looks intersting... K/N Desktop packaging for Mac.](https://www.reddit.com/r/Kotlin/comments/tctrmj/this_looks_intersting_kn_desktop_packaging_for_mac/)
+- [Why don&#39;t get the option to create a new kotlin class?](https://www.reddit.com/r/Kotlin/comments/tcqmgv/why_dont_get_the_option_to_create_a_new_kotlin/)
+- [Effective handling your tech debt;](https://www.reddit.com/r/Kotlin/comments/tcollz/effective_handling_your_tech_debt/)
+- [How to avoid stackoverflow?](https://www.reddit.com/r/Kotlin/comments/tcnxxt/how_to_avoid_stackoverflow/)
+- [How to get Sublime text to recognize Kotlin and .kt files?](https://www.reddit.com/r/Kotlin/comments/tcjujb/how_to_get_sublime_text_to_recognize_kotlin_and/)
+- [Allow function to take in different types of collections of collection?](https://www.reddit.com/r/Kotlin/comments/tcc6dt/allow_function_to_take_in_different_types_of/)
 - [Kotlin MultiPlatform - Android and Apple watches?](https://www.reddit.com/r/Kotlin/comments/tc1pb3/kotlin_multiplatform_android_and_apple_watches/)
 - [Barista — Enjoyable Espresso Android UI Tests](https://www.reddit.com/r/Kotlin/comments/tbqcgf/barista_enjoyable_espresso_android_ui_tests/)
 - [Does this have a certain name?](https://www.reddit.com/r/Kotlin/comments/tboezw/does_this_have_a_certain_name/)
 - [Dependency injection &lpar;Koin or Dagger, or anything&rpar; with multiple potential interface implemenations](https://www.reddit.com/r/Kotlin/comments/tbj7h6/dependency_injection_koin_or_dagger_or_anything/)
-- [Kotlin stdlib files missing from the apk during runtime](https://www.reddit.com/r/Kotlin/comments/tbj0t4/kotlin_stdlib_files_missing_from_the_apk_during/)
-- [How Do I deserialise this json with a missing property name to a Kotlin data class?](https://www.reddit.com/r/Kotlin/comments/tbhk5u/how_do_i_deserialise_this_json_with_a_missing/)
-- [Question regarding KSP and KAPT in multimodule project.](https://www.reddit.com/r/Kotlin/comments/tb3ps4/question_regarding_ksp_and_kapt_in_multimodule/)
-- [kotlin LSP support.](https://www.reddit.com/r/Kotlin/comments/tb365y/kotlin_lsp_support/)
-- [Why doesn&#39;t Kotlin allow me to use my function?](https://www.reddit.com/r/Kotlin/comments/tat78r/why_doesnt_kotlin_allow_me_to_use_my_function/)
-- [LittleKt: A multiplatform game framework - v0.2 Released](https://www.reddit.com/r/Kotlin/comments/t9ytdl/littlekt_a_multiplatform_game_framework_v02/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
