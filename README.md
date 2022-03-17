@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Reference Project - Kotlin + Spring + Netflix DGS Async + Customized Gradle Output](https://www.reddit.com/r/Kotlin/comments/tfurmd/reference_project_kotlin_spring_netflix_dgs_async/)
+- [why does Kotlin shadows the String.split method with an extension method?](https://www.reddit.com/r/Kotlin/comments/tfqek6/why_does_kotlin_shadows_the_stringsplit_method/)
+- [How to convert class into object &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/tfmxqt/how_to_convert_class_into_object_kotlin/)
 - [Anyone interested ? JDK 17 Vector ops for Kotlin](https://www.reddit.com/r/Kotlin/comments/tf45a3/anyone_interested_jdk_17_vector_ops_for_kotlin/)
 - [micro-template: a small library for logic-less text templating](https://www.reddit.com/r/Kotlin/comments/tes4yu/microtemplate_a_small_library_for_logicless_text/)
 - [Kotlin/JS IR release date?](https://www.reddit.com/r/Kotlin/comments/teqmzg/kotlinjs_ir_release_date/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin is *Way* More Than Just Android](https://www.reddit.com/r/Kotlin/comments/tef4qv/kotlin_is_way_more_than_just_android/)
 - [Desktop Compose Directory chooser](https://www.reddit.com/r/Kotlin/comments/te5dxs/desktop_compose_directory_chooser/)
 - [Learning material for learning Spring Boot with Kotlin](https://www.reddit.com/r/Kotlin/comments/te0qiu/learning_material_for_learning_spring_boot_with/)
-- [What happens to Kotlin to now?](https://www.reddit.com/r/Kotlin/comments/tdvcxc/what_happens_to_kotlin_to_now/)
-- [Is there any good learning resource for kotlin and kotlin script for &lpar;gradle&rpar;](https://www.reddit.com/r/Kotlin/comments/tdudyn/is_there_any_good_learning_resource_for_kotlin/)
-- [youtuber recommendation](https://www.reddit.com/r/Kotlin/comments/tdhz2e/youtuber_recommendation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
