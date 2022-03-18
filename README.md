@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [trying to add a PDF viewer, obviously not working](https://www.reddit.com/r/Kotlin/comments/tgp2y2/trying_to_add_a_pdf_viewer_obviously_not_working/)
+- [Three fully remote jobs at Komoot in Europe!](https://www.reddit.com/r/Kotlin/comments/tgl3dn/three_fully_remote_jobs_at_komoot_in_europe/)
+- [DDD example for micro service or serverless](https://www.reddit.com/r/Kotlin/comments/tgfu0b/ddd_example_for_micro_service_or_serverless/)
+- [Kotlin - How do I build an app similar to TaskRabbit?](https://www.reddit.com/r/Kotlin/comments/tgee2s/kotlin_how_do_i_build_an_app_similar_to_taskrabbit/)
+- [Improved caching with Kotlin flows and the reduce function](https://www.reddit.com/r/Kotlin/comments/tge4vx/improved_caching_with_kotlin_flows_and_the_reduce/)
+- [Is kotlin truly a static type language?](https://www.reddit.com/r/Kotlin/comments/tg7v31/is_kotlin_truly_a_static_type_language/)
+- [How to prevent line break in String?](https://www.reddit.com/r/Kotlin/comments/tg7tlq/how_to_prevent_line_break_in_string/)
+- [Is there a preferred way to do explicit typing, when Kotlin requires it?](https://www.reddit.com/r/Kotlin/comments/tg6nzh/is_there_a_preferred_way_to_do_explicit_typing/)
+- [How to do GC Log analysis?](https://www.reddit.com/r/Kotlin/comments/tg2ihw/how_to_do_gc_log_analysis/)
 - [Reference Project - Kotlin + Spring + Netflix DGS Async + Customized Gradle Output](https://www.reddit.com/r/Kotlin/comments/tfurmd/reference_project_kotlin_spring_netflix_dgs_async/)
-- [why does Kotlin shadows the String.split method with an extension method?](https://www.reddit.com/r/Kotlin/comments/tfqek6/why_does_kotlin_shadows_the_stringsplit_method/)
-- [How to convert class into object &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/tfmxqt/how_to_convert_class_into_object_kotlin/)
-- [Anyone interested ? JDK 17 Vector ops for Kotlin](https://www.reddit.com/r/Kotlin/comments/tf45a3/anyone_interested_jdk_17_vector_ops_for_kotlin/)
-- [micro-template: a small library for logic-less text templating](https://www.reddit.com/r/Kotlin/comments/tes4yu/microtemplate_a_small_library_for_logicless_text/)
-- [Kotlin/JS IR release date?](https://www.reddit.com/r/Kotlin/comments/teqmzg/kotlinjs_ir_release_date/)
-- [Android - Create a global way to handle errors](https://www.reddit.com/r/Kotlin/comments/teo0lu/android_create_a_global_way_to_handle_errors/)
-- [Kotlin is *Way* More Than Just Android](https://www.reddit.com/r/Kotlin/comments/tef4qv/kotlin_is_way_more_than_just_android/)
-- [Desktop Compose Directory chooser](https://www.reddit.com/r/Kotlin/comments/te5dxs/desktop_compose_directory_chooser/)
-- [Learning material for learning Spring Boot with Kotlin](https://www.reddit.com/r/Kotlin/comments/te0qiu/learning_material_for_learning_spring_boot_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
