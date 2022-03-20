@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Confused on interoperability?](https://www.reddit.com/r/Kotlin/comments/ti8lfy/confused_on_interoperability/)
+- [Access Smartwatch raw sensor data](https://www.reddit.com/r/Kotlin/comments/ti82eq/access_smartwatch_raw_sensor_data/)
+- [println on steroids](https://www.reddit.com/r/Kotlin/comments/ti5yia/println_on_steroids/)
+- [Is there a better way to make nested calls to Firebase Realtime Database with Kotlin?](https://www.reddit.com/r/Kotlin/comments/ti29yo/is_there_a_better_way_to_make_nested_calls_to/)
+- [What is the difference between if-else statement and if-else expression](https://www.reddit.com/r/Kotlin/comments/ti1oco/what_is_the_difference_between_ifelse_statement/)
+- [Kotlin Pre-Build Custom UI Components](https://www.reddit.com/r/Kotlin/comments/thwea2/kotlin_prebuild_custom_ui_components/)
+- [If I can write code outside of the main function and it&#39;ll work just fine, why would I even need the main function?](https://www.reddit.com/r/Kotlin/comments/thuti5/if_i_can_write_code_outside_of_the_main_function/)
+- [Help with displaying lifecycle logcat in textview](https://www.reddit.com/r/Kotlin/comments/thl5aj/help_with_displaying_lifecycle_logcat_in_textview/)
 - [I am a total Kotlin / JetBrains IDEA noob. Why is it that when I run a .kts file, I get 100 error messages unrelated to the main&lpar;&rpar; function?](https://www.reddit.com/r/Kotlin/comments/thjg0w/i_am_a_total_kotlin_jetbrains_idea_noob_why_is_it/)
 - [JavaFX is not showing label of line in LineChart](https://www.reddit.com/r/Kotlin/comments/th1wcf/javafx_is_not_showing_label_of_line_in_linechart/)
-- [Desktop Compose Media Player &lpar;Open Mp3 File&rpar;](https://www.reddit.com/r/Kotlin/comments/tgufjh/desktop_compose_media_player_open_mp3_file/)
-- [trying to add a PDF viewer, obviously not working](https://www.reddit.com/r/Kotlin/comments/tgp2y2/trying_to_add_a_pdf_viewer_obviously_not_working/)
-- [DDD example for micro service or serverless](https://www.reddit.com/r/Kotlin/comments/tgfu0b/ddd_example_for_micro_service_or_serverless/)
-- [Kotlin - How do I build an app similar to TaskRabbit?](https://www.reddit.com/r/Kotlin/comments/tgee2s/kotlin_how_do_i_build_an_app_similar_to_taskrabbit/)
-- [Improved caching with Kotlin flows and the reduce function](https://www.reddit.com/r/Kotlin/comments/tge4vx/improved_caching_with_kotlin_flows_and_the_reduce/)
-- [Is kotlin truly a static type language?](https://www.reddit.com/r/Kotlin/comments/tg7v31/is_kotlin_truly_a_static_type_language/)
-- [How to prevent line break in String?](https://www.reddit.com/r/Kotlin/comments/tg7tlq/how_to_prevent_line_break_in_string/)
-- [Is there a preferred way to do explicit typing, when Kotlin requires it?](https://www.reddit.com/r/Kotlin/comments/tg6nzh/is_there_a_preferred_way_to_do_explicit_typing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
