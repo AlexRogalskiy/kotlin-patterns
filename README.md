@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [QUESTION: Is it easier to get a job in Kotlin?](https://www.reddit.com/r/Kotlin/comments/tixzk0/question_is_it_easier_to_get_a_job_in_kotlin/)
+- [QUESTION: Should I learn Kotlin as a No-Experience Programming Student](https://www.reddit.com/r/Kotlin/comments/tiwp0p/question_should_i_learn_kotlin_as_a_noexperience/)
+- [Trying to decide on Scala or Kotlin](https://www.reddit.com/r/Kotlin/comments/tijjda/trying_to_decide_on_scala_or_kotlin/)
+- [why functions are also consider as expressions ?](https://www.reddit.com/r/Kotlin/comments/tidhyt/why_functions_are_also_consider_as_expressions/)
 - [Confused on interoperability?](https://www.reddit.com/r/Kotlin/comments/ti8lfy/confused_on_interoperability/)
 - [Access Smartwatch raw sensor data](https://www.reddit.com/r/Kotlin/comments/ti82eq/access_smartwatch_raw_sensor_data/)
 - [println on steroids](https://www.reddit.com/r/Kotlin/comments/ti5yia/println_on_steroids/)
 - [Is there a better way to make nested calls to Firebase Realtime Database with Kotlin?](https://www.reddit.com/r/Kotlin/comments/ti29yo/is_there_a_better_way_to_make_nested_calls_to/)
 - [What is the difference between if-else statement and if-else expression](https://www.reddit.com/r/Kotlin/comments/ti1oco/what_is_the_difference_between_ifelse_statement/)
 - [Kotlin Pre-Build Custom UI Components](https://www.reddit.com/r/Kotlin/comments/thwea2/kotlin_prebuild_custom_ui_components/)
-- [If I can write code outside of the main function and it&#39;ll work just fine, why would I even need the main function?](https://www.reddit.com/r/Kotlin/comments/thuti5/if_i_can_write_code_outside_of_the_main_function/)
-- [Help with displaying lifecycle logcat in textview](https://www.reddit.com/r/Kotlin/comments/thl5aj/help_with_displaying_lifecycle_logcat_in_textview/)
-- [I am a total Kotlin / JetBrains IDEA noob. Why is it that when I run a .kts file, I get 100 error messages unrelated to the main&lpar;&rpar; function?](https://www.reddit.com/r/Kotlin/comments/thjg0w/i_am_a_total_kotlin_jetbrains_idea_noob_why_is_it/)
-- [JavaFX is not showing label of line in LineChart](https://www.reddit.com/r/Kotlin/comments/th1wcf/javafx_is_not_showing_label_of_line_in_linechart/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
