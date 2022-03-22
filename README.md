@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Useful Tools and Programs list for Kotlin](https://www.reddit.com/r/Kotlin/comments/tjqp28/useful_tools_and_programs_list_for_kotlin/)
+- [Fully customizable Jetpack Compose from iDenfy!](https://www.reddit.com/r/Kotlin/comments/tjmnr4/fully_customizable_jetpack_compose_from_idenfy/)
+- [Problem with asynchronously execution](https://www.reddit.com/r/Kotlin/comments/tjbx4j/problem_with_asynchronously_execution/)
+- [An HTML5 MMORPG game written in pure Kotlin](https://www.reddit.com/r/Kotlin/comments/tj8m06/an_html5_mmorpg_game_written_in_pure_kotlin/)
 - [QUESTION: Is it easier to get a job in Kotlin?](https://www.reddit.com/r/Kotlin/comments/tixzk0/question_is_it_easier_to_get_a_job_in_kotlin/)
 - [QUESTION: Should I learn Kotlin as a No-Experience Programming Student](https://www.reddit.com/r/Kotlin/comments/tiwp0p/question_should_i_learn_kotlin_as_a_noexperience/)
 - [Trying to decide on Scala or Kotlin](https://www.reddit.com/r/Kotlin/comments/tijjda/trying_to_decide_on_scala_or_kotlin/)
 - [why functions are also consider as expressions ?](https://www.reddit.com/r/Kotlin/comments/tidhyt/why_functions_are_also_consider_as_expressions/)
 - [Confused on interoperability?](https://www.reddit.com/r/Kotlin/comments/ti8lfy/confused_on_interoperability/)
 - [Access Smartwatch raw sensor data](https://www.reddit.com/r/Kotlin/comments/ti82eq/access_smartwatch_raw_sensor_data/)
-- [println on steroids](https://www.reddit.com/r/Kotlin/comments/ti5yia/println_on_steroids/)
-- [Is there a better way to make nested calls to Firebase Realtime Database with Kotlin?](https://www.reddit.com/r/Kotlin/comments/ti29yo/is_there_a_better_way_to_make_nested_calls_to/)
-- [What is the difference between if-else statement and if-else expression](https://www.reddit.com/r/Kotlin/comments/ti1oco/what_is_the_difference_between_ifelse_statement/)
-- [Kotlin Pre-Build Custom UI Components](https://www.reddit.com/r/Kotlin/comments/thwea2/kotlin_prebuild_custom_ui_components/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
