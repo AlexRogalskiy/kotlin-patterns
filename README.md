@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to pass an image from one fragment to another?](https://www.reddit.com/r/Kotlin/comments/tluswt/how_to_pass_an_image_from_one_fragment_to_another/)
+- [Best way to start learning Kotlin?](https://www.reddit.com/r/Kotlin/comments/tlqjgw/best_way_to_start_learning_kotlin/)
+- [Define which parameter from a string](https://www.reddit.com/r/Kotlin/comments/tl748z/define_which_parameter_from_a_string/)
+- [On the Power of When Versus If Else Chains](https://www.reddit.com/r/Kotlin/comments/tkwfeg/on_the_power_of_when_versus_if_else_chains/)
 - [Use semantic indenting](https://www.reddit.com/r/Kotlin/comments/tkj8ln/use_semantic_indenting/)
 - [Is functional programming a good paradigm to use for Kotlin development? Check out this guide I wrote for direct coding comparisons between functional programming and imperative programming using DoorDash engineering examples](https://www.reddit.com/r/Kotlin/comments/tkblcz/is_functional_programming_a_good_paradigm_to_use/)
 - [My community project to help with Arabic translation for mobile app](https://www.reddit.com/r/Kotlin/comments/tkaxm6/my_community_project_to_help_with_arabic/)
 - [What is an idiomatic Kotlin way of finding a &#39;type&#39; of suffix on a String?](https://www.reddit.com/r/Kotlin/comments/tk72to/what_is_an_idiomatic_kotlin_way_of_finding_a_type/)
 - [Kreds - a thread-safe, idiomatic, coroutine-based Redis client written in 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/tk5m0j/kreds_a_threadsafe_idiomatic_coroutinebased_redis/)
 - [Fully customizable Jetpack Compose from iDenfy!](https://www.reddit.com/r/Kotlin/comments/tjmnr4/fully_customizable_jetpack_compose_from_idenfy/)
-- [Problem with asynchronously execution](https://www.reddit.com/r/Kotlin/comments/tjbx4j/problem_with_asynchronously_execution/)
-- [An HTML5 MMORPG game written in pure Kotlin](https://www.reddit.com/r/Kotlin/comments/tj8m06/an_html5_mmorpg_game_written_in_pure_kotlin/)
-- [QUESTION: Is it easier to get a job in Kotlin?](https://www.reddit.com/r/Kotlin/comments/tixzk0/question_is_it_easier_to_get_a_job_in_kotlin/)
-- [QUESTION: Should I learn Kotlin as a No-Experience Programming Student](https://www.reddit.com/r/Kotlin/comments/tiwp0p/question_should_i_learn_kotlin_as_a_noexperience/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
