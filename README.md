@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best practice to obtain data based on id&#39;s in two lists](https://www.reddit.com/r/Kotlin/comments/tn6igr/best_practice_to_obtain_data_based_on_ids_in_two/)
+- [Possiiblity to make bot to control a other app ?](https://www.reddit.com/r/Kotlin/comments/tn53wm/possiiblity_to_make_bot_to_control_a_other_app/)
+- [Kotlin coroutines - fire and forget](https://www.reddit.com/r/Kotlin/comments/tn09gf/kotlin_coroutines_fire_and_forget/)
+- [Why does this work?](https://www.reddit.com/r/Kotlin/comments/tn04q0/why_does_this_work/)
+- [Which is better for an Android backend, PHP or Node.js?](https://www.reddit.com/r/Kotlin/comments/tmoxzp/which_is_better_for_an_android_backend_php_or/)
+- [Check out the new episode of Kotlin Tips. In this video, Sebastian will demonstrate how you can improve your Kotlin loops to make your code more readable, understandable, and concise.](https://www.reddit.com/r/Kotlin/comments/tmg3ll/check_out_the_new_episode_of_kotlin_tips_in_this/)
+- [Combining scripts and DSLs is Kotlin’s most underrated feature](https://www.reddit.com/r/Kotlin/comments/tmd7pc/combining_scripts_and_dsls_is_kotlins_most/)
 - [How to pass an image from one fragment to another?](https://www.reddit.com/r/Kotlin/comments/tluswt/how_to_pass_an_image_from_one_fragment_to_another/)
 - [Best way to start learning Kotlin?](https://www.reddit.com/r/Kotlin/comments/tlqjgw/best_way_to_start_learning_kotlin/)
 - [Define which parameter from a string](https://www.reddit.com/r/Kotlin/comments/tl748z/define_which_parameter_from_a_string/)
-- [On the Power of When Versus If Else Chains](https://www.reddit.com/r/Kotlin/comments/tkwfeg/on_the_power_of_when_versus_if_else_chains/)
-- [Use semantic indenting](https://www.reddit.com/r/Kotlin/comments/tkj8ln/use_semantic_indenting/)
-- [Is functional programming a good paradigm to use for Kotlin development? Check out this guide I wrote for direct coding comparisons between functional programming and imperative programming using DoorDash engineering examples](https://www.reddit.com/r/Kotlin/comments/tkblcz/is_functional_programming_a_good_paradigm_to_use/)
-- [My community project to help with Arabic translation for mobile app](https://www.reddit.com/r/Kotlin/comments/tkaxm6/my_community_project_to_help_with_arabic/)
-- [What is an idiomatic Kotlin way of finding a &#39;type&#39; of suffix on a String?](https://www.reddit.com/r/Kotlin/comments/tk72to/what_is_an_idiomatic_kotlin_way_of_finding_a_type/)
-- [Kreds - a thread-safe, idiomatic, coroutine-based Redis client written in 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/tk5m0j/kreds_a_threadsafe_idiomatic_coroutinebased_redis/)
-- [Fully customizable Jetpack Compose from iDenfy!](https://www.reddit.com/r/Kotlin/comments/tjmnr4/fully_customizable_jetpack_compose_from_idenfy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
