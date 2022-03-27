@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learning Kotlin on the fly?](https://www.reddit.com/r/Kotlin/comments/tosjf5/learning_kotlin_on_the_fly/)
 - [Any easy way to save an compose ImageBitmap to a file to outputstream?](https://www.reddit.com/r/Kotlin/comments/to9mns/any_easy_way_to_save_an_compose_imagebitmap_to_a/)
 - [How to leverage functional programming in Kotlin to write better, cleaner code](https://www.reddit.com/r/Kotlin/comments/tnzzxj/how_to_leverage_functional_programming_in_kotlin/)
 - [A post on creating a multiplayer game room SDK with Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/tnpiua/a_post_on_creating_a_multiplayer_game_room_sdk/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Possiiblity to make bot to control a other app ?](https://www.reddit.com/r/Kotlin/comments/tn53wm/possiiblity_to_make_bot_to_control_a_other_app/)
 - [Kotlin coroutines - fire and forget](https://www.reddit.com/r/Kotlin/comments/tn09gf/kotlin_coroutines_fire_and_forget/)
 - [Why does this work?](https://www.reddit.com/r/Kotlin/comments/tn04q0/why_does_this_work/)
-- [Which is better for an Android backend, PHP or Node.js?](https://www.reddit.com/r/Kotlin/comments/tmoxzp/which_is_better_for_an_android_backend_php_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
