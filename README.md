@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can&#39;t create a Uri.Builder&lpar;&rpar; instance.](https://www.reddit.com/r/Kotlin/comments/tpxyil/cant_create_a_uribuilder_instance/)
+- [Libraries for creating interactive graph networks?](https://www.reddit.com/r/Kotlin/comments/tppc71/libraries_for_creating_interactive_graph_networks/)
+- [how to expose variables to function?](https://www.reddit.com/r/Kotlin/comments/tpkp0c/how_to_expose_variables_to_function/)
+- [Hard to find love for Java again](https://www.reddit.com/r/Kotlin/comments/tphiyl/hard_to_find_love_for_java_again/)
+- [Korlibs: A Kotlin multiplatform &lpar;Java/JS/Native&rpar; library with tons of usage features/implementations/tools for development](https://www.reddit.com/r/Kotlin/comments/tpgyw1/korlibs_a_kotlin_multiplatform_javajsnative/)
 - [Learning Kotlin on the fly?](https://www.reddit.com/r/Kotlin/comments/tosjf5/learning_kotlin_on_the_fly/)
 - [Any easy way to save an compose ImageBitmap to a file to outputstream?](https://www.reddit.com/r/Kotlin/comments/to9mns/any_easy_way_to_save_an_compose_imagebitmap_to_a/)
 - [How to leverage functional programming in Kotlin to write better, cleaner code](https://www.reddit.com/r/Kotlin/comments/tnzzxj/how_to_leverage_functional_programming_in_kotlin/)
 - [A post on creating a multiplayer game room SDK with Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/tnpiua/a_post_on_creating_a_multiplayer_game_room_sdk/)
 - [One step closer to replacing REST with gRPC - beautiful gRPC Documentation with Gradle and Maven support](https://www.reddit.com/r/Kotlin/comments/tnh20o/one_step_closer_to_replacing_rest_with_grpc/)
-- [Why are there so few Kotlin conferences?](https://www.reddit.com/r/Kotlin/comments/tnfhxt/why_are_there_so_few_kotlin_conferences/)
-- [Best practice to obtain data based on id&#39;s in two lists](https://www.reddit.com/r/Kotlin/comments/tn6igr/best_practice_to_obtain_data_based_on_ids_in_two/)
-- [Possiiblity to make bot to control a other app ?](https://www.reddit.com/r/Kotlin/comments/tn53wm/possiiblity_to_make_bot_to_control_a_other_app/)
-- [Kotlin coroutines - fire and forget](https://www.reddit.com/r/Kotlin/comments/tn09gf/kotlin_coroutines_fire_and_forget/)
-- [Why does this work?](https://www.reddit.com/r/Kotlin/comments/tn04q0/why_does_this_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
