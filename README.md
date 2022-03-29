@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How is interoperability between different kotlin platforms?](https://www.reddit.com/r/Kotlin/comments/tqk3s5/how_is_interoperability_between_different_kotlin/)
+- [Kotlin not recognizing classes from external files in Sublime Text?](https://www.reddit.com/r/Kotlin/comments/tqju3j/kotlin_not_recognizing_classes_from_external/)
+- [Ktlint automation for a team](https://www.reddit.com/r/Kotlin/comments/tqizri/ktlint_automation_for_a_team/)
+- [How fast can you create a GraphQL server?](https://www.reddit.com/r/Kotlin/comments/tqazsb/how_fast_can_you_create_a_graphql_server/)
+- [Crash course on the Kotlin compiler | 1. Frontend: Parsing phase](https://www.reddit.com/r/Kotlin/comments/tq91ze/crash_course_on_the_kotlin_compiler_1_frontend/)
+- [Your opinions on the current state of the Kotlin Multiplatform and Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/tq68ie/your_opinions_on_the_current_state_of_the_kotlin/)
 - [Can&#39;t create a Uri.Builder&lpar;&rpar; instance.](https://www.reddit.com/r/Kotlin/comments/tpxyil/cant_create_a_uribuilder_instance/)
 - [Libraries for creating interactive graph networks?](https://www.reddit.com/r/Kotlin/comments/tppc71/libraries_for_creating_interactive_graph_networks/)
 - [how to expose variables to function?](https://www.reddit.com/r/Kotlin/comments/tpkp0c/how_to_expose_variables_to_function/)
 - [Hard to find love for Java again](https://www.reddit.com/r/Kotlin/comments/tphiyl/hard_to_find_love_for_java_again/)
-- [Korlibs: A Kotlin multiplatform &lpar;Java/JS/Native&rpar; library with tons of usage features/implementations/tools for development](https://www.reddit.com/r/Kotlin/comments/tpgyw1/korlibs_a_kotlin_multiplatform_javajsnative/)
-- [Learning Kotlin on the fly?](https://www.reddit.com/r/Kotlin/comments/tosjf5/learning_kotlin_on_the_fly/)
-- [Any easy way to save an compose ImageBitmap to a file to outputstream?](https://www.reddit.com/r/Kotlin/comments/to9mns/any_easy_way_to_save_an_compose_imagebitmap_to_a/)
-- [How to leverage functional programming in Kotlin to write better, cleaner code](https://www.reddit.com/r/Kotlin/comments/tnzzxj/how_to_leverage_functional_programming_in_kotlin/)
-- [A post on creating a multiplayer game room SDK with Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/tnpiua/a_post_on_creating_a_multiplayer_game_room_sdk/)
-- [One step closer to replacing REST with gRPC - beautiful gRPC Documentation with Gradle and Maven support](https://www.reddit.com/r/Kotlin/comments/tnh20o/one_step_closer_to_replacing_rest_with_grpc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
