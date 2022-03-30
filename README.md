@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[IntelliJ] Where does a built project go?](https://www.reddit.com/r/Kotlin/comments/trrsgb/intellij_where_does_a_built_project_go/)
+- [Kotlin &amp; Firebase project? I need this only for school project.](https://www.reddit.com/r/Kotlin/comments/trpiiy/kotlin_firebase_project_i_need_this_only_for/)
+- [Getting a Job with Kotlin](https://www.reddit.com/r/Kotlin/comments/trex3s/getting_a_job_with_kotlin/)
+- [Which data structure has O&lpar;1&rpar; lookup time for a list of strings?](https://www.reddit.com/r/Kotlin/comments/tr8r69/which_data_structure_has_o1_lookup_time_for_a/)
+- [setting up a remote db with android for time-series sensor data](https://www.reddit.com/r/Kotlin/comments/tr4x9g/setting_up_a_remote_db_with_android_for/)
+- [Just want to gush about this language](https://www.reddit.com/r/Kotlin/comments/tr4t5n/just_want_to_gush_about_this_language/)
+- [why does kotlin use &quot;var x: Type&quot; instead of java&#39;s &quot;Type x&quot;](https://www.reddit.com/r/Kotlin/comments/tr0bu7/why_does_kotlin_use_var_x_type_instead_of_javas/)
+- [Java UUID generation – Performance impact](https://www.reddit.com/r/Kotlin/comments/tqy3n6/java_uuid_generation_performance_impact/)
 - [How is interoperability between different kotlin platforms?](https://www.reddit.com/r/Kotlin/comments/tqk3s5/how_is_interoperability_between_different_kotlin/)
 - [Kotlin not recognizing classes from external files in Sublime Text?](https://www.reddit.com/r/Kotlin/comments/tqju3j/kotlin_not_recognizing_classes_from_external/)
-- [Ktlint automation for a team](https://www.reddit.com/r/Kotlin/comments/tqizri/ktlint_automation_for_a_team/)
-- [How fast can you create a GraphQL server?](https://www.reddit.com/r/Kotlin/comments/tqazsb/how_fast_can_you_create_a_graphql_server/)
-- [Crash course on the Kotlin compiler | 1. Frontend: Parsing phase](https://www.reddit.com/r/Kotlin/comments/tq91ze/crash_course_on_the_kotlin_compiler_1_frontend/)
-- [Your opinions on the current state of the Kotlin Multiplatform and Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/tq68ie/your_opinions_on_the_current_state_of_the_kotlin/)
-- [Can&#39;t create a Uri.Builder&lpar;&rpar; instance.](https://www.reddit.com/r/Kotlin/comments/tpxyil/cant_create_a_uribuilder_instance/)
-- [Libraries for creating interactive graph networks?](https://www.reddit.com/r/Kotlin/comments/tppc71/libraries_for_creating_interactive_graph_networks/)
-- [how to expose variables to function?](https://www.reddit.com/r/Kotlin/comments/tpkp0c/how_to_expose_variables_to_function/)
-- [Hard to find love for Java again](https://www.reddit.com/r/Kotlin/comments/tphiyl/hard_to_find_love_for_java_again/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
