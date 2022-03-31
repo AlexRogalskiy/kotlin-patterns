@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [After 5 years of working with Kotlin only on the client side, I fell in love with Spring + Kotlin](https://www.reddit.com/r/Kotlin/comments/tsmb2a/after_5_years_of_working_with_kotlin_only_on_the/)
+- [I put the println all in one line, but I&#39;m still getting errors- what am I still doing wrong?](https://www.reddit.com/r/Kotlin/comments/tshh4h/i_put_the_println_all_in_one_line_but_im_still/)
+- [Can someone tell me what I&#39;m doing wrong? I don&#39;t understand the directions it&#39;s giving me](https://www.reddit.com/r/Kotlin/comments/tse1nm/can_someone_tell_me_what_im_doing_wrong_i_dont/)
+- [Kotlin for synth/effects apps communities/resources](https://www.reddit.com/r/Kotlin/comments/tsbrm4/kotlin_for_syntheffects_apps_communitiesresources/)
+- [Kotlin + Prolog](https://www.reddit.com/r/Kotlin/comments/ts6owo/kotlin_prolog/)
+- [Looking for Micronaut tutorial](https://www.reddit.com/r/Kotlin/comments/ts59pp/looking_for_micronaut_tutorial/)
 - [[IntelliJ] Where does a built project go?](https://www.reddit.com/r/Kotlin/comments/trrsgb/intellij_where_does_a_built_project_go/)
-- [Kotlin &amp; Firebase project? I need this only for school project.](https://www.reddit.com/r/Kotlin/comments/trpiiy/kotlin_firebase_project_i_need_this_only_for/)
 - [Getting a Job with Kotlin](https://www.reddit.com/r/Kotlin/comments/trex3s/getting_a_job_with_kotlin/)
 - [Which data structure has O&lpar;1&rpar; lookup time for a list of strings?](https://www.reddit.com/r/Kotlin/comments/tr8r69/which_data_structure_has_o1_lookup_time_for_a/)
 - [setting up a remote db with android for time-series sensor data](https://www.reddit.com/r/Kotlin/comments/tr4x9g/setting_up_a_remote_db_with_android_for/)
-- [Just want to gush about this language](https://www.reddit.com/r/Kotlin/comments/tr4t5n/just_want_to_gush_about_this_language/)
-- [why does kotlin use &quot;var x: Type&quot; instead of java&#39;s &quot;Type x&quot;](https://www.reddit.com/r/Kotlin/comments/tr0bu7/why_does_kotlin_use_var_x_type_instead_of_javas/)
-- [Java UUID generation – Performance impact](https://www.reddit.com/r/Kotlin/comments/tqy3n6/java_uuid_generation_performance_impact/)
-- [How is interoperability between different kotlin platforms?](https://www.reddit.com/r/Kotlin/comments/tqk3s5/how_is_interoperability_between_different_kotlin/)
-- [Kotlin not recognizing classes from external files in Sublime Text?](https://www.reddit.com/r/Kotlin/comments/tqju3j/kotlin_not_recognizing_classes_from_external/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
