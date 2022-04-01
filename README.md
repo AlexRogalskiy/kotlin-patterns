@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just released the first SQLDelight 2.0 alpha](https://www.reddit.com/r/Kotlin/comments/tteilj/just_released_the_first_sqldelight_20_alpha/)
+- [Array wrapper that implements equals, hashCode and toString in terms of content?](https://www.reddit.com/r/Kotlin/comments/tt9ora/array_wrapper_that_implements_equals_hashcode_and/)
+- [Ktor/Netty EventLoopGroup question](https://www.reddit.com/r/Kotlin/comments/tt4t78/ktornetty_eventloopgroup_question/)
+- [Domain Model Validation In Kotlin: Part 1](https://www.reddit.com/r/Kotlin/comments/tt34k3/domain_model_validation_in_kotlin_part_1/)
+- [Android Integration and Support for All Kinds of Multiplatform Projects in the Kotlin Multiplatform Mobile Plugin for AppCode](https://www.reddit.com/r/Kotlin/comments/tt2s8t/android_integration_and_support_for_all_kinds_of/)
+- [Check out a new episode of Kotlin Tips – a series of short videos on how to make your code more concise and efficient. This time /u/sebi_io shows how to do more with the Elvis operator.](https://www.reddit.com/r/Kotlin/comments/tszu34/check_out_a_new_episode_of_kotlin_tips_a_series/)
+- [Spring Framework RCE, Early Announcement](https://www.reddit.com/r/Kotlin/comments/tsy8l2/spring_framework_rce_early_announcement/)
+- [I know some people like video content](https://www.reddit.com/r/Kotlin/comments/tsvynp/i_know_some_people_like_video_content/)
 - [After 5 years of working with Kotlin only on the client side, I fell in love with Spring + Kotlin](https://www.reddit.com/r/Kotlin/comments/tsmb2a/after_5_years_of_working_with_kotlin_only_on_the/)
-- [I put the println all in one line, but I&#39;m still getting errors- what am I still doing wrong?](https://www.reddit.com/r/Kotlin/comments/tshh4h/i_put_the_println_all_in_one_line_but_im_still/)
-- [Can someone tell me what I&#39;m doing wrong? I don&#39;t understand the directions it&#39;s giving me](https://www.reddit.com/r/Kotlin/comments/tse1nm/can_someone_tell_me_what_im_doing_wrong_i_dont/)
 - [Kotlin for synth/effects apps communities/resources](https://www.reddit.com/r/Kotlin/comments/tsbrm4/kotlin_for_syntheffects_apps_communitiesresources/)
-- [Kotlin + Prolog](https://www.reddit.com/r/Kotlin/comments/ts6owo/kotlin_prolog/)
-- [Looking for Micronaut tutorial](https://www.reddit.com/r/Kotlin/comments/ts59pp/looking_for_micronaut_tutorial/)
-- [[IntelliJ] Where does a built project go?](https://www.reddit.com/r/Kotlin/comments/trrsgb/intellij_where_does_a_built_project_go/)
-- [Getting a Job with Kotlin](https://www.reddit.com/r/Kotlin/comments/trex3s/getting_a_job_with_kotlin/)
-- [Which data structure has O&lpar;1&rpar; lookup time for a list of strings?](https://www.reddit.com/r/Kotlin/comments/tr8r69/which_data_structure_has_o1_lookup_time_for_a/)
-- [setting up a remote db with android for time-series sensor data](https://www.reddit.com/r/Kotlin/comments/tr4x9g/setting_up_a_remote_db_with_android_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
