@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Leveraging the Semaphore concept in Coroutines to limit the parallelism 🔀](https://www.reddit.com/r/Kotlin/comments/ttq2fg/leveraging_the_semaphore_concept_in_coroutines_to/)
+- [Error in my phone , how to deal with it?](https://www.reddit.com/r/Kotlin/comments/ttjhi2/error_in_my_phone_how_to_deal_with_it/)
+- [How do you cope with the monstrosity that is Gradle?](https://www.reddit.com/r/Kotlin/comments/ttgri3/how_do_you_cope_with_the_monstrosity_that_is/)
 - [Just released the first SQLDelight 2.0 alpha](https://www.reddit.com/r/Kotlin/comments/tteilj/just_released_the_first_sqldelight_20_alpha/)
 - [Array wrapper that implements equals, hashCode and toString in terms of content?](https://www.reddit.com/r/Kotlin/comments/tt9ora/array_wrapper_that_implements_equals_hashcode_and/)
 - [Ktor/Netty EventLoopGroup question](https://www.reddit.com/r/Kotlin/comments/tt4t78/ktornetty_eventloopgroup_question/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Android Integration and Support for All Kinds of Multiplatform Projects in the Kotlin Multiplatform Mobile Plugin for AppCode](https://www.reddit.com/r/Kotlin/comments/tt2s8t/android_integration_and_support_for_all_kinds_of/)
 - [Check out a new episode of Kotlin Tips – a series of short videos on how to make your code more concise and efficient. This time /u/sebi_io shows how to do more with the Elvis operator.](https://www.reddit.com/r/Kotlin/comments/tszu34/check_out_a_new_episode_of_kotlin_tips_a_series/)
 - [Spring Framework RCE, Early Announcement](https://www.reddit.com/r/Kotlin/comments/tsy8l2/spring_framework_rce_early_announcement/)
-- [I know some people like video content](https://www.reddit.com/r/Kotlin/comments/tsvynp/i_know_some_people_like_video_content/)
-- [After 5 years of working with Kotlin only on the client side, I fell in love with Spring + Kotlin](https://www.reddit.com/r/Kotlin/comments/tsmb2a/after_5_years_of_working_with_kotlin_only_on_the/)
-- [Kotlin for synth/effects apps communities/resources](https://www.reddit.com/r/Kotlin/comments/tsbrm4/kotlin_for_syntheffects_apps_communitiesresources/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
