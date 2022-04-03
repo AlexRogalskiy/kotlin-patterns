@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are there good Kotlin Spring Boot materials?](https://www.reddit.com/r/Kotlin/comments/tuo7p8/are_there_good_kotlin_spring_boot_materials/)
+- [Let&#39;s draw Kotlin logo on r/place at 1200x750](https://www.reddit.com/r/Kotlin/comments/tunfeg/lets_draw_kotlin_logo_on_rplace_at_1200x750/)
 - [Leveraging the Semaphore concept in Coroutines to limit the parallelism 🔀](https://www.reddit.com/r/Kotlin/comments/ttq2fg/leveraging_the_semaphore_concept_in_coroutines_to/)
 - [Error in my phone , how to deal with it?](https://www.reddit.com/r/Kotlin/comments/ttjhi2/error_in_my_phone_how_to_deal_with_it/)
 - [How do you cope with the monstrosity that is Gradle?](https://www.reddit.com/r/Kotlin/comments/ttgri3/how_do_you_cope_with_the_monstrosity_that_is/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Ktor/Netty EventLoopGroup question](https://www.reddit.com/r/Kotlin/comments/tt4t78/ktornetty_eventloopgroup_question/)
 - [Domain Model Validation In Kotlin: Part 1](https://www.reddit.com/r/Kotlin/comments/tt34k3/domain_model_validation_in_kotlin_part_1/)
 - [Android Integration and Support for All Kinds of Multiplatform Projects in the Kotlin Multiplatform Mobile Plugin for AppCode](https://www.reddit.com/r/Kotlin/comments/tt2s8t/android_integration_and_support_for_all_kinds_of/)
-- [Check out a new episode of Kotlin Tips – a series of short videos on how to make your code more concise and efficient. This time /u/sebi_io shows how to do more with the Elvis operator.](https://www.reddit.com/r/Kotlin/comments/tszu34/check_out_a_new_episode_of_kotlin_tips_a_series/)
-- [Spring Framework RCE, Early Announcement](https://www.reddit.com/r/Kotlin/comments/tsy8l2/spring_framework_rce_early_announcement/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
