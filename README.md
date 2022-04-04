@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Coroutines vs RxJava2 performance](https://www.reddit.com/r/Kotlin/comments/tvdnuv/coroutines_vs_rxjava2_performance/)
+- [Structured concurrency explained - Part 2: Exceptions and Cancellations](https://www.reddit.com/r/Kotlin/comments/tvdfxt/structured_concurrency_explained_part_2/)
+- [Handling null: optional and nullable types](https://www.reddit.com/r/Kotlin/comments/tvcbjo/handling_null_optional_and_nullable_types/)
+- [How do you install kotlin-language-server?](https://www.reddit.com/r/Kotlin/comments/tv8khe/how_do_you_install_kotlinlanguageserver/)
+- [💠Metaphor is library to easily add Material Motion animations.](https://www.reddit.com/r/Kotlin/comments/tv4h6x/metaphor_is_library_to_easily_add_material_motion/)
 - [Are there good Kotlin Spring Boot materials?](https://www.reddit.com/r/Kotlin/comments/tuo7p8/are_there_good_kotlin_spring_boot_materials/)
 - [Let&#39;s draw Kotlin logo on r/place at 1200x750](https://www.reddit.com/r/Kotlin/comments/tunfeg/lets_draw_kotlin_logo_on_rplace_at_1200x750/)
 - [Leveraging the Semaphore concept in Coroutines to limit the parallelism 🔀](https://www.reddit.com/r/Kotlin/comments/ttq2fg/leveraging_the_semaphore_concept_in_coroutines_to/)
 - [Error in my phone , how to deal with it?](https://www.reddit.com/r/Kotlin/comments/ttjhi2/error_in_my_phone_how_to_deal_with_it/)
 - [How do you cope with the monstrosity that is Gradle?](https://www.reddit.com/r/Kotlin/comments/ttgri3/how_do_you_cope_with_the_monstrosity_that_is/)
-- [Just released the first SQLDelight 2.0 alpha](https://www.reddit.com/r/Kotlin/comments/tteilj/just_released_the_first_sqldelight_20_alpha/)
-- [Array wrapper that implements equals, hashCode and toString in terms of content?](https://www.reddit.com/r/Kotlin/comments/tt9ora/array_wrapper_that_implements_equals_hashcode_and/)
-- [Ktor/Netty EventLoopGroup question](https://www.reddit.com/r/Kotlin/comments/tt4t78/ktornetty_eventloopgroup_question/)
-- [Domain Model Validation In Kotlin: Part 1](https://www.reddit.com/r/Kotlin/comments/tt34k3/domain_model_validation_in_kotlin_part_1/)
-- [Android Integration and Support for All Kinds of Multiplatform Projects in the Kotlin Multiplatform Mobile Plugin for AppCode](https://www.reddit.com/r/Kotlin/comments/tt2s8t/android_integration_and_support_for_all_kinds_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
