@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Coroutines vs RxJava2 performance](https://www.reddit.com/r/Kotlin/comments/tvdnuv/coroutines_vs_rxjava2_performance/)
-- [Structured concurrency explained - Part 2: Exceptions and Cancellations](https://www.reddit.com/r/Kotlin/comments/tvdfxt/structured_concurrency_explained_part_2/)
-- [Handling null: optional and nullable types](https://www.reddit.com/r/Kotlin/comments/tvcbjo/handling_null_optional_and_nullable_types/)
-- [How do you install kotlin-language-server?](https://www.reddit.com/r/Kotlin/comments/tv8khe/how_do_you_install_kotlinlanguageserver/)
-- [💠Metaphor is library to easily add Material Motion animations.](https://www.reddit.com/r/Kotlin/comments/tv4h6x/metaphor_is_library_to_easily_add_material_motion/)
-- [Are there good Kotlin Spring Boot materials?](https://www.reddit.com/r/Kotlin/comments/tuo7p8/are_there_good_kotlin_spring_boot_materials/)
-- [Let&#39;s draw Kotlin logo on r/place at 1200x750](https://www.reddit.com/r/Kotlin/comments/tunfeg/lets_draw_kotlin_logo_on_rplace_at_1200x750/)
-- [Leveraging the Semaphore concept in Coroutines to limit the parallelism 🔀](https://www.reddit.com/r/Kotlin/comments/ttq2fg/leveraging_the_semaphore_concept_in_coroutines_to/)
-- [Error in my phone , how to deal with it?](https://www.reddit.com/r/Kotlin/comments/ttjhi2/error_in_my_phone_how_to_deal_with_it/)
-- [How do you cope with the monstrosity that is Gradle?](https://www.reddit.com/r/Kotlin/comments/ttgri3/how_do_you_cope_with_the_monstrosity_that_is/)
+- [Is there thread switching when moving from Default dispatcher to IO dispatcher using withContext?](https://www.reddit.com/r/Kotlin/comments/twj37b/is_there_thread_switching_when_moving_from/)
+- [Android logo on r/place at &lpar;1575, 1995&rpar;! Let&#39;s also sneak a Kotlin logo in while were at it!](https://www.reddit.com/r/Kotlin/comments/twcqho/android_logo_on_rplace_at_1575_1995_lets_also/)
+- [The abstract syntax tree - Kotlin vs. Swift](https://www.reddit.com/r/Kotlin/comments/tw6r0w/the_abstract_syntax_tree_kotlin_vs_swift/)
+- [Web/Desktop Contacts App Written Once With Doodle](https://www.reddit.com/r/Kotlin/comments/tw3j29/webdesktop_contacts_app_written_once_with_doodle/)
+- [Kotlin 1.6.20 Released](https://www.reddit.com/r/Kotlin/comments/tw0hjs/kotlin_1620_released/)
+- [The Kotlin programming language repository summary.](https://www.reddit.com/r/Kotlin/comments/tvzjng/the_kotlin_programming_language_repository_summary/)
+- [Is Ios Coding/Developing Different Than That of Android?](https://www.reddit.com/r/Kotlin/comments/tvyw4d/is_ios_codingdeveloping_different_than_that_of/)
+- [Kotlin 1.6.20 has been released](https://www.reddit.com/r/Kotlin/comments/tvvs90/kotlin_1620_has_been_released/)
+- [Always use viewLifecycleOwner with coroutines The coroutine started in viewLifecycleOwner.lifecycleScope will be cancelled when onDestroyView&lpar;&rpar; is called.](https://www.reddit.com/r/Kotlin/comments/tvurod/always_use_viewlifecycleowner_with_coroutines_the/)
+- [Garbage Collection tuning success story – reducing young gen size](https://www.reddit.com/r/Kotlin/comments/tvt42u/garbage_collection_tuning_success_story_reducing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
