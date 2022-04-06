@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it possible to download an AAR after app is installed?](https://www.reddit.com/r/Kotlin/comments/twp7kk/is_it_possible_to_download_an_aar_after_app_is/)
 - [Is there thread switching when moving from Default dispatcher to IO dispatcher using withContext?](https://www.reddit.com/r/Kotlin/comments/twj37b/is_there_thread_switching_when_moving_from/)
 - [Android logo on r/place at &lpar;1575, 1995&rpar;! Let&#39;s also sneak a Kotlin logo in while were at it!](https://www.reddit.com/r/Kotlin/comments/twcqho/android_logo_on_rplace_at_1575_1995_lets_also/)
 - [The abstract syntax tree - Kotlin vs. Swift](https://www.reddit.com/r/Kotlin/comments/tw6r0w/the_abstract_syntax_tree_kotlin_vs_swift/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Is Ios Coding/Developing Different Than That of Android?](https://www.reddit.com/r/Kotlin/comments/tvyw4d/is_ios_codingdeveloping_different_than_that_of/)
 - [Kotlin 1.6.20 has been released](https://www.reddit.com/r/Kotlin/comments/tvvs90/kotlin_1620_has_been_released/)
 - [Always use viewLifecycleOwner with coroutines The coroutine started in viewLifecycleOwner.lifecycleScope will be cancelled when onDestroyView&lpar;&rpar; is called.](https://www.reddit.com/r/Kotlin/comments/tvurod/always_use_viewlifecycleowner_with_coroutines_the/)
-- [Garbage Collection tuning success story – reducing young gen size](https://www.reddit.com/r/Kotlin/comments/tvt42u/garbage_collection_tuning_success_story_reducing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
