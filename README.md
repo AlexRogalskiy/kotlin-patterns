@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it possible to download an AAR after app is installed?](https://www.reddit.com/r/Kotlin/comments/twp7kk/is_it_possible_to_download_an_aar_after_app_is/)
+- [Basic Wordle clone using Kotlin Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/ty049p/basic_wordle_clone_using_kotlin_compose_for/)
+- [Convert Java code to Kotlin](https://www.reddit.com/r/Kotlin/comments/txwf49/convert_java_code_to_kotlin/)
+- [The new episode of #KotlinTips is out! Watch Sebastian giving a quick overview of the measureTimedValue function, and learn how you can time your code!](https://www.reddit.com/r/Kotlin/comments/txocgg/the_new_episode_of_kotlintips_is_out_watch/)
+- [Measuring object memory usage outside of an Android context](https://www.reddit.com/r/Kotlin/comments/txo5l9/measuring_object_memory_usage_outside_of_an/)
 - [Is there thread switching when moving from Default dispatcher to IO dispatcher using withContext?](https://www.reddit.com/r/Kotlin/comments/twj37b/is_there_thread_switching_when_moving_from/)
 - [Android logo on r/place at &lpar;1575, 1995&rpar;! Let&#39;s also sneak a Kotlin logo in while were at it!](https://www.reddit.com/r/Kotlin/comments/twcqho/android_logo_on_rplace_at_1575_1995_lets_also/)
 - [The abstract syntax tree - Kotlin vs. Swift](https://www.reddit.com/r/Kotlin/comments/tw6r0w/the_abstract_syntax_tree_kotlin_vs_swift/)
 - [Web/Desktop Contacts App Written Once With Doodle](https://www.reddit.com/r/Kotlin/comments/tw3j29/webdesktop_contacts_app_written_once_with_doodle/)
 - [Kotlin 1.6.20 Released](https://www.reddit.com/r/Kotlin/comments/tw0hjs/kotlin_1620_released/)
 - [The Kotlin programming language repository summary.](https://www.reddit.com/r/Kotlin/comments/tvzjng/the_kotlin_programming_language_repository_summary/)
-- [Is Ios Coding/Developing Different Than That of Android?](https://www.reddit.com/r/Kotlin/comments/tvyw4d/is_ios_codingdeveloping_different_than_that_of/)
-- [Kotlin 1.6.20 has been released](https://www.reddit.com/r/Kotlin/comments/tvvs90/kotlin_1620_has_been_released/)
-- [Always use viewLifecycleOwner with coroutines The coroutine started in viewLifecycleOwner.lifecycleScope will be cancelled when onDestroyView&lpar;&rpar; is called.](https://www.reddit.com/r/Kotlin/comments/tvurod/always_use_viewlifecycleowner_with_coroutines_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
