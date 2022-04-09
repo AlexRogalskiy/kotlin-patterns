@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Amazon&#39;s PartiQL IR Generator: &quot;A compiler framework, domain modeling tool &amp; codegen for tree data structures such as ASTs, DB logical/physical plans, and other IR&quot;](https://www.reddit.com/r/Kotlin/comments/tzcnr2/amazons_partiql_ir_generator_a_compiler_framework/)
+- [Easy dependency integration in Kotlin/JS using the &quot;Elm ports&quot; technique](https://www.reddit.com/r/Kotlin/comments/tz437w/easy_dependency_integration_in_kotlinjs_using_the/)
 - [Does anyone else find the kotlin scripting story to be broken?](https://www.reddit.com/r/Kotlin/comments/tynad5/does_anyone_else_find_the_kotlin_scripting_story/)
 - [| Hackathon for High Schoolers! |](https://www.reddit.com/r/Kotlin/comments/tylc8e/hackathon_for_high_schoolers/)
 - [Kotlin FireStore Queries: LIKE or CONTAINS equivalents?](https://www.reddit.com/r/Kotlin/comments/tyginq/kotlin_firestore_queries_like_or_contains/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Basic Wordle clone using Kotlin Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/ty049p/basic_wordle_clone_using_kotlin_compose_for/)
 - [The new episode of #KotlinTips is out! Watch Sebastian giving a quick overview of the measureTimedValue function, and learn how you can time your code!](https://www.reddit.com/r/Kotlin/comments/txocgg/the_new_episode_of_kotlintips_is_out_watch/)
 - [Measuring object memory usage outside of an Android context](https://www.reddit.com/r/Kotlin/comments/txo5l9/measuring_object_memory_usage_outside_of_an/)
-- [Is there thread switching when moving from Default dispatcher to IO dispatcher using withContext?](https://www.reddit.com/r/Kotlin/comments/twj37b/is_there_thread_switching_when_moving_from/)
-- [Android logo on r/place at &lpar;1575, 1995&rpar;! Let&#39;s also sneak a Kotlin logo in while were at it!](https://www.reddit.com/r/Kotlin/comments/twcqho/android_logo_on_rplace_at_1575_1995_lets_also/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
