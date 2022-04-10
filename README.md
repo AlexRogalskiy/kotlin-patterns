@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&#39;ve used kotlin for about a year, then I moved on to Flutter for about two years, now my job requires that I use kotlin again, any tips or advice about how to be up-to-date with kotlin, and if there&#39;s a daily coding challenge or something like that it would be really cool.. thank you in advance](https://www.reddit.com/r/Kotlin/comments/u073tp/ive_used_kotlin_for_about_a_year_then_i_moved_on/)
+- [what are the benefits of Jetpack compose over xml?](https://www.reddit.com/r/Kotlin/comments/tzn72k/what_are_the_benefits_of_jetpack_compose_over_xml/)
+- [Building a DOM DSL in Kotiln](https://www.reddit.com/r/Kotlin/comments/tzmsam/building_a_dom_dsl_in_kotiln/)
 - [Amazon&#39;s PartiQL IR Generator: &quot;A compiler framework, domain modeling tool &amp; codegen for tree data structures such as ASTs, DB logical/physical plans, and other IR&quot;](https://www.reddit.com/r/Kotlin/comments/tzcnr2/amazons_partiql_ir_generator_a_compiler_framework/)
 - [Easy dependency integration in Kotlin/JS using the &quot;Elm ports&quot; technique](https://www.reddit.com/r/Kotlin/comments/tz437w/easy_dependency_integration_in_kotlinjs_using_the/)
 - [Does anyone else find the kotlin scripting story to be broken?](https://www.reddit.com/r/Kotlin/comments/tynad5/does_anyone_else_find_the_kotlin_scripting_story/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin FireStore Queries: LIKE or CONTAINS equivalents?](https://www.reddit.com/r/Kotlin/comments/tyginq/kotlin_firestore_queries_like_or_contains/)
 - [How can I use winuser functions in Kotlin/Native Project?](https://www.reddit.com/r/Kotlin/comments/tybm09/how_can_i_use_winuser_functions_in_kotlinnative/)
 - [Web App Ideas to Start a New Business in 2022](https://www.reddit.com/r/Kotlin/comments/tybiv7/web_app_ideas_to_start_a_new_business_in_2022/)
-- [Basic Wordle clone using Kotlin Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/ty049p/basic_wordle_clone_using_kotlin_compose_for/)
-- [The new episode of #KotlinTips is out! Watch Sebastian giving a quick overview of the measureTimedValue function, and learn how you can time your code!](https://www.reddit.com/r/Kotlin/comments/txocgg/the_new_episode_of_kotlintips_is_out_watch/)
-- [Measuring object memory usage outside of an Android context](https://www.reddit.com/r/Kotlin/comments/txo5l9/measuring_object_memory_usage_outside_of_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
