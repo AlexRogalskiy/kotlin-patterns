@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using Kotlin Sequences to abstract pagination](https://www.reddit.com/r/Kotlin/comments/u0txdt/using_kotlin_sequences_to_abstract_pagination/)
 - [I&#39;ve used kotlin for about a year, then I moved on to Flutter for about two years, now my job requires that I use kotlin again, any tips or advice about how to be up-to-date with kotlin, and if there&#39;s a daily coding challenge or something like that it would be really cool.. thank you in advance](https://www.reddit.com/r/Kotlin/comments/u073tp/ive_used_kotlin_for_about_a_year_then_i_moved_on/)
 - [what are the benefits of Jetpack compose over xml?](https://www.reddit.com/r/Kotlin/comments/tzn72k/what_are_the_benefits_of_jetpack_compose_over_xml/)
 - [Building a DOM DSL in Kotiln](https://www.reddit.com/r/Kotlin/comments/tzmsam/building_a_dom_dsl_in_kotiln/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [| Hackathon for High Schoolers! |](https://www.reddit.com/r/Kotlin/comments/tylc8e/hackathon_for_high_schoolers/)
 - [Kotlin FireStore Queries: LIKE or CONTAINS equivalents?](https://www.reddit.com/r/Kotlin/comments/tyginq/kotlin_firestore_queries_like_or_contains/)
 - [How can I use winuser functions in Kotlin/Native Project?](https://www.reddit.com/r/Kotlin/comments/tybm09/how_can_i_use_winuser_functions_in_kotlinnative/)
-- [Web App Ideas to Start a New Business in 2022](https://www.reddit.com/r/Kotlin/comments/tybiv7/web_app_ideas_to_start_a_new_business_in_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
