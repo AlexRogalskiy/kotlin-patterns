@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s the difference between a mutable val and a var?](https://www.reddit.com/r/Kotlin/comments/u1n772/whats_the_difference_between_a_mutable_val_and_a/)
+- [Books to read for Kotlin](https://www.reddit.com/r/Kotlin/comments/u1gp59/books_to_read_for_kotlin/)
+- [Is there a Kotlin query API for Hibernate?](https://www.reddit.com/r/Kotlin/comments/u1eint/is_there_a_kotlin_query_api_for_hibernate/)
+- [ML Kit memory problem](https://www.reddit.com/r/Kotlin/comments/u1dlei/ml_kit_memory_problem/)
+- [Shorthand option for data binding?](https://www.reddit.com/r/Kotlin/comments/u19hoz/shorthand_option_for_data_binding/)
+- [Eager to learn what’s new In Kotlin 1.6.20? Let Anton Arhipov tell you all about the latest and greatest features in this YouTube video.](https://www.reddit.com/r/Kotlin/comments/u19h68/eager_to_learn_whats_new_in_kotlin_1620_let_anton/)
+- [Ktor 2.0 Released | The Ktor Blog](https://www.reddit.com/r/Kotlin/comments/u184kl/ktor_20_released_the_ktor_blog/)
+- [Kotlin Cross Platform](https://www.reddit.com/r/Kotlin/comments/u17scj/kotlin_cross_platform/)
+- [Any JSON Patch libraries in Kotlin?](https://www.reddit.com/r/Kotlin/comments/u0xyxh/any_json_patch_libraries_in_kotlin/)
 - [Using Kotlin Sequences to abstract pagination](https://www.reddit.com/r/Kotlin/comments/u0txdt/using_kotlin_sequences_to_abstract_pagination/)
-- [I&#39;ve used kotlin for about a year, then I moved on to Flutter for about two years, now my job requires that I use kotlin again, any tips or advice about how to be up-to-date with kotlin, and if there&#39;s a daily coding challenge or something like that it would be really cool.. thank you in advance](https://www.reddit.com/r/Kotlin/comments/u073tp/ive_used_kotlin_for_about_a_year_then_i_moved_on/)
-- [what are the benefits of Jetpack compose over xml?](https://www.reddit.com/r/Kotlin/comments/tzn72k/what_are_the_benefits_of_jetpack_compose_over_xml/)
-- [Building a DOM DSL in Kotiln](https://www.reddit.com/r/Kotlin/comments/tzmsam/building_a_dom_dsl_in_kotiln/)
-- [Amazon&#39;s PartiQL IR Generator: &quot;A compiler framework, domain modeling tool &amp; codegen for tree data structures such as ASTs, DB logical/physical plans, and other IR&quot;](https://www.reddit.com/r/Kotlin/comments/tzcnr2/amazons_partiql_ir_generator_a_compiler_framework/)
-- [Easy dependency integration in Kotlin/JS using the &quot;Elm ports&quot; technique](https://www.reddit.com/r/Kotlin/comments/tz437w/easy_dependency_integration_in_kotlinjs_using_the/)
-- [Does anyone else find the kotlin scripting story to be broken?](https://www.reddit.com/r/Kotlin/comments/tynad5/does_anyone_else_find_the_kotlin_scripting_story/)
-- [| Hackathon for High Schoolers! |](https://www.reddit.com/r/Kotlin/comments/tylc8e/hackathon_for_high_schoolers/)
-- [Kotlin FireStore Queries: LIKE or CONTAINS equivalents?](https://www.reddit.com/r/Kotlin/comments/tyginq/kotlin_firestore_queries_like_or_contains/)
-- [How can I use winuser functions in Kotlin/Native Project?](https://www.reddit.com/r/Kotlin/comments/tybm09/how_can_i_use_winuser_functions_in_kotlinnative/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
