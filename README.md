@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Happy Path Programming Ep. 60 – Kotlin Language Design with Roman Elizarov](https://www.reddit.com/r/Kotlin/comments/u2eip9/happy_path_programming_ep_60_kotlin_language/)
+- [Are you participating in any of the Kotlin Early Access Programs?](https://www.reddit.com/r/Kotlin/comments/u1zejs/are_you_participating_in_any_of_the_kotlin_early/)
+- [Need Some Advice](https://www.reddit.com/r/Kotlin/comments/u1z7iu/need_some_advice/)
 - [What&#39;s the difference between a mutable val and a var?](https://www.reddit.com/r/Kotlin/comments/u1n772/whats_the_difference_between_a_mutable_val_and_a/)
 - [Books to read for Kotlin](https://www.reddit.com/r/Kotlin/comments/u1gp59/books_to_read_for_kotlin/)
 - [Is there a Kotlin query API for Hibernate?](https://www.reddit.com/r/Kotlin/comments/u1eint/is_there_a_kotlin_query_api_for_hibernate/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Shorthand option for data binding?](https://www.reddit.com/r/Kotlin/comments/u19hoz/shorthand_option_for_data_binding/)
 - [Eager to learn what’s new In Kotlin 1.6.20? Let Anton Arhipov tell you all about the latest and greatest features in this YouTube video.](https://www.reddit.com/r/Kotlin/comments/u19h68/eager_to_learn_whats_new_in_kotlin_1620_let_anton/)
 - [Ktor 2.0 Released | The Ktor Blog](https://www.reddit.com/r/Kotlin/comments/u184kl/ktor_20_released_the_ktor_blog/)
-- [Kotlin Cross Platform](https://www.reddit.com/r/Kotlin/comments/u17scj/kotlin_cross_platform/)
-- [Any JSON Patch libraries in Kotlin?](https://www.reddit.com/r/Kotlin/comments/u0xyxh/any_json_patch_libraries_in_kotlin/)
-- [Using Kotlin Sequences to abstract pagination](https://www.reddit.com/r/Kotlin/comments/u0txdt/using_kotlin_sequences_to_abstract_pagination/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
