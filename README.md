@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [tts libraries for kotlin?](https://www.reddit.com/r/Kotlin/comments/u3rm1m/tts_libraries_for_kotlin/)
+- [Kotlin 1.6.20+ comes with a new toy: a prototype for the &quot;Context Receivers&quot; proposal! 🧪 They are powerful stuff: you can constrain functions &amp; co. to a specific context from which you can call them. Check out Sebastian&#39;s video and try them yourself! 👀](https://www.reddit.com/r/Kotlin/comments/u3k4or/kotlin_1620_comes_with_a_new_toy_a_prototype_for/)
+- [Are you participating in any of the Kotlin Early Access Programs?](https://www.reddit.com/r/Kotlin/comments/u3cyhd/are_you_participating_in_any_of_the_kotlin_early/)
 - [Literal objects vs Data classes implementing interfaces](https://www.reddit.com/r/Kotlin/comments/u35k62/literal_objects_vs_data_classes_implementing/)
 - [Introducing Bonsai: a multiplatform tree view for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/u357bq/introducing_bonsai_a_multiplatform_tree_view_for/)
 - [Introduction to unit testing ViewModel with Kotlin Coroutine &amp; Flow](https://www.reddit.com/r/Kotlin/comments/u2u9fb/introduction_to_unit_testing_viewmodel_with/)
 - [Kotlin test client recommendation](https://www.reddit.com/r/Kotlin/comments/u2rqpl/kotlin_test_client_recommendation/)
 - [Searching for Kotlin buddies](https://www.reddit.com/r/Kotlin/comments/u2jo77/searching_for_kotlin_buddies/)
 - [Happy Path Programming Ep. 60 – Kotlin Language Design with Roman Elizarov](https://www.reddit.com/r/Kotlin/comments/u2eip9/happy_path_programming_ep_60_kotlin_language/)
-- [Are you participating in any of the Kotlin Early Access Programs?](https://www.reddit.com/r/Kotlin/comments/u1zejs/are_you_participating_in_any_of_the_kotlin_early/)
 - [Need Some Advice](https://www.reddit.com/r/Kotlin/comments/u1z7iu/need_some_advice/)
-- [What&#39;s the difference between a mutable val and a var?](https://www.reddit.com/r/Kotlin/comments/u1n772/whats_the_difference_between_a_mutable_val_and_a/)
-- [Books to read for Kotlin](https://www.reddit.com/r/Kotlin/comments/u1gp59/books_to_read_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
