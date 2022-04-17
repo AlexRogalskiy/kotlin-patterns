@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [give a self-taught androiddev a motivational words](https://www.reddit.com/r/Kotlin/comments/u5bfqg/give_a_selftaught_androiddev_a_motivational_words/)
+- [I created a small Jetpack Compose library to create squircles/superellipses programmatically.](https://www.reddit.com/r/Kotlin/comments/u4z32a/i_created_a_small_jetpack_compose_library_to/)
+- [Kotlin Multiplatform: Android + BE &lpar;ktor&rpar;](https://www.reddit.com/r/Kotlin/comments/u4rf83/kotlin_multiplatform_android_be_ktor/)
 - [Accessing the clipboard with Kotlin.](https://www.reddit.com/r/Kotlin/comments/u4gsbi/accessing_the_clipboard_with_kotlin/)
 - [is there a similar resource as &#39;learn go with tests&#39; for kotlin?](https://www.reddit.com/r/Kotlin/comments/u4gcu2/is_there_a_similar_resource_as_learn_go_with/)
 - [Confusion on the Kotlin ecosystem.](https://www.reddit.com/r/Kotlin/comments/u4e90l/confusion_on_the_kotlin_ecosystem/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What&#39;s your preferred approach/style for factory functions?](https://www.reddit.com/r/Kotlin/comments/u47p90/whats_your_preferred_approachstyle_for_factory/)
 - [Learning Kotlin as an experienced front end dev](https://www.reddit.com/r/Kotlin/comments/u478v7/learning_kotlin_as_an_experienced_front_end_dev/)
 - [tts libraries for kotlin?](https://www.reddit.com/r/Kotlin/comments/u3rm1m/tts_libraries_for_kotlin/)
-- [Kotlin 1.6.20+ comes with a new toy: a prototype for the &quot;Context Receivers&quot; proposal! 🧪 They are powerful stuff: you can constrain functions &amp; co. to a specific context from which you can call them. Check out Sebastian&#39;s video and try them yourself! 👀](https://www.reddit.com/r/Kotlin/comments/u3k4or/kotlin_1620_comes_with_a_new_toy_a_prototype_for/)
-- [Are you participating in any of the Kotlin Early Access Programs?](https://www.reddit.com/r/Kotlin/comments/u3cyhd/are_you_participating_in_any_of_the_kotlin_early/)
-- [Literal objects vs Data classes implementing interfaces](https://www.reddit.com/r/Kotlin/comments/u35k62/literal_objects_vs_data_classes_implementing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
