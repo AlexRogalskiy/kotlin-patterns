@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [is jetpack compose is the future?](https://www.reddit.com/r/Kotlin/comments/u5q8oo/is_jetpack_compose_is_the_future/)
+- [Why is there no Sequence.slice in stdlib?](https://www.reddit.com/r/Kotlin/comments/u5miu2/why_is_there_no_sequenceslice_in_stdlib/)
+- [Problem with ID inside activity, what am I missing? In old project it works, in new, not.](https://www.reddit.com/r/Kotlin/comments/u5mhsr/problem_with_id_inside_activity_what_am_i_missing/)
 - [give a self-taught androiddev a motivational words](https://www.reddit.com/r/Kotlin/comments/u5bfqg/give_a_selftaught_androiddev_a_motivational_words/)
 - [I created a small Jetpack Compose library to create squircles/superellipses programmatically.](https://www.reddit.com/r/Kotlin/comments/u4z32a/i_created_a_small_jetpack_compose_library_to/)
 - [Kotlin Multiplatform: Android + BE &lpar;ktor&rpar;](https://www.reddit.com/r/Kotlin/comments/u4rf83/kotlin_multiplatform_android_be_ktor/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [is there a similar resource as &#39;learn go with tests&#39; for kotlin?](https://www.reddit.com/r/Kotlin/comments/u4gcu2/is_there_a_similar_resource_as_learn_go_with/)
 - [Confusion on the Kotlin ecosystem.](https://www.reddit.com/r/Kotlin/comments/u4e90l/confusion_on_the_kotlin_ecosystem/)
 - [Demaking Wordle in the terminal using Kotlin](https://www.reddit.com/r/Kotlin/comments/u4chhz/demaking_wordle_in_the_terminal_using_kotlin/)
-- [What&#39;s your preferred approach/style for factory functions?](https://www.reddit.com/r/Kotlin/comments/u47p90/whats_your_preferred_approachstyle_for_factory/)
-- [Learning Kotlin as an experienced front end dev](https://www.reddit.com/r/Kotlin/comments/u478v7/learning_kotlin_as_an_experienced_front_end_dev/)
-- [tts libraries for kotlin?](https://www.reddit.com/r/Kotlin/comments/u3rm1m/tts_libraries_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
