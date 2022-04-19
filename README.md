@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [App with Video &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/u6kt6l/app_with_video_kotlin/)
+- [Kotlin compilation crashes with &quot;java.lang.IllegalArgumentException: Failed requirement&quot; using Multiplatform Compose and expect/actual.](https://www.reddit.com/r/Kotlin/comments/u6jhbl/kotlin_compilation_crashes_with/)
+- [When this block of code returns true? Am i correct?](https://www.reddit.com/r/Kotlin/comments/u6fxra/when_this_block_of_code_returns_true_am_i_correct/)
+- [Kotlin Illustrated Guide - Collections: Lists and Sets](https://www.reddit.com/r/Kotlin/comments/u6fqxa/kotlin_illustrated_guide_collections_lists_and/)
+- [Reducing code duplication in Kotlin class constructors?](https://www.reddit.com/r/Kotlin/comments/u6fd8t/reducing_code_duplication_in_kotlin_class/)
+- [Interested in Kotlin](https://www.reddit.com/r/Kotlin/comments/u6ddnd/interested_in_kotlin/)
+- [First android app using Kotlin](https://www.reddit.com/r/Kotlin/comments/u6clw1/first_android_app_using_kotlin/)
+- [How should I format long method declarations?](https://www.reddit.com/r/Kotlin/comments/u67pvn/how_should_i_format_long_method_declarations/)
+- [Anyone able to share experiences of using jetpack compose multiplatform with web for large web apps?](https://www.reddit.com/r/Kotlin/comments/u66lji/anyone_able_to_share_experiences_of_using_jetpack/)
 - [is jetpack compose is the future?](https://www.reddit.com/r/Kotlin/comments/u5q8oo/is_jetpack_compose_is_the_future/)
-- [Why is there no Sequence.slice in stdlib?](https://www.reddit.com/r/Kotlin/comments/u5miu2/why_is_there_no_sequenceslice_in_stdlib/)
-- [Problem with ID inside activity, what am I missing? In old project it works, in new, not.](https://www.reddit.com/r/Kotlin/comments/u5mhsr/problem_with_id_inside_activity_what_am_i_missing/)
-- [give a self-taught androiddev a motivational words](https://www.reddit.com/r/Kotlin/comments/u5bfqg/give_a_selftaught_androiddev_a_motivational_words/)
-- [I created a small Jetpack Compose library to create squircles/superellipses programmatically.](https://www.reddit.com/r/Kotlin/comments/u4z32a/i_created_a_small_jetpack_compose_library_to/)
-- [Kotlin Multiplatform: Android + BE &lpar;ktor&rpar;](https://www.reddit.com/r/Kotlin/comments/u4rf83/kotlin_multiplatform_android_be_ktor/)
-- [Accessing the clipboard with Kotlin.](https://www.reddit.com/r/Kotlin/comments/u4gsbi/accessing_the_clipboard_with_kotlin/)
-- [is there a similar resource as &#39;learn go with tests&#39; for kotlin?](https://www.reddit.com/r/Kotlin/comments/u4gcu2/is_there_a_similar_resource_as_learn_go_with/)
-- [Confusion on the Kotlin ecosystem.](https://www.reddit.com/r/Kotlin/comments/u4e90l/confusion_on_the_kotlin_ecosystem/)
-- [Demaking Wordle in the terminal using Kotlin](https://www.reddit.com/r/Kotlin/comments/u4chhz/demaking_wordle_in_the_terminal_using_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
