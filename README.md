@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there anything I should understand the fundamentals of before trying to learn Kotlin? What should I know before starting to study it?](https://www.reddit.com/r/Kotlin/comments/u8d8eq/is_there_anything_i_should_understand_the/)
+- [Java AutoValue classes vs Kotlin Data classes](https://www.reddit.com/r/Kotlin/comments/u8bqvf/java_autovalue_classes_vs_kotlin_data_classes/)
+- [Math knowledge and Kotlin](https://www.reddit.com/r/Kotlin/comments/u87t15/math_knowledge_and_kotlin/)
+- [Important changes of my frameworks: kimmer-sql and graphql-provider](https://www.reddit.com/r/Kotlin/comments/u7zr7r/important_changes_of_my_frameworks_kimmersql_and/)
+- [Using OpenAPI generator with Kotlin?](https://www.reddit.com/r/Kotlin/comments/u7ygql/using_openapi_generator_with_kotlin/)
+- [Building a virtual DOM in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/u7umkr/building_a_virtual_dom_in_kotlin_multiplatform/)
 - [4koma, the awesomest TOML library, hits version 1.0.1](https://www.reddit.com/r/Kotlin/comments/u7jbvx/4koma_the_awesomest_toml_library_hits_version_101/)
 - [What&#39;s new in Kotlin 1.6.21](https://www.reddit.com/r/Kotlin/comments/u7gdmd/whats_new_in_kotlin_1621/)
 - [Looking for a new job](https://www.reddit.com/r/Kotlin/comments/u78bw7/looking_for_a_new_job/)
 - [Compiled JavaScript crashes browser.](https://www.reddit.com/r/Kotlin/comments/u74bgo/compiled_javascript_crashes_browser/)
-- [The new episode of Talking Kotlin is out today! Adobe’s @raresvla and @catacgc take us through how they use Kotlin and Ktor to handle 70 billion events per day. Tune in at 3:00 pm &lpar;UTC&rpar; ⬇️](https://www.reddit.com/r/Kotlin/comments/u71s9h/the_new_episode_of_talking_kotlin_is_out_today/)
-- [Common code with Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/u6zkvu/common_code_with_kotlin_multiplatform/)
-- [App with Video &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/u6kt6l/app_with_video_kotlin/)
-- [Kotlin compilation crashes with &quot;java.lang.IllegalArgumentException: Failed requirement&quot; using Multiplatform Compose and expect/actual.](https://www.reddit.com/r/Kotlin/comments/u6jhbl/kotlin_compilation_crashes_with/)
-- [When this block of code returns true? Am i correct?](https://www.reddit.com/r/Kotlin/comments/u6fxra/when_this_block_of_code_returns_true_am_i_correct/)
-- [Kotlin Illustrated Guide - Collections: Lists and Sets](https://www.reddit.com/r/Kotlin/comments/u6fqxa/kotlin_illustrated_guide_collections_lists_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
