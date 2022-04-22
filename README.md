@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where to start?](https://www.reddit.com/r/Kotlin/comments/u8zvkq/where_to_start/)
+- [Is there a list of syntax sugar? Like a cheat sheet?](https://www.reddit.com/r/Kotlin/comments/u8pqo3/is_there_a_list_of_syntax_sugar_like_a_cheat_sheet/)
+- [In Kotlin, you can override operators like ➕ and ➖ for your classes and supply your own logic. But what if you want to allow null values, both on their left and right sides? /u/sebi_io has the answer 👀👇](https://www.reddit.com/r/Kotlin/comments/u8oozt/in_kotlin_you_can_override_operators_like_and_for/)
+- [Why does `Mockito.any&lpar;SomeClazz::class.java&rpar;` throws NPE while `private inline fun &lt;reified T&gt; any&lpar;type: Class&lt;T&gt;&rpar;: T = Mockito.any&lpar;type&rpar;` and then calling like `any&lpar;SomeClazz::class.java&rpar;` works???](https://www.reddit.com/r/Kotlin/comments/u8mtxe/why_does_mockitoanysomeclazzclassjava_throws_npe/)
+- [Memory leak due to improper exception handling](https://www.reddit.com/r/Kotlin/comments/u8lwxo/memory_leak_due_to_improper_exception_handling/)
 - [Is there anything I should understand the fundamentals of before trying to learn Kotlin? What should I know before starting to study it?](https://www.reddit.com/r/Kotlin/comments/u8d8eq/is_there_anything_i_should_understand_the/)
 - [Java AutoValue classes vs Kotlin Data classes](https://www.reddit.com/r/Kotlin/comments/u8bqvf/java_autovalue_classes_vs_kotlin_data_classes/)
 - [Math knowledge and Kotlin](https://www.reddit.com/r/Kotlin/comments/u87t15/math_knowledge_and_kotlin/)
 - [Important changes of my frameworks: kimmer-sql and graphql-provider](https://www.reddit.com/r/Kotlin/comments/u7zr7r/important_changes_of_my_frameworks_kimmersql_and/)
 - [Using OpenAPI generator with Kotlin?](https://www.reddit.com/r/Kotlin/comments/u7ygql/using_openapi_generator_with_kotlin/)
-- [Building a virtual DOM in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/u7umkr/building_a_virtual_dom_in_kotlin_multiplatform/)
-- [4koma, the awesomest TOML library, hits version 1.0.1](https://www.reddit.com/r/Kotlin/comments/u7jbvx/4koma_the_awesomest_toml_library_hits_version_101/)
-- [What&#39;s new in Kotlin 1.6.21](https://www.reddit.com/r/Kotlin/comments/u7gdmd/whats_new_in_kotlin_1621/)
-- [Looking for a new job](https://www.reddit.com/r/Kotlin/comments/u78bw7/looking_for_a_new_job/)
-- [Compiled JavaScript crashes browser.](https://www.reddit.com/r/Kotlin/comments/u74bgo/compiled_javascript_crashes_browser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
