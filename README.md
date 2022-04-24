@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [i am trying to set focus from recyclerview to another recyclerview but it moves to another view group](https://www.reddit.com/r/Kotlin/comments/ua6d0d/i_am_trying_to_set_focus_from_recyclerview_to/)
+- [How to propely create Data Class with nonnull parameters?](https://www.reddit.com/r/Kotlin/comments/ua4wbx/how_to_propely_create_data_class_with_nonnull/)
+- [TOML support for kotlinx.serialization!](https://www.reddit.com/r/Kotlin/comments/u9vlti/toml_support_for_kotlinxserialization/)
 - [Why is there no .put &lpar;foo[bar] = baz&rpar; operator?](https://www.reddit.com/r/Kotlin/comments/u9uu8r/why_is_there_no_put_foobar_baz_operator/)
 - [Ktor - Kotlin based backend development](https://www.reddit.com/r/Kotlin/comments/u9jfcj/ktor_kotlin_based_backend_development/)
 - [How to schedule jobs with Quartz on Ktor](https://www.reddit.com/r/Kotlin/comments/u9ayk9/how_to_schedule_jobs_with_quartz_on_ktor/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Question about coroutines and I/O](https://www.reddit.com/r/Kotlin/comments/u99d62/question_about_coroutines_and_io/)
 - [Backend microframeworks approach](https://www.reddit.com/r/Kotlin/comments/u9929o/backend_microframeworks_approach/)
 - [Where to start?](https://www.reddit.com/r/Kotlin/comments/u8zvkq/where_to_start/)
-- [Is there a list of syntax sugar? Like a cheat sheet?](https://www.reddit.com/r/Kotlin/comments/u8pqo3/is_there_a_list_of_syntax_sugar_like_a_cheat_sheet/)
-- [In Kotlin, you can override operators like ➕ and ➖ for your classes and supply your own logic. But what if you want to allow null values, both on their left and right sides? /u/sebi_io has the answer 👀👇](https://www.reddit.com/r/Kotlin/comments/u8oozt/in_kotlin_you_can_override_operators_like_and_for/)
-- [Why does `Mockito.any&lpar;SomeClazz::class.java&rpar;` throws NPE while `private inline fun &lt;reified T&gt; any&lpar;type: Class&lt;T&gt;&rpar;: T = Mockito.any&lpar;type&rpar;` and then calling like `any&lpar;SomeClazz::class.java&rpar;` works???](https://www.reddit.com/r/Kotlin/comments/u8mtxe/why_does_mockitoanysomeclazzclassjava_throws_npe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
