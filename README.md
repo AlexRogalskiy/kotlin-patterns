@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMM and native libraries](https://www.reddit.com/r/Kotlin/comments/ubzvhn/kmm_and_native_libraries/)
+- [What is the Domain Layer in Android Dev?](https://www.reddit.com/r/Kotlin/comments/ubzgvo/what_is_the_domain_layer_in_android_dev/)
+- [Should you try Kotlin as a PHP developer?](https://www.reddit.com/r/Kotlin/comments/ubsizm/should_you_try_kotlin_as_a_php_developer/)
+- [Kotlin vs Java performance](https://www.reddit.com/r/Kotlin/comments/ubseb8/kotlin_vs_java_performance/)
+- [Multithreaded programming in the browser with Web Workers](https://www.reddit.com/r/Kotlin/comments/ubn8su/multithreaded_programming_in_the_browser_with_web/)
+- [Drawbacks of Kotlin/KMM in comparison to Flutter](https://www.reddit.com/r/Kotlin/comments/ubl93j/drawbacks_of_kotlinkmm_in_comparison_to_flutter/)
+- [Kotlin powers my home &lpar;Android + JVM&rpar; 🤪](https://www.reddit.com/r/Kotlin/comments/ubdkkk/kotlin_powers_my_home_android_jvm/)
 - [Check out uri-kmp; a Kotlin multiplatform port of AOSP&#39;s Uri](https://www.reddit.com/r/Kotlin/comments/ub9b0k/check_out_urikmp_a_kotlin_multiplatform_port_of/)
 - [Walrus operator := in Kotlin](https://www.reddit.com/r/Kotlin/comments/ub6bmy/walrus_operator_in_kotlin/)
 - [Need help doing stuff in a certain order](https://www.reddit.com/r/Kotlin/comments/ub5ul7/need_help_doing_stuff_in_a_certain_order/)
-- [I&#39;m working on a HTTP client similar to Retrofit but for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/uarzis/im_working_on_a_http_client_similar_to_retrofit/)
-- [Does kotlinx.serialization support layered reading?](https://www.reddit.com/r/Kotlin/comments/uaq53c/does_kotlinxserialization_support_layered_reading/)
-- [How would you deliver an update to your desktop stand-alone software?](https://www.reddit.com/r/Kotlin/comments/uapymu/how_would_you_deliver_an_update_to_your_desktop/)
-- [why kotlin filtering large list is slow?](https://www.reddit.com/r/Kotlin/comments/uamb1b/why_kotlin_filtering_large_list_is_slow/)
-- [Any reccommendations on getting started in Kotlin for someone still learning about programming in general?](https://www.reddit.com/r/Kotlin/comments/uam1d7/any_reccommendations_on_getting_started_in_kotlin/)
-- [i am trying to set focus from recyclerview to another recyclerview but it moves to another view group](https://www.reddit.com/r/Kotlin/comments/ua6d0d/i_am_trying_to_set_focus_from_recyclerview_to/)
-- [How to propely create Data Class with nonnull parameters?](https://www.reddit.com/r/Kotlin/comments/ua4wbx/how_to_propely_create_data_class_with_nonnull/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
