@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin equivalent to pygame?](https://www.reddit.com/r/Kotlin/comments/ucm457/kotlin_equivalent_to_pygame/)
+- [Building structured logging in to Pellet, a Kotlin web framework](https://www.reddit.com/r/Kotlin/comments/ucl202/building_structured_logging_in_to_pellet_a_kotlin/)
+- [When to use WorkManager instead of Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/uciraf/when_to_use_workmanager_instead_of_kotlin/)
+- [Need help trying to fix this mapIndexed](https://www.reddit.com/r/Kotlin/comments/ucd00y/need_help_trying_to_fix_this_mapindexed/)
+- [Does Kotlin treat strings as primitives?](https://www.reddit.com/r/Kotlin/comments/uc6lr4/does_kotlin_treat_strings_as_primitives/)
+- [Coroutines](https://www.reddit.com/r/Kotlin/comments/uc5kz0/coroutines/)
+- [I don&#39;t understand why I can&#39;t change my global variables](https://www.reddit.com/r/Kotlin/comments/uc4sow/i_dont_understand_why_i_cant_change_my_global/)
 - [KMM and native libraries](https://www.reddit.com/r/Kotlin/comments/ubzvhn/kmm_and_native_libraries/)
 - [What is the Domain Layer in Android Dev?](https://www.reddit.com/r/Kotlin/comments/ubzgvo/what_is_the_domain_layer_in_android_dev/)
 - [Should you try Kotlin as a PHP developer?](https://www.reddit.com/r/Kotlin/comments/ubsizm/should_you_try_kotlin_as_a_php_developer/)
-- [Kotlin vs Java performance](https://www.reddit.com/r/Kotlin/comments/ubseb8/kotlin_vs_java_performance/)
-- [Multithreaded programming in the browser with Web Workers](https://www.reddit.com/r/Kotlin/comments/ubn8su/multithreaded_programming_in_the_browser_with_web/)
-- [Drawbacks of Kotlin/KMM in comparison to Flutter](https://www.reddit.com/r/Kotlin/comments/ubl93j/drawbacks_of_kotlinkmm_in_comparison_to_flutter/)
-- [Kotlin powers my home &lpar;Android + JVM&rpar; 🤪](https://www.reddit.com/r/Kotlin/comments/ubdkkk/kotlin_powers_my_home_android_jvm/)
-- [Check out uri-kmp; a Kotlin multiplatform port of AOSP&#39;s Uri](https://www.reddit.com/r/Kotlin/comments/ub9b0k/check_out_urikmp_a_kotlin_multiplatform_port_of/)
-- [Walrus operator := in Kotlin](https://www.reddit.com/r/Kotlin/comments/ub6bmy/walrus_operator_in_kotlin/)
-- [Need help doing stuff in a certain order](https://www.reddit.com/r/Kotlin/comments/ub5ul7/need_help_doing_stuff_in_a_certain_order/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
