@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin equivalent to pygame?](https://www.reddit.com/r/Kotlin/comments/ucm457/kotlin_equivalent_to_pygame/)
-- [Building structured logging in to Pellet, a Kotlin web framework](https://www.reddit.com/r/Kotlin/comments/ucl202/building_structured_logging_in_to_pellet_a_kotlin/)
-- [When to use WorkManager instead of Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/uciraf/when_to_use_workmanager_instead_of_kotlin/)
-- [Need help trying to fix this mapIndexed](https://www.reddit.com/r/Kotlin/comments/ucd00y/need_help_trying_to_fix_this_mapindexed/)
-- [Does Kotlin treat strings as primitives?](https://www.reddit.com/r/Kotlin/comments/uc6lr4/does_kotlin_treat_strings_as_primitives/)
-- [Coroutines](https://www.reddit.com/r/Kotlin/comments/uc5kz0/coroutines/)
-- [I don&#39;t understand why I can&#39;t change my global variables](https://www.reddit.com/r/Kotlin/comments/uc4sow/i_dont_understand_why_i_cant_change_my_global/)
-- [KMM and native libraries](https://www.reddit.com/r/Kotlin/comments/ubzvhn/kmm_and_native_libraries/)
-- [What is the Domain Layer in Android Dev?](https://www.reddit.com/r/Kotlin/comments/ubzgvo/what_is_the_domain_layer_in_android_dev/)
-- [Should you try Kotlin as a PHP developer?](https://www.reddit.com/r/Kotlin/comments/ubsizm/should_you_try_kotlin_as_a_php_developer/)
+- [Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/udh1q0/kotlinnative/)
+- [Allow the user to pic a profile pic and store it](https://www.reddit.com/r/Kotlin/comments/udbbvq/allow_the_user_to_pic_a_profile_pic_and_store_it/)
+- [Is it a good idea to have different View models for different Navigation fragments?](https://www.reddit.com/r/Kotlin/comments/ud9c1r/is_it_a_good_idea_to_have_different_view_models/)
+- [Print name and value of a variable](https://www.reddit.com/r/Kotlin/comments/ud6v7x/print_name_and_value_of_a_variable/)
+- [Calling all Kotlin desktop developers!](https://www.reddit.com/r/Kotlin/comments/ud6ure/calling_all_kotlin_desktop_developers/)
+- [Kotlin Mascot ASCII](https://www.reddit.com/r/Kotlin/comments/ud4oax/kotlin_mascot_ascii/)
+- [How to use SearchView to navigate to a fragment with the wanted content](https://www.reddit.com/r/Kotlin/comments/ud4dp9/how_to_use_searchview_to_navigate_to_a_fragment/)
+- [A few Kotlin questions from a Rustacean](https://www.reddit.com/r/Kotlin/comments/ud39u0/a_few_kotlin_questions_from_a_rustacean/)
+- [Property is returning wrong value. Why is this happening? &lpar;see comment&rpar;](https://www.reddit.com/r/Kotlin/comments/ud2yxr/property_is_returning_wrong_value_why_is_this/)
+- [If Expressions stumped @Jetbrains Academy](https://www.reddit.com/r/Kotlin/comments/ud1b6w/if_expressions_stumped_jetbrains_academy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
