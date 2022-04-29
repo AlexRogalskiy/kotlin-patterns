@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gradle: apply kotlin jvm plugin from a buildSrc script](https://www.reddit.com/r/Kotlin/comments/ue01x2/gradle_apply_kotlin_jvm_plugin_from_a_buildsrc/)
+- [require/check with specifiable Throwable?](https://www.reddit.com/r/Kotlin/comments/udxfck/requirecheck_with_specifiable_throwable/)
+- [How do you market the apps you&#39;ve created?](https://www.reddit.com/r/Kotlin/comments/udt42y/how_do_you_market_the_apps_youve_created/)
+- [Coracle - Kotlin based Processing clone](https://www.reddit.com/r/Kotlin/comments/udqwc3/coracle_kotlin_based_processing_clone/)
+- [36 minutes video for graphql-provider](https://www.reddit.com/r/Kotlin/comments/udqu1n/36_minutes_video_for_graphqlprovider/)
+- [Need help - readln&lpar;&rpar; isn&#39;t recognized in a specific project, have to use readLine&lpar;&rpar; instead](https://www.reddit.com/r/Kotlin/comments/udpcbq/need_help_readln_isnt_recognized_in_a_specific/)
 - [Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/udh1q0/kotlinnative/)
-- [Allow the user to pic a profile pic and store it](https://www.reddit.com/r/Kotlin/comments/udbbvq/allow_the_user_to_pic_a_profile_pic_and_store_it/)
 - [Is it a good idea to have different View models for different Navigation fragments?](https://www.reddit.com/r/Kotlin/comments/ud9c1r/is_it_a_good_idea_to_have_different_view_models/)
 - [Print name and value of a variable](https://www.reddit.com/r/Kotlin/comments/ud6v7x/print_name_and_value_of_a_variable/)
 - [Calling all Kotlin desktop developers!](https://www.reddit.com/r/Kotlin/comments/ud6ure/calling_all_kotlin_desktop_developers/)
-- [Kotlin Mascot ASCII](https://www.reddit.com/r/Kotlin/comments/ud4oax/kotlin_mascot_ascii/)
-- [How to use SearchView to navigate to a fragment with the wanted content](https://www.reddit.com/r/Kotlin/comments/ud4dp9/how_to_use_searchview_to_navigate_to_a_fragment/)
-- [A few Kotlin questions from a Rustacean](https://www.reddit.com/r/Kotlin/comments/ud39u0/a_few_kotlin_questions_from_a_rustacean/)
-- [Property is returning wrong value. Why is this happening? &lpar;see comment&rpar;](https://www.reddit.com/r/Kotlin/comments/ud2yxr/property_is_returning_wrong_value_why_is_this/)
-- [If Expressions stumped @Jetbrains Academy](https://www.reddit.com/r/Kotlin/comments/ud1b6w/if_expressions_stumped_jetbrains_academy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
