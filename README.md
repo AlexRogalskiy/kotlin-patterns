@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This is a Tech-Writing Contest by Hashnode. I&#39;ll be participating with this article of mine about &quot;Metaphorical Programming&quot;. I&#39;d like to win, but I&#39;d also appreciate your thoughts on this experimental concept 🙏🏻](https://www.reddit.com/r/Kotlin/comments/ueymvz/this_is_a_techwriting_contest_by_hashnode_ill_be/)
+- [Bad experience with Ktor setup](https://www.reddit.com/r/Kotlin/comments/ueqknl/bad_experience_with_ktor_setup/)
+- [Jetbrains Academy day 5 or so and stumped again](https://www.reddit.com/r/Kotlin/comments/uen2uz/jetbrains_academy_day_5_or_so_and_stumped_again/)
+- [Consumiendo API con Retrofit](https://www.reddit.com/r/Kotlin/comments/ueiiqb/consumiendo_api_con_retrofit/)
+- [Whats the best resource to learn kotlin](https://www.reddit.com/r/Kotlin/comments/uedf7p/whats_the_best_resource_to_learn_kotlin/)
 - [Gradle: apply kotlin jvm plugin from a buildSrc script](https://www.reddit.com/r/Kotlin/comments/ue01x2/gradle_apply_kotlin_jvm_plugin_from_a_buildsrc/)
 - [require/check with specifiable Throwable?](https://www.reddit.com/r/Kotlin/comments/udxfck/requirecheck_with_specifiable_throwable/)
 - [How do you market the apps you&#39;ve created?](https://www.reddit.com/r/Kotlin/comments/udt42y/how_do_you_market_the_apps_youve_created/)
 - [Coracle - Kotlin based Processing clone](https://www.reddit.com/r/Kotlin/comments/udqwc3/coracle_kotlin_based_processing_clone/)
 - [36 minutes video for graphql-provider](https://www.reddit.com/r/Kotlin/comments/udqu1n/36_minutes_video_for_graphqlprovider/)
-- [Need help - readln&lpar;&rpar; isn&#39;t recognized in a specific project, have to use readLine&lpar;&rpar; instead](https://www.reddit.com/r/Kotlin/comments/udpcbq/need_help_readln_isnt_recognized_in_a_specific/)
-- [Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/udh1q0/kotlinnative/)
-- [Is it a good idea to have different View models for different Navigation fragments?](https://www.reddit.com/r/Kotlin/comments/ud9c1r/is_it_a_good_idea_to_have_different_view_models/)
-- [Print name and value of a variable](https://www.reddit.com/r/Kotlin/comments/ud6v7x/print_name_and_value_of_a_variable/)
-- [Calling all Kotlin desktop developers!](https://www.reddit.com/r/Kotlin/comments/ud6ure/calling_all_kotlin_desktop_developers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
