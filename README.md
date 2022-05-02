@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can Ktor server be run in blocking mode?](https://www.reddit.com/r/Kotlin/comments/ugddx6/can_ktor_server_be_run_in_blocking_mode/)
+- [NullPointerExceptions! In Kotlin?](https://www.reddit.com/r/Kotlin/comments/ufz9qg/nullpointerexceptions_in_kotlin/)
+- [My first public web app - backend built with Kotlin](https://www.reddit.com/r/Kotlin/comments/ufyf0f/my_first_public_web_app_backend_built_with_kotlin/)
 - [Bad experience with Codingame Kotlin Tests](https://www.reddit.com/r/Kotlin/comments/ufnf5n/bad_experience_with_codingame_kotlin_tests/)
 - [Ktor - difference between OAuth dependency and Google Client Libraries](https://www.reddit.com/r/Kotlin/comments/uf6iot/ktor_difference_between_oauth_dependency_and/)
 - [This is a Tech-Writing Contest by Hashnode. I&#39;ll be participating with this article of mine about &quot;Metaphorical Programming&quot;. I&#39;d like to win, but I&#39;d also appreciate your thoughts on this experimental concept 🙏🏻](https://www.reddit.com/r/Kotlin/comments/ueymvz/this_is_a_techwriting_contest_by_hashnode_ill_be/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Jetbrains Academy day 5 or so and stumped again](https://www.reddit.com/r/Kotlin/comments/uen2uz/jetbrains_academy_day_5_or_so_and_stumped_again/)
 - [Consumiendo API con Retrofit](https://www.reddit.com/r/Kotlin/comments/ueiiqb/consumiendo_api_con_retrofit/)
 - [Whats the best resource to learn kotlin](https://www.reddit.com/r/Kotlin/comments/uedf7p/whats_the_best_resource_to_learn_kotlin/)
-- [Gradle: apply kotlin jvm plugin from a buildSrc script](https://www.reddit.com/r/Kotlin/comments/ue01x2/gradle_apply_kotlin_jvm_plugin_from_a_buildsrc/)
-- [require/check with specifiable Throwable?](https://www.reddit.com/r/Kotlin/comments/udxfck/requirecheck_with_specifiable_throwable/)
-- [How do you market the apps you&#39;ve created?](https://www.reddit.com/r/Kotlin/comments/udt42y/how_do_you_market_the_apps_youve_created/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
