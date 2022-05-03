@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can Ktor server be run in blocking mode?](https://www.reddit.com/r/Kotlin/comments/ugddx6/can_ktor_server_be_run_in_blocking_mode/)
-- [NullPointerExceptions! In Kotlin?](https://www.reddit.com/r/Kotlin/comments/ufz9qg/nullpointerexceptions_in_kotlin/)
-- [My first public web app - backend built with Kotlin](https://www.reddit.com/r/Kotlin/comments/ufyf0f/my_first_public_web_app_backend_built_with_kotlin/)
-- [Bad experience with Codingame Kotlin Tests](https://www.reddit.com/r/Kotlin/comments/ufnf5n/bad_experience_with_codingame_kotlin_tests/)
-- [Ktor - difference between OAuth dependency and Google Client Libraries](https://www.reddit.com/r/Kotlin/comments/uf6iot/ktor_difference_between_oauth_dependency_and/)
-- [This is a Tech-Writing Contest by Hashnode. I&#39;ll be participating with this article of mine about &quot;Metaphorical Programming&quot;. I&#39;d like to win, but I&#39;d also appreciate your thoughts on this experimental concept 🙏🏻](https://www.reddit.com/r/Kotlin/comments/ueymvz/this_is_a_techwriting_contest_by_hashnode_ill_be/)
-- [Bad experience with Ktor setup](https://www.reddit.com/r/Kotlin/comments/ueqknl/bad_experience_with_ktor_setup/)
-- [Jetbrains Academy day 5 or so and stumped again](https://www.reddit.com/r/Kotlin/comments/uen2uz/jetbrains_academy_day_5_or_so_and_stumped_again/)
-- [Consumiendo API con Retrofit](https://www.reddit.com/r/Kotlin/comments/ueiiqb/consumiendo_api_con_retrofit/)
-- [Whats the best resource to learn kotlin](https://www.reddit.com/r/Kotlin/comments/uedf7p/whats_the_best_resource_to_learn_kotlin/)
+- [Hey guys check out this article explaining Germany’s dependency on the Russian gas through the software concept of tight coupling.](https://www.reddit.com/r/Kotlin/comments/ugyusy/hey_guys_check_out_this_article_explaining/)
+- [The story behind Apollo Kotlin 3 codegen](https://www.reddit.com/r/Kotlin/comments/ugyope/the_story_behind_apollo_kotlin_3_codegen/)
+- [Kotlin 1.6.0 generates public members in bytecode when marked internal](https://www.reddit.com/r/Kotlin/comments/ugwoc4/kotlin_160_generates_public_members_in_bytecode/)
+- [A survey about refactorings](https://www.reddit.com/r/Kotlin/comments/ugv3xb/a_survey_about_refactorings/)
+- [Why ViewModel shouldn&#39;t hold framework references?](https://www.reddit.com/r/Kotlin/comments/ugu5hm/why_viewmodel_shouldnt_hold_framework_references/)
+- [Possible to use Kotlin/Native to call Win API from Kotlin/JVM?](https://www.reddit.com/r/Kotlin/comments/ugtljs/possible_to_use_kotlinnative_to_call_win_api_from/)
+- [Pros and Cons of iOS app Development](https://www.reddit.com/r/Kotlin/comments/ugsjoj/pros_and_cons_of_ios_app_development/)
+- [If val is a constant why we can assign mutable list to it?](https://www.reddit.com/r/Kotlin/comments/ugpf30/if_val_is_a_constant_why_we_can_assign_mutable/)
+- [Why are sequences &lpar;allegedly&rpar; slower than loops?](https://www.reddit.com/r/Kotlin/comments/ugpc8z/why_are_sequences_allegedly_slower_than_loops/)
+- [Innovative database browsing tool with sophisticated and animated Swing UI](https://www.reddit.com/r/Kotlin/comments/ugja2r/innovative_database_browsing_tool_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
