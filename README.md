@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hey guys check out this article explaining Germany’s dependency on the Russian gas through the software concept of tight coupling.](https://www.reddit.com/r/Kotlin/comments/ugyusy/hey_guys_check_out_this_article_explaining/)
+- [Dropdown](https://www.reddit.com/r/Kotlin/comments/uhu51l/dropdown/)
+- [How easy is it to Integrate Jetpack Compose into an app which uses View binding?](https://www.reddit.com/r/Kotlin/comments/uhmjkd/how_easy_is_it_to_integrate_jetpack_compose_into/)
+- [Destructuring declarations allow you to take a single object and break it into multiple variables. 🪚Turn pairs into their components, access keys and values from maps, or get multiple items from a list – or your own objects. Sebastian shows you how! 👀](https://www.reddit.com/r/Kotlin/comments/uhhgtz/destructuring_declarations_allow_you_to_take_a/)
+- [trying to build my portfolio !](https://www.reddit.com/r/Kotlin/comments/uhdm1m/trying_to_build_my_portfolio/)
 - [The story behind Apollo Kotlin 3 codegen](https://www.reddit.com/r/Kotlin/comments/ugyope/the_story_behind_apollo_kotlin_3_codegen/)
 - [Kotlin 1.6.0 generates public members in bytecode when marked internal](https://www.reddit.com/r/Kotlin/comments/ugwoc4/kotlin_160_generates_public_members_in_bytecode/)
 - [A survey about refactorings](https://www.reddit.com/r/Kotlin/comments/ugv3xb/a_survey_about_refactorings/)
-- [Why ViewModel shouldn&#39;t hold framework references?](https://www.reddit.com/r/Kotlin/comments/ugu5hm/why_viewmodel_shouldnt_hold_framework_references/)
 - [Possible to use Kotlin/Native to call Win API from Kotlin/JVM?](https://www.reddit.com/r/Kotlin/comments/ugtljs/possible_to_use_kotlinnative_to_call_win_api_from/)
 - [Pros and Cons of iOS app Development](https://www.reddit.com/r/Kotlin/comments/ugsjoj/pros_and_cons_of_ios_app_development/)
 - [If val is a constant why we can assign mutable list to it?](https://www.reddit.com/r/Kotlin/comments/ugpf30/if_val_is_a_constant_why_we_can_assign_mutable/)
-- [Why are sequences &lpar;allegedly&rpar; slower than loops?](https://www.reddit.com/r/Kotlin/comments/ugpc8z/why_are_sequences_allegedly_slower_than_loops/)
-- [Innovative database browsing tool with sophisticated and animated Swing UI](https://www.reddit.com/r/Kotlin/comments/ugja2r/innovative_database_browsing_tool_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
