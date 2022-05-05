@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dropdown](https://www.reddit.com/r/Kotlin/comments/uhu51l/dropdown/)
-- [How easy is it to Integrate Jetpack Compose into an app which uses View binding?](https://www.reddit.com/r/Kotlin/comments/uhmjkd/how_easy_is_it_to_integrate_jetpack_compose_into/)
-- [Destructuring declarations allow you to take a single object and break it into multiple variables. 🪚Turn pairs into their components, access keys and values from maps, or get multiple items from a list – or your own objects. Sebastian shows you how! 👀](https://www.reddit.com/r/Kotlin/comments/uhhgtz/destructuring_declarations_allow_you_to_take_a/)
-- [trying to build my portfolio !](https://www.reddit.com/r/Kotlin/comments/uhdm1m/trying_to_build_my_portfolio/)
-- [The story behind Apollo Kotlin 3 codegen](https://www.reddit.com/r/Kotlin/comments/ugyope/the_story_behind_apollo_kotlin_3_codegen/)
-- [Kotlin 1.6.0 generates public members in bytecode when marked internal](https://www.reddit.com/r/Kotlin/comments/ugwoc4/kotlin_160_generates_public_members_in_bytecode/)
-- [A survey about refactorings](https://www.reddit.com/r/Kotlin/comments/ugv3xb/a_survey_about_refactorings/)
-- [Possible to use Kotlin/Native to call Win API from Kotlin/JVM?](https://www.reddit.com/r/Kotlin/comments/ugtljs/possible_to_use_kotlinnative_to_call_win_api_from/)
-- [Pros and Cons of iOS app Development](https://www.reddit.com/r/Kotlin/comments/ugsjoj/pros_and_cons_of_ios_app_development/)
-- [If val is a constant why we can assign mutable list to it?](https://www.reddit.com/r/Kotlin/comments/ugpf30/if_val_is_a_constant_why_we_can_assign_mutable/)
+- [Anyone tutor or mentor students learning kotlin?](https://www.reddit.com/r/Kotlin/comments/uin4ii/anyone_tutor_or_mentor_students_learning_kotlin/)
+- [Configurable Kong API Gateway with Micronaut Services in Kotlin](https://www.reddit.com/r/Kotlin/comments/uihbzn/configurable_kong_api_gateway_with_micronaut/)
+- [How to set onClickListener to one particular view after one click [Android]](https://www.reddit.com/r/Kotlin/comments/uih4al/how_to_set_onclicklistener_to_one_particular_view/)
+- [Announcing Infrastructure as Code with Java and Pulumi. Infrastructure provisioning with JVM languages is going get a lot better.](https://www.reddit.com/r/Kotlin/comments/uia3eh/announcing_infrastructure_as_code_with_java_and/)
+- [Kotlin Illustrated Guide - Maps](https://www.reddit.com/r/Kotlin/comments/ui8py6/kotlin_illustrated_guide_maps/)
+- [I&#39;ve create a gradle plugin that encrypts your source code and decrypts it in runtime wrote by Kotlin](https://www.reddit.com/r/Kotlin/comments/ui253n/ive_create_a_gradle_plugin_that_encrypts_your/)
+- [Kotlin&amp;Junit vs Groovy&amp;Spock](https://www.reddit.com/r/Kotlin/comments/ui2357/kotlinjunit_vs_groovyspock/)
+- [The delightful bright yellow of extension functions](https://www.reddit.com/r/Kotlin/comments/ui1v6h/the_delightful_bright_yellow_of_extension/)
+- [Kotlin Asynchronous Framework, Ktor 2.0, Released with New Plugins Feature](https://www.reddit.com/r/Kotlin/comments/ui1df1/kotlin_asynchronous_framework_ktor_20_released/)
+- [Java Hashtable, HashMap, ConcurrentHashMap – Performance impact](https://www.reddit.com/r/Kotlin/comments/uhzetc/java_hashtable_hashmap_concurrenthashmap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
