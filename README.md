@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose Desktop Distributable Icon bug?](https://www.reddit.com/r/Kotlin/comments/ujbemx/compose_desktop_distributable_icon_bug/)
+- [Sum of string numbers](https://www.reddit.com/r/Kotlin/comments/ujatah/sum_of_string_numbers/)
+- [What is the contract {} block and what are some use cases?](https://www.reddit.com/r/Kotlin/comments/uja014/what_is_the_contract_block_and_what_are_some_use/)
+- [App built in Android Studio not working - Logcat error &quot;FATAL EXCEPTION: main&quot;](https://www.reddit.com/r/Kotlin/comments/uj92cg/app_built_in_android_studio_not_working_logcat/)
+- [Am I missing something, or does lateinit kind of undermine Kotlin&#39;s null safety implementation?](https://www.reddit.com/r/Kotlin/comments/uj63su/am_i_missing_something_or_does_lateinit_kind_of/)
+- [Looking for someone to help me make an app](https://www.reddit.com/r/Kotlin/comments/uj46sx/looking_for_someone_to_help_me_make_an_app/)
+- [Jetpack Compose: Kotlin - Getting started](https://www.reddit.com/r/Kotlin/comments/uj3p48/jetpack_compose_kotlin_getting_started/)
+- [Kotlin 1.7.0-Beta Released](https://www.reddit.com/r/Kotlin/comments/uixdo4/kotlin_170beta_released/)
+- [Antivirus warning in kotlin-util-io-1.6.21](https://www.reddit.com/r/Kotlin/comments/uio83d/antivirus_warning_in_kotlinutilio1621/)
 - [Anyone tutor or mentor students learning kotlin?](https://www.reddit.com/r/Kotlin/comments/uin4ii/anyone_tutor_or_mentor_students_learning_kotlin/)
-- [Configurable Kong API Gateway with Micronaut Services in Kotlin](https://www.reddit.com/r/Kotlin/comments/uihbzn/configurable_kong_api_gateway_with_micronaut/)
-- [How to set onClickListener to one particular view after one click [Android]](https://www.reddit.com/r/Kotlin/comments/uih4al/how_to_set_onclicklistener_to_one_particular_view/)
-- [Announcing Infrastructure as Code with Java and Pulumi. Infrastructure provisioning with JVM languages is going get a lot better.](https://www.reddit.com/r/Kotlin/comments/uia3eh/announcing_infrastructure_as_code_with_java_and/)
-- [Kotlin Illustrated Guide - Maps](https://www.reddit.com/r/Kotlin/comments/ui8py6/kotlin_illustrated_guide_maps/)
-- [I&#39;ve create a gradle plugin that encrypts your source code and decrypts it in runtime wrote by Kotlin](https://www.reddit.com/r/Kotlin/comments/ui253n/ive_create_a_gradle_plugin_that_encrypts_your/)
-- [Kotlin&amp;Junit vs Groovy&amp;Spock](https://www.reddit.com/r/Kotlin/comments/ui2357/kotlinjunit_vs_groovyspock/)
-- [The delightful bright yellow of extension functions](https://www.reddit.com/r/Kotlin/comments/ui1v6h/the_delightful_bright_yellow_of_extension/)
-- [Kotlin Asynchronous Framework, Ktor 2.0, Released with New Plugins Feature](https://www.reddit.com/r/Kotlin/comments/ui1df1/kotlin_asynchronous_framework_ktor_20_released/)
-- [Java Hashtable, HashMap, ConcurrentHashMap – Performance impact](https://www.reddit.com/r/Kotlin/comments/uhzetc/java_hashtable_hashmap_concurrenthashmap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
