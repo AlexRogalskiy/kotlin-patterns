@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hiring people without Kotlin experience is fine](https://www.reddit.com/r/Kotlin/comments/ujt0pw/hiring_people_without_kotlin_experience_is_fine/)
+- [Design pattern for coroutines sharing mutable state and running serially](https://www.reddit.com/r/Kotlin/comments/ujqq8x/design_pattern_for_coroutines_sharing_mutable/)
 - [Compose Desktop Distributable Icon bug?](https://www.reddit.com/r/Kotlin/comments/ujbemx/compose_desktop_distributable_icon_bug/)
 - [Sum of string numbers](https://www.reddit.com/r/Kotlin/comments/ujatah/sum_of_string_numbers/)
 - [What is the contract {} block and what are some use cases?](https://www.reddit.com/r/Kotlin/comments/uja014/what_is_the_contract_block_and_what_are_some_use/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Looking for someone to help me make an app](https://www.reddit.com/r/Kotlin/comments/uj46sx/looking_for_someone_to_help_me_make_an_app/)
 - [Jetpack Compose: Kotlin - Getting started](https://www.reddit.com/r/Kotlin/comments/uj3p48/jetpack_compose_kotlin_getting_started/)
 - [Kotlin 1.7.0-Beta Released](https://www.reddit.com/r/Kotlin/comments/uixdo4/kotlin_170beta_released/)
-- [Antivirus warning in kotlin-util-io-1.6.21](https://www.reddit.com/r/Kotlin/comments/uio83d/antivirus_warning_in_kotlinutilio1621/)
-- [Anyone tutor or mentor students learning kotlin?](https://www.reddit.com/r/Kotlin/comments/uin4ii/anyone_tutor_or_mentor_students_learning_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
