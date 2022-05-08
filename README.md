@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kradle - Bootstrap projects with hot-reloading, JMH, code-coverage, linting/static analysis, vulnerability analysis, uber-jar/container packaging, and more](https://www.reddit.com/r/Kotlin/comments/ukjpj3/kradle_bootstrap_projects_with_hotreloading_jmh/)
+- [Question about equality operators](https://www.reddit.com/r/Kotlin/comments/ukc8eg/question_about_equality_operators/)
+- [This code has memory leak, isn&#39;t it?](https://www.reddit.com/r/Kotlin/comments/uk7clf/this_code_has_memory_leak_isnt_it/)
+- [What would be a good way to rewrite this when statement?](https://www.reddit.com/r/Kotlin/comments/uk3l11/what_would_be_a_good_way_to_rewrite_this_when/)
 - [Hiring people without Kotlin experience is fine](https://www.reddit.com/r/Kotlin/comments/ujt0pw/hiring_people_without_kotlin_experience_is_fine/)
 - [Design pattern for coroutines sharing mutable state and running serially](https://www.reddit.com/r/Kotlin/comments/ujqq8x/design_pattern_for_coroutines_sharing_mutable/)
 - [Compose Desktop Distributable Icon bug?](https://www.reddit.com/r/Kotlin/comments/ujbemx/compose_desktop_distributable_icon_bug/)
 - [Sum of string numbers](https://www.reddit.com/r/Kotlin/comments/ujatah/sum_of_string_numbers/)
 - [What is the contract {} block and what are some use cases?](https://www.reddit.com/r/Kotlin/comments/uja014/what_is_the_contract_block_and_what_are_some_use/)
 - [App built in Android Studio not working - Logcat error &quot;FATAL EXCEPTION: main&quot;](https://www.reddit.com/r/Kotlin/comments/uj92cg/app_built_in_android_studio_not_working_logcat/)
-- [Am I missing something, or does lateinit kind of undermine Kotlin&#39;s null safety implementation?](https://www.reddit.com/r/Kotlin/comments/uj63su/am_i_missing_something_or_does_lateinit_kind_of/)
-- [Looking for someone to help me make an app](https://www.reddit.com/r/Kotlin/comments/uj46sx/looking_for_someone_to_help_me_make_an_app/)
-- [Jetpack Compose: Kotlin - Getting started](https://www.reddit.com/r/Kotlin/comments/uj3p48/jetpack_compose_kotlin_getting_started/)
-- [Kotlin 1.7.0-Beta Released](https://www.reddit.com/r/Kotlin/comments/uixdo4/kotlin_170beta_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
