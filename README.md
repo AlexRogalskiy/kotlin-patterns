@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there an easier way to fill in a list?](https://www.reddit.com/r/Kotlin/comments/uldjsu/is_there_an_easier_way_to_fill_in_a_list/)
+- [Building a routing system for Pellet, a Kotlin web framework](https://www.reddit.com/r/Kotlin/comments/ulcama/building_a_routing_system_for_pellet_a_kotlin_web/)
+- [Best approach to learn kotlin.](https://www.reddit.com/r/Kotlin/comments/ul5tum/best_approach_to_learn_kotlin/)
+- [TypedConfig: type-safe configuration for Kotlin](https://www.reddit.com/r/Kotlin/comments/ul51kj/typedconfig_typesafe_configuration_for_kotlin/)
+- [Anybody want to learn kotlin together. Things i know, you can learn from me. Things you know you can teach me.](https://www.reddit.com/r/Kotlin/comments/ul3xd2/anybody_want_to_learn_kotlin_together_things_i/)
+- [Material-Intro App:Sophisticated and cool intro with Material Motion Animations&lpar;No more viewpager transformer or Memory leak&rpar;](https://www.reddit.com/r/Kotlin/comments/ukxd3c/materialintro_appsophisticated_and_cool_intro/)
+- [KVision 5.10.0 is released](https://www.reddit.com/r/Kotlin/comments/ukwmpz/kvision_5100_is_released/)
 - [Kradle - Bootstrap projects with hot-reloading, JMH, code-coverage, linting/static analysis, vulnerability analysis, uber-jar/container packaging, and more](https://www.reddit.com/r/Kotlin/comments/ukjpj3/kradle_bootstrap_projects_with_hotreloading_jmh/)
 - [Question about equality operators](https://www.reddit.com/r/Kotlin/comments/ukc8eg/question_about_equality_operators/)
 - [This code has memory leak, isn&#39;t it?](https://www.reddit.com/r/Kotlin/comments/uk7clf/this_code_has_memory_leak_isnt_it/)
-- [What would be a good way to rewrite this when statement?](https://www.reddit.com/r/Kotlin/comments/uk3l11/what_would_be_a_good_way_to_rewrite_this_when/)
-- [Hiring people without Kotlin experience is fine](https://www.reddit.com/r/Kotlin/comments/ujt0pw/hiring_people_without_kotlin_experience_is_fine/)
-- [Design pattern for coroutines sharing mutable state and running serially](https://www.reddit.com/r/Kotlin/comments/ujqq8x/design_pattern_for_coroutines_sharing_mutable/)
-- [Compose Desktop Distributable Icon bug?](https://www.reddit.com/r/Kotlin/comments/ujbemx/compose_desktop_distributable_icon_bug/)
-- [Sum of string numbers](https://www.reddit.com/r/Kotlin/comments/ujatah/sum_of_string_numbers/)
-- [What is the contract {} block and what are some use cases?](https://www.reddit.com/r/Kotlin/comments/uja014/what_is_the_contract_block_and_what_are_some_use/)
-- [App built in Android Studio not working - Logcat error &quot;FATAL EXCEPTION: main&quot;](https://www.reddit.com/r/Kotlin/comments/uj92cg/app_built_in_android_studio_not_working_logcat/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
