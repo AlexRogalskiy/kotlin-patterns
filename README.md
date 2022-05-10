@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [looks so true...](https://www.reddit.com/r/Kotlin/comments/um00um/looks_so_true/)
+- [NullPointerException on layout manager when ids match](https://www.reddit.com/r/Kotlin/comments/ulxbb0/nullpointerexception_on_layout_manager_when_ids/)
+- [Synchronious functions](https://www.reddit.com/r/Kotlin/comments/ulvsiw/synchronious_functions/)
+- [How to get list of all tables in RoomDatabase?](https://www.reddit.com/r/Kotlin/comments/ulv4d7/how_to_get_list_of_all_tables_in_roomdatabase/)
+- [Execute collectLatest only once](https://www.reddit.com/r/Kotlin/comments/ulupny/execute_collectlatest_only_once/)
+- [Can&#39;t manage to make set an OnClickListener to the EndIcon of an input field](https://www.reddit.com/r/Kotlin/comments/ulp9pe/cant_manage_to_make_set_an_onclicklistener_to_the/)
+- [Compile time safety with json serialization](https://www.reddit.com/r/Kotlin/comments/ull0i1/compile_time_safety_with_json_serialization/)
 - [Is there an easier way to fill in a list?](https://www.reddit.com/r/Kotlin/comments/uldjsu/is_there_an_easier_way_to_fill_in_a_list/)
 - [Building a routing system for Pellet, a Kotlin web framework](https://www.reddit.com/r/Kotlin/comments/ulcama/building_a_routing_system_for_pellet_a_kotlin_web/)
 - [Best approach to learn kotlin.](https://www.reddit.com/r/Kotlin/comments/ul5tum/best_approach_to_learn_kotlin/)
-- [TypedConfig: type-safe configuration for Kotlin](https://www.reddit.com/r/Kotlin/comments/ul51kj/typedconfig_typesafe_configuration_for_kotlin/)
-- [Anybody want to learn kotlin together. Things i know, you can learn from me. Things you know you can teach me.](https://www.reddit.com/r/Kotlin/comments/ul3xd2/anybody_want_to_learn_kotlin_together_things_i/)
-- [Material-Intro App:Sophisticated and cool intro with Material Motion Animations&lpar;No more viewpager transformer or Memory leak&rpar;](https://www.reddit.com/r/Kotlin/comments/ukxd3c/materialintro_appsophisticated_and_cool_intro/)
-- [KVision 5.10.0 is released](https://www.reddit.com/r/Kotlin/comments/ukwmpz/kvision_5100_is_released/)
-- [Kradle - Bootstrap projects with hot-reloading, JMH, code-coverage, linting/static analysis, vulnerability analysis, uber-jar/container packaging, and more](https://www.reddit.com/r/Kotlin/comments/ukjpj3/kradle_bootstrap_projects_with_hotreloading_jmh/)
-- [Question about equality operators](https://www.reddit.com/r/Kotlin/comments/ukc8eg/question_about_equality_operators/)
-- [This code has memory leak, isn&#39;t it?](https://www.reddit.com/r/Kotlin/comments/uk7clf/this_code_has_memory_leak_isnt_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
