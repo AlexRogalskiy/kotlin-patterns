@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Have you encountered errors resolving KMP common code dependencies in Intelli / Android Studio?](https://www.reddit.com/r/Kotlin/comments/umszj5/have_you_encountered_errors_resolving_kmp_common/)
+- [Using Kotlin in a Serverless Architecture with AWS Lambda](https://www.reddit.com/r/Kotlin/comments/umpln4/using_kotlin_in_a_serverless_architecture_with/)
+- [Is it possible to project an altered pixel color value to a background image in jetpack compose?](https://www.reddit.com/r/Kotlin/comments/umm017/is_it_possible_to_project_an_altered_pixel_color/)
+- [Event Streaming with Apache Pulsar and Kotlin starts in 30 minutes! Join the stream ➡️](https://www.reddit.com/r/Kotlin/comments/umlf8g/event_streaming_with_apache_pulsar_and_kotlin/)
+- [Connecting Kotlin to ESP32](https://www.reddit.com/r/Kotlin/comments/umkjfq/connecting_kotlin_to_esp32/)
+- [help me run this project properly](https://www.reddit.com/r/Kotlin/comments/umg70r/help_me_run_this_project_properly/)
+- [Currying en Kotlin](https://www.reddit.com/r/Kotlin/comments/umaeiy/currying_en_kotlin/)
+- [I built an IntelliJ plugin that refactors usages of the default &quot;it&quot; with properly named arguments. I will be publishing it soon once I get some things cleaned up but wanted to get some feedback here first!](https://www.reddit.com/r/Kotlin/comments/um8pi6/i_built_an_intellij_plugin_that_refactors_usages/)
+- [Need help to create an vnc server in kotlin or in java for Android](https://www.reddit.com/r/Kotlin/comments/um7q19/need_help_to_create_an_vnc_server_in_kotlin_or_in/)
 - [looks so true...](https://www.reddit.com/r/Kotlin/comments/um00um/looks_so_true/)
-- [NullPointerException on layout manager when ids match](https://www.reddit.com/r/Kotlin/comments/ulxbb0/nullpointerexception_on_layout_manager_when_ids/)
-- [Synchronious functions](https://www.reddit.com/r/Kotlin/comments/ulvsiw/synchronious_functions/)
-- [How to get list of all tables in RoomDatabase?](https://www.reddit.com/r/Kotlin/comments/ulv4d7/how_to_get_list_of_all_tables_in_roomdatabase/)
-- [Execute collectLatest only once](https://www.reddit.com/r/Kotlin/comments/ulupny/execute_collectlatest_only_once/)
-- [Can&#39;t manage to make set an OnClickListener to the EndIcon of an input field](https://www.reddit.com/r/Kotlin/comments/ulp9pe/cant_manage_to_make_set_an_onclicklistener_to_the/)
-- [Compile time safety with json serialization](https://www.reddit.com/r/Kotlin/comments/ull0i1/compile_time_safety_with_json_serialization/)
-- [Is there an easier way to fill in a list?](https://www.reddit.com/r/Kotlin/comments/uldjsu/is_there_an_easier_way_to_fill_in_a_list/)
-- [Building a routing system for Pellet, a Kotlin web framework](https://www.reddit.com/r/Kotlin/comments/ulcama/building_a_routing_system_for_pellet_a_kotlin_web/)
-- [Best approach to learn kotlin.](https://www.reddit.com/r/Kotlin/comments/ul5tum/best_approach_to_learn_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
