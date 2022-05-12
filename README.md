@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin newbie here, where is the best place to get started?](https://www.reddit.com/r/Kotlin/comments/unoapc/kotlin_newbie_here_where_is_the_best_place_to_get/)
+- [What is the Context in Android Development?](https://www.reddit.com/r/Kotlin/comments/unjotp/what_is_the_context_in_android_development/)
+- [Deployment Help Wanted](https://www.reddit.com/r/Kotlin/comments/undgz4/deployment_help_wanted/)
+- [is there any way to read and parse a build.gradle.kts file?](https://www.reddit.com/r/Kotlin/comments/unaalv/is_there_any_way_to_read_and_parse_a/)
+- [🚀 Externalized Properties for Java [Alpha Release] - https://github.com/joeljeremy7/externalized-properties](https://www.reddit.com/r/Kotlin/comments/un8fmo/externalized_properties_for_java_alpha_release/)
+- [Have you ever wondered how certain features of Kotlin came to be?](https://www.reddit.com/r/Kotlin/comments/un70ll/have_you_ever_wondered_how_certain_features_of/)
+- [Simon is back with Kotlin GameDev series](https://www.reddit.com/r/Kotlin/comments/un3kix/simon_is_back_with_kotlin_gamedev_series/)
+- [Why is there no cbrt function in kotlin.math?](https://www.reddit.com/r/Kotlin/comments/un2n31/why_is_there_no_cbrt_function_in_kotlinmath/)
 - [Have you encountered errors resolving KMP common code dependencies in Intelli / Android Studio?](https://www.reddit.com/r/Kotlin/comments/umszj5/have_you_encountered_errors_resolving_kmp_common/)
 - [Using Kotlin in a Serverless Architecture with AWS Lambda](https://www.reddit.com/r/Kotlin/comments/umpln4/using_kotlin_in_a_serverless_architecture_with/)
-- [Is it possible to project an altered pixel color value to a background image in jetpack compose?](https://www.reddit.com/r/Kotlin/comments/umm017/is_it_possible_to_project_an_altered_pixel_color/)
-- [Event Streaming with Apache Pulsar and Kotlin starts in 30 minutes! Join the stream ➡️](https://www.reddit.com/r/Kotlin/comments/umlf8g/event_streaming_with_apache_pulsar_and_kotlin/)
-- [Connecting Kotlin to ESP32](https://www.reddit.com/r/Kotlin/comments/umkjfq/connecting_kotlin_to_esp32/)
-- [help me run this project properly](https://www.reddit.com/r/Kotlin/comments/umg70r/help_me_run_this_project_properly/)
-- [Currying en Kotlin](https://www.reddit.com/r/Kotlin/comments/umaeiy/currying_en_kotlin/)
-- [I built an IntelliJ plugin that refactors usages of the default &quot;it&quot; with properly named arguments. I will be publishing it soon once I get some things cleaned up but wanted to get some feedback here first!](https://www.reddit.com/r/Kotlin/comments/um8pi6/i_built_an_intellij_plugin_that_refactors_usages/)
-- [Need help to create an vnc server in kotlin or in java for Android](https://www.reddit.com/r/Kotlin/comments/um7q19/need_help_to_create_an_vnc_server_in_kotlin_or_in/)
-- [looks so true...](https://www.reddit.com/r/Kotlin/comments/um00um/looks_so_true/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
