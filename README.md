@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do you think about Kotlin?](https://www.reddit.com/r/Kotlin/comments/uo8s18/what_do_you_think_about_kotlin/)
+- [Android App First Launch](https://www.reddit.com/r/Kotlin/comments/uo8bip/android_app_first_launch/)
+- [Elvis returns – or throws! 🕺 In our latest quick tip, Seb explains why the `?:` is named after the famous singer, and how you can use the operator to tame nullability when returning values or throwing exceptions. Watch now and learn something new!](https://www.reddit.com/r/Kotlin/comments/uo1w4p/elvis_returns_or_throws_in_our_latest_quick_tip/)
+- [reading from excel file](https://www.reddit.com/r/Kotlin/comments/unypet/reading_from_excel_file/)
+- [Books on Kotlin native and desktop app programming](https://www.reddit.com/r/Kotlin/comments/unss1x/books_on_kotlin_native_and_desktop_app_programming/)
 - [Kotlin newbie here, where is the best place to get started?](https://www.reddit.com/r/Kotlin/comments/unoapc/kotlin_newbie_here_where_is_the_best_place_to_get/)
 - [What is the Context in Android Development?](https://www.reddit.com/r/Kotlin/comments/unjotp/what_is_the_context_in_android_development/)
 - [Deployment Help Wanted](https://www.reddit.com/r/Kotlin/comments/undgz4/deployment_help_wanted/)
 - [is there any way to read and parse a build.gradle.kts file?](https://www.reddit.com/r/Kotlin/comments/unaalv/is_there_any_way_to_read_and_parse_a/)
 - [🚀 Externalized Properties for Java [Alpha Release] - https://github.com/joeljeremy7/externalized-properties](https://www.reddit.com/r/Kotlin/comments/un8fmo/externalized_properties_for_java_alpha_release/)
-- [Have you ever wondered how certain features of Kotlin came to be?](https://www.reddit.com/r/Kotlin/comments/un70ll/have_you_ever_wondered_how_certain_features_of/)
-- [Simon is back with Kotlin GameDev series](https://www.reddit.com/r/Kotlin/comments/un3kix/simon_is_back_with_kotlin_gamedev_series/)
-- [Why is there no cbrt function in kotlin.math?](https://www.reddit.com/r/Kotlin/comments/un2n31/why_is_there_no_cbrt_function_in_kotlinmath/)
-- [Have you encountered errors resolving KMP common code dependencies in Intelli / Android Studio?](https://www.reddit.com/r/Kotlin/comments/umszj5/have_you_encountered_errors_resolving_kmp_common/)
-- [Using Kotlin in a Serverless Architecture with AWS Lambda](https://www.reddit.com/r/Kotlin/comments/umpln4/using_kotlin_in_a_serverless_architecture_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
