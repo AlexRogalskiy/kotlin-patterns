@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What do you think about Kotlin?](https://www.reddit.com/r/Kotlin/comments/uo8s18/what_do_you_think_about_kotlin/)
-- [Android App First Launch](https://www.reddit.com/r/Kotlin/comments/uo8bip/android_app_first_launch/)
-- [Elvis returns – or throws! 🕺 In our latest quick tip, Seb explains why the `?:` is named after the famous singer, and how you can use the operator to tame nullability when returning values or throwing exceptions. Watch now and learn something new!](https://www.reddit.com/r/Kotlin/comments/uo1w4p/elvis_returns_or_throws_in_our_latest_quick_tip/)
-- [reading from excel file](https://www.reddit.com/r/Kotlin/comments/unypet/reading_from_excel_file/)
-- [Books on Kotlin native and desktop app programming](https://www.reddit.com/r/Kotlin/comments/unss1x/books_on_kotlin_native_and_desktop_app_programming/)
-- [Kotlin newbie here, where is the best place to get started?](https://www.reddit.com/r/Kotlin/comments/unoapc/kotlin_newbie_here_where_is_the_best_place_to_get/)
-- [What is the Context in Android Development?](https://www.reddit.com/r/Kotlin/comments/unjotp/what_is_the_context_in_android_development/)
-- [Deployment Help Wanted](https://www.reddit.com/r/Kotlin/comments/undgz4/deployment_help_wanted/)
-- [is there any way to read and parse a build.gradle.kts file?](https://www.reddit.com/r/Kotlin/comments/unaalv/is_there_any_way_to_read_and_parse_a/)
-- [🚀 Externalized Properties for Java [Alpha Release] - https://github.com/joeljeremy7/externalized-properties](https://www.reddit.com/r/Kotlin/comments/un8fmo/externalized_properties_for_java_alpha_release/)
+- [Using Kotlin in a Serverless Architecture with AWS Lambda — Part 5: Testing Your Code](https://www.reddit.com/r/Kotlin/comments/up23jz/using_kotlin_in_a_serverless_architecture_with/)
+- [The 2022 Developer Survey is now open](https://www.reddit.com/r/Kotlin/comments/uoyt6r/the_2022_developer_survey_is_now_open/)
+- [Learning Kotlin right now. The minimal amount of code needed to write classes is kind of blowing my mind](https://www.reddit.com/r/Kotlin/comments/uowoek/learning_kotlin_right_now_the_minimal_amount_of/)
+- [GitHub - cmpxchg16/kotlin-loom: Experiment project for Kotlin Programming Language with the new concurrency model Virtual Threads in OpenJDK Project Loom](https://www.reddit.com/r/Kotlin/comments/uou1q0/github_cmpxchg16kotlinloom_experiment_project_for/)
+- [Wheres the next kotlin roadmap?](https://www.reddit.com/r/Kotlin/comments/uotg6k/wheres_the_next_kotlin_roadmap/)
+- [How the stdlib retrocompatibiliy works ?](https://www.reddit.com/r/Kotlin/comments/uosml5/how_the_stdlib_retrocompatibiliy_works/)
+- [Has anyone done any benchmarks regarding the effects of using wildcards on compilation time?](https://www.reddit.com/r/Kotlin/comments/uona78/has_anyone_done_any_benchmarks_regarding_the/)
+- [🔦 What do you think about the Kover code coverage tool?](https://www.reddit.com/r/Kotlin/comments/uona4w/what_do_you_think_about_the_kover_code_coverage/)
+- [Does emptyList&lpar;&rpar; make my variable uneditable?](https://www.reddit.com/r/Kotlin/comments/uomvoj/does_emptylist_make_my_variable_uneditable/)
+- [Java Hashtable, HashMap, ConcurrentHashMap – Performance impact](https://www.reddit.com/r/Kotlin/comments/uoklje/java_hashtable_hashmap_concurrenthashmap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
