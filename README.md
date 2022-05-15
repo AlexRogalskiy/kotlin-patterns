@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a way to pass the same argument to all the parameters for a function without repeating yourself?](https://www.reddit.com/r/Kotlin/comments/upkzt1/is_there_a_way_to_pass_the_same_argument_to_all/)
 - [Using Kotlin in a Serverless Architecture with AWS Lambda — Part 5: Testing Your Code](https://www.reddit.com/r/Kotlin/comments/up23jz/using_kotlin_in_a_serverless_architecture_with/)
 - [The 2022 Developer Survey is now open](https://www.reddit.com/r/Kotlin/comments/uoyt6r/the_2022_developer_survey_is_now_open/)
 - [Learning Kotlin right now. The minimal amount of code needed to write classes is kind of blowing my mind](https://www.reddit.com/r/Kotlin/comments/uowoek/learning_kotlin_right_now_the_minimal_amount_of/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Has anyone done any benchmarks regarding the effects of using wildcards on compilation time?](https://www.reddit.com/r/Kotlin/comments/uona78/has_anyone_done_any_benchmarks_regarding_the/)
 - [🔦 What do you think about the Kover code coverage tool?](https://www.reddit.com/r/Kotlin/comments/uona4w/what_do_you_think_about_the_kover_code_coverage/)
 - [Does emptyList&lpar;&rpar; make my variable uneditable?](https://www.reddit.com/r/Kotlin/comments/uomvoj/does_emptylist_make_my_variable_uneditable/)
-- [Java Hashtable, HashMap, ConcurrentHashMap – Performance impact](https://www.reddit.com/r/Kotlin/comments/uoklje/java_hashtable_hashmap_concurrenthashmap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
