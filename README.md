@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Shoulders of Giants: Languages Kotlin Learned From &lpar;uploaded 3 days ago, not sure when recorded&rpar;](https://www.reddit.com/r/Kotlin/comments/uq5usz/shoulders_of_giants_languages_kotlin_learned_from/)
+- [What languages do you like as much as or more than Kotlin?](https://www.reddit.com/r/Kotlin/comments/upwwbg/what_languages_do_you_like_as_much_as_or_more/)
 - [Is there a way to pass the same argument to all the parameters for a function without repeating yourself?](https://www.reddit.com/r/Kotlin/comments/upkzt1/is_there_a_way_to_pass_the_same_argument_to_all/)
 - [Using Kotlin in a Serverless Architecture with AWS Lambda — Part 5: Testing Your Code](https://www.reddit.com/r/Kotlin/comments/up23jz/using_kotlin_in_a_serverless_architecture_with/)
 - [The 2022 Developer Survey is now open](https://www.reddit.com/r/Kotlin/comments/uoyt6r/the_2022_developer_survey_is_now_open/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Wheres the next kotlin roadmap?](https://www.reddit.com/r/Kotlin/comments/uotg6k/wheres_the_next_kotlin_roadmap/)
 - [How the stdlib retrocompatibiliy works ?](https://www.reddit.com/r/Kotlin/comments/uosml5/how_the_stdlib_retrocompatibiliy_works/)
 - [Has anyone done any benchmarks regarding the effects of using wildcards on compilation time?](https://www.reddit.com/r/Kotlin/comments/uona78/has_anyone_done_any_benchmarks_regarding_the/)
-- [🔦 What do you think about the Kover code coverage tool?](https://www.reddit.com/r/Kotlin/comments/uona4w/what_do_you_think_about_the_kover_code_coverage/)
-- [Does emptyList&lpar;&rpar; make my variable uneditable?](https://www.reddit.com/r/Kotlin/comments/uomvoj/does_emptylist_make_my_variable_uneditable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
