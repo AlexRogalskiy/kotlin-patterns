@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the best use of a scope function you&#39;ve seen?](https://www.reddit.com/r/Kotlin/comments/ur7le2/what_is_the_best_use_of_a_scope_function_youve/)
+- [Best way to find first matching element from collection](https://www.reddit.com/r/Kotlin/comments/ur3uew/best_way_to_find_first_matching_element_from/)
+- [Raising code quality for Faire’s Kotlin codebase](https://www.reddit.com/r/Kotlin/comments/ur3d5v/raising_code_quality_for_faires_kotlin_codebase/)
+- [Implementing Coroutines in existing API](https://www.reddit.com/r/Kotlin/comments/uqrzg9/implementing_coroutines_in_existing_api/)
+- [I always wanted to give coding videos a try, so I made one, about Kotlin. Feedback most appreciated.](https://www.reddit.com/r/Kotlin/comments/uqrj47/i_always_wanted_to_give_coding_videos_a_try_so_i/)
 - [Shoulders of Giants: Languages Kotlin Learned From &lpar;uploaded 3 days ago, not sure when recorded&rpar;](https://www.reddit.com/r/Kotlin/comments/uq5usz/shoulders_of_giants_languages_kotlin_learned_from/)
 - [What languages do you like as much as or more than Kotlin?](https://www.reddit.com/r/Kotlin/comments/upwwbg/what_languages_do_you_like_as_much_as_or_more/)
 - [Is there a way to pass the same argument to all the parameters for a function without repeating yourself?](https://www.reddit.com/r/Kotlin/comments/upkzt1/is_there_a_way_to_pass_the_same_argument_to_all/)
 - [Using Kotlin in a Serverless Architecture with AWS Lambda — Part 5: Testing Your Code](https://www.reddit.com/r/Kotlin/comments/up23jz/using_kotlin_in_a_serverless_architecture_with/)
 - [The 2022 Developer Survey is now open](https://www.reddit.com/r/Kotlin/comments/uoyt6r/the_2022_developer_survey_is_now_open/)
-- [Learning Kotlin right now. The minimal amount of code needed to write classes is kind of blowing my mind](https://www.reddit.com/r/Kotlin/comments/uowoek/learning_kotlin_right_now_the_minimal_amount_of/)
-- [GitHub - cmpxchg16/kotlin-loom: Experiment project for Kotlin Programming Language with the new concurrency model Virtual Threads in OpenJDK Project Loom](https://www.reddit.com/r/Kotlin/comments/uou1q0/github_cmpxchg16kotlinloom_experiment_project_for/)
-- [Wheres the next kotlin roadmap?](https://www.reddit.com/r/Kotlin/comments/uotg6k/wheres_the_next_kotlin_roadmap/)
-- [How the stdlib retrocompatibiliy works ?](https://www.reddit.com/r/Kotlin/comments/uosml5/how_the_stdlib_retrocompatibiliy_works/)
-- [Has anyone done any benchmarks regarding the effects of using wildcards on compilation time?](https://www.reddit.com/r/Kotlin/comments/uona78/has_anyone_done_any_benchmarks_regarding_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
