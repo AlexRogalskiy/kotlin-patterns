@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin and Hibernate/JPA Entities](https://www.reddit.com/r/Kotlin/comments/usi2bf/kotlin_and_hibernatejpa_entities/)
+- [Kotlin RPG gamedev series from Simon. Preview &lpar;✷‿✷&rpar;](https://www.reddit.com/r/Kotlin/comments/useft8/kotlin_rpg_gamedev_series_from_simon_preview/)
+- [Aside from Android development, is Kotlin growing in use?](https://www.reddit.com/r/Kotlin/comments/usamlm/aside_from_android_development_is_kotlin_growing/)
+- [Top Examples Of Popular Apps Built With Kotlin](https://www.reddit.com/r/Kotlin/comments/us8jwl/top_examples_of_popular_apps_built_with_kotlin/)
+- [Programming Kotlin: Why, How &amp; Its Future • Venkat Subramaniam &amp; Hadi Hariri](https://www.reddit.com/r/Kotlin/comments/us7szm/programming_kotlin_why_how_its_future_venkat/)
+- [Kotlin vs Dart &lpar;Compose vs Flutter&rpar;](https://www.reddit.com/r/Kotlin/comments/us6ki4/kotlin_vs_dart_compose_vs_flutter/)
 - [2022 Stack Overflow Developer Survey](https://www.reddit.com/r/Kotlin/comments/us2qd2/2022_stack_overflow_developer_survey/)
 - [Navigate from item in recyclerview to new fragment](https://www.reddit.com/r/Kotlin/comments/uruyun/navigate_from_item_in_recyclerview_to_new_fragment/)
 - [A fully functional Android app built entirely with Kotlin and Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/urnzt4/a_fully_functional_android_app_built_entirely/)
 - [Coding](https://www.reddit.com/r/Kotlin/comments/urdkxy/coding/)
-- [What is the best use of a scope function you&#39;ve seen?](https://www.reddit.com/r/Kotlin/comments/ur7le2/what_is_the_best_use_of_a_scope_function_youve/)
-- [Best way to find first matching element from collection](https://www.reddit.com/r/Kotlin/comments/ur3uew/best_way_to_find_first_matching_element_from/)
-- [Raising code quality for Faire’s Kotlin codebase](https://www.reddit.com/r/Kotlin/comments/ur3d5v/raising_code_quality_for_faires_kotlin_codebase/)
-- [Implementing Coroutines in existing API](https://www.reddit.com/r/Kotlin/comments/uqrzg9/implementing_coroutines_in_existing_api/)
-- [I always wanted to give coding videos a try, so I made one, about Kotlin. Feedback most appreciated.](https://www.reddit.com/r/Kotlin/comments/uqrj47/i_always_wanted_to_give_coding_videos_a_try_so_i/)
-- [Shoulders of Giants: Languages Kotlin Learned From &lpar;uploaded 3 days ago, not sure when recorded&rpar;](https://www.reddit.com/r/Kotlin/comments/uq5usz/shoulders_of_giants_languages_kotlin_learned_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
