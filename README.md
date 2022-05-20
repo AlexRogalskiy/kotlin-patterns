@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why `init` inside `companion object`?](https://www.reddit.com/r/Kotlin/comments/utdn19/why_init_inside_companion_object/)
+- [When you have multiple functions with the same name, how do you get your code to call exactly the function you need? ☎️ Fully qualified names come to the rescue! Watch Sebastian take you through an example in our latest Kotlin quick tip!](https://www.reddit.com/r/Kotlin/comments/ut6h0z/when_you_have_multiple_functions_with_the_same/)
+- [Kotlin Dev Day 2022 - Amsterdam](https://www.reddit.com/r/Kotlin/comments/ut536s/kotlin_dev_day_2022_amsterdam/)
+- [Xcode Kotlin CLI](https://www.reddit.com/r/Kotlin/comments/ut3nxy/xcode_kotlin_cli/)
+- [KMM extracting a zip file, struggling with iOS side.](https://www.reddit.com/r/Kotlin/comments/ut2n62/kmm_extracting_a_zip_file_struggling_with_ios_side/)
+- [Is it a good rule of thumb to &quot;always&quot; include CoroutineScope as a closure parameter receiver for &lpar;non-inline&rpar; suspend APIs?](https://www.reddit.com/r/Kotlin/comments/ut2lf7/is_it_a_good_rule_of_thumb_to_always_include/)
 - [Kotlin and Hibernate/JPA Entities](https://www.reddit.com/r/Kotlin/comments/usi2bf/kotlin_and_hibernatejpa_entities/)
 - [Kotlin RPG gamedev series from Simon. Preview &lpar;✷‿✷&rpar;](https://www.reddit.com/r/Kotlin/comments/useft8/kotlin_rpg_gamedev_series_from_simon_preview/)
 - [Aside from Android development, is Kotlin growing in use?](https://www.reddit.com/r/Kotlin/comments/usamlm/aside_from_android_development_is_kotlin_growing/)
 - [Top Examples Of Popular Apps Built With Kotlin](https://www.reddit.com/r/Kotlin/comments/us8jwl/top_examples_of_popular_apps_built_with_kotlin/)
-- [Programming Kotlin: Why, How &amp; Its Future • Venkat Subramaniam &amp; Hadi Hariri](https://www.reddit.com/r/Kotlin/comments/us7szm/programming_kotlin_why_how_its_future_venkat/)
-- [Kotlin vs Dart &lpar;Compose vs Flutter&rpar;](https://www.reddit.com/r/Kotlin/comments/us6ki4/kotlin_vs_dart_compose_vs_flutter/)
-- [2022 Stack Overflow Developer Survey](https://www.reddit.com/r/Kotlin/comments/us2qd2/2022_stack_overflow_developer_survey/)
-- [Navigate from item in recyclerview to new fragment](https://www.reddit.com/r/Kotlin/comments/uruyun/navigate_from_item_in_recyclerview_to_new_fragment/)
-- [A fully functional Android app built entirely with Kotlin and Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/urnzt4/a_fully_functional_android_app_built_entirely/)
-- [Coding](https://www.reddit.com/r/Kotlin/comments/urdkxy/coding/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
