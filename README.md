@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [About custom Kotlin DSLs](https://www.reddit.com/r/Kotlin/comments/uuwhj5/about_custom_kotlin_dsls/)
+- [Functional programming in Kotlin: exploring Arrow](https://www.reddit.com/r/Kotlin/comments/uup1er/functional_programming_in_kotlin_exploring_arrow/)
+- [I copied Go&#39;s defer to Kotlin](https://www.reddit.com/r/Kotlin/comments/uuogfx/i_copied_gos_defer_to_kotlin/)
+- [Language Design in the Real World | SIGPLAN Blog](https://www.reddit.com/r/Kotlin/comments/uuh4qr/language_design_in_the_real_world_sigplan_blog/)
+- [I have just started learning Kotlin, Intellij is showing this error in println&lpar;&rpar; function, can someone help me out? please!](https://www.reddit.com/r/Kotlin/comments/uugkuy/i_have_just_started_learning_kotlin_intellij_is/)
 - [How to implement a ternary operator in Kotlin, sort of.](https://www.reddit.com/r/Kotlin/comments/uua2bl/how_to_implement_a_ternary_operator_in_kotlin/)
 - [I have a problem with running commands](https://www.reddit.com/r/Kotlin/comments/uu1bfp/i_have_a_problem_with_running_commands/)
 - [Speeding up Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/utytv8/speeding_up_kotlin_multiplatform/)
 - [Kotlin 1.7.0-RC is out](https://www.reddit.com/r/Kotlin/comments/utyeyc/kotlin_170rc_is_out/)
 - [Why `init` inside `companion object`?](https://www.reddit.com/r/Kotlin/comments/utdn19/why_init_inside_companion_object/)
-- [When you have multiple functions with the same name, how do you get your code to call exactly the function you need? ☎️ Fully qualified names come to the rescue! Watch Sebastian take you through an example in our latest Kotlin quick tip!](https://www.reddit.com/r/Kotlin/comments/ut6h0z/when_you_have_multiple_functions_with_the_same/)
-- [Kotlin Dev Day 2022 - Amsterdam](https://www.reddit.com/r/Kotlin/comments/ut536s/kotlin_dev_day_2022_amsterdam/)
-- [Xcode Kotlin CLI](https://www.reddit.com/r/Kotlin/comments/ut3nxy/xcode_kotlin_cli/)
-- [KMM extracting a zip file, struggling with iOS side.](https://www.reddit.com/r/Kotlin/comments/ut2n62/kmm_extracting_a_zip_file_struggling_with_ios_side/)
-- [Is it a good rule of thumb to &quot;always&quot; include CoroutineScope as a closure parameter receiver for &lpar;non-inline&rpar; suspend APIs?](https://www.reddit.com/r/Kotlin/comments/ut2lf7/is_it_a_good_rule_of_thumb_to_always_include/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
