@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to populate ktor server from another REST api?](https://www.reddit.com/r/Kotlin/comments/uv9b26/how_to_populate_ktor_server_from_another_rest_api/)
+- [Help, im new !](https://www.reddit.com/r/Kotlin/comments/uv7n1g/help_im_new/)
 - [About custom Kotlin DSLs](https://www.reddit.com/r/Kotlin/comments/uuwhj5/about_custom_kotlin_dsls/)
 - [Functional programming in Kotlin: exploring Arrow](https://www.reddit.com/r/Kotlin/comments/uup1er/functional_programming_in_kotlin_exploring_arrow/)
 - [I copied Go&#39;s defer to Kotlin](https://www.reddit.com/r/Kotlin/comments/uuogfx/i_copied_gos_defer_to_kotlin/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to implement a ternary operator in Kotlin, sort of.](https://www.reddit.com/r/Kotlin/comments/uua2bl/how_to_implement_a_ternary_operator_in_kotlin/)
 - [I have a problem with running commands](https://www.reddit.com/r/Kotlin/comments/uu1bfp/i_have_a_problem_with_running_commands/)
 - [Speeding up Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/utytv8/speeding_up_kotlin_multiplatform/)
-- [Kotlin 1.7.0-RC is out](https://www.reddit.com/r/Kotlin/comments/utyeyc/kotlin_170rc_is_out/)
-- [Why `init` inside `companion object`?](https://www.reddit.com/r/Kotlin/comments/utdn19/why_init_inside_companion_object/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
