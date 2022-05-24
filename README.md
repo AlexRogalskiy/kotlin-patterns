@@ -272,11 +272,11 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [list doesn&#39;t update when deleting item](https://www.reddit.com/r/Kotlin/comments/uw9nbd/list_doesnt_update_when_deleting_item/)
 - [How to populate ktor server from another REST api?](https://www.reddit.com/r/Kotlin/comments/uv9b26/how_to_populate_ktor_server_from_another_rest_api/)
 - [Help, im new !](https://www.reddit.com/r/Kotlin/comments/uv7n1g/help_im_new/)
 - [About custom Kotlin DSLs](https://www.reddit.com/r/Kotlin/comments/uuwhj5/about_custom_kotlin_dsls/)
 - [Functional programming in Kotlin: exploring Arrow](https://www.reddit.com/r/Kotlin/comments/uup1er/functional_programming_in_kotlin_exploring_arrow/)
-- [I copied Go&#39;s defer to Kotlin](https://www.reddit.com/r/Kotlin/comments/uuogfx/i_copied_gos_defer_to_kotlin/)
 - [Language Design in the Real World | SIGPLAN Blog](https://www.reddit.com/r/Kotlin/comments/uuh4qr/language_design_in_the_real_world_sigplan_blog/)
 - [I have just started learning Kotlin, Intellij is showing this error in println&lpar;&rpar; function, can someone help me out? please!](https://www.reddit.com/r/Kotlin/comments/uugkuy/i_have_just_started_learning_kotlin_intellij_is/)
 - [How to implement a ternary operator in Kotlin, sort of.](https://www.reddit.com/r/Kotlin/comments/uua2bl/how_to_implement_a_ternary_operator_in_kotlin/)
