@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Help] Create dropdown menu with Kotlin](https://www.reddit.com/r/Kotlin/comments/ux1k7i/help_create_dropdown_menu_with_kotlin/)
+- [How to print emojis in Kotlin](https://www.reddit.com/r/Kotlin/comments/ux0d68/how_to_print_emojis_in_kotlin/)
+- [Ktor Package Based Routing](https://www.reddit.com/r/Kotlin/comments/uwxejx/ktor_package_based_routing/)
+- [How to do a Loop that goes through a documentPath?](https://www.reddit.com/r/Kotlin/comments/uwvkxx/how_to_do_a_loop_that_goes_through_a_documentpath/)
+- [I have build a android app called Just Listen and it is open source](https://www.reddit.com/r/Kotlin/comments/uwuw99/i_have_build_a_android_app_called_just_listen_and/)
 - [list doesn&#39;t update when deleting item](https://www.reddit.com/r/Kotlin/comments/uw9nbd/list_doesnt_update_when_deleting_item/)
 - [How to populate ktor server from another REST api?](https://www.reddit.com/r/Kotlin/comments/uv9b26/how_to_populate_ktor_server_from_another_rest_api/)
 - [Help, im new !](https://www.reddit.com/r/Kotlin/comments/uv7n1g/help_im_new/)
 - [About custom Kotlin DSLs](https://www.reddit.com/r/Kotlin/comments/uuwhj5/about_custom_kotlin_dsls/)
 - [Functional programming in Kotlin: exploring Arrow](https://www.reddit.com/r/Kotlin/comments/uup1er/functional_programming_in_kotlin_exploring_arrow/)
-- [Language Design in the Real World | SIGPLAN Blog](https://www.reddit.com/r/Kotlin/comments/uuh4qr/language_design_in_the_real_world_sigplan_blog/)
-- [I have just started learning Kotlin, Intellij is showing this error in println&lpar;&rpar; function, can someone help me out? please!](https://www.reddit.com/r/Kotlin/comments/uugkuy/i_have_just_started_learning_kotlin_intellij_is/)
-- [How to implement a ternary operator in Kotlin, sort of.](https://www.reddit.com/r/Kotlin/comments/uua2bl/how_to_implement_a_ternary_operator_in_kotlin/)
-- [I have a problem with running commands](https://www.reddit.com/r/Kotlin/comments/uu1bfp/i_have_a_problem_with_running_commands/)
-- [Speeding up Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/utytv8/speeding_up_kotlin_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
