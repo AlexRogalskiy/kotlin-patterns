@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [For builds: Gradle vs Maven vs IntelliJ](https://www.reddit.com/r/Kotlin/comments/uxmi8y/for_builds_gradle_vs_maven_vs_intellij/)
+- [What’s new with Multiplatform in Apollo Kotlin](https://www.reddit.com/r/Kotlin/comments/uxl8hn/whats_new_with_multiplatform_in_apollo_kotlin/)
+- [Using the Bing Maps SDK with Jetpack Compose, but how?](https://www.reddit.com/r/Kotlin/comments/uxiumm/using_the_bing_maps_sdk_with_jetpack_compose_but/)
+- [Connection refused: no further information when making a request in ktor](https://www.reddit.com/r/Kotlin/comments/uxhvwx/connection_refused_no_further_information_when/)
 - [[Help] Create dropdown menu with Kotlin](https://www.reddit.com/r/Kotlin/comments/ux1k7i/help_create_dropdown_menu_with_kotlin/)
 - [How to print emojis in Kotlin](https://www.reddit.com/r/Kotlin/comments/ux0d68/how_to_print_emojis_in_kotlin/)
 - [Ktor Package Based Routing](https://www.reddit.com/r/Kotlin/comments/uwxejx/ktor_package_based_routing/)
 - [How to do a Loop that goes through a documentPath?](https://www.reddit.com/r/Kotlin/comments/uwvkxx/how_to_do_a_loop_that_goes_through_a_documentpath/)
 - [I have build a android app called Just Listen and it is open source](https://www.reddit.com/r/Kotlin/comments/uwuw99/i_have_build_a_android_app_called_just_listen_and/)
 - [list doesn&#39;t update when deleting item](https://www.reddit.com/r/Kotlin/comments/uw9nbd/list_doesnt_update_when_deleting_item/)
-- [How to populate ktor server from another REST api?](https://www.reddit.com/r/Kotlin/comments/uv9b26/how_to_populate_ktor_server_from_another_rest_api/)
-- [Help, im new !](https://www.reddit.com/r/Kotlin/comments/uv7n1g/help_im_new/)
-- [About custom Kotlin DSLs](https://www.reddit.com/r/Kotlin/comments/uuwhj5/about_custom_kotlin_dsls/)
-- [Functional programming in Kotlin: exploring Arrow](https://www.reddit.com/r/Kotlin/comments/uup1er/functional_programming_in_kotlin_exploring_arrow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
