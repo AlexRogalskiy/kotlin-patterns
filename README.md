@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [replacement of maxBy??](https://www.reddit.com/r/Kotlin/comments/uyhbdc/replacement_of_maxby/)
+- [wich way better saving videos progress with save state or with DB? when there many videos to watch in app](https://www.reddit.com/r/Kotlin/comments/uyezd2/wich_way_better_saving_videos_progress_with_save/)
+- [Kotlin Standard Library functions like map, filter, and repeat allow you to call `suspend` functions in the lambda parameter, but nothing in their signature indicates suspension. How do they do it? 🕵️ Sebastian has the answer: It’s all about inlining.](https://www.reddit.com/r/Kotlin/comments/uyd6in/kotlin_standard_library_functions_like_map_filter/)
+- [Cheat Sheet - 40+ example Http Client SSL TLS Configuration with http requests](https://www.reddit.com/r/Kotlin/comments/uy5b07/cheat_sheet_40_example_http_client_ssl_tls/)
+- [S2 Data Science IDE for Kotlin](https://www.reddit.com/r/Kotlin/comments/uy4kce/s2_data_science_ide_for_kotlin/)
+- [S2 Data Science IDE with Kotlin](https://www.reddit.com/r/Kotlin/comments/uy4ir1/s2_data_science_ide_with_kotlin/)
+- [Pure Kotlin - Beautiful World Without Loops &amp; Variables • Jarek Ratajski • Devoxx Poland 2021](https://www.reddit.com/r/Kotlin/comments/uy12hm/pure_kotlin_beautiful_world_without_loops/)
+- [Stacktrace-decoroutinator v.2.3.2 with Java Instrumentation API support](https://www.reddit.com/r/Kotlin/comments/uy08hw/stacktracedecoroutinator_v232_with_java/)
 - [For builds: Gradle vs Maven vs IntelliJ](https://www.reddit.com/r/Kotlin/comments/uxmi8y/for_builds_gradle_vs_maven_vs_intellij/)
 - [What’s new with Multiplatform in Apollo Kotlin](https://www.reddit.com/r/Kotlin/comments/uxl8hn/whats_new_with_multiplatform_in_apollo_kotlin/)
-- [Using the Bing Maps SDK with Jetpack Compose, but how?](https://www.reddit.com/r/Kotlin/comments/uxiumm/using_the_bing_maps_sdk_with_jetpack_compose_but/)
-- [Connection refused: no further information when making a request in ktor](https://www.reddit.com/r/Kotlin/comments/uxhvwx/connection_refused_no_further_information_when/)
-- [[Help] Create dropdown menu with Kotlin](https://www.reddit.com/r/Kotlin/comments/ux1k7i/help_create_dropdown_menu_with_kotlin/)
-- [How to print emojis in Kotlin](https://www.reddit.com/r/Kotlin/comments/ux0d68/how_to_print_emojis_in_kotlin/)
-- [Ktor Package Based Routing](https://www.reddit.com/r/Kotlin/comments/uwxejx/ktor_package_based_routing/)
-- [How to do a Loop that goes through a documentPath?](https://www.reddit.com/r/Kotlin/comments/uwvkxx/how_to_do_a_loop_that_goes_through_a_documentpath/)
-- [I have build a android app called Just Listen and it is open source](https://www.reddit.com/r/Kotlin/comments/uwuw99/i_have_build_a_android_app_called_just_listen_and/)
-- [list doesn&#39;t update when deleting item](https://www.reddit.com/r/Kotlin/comments/uw9nbd/list_doesnt_update_when_deleting_item/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
