@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to get java class name of kotlin file](https://www.reddit.com/r/Kotlin/comments/uzyhk5/how_to_get_java_class_name_of_kotlin_file/)
+- [Unresolved reference: button](https://www.reddit.com/r/Kotlin/comments/uzupgn/unresolved_reference_button/)
+- [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/Kotlin/comments/uzth7i/step_by_step_guide_of_setting_up_ssltls_for_a/)
+- [Seemingly Inconsistent behavior of data class copy method](https://www.reddit.com/r/Kotlin/comments/uzsjcy/seemingly_inconsistent_behavior_of_data_class/)
+- [Automatically position item &lpar;within recyclerview&rpar; once done with scrolling](https://www.reddit.com/r/Kotlin/comments/uzp83g/automatically_position_item_within_recyclerview/)
+- [My second launched app using kotlin &lpar;Weather App&rpar;](https://www.reddit.com/r/Kotlin/comments/uzj0iq/my_second_launched_app_using_kotlin_weather_app/)
+- [How do I remove Google Maps Custom Info Window?](https://www.reddit.com/r/Kotlin/comments/uzhqz7/how_do_i_remove_google_maps_custom_info_window/)
+- [String formatting library for Kotlin &lpar;or Java&rpar; like in fmt/rust/python](https://www.reddit.com/r/Kotlin/comments/uzg6g1/string_formatting_library_for_kotlin_or_java_like/)
 - [New Kotlin Discord Community for Complete Beginners](https://www.reddit.com/r/Kotlin/comments/uz9h1k/new_kotlin_discord_community_for_complete/)
-- [A S2 Data Science IDE for Koltin](https://www.reddit.com/r/Kotlin/comments/uz1htg/a_s2_data_science_ide_for_koltin/)
 - [Help understanding Scanner behavior](https://www.reddit.com/r/Kotlin/comments/uz0448/help_understanding_scanner_behavior/)
-- [S2 Data Science IDE ToolBox](https://www.reddit.com/r/Kotlin/comments/uz03av/s2_data_science_ide_toolbox/)
-- [How to create an observable/declarative list in pure Kotlin that works well with Compose?](https://www.reddit.com/r/Kotlin/comments/uyzjnt/how_to_create_an_observabledeclarative_list_in/)
-- [Could someone help me with a Dockerfile?](https://www.reddit.com/r/Kotlin/comments/uyxgl0/could_someone_help_me_with_a_dockerfile/)
-- [Kotlin throwing exception because type mismatch, but type is not mismatch](https://www.reddit.com/r/Kotlin/comments/uywjly/kotlin_throwing_exception_because_type_mismatch/)
-- [A lightweight library for Telegram Bot Api](https://www.reddit.com/r/Kotlin/comments/uyowti/a_lightweight_library_for_telegram_bot_api/)
-- [replacement of maxBy??](https://www.reddit.com/r/Kotlin/comments/uyhbdc/replacement_of_maxby/)
-- [wich way better saving videos progress with save state or with DB? when there many videos to watch in app](https://www.reddit.com/r/Kotlin/comments/uyezd2/wich_way_better_saving_videos_progress_with_save/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
