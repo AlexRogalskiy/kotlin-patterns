@@ -272,7 +272,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Library for inspecting requests in WebViews](https://www.reddit.com/r/Kotlin/comments/v0mvwp/library_for_inspecting_requests_in_webviews/)
 - [noob struggling with data write using influxDB and coroutines](https://www.reddit.com/r/Kotlin/comments/v0juhk/noob_struggling_with_data_write_using_influxdb/)
 - [A lightweight library for Object Mapping](https://www.reddit.com/r/Kotlin/comments/v0b7xm/a_lightweight_library_for_object_mapping/)
 - [How to get java class name of kotlin file](https://www.reddit.com/r/Kotlin/comments/uzyhk5/how_to_get_java_class_name_of_kotlin_file/)
@@ -282,6 +281,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Automatically position item &lpar;within recyclerview&rpar; once done with scrolling](https://www.reddit.com/r/Kotlin/comments/uzp83g/automatically_position_item_within_recyclerview/)
 - [My second launched app using kotlin &lpar;Weather App&rpar;](https://www.reddit.com/r/Kotlin/comments/uzj0iq/my_second_launched_app_using_kotlin_weather_app/)
 - [How do I remove Google Maps Custom Info Window?](https://www.reddit.com/r/Kotlin/comments/uzhqz7/how_do_i_remove_google_maps_custom_info_window/)
+- [String formatting library for Kotlin &lpar;or Java&rpar; like in fmt/rust/python](https://www.reddit.com/r/Kotlin/comments/uzg6g1/string_formatting_library_for_kotlin_or_java_like/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
