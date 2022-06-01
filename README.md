@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [noob struggling with data write using influxDB and coroutines](https://www.reddit.com/r/Kotlin/comments/v0juhk/noob_struggling_with_data_write_using_influxdb/)
-- [A lightweight library for Object Mapping](https://www.reddit.com/r/Kotlin/comments/v0b7xm/a_lightweight_library_for_object_mapping/)
-- [How to get java class name of kotlin file](https://www.reddit.com/r/Kotlin/comments/uzyhk5/how_to_get_java_class_name_of_kotlin_file/)
-- [Unresolved reference: button](https://www.reddit.com/r/Kotlin/comments/uzupgn/unresolved_reference_button/)
-- [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/Kotlin/comments/uzth7i/step_by_step_guide_of_setting_up_ssltls_for_a/)
-- [Seemingly Inconsistent behavior of data class copy method](https://www.reddit.com/r/Kotlin/comments/uzsjcy/seemingly_inconsistent_behavior_of_data_class/)
-- [Automatically position item &lpar;within recyclerview&rpar; once done with scrolling](https://www.reddit.com/r/Kotlin/comments/uzp83g/automatically_position_item_within_recyclerview/)
-- [My second launched app using kotlin &lpar;Weather App&rpar;](https://www.reddit.com/r/Kotlin/comments/uzj0iq/my_second_launched_app_using_kotlin_weather_app/)
-- [How do I remove Google Maps Custom Info Window?](https://www.reddit.com/r/Kotlin/comments/uzhqz7/how_do_i_remove_google_maps_custom_info_window/)
-- [String formatting library for Kotlin &lpar;or Java&rpar; like in fmt/rust/python](https://www.reddit.com/r/Kotlin/comments/uzg6g1/string_formatting_library_for_kotlin_or_java_like/)
+- [Issue with Kotlin lambdas halting code using Spoon plug-in by jaredsburrows](https://www.reddit.com/r/Kotlin/comments/v1w2f0/issue_with_kotlin_lambdas_halting_code_using/)
+- [In what situations would you use Multiple Activities for in Android?](https://www.reddit.com/r/Kotlin/comments/v1ujus/in_what_situations_would_you_use_multiple/)
+- [[Kotlin Blog] Kotlin API for Apache Spark: Streaming, Jupyter, and More &lpar;v1.1.0 update!&rpar;](https://www.reddit.com/r/Kotlin/comments/v1t2pf/kotlin_blog_kotlin_api_for_apache_spark_streaming/)
+- [Filtering by map](https://www.reddit.com/r/Kotlin/comments/v1sr2x/filtering_by_map/)
+- [K2/JVM compiler alpha released](https://www.reddit.com/r/Kotlin/comments/v1qjv6/k2jvm_compiler_alpha_released/)
+- [Does anyone know of any Data Structures and Algorithm tutorials in Kotlin?](https://www.reddit.com/r/Kotlin/comments/v1qdkc/does_anyone_know_of_any_data_structures_and/)
+- [Kotlin Multiplatform Mobile Beta Roadmap Update](https://www.reddit.com/r/Kotlin/comments/v1q9d1/kotlin_multiplatform_mobile_beta_roadmap_update/)
+- [Why can&#39;t I run my project?](https://www.reddit.com/r/Kotlin/comments/v1ozg0/why_cant_i_run_my_project/)
+- [Creating graphics for applications with kotlin.](https://www.reddit.com/r/Kotlin/comments/v1o8ho/creating_graphics_for_applications_with_kotlin/)
+- [Creating an MVI architecture in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/v1mpbn/creating_an_mvi_architecture_in_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
