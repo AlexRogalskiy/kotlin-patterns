@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need to access and edit an ArrayList from anywhere in the app](https://www.reddit.com/r/Kotlin/comments/v2mgqa/i_need_to_access_and_edit_an_arraylist_from/)
+- [Kotlin Serialization: Union types without JSON object wrapping](https://www.reddit.com/r/Kotlin/comments/v2ilt9/kotlin_serialization_union_types_without_json/)
+- [Why can&#39;t I pass an object to this function, even though it implements the correct interface?](https://www.reddit.com/r/Kotlin/comments/v2hf7y/why_cant_i_pass_an_object_to_this_function_even/)
+- [Coding newbie](https://www.reddit.com/r/Kotlin/comments/v2gmfn/coding_newbie/)
 - [Issue with Kotlin lambdas halting code using Spoon plug-in by jaredsburrows](https://www.reddit.com/r/Kotlin/comments/v1w2f0/issue_with_kotlin_lambdas_halting_code_using/)
 - [In what situations would you use Multiple Activities for in Android?](https://www.reddit.com/r/Kotlin/comments/v1ujus/in_what_situations_would_you_use_multiple/)
 - [[Kotlin Blog] Kotlin API for Apache Spark: Streaming, Jupyter, and More &lpar;v1.1.0 update!&rpar;](https://www.reddit.com/r/Kotlin/comments/v1t2pf/kotlin_blog_kotlin_api_for_apache_spark_streaming/)
 - [Filtering by map](https://www.reddit.com/r/Kotlin/comments/v1sr2x/filtering_by_map/)
 - [K2/JVM compiler alpha released](https://www.reddit.com/r/Kotlin/comments/v1qjv6/k2jvm_compiler_alpha_released/)
-- [Does anyone know of any Data Structures and Algorithm tutorials in Kotlin?](https://www.reddit.com/r/Kotlin/comments/v1qdkc/does_anyone_know_of_any_data_structures_and/)
 - [Kotlin Multiplatform Mobile Beta Roadmap Update](https://www.reddit.com/r/Kotlin/comments/v1q9d1/kotlin_multiplatform_mobile_beta_roadmap_update/)
-- [Why can&#39;t I run my project?](https://www.reddit.com/r/Kotlin/comments/v1ozg0/why_cant_i_run_my_project/)
-- [Creating graphics for applications with kotlin.](https://www.reddit.com/r/Kotlin/comments/v1o8ho/creating_graphics_for_applications_with_kotlin/)
-- [Creating an MVI architecture in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/v1mpbn/creating_an_mvi_architecture_in_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
