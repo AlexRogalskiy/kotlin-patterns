@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why is androidMain different? How to fix this?](https://www.reddit.com/r/Kotlin/comments/v3fb5z/why_is_androidmain_different_how_to_fix_this/)
+- [Class Parameters NOT Available to Member Functions, but are Available to Constructors and Initializers. But Why?](https://www.reddit.com/r/Kotlin/comments/v3bzpu/class_parameters_not_available_to_member/)
+- [Got a Kotlin collection that contains duplicates? Need a collection with only unique items? Let Sebastian show you how to remove duplicates from your lists, or turn them into sets in our latest Kotlin tip!](https://www.reddit.com/r/Kotlin/comments/v3asvh/got_a_kotlin_collection_that_contains_duplicates/)
+- [how to Merge similar item in list and aggregate the values in kotlin](https://www.reddit.com/r/Kotlin/comments/v35buz/how_to_merge_similar_item_in_list_and_aggregate/)
+- [Idiomagic Kotlin: The Key to Unleash Kotlin&#39;s True Potential](https://www.reddit.com/r/Kotlin/comments/v32dzc/idiomagic_kotlin_the_key_to_unleash_kotlins_true/)
+- [OOPS Concepts](https://www.reddit.com/r/Kotlin/comments/v2zg3u/oops_concepts/)
 - [I need to access and edit an ArrayList from anywhere in the app](https://www.reddit.com/r/Kotlin/comments/v2mgqa/i_need_to_access_and_edit_an_arraylist_from/)
 - [Kotlin Serialization: Union types without JSON object wrapping](https://www.reddit.com/r/Kotlin/comments/v2ilt9/kotlin_serialization_union_types_without_json/)
 - [Why can&#39;t I pass an object to this function, even though it implements the correct interface?](https://www.reddit.com/r/Kotlin/comments/v2hf7y/why_cant_i_pass_an_object_to_this_function_even/)
 - [Coding newbie](https://www.reddit.com/r/Kotlin/comments/v2gmfn/coding_newbie/)
-- [Issue with Kotlin lambdas halting code using Spoon plug-in by jaredsburrows](https://www.reddit.com/r/Kotlin/comments/v1w2f0/issue_with_kotlin_lambdas_halting_code_using/)
-- [In what situations would you use Multiple Activities for in Android?](https://www.reddit.com/r/Kotlin/comments/v1ujus/in_what_situations_would_you_use_multiple/)
-- [[Kotlin Blog] Kotlin API for Apache Spark: Streaming, Jupyter, and More &lpar;v1.1.0 update!&rpar;](https://www.reddit.com/r/Kotlin/comments/v1t2pf/kotlin_blog_kotlin_api_for_apache_spark_streaming/)
-- [Filtering by map](https://www.reddit.com/r/Kotlin/comments/v1sr2x/filtering_by_map/)
-- [K2/JVM compiler alpha released](https://www.reddit.com/r/Kotlin/comments/v1qjv6/k2jvm_compiler_alpha_released/)
-- [Kotlin Multiplatform Mobile Beta Roadmap Update](https://www.reddit.com/r/Kotlin/comments/v1q9d1/kotlin_multiplatform_mobile_beta_roadmap_update/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
