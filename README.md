@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[QUESTION] Socket communication between Android app and Python script](https://www.reddit.com/r/Kotlin/comments/v3vchh/question_socket_communication_between_android_app/)
+- [Kotlin Roadmap &lpar;June 2022 update&rpar;](https://www.reddit.com/r/Kotlin/comments/v3ted6/kotlin_roadmap_june_2022_update/)
 - [Why is androidMain different? How to fix this?](https://www.reddit.com/r/Kotlin/comments/v3fb5z/why_is_androidmain_different_how_to_fix_this/)
 - [Class Parameters NOT Available to Member Functions, but are Available to Constructors and Initializers. But Why?](https://www.reddit.com/r/Kotlin/comments/v3bzpu/class_parameters_not_available_to_member/)
 - [Got a Kotlin collection that contains duplicates? Need a collection with only unique items? Let Sebastian show you how to remove duplicates from your lists, or turn them into sets in our latest Kotlin tip!](https://www.reddit.com/r/Kotlin/comments/v3asvh/got_a_kotlin_collection_that_contains_duplicates/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [OOPS Concepts](https://www.reddit.com/r/Kotlin/comments/v2zg3u/oops_concepts/)
 - [I need to access and edit an ArrayList from anywhere in the app](https://www.reddit.com/r/Kotlin/comments/v2mgqa/i_need_to_access_and_edit_an_arraylist_from/)
 - [Kotlin Serialization: Union types without JSON object wrapping](https://www.reddit.com/r/Kotlin/comments/v2ilt9/kotlin_serialization_union_types_without_json/)
-- [Why can&#39;t I pass an object to this function, even though it implements the correct interface?](https://www.reddit.com/r/Kotlin/comments/v2hf7y/why_cant_i_pass_an_object_to_this_function_even/)
-- [Coding newbie](https://www.reddit.com/r/Kotlin/comments/v2gmfn/coding_newbie/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
