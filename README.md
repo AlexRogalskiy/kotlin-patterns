@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [looking for spring boot kotlin - resources](https://www.reddit.com/r/Kotlin/comments/v506j3/looking_for_spring_boot_kotlin_resources/)
+- [The function always returns null](https://www.reddit.com/r/Kotlin/comments/v4qm42/the_function_always_returns_null/)
+- [Can I share code between Kotlin Native and Android?](https://www.reddit.com/r/Kotlin/comments/v4qfd4/can_i_share_code_between_kotlin_native_and_android/)
+- [Is there a shorthand for passing property getters and setters to another object?](https://www.reddit.com/r/Kotlin/comments/v4j2t0/is_there_a_shorthand_for_passing_property_getters/)
+- [@Volatile works in coroutine](https://www.reddit.com/r/Kotlin/comments/v4j01h/volatile_works_in_coroutine/)
 - [[QUESTION] Socket communication between Android app and Python script](https://www.reddit.com/r/Kotlin/comments/v3vchh/question_socket_communication_between_android_app/)
 - [Kotlin Roadmap &lpar;June 2022 update&rpar;](https://www.reddit.com/r/Kotlin/comments/v3ted6/kotlin_roadmap_june_2022_update/)
 - [Why is androidMain different? How to fix this?](https://www.reddit.com/r/Kotlin/comments/v3fb5z/why_is_androidmain_different_how_to_fix_this/)
 - [Class Parameters NOT Available to Member Functions, but are Available to Constructors and Initializers. But Why?](https://www.reddit.com/r/Kotlin/comments/v3bzpu/class_parameters_not_available_to_member/)
 - [Got a Kotlin collection that contains duplicates? Need a collection with only unique items? Let Sebastian show you how to remove duplicates from your lists, or turn them into sets in our latest Kotlin tip!](https://www.reddit.com/r/Kotlin/comments/v3asvh/got_a_kotlin_collection_that_contains_duplicates/)
-- [how to Merge similar item in list and aggregate the values in kotlin](https://www.reddit.com/r/Kotlin/comments/v35buz/how_to_merge_similar_item_in_list_and_aggregate/)
-- [Idiomagic Kotlin: The Key to Unleash Kotlin&#39;s True Potential](https://www.reddit.com/r/Kotlin/comments/v32dzc/idiomagic_kotlin_the_key_to_unleash_kotlins_true/)
-- [OOPS Concepts](https://www.reddit.com/r/Kotlin/comments/v2zg3u/oops_concepts/)
-- [I need to access and edit an ArrayList from anywhere in the app](https://www.reddit.com/r/Kotlin/comments/v2mgqa/i_need_to_access_and_edit_an_arraylist_from/)
-- [Kotlin Serialization: Union types without JSON object wrapping](https://www.reddit.com/r/Kotlin/comments/v2ilt9/kotlin_serialization_union_types_without_json/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
