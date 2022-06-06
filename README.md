@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Crash Course into Flows, Channels, SharedFlows and StateFlows](https://www.reddit.com/r/Kotlin/comments/v5e6uv/crash_course_into_flows_channels_sharedflows_and/)
+- [Porting C++ code to Kotlin &lpar;ISO 15765-2&rpar;](https://www.reddit.com/r/Kotlin/comments/v5duxq/porting_c_code_to_kotlin_iso_157652/)
+- [looking for android developer for a half-finished project [PAID]](https://www.reddit.com/r/Kotlin/comments/v5dtaa/looking_for_android_developer_for_a_halffinished/)
+- [Understanding Kotlin Coroutine](https://www.reddit.com/r/Kotlin/comments/v5diss/understanding_kotlin_coroutine/)
 - [looking for spring boot kotlin - resources](https://www.reddit.com/r/Kotlin/comments/v506j3/looking_for_spring_boot_kotlin_resources/)
 - [The function always returns null](https://www.reddit.com/r/Kotlin/comments/v4qm42/the_function_always_returns_null/)
 - [Can I share code between Kotlin Native and Android?](https://www.reddit.com/r/Kotlin/comments/v4qfd4/can_i_share_code_between_kotlin_native_and_android/)
 - [Is there a shorthand for passing property getters and setters to another object?](https://www.reddit.com/r/Kotlin/comments/v4j2t0/is_there_a_shorthand_for_passing_property_getters/)
 - [@Volatile works in coroutine](https://www.reddit.com/r/Kotlin/comments/v4j01h/volatile_works_in_coroutine/)
 - [[QUESTION] Socket communication between Android app and Python script](https://www.reddit.com/r/Kotlin/comments/v3vchh/question_socket_communication_between_android_app/)
-- [Kotlin Roadmap &lpar;June 2022 update&rpar;](https://www.reddit.com/r/Kotlin/comments/v3ted6/kotlin_roadmap_june_2022_update/)
-- [Why is androidMain different? How to fix this?](https://www.reddit.com/r/Kotlin/comments/v3fb5z/why_is_androidmain_different_how_to_fix_this/)
-- [Class Parameters NOT Available to Member Functions, but are Available to Constructors and Initializers. But Why?](https://www.reddit.com/r/Kotlin/comments/v3bzpu/class_parameters_not_available_to_member/)
-- [Got a Kotlin collection that contains duplicates? Need a collection with only unique items? Let Sebastian show you how to remove duplicates from your lists, or turn them into sets in our latest Kotlin tip!](https://www.reddit.com/r/Kotlin/comments/v3asvh/got_a_kotlin_collection_that_contains_duplicates/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
