@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a library that makes it easy to work with nibbles &lpar;half a byte&rpar; or individual bits?](https://www.reddit.com/r/Kotlin/comments/v66sv2/is_there_a_library_that_makes_it_easy_to_work/)
+- [What to Expect From the Kotlin Team in 2022–23: Key Projects and Productivity Features](https://www.reddit.com/r/Kotlin/comments/v66878/what_to_expect_from_the_kotlin_team_in_202223_key/)
+- [[Question] Importing MPP library using MavenLocal to another project containing an mpp library](https://www.reddit.com/r/Kotlin/comments/v65w2y/question_importing_mpp_library_using_mavenlocal/)
+- [Kactory - Build simple factory pattern easily leverage on ksp &lpar;Kotlin Symbol Processing&rpar;](https://www.reddit.com/r/Kotlin/comments/v64bf1/kactory_build_simple_factory_pattern_easily/)
+- [Can I use Koin and Hilt simultaneously for dependency injection?](https://www.reddit.com/r/Kotlin/comments/v6178t/can_i_use_koin_and_hilt_simultaneously_for/)
 - [Crash Course into Flows, Channels, SharedFlows and StateFlows](https://www.reddit.com/r/Kotlin/comments/v5e6uv/crash_course_into_flows_channels_sharedflows_and/)
 - [Porting C++ code to Kotlin &lpar;ISO 15765-2&rpar;](https://www.reddit.com/r/Kotlin/comments/v5duxq/porting_c_code_to_kotlin_iso_157652/)
 - [looking for android developer for a half-finished project [PAID]](https://www.reddit.com/r/Kotlin/comments/v5dtaa/looking_for_android_developer_for_a_halffinished/)
 - [Understanding Kotlin Coroutine](https://www.reddit.com/r/Kotlin/comments/v5diss/understanding_kotlin_coroutine/)
 - [looking for spring boot kotlin - resources](https://www.reddit.com/r/Kotlin/comments/v506j3/looking_for_spring_boot_kotlin_resources/)
-- [The function always returns null](https://www.reddit.com/r/Kotlin/comments/v4qm42/the_function_always_returns_null/)
-- [Can I share code between Kotlin Native and Android?](https://www.reddit.com/r/Kotlin/comments/v4qfd4/can_i_share_code_between_kotlin_native_and_android/)
-- [Is there a shorthand for passing property getters and setters to another object?](https://www.reddit.com/r/Kotlin/comments/v4j2t0/is_there_a_shorthand_for_passing_property_getters/)
-- [@Volatile works in coroutine](https://www.reddit.com/r/Kotlin/comments/v4j01h/volatile_works_in_coroutine/)
-- [[QUESTION] Socket communication between Android app and Python script](https://www.reddit.com/r/Kotlin/comments/v3vchh/question_socket_communication_between_android_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
