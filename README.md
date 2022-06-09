@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Emoji Library for Kotlin](https://www.reddit.com/r/Kotlin/comments/v801xs/emoji_library_for_kotlin/)
+- [Realm Kotlin SDK is GA](https://www.reddit.com/r/Kotlin/comments/v7vybe/realm_kotlin_sdk_is_ga/)
+- [Api error handling with header](https://www.reddit.com/r/Kotlin/comments/v7ux4s/api_error_handling_with_header/)
+- [Moving from mobile to backend development with Ktor](https://www.reddit.com/r/Kotlin/comments/v7tjel/moving_from_mobile_to_backend_development_with/)
+- [MAVLink library for Kotlin-JVM](https://www.reddit.com/r/Kotlin/comments/v7i2g2/mavlink_library_for_kotlinjvm/)
 - [When you miss Kt but the project is in TS](https://www.reddit.com/r/Kotlin/comments/v7a5je/when_you_miss_kt_but_the_project_is_in_ts/)
 - [Announcing Lingua 1.2.0 - The most accurate natural language detection library for the JVM, suitable for long and short text alike](https://www.reddit.com/r/Kotlin/comments/v75csv/announcing_lingua_120_the_most_accurate_natural/)
 - [Improving Fault Tolerance with RPC Fallbacks](https://www.reddit.com/r/Kotlin/comments/v725tc/improving_fault_tolerance_with_rpc_fallbacks/)
 - [What happens when you add `null + null` in Kotlin, and what does it return? Sebastian addresses this mystery in our latest quick tip. Along the way, he also shows why there’s no reason to be scared of nullables! 👻](https://www.reddit.com/r/Kotlin/comments/v6wchk/what_happens_when_you_add_null_null_in_kotlin_and/)
 - [Any good existing integrations between arrow-kt and spring boot?](https://www.reddit.com/r/Kotlin/comments/v6w1xg/any_good_existing_integrations_between_arrowkt/)
-- [Developing SDK&lpar;Library&rpar; for both IOS and Android](https://www.reddit.com/r/Kotlin/comments/v6uyor/developing_sdklibrary_for_both_ios_and_android/)
-- [Life After Business Objects: Confessions of an OOP Veteran](https://www.reddit.com/r/Kotlin/comments/v6tsgn/life_after_business_objects_confessions_of_an_oop/)
-- [5 Free Courses to Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/v6ml2z/5_free_courses_to_learn_kotlin/)
-- [Is there a library that makes it easy to work with nibbles &lpar;half a byte&rpar; or individual bits?](https://www.reddit.com/r/Kotlin/comments/v66sv2/is_there_a_library_that_makes_it_easy_to_work/)
-- [What to Expect From the Kotlin Team in 2022–23: Key Projects and Productivity Features](https://www.reddit.com/r/Kotlin/comments/v66878/what_to_expect_from_the_kotlin_team_in_202223_key/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
