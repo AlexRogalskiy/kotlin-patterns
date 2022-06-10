@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KotlinDL 0.4 is out: NoTop models in the ModelHub, new layers and activation functions, better Image Preprocessing DSL and Pose Estimation API, ImageNet and ImageDet! https://blog.jetbrains.com/kotlin/2022/06/kotlindl-0-4-is-out-with-pose-detection-api-efficientdet-for-object-detection-and-efficien](https://www.reddit.com/r/Kotlin/comments/v8myae/kotlindl_04_is_out_notop_models_in_the_modelhub/)
+- [Kotlin 1.7.0 Released](https://www.reddit.com/r/Kotlin/comments/v8jc4j/kotlin_170_released/)
+- [Kotlin 1.7.0 has been released. It unveils the Alpha version of the new Kotlin/JVM K2 compiler, stabilizes language features, and brings performance improvements for the JVM, JS, and Native platforms.](https://www.reddit.com/r/Kotlin/comments/v8jbfy/kotlin_170_has_been_released_it_unveils_the_alpha/)
+- [Kotlin 1.7.0 Released](https://www.reddit.com/r/Kotlin/comments/v8j804/kotlin_170_released/)
+- [Lazy layouts in Compose](https://www.reddit.com/r/Kotlin/comments/v8hs0i/lazy_layouts_in_compose/)
+- [I ported my kotlin framework &quot;kimmer&quot; to java, named &quot;jimmer&quot;](https://www.reddit.com/r/Kotlin/comments/v8f1s1/i_ported_my_kotlin_framework_kimmer_to_java_named/)
+- [JVM c1, c2 compiler thread – high CPU consumption?](https://www.reddit.com/r/Kotlin/comments/v88su3/jvm_c1_c2_compiler_thread_high_cpu_consumption/)
 - [Emoji Library for Kotlin](https://www.reddit.com/r/Kotlin/comments/v801xs/emoji_library_for_kotlin/)
 - [Realm Kotlin SDK is GA](https://www.reddit.com/r/Kotlin/comments/v7vybe/realm_kotlin_sdk_is_ga/)
 - [Api error handling with header](https://www.reddit.com/r/Kotlin/comments/v7ux4s/api_error_handling_with_header/)
-- [Moving from mobile to backend development with Ktor](https://www.reddit.com/r/Kotlin/comments/v7tjel/moving_from_mobile_to_backend_development_with/)
-- [MAVLink library for Kotlin-JVM](https://www.reddit.com/r/Kotlin/comments/v7i2g2/mavlink_library_for_kotlinjvm/)
-- [When you miss Kt but the project is in TS](https://www.reddit.com/r/Kotlin/comments/v7a5je/when_you_miss_kt_but_the_project_is_in_ts/)
-- [Announcing Lingua 1.2.0 - The most accurate natural language detection library for the JVM, suitable for long and short text alike](https://www.reddit.com/r/Kotlin/comments/v75csv/announcing_lingua_120_the_most_accurate_natural/)
-- [Improving Fault Tolerance with RPC Fallbacks](https://www.reddit.com/r/Kotlin/comments/v725tc/improving_fault_tolerance_with_rpc_fallbacks/)
-- [What happens when you add `null + null` in Kotlin, and what does it return? Sebastian addresses this mystery in our latest quick tip. Along the way, he also shows why there’s no reason to be scared of nullables! 👻](https://www.reddit.com/r/Kotlin/comments/v6wchk/what_happens_when_you_add_null_null_in_kotlin_and/)
-- [Any good existing integrations between arrow-kt and spring boot?](https://www.reddit.com/r/Kotlin/comments/v6w1xg/any_good_existing_integrations_between_arrowkt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
