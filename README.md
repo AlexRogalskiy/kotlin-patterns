@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s the reccommended way of setting up this project?](https://www.reddit.com/r/Kotlin/comments/va1f0a/whats_the_reccommended_way_of_setting_up_this/)
+- [Kotlin custom scripting use cases](https://www.reddit.com/r/Kotlin/comments/v9xar8/kotlin_custom_scripting_use_cases/)
+- [Top de lenguajes en la JVM](https://www.reddit.com/r/Kotlin/comments/v9vpte/top_de_lenguajes_en_la_jvm/)
+- [Looking for kotlin and android development discord...](https://www.reddit.com/r/Kotlin/comments/v9us15/looking_for_kotlin_and_android_development_discord/)
+- [Not Able to configure Spring Boot Plugin in Kotlin](https://www.reddit.com/r/Kotlin/comments/v9u3df/not_able_to_configure_spring_boot_plugin_in_kotlin/)
 - [What is Kotlin Programming Language? Understand Kotlin VS Java](https://www.reddit.com/r/Kotlin/comments/v9d0hn/what_is_kotlin_programming_language_understand/)
 - [Coroutine Exception Handler](https://www.reddit.com/r/Kotlin/comments/v9aodu/coroutine_exception_handler/)
 - [Turning JSON array into Map](https://www.reddit.com/r/Kotlin/comments/v9a72i/turning_json_array_into_map/)
 - [Too many parameters in a method. What should I do?](https://www.reddit.com/r/Kotlin/comments/v98x7g/too_many_parameters_in_a_method_what_should_i_do/)
 - [Kotlin and JPA](https://www.reddit.com/r/Kotlin/comments/v97i7d/kotlin_and_jpa/)
-- [5 common mistakes when using Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/v94t79/5_common_mistakes_when_using_kotlin_coroutines/)
-- [KotlinDL 0.4 is out: NoTop models in the ModelHub, new layers and activation functions, better Image Preprocessing DSL and Pose Estimation API, ImageNet and ImageDet! https://blog.jetbrains.com/kotlin/2022/06/kotlindl-0-4-is-out-with-pose-detection-api-efficientdet-for-object-detection-and-efficien](https://www.reddit.com/r/Kotlin/comments/v8myae/kotlindl_04_is_out_notop_models_in_the_modelhub/)
-- [Kotlin 1.7.0 Released](https://www.reddit.com/r/Kotlin/comments/v8jc4j/kotlin_170_released/)
-- [Kotlin 1.7.0 has been released. It unveils the Alpha version of the new Kotlin/JVM K2 compiler, stabilizes language features, and brings performance improvements for the JVM, JS, and Native platforms.](https://www.reddit.com/r/Kotlin/comments/v8jbfy/kotlin_170_has_been_released_it_unveils_the_alpha/)
-- [Kotlin 1.7.0 Released](https://www.reddit.com/r/Kotlin/comments/v8j804/kotlin_170_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
