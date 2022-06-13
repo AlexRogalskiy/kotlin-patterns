@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Camcorder: Tool to create, preview, and save GIFs using Compose Desktop](https://www.reddit.com/r/Kotlin/comments/vamufv/camcorder_tool_to_create_preview_and_save_gifs/)
+- [Seasoned java developer here. Planning to learn Kotlin. What are some good open source Kotlin projects I can contribute to?](https://www.reddit.com/r/Kotlin/comments/vahv64/seasoned_java_developer_here_planning_to_learn/)
 - [What&#39;s the reccommended way of setting up this project?](https://www.reddit.com/r/Kotlin/comments/va1f0a/whats_the_reccommended_way_of_setting_up_this/)
 - [Kotlin custom scripting use cases](https://www.reddit.com/r/Kotlin/comments/v9xar8/kotlin_custom_scripting_use_cases/)
 - [Top de lenguajes en la JVM](https://www.reddit.com/r/Kotlin/comments/v9vpte/top_de_lenguajes_en_la_jvm/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What is Kotlin Programming Language? Understand Kotlin VS Java](https://www.reddit.com/r/Kotlin/comments/v9d0hn/what_is_kotlin_programming_language_understand/)
 - [Coroutine Exception Handler](https://www.reddit.com/r/Kotlin/comments/v9aodu/coroutine_exception_handler/)
 - [Turning JSON array into Map](https://www.reddit.com/r/Kotlin/comments/v9a72i/turning_json_array_into_map/)
-- [Too many parameters in a method. What should I do?](https://www.reddit.com/r/Kotlin/comments/v98x7g/too_many_parameters_in_a_method_what_should_i_do/)
-- [Kotlin and JPA](https://www.reddit.com/r/Kotlin/comments/v97i7d/kotlin_and_jpa/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
