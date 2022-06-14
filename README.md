@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mockk - allow tested method to change mock value](https://www.reddit.com/r/Kotlin/comments/vbrho9/mockk_allow_tested_method_to_change_mock_value/)
+- [What is the efficient way to restart the app in Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/vb8hzv/what_is_the_efficient_way_to_restart_the_app_in/)
 - [Camcorder: Tool to create, preview, and save GIFs using Compose Desktop](https://www.reddit.com/r/Kotlin/comments/vamufv/camcorder_tool_to_create_preview_and_save_gifs/)
 - [Seasoned java developer here. Planning to learn Kotlin. What are some good open source Kotlin projects I can contribute to?](https://www.reddit.com/r/Kotlin/comments/vahv64/seasoned_java_developer_here_planning_to_learn/)
 - [What&#39;s the reccommended way of setting up this project?](https://www.reddit.com/r/Kotlin/comments/va1f0a/whats_the_reccommended_way_of_setting_up_this/)
@@ -279,9 +281,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Top de lenguajes en la JVM](https://www.reddit.com/r/Kotlin/comments/v9vpte/top_de_lenguajes_en_la_jvm/)
 - [Looking for kotlin and android development discord...](https://www.reddit.com/r/Kotlin/comments/v9us15/looking_for_kotlin_and_android_development_discord/)
 - [Not Able to configure Spring Boot Plugin in Kotlin](https://www.reddit.com/r/Kotlin/comments/v9u3df/not_able_to_configure_spring_boot_plugin_in_kotlin/)
-- [What is Kotlin Programming Language? Understand Kotlin VS Java](https://www.reddit.com/r/Kotlin/comments/v9d0hn/what_is_kotlin_programming_language_understand/)
 - [Coroutine Exception Handler](https://www.reddit.com/r/Kotlin/comments/v9aodu/coroutine_exception_handler/)
-- [Turning JSON array into Map](https://www.reddit.com/r/Kotlin/comments/v9a72i/turning_json_array_into_map/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
