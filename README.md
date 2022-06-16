@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How did the giants rise?](https://www.reddit.com/r/Kotlin/comments/vd3pgn/how_did_the_giants_rise/)
+- [Java or Kotlin?](https://www.reddit.com/r/Kotlin/comments/vcz0mn/java_or_kotlin/)
+- [Kotlin configuration](https://www.reddit.com/r/Kotlin/comments/vcp21z/kotlin_configuration/)
+- [Why is it that every single post asking a question has been downvoted?](https://www.reddit.com/r/Kotlin/comments/vckppb/why_is_it_that_every_single_post_asking_a/)
 - [Anyone know how to work with audio on desktop?](https://www.reddit.com/r/Kotlin/comments/vcj3w5/anyone_know_how_to_work_with_audio_on_desktop/)
 - [Help pls, Beginner here, I have 2 fragments at the bottom of screen and i wanted both fragments to open a recycler view, but the app keeps on crashing, if I remove recycler view from the second fragment, the app runs with the recycler view on the starting fragment. how to solve this](https://www.reddit.com/r/Kotlin/comments/vce329/help_pls_beginner_here_i_have_2_fragments_at_the/)
 - [Is there any better options for building kotlin then gradle?](https://www.reddit.com/r/Kotlin/comments/vca9an/is_there_any_better_options_for_building_kotlin/)
 - [Kotlin Illustrated Guide - Receivers and Extensions](https://www.reddit.com/r/Kotlin/comments/vc53ye/kotlin_illustrated_guide_receivers_and_extensions/)
 - [Kotlin Cafe - Kotlin job board with no recruiters and clear salary ranges](https://www.reddit.com/r/Kotlin/comments/vc0z1q/kotlin_cafe_kotlin_job_board_with_no_recruiters/)
 - [Problems with creating Kotlin UIs](https://www.reddit.com/r/Kotlin/comments/vby80o/problems_with_creating_kotlin_uis/)
-- [Mockk - allow tested method to change mock value](https://www.reddit.com/r/Kotlin/comments/vbrho9/mockk_allow_tested_method_to_change_mock_value/)
-- [What is the efficient way to restart the app in Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/vb8hzv/what_is_the_efficient_way_to_restart_the_app_in/)
-- [Camcorder: Tool to create, preview, and save GIFs using Compose Desktop](https://www.reddit.com/r/Kotlin/comments/vamufv/camcorder_tool_to_create_preview_and_save_gifs/)
-- [Seasoned java developer here. Planning to learn Kotlin. What are some good open source Kotlin projects I can contribute to?](https://www.reddit.com/r/Kotlin/comments/vahv64/seasoned_java_developer_here_planning_to_learn/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
