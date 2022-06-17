@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to create a city, state AutoCompleteTextView](https://www.reddit.com/r/Kotlin/comments/vdvc3g/how_to_create_a_city_state_autocompletetextview/)
+- [The latest round of the Kotlin Multiplatform Survey 2022 is open!](https://www.reddit.com/r/Kotlin/comments/vdof4n/the_latest_round_of_the_kotlin_multiplatform/)
+- [👷 Grab your helmets, it’s time to explore the Kotlin Factory Pattern! In our latest video, Alexey and Sebastian discuss this creational design pattern and its uses in Kotlin code! 🏗 Tune in now and step up your Kotlin skills!](https://www.reddit.com/r/Kotlin/comments/vdntmv/grab_your_helmets_its_time_to_explore_the_kotlin/)
 - [How did the giants rise?](https://www.reddit.com/r/Kotlin/comments/vd3pgn/how_did_the_giants_rise/)
 - [Java or Kotlin?](https://www.reddit.com/r/Kotlin/comments/vcz0mn/java_or_kotlin/)
 - [Kotlin configuration](https://www.reddit.com/r/Kotlin/comments/vcp21z/kotlin_configuration/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Anyone know how to work with audio on desktop?](https://www.reddit.com/r/Kotlin/comments/vcj3w5/anyone_know_how_to_work_with_audio_on_desktop/)
 - [Help pls, Beginner here, I have 2 fragments at the bottom of screen and i wanted both fragments to open a recycler view, but the app keeps on crashing, if I remove recycler view from the second fragment, the app runs with the recycler view on the starting fragment. how to solve this](https://www.reddit.com/r/Kotlin/comments/vce329/help_pls_beginner_here_i_have_2_fragments_at_the/)
 - [Is there any better options for building kotlin then gradle?](https://www.reddit.com/r/Kotlin/comments/vca9an/is_there_any_better_options_for_building_kotlin/)
-- [Kotlin Illustrated Guide - Receivers and Extensions](https://www.reddit.com/r/Kotlin/comments/vc53ye/kotlin_illustrated_guide_receivers_and_extensions/)
-- [Kotlin Cafe - Kotlin job board with no recruiters and clear salary ranges](https://www.reddit.com/r/Kotlin/comments/vc0z1q/kotlin_cafe_kotlin_job_board_with_no_recruiters/)
-- [Problems with creating Kotlin UIs](https://www.reddit.com/r/Kotlin/comments/vby80o/problems_with_creating_kotlin_uis/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
