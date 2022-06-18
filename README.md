@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gradle multi-service setup](https://www.reddit.com/r/Kotlin/comments/vell60/gradle_multiservice_setup/)
+- [Top Rated Kotlin Books of June 2022](https://www.reddit.com/r/Kotlin/comments/ve718y/top_rated_kotlin_books_of_june_2022/)
 - [How to create a city, state AutoCompleteTextView](https://www.reddit.com/r/Kotlin/comments/vdvc3g/how_to_create_a_city_state_autocompletetextview/)
 - [The latest round of the Kotlin Multiplatform Survey 2022 is open!](https://www.reddit.com/r/Kotlin/comments/vdof4n/the_latest_round_of_the_kotlin_multiplatform/)
 - [👷 Grab your helmets, it’s time to explore the Kotlin Factory Pattern! In our latest video, Alexey and Sebastian discuss this creational design pattern and its uses in Kotlin code! 🏗 Tune in now and step up your Kotlin skills!](https://www.reddit.com/r/Kotlin/comments/vdntmv/grab_your_helmets_its_time_to_explore_the_kotlin/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin configuration](https://www.reddit.com/r/Kotlin/comments/vcp21z/kotlin_configuration/)
 - [Why is it that every single post asking a question has been downvoted?](https://www.reddit.com/r/Kotlin/comments/vckppb/why_is_it_that_every_single_post_asking_a/)
 - [Anyone know how to work with audio on desktop?](https://www.reddit.com/r/Kotlin/comments/vcj3w5/anyone_know_how_to_work_with_audio_on_desktop/)
-- [Help pls, Beginner here, I have 2 fragments at the bottom of screen and i wanted both fragments to open a recycler view, but the app keeps on crashing, if I remove recycler view from the second fragment, the app runs with the recycler view on the starting fragment. how to solve this](https://www.reddit.com/r/Kotlin/comments/vce329/help_pls_beginner_here_i_have_2_fragments_at_the/)
-- [Is there any better options for building kotlin then gradle?](https://www.reddit.com/r/Kotlin/comments/vca9an/is_there_any_better_options_for_building_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
