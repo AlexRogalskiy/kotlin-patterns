@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Top 3 most common Android Security rules](https://www.reddit.com/r/Kotlin/comments/vgpqbw/top_3_most_common_android_security_rules/)
 - [Help: Choreographer doesn&#39;t rerun Composable](https://www.reddit.com/r/Kotlin/comments/vfhx82/help_choreographer_doesnt_rerun_composable/)
 - [Migrating project from Java to Kotlin](https://www.reddit.com/r/Kotlin/comments/vfe4jp/migrating_project_from_java_to_kotlin/)
 - [IntelliJ regularly auto-completes fully-qualified class names. How do I turn this off?](https://www.reddit.com/r/Kotlin/comments/vfdvje/intellij_regularly_autocompletes_fullyqualified/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [The latest round of the Kotlin Multiplatform Survey 2022 is open!](https://www.reddit.com/r/Kotlin/comments/vdof4n/the_latest_round_of_the_kotlin_multiplatform/)
 - [👷 Grab your helmets, it’s time to explore the Kotlin Factory Pattern! In our latest video, Alexey and Sebastian discuss this creational design pattern and its uses in Kotlin code! 🏗 Tune in now and step up your Kotlin skills!](https://www.reddit.com/r/Kotlin/comments/vdntmv/grab_your_helmets_its_time_to_explore_the_kotlin/)
 - [How did the giants rise?](https://www.reddit.com/r/Kotlin/comments/vd3pgn/how_did_the_giants_rise/)
-- [Java or Kotlin?](https://www.reddit.com/r/Kotlin/comments/vcz0mn/java_or_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
