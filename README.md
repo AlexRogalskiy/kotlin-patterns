@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I switch from Java/Spring to Ktor? What are the differences?](https://www.reddit.com/r/Kotlin/comments/vifdnn/should_i_switch_from_javaspring_to_ktor_what_are/)
+- [front-end framework for kotlin](https://www.reddit.com/r/Kotlin/comments/vi4dtu/frontend_framework_for_kotlin/)
+- [Is it reasonable to expect to work entirely with Kotlin?](https://www.reddit.com/r/Kotlin/comments/vhxb9c/is_it_reasonable_to_expect_to_work_entirely_with/)
 - [Can Kotlin and Java coexist in the same Spring project?](https://www.reddit.com/r/Kotlin/comments/vhjezd/can_kotlin_and_java_coexist_in_the_same_spring/)
 - [Best Practices for using Kotlin Coroutines in Android Development](https://www.reddit.com/r/Kotlin/comments/vhilfi/best_practices_for_using_kotlin_coroutines_in/)
 - [Introducing Kotlin Build Reports](https://www.reddit.com/r/Kotlin/comments/vhgjy2/introducing_kotlin_build_reports/)
 - [Why switch to Kotlin?](https://www.reddit.com/r/Kotlin/comments/vhghzz/why_switch_to_kotlin/)
-- [How to stand out in the Mobile App Job market?](https://www.reddit.com/r/Kotlin/comments/vh6y1h/how_to_stand_out_in_the_mobile_app_job_market/)
 - [Help: Choreographer doesn&#39;t rerun Composable](https://www.reddit.com/r/Kotlin/comments/vfhx82/help_choreographer_doesnt_rerun_composable/)
 - [Migrating project from Java to Kotlin](https://www.reddit.com/r/Kotlin/comments/vfe4jp/migrating_project_from_java_to_kotlin/)
 - [IntelliJ regularly auto-completes fully-qualified class names. How do I turn this off?](https://www.reddit.com/r/Kotlin/comments/vfdvje/intellij_regularly_autocompletes_fullyqualified/)
-- [Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/vf1pjs/learning_kotlin/)
-- [Gradle multi-service setup](https://www.reddit.com/r/Kotlin/comments/vell60/gradle_multiservice_setup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
