@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Sequences like API for JS/TS](https://www.reddit.com/r/Kotlin/comments/vjapzq/kotlin_sequences_like_api_for_jsts/)
+- [hey bros, how can i generate class diagram for kotlin code or how can i do it my project follow mvvm architecture](https://www.reddit.com/r/Kotlin/comments/vj75oo/hey_bros_how_can_i_generate_class_diagram_for/)
+- [Functional Kotlin with Arrow by Karin-Aleksandra Monoid @ Func Prog Sweden](https://www.reddit.com/r/Kotlin/comments/viyejy/functional_kotlin_with_arrow_by_karinaleksandra/)
+- [Bruce Eckel &amp; James Ward on Spring Boot with Kotlin](https://www.reddit.com/r/Kotlin/comments/vius7w/bruce_eckel_james_ward_on_spring_boot_with_kotlin/)
+- [mavlink-kotlin. A Kotlin-first MAVLink library for the JVM](https://www.reddit.com/r/Kotlin/comments/viugh3/mavlinkkotlin_a_kotlinfirst_mavlink_library_for/)
+- [UML model and Kotlin/Native code examples of GoF design patterns](https://www.reddit.com/r/Kotlin/comments/vis6h9/uml_model_and_kotlinnative_code_examples_of_gof/)
 - [Should I switch from Java/Spring to Ktor? What are the differences?](https://www.reddit.com/r/Kotlin/comments/vifdnn/should_i_switch_from_javaspring_to_ktor_what_are/)
 - [front-end framework for kotlin](https://www.reddit.com/r/Kotlin/comments/vi4dtu/frontend_framework_for_kotlin/)
 - [Is it reasonable to expect to work entirely with Kotlin?](https://www.reddit.com/r/Kotlin/comments/vhxb9c/is_it_reasonable_to_expect_to_work_entirely_with/)
 - [Can Kotlin and Java coexist in the same Spring project?](https://www.reddit.com/r/Kotlin/comments/vhjezd/can_kotlin_and_java_coexist_in_the_same_spring/)
-- [Best Practices for using Kotlin Coroutines in Android Development](https://www.reddit.com/r/Kotlin/comments/vhilfi/best_practices_for_using_kotlin_coroutines_in/)
-- [Introducing Kotlin Build Reports](https://www.reddit.com/r/Kotlin/comments/vhgjy2/introducing_kotlin_build_reports/)
-- [Why switch to Kotlin?](https://www.reddit.com/r/Kotlin/comments/vhghzz/why_switch_to_kotlin/)
-- [Help: Choreographer doesn&#39;t rerun Composable](https://www.reddit.com/r/Kotlin/comments/vfhx82/help_choreographer_doesnt_rerun_composable/)
-- [Migrating project from Java to Kotlin](https://www.reddit.com/r/Kotlin/comments/vfe4jp/migrating_project_from_java_to_kotlin/)
-- [IntelliJ regularly auto-completes fully-qualified class names. How do I turn this off?](https://www.reddit.com/r/Kotlin/comments/vfdvje/intellij_regularly_autocompletes_fullyqualified/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
