@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I set the socketTimeout in ktor?](https://www.reddit.com/r/Kotlin/comments/vjy3op/how_do_i_set_the_sockettimeout_in_ktor/)
+- [Arrow&#39;s ensureNotNull in either.eager](https://www.reddit.com/r/Kotlin/comments/vjx728/arrows_ensurenotnull_in_eithereager/)
+- [Get value from coroutine function](https://www.reddit.com/r/Kotlin/comments/vjsbte/get_value_from_coroutine_function/)
+- [Combining StateFlows and transforming it into a StateFlow](https://www.reddit.com/r/Kotlin/comments/vjnx6y/combining_stateflows_and_transforming_it_into_a/)
+- [Kotlin refactoring golf exercise - clone it, test your IDE skills and share your best score](https://www.reddit.com/r/Kotlin/comments/vjl5cw/kotlin_refactoring_golf_exercise_clone_it_test/)
+- [jOOQ 3.17.0 release with client side computed columns, audit columns, pattern matching, reactive transactions and kotlin coroutine support](https://www.reddit.com/r/Kotlin/comments/vjj2oj/jooq_3170_release_with_client_side_computed/)
 - [Kotlin Sequences like API for JS/TS](https://www.reddit.com/r/Kotlin/comments/vjapzq/kotlin_sequences_like_api_for_jsts/)
 - [hey bros, how can i generate class diagram for kotlin code or how can i do it my project follow mvvm architecture](https://www.reddit.com/r/Kotlin/comments/vj75oo/hey_bros_how_can_i_generate_class_diagram_for/)
 - [Functional Kotlin with Arrow by Karin-Aleksandra Monoid @ Func Prog Sweden](https://www.reddit.com/r/Kotlin/comments/viyejy/functional_kotlin_with_arrow_by_karinaleksandra/)
 - [Bruce Eckel &amp; James Ward on Spring Boot with Kotlin](https://www.reddit.com/r/Kotlin/comments/vius7w/bruce_eckel_james_ward_on_spring_boot_with_kotlin/)
-- [mavlink-kotlin. A Kotlin-first MAVLink library for the JVM](https://www.reddit.com/r/Kotlin/comments/viugh3/mavlinkkotlin_a_kotlinfirst_mavlink_library_for/)
-- [UML model and Kotlin/Native code examples of GoF design patterns](https://www.reddit.com/r/Kotlin/comments/vis6h9/uml_model_and_kotlinnative_code_examples_of_gof/)
-- [Should I switch from Java/Spring to Ktor? What are the differences?](https://www.reddit.com/r/Kotlin/comments/vifdnn/should_i_switch_from_javaspring_to_ktor_what_are/)
-- [front-end framework for kotlin](https://www.reddit.com/r/Kotlin/comments/vi4dtu/frontend_framework_for_kotlin/)
-- [Is it reasonable to expect to work entirely with Kotlin?](https://www.reddit.com/r/Kotlin/comments/vhxb9c/is_it_reasonable_to_expect_to_work_entirely_with/)
-- [Can Kotlin and Java coexist in the same Spring project?](https://www.reddit.com/r/Kotlin/comments/vhjezd/can_kotlin_and_java_coexist_in_the_same_spring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
