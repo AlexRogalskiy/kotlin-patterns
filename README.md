@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I store a type in a variable](https://www.reddit.com/r/Kotlin/comments/vku9ro/how_do_i_store_a_type_in_a_variable/)
+- [How did the giants rise? Episode III](https://www.reddit.com/r/Kotlin/comments/vkp1yi/how_did_the_giants_rise_episode_iii/)
+- [Val and Var question](https://www.reddit.com/r/Kotlin/comments/vknaov/val_and_var_question/)
+- [How do I launch a Swing coroutine?](https://www.reddit.com/r/Kotlin/comments/vkfulx/how_do_i_launch_a_swing_coroutine/)
+- [Seeking for a german speaking Android Kotlin Dev, who is willing to help me with](https://www.reddit.com/r/Kotlin/comments/vk9ca4/seeking_for_a_german_speaking_android_kotlin_dev/)
+- [Is there a cross platform 2d graphics library with a simple API like p5](https://www.reddit.com/r/Kotlin/comments/vk72rk/is_there_a_cross_platform_2d_graphics_library/)
 - [How do I set the socketTimeout in ktor?](https://www.reddit.com/r/Kotlin/comments/vjy3op/how_do_i_set_the_sockettimeout_in_ktor/)
 - [Arrow&#39;s ensureNotNull in either.eager](https://www.reddit.com/r/Kotlin/comments/vjx728/arrows_ensurenotnull_in_eithereager/)
 - [Get value from coroutine function](https://www.reddit.com/r/Kotlin/comments/vjsbte/get_value_from_coroutine_function/)
 - [Combining StateFlows and transforming it into a StateFlow](https://www.reddit.com/r/Kotlin/comments/vjnx6y/combining_stateflows_and_transforming_it_into_a/)
-- [Kotlin refactoring golf exercise - clone it, test your IDE skills and share your best score](https://www.reddit.com/r/Kotlin/comments/vjl5cw/kotlin_refactoring_golf_exercise_clone_it_test/)
-- [jOOQ 3.17.0 release with client side computed columns, audit columns, pattern matching, reactive transactions and kotlin coroutine support](https://www.reddit.com/r/Kotlin/comments/vjj2oj/jooq_3170_release_with_client_side_computed/)
-- [Kotlin Sequences like API for JS/TS](https://www.reddit.com/r/Kotlin/comments/vjapzq/kotlin_sequences_like_api_for_jsts/)
-- [hey bros, how can i generate class diagram for kotlin code or how can i do it my project follow mvvm architecture](https://www.reddit.com/r/Kotlin/comments/vj75oo/hey_bros_how_can_i_generate_class_diagram_for/)
-- [Functional Kotlin with Arrow by Karin-Aleksandra Monoid @ Func Prog Sweden](https://www.reddit.com/r/Kotlin/comments/viyejy/functional_kotlin_with_arrow_by_karinaleksandra/)
-- [Bruce Eckel &amp; James Ward on Spring Boot with Kotlin](https://www.reddit.com/r/Kotlin/comments/vius7w/bruce_eckel_james_ward_on_spring_boot_with_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
