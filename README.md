@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Spring Boot with Kotlin good?](https://www.reddit.com/r/Kotlin/comments/vl9efe/is_spring_boot_with_kotlin_good/)
+- [Gradle plugin &lpar;written in Kotlin&rpar; for enforcing conventional commits](https://www.reddit.com/r/Kotlin/comments/vl8qv5/gradle_plugin_written_in_kotlin_for_enforcing/)
+- [Kotlin is too good to be true!!!!!!!!!](https://www.reddit.com/r/Kotlin/comments/vkwufv/kotlin_is_too_good_to_be_true/)
 - [How do I store a type in a variable](https://www.reddit.com/r/Kotlin/comments/vku9ro/how_do_i_store_a_type_in_a_variable/)
 - [How did the giants rise? Episode III](https://www.reddit.com/r/Kotlin/comments/vkp1yi/how_did_the_giants_rise_episode_iii/)
 - [Val and Var question](https://www.reddit.com/r/Kotlin/comments/vknaov/val_and_var_question/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Seeking for a german speaking Android Kotlin Dev, who is willing to help me with](https://www.reddit.com/r/Kotlin/comments/vk9ca4/seeking_for_a_german_speaking_android_kotlin_dev/)
 - [Is there a cross platform 2d graphics library with a simple API like p5](https://www.reddit.com/r/Kotlin/comments/vk72rk/is_there_a_cross_platform_2d_graphics_library/)
 - [How do I set the socketTimeout in ktor?](https://www.reddit.com/r/Kotlin/comments/vjy3op/how_do_i_set_the_sockettimeout_in_ktor/)
-- [Arrow&#39;s ensureNotNull in either.eager](https://www.reddit.com/r/Kotlin/comments/vjx728/arrows_ensurenotnull_in_eithereager/)
-- [Get value from coroutine function](https://www.reddit.com/r/Kotlin/comments/vjsbte/get_value_from_coroutine_function/)
-- [Combining StateFlows and transforming it into a StateFlow](https://www.reddit.com/r/Kotlin/comments/vjnx6y/combining_stateflows_and_transforming_it_into_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
