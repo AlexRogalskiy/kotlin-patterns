@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🏹 Arrow Analysis, Optics, and Meta give Kotlin new superpowers! We chat with Raul, Simon, and Alejandro to learn how Arrow adds functional paradigms and safety to Kotlin, and how it aims to influence the future of the language. Join us👇](https://www.reddit.com/r/Kotlin/comments/vlxfd5/arrow_analysis_optics_and_meta_give_kotlin_new/)
+- [Help getting Bitmap as return value of Glide image retrieval](https://www.reddit.com/r/Kotlin/comments/vlpi08/help_getting_bitmap_as_return_value_of_glide/)
 - [Is Spring Boot with Kotlin good?](https://www.reddit.com/r/Kotlin/comments/vl9efe/is_spring_boot_with_kotlin_good/)
 - [Gradle plugin &lpar;written in Kotlin&rpar; for enforcing conventional commits](https://www.reddit.com/r/Kotlin/comments/vl8qv5/gradle_plugin_written_in_kotlin_for_enforcing/)
 - [Kotlin is too good to be true!!!!!!!!!](https://www.reddit.com/r/Kotlin/comments/vkwufv/kotlin_is_too_good_to_be_true/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Val and Var question](https://www.reddit.com/r/Kotlin/comments/vknaov/val_and_var_question/)
 - [How do I launch a Swing coroutine?](https://www.reddit.com/r/Kotlin/comments/vkfulx/how_do_i_launch_a_swing_coroutine/)
 - [Seeking for a german speaking Android Kotlin Dev, who is willing to help me with](https://www.reddit.com/r/Kotlin/comments/vk9ca4/seeking_for_a_german_speaking_android_kotlin_dev/)
-- [Is there a cross platform 2d graphics library with a simple API like p5](https://www.reddit.com/r/Kotlin/comments/vk72rk/is_there_a_cross_platform_2d_graphics_library/)
-- [How do I set the socketTimeout in ktor?](https://www.reddit.com/r/Kotlin/comments/vjy3op/how_do_i_set_the_sockettimeout_in_ktor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
