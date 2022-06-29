@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Generic request and associated response question](https://www.reddit.com/r/Kotlin/comments/vn1qgq/generic_request_and_associated_response_question/)
+- [Help with a Recyclerview that doesn&#39;t want to show data from the db in Firebase](https://www.reddit.com/r/Kotlin/comments/vmx39x/help_with_a_recyclerview_that_doesnt_want_to_show/)
+- [Using test folders on KSP](https://www.reddit.com/r/Kotlin/comments/vmpuew/using_test_folders_on_ksp/)
+- [Are there any Open-source templates?](https://www.reddit.com/r/Kotlin/comments/vmnc13/are_there_any_opensource_templates/)
+- [Very excited for context receivers. Is it unwise to &quot;prepare&quot; for them by using FooContext interface extensions today?](https://www.reddit.com/r/Kotlin/comments/vmmk3n/very_excited_for_context_receivers_is_it_unwise/)
+- [Calling all non-server-side Kotlin JVM developers!](https://www.reddit.com/r/Kotlin/comments/vmk4yu/calling_all_nonserverside_kotlin_jvm_developers/)
 - [🏹 Arrow Analysis, Optics, and Meta give Kotlin new superpowers! We chat with Raul, Simon, and Alejandro to learn how Arrow adds functional paradigms and safety to Kotlin, and how it aims to influence the future of the language. Join us👇](https://www.reddit.com/r/Kotlin/comments/vlxfd5/arrow_analysis_optics_and_meta_give_kotlin_new/)
 - [Help getting Bitmap as return value of Glide image retrieval](https://www.reddit.com/r/Kotlin/comments/vlpi08/help_getting_bitmap_as_return_value_of_glide/)
 - [Is Spring Boot with Kotlin good?](https://www.reddit.com/r/Kotlin/comments/vl9efe/is_spring_boot_with_kotlin_good/)
 - [Gradle plugin &lpar;written in Kotlin&rpar; for enforcing conventional commits](https://www.reddit.com/r/Kotlin/comments/vl8qv5/gradle_plugin_written_in_kotlin_for_enforcing/)
-- [Kotlin is too good to be true!!!!!!!!!](https://www.reddit.com/r/Kotlin/comments/vkwufv/kotlin_is_too_good_to_be_true/)
-- [How do I store a type in a variable](https://www.reddit.com/r/Kotlin/comments/vku9ro/how_do_i_store_a_type_in_a_variable/)
-- [How did the giants rise? Episode III](https://www.reddit.com/r/Kotlin/comments/vkp1yi/how_did_the_giants_rise_episode_iii/)
-- [Val and Var question](https://www.reddit.com/r/Kotlin/comments/vknaov/val_and_var_question/)
-- [How do I launch a Swing coroutine?](https://www.reddit.com/r/Kotlin/comments/vkfulx/how_do_i_launch_a_swing_coroutine/)
-- [Seeking for a german speaking Android Kotlin Dev, who is willing to help me with](https://www.reddit.com/r/Kotlin/comments/vk9ca4/seeking_for_a_german_speaking_android_kotlin_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
