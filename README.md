@@ -272,7 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Expecting member declaration Error](https://www.reddit.com/r/Kotlin/comments/voqf5x/expecting_member_declaration_error/)
+- [Use SearchView to Filter ListView with Custom Adapter](https://www.reddit.com/r/Kotlin/comments/vp874i/use_searchview_to_filter_listview_with_custom/)
+- [Kotlin Dataframe — a new modern, typesafe, idiomatic library for working with flat or hierarchical data frames, seamlessly interoperable with Kotlin collections and data structures](https://www.reddit.com/r/Kotlin/comments/vp6985/kotlin_dataframe_a_new_modern_typesafe_idiomatic/)
+- [MutableStateFlow and Compose](https://www.reddit.com/r/Kotlin/comments/vp1wtr/mutablestateflow_and_compose/)
 - [Kotlin Playground Help](https://www.reddit.com/r/Kotlin/comments/vonu4s/kotlin_playground_help/)
 - [What are pre-release binaries?](https://www.reddit.com/r/Kotlin/comments/vofshb/what_are_prerelease_binaries/)
 - [Cannot run .jar file from console](https://www.reddit.com/r/Kotlin/comments/vob764/cannot_run_jar_file_from_console/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Let us know how your Kotlin journey began](https://www.reddit.com/r/Kotlin/comments/vo68mx/let_us_know_how_your_kotlin_journey_began/)
 - [Functional Programming Designing a Backend](https://www.reddit.com/r/Kotlin/comments/vo23va/functional_programming_designing_a_backend/)
 - [What&#39;s your next CROSS PLATFORM?](https://www.reddit.com/r/Kotlin/comments/vo18c6/whats_your_next_cross_platform/)
-- [What&#39;s your next CROSS PLATFORM?](https://www.reddit.com/r/Kotlin/comments/vo17vz/whats_your_next_cross_platform/)
-- [Improving shared architecture for a Kotlin Multiplatform, Jetpack Compose and SwiftUI app](https://www.reddit.com/r/Kotlin/comments/vnf45e/improving_shared_architecture_for_a_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
