@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do you ever make use of Nested Functions?](https://www.reddit.com/r/Kotlin/comments/vpzvag/do_you_ever_make_use_of_nested_functions/)
+- [learning kotlin](https://www.reddit.com/r/Kotlin/comments/vprk8t/learning_kotlin/)
 - [Use SearchView to Filter ListView with Custom Adapter](https://www.reddit.com/r/Kotlin/comments/vp874i/use_searchview_to_filter_listview_with_custom/)
 - [Kotlin Dataframe — a new modern, typesafe, idiomatic library for working with flat or hierarchical data frames, seamlessly interoperable with Kotlin collections and data structures](https://www.reddit.com/r/Kotlin/comments/vp6985/kotlin_dataframe_a_new_modern_typesafe_idiomatic/)
 - [MutableStateFlow and Compose](https://www.reddit.com/r/Kotlin/comments/vp1wtr/mutablestateflow_and_compose/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Cannot run .jar file from console](https://www.reddit.com/r/Kotlin/comments/vob764/cannot_run_jar_file_from_console/)
 - [KotlinConf is back!](https://www.reddit.com/r/Kotlin/comments/vo6i6o/kotlinconf_is_back/)
 - [Let us know how your Kotlin journey began](https://www.reddit.com/r/Kotlin/comments/vo68mx/let_us_know_how_your_kotlin_journey_began/)
-- [Functional Programming Designing a Backend](https://www.reddit.com/r/Kotlin/comments/vo23va/functional_programming_designing_a_backend/)
-- [What&#39;s your next CROSS PLATFORM?](https://www.reddit.com/r/Kotlin/comments/vo18c6/whats_your_next_cross_platform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
