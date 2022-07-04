@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to make an android app that cuts/slices images, saves each piece and then reassembles each piece in one &lpar;original&rpar; image](https://www.reddit.com/r/Kotlin/comments/vqmmxg/how_to_make_an_android_app_that_cutsslices_images/)
+- [Expert Talk: Native vs Cross-Platform • Sebastiano Poggi &amp; Carl-Gustaf Harroch](https://www.reddit.com/r/Kotlin/comments/vqf899/expert_talk_native_vs_crossplatform_sebastiano/)
+- [which MacBook is best for development.](https://www.reddit.com/r/Kotlin/comments/vqazs4/which_macbook_is_best_for_development/)
 - [Do you ever make use of Nested Functions?](https://www.reddit.com/r/Kotlin/comments/vpzvag/do_you_ever_make_use_of_nested_functions/)
 - [learning kotlin](https://www.reddit.com/r/Kotlin/comments/vprk8t/learning_kotlin/)
 - [Use SearchView to Filter ListView with Custom Adapter](https://www.reddit.com/r/Kotlin/comments/vp874i/use_searchview_to_filter_listview_with_custom/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [MutableStateFlow and Compose](https://www.reddit.com/r/Kotlin/comments/vp1wtr/mutablestateflow_and_compose/)
 - [Kotlin Playground Help](https://www.reddit.com/r/Kotlin/comments/vonu4s/kotlin_playground_help/)
 - [What are pre-release binaries?](https://www.reddit.com/r/Kotlin/comments/vofshb/what_are_prerelease_binaries/)
-- [Cannot run .jar file from console](https://www.reddit.com/r/Kotlin/comments/vob764/cannot_run_jar_file_from_console/)
-- [KotlinConf is back!](https://www.reddit.com/r/Kotlin/comments/vo6i6o/kotlinconf_is_back/)
-- [Let us know how your Kotlin journey began](https://www.reddit.com/r/Kotlin/comments/vo68mx/let_us_know_how_your_kotlin_journey_began/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
