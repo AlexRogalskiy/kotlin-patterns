@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [what are you building with Kotlin?](https://www.reddit.com/r/Kotlin/comments/vrgyex/what_are_you_building_with_kotlin/)
+- [Random stupid question #1](https://www.reddit.com/r/Kotlin/comments/vrarw5/random_stupid_question_1/)
+- [Are some of Kotlin&#39;s language features meant to &quot;mirror&quot; common Design Patterns?](https://www.reddit.com/r/Kotlin/comments/vra326/are_some_of_kotlins_language_features_meant_to/)
+- [Where is the GitHub repo for kotlin multi platform mobile. I can&#39;t find it?](https://www.reddit.com/r/Kotlin/comments/vr3ang/where_is_the_github_repo_for_kotlin_multi/)
+- [No Kotlin in the new OS of Google named &quot;Fuchsia&quot; &lpar;Android replacement&rpar;](https://www.reddit.com/r/Kotlin/comments/vr2z0e/no_kotlin_in_the_new_os_of_google_named_fuchsia/)
 - [How to make an android app that cuts/slices images, saves each piece and then reassembles each piece in one &lpar;original&rpar; image](https://www.reddit.com/r/Kotlin/comments/vqmmxg/how_to_make_an_android_app_that_cutsslices_images/)
 - [Expert Talk: Native vs Cross-Platform • Sebastiano Poggi &amp; Carl-Gustaf Harroch](https://www.reddit.com/r/Kotlin/comments/vqf899/expert_talk_native_vs_crossplatform_sebastiano/)
 - [which MacBook is best for development.](https://www.reddit.com/r/Kotlin/comments/vqazs4/which_macbook_is_best_for_development/)
 - [Do you ever make use of Nested Functions?](https://www.reddit.com/r/Kotlin/comments/vpzvag/do_you_ever_make_use_of_nested_functions/)
 - [learning kotlin](https://www.reddit.com/r/Kotlin/comments/vprk8t/learning_kotlin/)
-- [Use SearchView to Filter ListView with Custom Adapter](https://www.reddit.com/r/Kotlin/comments/vp874i/use_searchview_to_filter_listview_with_custom/)
-- [Kotlin Dataframe — a new modern, typesafe, idiomatic library for working with flat or hierarchical data frames, seamlessly interoperable with Kotlin collections and data structures](https://www.reddit.com/r/Kotlin/comments/vp6985/kotlin_dataframe_a_new_modern_typesafe_idiomatic/)
-- [MutableStateFlow and Compose](https://www.reddit.com/r/Kotlin/comments/vp1wtr/mutablestateflow_and_compose/)
-- [Kotlin Playground Help](https://www.reddit.com/r/Kotlin/comments/vonu4s/kotlin_playground_help/)
-- [What are pre-release binaries?](https://www.reddit.com/r/Kotlin/comments/vofshb/what_are_prerelease_binaries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
