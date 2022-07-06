@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Align ListView to the Right Side of the Screen](https://www.reddit.com/r/Kotlin/comments/vsfdo2/align_listview_to_the_right_side_of_the_screen/)
+- [Top Rated Kotlin Books of July 2022](https://www.reddit.com/r/Kotlin/comments/vsc0sc/top_rated_kotlin_books_of_july_2022/)
+- [Resources for learning advanced Kotlin ideas?](https://www.reddit.com/r/Kotlin/comments/vsbjku/resources_for_learning_advanced_kotlin_ideas/)
+- [Getting few errors while trying to implement wifi p2p in android using kotlin](https://www.reddit.com/r/Kotlin/comments/vsathd/getting_few_errors_while_trying_to_implement_wifi/)
+- [help migrating android lib to KMP](https://www.reddit.com/r/Kotlin/comments/vs9vb5/help_migrating_android_lib_to_kmp/)
+- [Mutable Lists](https://www.reddit.com/r/Kotlin/comments/vs34al/mutable_lists/)
+- [Can&#39;t implement paging3](https://www.reddit.com/r/Kotlin/comments/vrskat/cant_implement_paging3/)
+- [Top Web Developer Communities](https://www.reddit.com/r/Kotlin/comments/vrqswi/top_web_developer_communities/)
+- [How can I check the status of the Kotlin daemons?](https://www.reddit.com/r/Kotlin/comments/vrq724/how_can_i_check_the_status_of_the_kotlin_daemons/)
 - [what are you building with Kotlin?](https://www.reddit.com/r/Kotlin/comments/vrgyex/what_are_you_building_with_kotlin/)
-- [Random stupid question #1](https://www.reddit.com/r/Kotlin/comments/vrarw5/random_stupid_question_1/)
-- [Are some of Kotlin&#39;s language features meant to &quot;mirror&quot; common Design Patterns?](https://www.reddit.com/r/Kotlin/comments/vra326/are_some_of_kotlins_language_features_meant_to/)
-- [Where is the GitHub repo for kotlin multi platform mobile. I can&#39;t find it?](https://www.reddit.com/r/Kotlin/comments/vr3ang/where_is_the_github_repo_for_kotlin_multi/)
-- [No Kotlin in the new OS of Google named &quot;Fuchsia&quot; &lpar;Android replacement&rpar;](https://www.reddit.com/r/Kotlin/comments/vr2z0e/no_kotlin_in_the_new_os_of_google_named_fuchsia/)
-- [How to make an android app that cuts/slices images, saves each piece and then reassembles each piece in one &lpar;original&rpar; image](https://www.reddit.com/r/Kotlin/comments/vqmmxg/how_to_make_an_android_app_that_cutsslices_images/)
-- [Expert Talk: Native vs Cross-Platform • Sebastiano Poggi &amp; Carl-Gustaf Harroch](https://www.reddit.com/r/Kotlin/comments/vqf899/expert_talk_native_vs_crossplatform_sebastiano/)
-- [which MacBook is best for development.](https://www.reddit.com/r/Kotlin/comments/vqazs4/which_macbook_is_best_for_development/)
-- [Do you ever make use of Nested Functions?](https://www.reddit.com/r/Kotlin/comments/vpzvag/do_you_ever_make_use_of_nested_functions/)
-- [learning kotlin](https://www.reddit.com/r/Kotlin/comments/vprk8t/learning_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
