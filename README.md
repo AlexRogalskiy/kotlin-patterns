@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [can somebody update me about rumors/announcements about ios compose](https://www.reddit.com/r/Kotlin/comments/vt1vc8/can_somebody_update_me_about_rumorsannouncements/)
+- [Ktor Client GET request with cookies](https://www.reddit.com/r/Kotlin/comments/vsw0ir/ktor_client_get_request_with_cookies/)
+- [Is Kotlin a front-end, back-end, or full-stack language for Android?](https://www.reddit.com/r/Kotlin/comments/vsvkip/is_kotlin_a_frontend_backend_or_fullstack/)
+- [PSA: MutableCollection.removeAll isn&#39;t the same as calling remove in a loop](https://www.reddit.com/r/Kotlin/comments/vst23i/psa_mutablecollectionremoveall_isnt_the_same_as/)
+- [Passing data from dialog fragment](https://www.reddit.com/r/Kotlin/comments/vsrz4u/passing_data_from_dialog_fragment/)
+- [Is Kotlin sufficient for Android app development?](https://www.reddit.com/r/Kotlin/comments/vsqzga/is_kotlin_sufficient_for_android_app_development/)
+- [I want to learn Kotlin, any advice? especially help roadmaps how to move, what to study, what courses can you recommend](https://www.reddit.com/r/Kotlin/comments/vsk4og/i_want_to_learn_kotlin_any_advice_especially_help/)
+- [Using Spring Data JPA with Kotlin](https://www.reddit.com/r/Kotlin/comments/vsj6qm/using_spring_data_jpa_with_kotlin/)
 - [Align ListView to the Right Side of the Screen](https://www.reddit.com/r/Kotlin/comments/vsfdo2/align_listview_to_the_right_side_of_the_screen/)
 - [Top Rated Kotlin Books of July 2022](https://www.reddit.com/r/Kotlin/comments/vsc0sc/top_rated_kotlin_books_of_july_2022/)
-- [Resources for learning advanced Kotlin ideas?](https://www.reddit.com/r/Kotlin/comments/vsbjku/resources_for_learning_advanced_kotlin_ideas/)
-- [Getting few errors while trying to implement wifi p2p in android using kotlin](https://www.reddit.com/r/Kotlin/comments/vsathd/getting_few_errors_while_trying_to_implement_wifi/)
-- [help migrating android lib to KMP](https://www.reddit.com/r/Kotlin/comments/vs9vb5/help_migrating_android_lib_to_kmp/)
-- [Mutable Lists](https://www.reddit.com/r/Kotlin/comments/vs34al/mutable_lists/)
-- [Can&#39;t implement paging3](https://www.reddit.com/r/Kotlin/comments/vrskat/cant_implement_paging3/)
-- [Top Web Developer Communities](https://www.reddit.com/r/Kotlin/comments/vrqswi/top_web_developer_communities/)
-- [How can I check the status of the Kotlin daemons?](https://www.reddit.com/r/Kotlin/comments/vrq724/how_can_i_check_the_status_of_the_kotlin_daemons/)
-- [what are you building with Kotlin?](https://www.reddit.com/r/Kotlin/comments/vrgyex/what_are_you_building_with_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
