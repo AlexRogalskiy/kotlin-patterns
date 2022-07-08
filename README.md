@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Complete Kotlin development masterclass](https://www.reddit.com/r/Kotlin/comments/vtv8qk/complete_kotlin_development_masterclass/)
+- [Elasticmagic - Kotlin dsl for Elasticsearch](https://www.reddit.com/r/Kotlin/comments/vtpzok/elasticmagic_kotlin_dsl_for_elasticsearch/)
+- [Help with generic but typed &quot;blackboard pattern&quot;](https://www.reddit.com/r/Kotlin/comments/vtjfga/help_with_generic_but_typed_blackboard_pattern/)
+- [Why covariant can&#39;t be used as var property or a function parameter?](https://www.reddit.com/r/Kotlin/comments/vthi8x/why_covariant_cant_be_used_as_var_property_or_a/)
+- [Did you automate your work with Intellij Plugins?](https://www.reddit.com/r/Kotlin/comments/vtbgc3/did_you_automate_your_work_with_intellij_plugins/)
 - [can somebody update me about rumors/announcements about ios compose](https://www.reddit.com/r/Kotlin/comments/vt1vc8/can_somebody_update_me_about_rumorsannouncements/)
 - [Ktor Client GET request with cookies](https://www.reddit.com/r/Kotlin/comments/vsw0ir/ktor_client_get_request_with_cookies/)
 - [Is Kotlin a front-end, back-end, or full-stack language for Android?](https://www.reddit.com/r/Kotlin/comments/vsvkip/is_kotlin_a_frontend_backend_or_fullstack/)
 - [PSA: MutableCollection.removeAll isn&#39;t the same as calling remove in a loop](https://www.reddit.com/r/Kotlin/comments/vst23i/psa_mutablecollectionremoveall_isnt_the_same_as/)
 - [Passing data from dialog fragment](https://www.reddit.com/r/Kotlin/comments/vsrz4u/passing_data_from_dialog_fragment/)
-- [Is Kotlin sufficient for Android app development?](https://www.reddit.com/r/Kotlin/comments/vsqzga/is_kotlin_sufficient_for_android_app_development/)
-- [I want to learn Kotlin, any advice? especially help roadmaps how to move, what to study, what courses can you recommend](https://www.reddit.com/r/Kotlin/comments/vsk4og/i_want_to_learn_kotlin_any_advice_especially_help/)
-- [Using Spring Data JPA with Kotlin](https://www.reddit.com/r/Kotlin/comments/vsj6qm/using_spring_data_jpa_with_kotlin/)
-- [Align ListView to the Right Side of the Screen](https://www.reddit.com/r/Kotlin/comments/vsfdo2/align_listview_to_the_right_side_of_the_screen/)
-- [Top Rated Kotlin Books of July 2022](https://www.reddit.com/r/Kotlin/comments/vsc0sc/top_rated_kotlin_books_of_july_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
