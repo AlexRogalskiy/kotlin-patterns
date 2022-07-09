@@ -272,7 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Complete Kotlin development masterclass](https://www.reddit.com/r/Kotlin/comments/vtv8qk/complete_kotlin_development_masterclass/)
+- [Kotlin gRPC Live-snippets, different Linting Styles, and call private gRPC from web-browser](https://www.reddit.com/r/Kotlin/comments/vufgmh/kotlin_grpc_livesnippets_different_linting_styles/)
 - [Elasticmagic - Kotlin dsl for Elasticsearch](https://www.reddit.com/r/Kotlin/comments/vtpzok/elasticmagic_kotlin_dsl_for_elasticsearch/)
 - [Help with generic but typed &quot;blackboard pattern&quot;](https://www.reddit.com/r/Kotlin/comments/vtjfga/help_with_generic_but_typed_blackboard_pattern/)
 - [Why covariant can&#39;t be used as var property or a function parameter?](https://www.reddit.com/r/Kotlin/comments/vthi8x/why_covariant_cant_be_used_as_var_property_or_a/)
