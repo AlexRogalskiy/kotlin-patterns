@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Kotlin DSL wrapper for reveal.js](https://www.reddit.com/r/Kotlin/comments/vv78nx/a_kotlin_dsl_wrapper_for_revealjs/)
+- [Doodle 0.8.0 Released With 3D Rendering](https://www.reddit.com/r/Kotlin/comments/vuujwa/doodle_080_released_with_3d_rendering/)
 - [Kotlin gRPC Live-snippets, different Linting Styles, and call private gRPC from web-browser](https://www.reddit.com/r/Kotlin/comments/vufgmh/kotlin_grpc_livesnippets_different_linting_styles/)
 - [Elasticmagic - Kotlin dsl for Elasticsearch](https://www.reddit.com/r/Kotlin/comments/vtpzok/elasticmagic_kotlin_dsl_for_elasticsearch/)
 - [Help with generic but typed &quot;blackboard pattern&quot;](https://www.reddit.com/r/Kotlin/comments/vtjfga/help_with_generic_but_typed_blackboard_pattern/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [can somebody update me about rumors/announcements about ios compose](https://www.reddit.com/r/Kotlin/comments/vt1vc8/can_somebody_update_me_about_rumorsannouncements/)
 - [Ktor Client GET request with cookies](https://www.reddit.com/r/Kotlin/comments/vsw0ir/ktor_client_get_request_with_cookies/)
 - [Is Kotlin a front-end, back-end, or full-stack language for Android?](https://www.reddit.com/r/Kotlin/comments/vsvkip/is_kotlin_a_frontend_backend_or_fullstack/)
-- [PSA: MutableCollection.removeAll isn&#39;t the same as calling remove in a loop](https://www.reddit.com/r/Kotlin/comments/vst23i/psa_mutablecollectionremoveall_isnt_the_same_as/)
-- [Passing data from dialog fragment](https://www.reddit.com/r/Kotlin/comments/vsrz4u/passing_data_from_dialog_fragment/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
