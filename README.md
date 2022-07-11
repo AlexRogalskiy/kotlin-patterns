@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Use of Boolean.and&lpar;&rpar;.not&lpar;&rpar;.or&lpar;&rpar; etc](https://www.reddit.com/r/Kotlin/comments/vw4edr/use_of_booleanandnotor_etc/)
+- [How to debug Kotlin Native in IDEA with args?](https://www.reddit.com/r/Kotlin/comments/vw0i5d/how_to_debug_kotlin_native_in_idea_with_args/)
 - [A Kotlin DSL wrapper for reveal.js](https://www.reddit.com/r/Kotlin/comments/vv78nx/a_kotlin_dsl_wrapper_for_revealjs/)
 - [Doodle 0.8.0 Released With 3D Rendering](https://www.reddit.com/r/Kotlin/comments/vuujwa/doodle_080_released_with_3d_rendering/)
 - [Kotlin gRPC Live-snippets, different Linting Styles, and call private gRPC from web-browser](https://www.reddit.com/r/Kotlin/comments/vufgmh/kotlin_grpc_livesnippets_different_linting_styles/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Why covariant can&#39;t be used as var property or a function parameter?](https://www.reddit.com/r/Kotlin/comments/vthi8x/why_covariant_cant_be_used_as_var_property_or_a/)
 - [Did you automate your work with Intellij Plugins?](https://www.reddit.com/r/Kotlin/comments/vtbgc3/did_you_automate_your_work_with_intellij_plugins/)
 - [can somebody update me about rumors/announcements about ios compose](https://www.reddit.com/r/Kotlin/comments/vt1vc8/can_somebody_update_me_about_rumorsannouncements/)
-- [Ktor Client GET request with cookies](https://www.reddit.com/r/Kotlin/comments/vsw0ir/ktor_client_get_request_with_cookies/)
-- [Is Kotlin a front-end, back-end, or full-stack language for Android?](https://www.reddit.com/r/Kotlin/comments/vsvkip/is_kotlin_a_frontend_backend_or_fullstack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
