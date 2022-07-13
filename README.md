@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Serialization deserializing HELP](https://www.reddit.com/r/Kotlin/comments/vxhxex/kotlin_serialization_deserializing_help/)
+- [Kotlin Error Handling - Exceptions, Nulls and Error Types](https://www.reddit.com/r/Kotlin/comments/vxfuue/kotlin_error_handling_exceptions_nulls_and_error/)
+- [Which assertion library do you use?](https://www.reddit.com/r/Kotlin/comments/vxbpyo/which_assertion_library_do_you_use/)
+- [Troubleshooting HTTP 502 bad gateway in AWS EBS](https://www.reddit.com/r/Kotlin/comments/vx8gan/troubleshooting_http_502_bad_gateway_in_aws_ebs/)
 - [Storing emitted Flow values in a list](https://www.reddit.com/r/Kotlin/comments/vwscvj/storing_emitted_flow_values_in_a_list/)
 - [How do you imoprt custom fonts in Kotlin/JS?](https://www.reddit.com/r/Kotlin/comments/vwdnay/how_do_you_imoprt_custom_fonts_in_kotlinjs/)
 - [Managing Complexity in Software • Hadi Hariri &amp; Kevlin Henney](https://www.reddit.com/r/Kotlin/comments/vwd744/managing_complexity_in_software_hadi_hariri/)
 - [Clean Code](https://www.reddit.com/r/Kotlin/comments/vwbtgb/clean_code/)
 - [Use of Boolean.and&lpar;&rpar;.not&lpar;&rpar;.or&lpar;&rpar; etc](https://www.reddit.com/r/Kotlin/comments/vw4edr/use_of_booleanandnotor_etc/)
 - [How to debug Kotlin Native in IDEA with args?](https://www.reddit.com/r/Kotlin/comments/vw0i5d/how_to_debug_kotlin_native_in_idea_with_args/)
-- [A Kotlin DSL wrapper for reveal.js](https://www.reddit.com/r/Kotlin/comments/vv78nx/a_kotlin_dsl_wrapper_for_revealjs/)
-- [Doodle 0.8.0 Released With 3D Rendering](https://www.reddit.com/r/Kotlin/comments/vuujwa/doodle_080_released_with_3d_rendering/)
-- [Kotlin gRPC Live-snippets, different Linting Styles, and call private gRPC from web-browser](https://www.reddit.com/r/Kotlin/comments/vufgmh/kotlin_grpc_livesnippets_different_linting_styles/)
-- [Elasticmagic - Kotlin dsl for Elasticsearch](https://www.reddit.com/r/Kotlin/comments/vtpzok/elasticmagic_kotlin_dsl_for_elasticsearch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
