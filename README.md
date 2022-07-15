@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [some code to do equations](https://www.reddit.com/r/Kotlin/comments/vz48ul/some_code_to_do_equations/)
+- [How to configure Gson to make a variable null if a type is wrong](https://www.reddit.com/r/Kotlin/comments/vz32uc/how_to_configure_gson_to_make_a_variable_null_if/)
+- [can someone explain this code sample please?](https://www.reddit.com/r/Kotlin/comments/vyx1w3/can_someone_explain_this_code_sample_please/)
+- [What&#39;s wrong with this? Trying to write my own examples of multiple inheritance for interfaces](https://www.reddit.com/r/Kotlin/comments/vyss9s/whats_wrong_with_this_trying_to_write_my_own/)
 - [[Typesafe HTML DSL﻿] Is there a way to use the &quot;%&quot; unit in CSS?](https://www.reddit.com/r/Kotlin/comments/vydykr/typesafe_html_dsl_is_there_a_way_to_use_the_unit/)
 - [What is the difference between sealed and abstract classes aside from sealed classes being package-locked and compiler warning you about missing branches in a when expression?](https://www.reddit.com/r/Kotlin/comments/vy7mlw/what_is_the_difference_between_sealed_and/)
 - [Interactive way to learn basics of Kotlin](https://www.reddit.com/r/Kotlin/comments/vy5fbi/interactive_way_to_learn_basics_of_kotlin/)
 - [Only classes are allowed on the left hand side of a class literal](https://www.reddit.com/r/Kotlin/comments/vy0hln/only_classes_are_allowed_on_the_left_hand_side_of/)
 - [Kotlin Serialization deserializing HELP](https://www.reddit.com/r/Kotlin/comments/vxhxex/kotlin_serialization_deserializing_help/)
 - [Kotlin Error Handling - Exceptions, Nulls and Error Types](https://www.reddit.com/r/Kotlin/comments/vxfuue/kotlin_error_handling_exceptions_nulls_and_error/)
-- [Which assertion library do you use?](https://www.reddit.com/r/Kotlin/comments/vxbpyo/which_assertion_library_do_you_use/)
-- [Troubleshooting HTTP 502 bad gateway in AWS EBS](https://www.reddit.com/r/Kotlin/comments/vx8gan/troubleshooting_http_502_bad_gateway_in_aws_ebs/)
-- [Storing emitted Flow values in a list](https://www.reddit.com/r/Kotlin/comments/vwscvj/storing_emitted_flow_values_in_a_list/)
-- [How do you imoprt custom fonts in Kotlin/JS?](https://www.reddit.com/r/Kotlin/comments/vwdnay/how_do_you_imoprt_custom_fonts_in_kotlinjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
