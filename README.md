@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin native vs React native vs Flutter](https://www.reddit.com/r/Kotlin/comments/vztgbz/kotlin_native_vs_react_native_vs_flutter/)
+- [A New Approach to Incremental Compilation in Kotlin](https://www.reddit.com/r/Kotlin/comments/vzqu0y/a_new_approach_to_incremental_compilation_in/)
+- [migrating a LARGE flask api to kotlin+spring boot. any advice ?](https://www.reddit.com/r/Kotlin/comments/vzq0ze/migrating_a_large_flask_api_to_kotlinspring_boot/)
+- [Creating a small application with CRDT&#39;s in Kotlin](https://www.reddit.com/r/Kotlin/comments/vzjf6c/creating_a_small_application_with_crdts_in_kotlin/)
 - [some code to do equations](https://www.reddit.com/r/Kotlin/comments/vz48ul/some_code_to_do_equations/)
 - [How to configure Gson to make a variable null if a type is wrong](https://www.reddit.com/r/Kotlin/comments/vz32uc/how_to_configure_gson_to_make_a_variable_null_if/)
 - [can someone explain this code sample please?](https://www.reddit.com/r/Kotlin/comments/vyx1w3/can_someone_explain_this_code_sample_please/)
 - [What&#39;s wrong with this? Trying to write my own examples of multiple inheritance for interfaces](https://www.reddit.com/r/Kotlin/comments/vyss9s/whats_wrong_with_this_trying_to_write_my_own/)
 - [[Typesafe HTML DSL﻿] Is there a way to use the &quot;%&quot; unit in CSS?](https://www.reddit.com/r/Kotlin/comments/vydykr/typesafe_html_dsl_is_there_a_way_to_use_the_unit/)
 - [What is the difference between sealed and abstract classes aside from sealed classes being package-locked and compiler warning you about missing branches in a when expression?](https://www.reddit.com/r/Kotlin/comments/vy7mlw/what_is_the_difference_between_sealed_and/)
-- [Interactive way to learn basics of Kotlin](https://www.reddit.com/r/Kotlin/comments/vy5fbi/interactive_way_to_learn_basics_of_kotlin/)
-- [Only classes are allowed on the left hand side of a class literal](https://www.reddit.com/r/Kotlin/comments/vy0hln/only_classes_are_allowed_on_the_left_hand_side_of/)
-- [Kotlin Serialization deserializing HELP](https://www.reddit.com/r/Kotlin/comments/vxhxex/kotlin_serialization_deserializing_help/)
-- [Kotlin Error Handling - Exceptions, Nulls and Error Types](https://www.reddit.com/r/Kotlin/comments/vxfuue/kotlin_error_handling_exceptions_nulls_and_error/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
