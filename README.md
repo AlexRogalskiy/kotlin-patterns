@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Kotlin/JS for React] Do error boundaries exist?](https://www.reddit.com/r/Kotlin/comments/w11xf1/kotlinjs_for_react_do_error_boundaries_exist/)
+- [How is Kotlin not dead yet?](https://www.reddit.com/r/Kotlin/comments/w0yyci/how_is_kotlin_not_dead_yet/)
+- [How does Kotlin backward compatibility work?](https://www.reddit.com/r/Kotlin/comments/w0ym6a/how_does_kotlin_backward_compatibility_work/)
 - [Is Kotlin the right tool for my offline personal projects? I just want a shared logic for different platforms](https://www.reddit.com/r/Kotlin/comments/w0w0f9/is_kotlin_the_right_tool_for_my_offline_personal/)
 - [[Problem] Gradle Sync: &quot;Cannot find a variant matching build type &#39;null&#39; and product flavors &#39;[]&#39; in module&quot; [AGP]](https://www.reddit.com/r/Kotlin/comments/w0n8ts/problem_gradle_sync_cannot_find_a_variant/)
 - [Know any useful/accurate Room tutorials?](https://www.reddit.com/r/Kotlin/comments/w0dusz/know_any_usefulaccurate_room_tutorials/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin native vs React native vs Flutter](https://www.reddit.com/r/Kotlin/comments/vztgbz/kotlin_native_vs_react_native_vs_flutter/)
 - [A New Approach to Incremental Compilation in Kotlin](https://www.reddit.com/r/Kotlin/comments/vzqu0y/a_new_approach_to_incremental_compilation_in/)
 - [migrating a LARGE flask api to kotlin+spring boot. any advice ?](https://www.reddit.com/r/Kotlin/comments/vzq0ze/migrating_a_large_flask_api_to_kotlinspring_boot/)
-- [Creating a small application with CRDT&#39;s in Kotlin](https://www.reddit.com/r/Kotlin/comments/vzjf6c/creating_a_small_application_with_crdts_in_kotlin/)
-- [some code to do equations](https://www.reddit.com/r/Kotlin/comments/vz48ul/some_code_to_do_equations/)
-- [How to configure Gson to make a variable null if a type is wrong](https://www.reddit.com/r/Kotlin/comments/vz32uc/how_to_configure_gson_to_make_a_variable_null_if/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
