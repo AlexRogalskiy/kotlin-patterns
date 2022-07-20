@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Test Suite in Kotest](https://www.reddit.com/r/Kotlin/comments/w34336/test_suite_in_kotest/)
+- [Creating a simple colour picker in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/w2yvix/creating_a_simple_colour_picker_in_jetpack_compose/)
+- [How to pass this argument in java?](https://www.reddit.com/r/Kotlin/comments/w2twlx/how_to_pass_this_argument_in_java/)
 - [Do actual Kotlin backend jobs exist?](https://www.reddit.com/r/Kotlin/comments/w2exvz/do_actual_kotlin_backend_jobs_exist/)
 - [Experiment to make OpenGL work together with Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/w2ehrl/experiment_to_make_opengl_work_together_with/)
 - [[Typesafe HTML DSL] Is there a way to handle keypresses?](https://www.reddit.com/r/Kotlin/comments/w28zwr/typesafe_html_dsl_is_there_a_way_to_handle/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Cualidades clave de Kotlin](https://www.reddit.com/r/Kotlin/comments/w1qobn/cualidades_clave_de_kotlin/)
 - [[Kotlin/JS for React] Do error boundaries exist?](https://www.reddit.com/r/Kotlin/comments/w11xf1/kotlinjs_for_react_do_error_boundaries_exist/)
 - [How is Kotlin not dead yet?](https://www.reddit.com/r/Kotlin/comments/w0yyci/how_is_kotlin_not_dead_yet/)
-- [How does Kotlin backward compatibility work?](https://www.reddit.com/r/Kotlin/comments/w0ym6a/how_does_kotlin_backward_compatibility_work/)
-- [Is Kotlin the right tool for my offline personal projects? I just want a shared logic for different platforms](https://www.reddit.com/r/Kotlin/comments/w0w0f9/is_kotlin_the_right_tool_for_my_offline_personal/)
-- [[Problem] Gradle Sync: &quot;Cannot find a variant matching build type &#39;null&#39; and product flavors &#39;[]&#39; in module&quot; [AGP]](https://www.reddit.com/r/Kotlin/comments/w0n8ts/problem_gradle_sync_cannot_find_a_variant/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
