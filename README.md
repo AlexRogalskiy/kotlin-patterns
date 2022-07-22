@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I think I found a compiler bug? No clue why this happens](https://www.reddit.com/r/Kotlin/comments/w4vq4c/i_think_i_found_a_compiler_bug_no_clue_why_this/)
+- [Is it possible to make the usage of KSP easier?](https://www.reddit.com/r/Kotlin/comments/w4m34k/is_it_possible_to_make_the_usage_of_ksp_easier/)
+- [We released a new version of ShapeShift &lpar;0.4.0&rpar; - A lightweight Kotlin first library for Object Mapping. Would love to hear your thoughts!](https://www.reddit.com/r/Kotlin/comments/w4hz5h/we_released_a_new_version_of_shapeshift_040_a/)
+- [Introducing Résultat library](https://www.reddit.com/r/Kotlin/comments/w4ggz0/introducing_résultat_library/)
+- [What is the point of Constructor for Class instead of Var/Val?](https://www.reddit.com/r/Kotlin/comments/w4dinw/what_is_the_point_of_constructor_for_class/)
 - [What&#39;s your favorite/best written of kotlin code?](https://www.reddit.com/r/Kotlin/comments/w3qbvc/whats_your_favoritebest_written_of_kotlin_code/)
 - [Does Kotlin support default class property values?](https://www.reddit.com/r/Kotlin/comments/w3ltks/does_kotlin_support_default_class_property_values/)
 - [How can I implement Label statement in Kotlin?](https://www.reddit.com/r/Kotlin/comments/w3gla0/how_can_i_implement_label_statement_in_kotlin/)
 - [Test Suite in Kotest](https://www.reddit.com/r/Kotlin/comments/w34336/test_suite_in_kotest/)
 - [Creating a simple colour picker in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/w2yvix/creating_a_simple_colour_picker_in_jetpack_compose/)
-- [How to pass this argument in java?](https://www.reddit.com/r/Kotlin/comments/w2twlx/how_to_pass_this_argument_in_java/)
-- [Do actual Kotlin backend jobs exist?](https://www.reddit.com/r/Kotlin/comments/w2exvz/do_actual_kotlin_backend_jobs_exist/)
-- [Experiment to make OpenGL work together with Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/w2ehrl/experiment_to_make_opengl_work_together_with/)
-- [[Typesafe HTML DSL] Is there a way to handle keypresses?](https://www.reddit.com/r/Kotlin/comments/w28zwr/typesafe_html_dsl_is_there_a_way_to_handle/)
-- [A benchmark to show you how fast my ORM framework is](https://www.reddit.com/r/Kotlin/comments/w24ixr/a_benchmark_to_show_you_how_fast_my_orm_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
