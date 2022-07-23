@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do you do when you&#39;re reading/learning Kotlin and not sure what the hell is going on? Like, no matter how much you reread something, it&#39;s just not clicking..](https://www.reddit.com/r/Kotlin/comments/w5l841/what_do_you_do_when_youre_readinglearning_kotlin/)
+- [How is Kotlin support for cross platform gui?](https://www.reddit.com/r/Kotlin/comments/w5e07z/how_is_kotlin_support_for_cross_platform_gui/)
+- [Adyen&#39;s Kotlin Android SDK Team is Growing in Chicago!](https://www.reddit.com/r/Kotlin/comments/w5am0c/adyens_kotlin_android_sdk_team_is_growing_in/)
+- [The missing guide to Protobuf insertion points in Java/Kotlin](https://www.reddit.com/r/Kotlin/comments/w5aat7/the_missing_guide_to_protobuf_insertion_points_in/)
+- [What is &quot; -&gt; &quot; operator and what does it do in Kotlin?](https://www.reddit.com/r/Kotlin/comments/w55xhs/what_is_operator_and_what_does_it_do_in_kotlin/)
 - [I think I found a compiler bug? No clue why this happens](https://www.reddit.com/r/Kotlin/comments/w4vq4c/i_think_i_found_a_compiler_bug_no_clue_why_this/)
 - [Is it possible to make the usage of KSP easier?](https://www.reddit.com/r/Kotlin/comments/w4m34k/is_it_possible_to_make_the_usage_of_ksp_easier/)
 - [We released a new version of ShapeShift &lpar;0.4.0&rpar; - A lightweight Kotlin first library for Object Mapping. Would love to hear your thoughts!](https://www.reddit.com/r/Kotlin/comments/w4hz5h/we_released_a_new_version_of_shapeshift_040_a/)
 - [Introducing Résultat library](https://www.reddit.com/r/Kotlin/comments/w4ggz0/introducing_résultat_library/)
 - [What is the point of Constructor for Class instead of Var/Val?](https://www.reddit.com/r/Kotlin/comments/w4dinw/what_is_the_point_of_constructor_for_class/)
-- [What&#39;s your favorite/best written of kotlin code?](https://www.reddit.com/r/Kotlin/comments/w3qbvc/whats_your_favoritebest_written_of_kotlin_code/)
-- [Does Kotlin support default class property values?](https://www.reddit.com/r/Kotlin/comments/w3ltks/does_kotlin_support_default_class_property_values/)
-- [How can I implement Label statement in Kotlin?](https://www.reddit.com/r/Kotlin/comments/w3gla0/how_can_i_implement_label_statement_in_kotlin/)
-- [Test Suite in Kotest](https://www.reddit.com/r/Kotlin/comments/w34336/test_suite_in_kotest/)
-- [Creating a simple colour picker in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/w2yvix/creating_a_simple_colour_picker_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
