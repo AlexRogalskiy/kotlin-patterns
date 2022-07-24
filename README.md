@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s the meaning of this return type with the two dots &lpar;..&rpar; when calling Java code from Kotlin?](https://www.reddit.com/r/Kotlin/comments/w6gsks/whats_the_meaning_of_this_return_type_with_the/)
+- [How to make a Kotlin native application for Mac, Windows, and Linux with OpenGL](https://www.reddit.com/r/Kotlin/comments/w67y5s/how_to_make_a_kotlin_native_application_for_mac/)
+- [ZonedDateTime with DST](https://www.reddit.com/r/Kotlin/comments/w6775h/zoneddatetime_with_dst/)
+- [Kotlin problem](https://www.reddit.com/r/Kotlin/comments/w63o65/kotlin_problem/)
+- [[Release] realworld-kotlin-ktor with Ktor 2.0 updates](https://www.reddit.com/r/Kotlin/comments/w5yavl/release_realworldkotlinktor_with_ktor_20_updates/)
+- [org.hibernate.MappingException: Composite-id class must implement Serializable: StoreEntity](https://www.reddit.com/r/Kotlin/comments/w5y59u/orghibernatemappingexception_compositeid_class/)
+- [How does the KClass work in relation to the JVM and runtime reflection of our classes, functions and properties?](https://www.reddit.com/r/Kotlin/comments/w5tmy0/how_does_the_kclass_work_in_relation_to_the_jvm/)
 - [What do you do when you&#39;re reading/learning Kotlin and not sure what the hell is going on? Like, no matter how much you reread something, it&#39;s just not clicking..](https://www.reddit.com/r/Kotlin/comments/w5l841/what_do_you_do_when_youre_readinglearning_kotlin/)
 - [How is Kotlin support for cross platform gui?](https://www.reddit.com/r/Kotlin/comments/w5e07z/how_is_kotlin_support_for_cross_platform_gui/)
 - [Adyen&#39;s Kotlin Android SDK Team is Growing in Chicago!](https://www.reddit.com/r/Kotlin/comments/w5am0c/adyens_kotlin_android_sdk_team_is_growing_in/)
-- [The missing guide to Protobuf insertion points in Java/Kotlin](https://www.reddit.com/r/Kotlin/comments/w5aat7/the_missing_guide_to_protobuf_insertion_points_in/)
-- [What is &quot; -&gt; &quot; operator and what does it do in Kotlin?](https://www.reddit.com/r/Kotlin/comments/w55xhs/what_is_operator_and_what_does_it_do_in_kotlin/)
-- [I think I found a compiler bug? No clue why this happens](https://www.reddit.com/r/Kotlin/comments/w4vq4c/i_think_i_found_a_compiler_bug_no_clue_why_this/)
-- [Is it possible to make the usage of KSP easier?](https://www.reddit.com/r/Kotlin/comments/w4m34k/is_it_possible_to_make_the_usage_of_ksp_easier/)
-- [We released a new version of ShapeShift &lpar;0.4.0&rpar; - A lightweight Kotlin first library for Object Mapping. Would love to hear your thoughts!](https://www.reddit.com/r/Kotlin/comments/w4hz5h/we_released_a_new_version_of_shapeshift_040_a/)
-- [Introducing Résultat library](https://www.reddit.com/r/Kotlin/comments/w4ggz0/introducing_résultat_library/)
-- [What is the point of Constructor for Class instead of Var/Val?](https://www.reddit.com/r/Kotlin/comments/w4dinw/what_is_the_point_of_constructor_for_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
