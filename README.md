@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best way to select arrays by frequency of appearance of nums of interest](https://www.reddit.com/r/Kotlin/comments/w7656a/best_way_to_select_arrays_by_frequency_of/)
+- [[Kotlin/JS for React] Is there a way to use React Portals?](https://www.reddit.com/r/Kotlin/comments/w71of6/kotlinjs_for_react_is_there_a_way_to_use_react/)
+- [KMMT : Kotlin Multiplatform Mobile Template - Updated to multi module structure and new features](https://www.reddit.com/r/Kotlin/comments/w70q1n/kmmt_kotlin_multiplatform_mobile_template_updated/)
+- [What is this type &lpar;the &quot;&amp;&quot;s specifially&rpar;?](https://www.reddit.com/r/Kotlin/comments/w70jig/what_is_this_type_the_s_specifially/)
+- [Need a private Kotlin lesson for a position I&#39;m applying to.](https://www.reddit.com/r/Kotlin/comments/w6uum6/need_a_private_kotlin_lesson_for_a_position_im/)
+- [Is there proper support for inline value classes in Kotlin.JS?](https://www.reddit.com/r/Kotlin/comments/w6s2co/is_there_proper_support_for_inline_value_classes/)
+- [Help a noob](https://www.reddit.com/r/Kotlin/comments/w6oa4v/help_a_noob/)
+- [How can I reduce Kotlin jar file size?](https://www.reddit.com/r/Kotlin/comments/w6lr3k/how_can_i_reduce_kotlin_jar_file_size/)
 - [What&#39;s the meaning of this return type with the two dots &lpar;..&rpar; when calling Java code from Kotlin?](https://www.reddit.com/r/Kotlin/comments/w6gsks/whats_the_meaning_of_this_return_type_with_the/)
 - [How to make a Kotlin native application for Mac, Windows, and Linux with OpenGL](https://www.reddit.com/r/Kotlin/comments/w67y5s/how_to_make_a_kotlin_native_application_for_mac/)
-- [ZonedDateTime with DST](https://www.reddit.com/r/Kotlin/comments/w6775h/zoneddatetime_with_dst/)
-- [Kotlin problem](https://www.reddit.com/r/Kotlin/comments/w63o65/kotlin_problem/)
-- [[Release] realworld-kotlin-ktor with Ktor 2.0 updates](https://www.reddit.com/r/Kotlin/comments/w5yavl/release_realworldkotlinktor_with_ktor_20_updates/)
-- [org.hibernate.MappingException: Composite-id class must implement Serializable: StoreEntity](https://www.reddit.com/r/Kotlin/comments/w5y59u/orghibernatemappingexception_compositeid_class/)
-- [How does the KClass work in relation to the JVM and runtime reflection of our classes, functions and properties?](https://www.reddit.com/r/Kotlin/comments/w5tmy0/how_does_the_kclass_work_in_relation_to_the_jvm/)
-- [What do you do when you&#39;re reading/learning Kotlin and not sure what the hell is going on? Like, no matter how much you reread something, it&#39;s just not clicking..](https://www.reddit.com/r/Kotlin/comments/w5l841/what_do_you_do_when_youre_readinglearning_kotlin/)
-- [How is Kotlin support for cross platform gui?](https://www.reddit.com/r/Kotlin/comments/w5e07z/how_is_kotlin_support_for_cross_platform_gui/)
-- [Adyen&#39;s Kotlin Android SDK Team is Growing in Chicago!](https://www.reddit.com/r/Kotlin/comments/w5am0c/adyens_kotlin_android_sdk_team_is_growing_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
