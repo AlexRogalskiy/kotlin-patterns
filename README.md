@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I write a JVM by kotlin: jvm.kotlin](https://www.reddit.com/r/Kotlin/comments/w93d3s/i_write_a_jvm_by_kotlin_jvmkotlin/)
+- [KotlinConf returns to Amsterdam in April 2023!](https://www.reddit.com/r/Kotlin/comments/w8pbzc/kotlinconf_returns_to_amsterdam_in_april_2023/)
+- [Error while coding my first app can anyone help? Error when launching activity](https://www.reddit.com/r/Kotlin/comments/w8ocit/error_while_coding_my_first_app_can_anyone_help/)
+- [Kotlin KMM or JavaFX Gluon for cross-platform mobile applications?](https://www.reddit.com/r/Kotlin/comments/w8dukp/kotlin_kmm_or_javafx_gluon_for_crossplatform/)
 - [if/then/else vs. non-exhaustive when: what is the right approach?](https://www.reddit.com/r/Kotlin/comments/w7rcqt/ifthenelse_vs_nonexhaustive_when_what_is_the/)
 - [What would my project structure look like to serve Compose for Web pages using a KTOR backend?](https://www.reddit.com/r/Kotlin/comments/w7k4hq/what_would_my_project_structure_look_like_to/)
 - [Layouts Android Bumblebee](https://www.reddit.com/r/Kotlin/comments/w7jztr/layouts_android_bumblebee/)
 - [Newbie question](https://www.reddit.com/r/Kotlin/comments/w7jro1/newbie_question/)
 - [Best way to select arrays by frequency of appearance of nums of interest](https://www.reddit.com/r/Kotlin/comments/w7656a/best_way_to_select_arrays_by_frequency_of/)
 - [[Kotlin/JS for React] Is there a way to use React Portals?](https://www.reddit.com/r/Kotlin/comments/w71of6/kotlinjs_for_react_is_there_a_way_to_use_react/)
-- [KMMT : Kotlin Multiplatform Mobile Template - Updated to multi module structure and new features](https://www.reddit.com/r/Kotlin/comments/w70q1n/kmmt_kotlin_multiplatform_mobile_template_updated/)
-- [What is this type &lpar;the &quot;&amp;&quot;s specifially&rpar;?](https://www.reddit.com/r/Kotlin/comments/w70jig/what_is_this_type_the_s_specifially/)
-- [Need a private Kotlin lesson for a position I&#39;m applying to.](https://www.reddit.com/r/Kotlin/comments/w6uum6/need_a_private_kotlin_lesson_for_a_position_im/)
-- [Is there proper support for inline value classes in Kotlin.JS?](https://www.reddit.com/r/Kotlin/comments/w6s2co/is_there_proper_support_for_inline_value_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
