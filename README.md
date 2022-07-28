@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I write a JVM by kotlin: jvm.kotlin](https://www.reddit.com/r/Kotlin/comments/w93d3s/i_write_a_jvm_by_kotlin_jvmkotlin/)
-- [KotlinConf returns to Amsterdam in April 2023!](https://www.reddit.com/r/Kotlin/comments/w8pbzc/kotlinconf_returns_to_amsterdam_in_april_2023/)
-- [Error while coding my first app can anyone help? Error when launching activity](https://www.reddit.com/r/Kotlin/comments/w8ocit/error_while_coding_my_first_app_can_anyone_help/)
-- [Kotlin KMM or JavaFX Gluon for cross-platform mobile applications?](https://www.reddit.com/r/Kotlin/comments/w8dukp/kotlin_kmm_or_javafx_gluon_for_crossplatform/)
-- [if/then/else vs. non-exhaustive when: what is the right approach?](https://www.reddit.com/r/Kotlin/comments/w7rcqt/ifthenelse_vs_nonexhaustive_when_what_is_the/)
-- [What would my project structure look like to serve Compose for Web pages using a KTOR backend?](https://www.reddit.com/r/Kotlin/comments/w7k4hq/what_would_my_project_structure_look_like_to/)
-- [Layouts Android Bumblebee](https://www.reddit.com/r/Kotlin/comments/w7jztr/layouts_android_bumblebee/)
-- [Newbie question](https://www.reddit.com/r/Kotlin/comments/w7jro1/newbie_question/)
-- [Best way to select arrays by frequency of appearance of nums of interest](https://www.reddit.com/r/Kotlin/comments/w7656a/best_way_to_select_arrays_by_frequency_of/)
-- [[Kotlin/JS for React] Is there a way to use React Portals?](https://www.reddit.com/r/Kotlin/comments/w71of6/kotlinjs_for_react_is_there_a_way_to_use_react/)
+- [question about var and val](https://www.reddit.com/r/Kotlin/comments/w9xd08/question_about_var_and_val/)
+- [Blockchain with Kotlin](https://www.reddit.com/r/Kotlin/comments/w9vii5/blockchain_with_kotlin/)
+- [Functional Core, Imperative Shell – Using Structured Concurrency to Write Maintainable gRPC Endpoints in Kotlin](https://www.reddit.com/r/Kotlin/comments/w9liiw/functional_core_imperative_shell_using_structured/)
+- [Backend Kotlin Jobs in the US](https://www.reddit.com/r/Kotlin/comments/w9jluj/backend_kotlin_jobs_in_the_us/)
+- [Kotlin Snapshot Testing Library](https://www.reddit.com/r/Kotlin/comments/w9iov8/kotlin_snapshot_testing_library/)
+- [Strings, Please! Eliminating Data Leaks Caused by Kotlin Assertions](https://www.reddit.com/r/Kotlin/comments/w9cxcy/strings_please_eliminating_data_leaks_caused_by/)
+- [Multiplatform dependency injection libraries equivalent to Dagger/Anvil](https://www.reddit.com/r/Kotlin/comments/w9bcuk/multiplatform_dependency_injection_libraries/)
+- [Which specs a vserver needs for Kotlin &lpar;Ktor,Spring, etc&rpar;?](https://www.reddit.com/r/Kotlin/comments/w9atil/which_specs_a_vserver_needs_for_kotlin_ktorspring/)
+- [How can i build a cross-platform jar with compose multiplatform?](https://www.reddit.com/r/Kotlin/comments/w9a7g0/how_can_i_build_a_crossplatform_jar_with_compose/)
+- [Dynamic ImageView in Kotlin](https://www.reddit.com/r/Kotlin/comments/w9a4iw/dynamic_imageview_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
