@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to increment value of a parameter in a function?](https://www.reddit.com/r/Kotlin/comments/walaa2/how_to_increment_value_of_a_parameter_in_a/)
+- [activity_main in android studio showing up as black on the design screen](https://www.reddit.com/r/Kotlin/comments/wahs1e/activity_main_in_android_studio_showing_up_as/)
+- [Just installed today, and I can&#39;t compile anything with arithmetic otherwise it won&#39;t compile](https://www.reddit.com/r/Kotlin/comments/wadaiw/just_installed_today_and_i_cant_compile_anything/)
+- [How to add two items at the end of a map lambda function?](https://www.reddit.com/r/Kotlin/comments/wa47rx/how_to_add_two_items_at_the_end_of_a_map_lambda/)
+- [Compilar en kotlin](https://www.reddit.com/r/Kotlin/comments/wa0424/compilar_en_kotlin/)
 - [question about var and val](https://www.reddit.com/r/Kotlin/comments/w9xd08/question_about_var_and_val/)
 - [Blockchain with Kotlin](https://www.reddit.com/r/Kotlin/comments/w9vii5/blockchain_with_kotlin/)
 - [Functional Core, Imperative Shell – Using Structured Concurrency to Write Maintainable gRPC Endpoints in Kotlin](https://www.reddit.com/r/Kotlin/comments/w9liiw/functional_core_imperative_shell_using_structured/)
 - [Backend Kotlin Jobs in the US](https://www.reddit.com/r/Kotlin/comments/w9jluj/backend_kotlin_jobs_in_the_us/)
 - [Kotlin Snapshot Testing Library](https://www.reddit.com/r/Kotlin/comments/w9iov8/kotlin_snapshot_testing_library/)
-- [Strings, Please! Eliminating Data Leaks Caused by Kotlin Assertions](https://www.reddit.com/r/Kotlin/comments/w9cxcy/strings_please_eliminating_data_leaks_caused_by/)
-- [Multiplatform dependency injection libraries equivalent to Dagger/Anvil](https://www.reddit.com/r/Kotlin/comments/w9bcuk/multiplatform_dependency_injection_libraries/)
-- [Which specs a vserver needs for Kotlin &lpar;Ktor,Spring, etc&rpar;?](https://www.reddit.com/r/Kotlin/comments/w9atil/which_specs_a_vserver_needs_for_kotlin_ktorspring/)
-- [How can i build a cross-platform jar with compose multiplatform?](https://www.reddit.com/r/Kotlin/comments/w9a7g0/how_can_i_build_a_crossplatform_jar_with_compose/)
-- [Dynamic ImageView in Kotlin](https://www.reddit.com/r/Kotlin/comments/w9a4iw/dynamic_imageview_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
