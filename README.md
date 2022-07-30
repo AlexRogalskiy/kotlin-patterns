@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about garbage collection.](https://www.reddit.com/r/Kotlin/comments/wbk5fj/question_about_garbage_collection/)
+- [Help for import and use js modules in a Kotlin project](https://www.reddit.com/r/Kotlin/comments/wbb9n3/help_for_import_and_use_js_modules_in_a_kotlin/)
+- [How do you guys think about Unit expression?](https://www.reddit.com/r/Kotlin/comments/wb9vqg/how_do_you_guys_think_about_unit_expression/)
+- [Peer support for new dev](https://www.reddit.com/r/Kotlin/comments/wb5y78/peer_support_for_new_dev/)
+- [Can Android Studio turn on auto reformat code on save for Kotlin?](https://www.reddit.com/r/Kotlin/comments/wazywh/can_android_studio_turn_on_auto_reformat_code_on/)
+- [How would i pass a collection of pairs using SpEL ?](https://www.reddit.com/r/Kotlin/comments/waz5ul/how_would_i_pass_a_collection_of_pairs_using_spel/)
 - [How to increment value of a parameter in a function?](https://www.reddit.com/r/Kotlin/comments/walaa2/how_to_increment_value_of_a_parameter_in_a/)
 - [activity_main in android studio showing up as black on the design screen](https://www.reddit.com/r/Kotlin/comments/wahs1e/activity_main_in_android_studio_showing_up_as/)
 - [Just installed today, and I can&#39;t compile anything with arithmetic otherwise it won&#39;t compile](https://www.reddit.com/r/Kotlin/comments/wadaiw/just_installed_today_and_i_cant_compile_anything/)
 - [How to add two items at the end of a map lambda function?](https://www.reddit.com/r/Kotlin/comments/wa47rx/how_to_add_two_items_at_the_end_of_a_map_lambda/)
-- [Compilar en kotlin](https://www.reddit.com/r/Kotlin/comments/wa0424/compilar_en_kotlin/)
-- [question about var and val](https://www.reddit.com/r/Kotlin/comments/w9xd08/question_about_var_and_val/)
-- [Blockchain with Kotlin](https://www.reddit.com/r/Kotlin/comments/w9vii5/blockchain_with_kotlin/)
-- [Functional Core, Imperative Shell – Using Structured Concurrency to Write Maintainable gRPC Endpoints in Kotlin](https://www.reddit.com/r/Kotlin/comments/w9liiw/functional_core_imperative_shell_using_structured/)
-- [Backend Kotlin Jobs in the US](https://www.reddit.com/r/Kotlin/comments/w9jluj/backend_kotlin_jobs_in_the_us/)
-- [Kotlin Snapshot Testing Library](https://www.reddit.com/r/Kotlin/comments/w9iov8/kotlin_snapshot_testing_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
