@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does Kotlin have Enum Ranges...](https://www.reddit.com/r/Kotlin/comments/wc7q6x/does_kotlin_have_enum_ranges/)
+- [How to get up to speed quickly as an experienced developer](https://www.reddit.com/r/Kotlin/comments/wc498i/how_to_get_up_to_speed_quickly_as_an_experienced/)
+- [How to work with java library that throw exceptions ?](https://www.reddit.com/r/Kotlin/comments/wbzxmm/how_to_work_with_java_library_that_throw/)
+- [Best Kotlin book to code along with for experienced programmers](https://www.reddit.com/r/Kotlin/comments/wbz9rk/best_kotlin_book_to_code_along_with_for/)
+- [MPA using Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/wbz850/mpa_using_kotlinjs/)
+- [Kotlin Value Classes - Tiny Types to Eschew Errors](https://www.reddit.com/r/Kotlin/comments/wbshgo/kotlin_value_classes_tiny_types_to_eschew_errors/)
+- [Macros?](https://www.reddit.com/r/Kotlin/comments/wbnov4/macros/)
 - [Question about garbage collection.](https://www.reddit.com/r/Kotlin/comments/wbk5fj/question_about_garbage_collection/)
 - [Help for import and use js modules in a Kotlin project](https://www.reddit.com/r/Kotlin/comments/wbb9n3/help_for_import_and_use_js_modules_in_a_kotlin/)
 - [How do you guys think about Unit expression?](https://www.reddit.com/r/Kotlin/comments/wb9vqg/how_do_you_guys_think_about_unit_expression/)
-- [Peer support for new dev](https://www.reddit.com/r/Kotlin/comments/wb5y78/peer_support_for_new_dev/)
-- [Can Android Studio turn on auto reformat code on save for Kotlin?](https://www.reddit.com/r/Kotlin/comments/wazywh/can_android_studio_turn_on_auto_reformat_code_on/)
-- [How would i pass a collection of pairs using SpEL ?](https://www.reddit.com/r/Kotlin/comments/waz5ul/how_would_i_pass_a_collection_of_pairs_using_spel/)
-- [How to increment value of a parameter in a function?](https://www.reddit.com/r/Kotlin/comments/walaa2/how_to_increment_value_of_a_parameter_in_a/)
-- [activity_main in android studio showing up as black on the design screen](https://www.reddit.com/r/Kotlin/comments/wahs1e/activity_main_in_android_studio_showing_up_as/)
-- [Just installed today, and I can&#39;t compile anything with arithmetic otherwise it won&#39;t compile](https://www.reddit.com/r/Kotlin/comments/wadaiw/just_installed_today_and_i_cant_compile_anything/)
-- [How to add two items at the end of a map lambda function?](https://www.reddit.com/r/Kotlin/comments/wa47rx/how_to_add_two_items_at_the_end_of_a_map_lambda/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
