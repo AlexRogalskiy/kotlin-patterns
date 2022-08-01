@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New to Kotlin - how to return from a callback?](https://www.reddit.com/r/Kotlin/comments/wclytb/new_to_kotlin_how_to_return_from_a_callback/)
+- [Is there something equivalent to C/Java&#39;s for&lpar;;;&rpar;{} infinite for-loop syntax?](https://www.reddit.com/r/Kotlin/comments/wchoyl/is_there_something_equivalent_to_cjavas_for/)
 - [Does Kotlin have Enum Ranges...](https://www.reddit.com/r/Kotlin/comments/wc7q6x/does_kotlin_have_enum_ranges/)
 - [How to get up to speed quickly as an experienced developer](https://www.reddit.com/r/Kotlin/comments/wc498i/how_to_get_up_to_speed_quickly_as_an_experienced/)
 - [How to work with java library that throw exceptions ?](https://www.reddit.com/r/Kotlin/comments/wbzxmm/how_to_work_with_java_library_that_throw/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Value Classes - Tiny Types to Eschew Errors](https://www.reddit.com/r/Kotlin/comments/wbshgo/kotlin_value_classes_tiny_types_to_eschew_errors/)
 - [Macros?](https://www.reddit.com/r/Kotlin/comments/wbnov4/macros/)
 - [Question about garbage collection.](https://www.reddit.com/r/Kotlin/comments/wbk5fj/question_about_garbage_collection/)
-- [Help for import and use js modules in a Kotlin project](https://www.reddit.com/r/Kotlin/comments/wbb9n3/help_for_import_and_use_js_modules_in_a_kotlin/)
-- [How do you guys think about Unit expression?](https://www.reddit.com/r/Kotlin/comments/wb9vqg/how_do_you_guys_think_about_unit_expression/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
