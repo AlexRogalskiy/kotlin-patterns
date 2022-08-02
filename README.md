@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Browser Extension](https://www.reddit.com/r/Kotlin/comments/wdq72x/kotlin_browser_extension/)
+- [Kotlin 1.7.20-Beta Released](https://www.reddit.com/r/Kotlin/comments/wdlpps/kotlin_1720beta_released/)
+- [mutekt: Simplify mutating &quot;immutable&quot; state models](https://www.reddit.com/r/Kotlin/comments/wdi9k8/mutekt_simplify_mutating_immutable_state_models/)
+- [Java class loading – performance impact!](https://www.reddit.com/r/Kotlin/comments/wdhp9b/java_class_loading_performance_impact/)
+- [Coroutines](https://www.reddit.com/r/Kotlin/comments/wdffxi/coroutines/)
 - [New to Kotlin - how to return from a callback?](https://www.reddit.com/r/Kotlin/comments/wclytb/new_to_kotlin_how_to_return_from_a_callback/)
 - [Is there something equivalent to C/Java&#39;s for&lpar;;;&rpar;{} infinite for-loop syntax?](https://www.reddit.com/r/Kotlin/comments/wchoyl/is_there_something_equivalent_to_cjavas_for/)
 - [Does Kotlin have Enum Ranges...](https://www.reddit.com/r/Kotlin/comments/wc7q6x/does_kotlin_have_enum_ranges/)
 - [How to get up to speed quickly as an experienced developer](https://www.reddit.com/r/Kotlin/comments/wc498i/how_to_get_up_to_speed_quickly_as_an_experienced/)
 - [How to work with java library that throw exceptions ?](https://www.reddit.com/r/Kotlin/comments/wbzxmm/how_to_work_with_java_library_that_throw/)
-- [Best Kotlin book to code along with for experienced programmers](https://www.reddit.com/r/Kotlin/comments/wbz9rk/best_kotlin_book_to_code_along_with_for/)
-- [MPA using Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/wbz850/mpa_using_kotlinjs/)
-- [Kotlin Value Classes - Tiny Types to Eschew Errors](https://www.reddit.com/r/Kotlin/comments/wbshgo/kotlin_value_classes_tiny_types_to_eschew_errors/)
-- [Macros?](https://www.reddit.com/r/Kotlin/comments/wbnov4/macros/)
-- [Question about garbage collection.](https://www.reddit.com/r/Kotlin/comments/wbk5fj/question_about_garbage_collection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
