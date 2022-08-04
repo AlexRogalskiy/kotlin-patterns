@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Maze game in kotlin using gyroscope](https://www.reddit.com/r/Kotlin/comments/wfh4zz/maze_game_in_kotlin_using_gyroscope/)
+- [Problem with text file](https://www.reddit.com/r/Kotlin/comments/wfaz7b/problem_with_text_file/)
+- [Creating Mixed Kotlin/Java project in Eclipse 2022-06 on Ubuntu](https://www.reddit.com/r/Kotlin/comments/wfaodl/creating_mixed_kotlinjava_project_in_eclipse/)
+- [Almost Everything I&#39;ve Learned About Error Handling in Kotlin](https://www.reddit.com/r/Kotlin/comments/wf8hpc/almost_everything_ive_learned_about_error/)
+- [Kotlin Cookbook in Programming Cookbooks Bundle;](https://www.reddit.com/r/Kotlin/comments/wf4l7t/kotlin_cookbook_in_programming_cookbooks_bundle/)
+- [Help with using the parameters in abstract and its child classes](https://www.reddit.com/r/Kotlin/comments/wf1ki4/help_with_using_the_parameters_in_abstract_and/)
+- [Programming Contest is looking for coding lovers! Join and stand a chance to win prizes worth $14,444!](https://www.reddit.com/r/Kotlin/comments/wf1c7s/programming_contest_is_looking_for_coding_lovers/)
+- [Kotlin Cookbook: A Problem-Focused Approach &lpar;PDF Book for FREE Download&rpar;](https://www.reddit.com/r/Kotlin/comments/wf0ax6/kotlin_cookbook_a_problemfocused_approach_pdf/)
 - [Looking for a good example of a factory pattern with springboot, also how are you setting up the factory to use mock classes when you test?](https://www.reddit.com/r/Kotlin/comments/wer7k3/looking_for_a_good_example_of_a_factory_pattern/)
 - [Help please.](https://www.reddit.com/r/Kotlin/comments/wejes9/help_please/)
-- [Strategy Design Pattern In Kotlin](https://www.reddit.com/r/Kotlin/comments/wehynm/strategy_design_pattern_in_kotlin/)
-- [Anyone currently working in mobile app development and have a few minutes?](https://www.reddit.com/r/Kotlin/comments/wedphj/anyone_currently_working_in_mobile_app/)
-- [How to run test of kotlin app on a physical device in VS code.](https://www.reddit.com/r/Kotlin/comments/wecato/how_to_run_test_of_kotlin_app_on_a_physical/)
-- [🧱🔨 Kotlin in Minecraft. Looking for volunteers for a research interview](https://www.reddit.com/r/Kotlin/comments/weauaz/kotlin_in_minecraft_looking_for_volunteers_for_a/)
-- [Kotlin Browser Extension](https://www.reddit.com/r/Kotlin/comments/wdq72x/kotlin_browser_extension/)
-- [Kotlin 1.7.20-Beta Released](https://www.reddit.com/r/Kotlin/comments/wdlpps/kotlin_1720beta_released/)
-- [mutekt: Simplify mutating &quot;immutable&quot; state models](https://www.reddit.com/r/Kotlin/comments/wdi9k8/mutekt_simplify_mutating_immutable_state_models/)
-- [Java class loading – performance impact!](https://www.reddit.com/r/Kotlin/comments/wdhp9b/java_class_loading_performance_impact/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
