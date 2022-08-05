@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does any one have a working Sticky Keyboard Toolbar that appears when IME is open?](https://www.reddit.com/r/Kotlin/comments/wg57v6/does_any_one_have_a_working_sticky_keyboard/)
+- [Kotlin API for Apache Spark v1.2: UDTs, UDFs, RDDs, Compatibility, and More!](https://www.reddit.com/r/Kotlin/comments/wg47rq/kotlin_api_for_apache_spark_v12_udts_udfs_rdds/)
+- [Get Started with Android Authentication Using Kotlin](https://www.reddit.com/r/Kotlin/comments/wg048v/get_started_with_android_authentication_using/)
+- [A new episode of Talking Kotlin is on its way! 🎥 This time, we chat with Alexey Soshin about “Kotlin Design Patterns and Best Practices,” his recently released book. 📚 Premiering TODAY on Kotlin by JetBrains! Join us to get 25% off the book! 👇](https://www.reddit.com/r/Kotlin/comments/wfz7bu/a_new_episode_of_talking_kotlin_is_on_its_way/)
+- [.mod instead of %](https://www.reddit.com/r/Kotlin/comments/wfycux/mod_instead_of/)
 - [Maze game in kotlin using gyroscope](https://www.reddit.com/r/Kotlin/comments/wfh4zz/maze_game_in_kotlin_using_gyroscope/)
 - [Problem with text file](https://www.reddit.com/r/Kotlin/comments/wfaz7b/problem_with_text_file/)
 - [Creating Mixed Kotlin/Java project in Eclipse 2022-06 on Ubuntu](https://www.reddit.com/r/Kotlin/comments/wfaodl/creating_mixed_kotlinjava_project_in_eclipse/)
 - [Almost Everything I&#39;ve Learned About Error Handling in Kotlin](https://www.reddit.com/r/Kotlin/comments/wf8hpc/almost_everything_ive_learned_about_error/)
-- [Kotlin Cookbook in Programming Cookbooks Bundle;](https://www.reddit.com/r/Kotlin/comments/wf4l7t/kotlin_cookbook_in_programming_cookbooks_bundle/)
 - [Help with using the parameters in abstract and its child classes](https://www.reddit.com/r/Kotlin/comments/wf1ki4/help_with_using_the_parameters_in_abstract_and/)
-- [Programming Contest is looking for coding lovers! Join and stand a chance to win prizes worth $14,444!](https://www.reddit.com/r/Kotlin/comments/wf1c7s/programming_contest_is_looking_for_coding_lovers/)
-- [Kotlin Cookbook: A Problem-Focused Approach &lpar;PDF Book for FREE Download&rpar;](https://www.reddit.com/r/Kotlin/comments/wf0ax6/kotlin_cookbook_a_problemfocused_approach_pdf/)
-- [Looking for a good example of a factory pattern with springboot, also how are you setting up the factory to use mock classes when you test?](https://www.reddit.com/r/Kotlin/comments/wer7k3/looking_for_a_good_example_of_a_factory_pattern/)
-- [Help please.](https://www.reddit.com/r/Kotlin/comments/wejes9/help_please/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
