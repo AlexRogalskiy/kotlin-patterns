@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s the best way to handle type keys that aren&#39;t part of the object for Kotlinx JSON Serialization](https://www.reddit.com/r/Kotlin/comments/wi6nw8/whats_the_best_way_to_handle_type_keys_that_arent/)
 - [Kotlin Multiplatform Library - best way to add iOS dependency currently?](https://www.reddit.com/r/Kotlin/comments/wi3bah/kotlin_multiplatform_library_best_way_to_add_ios/)
 - [Are there any Non-Mobile Kotlin Native libraries wrapping C libraries like libhidapi/opengl?](https://www.reddit.com/r/Kotlin/comments/whyujd/are_there_any_nonmobile_kotlin_native_libraries/)
 - [Quick question in context of cross-platform adjustments for existing Android app](https://www.reddit.com/r/Kotlin/comments/whvt07/quick_question_in_context_of_crossplatform/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to run a kotlin project?](https://www.reddit.com/r/Kotlin/comments/wgya7e/how_to_run_a_kotlin_project/)
 - [Cool Kotlin Discord Bot Framework: Discord Bot + React?](https://www.reddit.com/r/Kotlin/comments/wgq4vf/cool_kotlin_discord_bot_framework_discord_bot/)
 - [why gradle kotlin plugin does not provide jvmTarget inside kotlin block?](https://www.reddit.com/r/Kotlin/comments/wgnsxm/why_gradle_kotlin_plugin_does_not_provide/)
-- [Does any one have a working Sticky Keyboard Toolbar that appears when IME is open?](https://www.reddit.com/r/Kotlin/comments/wg57v6/does_any_one_have_a_working_sticky_keyboard/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
