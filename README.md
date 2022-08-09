@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a streaming library with cool combinators like scala&#39;s fs2, or zio-streams?](https://www.reddit.com/r/Kotlin/comments/wjmrtk/is_there_a_streaming_library_with_cool/)
+- [Thinking about learning Kotlin](https://www.reddit.com/r/Kotlin/comments/wj8p2i/thinking_about_learning_kotlin/)
+- [Kotlin Mutliplatform : Mapping Swift code to Kotlin in iOSMain module?](https://www.reddit.com/r/Kotlin/comments/wj4a6n/kotlin_mutliplatform_mapping_swift_code_to_kotlin/)
 - [What&#39;s the best way to handle type keys that aren&#39;t part of the object for Kotlinx JSON Serialization](https://www.reddit.com/r/Kotlin/comments/wi6nw8/whats_the_best_way_to_handle_type_keys_that_arent/)
 - [Kotlin Multiplatform Library - best way to add iOS dependency currently?](https://www.reddit.com/r/Kotlin/comments/wi3bah/kotlin_multiplatform_library_best_way_to_add_ios/)
 - [Are there any Non-Mobile Kotlin Native libraries wrapping C libraries like libhidapi/opengl?](https://www.reddit.com/r/Kotlin/comments/whyujd/are_there_any_nonmobile_kotlin_native_libraries/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Sample crm example](https://www.reddit.com/r/Kotlin/comments/whl6nt/sample_crm_example/)
 - [In what aspects Kotlin Multiplatform Mobile is better than other cross platform frameworks ?](https://www.reddit.com/r/Kotlin/comments/whgp2a/in_what_aspects_kotlin_multiplatform_mobile_is/)
 - [how can i prevent my compose desktop application from being started twice at the same time?](https://www.reddit.com/r/Kotlin/comments/wh5r37/how_can_i_prevent_my_compose_desktop_application/)
-- [How to run a kotlin project?](https://www.reddit.com/r/Kotlin/comments/wgya7e/how_to_run_a_kotlin_project/)
-- [Cool Kotlin Discord Bot Framework: Discord Bot + React?](https://www.reddit.com/r/Kotlin/comments/wgq4vf/cool_kotlin_discord_bot_framework_discord_bot/)
-- [why gradle kotlin plugin does not provide jvmTarget inside kotlin block?](https://www.reddit.com/r/Kotlin/comments/wgnsxm/why_gradle_kotlin_plugin_does_not_provide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
