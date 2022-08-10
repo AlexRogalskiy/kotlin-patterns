@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin 1.7.20: Better K2 Compiler](https://www.reddit.com/r/Kotlin/comments/wklap9/kotlin_1720_better_k2_compiler/)
+- [So where do I go from here?](https://www.reddit.com/r/Kotlin/comments/wkdyat/so_where_do_i_go_from_here/)
+- [klox: A lox compiler written in Kotlin, from Crafting Interpreters https://craftinginterpreters.com/](https://www.reddit.com/r/Kotlin/comments/wkduqu/klox_a_lox_compiler_written_in_kotlin_from/)
+- [Trying to learn kotlin with exercism and my brain REALY hurts](https://www.reddit.com/r/Kotlin/comments/wk5dp5/trying_to_learn_kotlin_with_exercism_and_my_brain/)
+- [Android studio, can I make the view mode &lpar;float&rpar; by default?](https://www.reddit.com/r/Kotlin/comments/wk4amg/android_studio_can_i_make_the_view_mode_float_by/)
+- [Want to build Modern Web Apps using Kotlin?](https://www.reddit.com/r/Kotlin/comments/wjsck3/want_to_build_modern_web_apps_using_kotlin/)
 - [Is there a streaming library with cool combinators like scala&#39;s fs2, or zio-streams?](https://www.reddit.com/r/Kotlin/comments/wjmrtk/is_there_a_streaming_library_with_cool/)
 - [Thinking about learning Kotlin](https://www.reddit.com/r/Kotlin/comments/wj8p2i/thinking_about_learning_kotlin/)
 - [Kotlin Mutliplatform : Mapping Swift code to Kotlin in iOSMain module?](https://www.reddit.com/r/Kotlin/comments/wj4a6n/kotlin_mutliplatform_mapping_swift_code_to_kotlin/)
 - [What&#39;s the best way to handle type keys that aren&#39;t part of the object for Kotlinx JSON Serialization](https://www.reddit.com/r/Kotlin/comments/wi6nw8/whats_the_best_way_to_handle_type_keys_that_arent/)
-- [Kotlin Multiplatform Library - best way to add iOS dependency currently?](https://www.reddit.com/r/Kotlin/comments/wi3bah/kotlin_multiplatform_library_best_way_to_add_ios/)
-- [Are there any Non-Mobile Kotlin Native libraries wrapping C libraries like libhidapi/opengl?](https://www.reddit.com/r/Kotlin/comments/whyujd/are_there_any_nonmobile_kotlin_native_libraries/)
-- [Quick question in context of cross-platform adjustments for existing Android app](https://www.reddit.com/r/Kotlin/comments/whvt07/quick_question_in_context_of_crossplatform/)
-- [Sample crm example](https://www.reddit.com/r/Kotlin/comments/whl6nt/sample_crm_example/)
-- [In what aspects Kotlin Multiplatform Mobile is better than other cross platform frameworks ?](https://www.reddit.com/r/Kotlin/comments/whgp2a/in_what_aspects_kotlin_multiplatform_mobile_is/)
-- [how can i prevent my compose desktop application from being started twice at the same time?](https://www.reddit.com/r/Kotlin/comments/wh5r37/how_can_i_prevent_my_compose_desktop_application/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
