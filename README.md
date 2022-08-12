@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I learn more advanced things?](https://www.reddit.com/r/Kotlin/comments/wm6ard/how_do_i_learn_more_advanced_things/)
+- [Wich course if i&#39;m a Java dev](https://www.reddit.com/r/Kotlin/comments/wlxcfo/wich_course_if_im_a_java_dev/)
+- [Kotlin Retry To Make Your Code More Resilient](https://www.reddit.com/r/Kotlin/comments/wlvxrp/kotlin_retry_to_make_your_code_more_resilient/)
+- [Unhandled Exceptions in Kotlin Collections](https://www.reddit.com/r/Kotlin/comments/wlog2s/unhandled_exceptions_in_kotlin_collections/)
 - [Any way to encrypt/decrypt with AES256 in Kotlin Native?](https://www.reddit.com/r/Kotlin/comments/wlc8t9/any_way_to_encryptdecrypt_with_aes256_in_kotlin/)
 - [can I use kotlin in ios as native?](https://www.reddit.com/r/Kotlin/comments/wl7i7o/can_i_use_kotlin_in_ios_as_native/)
 - [Apollo Kotlin: New Multiplatform Memory Manager](https://www.reddit.com/r/Kotlin/comments/wkzcos/apollo_kotlin_new_multiplatform_memory_manager/)
 - [We released a new version of ShapeShift &lpar;0.5.0&rpar; - A lightweight Kotlin first library for Object Mapping. Thanks for the feedback!](https://www.reddit.com/r/Kotlin/comments/wkvg8x/we_released_a_new_version_of_shapeshift_050_a/)
 - [Kotlin 1.7.20: Better K2 Compiler](https://www.reddit.com/r/Kotlin/comments/wklap9/kotlin_1720_better_k2_compiler/)
 - [So where do I go from here?](https://www.reddit.com/r/Kotlin/comments/wkdyat/so_where_do_i_go_from_here/)
-- [klox: A lox compiler written in Kotlin, from Crafting Interpreters https://craftinginterpreters.com/](https://www.reddit.com/r/Kotlin/comments/wkduqu/klox_a_lox_compiler_written_in_kotlin_from/)
-- [Trying to learn kotlin with exercism and my brain REALY hurts](https://www.reddit.com/r/Kotlin/comments/wk5dp5/trying_to_learn_kotlin_with_exercism_and_my_brain/)
-- [Android studio, can I make the view mode &lpar;float&rpar; by default?](https://www.reddit.com/r/Kotlin/comments/wk4amg/android_studio_can_i_make_the_view_mode_float_by/)
-- [Want to build Modern Web Apps using Kotlin?](https://www.reddit.com/r/Kotlin/comments/wjsck3/want_to_build_modern_web_apps_using_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
