@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I learn more advanced things?](https://www.reddit.com/r/Kotlin/comments/wm6ard/how_do_i_learn_more_advanced_things/)
-- [Wich course if i&#39;m a Java dev](https://www.reddit.com/r/Kotlin/comments/wlxcfo/wich_course_if_im_a_java_dev/)
-- [Kotlin Retry To Make Your Code More Resilient](https://www.reddit.com/r/Kotlin/comments/wlvxrp/kotlin_retry_to_make_your_code_more_resilient/)
-- [Unhandled Exceptions in Kotlin Collections](https://www.reddit.com/r/Kotlin/comments/wlog2s/unhandled_exceptions_in_kotlin_collections/)
-- [Any way to encrypt/decrypt with AES256 in Kotlin Native?](https://www.reddit.com/r/Kotlin/comments/wlc8t9/any_way_to_encryptdecrypt_with_aes256_in_kotlin/)
-- [can I use kotlin in ios as native?](https://www.reddit.com/r/Kotlin/comments/wl7i7o/can_i_use_kotlin_in_ios_as_native/)
-- [Apollo Kotlin: New Multiplatform Memory Manager](https://www.reddit.com/r/Kotlin/comments/wkzcos/apollo_kotlin_new_multiplatform_memory_manager/)
-- [We released a new version of ShapeShift &lpar;0.5.0&rpar; - A lightweight Kotlin first library for Object Mapping. Thanks for the feedback!](https://www.reddit.com/r/Kotlin/comments/wkvg8x/we_released_a_new_version_of_shapeshift_050_a/)
-- [Kotlin 1.7.20: Better K2 Compiler](https://www.reddit.com/r/Kotlin/comments/wklap9/kotlin_1720_better_k2_compiler/)
-- [So where do I go from here?](https://www.reddit.com/r/Kotlin/comments/wkdyat/so_where_do_i_go_from_here/)
+- [Best way to access item in collection](https://www.reddit.com/r/Kotlin/comments/wmx0ot/best_way_to_access_item_in_collection/)
+- [Kotlin Refactoring - Introducing Types to Simplify Logic](https://www.reddit.com/r/Kotlin/comments/wmwp5u/kotlin_refactoring_introducing_types_to_simplify/)
+- [Anyone working in mobile development right now?](https://www.reddit.com/r/Kotlin/comments/wmulzw/anyone_working_in_mobile_development_right_now/)
+- [Simple Ktor API 10 times slower than Express equivalent](https://www.reddit.com/r/Kotlin/comments/wmtsg1/simple_ktor_api_10_times_slower_than_express/)
+- [How to use retrofit and authorize spotify api](https://www.reddit.com/r/Kotlin/comments/wmpn33/how_to_use_retrofit_and_authorize_spotify_api/)
+- [Did anyone implement an emoji keyboard with Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/wmmsnl/did_anyone_implement_an_emoji_keyboard_with/)
+- [Did a talk on how you DONT need to apply the visitor pattern in Kotlin.](https://www.reddit.com/r/Kotlin/comments/wmj7af/did_a_talk_on_how_you_dont_need_to_apply_the/)
+- [Kotlin Contracts;](https://www.reddit.com/r/Kotlin/comments/wmivim/kotlin_contracts/)
+- [In Kotlin Variables are 2 types 1 Val which is not a variable 🙄🙄](https://www.reddit.com/r/Kotlin/comments/wmis9y/in_kotlin_variables_are_2_types_1_val_which_is/)
+- [Ktor 2.1.0 Released](https://www.reddit.com/r/Kotlin/comments/wmhine/ktor_210_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
