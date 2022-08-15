@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [rails django or majbe flask like CMS for kotlin](https://www.reddit.com/r/Kotlin/comments/wo2vig/rails_django_or_majbe_flask_like_cms_for_kotlin/)
+- [Virtual thread support in coroutines for loom preview. Any plans?](https://www.reddit.com/r/Kotlin/comments/wo1dlv/virtual_thread_support_in_coroutines_for_loom/)
+- [Kotlin Nitpicks: Language and Standard Library](https://www.reddit.com/r/Kotlin/comments/wo06o7/kotlin_nitpicks_language_and_standard_library/)
 - [[HELP] New in dev, need help for something looks easy](https://www.reddit.com/r/Kotlin/comments/wnl91u/help_new_in_dev_need_help_for_something_looks_easy/)
 - [Interfaces en Kotlin](https://www.reddit.com/r/Kotlin/comments/wnkzkt/interfaces_en_kotlin/)
 - [val/var mutable lists](https://www.reddit.com/r/Kotlin/comments/wnkmam/valvar_mutable_lists/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Best way to access item in collection](https://www.reddit.com/r/Kotlin/comments/wmx0ot/best_way_to_access_item_in_collection/)
 - [Kotlin Refactoring - Introducing Types to Simplify Logic](https://www.reddit.com/r/Kotlin/comments/wmwp5u/kotlin_refactoring_introducing_types_to_simplify/)
 - [Anyone working in mobile development right now?](https://www.reddit.com/r/Kotlin/comments/wmulzw/anyone_working_in_mobile_development_right_now/)
-- [Simple Ktor API 10 times slower than Express equivalent](https://www.reddit.com/r/Kotlin/comments/wmtsg1/simple_ktor_api_10_times_slower_than_express/)
-- [How to use retrofit and authorize spotify api](https://www.reddit.com/r/Kotlin/comments/wmpn33/how_to_use_retrofit_and_authorize_spotify_api/)
-- [Did anyone implement an emoji keyboard with Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/wmmsnl/did_anyone_implement_an_emoji_keyboard_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
