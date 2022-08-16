@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Help] How do I actually read from the console?](https://www.reddit.com/r/Kotlin/comments/wp75yx/help_how_do_i_actually_read_from_the_console/)
+- [Is my way of exception handling controversial?](https://www.reddit.com/r/Kotlin/comments/wp3euv/is_my_way_of_exception_handling_controversial/)
+- [Serializing Datetimes with TZ](https://www.reddit.com/r/Kotlin/comments/wowtmu/serializing_datetimes_with_tz/)
+- [SSLContext Kickstart - Super lightweight library to secure your Client and Server](https://www.reddit.com/r/Kotlin/comments/wovgeo/sslcontext_kickstart_super_lightweight_library_to/)
+- [Is there a way to create a JsonSerializer from a custom KSerializer](https://www.reddit.com/r/Kotlin/comments/wov4de/is_there_a_way_to_create_a_jsonserializer_from_a/)
 - [rails django or majbe flask like CMS for kotlin](https://www.reddit.com/r/Kotlin/comments/wo2vig/rails_django_or_majbe_flask_like_cms_for_kotlin/)
 - [Virtual thread support in coroutines for loom preview. Any plans?](https://www.reddit.com/r/Kotlin/comments/wo1dlv/virtual_thread_support_in_coroutines_for_loom/)
 - [Kotlin Nitpicks: Language and Standard Library](https://www.reddit.com/r/Kotlin/comments/wo06o7/kotlin_nitpicks_language_and_standard_library/)
 - [[HELP] New in dev, need help for something looks easy](https://www.reddit.com/r/Kotlin/comments/wnl91u/help_new_in_dev_need_help_for_something_looks_easy/)
 - [Interfaces en Kotlin](https://www.reddit.com/r/Kotlin/comments/wnkzkt/interfaces_en_kotlin/)
-- [val/var mutable lists](https://www.reddit.com/r/Kotlin/comments/wnkmam/valvar_mutable_lists/)
-- [Good place to learn kotlin for backend dev?](https://www.reddit.com/r/Kotlin/comments/wnd84x/good_place_to_learn_kotlin_for_backend_dev/)
-- [Best way to access item in collection](https://www.reddit.com/r/Kotlin/comments/wmx0ot/best_way_to_access_item_in_collection/)
-- [Kotlin Refactoring - Introducing Types to Simplify Logic](https://www.reddit.com/r/Kotlin/comments/wmwp5u/kotlin_refactoring_introducing_types_to_simplify/)
-- [Anyone working in mobile development right now?](https://www.reddit.com/r/Kotlin/comments/wmulzw/anyone_working_in_mobile_development_right_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
