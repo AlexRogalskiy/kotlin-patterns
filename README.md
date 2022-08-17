@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [App for wifi outlet socket](https://www.reddit.com/r/Kotlin/comments/wpsrya/app_for_wifi_outlet_socket/)
+- [Object Mapping advanced features &amp; QoL with Kotlin](https://www.reddit.com/r/Kotlin/comments/wps9sl/object_mapping_advanced_features_qol_with_kotlin/)
+- [Kotlin Tip 1: Avoid an extra allocation with an output parameter](https://www.reddit.com/r/Kotlin/comments/wpqrj6/kotlin_tip_1_avoid_an_extra_allocation_with_an/)
+- [How good/bad is the general state of reusing existing C/C++ code in Kotlin Multiplaform&#39;s usage domain?](https://www.reddit.com/r/Kotlin/comments/wpoghi/how_goodbad_is_the_general_state_of_reusing/)
+- [Companion Object initialized list gives NPE when called from another companion object fun, but works when list is statically initialized outside of the class?](https://www.reddit.com/r/Kotlin/comments/wpnowj/companion_object_initialized_list_gives_npe_when/)
 - [[Help] How do I actually read from the console?](https://www.reddit.com/r/Kotlin/comments/wp75yx/help_how_do_i_actually_read_from_the_console/)
 - [Is my way of exception handling controversial?](https://www.reddit.com/r/Kotlin/comments/wp3euv/is_my_way_of_exception_handling_controversial/)
 - [Serializing Datetimes with TZ](https://www.reddit.com/r/Kotlin/comments/wowtmu/serializing_datetimes_with_tz/)
 - [SSLContext Kickstart - Super lightweight library to secure your Client and Server](https://www.reddit.com/r/Kotlin/comments/wovgeo/sslcontext_kickstart_super_lightweight_library_to/)
 - [Is there a way to create a JsonSerializer from a custom KSerializer](https://www.reddit.com/r/Kotlin/comments/wov4de/is_there_a_way_to_create_a_jsonserializer_from_a/)
-- [rails django or majbe flask like CMS for kotlin](https://www.reddit.com/r/Kotlin/comments/wo2vig/rails_django_or_majbe_flask_like_cms_for_kotlin/)
-- [Virtual thread support in coroutines for loom preview. Any plans?](https://www.reddit.com/r/Kotlin/comments/wo1dlv/virtual_thread_support_in_coroutines_for_loom/)
-- [Kotlin Nitpicks: Language and Standard Library](https://www.reddit.com/r/Kotlin/comments/wo06o7/kotlin_nitpicks_language_and_standard_library/)
-- [[HELP] New in dev, need help for something looks easy](https://www.reddit.com/r/Kotlin/comments/wnl91u/help_new_in_dev_need_help_for_something_looks_easy/)
-- [Interfaces en Kotlin](https://www.reddit.com/r/Kotlin/comments/wnkzkt/interfaces_en_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
