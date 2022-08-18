@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how can i run a shell script within a kotlin program?](https://www.reddit.com/r/Kotlin/comments/wr17ld/how_can_i_run_a_shell_script_within_a_kotlin/)
+- [Kotlin Flow question](https://www.reddit.com/r/Kotlin/comments/wqsib5/kotlin_flow_question/)
+- [Kotlin/JVM alternative for C# Worker Services](https://www.reddit.com/r/Kotlin/comments/wqsai1/kotlinjvm_alternative_for_c_worker_services/)
+- [Kotlin Projects](https://www.reddit.com/r/Kotlin/comments/wqox0y/kotlin_projects/)
+- [Kotlin Engineering - Expand Contract For Data Migration](https://www.reddit.com/r/Kotlin/comments/wqktau/kotlin_engineering_expand_contract_for_data/)
+- [What is even the point of multiple init and constructor blocks available in Kotlin? What&#39;s the use for them?](https://www.reddit.com/r/Kotlin/comments/wqhvqg/what_is_even_the_point_of_multiple_init_and/)
 - [App for wifi outlet socket](https://www.reddit.com/r/Kotlin/comments/wpsrya/app_for_wifi_outlet_socket/)
 - [Object Mapping advanced features &amp; QoL with Kotlin](https://www.reddit.com/r/Kotlin/comments/wps9sl/object_mapping_advanced_features_qol_with_kotlin/)
 - [Kotlin Tip 1: Avoid an extra allocation with an output parameter](https://www.reddit.com/r/Kotlin/comments/wpqrj6/kotlin_tip_1_avoid_an_extra_allocation_with_an/)
 - [How good/bad is the general state of reusing existing C/C++ code in Kotlin Multiplaform&#39;s usage domain?](https://www.reddit.com/r/Kotlin/comments/wpoghi/how_goodbad_is_the_general_state_of_reusing/)
-- [Companion Object initialized list gives NPE when called from another companion object fun, but works when list is statically initialized outside of the class?](https://www.reddit.com/r/Kotlin/comments/wpnowj/companion_object_initialized_list_gives_npe_when/)
-- [[Help] How do I actually read from the console?](https://www.reddit.com/r/Kotlin/comments/wp75yx/help_how_do_i_actually_read_from_the_console/)
-- [Is my way of exception handling controversial?](https://www.reddit.com/r/Kotlin/comments/wp3euv/is_my_way_of_exception_handling_controversial/)
-- [Serializing Datetimes with TZ](https://www.reddit.com/r/Kotlin/comments/wowtmu/serializing_datetimes_with_tz/)
-- [SSLContext Kickstart - Super lightweight library to secure your Client and Server](https://www.reddit.com/r/Kotlin/comments/wovgeo/sslcontext_kickstart_super_lightweight_library_to/)
-- [Is there a way to create a JsonSerializer from a custom KSerializer](https://www.reddit.com/r/Kotlin/comments/wov4de/is_there_a_way_to_create_a_jsonserializer_from_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
