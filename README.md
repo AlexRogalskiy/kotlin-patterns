@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [how can i run a shell script within a kotlin program?](https://www.reddit.com/r/Kotlin/comments/wr17ld/how_can_i_run_a_shell_script_within_a_kotlin/)
-- [Kotlin Flow question](https://www.reddit.com/r/Kotlin/comments/wqsib5/kotlin_flow_question/)
-- [Kotlin/JVM alternative for C# Worker Services](https://www.reddit.com/r/Kotlin/comments/wqsai1/kotlinjvm_alternative_for_c_worker_services/)
-- [Kotlin Projects](https://www.reddit.com/r/Kotlin/comments/wqox0y/kotlin_projects/)
-- [Kotlin Engineering - Expand Contract For Data Migration](https://www.reddit.com/r/Kotlin/comments/wqktau/kotlin_engineering_expand_contract_for_data/)
-- [What is even the point of multiple init and constructor blocks available in Kotlin? What&#39;s the use for them?](https://www.reddit.com/r/Kotlin/comments/wqhvqg/what_is_even_the_point_of_multiple_init_and/)
-- [App for wifi outlet socket](https://www.reddit.com/r/Kotlin/comments/wpsrya/app_for_wifi_outlet_socket/)
-- [Object Mapping advanced features &amp; QoL with Kotlin](https://www.reddit.com/r/Kotlin/comments/wps9sl/object_mapping_advanced_features_qol_with_kotlin/)
-- [Kotlin Tip 1: Avoid an extra allocation with an output parameter](https://www.reddit.com/r/Kotlin/comments/wpqrj6/kotlin_tip_1_avoid_an_extra_allocation_with_an/)
-- [How good/bad is the general state of reusing existing C/C++ code in Kotlin Multiplaform&#39;s usage domain?](https://www.reddit.com/r/Kotlin/comments/wpoghi/how_goodbad_is_the_general_state_of_reusing/)
+- [Kotlin Classes](https://www.reddit.com/r/Kotlin/comments/wrzgvt/kotlin_classes/)
+- [Droidcon NYC iOS app with Compose](https://www.reddit.com/r/Kotlin/comments/wrxa4t/droidcon_nyc_ios_app_with_compose/)
+- [Korge Entity Component System &lpar;ECS&rpar;?](https://www.reddit.com/r/Kotlin/comments/wrwirn/korge_entity_component_system_ecs/)
+- [Designing for supporting French Canadian - what is the legalrequirement.](https://www.reddit.com/r/Kotlin/comments/wrtnud/designing_for_supporting_french_canadian_what_is/)
+- [Five years later, Google is still all-in on Kotlin – TechCrunch](https://www.reddit.com/r/Kotlin/comments/wrru4e/five_years_later_google_is_still_allin_on_kotlin/)
+- [New to Kotlin, Help please in any way you can](https://www.reddit.com/r/Kotlin/comments/wrojxs/new_to_kotlin_help_please_in_any_way_you_can/)
+- [Alexey Soshin is back to discuss some more design patterns with Sebastian!](https://www.reddit.com/r/Kotlin/comments/wrkzvo/alexey_soshin_is_back_to_discuss_some_more_design/)
+- [Defining an Operator Invoke Extension Function on Kotlin Function Types](https://www.reddit.com/r/Kotlin/comments/wrj5b7/defining_an_operator_invoke_extension_function_on/)
+- [Are nearly all your functions suspend?](https://www.reddit.com/r/Kotlin/comments/wrhxq9/are_nearly_all_your_functions_suspend/)
+- [Help please.](https://www.reddit.com/r/Kotlin/comments/wrhvuy/help_please/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
