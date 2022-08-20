@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing. Post yours as well if you also have one!](https://www.reddit.com/r/Kotlin/comments/wsgqw0/heres_a_playlist_of_7_hours_of_music_i_use_to/)
+- [The Kotlin compiler seems to have problems with constants that depend on other constants across many files.](https://www.reddit.com/r/Kotlin/comments/wsg6ak/the_kotlin_compiler_seems_to_have_problems_with/)
+- [Add automated Kotlinx-Kover code coverage reports to your pull requests](https://www.reddit.com/r/Kotlin/comments/wsfg7d/add_automated_kotlinxkover_code_coverage_reports/)
+- [Launch two coroutines in parallel and update console](https://www.reddit.com/r/Kotlin/comments/wsazkg/launch_two_coroutines_in_parallel_and_update/)
+- [Connecting android app to Google cloud database](https://www.reddit.com/r/Kotlin/comments/ws42kh/connecting_android_app_to_google_cloud_database/)
 - [Kotlin Classes](https://www.reddit.com/r/Kotlin/comments/wrzgvt/kotlin_classes/)
 - [Droidcon NYC iOS app with Compose](https://www.reddit.com/r/Kotlin/comments/wrxa4t/droidcon_nyc_ios_app_with_compose/)
 - [Korge Entity Component System &lpar;ECS&rpar;?](https://www.reddit.com/r/Kotlin/comments/wrwirn/korge_entity_component_system_ecs/)
 - [Designing for supporting French Canadian - what is the legalrequirement.](https://www.reddit.com/r/Kotlin/comments/wrtnud/designing_for_supporting_french_canadian_what_is/)
 - [Five years later, Google is still all-in on Kotlin – TechCrunch](https://www.reddit.com/r/Kotlin/comments/wrru4e/five_years_later_google_is_still_allin_on_kotlin/)
-- [New to Kotlin, Help please in any way you can](https://www.reddit.com/r/Kotlin/comments/wrojxs/new_to_kotlin_help_please_in_any_way_you_can/)
-- [Alexey Soshin is back to discuss some more design patterns with Sebastian!](https://www.reddit.com/r/Kotlin/comments/wrkzvo/alexey_soshin_is_back_to_discuss_some_more_design/)
-- [Defining an Operator Invoke Extension Function on Kotlin Function Types](https://www.reddit.com/r/Kotlin/comments/wrj5b7/defining_an_operator_invoke_extension_function_on/)
-- [Are nearly all your functions suspend?](https://www.reddit.com/r/Kotlin/comments/wrhxq9/are_nearly_all_your_functions_suspend/)
-- [Help please.](https://www.reddit.com/r/Kotlin/comments/wrhvuy/help_please/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
