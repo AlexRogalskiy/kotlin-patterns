@@ -272,7 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing. Post yours as well if you also have one!](https://www.reddit.com/r/Kotlin/comments/wsgqw0/heres_a_playlist_of_7_hours_of_music_i_use_to/)
+- [What is the best learning path for new developers learning Kotlin?](https://www.reddit.com/r/Kotlin/comments/wtczea/what_is_the_best_learning_path_for_new_developers/)
 - [The Kotlin compiler seems to have problems with constants that depend on other constants across many files.](https://www.reddit.com/r/Kotlin/comments/wsg6ak/the_kotlin_compiler_seems_to_have_problems_with/)
 - [Add automated Kotlinx-Kover code coverage reports to your pull requests](https://www.reddit.com/r/Kotlin/comments/wsfg7d/add_automated_kotlinxkover_code_coverage_reports/)
 - [Launch two coroutines in parallel and update console](https://www.reddit.com/r/Kotlin/comments/wsazkg/launch_two_coroutines_in_parallel_and_update/)
