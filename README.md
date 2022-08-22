@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Some Help Loading Libraries](https://www.reddit.com/r/Kotlin/comments/wu811j/some_help_loading_libraries/)
+- [hey guys , I wish you are well, i was asking about Kotlin book Explains everything in detail and how these things built + Android book with seam detail and Explains modern tool and apis](https://www.reddit.com/r/Kotlin/comments/wtzx5j/hey_guys_i_wish_you_are_well_i_was_asking_about/)
+- [Kreds Release 0.8 supports Java 11](https://www.reddit.com/r/Kotlin/comments/wtty5z/kreds_release_08_supports_java_11/)
 - [What is the best learning path for new developers learning Kotlin?](https://www.reddit.com/r/Kotlin/comments/wtczea/what_is_the_best_learning_path_for_new_developers/)
 - [The Kotlin compiler seems to have problems with constants that depend on other constants across many files.](https://www.reddit.com/r/Kotlin/comments/wsg6ak/the_kotlin_compiler_seems_to_have_problems_with/)
 - [Add automated Kotlinx-Kover code coverage reports to your pull requests](https://www.reddit.com/r/Kotlin/comments/wsfg7d/add_automated_kotlinxkover_code_coverage_reports/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Connecting android app to Google cloud database](https://www.reddit.com/r/Kotlin/comments/ws42kh/connecting_android_app_to_google_cloud_database/)
 - [Kotlin Classes](https://www.reddit.com/r/Kotlin/comments/wrzgvt/kotlin_classes/)
 - [Droidcon NYC iOS app with Compose](https://www.reddit.com/r/Kotlin/comments/wrxa4t/droidcon_nyc_ios_app_with_compose/)
-- [Korge Entity Component System &lpar;ECS&rpar;?](https://www.reddit.com/r/Kotlin/comments/wrwirn/korge_entity_component_system_ecs/)
-- [Designing for supporting French Canadian - what is the legalrequirement.](https://www.reddit.com/r/Kotlin/comments/wrtnud/designing_for_supporting_french_canadian_what_is/)
-- [Five years later, Google is still all-in on Kotlin – TechCrunch](https://www.reddit.com/r/Kotlin/comments/wrru4e/five_years_later_google_is_still_allin_on_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
