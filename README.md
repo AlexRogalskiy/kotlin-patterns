@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[rekt] - Coroutine-based Multiplatform Redis Client](https://www.reddit.com/r/Kotlin/comments/wva37x/rekt_coroutinebased_multiplatform_redis_client/)
+- [Best kotlin course for building large intelij plugin](https://www.reddit.com/r/Kotlin/comments/wv3mel/best_kotlin_course_for_building_large_intelij/)
+- [Cant compile with kotlinc and kotlinx-coroutines-core-1.6.4](https://www.reddit.com/r/Kotlin/comments/wv1w11/cant_compile_with_kotlinc_and/)
+- [In which region intern strings are stored?](https://www.reddit.com/r/Kotlin/comments/wuq5vr/in_which_region_intern_strings_are_stored/)
+- [Strategy Design Pattern using Kotlin](https://www.reddit.com/r/Kotlin/comments/wumgdj/strategy_design_pattern_using_kotlin/)
 - [Some Help Loading Libraries](https://www.reddit.com/r/Kotlin/comments/wu811j/some_help_loading_libraries/)
 - [hey guys , I wish you are well, i was asking about Kotlin book Explains everything in detail and how these things built + Android book with seam detail and Explains modern tool and apis](https://www.reddit.com/r/Kotlin/comments/wtzx5j/hey_guys_i_wish_you_are_well_i_was_asking_about/)
 - [Kreds Release 0.8 supports Java 11](https://www.reddit.com/r/Kotlin/comments/wtty5z/kreds_release_08_supports_java_11/)
 - [What is the best learning path for new developers learning Kotlin?](https://www.reddit.com/r/Kotlin/comments/wtczea/what_is_the_best_learning_path_for_new_developers/)
 - [The Kotlin compiler seems to have problems with constants that depend on other constants across many files.](https://www.reddit.com/r/Kotlin/comments/wsg6ak/the_kotlin_compiler_seems_to_have_problems_with/)
-- [Add automated Kotlinx-Kover code coverage reports to your pull requests](https://www.reddit.com/r/Kotlin/comments/wsfg7d/add_automated_kotlinxkover_code_coverage_reports/)
-- [Launch two coroutines in parallel and update console](https://www.reddit.com/r/Kotlin/comments/wsazkg/launch_two_coroutines_in_parallel_and_update/)
-- [Connecting android app to Google cloud database](https://www.reddit.com/r/Kotlin/comments/ws42kh/connecting_android_app_to_google_cloud_database/)
-- [Kotlin Classes](https://www.reddit.com/r/Kotlin/comments/wrzgvt/kotlin_classes/)
-- [Droidcon NYC iOS app with Compose](https://www.reddit.com/r/Kotlin/comments/wrxa4t/droidcon_nyc_ios_app_with_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
