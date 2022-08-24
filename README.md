@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android studio java.lang.NoClassDefFoundError: org/HdrHistogram/EncodableHistogram](https://www.reddit.com/r/Kotlin/comments/ww59cu/android_studio_javalangnoclassdeffounderror/)
+- [How do you guys like Kotlin? Anyone have any issues with it?](https://www.reddit.com/r/Kotlin/comments/ww1pux/how_do_you_guys_like_kotlin_anyone_have_any/)
+- [kotlinx.serialization 1.4.0 is out!](https://www.reddit.com/r/Kotlin/comments/wvvuqa/kotlinxserialization_140_is_out/)
+- [removeIf for mutableListOf](https://www.reddit.com/r/Kotlin/comments/wvtewt/removeif_for_mutablelistof/)
+- [Kotlin Refactoring - When Is A Class Not A Class?](https://www.reddit.com/r/Kotlin/comments/wvqh4g/kotlin_refactoring_when_is_a_class_not_a_class/)
+- [Kotlin Illustrated Guide - Scopes &amp; Scope Functions](https://www.reddit.com/r/Kotlin/comments/wvnum1/kotlin_illustrated_guide_scopes_scope_functions/)
+- [I&#39;m looking for a graduation Internship](https://www.reddit.com/r/Kotlin/comments/wvlzyj/im_looking_for_a_graduation_internship/)
+- [Consuming public library in my own android app](https://www.reddit.com/r/Kotlin/comments/wvk56c/consuming_public_library_in_my_own_android_app/)
+- [Zxing on Kotlin immediately force close](https://www.reddit.com/r/Kotlin/comments/wvid8o/zxing_on_kotlin_immediately_force_close/)
 - [[rekt] - Coroutine-based Multiplatform Redis Client](https://www.reddit.com/r/Kotlin/comments/wva37x/rekt_coroutinebased_multiplatform_redis_client/)
-- [Best kotlin course for building large intelij plugin](https://www.reddit.com/r/Kotlin/comments/wv3mel/best_kotlin_course_for_building_large_intelij/)
-- [Cant compile with kotlinc and kotlinx-coroutines-core-1.6.4](https://www.reddit.com/r/Kotlin/comments/wv1w11/cant_compile_with_kotlinc_and/)
-- [In which region intern strings are stored?](https://www.reddit.com/r/Kotlin/comments/wuq5vr/in_which_region_intern_strings_are_stored/)
-- [Strategy Design Pattern using Kotlin](https://www.reddit.com/r/Kotlin/comments/wumgdj/strategy_design_pattern_using_kotlin/)
-- [Some Help Loading Libraries](https://www.reddit.com/r/Kotlin/comments/wu811j/some_help_loading_libraries/)
-- [hey guys , I wish you are well, i was asking about Kotlin book Explains everything in detail and how these things built + Android book with seam detail and Explains modern tool and apis](https://www.reddit.com/r/Kotlin/comments/wtzx5j/hey_guys_i_wish_you_are_well_i_was_asking_about/)
-- [Kreds Release 0.8 supports Java 11](https://www.reddit.com/r/Kotlin/comments/wtty5z/kreds_release_08_supports_java_11/)
-- [What is the best learning path for new developers learning Kotlin?](https://www.reddit.com/r/Kotlin/comments/wtczea/what_is_the_best_learning_path_for_new_developers/)
-- [The Kotlin compiler seems to have problems with constants that depend on other constants across many files.](https://www.reddit.com/r/Kotlin/comments/wsg6ak/the_kotlin_compiler_seems_to_have_problems_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
