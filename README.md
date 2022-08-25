@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [massive problem in Kotlins random&lpar;&rpar; function?](https://www.reddit.com/r/Kotlin/comments/wwvtj3/massive_problem_in_kotlins_random_function/)
+- [Please Help with arithmetic operations in Kotlin. Please](https://www.reddit.com/r/Kotlin/comments/wwq72j/please_help_with_arithmetic_operations_in_kotlin/)
+- [Inconsistent meaning of `==` for arrays?](https://www.reddit.com/r/Kotlin/comments/wwod95/inconsistent_meaning_of_for_arrays/)
+- [A new episode is right around the corner! This time we are talking to Jake and Saket about how Compose is used in Cash App and why “it is time for XML to die.” Premiering tomorrow 👇](https://www.reddit.com/r/Kotlin/comments/wwmhlo/a_new_episode_is_right_around_the_corner_this/)
+- [KSP for code-generation](https://www.reddit.com/r/Kotlin/comments/wwlrtq/ksp_for_codegeneration/)
 - [Android studio java.lang.NoClassDefFoundError: org/HdrHistogram/EncodableHistogram](https://www.reddit.com/r/Kotlin/comments/ww59cu/android_studio_javalangnoclassdeffounderror/)
-- [How do you guys like Kotlin? Anyone have any issues with it?](https://www.reddit.com/r/Kotlin/comments/ww1pux/how_do_you_guys_like_kotlin_anyone_have_any/)
 - [kotlinx.serialization 1.4.0 is out!](https://www.reddit.com/r/Kotlin/comments/wvvuqa/kotlinxserialization_140_is_out/)
 - [removeIf for mutableListOf](https://www.reddit.com/r/Kotlin/comments/wvtewt/removeif_for_mutablelistof/)
 - [Kotlin Refactoring - When Is A Class Not A Class?](https://www.reddit.com/r/Kotlin/comments/wvqh4g/kotlin_refactoring_when_is_a_class_not_a_class/)
 - [Kotlin Illustrated Guide - Scopes &amp; Scope Functions](https://www.reddit.com/r/Kotlin/comments/wvnum1/kotlin_illustrated_guide_scopes_scope_functions/)
-- [I&#39;m looking for a graduation Internship](https://www.reddit.com/r/Kotlin/comments/wvlzyj/im_looking_for_a_graduation_internship/)
-- [Consuming public library in my own android app](https://www.reddit.com/r/Kotlin/comments/wvk56c/consuming_public_library_in_my_own_android_app/)
-- [Zxing on Kotlin immediately force close](https://www.reddit.com/r/Kotlin/comments/wvid8o/zxing_on_kotlin_immediately_force_close/)
-- [[rekt] - Coroutine-based Multiplatform Redis Client](https://www.reddit.com/r/Kotlin/comments/wva37x/rekt_coroutinebased_multiplatform_redis_client/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
