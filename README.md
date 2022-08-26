@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sample Chapter 7 - Actions to Calculations](https://www.reddit.com/r/Kotlin/comments/wxplh9/sample_chapter_7_actions_to_calculations/)
+- [Text recognition only outputting last line](https://www.reddit.com/r/Kotlin/comments/wxhfyh/text_recognition_only_outputting_last_line/)
+- [How To Use Kotlin’s Built-In Functions To Measure Code Execution Time](https://www.reddit.com/r/Kotlin/comments/wxft7p/how_to_use_kotlins_builtin_functions_to_measure/)
 - [massive problem in Kotlins random&lpar;&rpar; function?](https://www.reddit.com/r/Kotlin/comments/wwvtj3/massive_problem_in_kotlins_random_function/)
 - [Please Help with arithmetic operations in Kotlin. Please](https://www.reddit.com/r/Kotlin/comments/wwq72j/please_help_with_arithmetic_operations_in_kotlin/)
 - [Inconsistent meaning of `==` for arrays?](https://www.reddit.com/r/Kotlin/comments/wwod95/inconsistent_meaning_of_for_arrays/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [KSP for code-generation](https://www.reddit.com/r/Kotlin/comments/wwlrtq/ksp_for_codegeneration/)
 - [Android studio java.lang.NoClassDefFoundError: org/HdrHistogram/EncodableHistogram](https://www.reddit.com/r/Kotlin/comments/ww59cu/android_studio_javalangnoclassdeffounderror/)
 - [kotlinx.serialization 1.4.0 is out!](https://www.reddit.com/r/Kotlin/comments/wvvuqa/kotlinxserialization_140_is_out/)
-- [removeIf for mutableListOf](https://www.reddit.com/r/Kotlin/comments/wvtewt/removeif_for_mutablelistof/)
-- [Kotlin Refactoring - When Is A Class Not A Class?](https://www.reddit.com/r/Kotlin/comments/wvqh4g/kotlin_refactoring_when_is_a_class_not_a_class/)
-- [Kotlin Illustrated Guide - Scopes &amp; Scope Functions](https://www.reddit.com/r/Kotlin/comments/wvnum1/kotlin_illustrated_guide_scopes_scope_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
