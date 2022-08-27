@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Time’s running out to get in on the State of Mobile Dev Jobs survey!](https://www.reddit.com/r/Kotlin/comments/wyg9op/times_running_out_to_get_in_on_the_state_of/)
+- [Kotlin Engineering - Feature Flags to Bypass Branches](https://www.reddit.com/r/Kotlin/comments/wydc3t/kotlin_engineering_feature_flags_to_bypass/)
+- [Library for building HTTP client on desktop](https://www.reddit.com/r/Kotlin/comments/wyc3oz/library_for_building_http_client_on_desktop/)
+- [Scroll](https://www.reddit.com/r/Kotlin/comments/wybqtm/scroll/)
+- [I was given homework, where should I start? - Assignment: hasSteed](https://www.reddit.com/r/Kotlin/comments/wy5mvf/i_was_given_homework_where_should_i_start/)
+- [Finally, the kotlin API and External Cache are supported, and my ORM is finished.](https://www.reddit.com/r/Kotlin/comments/wxzhfz/finally_the_kotlin_api_and_external_cache_are/)
 - [Sample Chapter 7 - Actions to Calculations](https://www.reddit.com/r/Kotlin/comments/wxplh9/sample_chapter_7_actions_to_calculations/)
 - [Text recognition only outputting last line](https://www.reddit.com/r/Kotlin/comments/wxhfyh/text_recognition_only_outputting_last_line/)
 - [How To Use Kotlin’s Built-In Functions To Measure Code Execution Time](https://www.reddit.com/r/Kotlin/comments/wxft7p/how_to_use_kotlins_builtin_functions_to_measure/)
 - [massive problem in Kotlins random&lpar;&rpar; function?](https://www.reddit.com/r/Kotlin/comments/wwvtj3/massive_problem_in_kotlins_random_function/)
-- [Please Help with arithmetic operations in Kotlin. Please](https://www.reddit.com/r/Kotlin/comments/wwq72j/please_help_with_arithmetic_operations_in_kotlin/)
-- [Inconsistent meaning of `==` for arrays?](https://www.reddit.com/r/Kotlin/comments/wwod95/inconsistent_meaning_of_for_arrays/)
-- [A new episode is right around the corner! This time we are talking to Jake and Saket about how Compose is used in Cash App and why “it is time for XML to die.” Premiering tomorrow 👇](https://www.reddit.com/r/Kotlin/comments/wwmhlo/a_new_episode_is_right_around_the_corner_this/)
-- [KSP for code-generation](https://www.reddit.com/r/Kotlin/comments/wwlrtq/ksp_for_codegeneration/)
-- [Android studio java.lang.NoClassDefFoundError: org/HdrHistogram/EncodableHistogram](https://www.reddit.com/r/Kotlin/comments/ww59cu/android_studio_javalangnoclassdeffounderror/)
-- [kotlinx.serialization 1.4.0 is out!](https://www.reddit.com/r/Kotlin/comments/wvvuqa/kotlinxserialization_140_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
