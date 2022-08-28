@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to describe a Dialogue with the hero and the owner of the tavern? tell me](https://www.reddit.com/r/Kotlin/comments/wzar9q/how_to_describe_a_dialogue_with_the_hero_and_the/)
+- [How can I use K/N with C++?](https://www.reddit.com/r/Kotlin/comments/wz74xd/how_can_i_use_kn_with_c/)
+- [Looking for a GUI framework with MVVM support](https://www.reddit.com/r/Kotlin/comments/wyv8c6/looking_for_a_gui_framework_with_mvvm_support/)
 - [Time’s running out to get in on the State of Mobile Dev Jobs survey!](https://www.reddit.com/r/Kotlin/comments/wyg9op/times_running_out_to_get_in_on_the_state_of/)
 - [Kotlin Engineering - Feature Flags to Bypass Branches](https://www.reddit.com/r/Kotlin/comments/wydc3t/kotlin_engineering_feature_flags_to_bypass/)
 - [Library for building HTTP client on desktop](https://www.reddit.com/r/Kotlin/comments/wyc3oz/library_for_building_http_client_on_desktop/)
 - [Scroll](https://www.reddit.com/r/Kotlin/comments/wybqtm/scroll/)
-- [I was given homework, where should I start? - Assignment: hasSteed](https://www.reddit.com/r/Kotlin/comments/wy5mvf/i_was_given_homework_where_should_i_start/)
 - [Finally, the kotlin API and External Cache are supported, and my ORM is finished.](https://www.reddit.com/r/Kotlin/comments/wxzhfz/finally_the_kotlin_api_and_external_cache_are/)
 - [Sample Chapter 7 - Actions to Calculations](https://www.reddit.com/r/Kotlin/comments/wxplh9/sample_chapter_7_actions_to_calculations/)
 - [Text recognition only outputting last line](https://www.reddit.com/r/Kotlin/comments/wxhfyh/text_recognition_only_outputting_last_line/)
-- [How To Use Kotlin’s Built-In Functions To Measure Code Execution Time](https://www.reddit.com/r/Kotlin/comments/wxft7p/how_to_use_kotlins_builtin_functions_to_measure/)
-- [massive problem in Kotlins random&lpar;&rpar; function?](https://www.reddit.com/r/Kotlin/comments/wwvtj3/massive_problem_in_kotlins_random_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
