@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to use jvm libraries on Multiplatform &lpar;js related&rpar; project](https://www.reddit.com/r/Kotlin/comments/x012fn/how_to_use_jvm_libraries_on_multiplatform_js/)
+- [How to access the automatically generated get method?](https://www.reddit.com/r/Kotlin/comments/x00vxx/how_to_access_the_automatically_generated_get/)
+- [Is it possible to convert a PC java &lpar;javafx graphics&rpar; project to Android project?](https://www.reddit.com/r/Kotlin/comments/wzvval/is_it_possible_to_convert_a_pc_java_javafx/)
+- [Restrikt - A Kotlin/JVM compiler plugin to easily control symbols visibility](https://www.reddit.com/r/Kotlin/comments/wzs1bc/restrikt_a_kotlinjvm_compiler_plugin_to_easily/)
+- [Achieve Rx behavior using Flow](https://www.reddit.com/r/Kotlin/comments/wzr4s2/achieve_rx_behavior_using_flow/)
+- [Trying to set up a spring boot project using Kotlin and Gradle as my build tool](https://www.reddit.com/r/Kotlin/comments/wzo69u/trying_to_set_up_a_spring_boot_project_using/)
+- [How much of Kotlin&#39;s rising popularity is related to mobile development?](https://www.reddit.com/r/Kotlin/comments/wznauo/how_much_of_kotlins_rising_popularity_is_related/)
+- [I asked to add an icon to Kotlin and it was added &lpar;yaru, ubuntu&rpar;](https://www.reddit.com/r/Kotlin/comments/wzmv1c/i_asked_to_add_an_icon_to_kotlin_and_it_was_added/)
 - [How to describe a Dialogue with the hero and the owner of the tavern? tell me](https://www.reddit.com/r/Kotlin/comments/wzar9q/how_to_describe_a_dialogue_with_the_hero_and_the/)
 - [How can I use K/N with C++?](https://www.reddit.com/r/Kotlin/comments/wz74xd/how_can_i_use_kn_with_c/)
-- [Looking for a GUI framework with MVVM support](https://www.reddit.com/r/Kotlin/comments/wyv8c6/looking_for_a_gui_framework_with_mvvm_support/)
-- [Time’s running out to get in on the State of Mobile Dev Jobs survey!](https://www.reddit.com/r/Kotlin/comments/wyg9op/times_running_out_to_get_in_on_the_state_of/)
-- [Kotlin Engineering - Feature Flags to Bypass Branches](https://www.reddit.com/r/Kotlin/comments/wydc3t/kotlin_engineering_feature_flags_to_bypass/)
-- [Library for building HTTP client on desktop](https://www.reddit.com/r/Kotlin/comments/wyc3oz/library_for_building_http_client_on_desktop/)
-- [Scroll](https://www.reddit.com/r/Kotlin/comments/wybqtm/scroll/)
-- [Finally, the kotlin API and External Cache are supported, and my ORM is finished.](https://www.reddit.com/r/Kotlin/comments/wxzhfz/finally_the_kotlin_api_and_external_cache_are/)
-- [Sample Chapter 7 - Actions to Calculations](https://www.reddit.com/r/Kotlin/comments/wxplh9/sample_chapter_7_actions_to_calculations/)
-- [Text recognition only outputting last line](https://www.reddit.com/r/Kotlin/comments/wxhfyh/text_recognition_only_outputting_last_line/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
