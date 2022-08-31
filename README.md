@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [amy tips for smoother scrolling while Coil load images?](https://www.reddit.com/r/Kotlin/comments/x1v46m/amy_tips_for_smoother_scrolling_while_coil_load/)
+- [Kotlin TDD - Outside In or Inside Out?](https://www.reddit.com/r/Kotlin/comments/x1kyeb/kotlin_tdd_outside_in_or_inside_out/)
+- [I am the Co-founder of Video SDK, We are Live on Product Hunt. AMA!](https://www.reddit.com/r/Kotlin/comments/x1dq3w/i_am_the_cofounder_of_video_sdk_we_are_live_on/)
 - [Is it possible to connect and Android Studio app &lpar;frontend&rpar; with a Node.js CMS &lpar;backend&rpar; ?](https://www.reddit.com/r/Kotlin/comments/x13gei/is_it_possible_to_connect_and_android_studio_app/)
 - [Kotlin-Multiplatform Shared Test Resources?](https://www.reddit.com/r/Kotlin/comments/x0nxn0/kotlinmultiplatform_shared_test_resources/)
 - [Can I use intellij to make spring applications? Or do I need the professional version?](https://www.reddit.com/r/Kotlin/comments/x0mogb/can_i_use_intellij_to_make_spring_applications_or/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Can&#39;t get data from NestedScrollView](https://www.reddit.com/r/Kotlin/comments/x0k9ij/cant_get_data_from_nestedscrollview/)
 - [How to use jvm libraries on Multiplatform &lpar;js related&rpar; project](https://www.reddit.com/r/Kotlin/comments/x012fn/how_to_use_jvm_libraries_on_multiplatform_js/)
 - [How to access the automatically generated get method?](https://www.reddit.com/r/Kotlin/comments/x00vxx/how_to_access_the_automatically_generated_get/)
-- [Is it possible to convert a PC java &lpar;javafx graphics&rpar; project to Android project?](https://www.reddit.com/r/Kotlin/comments/wzvval/is_it_possible_to_convert_a_pc_java_javafx/)
-- [Restrikt - A Kotlin/JVM compiler plugin to easily control symbols visibility](https://www.reddit.com/r/Kotlin/comments/wzs1bc/restrikt_a_kotlinjvm_compiler_plugin_to_easily/)
-- [Achieve Rx behavior using Flow](https://www.reddit.com/r/Kotlin/comments/wzr4s2/achieve_rx_behavior_using_flow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
