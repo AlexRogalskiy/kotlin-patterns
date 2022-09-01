@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Developing for android and IOS](https://www.reddit.com/r/Kotlin/comments/x2qtd2/developing_for_android_and_ios/)
+- [Help a Python guy understand the Kotlin world](https://www.reddit.com/r/Kotlin/comments/x2oeof/help_a_python_guy_understand_the_kotlin_world/)
+- [Smart cast, now you see it, now you dont](https://www.reddit.com/r/Kotlin/comments/x2j426/smart_cast_now_you_see_it_now_you_dont/)
+- [Token-based auth not navigating after successful login](https://www.reddit.com/r/Kotlin/comments/x2grpc/tokenbased_auth_not_navigating_after_successful/)
+- [Struggling with Ktor + Kotlinx Deserialization and &quot;Unexpected JSON tokens&quot;](https://www.reddit.com/r/Kotlin/comments/x26dmi/struggling_with_ktor_kotlinx_deserialization_and/)
+- [Library for a simple HTTP server?](https://www.reddit.com/r/Kotlin/comments/x25kmn/library_for_a_simple_http_server/)
 - [amy tips for smoother scrolling while Coil load images?](https://www.reddit.com/r/Kotlin/comments/x1v46m/amy_tips_for_smoother_scrolling_while_coil_load/)
 - [Kotlin TDD - Outside In or Inside Out?](https://www.reddit.com/r/Kotlin/comments/x1kyeb/kotlin_tdd_outside_in_or_inside_out/)
-- [I am the Co-founder of Video SDK, We are Live on Product Hunt. AMA!](https://www.reddit.com/r/Kotlin/comments/x1dq3w/i_am_the_cofounder_of_video_sdk_we_are_live_on/)
 - [Is it possible to connect and Android Studio app &lpar;frontend&rpar; with a Node.js CMS &lpar;backend&rpar; ?](https://www.reddit.com/r/Kotlin/comments/x13gei/is_it_possible_to_connect_and_android_studio_app/)
 - [Kotlin-Multiplatform Shared Test Resources?](https://www.reddit.com/r/Kotlin/comments/x0nxn0/kotlinmultiplatform_shared_test_resources/)
-- [Can I use intellij to make spring applications? Or do I need the professional version?](https://www.reddit.com/r/Kotlin/comments/x0mogb/can_i_use_intellij_to_make_spring_applications_or/)
-- [[DEV] New in dev, need help](https://www.reddit.com/r/Kotlin/comments/x0lavw/dev_new_in_dev_need_help/)
-- [Can&#39;t get data from NestedScrollView](https://www.reddit.com/r/Kotlin/comments/x0k9ij/cant_get_data_from_nestedscrollview/)
-- [How to use jvm libraries on Multiplatform &lpar;js related&rpar; project](https://www.reddit.com/r/Kotlin/comments/x012fn/how_to_use_jvm_libraries_on_multiplatform_js/)
-- [How to access the automatically generated get method?](https://www.reddit.com/r/Kotlin/comments/x00vxx/how_to_access_the_automatically_generated_get/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
