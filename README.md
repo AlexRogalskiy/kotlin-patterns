@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How can I write an extension function on Collection&lt;Number&gt;](https://www.reddit.com/r/Kotlin/comments/x3pm2c/how_can_i_write_an_extension_function_on/)
 - [Developing for android and IOS](https://www.reddit.com/r/Kotlin/comments/x2qtd2/developing_for_android_and_ios/)
 - [Help a Python guy understand the Kotlin world](https://www.reddit.com/r/Kotlin/comments/x2oeof/help_a_python_guy_understand_the_kotlin_world/)
 - [Smart cast, now you see it, now you dont](https://www.reddit.com/r/Kotlin/comments/x2j426/smart_cast_now_you_see_it_now_you_dont/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [amy tips for smoother scrolling while Coil load images?](https://www.reddit.com/r/Kotlin/comments/x1v46m/amy_tips_for_smoother_scrolling_while_coil_load/)
 - [Kotlin TDD - Outside In or Inside Out?](https://www.reddit.com/r/Kotlin/comments/x1kyeb/kotlin_tdd_outside_in_or_inside_out/)
 - [Is it possible to connect and Android Studio app &lpar;frontend&rpar; with a Node.js CMS &lpar;backend&rpar; ?](https://www.reddit.com/r/Kotlin/comments/x13gei/is_it_possible_to_connect_and_android_studio_app/)
-- [Kotlin-Multiplatform Shared Test Resources?](https://www.reddit.com/r/Kotlin/comments/x0nxn0/kotlinmultiplatform_shared_test_resources/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
