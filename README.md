@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to get Confident in kotlin???](https://www.reddit.com/r/Kotlin/comments/x46jd4/how_to_get_confident_in_kotlin/)
+- [Kotlin TDD - Calling a Web API with http4k](https://www.reddit.com/r/Kotlin/comments/x45eoo/kotlin_tdd_calling_a_web_api_with_http4k/)
 - [How can I write an extension function on Collection&lt;Number&gt;](https://www.reddit.com/r/Kotlin/comments/x3pm2c/how_can_i_write_an_extension_function_on/)
 - [Developing for android and IOS](https://www.reddit.com/r/Kotlin/comments/x2qtd2/developing_for_android_and_ios/)
 - [Help a Python guy understand the Kotlin world](https://www.reddit.com/r/Kotlin/comments/x2oeof/help_a_python_guy_understand_the_kotlin_world/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Struggling with Ktor + Kotlinx Deserialization and &quot;Unexpected JSON tokens&quot;](https://www.reddit.com/r/Kotlin/comments/x26dmi/struggling_with_ktor_kotlinx_deserialization_and/)
 - [Library for a simple HTTP server?](https://www.reddit.com/r/Kotlin/comments/x25kmn/library_for_a_simple_http_server/)
 - [amy tips for smoother scrolling while Coil load images?](https://www.reddit.com/r/Kotlin/comments/x1v46m/amy_tips_for_smoother_scrolling_while_coil_load/)
-- [Kotlin TDD - Outside In or Inside Out?](https://www.reddit.com/r/Kotlin/comments/x1kyeb/kotlin_tdd_outside_in_or_inside_out/)
-- [Is it possible to connect and Android Studio app &lpar;frontend&rpar; with a Node.js CMS &lpar;backend&rpar; ?](https://www.reddit.com/r/Kotlin/comments/x13gei/is_it_possible_to_connect_and_android_studio_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
