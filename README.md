@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Read this to understand the difference between concurrency and parallelism &lpar;with Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/x56meb/read_this_to_understand_the_difference_between/)
+- [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/Kotlin/comments/x55owk/step_by_step_guide_of_setting_up_ssltls_for_a/)
+- [android.telephony.SmsManager.getDefault&lpar;&rpar; doesn&#39;t work. do you have any idea why?](https://www.reddit.com/r/Kotlin/comments/x51dh8/androidtelephonysmsmanagergetdefault_doesnt_work/)
+- [My top 8 reasons why Kotlin makes me a more productive software engineer](https://www.reddit.com/r/Kotlin/comments/x4wlwe/my_top_8_reasons_why_kotlin_makes_me_a_more/)
+- [Serving static files with Ktor](https://www.reddit.com/r/Kotlin/comments/x4uwnf/serving_static_files_with_ktor/)
+- [Is Kotlin Coroutines are asynchronous or synchronised ?](https://www.reddit.com/r/Kotlin/comments/x4s8th/is_kotlin_coroutines_are_asynchronous_or/)
+- [Just an old article reposted to medium: Features I miss when going from Kotlin to Java](https://www.reddit.com/r/Kotlin/comments/x4n4io/just_an_old_article_reposted_to_medium_features_i/)
 - [How to get Confident in kotlin???](https://www.reddit.com/r/Kotlin/comments/x46jd4/how_to_get_confident_in_kotlin/)
 - [Kotlin TDD - Calling a Web API with http4k](https://www.reddit.com/r/Kotlin/comments/x45eoo/kotlin_tdd_calling_a_web_api_with_http4k/)
 - [How can I write an extension function on Collection&lt;Number&gt;](https://www.reddit.com/r/Kotlin/comments/x3pm2c/how_can_i_write_an_extension_function_on/)
-- [Developing for android and IOS](https://www.reddit.com/r/Kotlin/comments/x2qtd2/developing_for_android_and_ios/)
-- [Help a Python guy understand the Kotlin world](https://www.reddit.com/r/Kotlin/comments/x2oeof/help_a_python_guy_understand_the_kotlin_world/)
-- [Smart cast, now you see it, now you dont](https://www.reddit.com/r/Kotlin/comments/x2j426/smart_cast_now_you_see_it_now_you_dont/)
-- [Token-based auth not navigating after successful login](https://www.reddit.com/r/Kotlin/comments/x2grpc/tokenbased_auth_not_navigating_after_successful/)
-- [Struggling with Ktor + Kotlinx Deserialization and &quot;Unexpected JSON tokens&quot;](https://www.reddit.com/r/Kotlin/comments/x26dmi/struggling_with_ktor_kotlinx_deserialization_and/)
-- [Library for a simple HTTP server?](https://www.reddit.com/r/Kotlin/comments/x25kmn/library_for_a_simple_http_server/)
-- [amy tips for smoother scrolling while Coil load images?](https://www.reddit.com/r/Kotlin/comments/x1v46m/amy_tips_for_smoother_scrolling_while_coil_load/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
