@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Read this to understand the difference between concurrency and parallelism &lpar;with Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/x56meb/read_this_to_understand_the_difference_between/)
-- [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/Kotlin/comments/x55owk/step_by_step_guide_of_setting_up_ssltls_for_a/)
-- [android.telephony.SmsManager.getDefault&lpar;&rpar; doesn&#39;t work. do you have any idea why?](https://www.reddit.com/r/Kotlin/comments/x51dh8/androidtelephonysmsmanagergetdefault_doesnt_work/)
-- [My top 8 reasons why Kotlin makes me a more productive software engineer](https://www.reddit.com/r/Kotlin/comments/x4wlwe/my_top_8_reasons_why_kotlin_makes_me_a_more/)
-- [Serving static files with Ktor](https://www.reddit.com/r/Kotlin/comments/x4uwnf/serving_static_files_with_ktor/)
-- [Is Kotlin Coroutines are asynchronous or synchronised ?](https://www.reddit.com/r/Kotlin/comments/x4s8th/is_kotlin_coroutines_are_asynchronous_or/)
-- [Just an old article reposted to medium: Features I miss when going from Kotlin to Java](https://www.reddit.com/r/Kotlin/comments/x4n4io/just_an_old_article_reposted_to_medium_features_i/)
-- [How to get Confident in kotlin???](https://www.reddit.com/r/Kotlin/comments/x46jd4/how_to_get_confident_in_kotlin/)
-- [Kotlin TDD - Calling a Web API with http4k](https://www.reddit.com/r/Kotlin/comments/x45eoo/kotlin_tdd_calling_a_web_api_with_http4k/)
-- [How can I write an extension function on Collection&lt;Number&gt;](https://www.reddit.com/r/Kotlin/comments/x3pm2c/how_can_i_write_an_extension_function_on/)
+- [[DEV] How keep data between 2 files.kt ?](https://www.reddit.com/r/Kotlin/comments/x629id/dev_how_keep_data_between_2_fileskt/)
+- [I&#39;d love to learn Kotlin? Where would you begin if you could start over?](https://www.reddit.com/r/Kotlin/comments/x5ztvi/id_love_to_learn_kotlin_where_would_you_begin_if/)
+- [continuous data stream input](https://www.reddit.com/r/Kotlin/comments/x5x29u/continuous_data_stream_input/)
+- [Nice material for learning Kotlin basics](https://www.reddit.com/r/Kotlin/comments/x5wl9u/nice_material_for_learning_kotlin_basics/)
+- [What is the easiest way to make a HTTP request?](https://www.reddit.com/r/Kotlin/comments/x5vv1k/what_is_the_easiest_way_to_make_a_http_request/)
+- [How to Publish a Library to Jitpack.io that Itself Depends on Other Libraries](https://www.reddit.com/r/Kotlin/comments/x5vdhi/how_to_publish_a_library_to_jitpackio_that_itself/)
+- [Good kotlin course](https://www.reddit.com/r/Kotlin/comments/x5sqch/good_kotlin_course/)
+- [Help using JdbcTemplate and Kotlin](https://www.reddit.com/r/Kotlin/comments/x5s5yx/help_using_jdbctemplate_and_kotlin/)
+- [Any other way to write nested .use { } blocks?](https://www.reddit.com/r/Kotlin/comments/x5rrj5/any_other_way_to_write_nested_use_blocks/)
+- [Power of kotlin](https://www.reddit.com/r/Kotlin/comments/x5jzs8/power_of_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
