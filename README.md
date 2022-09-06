@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just starting learning Kotlin and I keep getting main.kt:43:7: error: unresolved reference. What does it mean in layman terms and how to fix?](https://www.reddit.com/r/Kotlin/comments/x6w6et/just_starting_learning_kotlin_and_i_keep_getting/)
+- [Saving a 2D float array to a 16 or 32 bit image?](https://www.reddit.com/r/Kotlin/comments/x6s95y/saving_a_2d_float_array_to_a_16_or_32_bit_image/)
+- [Here Are My 4 Tips for Succeeding in Your Next Technical Coding Interview](https://www.reddit.com/r/Kotlin/comments/x6pqxj/here_are_my_4_tips_for_succeeding_in_your_next/)
+- [Hello there guys, I am super excited to learn Kotlin from an Udemy course i picked up a few weeks ago, i came across this quiz question, I got it wrong but it seems a bit off to me.](https://www.reddit.com/r/Kotlin/comments/x6oe9s/hello_there_guys_i_am_super_excited_to_learn/)
+- [Is Ktor worth to learn?](https://www.reddit.com/r/Kotlin/comments/x6ln9r/is_ktor_worth_to_learn/)
+- [Introduction to Ktor](https://www.reddit.com/r/Kotlin/comments/x6hc90/introduction_to_ktor/)
+- [Wanted to start web server development using Kotlin? Check introductory video on Ktor](https://www.reddit.com/r/Kotlin/comments/x6cw6y/wanted_to_start_web_server_development_using/)
 - [[DEV] How keep data between 2 files.kt ?](https://www.reddit.com/r/Kotlin/comments/x629id/dev_how_keep_data_between_2_fileskt/)
 - [I&#39;d love to learn Kotlin? Where would you begin if you could start over?](https://www.reddit.com/r/Kotlin/comments/x5ztvi/id_love_to_learn_kotlin_where_would_you_begin_if/)
-- [continuous data stream input](https://www.reddit.com/r/Kotlin/comments/x5x29u/continuous_data_stream_input/)
 - [Nice material for learning Kotlin basics](https://www.reddit.com/r/Kotlin/comments/x5wl9u/nice_material_for_learning_kotlin_basics/)
-- [What is the easiest way to make a HTTP request?](https://www.reddit.com/r/Kotlin/comments/x5vv1k/what_is_the_easiest_way_to_make_a_http_request/)
-- [How to Publish a Library to Jitpack.io that Itself Depends on Other Libraries](https://www.reddit.com/r/Kotlin/comments/x5vdhi/how_to_publish_a_library_to_jitpackio_that_itself/)
-- [Good kotlin course](https://www.reddit.com/r/Kotlin/comments/x5sqch/good_kotlin_course/)
-- [Help using JdbcTemplate and Kotlin](https://www.reddit.com/r/Kotlin/comments/x5s5yx/help_using_jdbctemplate_and_kotlin/)
-- [Any other way to write nested .use { } blocks?](https://www.reddit.com/r/Kotlin/comments/x5rrj5/any_other_way_to_write_nested_use_blocks/)
-- [Power of kotlin](https://www.reddit.com/r/Kotlin/comments/x5jzs8/power_of_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
