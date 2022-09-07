@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for a paid kotlin tutor to tutor me 1 on 1 via anydesk or teamviewer with the ability to speak over the phone or skype.](https://www.reddit.com/r/Kotlin/comments/x7cujy/looking_for_a_paid_kotlin_tutor_to_tutor_me_1_on/)
+- [How Kotlin’s reified keyword simplifies working with generics](https://www.reddit.com/r/Kotlin/comments/x788pt/how_kotlins_reified_keyword_simplifies_working/)
+- [Kotlin TDD - Populating and Parsing with http4k Lenses](https://www.reddit.com/r/Kotlin/comments/x76fs3/kotlin_tdd_populating_and_parsing_with_http4k/)
+- [Simulating &amp; troubleshooting deadlock in Kotlin](https://www.reddit.com/r/Kotlin/comments/x72m9f/simulating_troubleshooting_deadlock_in_kotlin/)
+- [Ktor: Altering served content](https://www.reddit.com/r/Kotlin/comments/x70tqw/ktor_altering_served_content/)
 - [Just starting learning Kotlin and I keep getting main.kt:43:7: error: unresolved reference. What does it mean in layman terms and how to fix?](https://www.reddit.com/r/Kotlin/comments/x6w6et/just_starting_learning_kotlin_and_i_keep_getting/)
 - [Saving a 2D float array to a 16 or 32 bit image?](https://www.reddit.com/r/Kotlin/comments/x6s95y/saving_a_2d_float_array_to_a_16_or_32_bit_image/)
 - [Here Are My 4 Tips for Succeeding in Your Next Technical Coding Interview](https://www.reddit.com/r/Kotlin/comments/x6pqxj/here_are_my_4_tips_for_succeeding_in_your_next/)
 - [Hello there guys, I am super excited to learn Kotlin from an Udemy course i picked up a few weeks ago, i came across this quiz question, I got it wrong but it seems a bit off to me.](https://www.reddit.com/r/Kotlin/comments/x6oe9s/hello_there_guys_i_am_super_excited_to_learn/)
 - [Is Ktor worth to learn?](https://www.reddit.com/r/Kotlin/comments/x6ln9r/is_ktor_worth_to_learn/)
-- [Introduction to Ktor](https://www.reddit.com/r/Kotlin/comments/x6hc90/introduction_to_ktor/)
-- [Wanted to start web server development using Kotlin? Check introductory video on Ktor](https://www.reddit.com/r/Kotlin/comments/x6cw6y/wanted_to_start_web_server_development_using/)
-- [[DEV] How keep data between 2 files.kt ?](https://www.reddit.com/r/Kotlin/comments/x629id/dev_how_keep_data_between_2_fileskt/)
-- [I&#39;d love to learn Kotlin? Where would you begin if you could start over?](https://www.reddit.com/r/Kotlin/comments/x5ztvi/id_love_to_learn_kotlin_where_would_you_begin_if/)
-- [Nice material for learning Kotlin basics](https://www.reddit.com/r/Kotlin/comments/x5wl9u/nice_material_for_learning_kotlin_basics/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
