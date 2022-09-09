@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help me make this flow combinator more sound.](https://www.reddit.com/r/Kotlin/comments/x9a6rf/help_me_make_this_flow_combinator_more_sound/)
+- [Generic type not getting inferred while building&lpar;?&rpar;](https://www.reddit.com/r/Kotlin/comments/x96r8v/generic_type_not_getting_inferred_while_building/)
+- [Released Kotlin 1.7.20-RC](https://www.reddit.com/r/Kotlin/comments/x95tpa/released_kotlin_1720rc/)
+- [Kotlin’s way to make DSLs and many standard library functions work](https://www.reddit.com/r/Kotlin/comments/x92i64/kotlins_way_to_make_dsls_and_many_standard/)
+- [We open sourced our Conclave SDK for creating confidential SGX enclaves in Java and Kotlin](https://www.reddit.com/r/Kotlin/comments/x8zw6g/we_open_sourced_our_conclave_sdk_for_creating/)
+- [Python to Kotlin translator?](https://www.reddit.com/r/Kotlin/comments/x8x7po/python_to_kotlin_translator/)
+- [Pragmatic Functional Programming, By Jerre van Veluw @ Kotlin Dev Day Amsterdam 2022](https://www.reddit.com/r/Kotlin/comments/x8uhhz/pragmatic_functional_programming_by_jerre_van/)
+- [I’m a Java / Spring developer but I’m starting a side project using Kotlin / Ktor. Can someone point me to a well-organized, simple, public repo somewhere that uses Ktor?](https://www.reddit.com/r/Kotlin/comments/x8q8cg/im_a_java_spring_developer_but_im_starting_a_side/)
 - [is kotlin a good language to develop a digital wallet app?](https://www.reddit.com/r/Kotlin/comments/x8apmp/is_kotlin_a_good_language_to_develop_a_digital/)
 - [We released a new version of ShapeShift &lpar;0.6.0&rpar; - A lightweight, modular, performant and extensible library for Object Mapping](https://www.reddit.com/r/Kotlin/comments/x84wob/we_released_a_new_version_of_shapeshift_060_a/)
-- [New to kotlin](https://www.reddit.com/r/Kotlin/comments/x831rt/new_to_kotlin/)
-- [Java Issues Fixed in Kotlin](https://www.reddit.com/r/Kotlin/comments/x7wezt/java_issues_fixed_in_kotlin/)
-- [Looking for a paid kotlin tutor to tutor me 1 on 1 via anydesk or teamviewer with the ability to speak over the phone or skype.](https://www.reddit.com/r/Kotlin/comments/x7cujy/looking_for_a_paid_kotlin_tutor_to_tutor_me_1_on/)
-- [How Kotlin’s reified keyword simplifies working with generics](https://www.reddit.com/r/Kotlin/comments/x788pt/how_kotlins_reified_keyword_simplifies_working/)
-- [Kotlin TDD - Populating and Parsing with http4k Lenses](https://www.reddit.com/r/Kotlin/comments/x76fs3/kotlin_tdd_populating_and_parsing_with_http4k/)
-- [Simulating &amp; troubleshooting deadlock in Kotlin](https://www.reddit.com/r/Kotlin/comments/x72m9f/simulating_troubleshooting_deadlock_in_kotlin/)
-- [Ktor: Altering served content](https://www.reddit.com/r/Kotlin/comments/x70tqw/ktor_altering_served_content/)
-- [Just starting learning Kotlin and I keep getting main.kt:43:7: error: unresolved reference. What does it mean in layman terms and how to fix?](https://www.reddit.com/r/Kotlin/comments/x6w6et/just_starting_learning_kotlin_and_i_keep_getting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
