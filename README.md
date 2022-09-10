@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pants 2.13: Adds Kotlin support, as well as simplifying command line arguments, and improving JVM support in general!](https://www.reddit.com/r/Kotlin/comments/xa110h/pants_213_adds_kotlin_support_as_well_as/)
+- [Stop Using JUnit BeforeEach!](https://www.reddit.com/r/Kotlin/comments/x9yov7/stop_using_junit_beforeeach/)
+- [Any YouTube playlist about Data structure and Algorithms in Kotlin ?Thanks](https://www.reddit.com/r/Kotlin/comments/x9wezb/any_youtube_playlist_about_data_structure_and/)
 - [Help me make this flow combinator more sound.](https://www.reddit.com/r/Kotlin/comments/x9a6rf/help_me_make_this_flow_combinator_more_sound/)
 - [Generic type not getting inferred while building&lpar;?&rpar;](https://www.reddit.com/r/Kotlin/comments/x96r8v/generic_type_not_getting_inferred_while_building/)
 - [Released Kotlin 1.7.20-RC](https://www.reddit.com/r/Kotlin/comments/x95tpa/released_kotlin_1720rc/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [We open sourced our Conclave SDK for creating confidential SGX enclaves in Java and Kotlin](https://www.reddit.com/r/Kotlin/comments/x8zw6g/we_open_sourced_our_conclave_sdk_for_creating/)
 - [Python to Kotlin translator?](https://www.reddit.com/r/Kotlin/comments/x8x7po/python_to_kotlin_translator/)
 - [Pragmatic Functional Programming, By Jerre van Veluw @ Kotlin Dev Day Amsterdam 2022](https://www.reddit.com/r/Kotlin/comments/x8uhhz/pragmatic_functional_programming_by_jerre_van/)
-- [I’m a Java / Spring developer but I’m starting a side project using Kotlin / Ktor. Can someone point me to a well-organized, simple, public repo somewhere that uses Ktor?](https://www.reddit.com/r/Kotlin/comments/x8q8cg/im_a_java_spring_developer_but_im_starting_a_side/)
-- [is kotlin a good language to develop a digital wallet app?](https://www.reddit.com/r/Kotlin/comments/x8apmp/is_kotlin_a_good_language_to_develop_a_digital/)
-- [We released a new version of ShapeShift &lpar;0.6.0&rpar; - A lightweight, modular, performant and extensible library for Object Mapping](https://www.reddit.com/r/Kotlin/comments/x84wob/we_released_a_new_version_of_shapeshift_060_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
