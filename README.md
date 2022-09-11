@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlinx Coroutines for Kotlin 1.7.x](https://www.reddit.com/r/Kotlin/comments/xayp7n/kotlinx_coroutines_for_kotlin_17x/)
+- [What to do ta make an app?](https://www.reddit.com/r/Kotlin/comments/xaon37/what_to_do_ta_make_an_app/)
+- [My kotlin multiplatform mobile repo got featured by kotlin official on twitter](https://www.reddit.com/r/Kotlin/comments/xakh6k/my_kotlin_multiplatform_mobile_repo_got_featured/)
+- [Resources to learn about Classes and OOP in Kotlin](https://www.reddit.com/r/Kotlin/comments/xaj014/resources_to_learn_about_classes_and_oop_in_kotlin/)
 - [Pants 2.13: Adds Kotlin support, as well as simplifying command line arguments, and improving JVM support in general!](https://www.reddit.com/r/Kotlin/comments/xa110h/pants_213_adds_kotlin_support_as_well_as/)
 - [Stop Using JUnit BeforeEach!](https://www.reddit.com/r/Kotlin/comments/x9yov7/stop_using_junit_beforeeach/)
 - [Any YouTube playlist about Data structure and Algorithms in Kotlin ?Thanks](https://www.reddit.com/r/Kotlin/comments/x9wezb/any_youtube_playlist_about_data_structure_and/)
 - [Help me make this flow combinator more sound.](https://www.reddit.com/r/Kotlin/comments/x9a6rf/help_me_make_this_flow_combinator_more_sound/)
 - [Generic type not getting inferred while building&lpar;?&rpar;](https://www.reddit.com/r/Kotlin/comments/x96r8v/generic_type_not_getting_inferred_while_building/)
 - [Released Kotlin 1.7.20-RC](https://www.reddit.com/r/Kotlin/comments/x95tpa/released_kotlin_1720rc/)
-- [Kotlin’s way to make DSLs and many standard library functions work](https://www.reddit.com/r/Kotlin/comments/x92i64/kotlins_way_to_make_dsls_and_many_standard/)
-- [We open sourced our Conclave SDK for creating confidential SGX enclaves in Java and Kotlin](https://www.reddit.com/r/Kotlin/comments/x8zw6g/we_open_sourced_our_conclave_sdk_for_creating/)
-- [Python to Kotlin translator?](https://www.reddit.com/r/Kotlin/comments/x8x7po/python_to_kotlin_translator/)
-- [Pragmatic Functional Programming, By Jerre van Veluw @ Kotlin Dev Day Amsterdam 2022](https://www.reddit.com/r/Kotlin/comments/x8uhhz/pragmatic_functional_programming_by_jerre_van/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
