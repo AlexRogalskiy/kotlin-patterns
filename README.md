@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tell about your favourite courses to study Kotlin for beginners and pro](https://www.reddit.com/r/Kotlin/comments/xbh431/tell_about_your_favourite_courses_to_study_kotlin/)
 - [Kotlinx Coroutines for Kotlin 1.7.x](https://www.reddit.com/r/Kotlin/comments/xayp7n/kotlinx_coroutines_for_kotlin_17x/)
 - [What to do ta make an app?](https://www.reddit.com/r/Kotlin/comments/xaon37/what_to_do_ta_make_an_app/)
 - [My kotlin multiplatform mobile repo got featured by kotlin official on twitter](https://www.reddit.com/r/Kotlin/comments/xakh6k/my_kotlin_multiplatform_mobile_repo_got_featured/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Any YouTube playlist about Data structure and Algorithms in Kotlin ?Thanks](https://www.reddit.com/r/Kotlin/comments/x9wezb/any_youtube_playlist_about_data_structure_and/)
 - [Help me make this flow combinator more sound.](https://www.reddit.com/r/Kotlin/comments/x9a6rf/help_me_make_this_flow_combinator_more_sound/)
 - [Generic type not getting inferred while building&lpar;?&rpar;](https://www.reddit.com/r/Kotlin/comments/x96r8v/generic_type_not_getting_inferred_while_building/)
-- [Released Kotlin 1.7.20-RC](https://www.reddit.com/r/Kotlin/comments/x95tpa/released_kotlin_1720rc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
