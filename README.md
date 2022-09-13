@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [HELP on text edit](https://www.reddit.com/r/Kotlin/comments/xcq7lu/help_on_text_edit/)
+- [What is the proper architecture for Compose Web?](https://www.reddit.com/r/Kotlin/comments/xcizhw/what_is_the_proper_architecture_for_compose_web/)
+- [Trendiest tools for Kotlin in Data Science &lpar;2022&rpar;?](https://www.reddit.com/r/Kotlin/comments/xcdw9f/trendiest_tools_for_kotlin_in_data_science_2022/)
+- [Firebase with Kotlin. Help!](https://www.reddit.com/r/Kotlin/comments/xc840q/firebase_with_kotlin_help/)
 - [Tell about your favourite courses to study Kotlin for beginners and pro](https://www.reddit.com/r/Kotlin/comments/xbh431/tell_about_your_favourite_courses_to_study_kotlin/)
 - [Kotlinx Coroutines for Kotlin 1.7.x](https://www.reddit.com/r/Kotlin/comments/xayp7n/kotlinx_coroutines_for_kotlin_17x/)
 - [What to do ta make an app?](https://www.reddit.com/r/Kotlin/comments/xaon37/what_to_do_ta_make_an_app/)
 - [My kotlin multiplatform mobile repo got featured by kotlin official on twitter](https://www.reddit.com/r/Kotlin/comments/xakh6k/my_kotlin_multiplatform_mobile_repo_got_featured/)
 - [Resources to learn about Classes and OOP in Kotlin](https://www.reddit.com/r/Kotlin/comments/xaj014/resources_to_learn_about_classes_and_oop_in_kotlin/)
 - [Pants 2.13: Adds Kotlin support, as well as simplifying command line arguments, and improving JVM support in general!](https://www.reddit.com/r/Kotlin/comments/xa110h/pants_213_adds_kotlin_support_as_well_as/)
-- [Stop Using JUnit BeforeEach!](https://www.reddit.com/r/Kotlin/comments/x9yov7/stop_using_junit_beforeeach/)
-- [Any YouTube playlist about Data structure and Algorithms in Kotlin ?Thanks](https://www.reddit.com/r/Kotlin/comments/x9wezb/any_youtube_playlist_about_data_structure_and/)
-- [Help me make this flow combinator more sound.](https://www.reddit.com/r/Kotlin/comments/x9a6rf/help_me_make_this_flow_combinator_more_sound/)
-- [Generic type not getting inferred while building&lpar;?&rpar;](https://www.reddit.com/r/Kotlin/comments/x96r8v/generic_type_not_getting_inferred_while_building/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
