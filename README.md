@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin combine flows](https://www.reddit.com/r/Kotlin/comments/xdgbwh/kotlin_combine_flows/)
+- [Anyone else prefer Kotlin over Flutter etc.?](https://www.reddit.com/r/Kotlin/comments/xdcr8v/anyone_else_prefer_kotlin_over_flutter_etc/)
+- [Java Scanner Roadblock](https://www.reddit.com/r/Kotlin/comments/xdac6y/java_scanner_roadblock/)
+- [Kotlin Illustrated Guide - Interfaces](https://www.reddit.com/r/Kotlin/comments/xd7bj3/kotlin_illustrated_guide_interfaces/)
+- [guys its possible to create a loop to generate multiple edittexts &lpar;textviews, buttons or anything else&rpar; with the same properties, like a height, weight, color etc? How can i do this in Main Activity?](https://www.reddit.com/r/Kotlin/comments/xd77ao/guys_its_possible_to_create_a_loop_to_generate/)
+- [When Should You Use JUnit BeforeEach?](https://www.reddit.com/r/Kotlin/comments/xd58ax/when_should_you_use_junit_beforeeach/)
 - [HELP on text edit](https://www.reddit.com/r/Kotlin/comments/xcq7lu/help_on_text_edit/)
 - [What is the proper architecture for Compose Web?](https://www.reddit.com/r/Kotlin/comments/xcizhw/what_is_the_proper_architecture_for_compose_web/)
 - [Trendiest tools for Kotlin in Data Science &lpar;2022&rpar;?](https://www.reddit.com/r/Kotlin/comments/xcdw9f/trendiest_tools_for_kotlin_in_data_science_2022/)
 - [Firebase with Kotlin. Help!](https://www.reddit.com/r/Kotlin/comments/xc840q/firebase_with_kotlin_help/)
-- [Tell about your favourite courses to study Kotlin for beginners and pro](https://www.reddit.com/r/Kotlin/comments/xbh431/tell_about_your_favourite_courses_to_study_kotlin/)
-- [Kotlinx Coroutines for Kotlin 1.7.x](https://www.reddit.com/r/Kotlin/comments/xayp7n/kotlinx_coroutines_for_kotlin_17x/)
-- [What to do ta make an app?](https://www.reddit.com/r/Kotlin/comments/xaon37/what_to_do_ta_make_an_app/)
-- [My kotlin multiplatform mobile repo got featured by kotlin official on twitter](https://www.reddit.com/r/Kotlin/comments/xakh6k/my_kotlin_multiplatform_mobile_repo_got_featured/)
-- [Resources to learn about Classes and OOP in Kotlin](https://www.reddit.com/r/Kotlin/comments/xaj014/resources_to_learn_about_classes_and_oop_in_kotlin/)
-- [Pants 2.13: Adds Kotlin support, as well as simplifying command line arguments, and improving JVM support in general!](https://www.reddit.com/r/Kotlin/comments/xa110h/pants_213_adds_kotlin_support_as_well_as/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
