@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Compiler Plugin Run Jar File With Command Line](https://www.reddit.com/r/Kotlin/comments/xe3nyr/kotlin_compiler_plugin_run_jar_file_with_command/)
+- [Kotlinx serialisation implementation looks weird.](https://www.reddit.com/r/Kotlin/comments/xe0sh9/kotlinx_serialisation_implementation_looks_weird/)
+- [Jetpack Compose Nested NavGraph](https://www.reddit.com/r/Kotlin/comments/xdwbw6/jetpack_compose_nested_navgraph/)
 - [Kotlin combine flows](https://www.reddit.com/r/Kotlin/comments/xdgbwh/kotlin_combine_flows/)
 - [Anyone else prefer Kotlin over Flutter etc.?](https://www.reddit.com/r/Kotlin/comments/xdcr8v/anyone_else_prefer_kotlin_over_flutter_etc/)
 - [Java Scanner Roadblock](https://www.reddit.com/r/Kotlin/comments/xdac6y/java_scanner_roadblock/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [guys its possible to create a loop to generate multiple edittexts &lpar;textviews, buttons or anything else&rpar; with the same properties, like a height, weight, color etc? How can i do this in Main Activity?](https://www.reddit.com/r/Kotlin/comments/xd77ao/guys_its_possible_to_create_a_loop_to_generate/)
 - [When Should You Use JUnit BeforeEach?](https://www.reddit.com/r/Kotlin/comments/xd58ax/when_should_you_use_junit_beforeeach/)
 - [HELP on text edit](https://www.reddit.com/r/Kotlin/comments/xcq7lu/help_on_text_edit/)
-- [What is the proper architecture for Compose Web?](https://www.reddit.com/r/Kotlin/comments/xcizhw/what_is_the_proper_architecture_for_compose_web/)
-- [Trendiest tools for Kotlin in Data Science &lpar;2022&rpar;?](https://www.reddit.com/r/Kotlin/comments/xcdw9f/trendiest_tools_for_kotlin_in_data_science_2022/)
-- [Firebase with Kotlin. Help!](https://www.reddit.com/r/Kotlin/comments/xc840q/firebase_with_kotlin_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
