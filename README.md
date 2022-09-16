@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Dependency injection with Ktor](https://www.reddit.com/r/Kotlin/comments/xffahe/dependency_injection_with_ktor/)
+- [Kotlin books that have exercises.](https://www.reddit.com/r/Kotlin/comments/xf8jnm/kotlin_books_that_have_exercises/)
+- [How do I generate multiple js and html files in distributions for multi-module kotlin/js project](https://www.reddit.com/r/Kotlin/comments/xez6e2/how_do_i_generate_multiple_js_and_html_files_in/)
+- [I am releasing my first Kotlin Multiplatform library. Support for android, ios, desktop, native and js. It&#39;s still under construction, 🚧🏗👷 but SNAPSHOT builds are now out for feedback.](https://www.reddit.com/r/Kotlin/comments/xexkf7/i_am_releasing_my_first_kotlin_multiplatform/)
+- [PSA: &quot;Static polymorphism&quot; with extension functions.](https://www.reddit.com/r/Kotlin/comments/xewhsc/psa_static_polymorphism_with_extension_functions/)
+- [Spring with java vs Spring with kotlin](https://www.reddit.com/r/Kotlin/comments/xeufkw/spring_with_java_vs_spring_with_kotlin/)
 - [Kotlin Compiler Plugin Run Jar File With Command Line](https://www.reddit.com/r/Kotlin/comments/xe3nyr/kotlin_compiler_plugin_run_jar_file_with_command/)
 - [Kotlinx serialisation implementation looks weird.](https://www.reddit.com/r/Kotlin/comments/xe0sh9/kotlinx_serialisation_implementation_looks_weird/)
 - [Jetpack Compose Nested NavGraph](https://www.reddit.com/r/Kotlin/comments/xdwbw6/jetpack_compose_nested_navgraph/)
 - [Kotlin combine flows](https://www.reddit.com/r/Kotlin/comments/xdgbwh/kotlin_combine_flows/)
-- [Anyone else prefer Kotlin over Flutter etc.?](https://www.reddit.com/r/Kotlin/comments/xdcr8v/anyone_else_prefer_kotlin_over_flutter_etc/)
-- [Java Scanner Roadblock](https://www.reddit.com/r/Kotlin/comments/xdac6y/java_scanner_roadblock/)
-- [Kotlin Illustrated Guide - Interfaces](https://www.reddit.com/r/Kotlin/comments/xd7bj3/kotlin_illustrated_guide_interfaces/)
-- [guys its possible to create a loop to generate multiple edittexts &lpar;textviews, buttons or anything else&rpar; with the same properties, like a height, weight, color etc? How can i do this in Main Activity?](https://www.reddit.com/r/Kotlin/comments/xd77ao/guys_its_possible_to_create_a_loop_to_generate/)
-- [When Should You Use JUnit BeforeEach?](https://www.reddit.com/r/Kotlin/comments/xd58ax/when_should_you_use_junit_beforeeach/)
-- [HELP on text edit](https://www.reddit.com/r/Kotlin/comments/xcq7lu/help_on_text_edit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
