@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Read this to understand the difference between concurrency and parallelism &lpar;with Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/xg17bg/read_this_to_understand_the_difference_between/)
+- [how to smart cast from base class to child&lpar;base as child&rpar;](https://www.reddit.com/r/Kotlin/comments/xfwc1p/how_to_smart_cast_from_base_class_to_childbase_as/)
+- [How to Test Shared Behaviour with JUnit Contracts](https://www.reddit.com/r/Kotlin/comments/xfvnda/how_to_test_shared_behaviour_with_junit_contracts/)
+- [Kotlin News: 1.7.20-RC, kotlinx.serialization 1.4.0, KotlinConf Call for Speakers](https://www.reddit.com/r/Kotlin/comments/xfv74q/kotlin_news_1720rc_kotlinxserialization_140/)
+- [Kotlin DSL library for creating finite state machines &lpar;FSM&rpar; and hierarchical state machines &lpar;HSM&rpar;.](https://www.reddit.com/r/Kotlin/comments/xfly99/kotlin_dsl_library_for_creating_finite_state/)
+- [Learn Kotlin by solving coding challenges](https://www.reddit.com/r/Kotlin/comments/xfldql/learn_kotlin_by_solving_coding_challenges/)
+- [The 7 Kotlin language features I miss most when going back to Java](https://www.reddit.com/r/Kotlin/comments/xfjvth/the_7_kotlin_language_features_i_miss_most_when/)
+- [Kotlin’s 5 powerful scope functions you should know how to use](https://www.reddit.com/r/Kotlin/comments/xfj5mr/kotlins_5_powerful_scope_functions_you_should/)
+- [I need advice regarding my first programming language.](https://www.reddit.com/r/Kotlin/comments/xfimg4/i_need_advice_regarding_my_first_programming/)
 - [Dependency injection with Ktor](https://www.reddit.com/r/Kotlin/comments/xffahe/dependency_injection_with_ktor/)
-- [Kotlin books that have exercises.](https://www.reddit.com/r/Kotlin/comments/xf8jnm/kotlin_books_that_have_exercises/)
-- [How do I generate multiple js and html files in distributions for multi-module kotlin/js project](https://www.reddit.com/r/Kotlin/comments/xez6e2/how_do_i_generate_multiple_js_and_html_files_in/)
-- [I am releasing my first Kotlin Multiplatform library. Support for android, ios, desktop, native and js. It&#39;s still under construction, 🚧🏗👷 but SNAPSHOT builds are now out for feedback.](https://www.reddit.com/r/Kotlin/comments/xexkf7/i_am_releasing_my_first_kotlin_multiplatform/)
-- [PSA: &quot;Static polymorphism&quot; with extension functions.](https://www.reddit.com/r/Kotlin/comments/xewhsc/psa_static_polymorphism_with_extension_functions/)
-- [Spring with java vs Spring with kotlin](https://www.reddit.com/r/Kotlin/comments/xeufkw/spring_with_java_vs_spring_with_kotlin/)
-- [Kotlin Compiler Plugin Run Jar File With Command Line](https://www.reddit.com/r/Kotlin/comments/xe3nyr/kotlin_compiler_plugin_run_jar_file_with_command/)
-- [Kotlinx serialisation implementation looks weird.](https://www.reddit.com/r/Kotlin/comments/xe0sh9/kotlinx_serialisation_implementation_looks_weird/)
-- [Jetpack Compose Nested NavGraph](https://www.reddit.com/r/Kotlin/comments/xdwbw6/jetpack_compose_nested_navgraph/)
-- [Kotlin combine flows](https://www.reddit.com/r/Kotlin/comments/xdgbwh/kotlin_combine_flows/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
