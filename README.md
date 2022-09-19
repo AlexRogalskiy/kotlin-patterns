@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Instance variables in Kotlin and Java](https://www.reddit.com/r/Kotlin/comments/xhqgp5/instance_variables_in_kotlin_and_java/)
 - [Are there any plans to make a better build system for Kotlin than Gradle?](https://www.reddit.com/r/Kotlin/comments/xgwbf1/are_there_any_plans_to_make_a_better_build_system/)
 - [How do I bridge a getter and a suspending function?](https://www.reddit.com/r/Kotlin/comments/xgvdr9/how_do_i_bridge_a_getter_and_a_suspending_function/)
 - [Read this to understand the difference between concurrency and parallelism &lpar;with Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/xg17bg/read_this_to_understand_the_difference_between/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin DSL library for creating finite state machines &lpar;FSM&rpar; and hierarchical state machines &lpar;HSM&rpar;.](https://www.reddit.com/r/Kotlin/comments/xfly99/kotlin_dsl_library_for_creating_finite_state/)
 - [Learn Kotlin by solving coding challenges](https://www.reddit.com/r/Kotlin/comments/xfldql/learn_kotlin_by_solving_coding_challenges/)
 - [The 7 Kotlin language features I miss most when going back to Java](https://www.reddit.com/r/Kotlin/comments/xfjvth/the_7_kotlin_language_features_i_miss_most_when/)
-- [Kotlin’s 5 powerful scope functions you should know how to use](https://www.reddit.com/r/Kotlin/comments/xfj5mr/kotlins_5_powerful_scope_functions_you_should/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
