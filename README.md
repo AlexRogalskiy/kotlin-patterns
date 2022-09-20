@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Instance variables in Kotlin and Java](https://www.reddit.com/r/Kotlin/comments/xhqgp5/instance_variables_in_kotlin_and_java/)
-- [Are there any plans to make a better build system for Kotlin than Gradle?](https://www.reddit.com/r/Kotlin/comments/xgwbf1/are_there_any_plans_to_make_a_better_build_system/)
-- [How do I bridge a getter and a suspending function?](https://www.reddit.com/r/Kotlin/comments/xgvdr9/how_do_i_bridge_a_getter_and_a_suspending_function/)
-- [Read this to understand the difference between concurrency and parallelism &lpar;with Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/xg17bg/read_this_to_understand_the_difference_between/)
-- [how to smart cast from base class to child&lpar;base as child&rpar;](https://www.reddit.com/r/Kotlin/comments/xfwc1p/how_to_smart_cast_from_base_class_to_childbase_as/)
-- [How to Test Shared Behaviour with JUnit Contracts](https://www.reddit.com/r/Kotlin/comments/xfvnda/how_to_test_shared_behaviour_with_junit_contracts/)
-- [Kotlin News: 1.7.20-RC, kotlinx.serialization 1.4.0, KotlinConf Call for Speakers](https://www.reddit.com/r/Kotlin/comments/xfv74q/kotlin_news_1720rc_kotlinxserialization_140/)
-- [Kotlin DSL library for creating finite state machines &lpar;FSM&rpar; and hierarchical state machines &lpar;HSM&rpar;.](https://www.reddit.com/r/Kotlin/comments/xfly99/kotlin_dsl_library_for_creating_finite_state/)
-- [Learn Kotlin by solving coding challenges](https://www.reddit.com/r/Kotlin/comments/xfldql/learn_kotlin_by_solving_coding_challenges/)
-- [The 7 Kotlin language features I miss most when going back to Java](https://www.reddit.com/r/Kotlin/comments/xfjvth/the_7_kotlin_language_features_i_miss_most_when/)
+- [I keep getting &quot;Backend Internal error: Exception during IR lowering&quot; when trying to serialize a data class to json string.](https://www.reddit.com/r/Kotlin/comments/xirofm/i_keep_getting_backend_internal_error_exception/)
+- [Why is so much Kotlin documentation Gradle-only?](https://www.reddit.com/r/Kotlin/comments/xir4p9/why_is_so_much_kotlin_documentation_gradleonly/)
+- [Try my awesome Kotlin calculator, desktop edition.](https://www.reddit.com/r/Kotlin/comments/xiqaa8/try_my_awesome_kotlin_calculator_desktop_edition/)
+- [IntelliJ will not run my Kapt annotation processor code generation](https://www.reddit.com/r/Kotlin/comments/xiq2sf/intellij_will_not_run_my_kapt_annotation/)
+- [My Kotlin / Ktor API doesn&#39;t work when testing it through a dockerized container, but works if I just run it from IntelliJ.](https://www.reddit.com/r/Kotlin/comments/xihpvh/my_kotlin_ktor_api_doesnt_work_when_testing_it/)
+- [why my code doesn&#39;t look clean.](https://www.reddit.com/r/Kotlin/comments/xigxom/why_my_code_doesnt_look_clean/)
+- [The differences between Android Deep Links and App Links](https://www.reddit.com/r/Kotlin/comments/xifxvf/the_differences_between_android_deep_links_and/)
+- [Snappy - New library for Snapshot Testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/xiepa6/snappy_new_library_for_snapshot_testing_in_kotlin/)
+- [Compose UI for iOS](https://www.reddit.com/r/Kotlin/comments/xidlrg/compose_ui_for_ios/)
+- [Learn about the default map in Kotlin and how it’s related to Python’s defaultdict](https://www.reddit.com/r/Kotlin/comments/xi6nbu/learn_about_the_default_map_in_kotlin_and_how_its/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
