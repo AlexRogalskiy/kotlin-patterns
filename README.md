@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Finished a simple project, want feedback and ways to improve the code.](https://www.reddit.com/r/Kotlin/comments/xjqqrr/finished_a_simple_project_want_feedback_and_ways/)
+- [My top 4 use cases for Kotlin inline classes](https://www.reddit.com/r/Kotlin/comments/xjnbog/my_top_4_use_cases_for_kotlin_inline_classes/)
+- [How Kotlin’s reified keyword simplifies working with generics](https://www.reddit.com/r/Kotlin/comments/xjh8jy/how_kotlins_reified_keyword_simplifies_working/)
+- [[Novice] Trying to simplify this and need suggestions on how to do so](https://www.reddit.com/r/Kotlin/comments/xjfjdm/novice_trying_to_simplify_this_and_need/)
+- [Hola a todos!! Alguien sabe sobre un curso gratuito de Kotlin??](https://www.reddit.com/r/Kotlin/comments/xjcp0v/hola_a_todos_alguien_sabe_sobre_un_curso_gratuito/)
+- [How to add JS targets to an existing Kotlin Multiplatfrom Mobile project?](https://www.reddit.com/r/Kotlin/comments/xj8kae/how_to_add_js_targets_to_an_existing_kotlin/)
+- [A New Way to Manage JUnit Test State in Kotlin](https://www.reddit.com/r/Kotlin/comments/xj5l6n/a_new_way_to_manage_junit_test_state_in_kotlin/)
 - [I keep getting &quot;Backend Internal error: Exception during IR lowering&quot; when trying to serialize a data class to json string.](https://www.reddit.com/r/Kotlin/comments/xirofm/i_keep_getting_backend_internal_error_exception/)
 - [Why is so much Kotlin documentation Gradle-only?](https://www.reddit.com/r/Kotlin/comments/xir4p9/why_is_so_much_kotlin_documentation_gradleonly/)
 - [Try my awesome Kotlin calculator, desktop edition.](https://www.reddit.com/r/Kotlin/comments/xiqaa8/try_my_awesome_kotlin_calculator_desktop_edition/)
-- [IntelliJ will not run my Kapt annotation processor code generation](https://www.reddit.com/r/Kotlin/comments/xiq2sf/intellij_will_not_run_my_kapt_annotation/)
-- [My Kotlin / Ktor API doesn&#39;t work when testing it through a dockerized container, but works if I just run it from IntelliJ.](https://www.reddit.com/r/Kotlin/comments/xihpvh/my_kotlin_ktor_api_doesnt_work_when_testing_it/)
-- [why my code doesn&#39;t look clean.](https://www.reddit.com/r/Kotlin/comments/xigxom/why_my_code_doesnt_look_clean/)
-- [The differences between Android Deep Links and App Links](https://www.reddit.com/r/Kotlin/comments/xifxvf/the_differences_between_android_deep_links_and/)
-- [Snappy - New library for Snapshot Testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/xiepa6/snappy_new_library_for_snapshot_testing_in_kotlin/)
-- [Compose UI for iOS](https://www.reddit.com/r/Kotlin/comments/xidlrg/compose_ui_for_ios/)
-- [Learn about the default map in Kotlin and how it’s related to Python’s defaultdict](https://www.reddit.com/r/Kotlin/comments/xi6nbu/learn_about_the_default_map_in_kotlin_and_how_its/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
