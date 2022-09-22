@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how can we do bulk move&lpar;sort&rpar; items in db like old satellite receivers? which strategy they used?](https://www.reddit.com/r/Kotlin/comments/xkki4w/how_can_we_do_bulk_movesort_items_in_db_like_old/)
+- [Arrays in Kotlin](https://www.reddit.com/r/Kotlin/comments/xkamd4/arrays_in_kotlin/)
+- [Unit Testing Log4j2 in Kotlin](https://www.reddit.com/r/Kotlin/comments/xk8paq/unit_testing_log4j2_in_kotlin/)
+- [Kotlin Native Plugin for Snapcraft](https://www.reddit.com/r/Kotlin/comments/xk7ysl/kotlin_native_plugin_for_snapcraft/)
+- [My top 4 use cases for Kotlin inline classes](https://www.reddit.com/r/Kotlin/comments/xk6k2h/my_top_4_use_cases_for_kotlin_inline_classes/)
+- [Jar works fine in java 8 but not java 16-19](https://www.reddit.com/r/Kotlin/comments/xjz030/jar_works_fine_in_java_8_but_not_java_1619/)
 - [Finished a simple project, want feedback and ways to improve the code.](https://www.reddit.com/r/Kotlin/comments/xjqqrr/finished_a_simple_project_want_feedback_and_ways/)
-- [My top 4 use cases for Kotlin inline classes](https://www.reddit.com/r/Kotlin/comments/xjnbog/my_top_4_use_cases_for_kotlin_inline_classes/)
 - [How Kotlin’s reified keyword simplifies working with generics](https://www.reddit.com/r/Kotlin/comments/xjh8jy/how_kotlins_reified_keyword_simplifies_working/)
 - [[Novice] Trying to simplify this and need suggestions on how to do so](https://www.reddit.com/r/Kotlin/comments/xjfjdm/novice_trying_to_simplify_this_and_need/)
 - [Hola a todos!! Alguien sabe sobre un curso gratuito de Kotlin??](https://www.reddit.com/r/Kotlin/comments/xjcp0v/hola_a_todos_alguien_sabe_sobre_un_curso_gratuito/)
-- [How to add JS targets to an existing Kotlin Multiplatfrom Mobile project?](https://www.reddit.com/r/Kotlin/comments/xj8kae/how_to_add_js_targets_to_an_existing_kotlin/)
-- [A New Way to Manage JUnit Test State in Kotlin](https://www.reddit.com/r/Kotlin/comments/xj5l6n/a_new_way_to_manage_junit_test_state_in_kotlin/)
-- [I keep getting &quot;Backend Internal error: Exception during IR lowering&quot; when trying to serialize a data class to json string.](https://www.reddit.com/r/Kotlin/comments/xirofm/i_keep_getting_backend_internal_error_exception/)
-- [Why is so much Kotlin documentation Gradle-only?](https://www.reddit.com/r/Kotlin/comments/xir4p9/why_is_so_much_kotlin_documentation_gradleonly/)
-- [Try my awesome Kotlin calculator, desktop edition.](https://www.reddit.com/r/Kotlin/comments/xiqaa8/try_my_awesome_kotlin_calculator_desktop_edition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
