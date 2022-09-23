@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Was DI &lpar;and DI frameworks&rpar; a dumb idea?](https://www.reddit.com/r/Kotlin/comments/xldaoe/was_di_and_di_frameworks_a_dumb_idea/)
+- [Kotlin internally](https://www.reddit.com/r/Kotlin/comments/xl9k8b/kotlin_internally/)
+- [Background location](https://www.reddit.com/r/Kotlin/comments/xl917g/background_location/)
+- [Stable Diffusion with kotlin to phyton?](https://www.reddit.com/r/Kotlin/comments/xl7h7p/stable_diffusion_with_kotlin_to_phyton/)
+- [Koin - SharedStateViewModel unexpected behavior](https://www.reddit.com/r/Kotlin/comments/xl2jjh/koin_sharedstateviewmodel_unexpected_behavior/)
+- [Is it possible send/read data between two devices by NDEF without using android beam?](https://www.reddit.com/r/Kotlin/comments/xksbl8/is_it_possible_sendread_data_between_two_devices/)
 - [how can we do bulk move&lpar;sort&rpar; items in db like old satellite receivers? which strategy they used?](https://www.reddit.com/r/Kotlin/comments/xkki4w/how_can_we_do_bulk_movesort_items_in_db_like_old/)
 - [Arrays in Kotlin](https://www.reddit.com/r/Kotlin/comments/xkamd4/arrays_in_kotlin/)
 - [Unit Testing Log4j2 in Kotlin](https://www.reddit.com/r/Kotlin/comments/xk8paq/unit_testing_log4j2_in_kotlin/)
 - [Kotlin Native Plugin for Snapcraft](https://www.reddit.com/r/Kotlin/comments/xk7ysl/kotlin_native_plugin_for_snapcraft/)
-- [My top 4 use cases for Kotlin inline classes](https://www.reddit.com/r/Kotlin/comments/xk6k2h/my_top_4_use_cases_for_kotlin_inline_classes/)
-- [Jar works fine in java 8 but not java 16-19](https://www.reddit.com/r/Kotlin/comments/xjz030/jar_works_fine_in_java_8_but_not_java_1619/)
-- [Finished a simple project, want feedback and ways to improve the code.](https://www.reddit.com/r/Kotlin/comments/xjqqrr/finished_a_simple_project_want_feedback_and_ways/)
-- [How Kotlin’s reified keyword simplifies working with generics](https://www.reddit.com/r/Kotlin/comments/xjh8jy/how_kotlins_reified_keyword_simplifies_working/)
-- [[Novice] Trying to simplify this and need suggestions on how to do so](https://www.reddit.com/r/Kotlin/comments/xjfjdm/novice_trying_to_simplify_this_and_need/)
-- [Hola a todos!! Alguien sabe sobre un curso gratuito de Kotlin??](https://www.reddit.com/r/Kotlin/comments/xjcp0v/hola_a_todos_alguien_sabe_sobre_un_curso_gratuito/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
