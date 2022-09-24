@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best Kotlin Books for Beginners and Developers Must know in 2022](https://www.reddit.com/r/Kotlin/comments/xmgj9x/best_kotlin_books_for_beginners_and_developers/)
+- [Kopykat: Little utilities for more pleasant immutable data in Kotlin](https://www.reddit.com/r/Kotlin/comments/xmdpti/kopykat_little_utilities_for_more_pleasant/)
+- [Dead Simple Dependency Injection](https://www.reddit.com/r/Kotlin/comments/xm47xn/dead_simple_dependency_injection/)
+- [It appears that JetBrains is abandoning compatibility with Java annotation processors](https://www.reddit.com/r/Kotlin/comments/xm3yhz/it_appears_that_jetbrains_is_abandoning/)
+- [Door: Room Database for Kotlin Multiplatform [r/Android crosspost]](https://www.reddit.com/r/Kotlin/comments/xlxd1o/door_room_database_for_kotlin_multiplatform/)
+- [Back End with spring!](https://www.reddit.com/r/Kotlin/comments/xlwm9l/back_end_with_spring/)
+- [Building double-linked tree structures](https://www.reddit.com/r/Kotlin/comments/xlsyl9/building_doublelinked_tree_structures/)
+- [I&#39;m learning Kotlin. Am I getting this right?](https://www.reddit.com/r/Kotlin/comments/xlstli/im_learning_kotlin_am_i_getting_this_right/)
 - [Was DI &lpar;and DI frameworks&rpar; a dumb idea?](https://www.reddit.com/r/Kotlin/comments/xldaoe/was_di_and_di_frameworks_a_dumb_idea/)
 - [Kotlin internally](https://www.reddit.com/r/Kotlin/comments/xl9k8b/kotlin_internally/)
-- [Background location](https://www.reddit.com/r/Kotlin/comments/xl917g/background_location/)
-- [Stable Diffusion with kotlin to phyton?](https://www.reddit.com/r/Kotlin/comments/xl7h7p/stable_diffusion_with_kotlin_to_phyton/)
-- [Koin - SharedStateViewModel unexpected behavior](https://www.reddit.com/r/Kotlin/comments/xl2jjh/koin_sharedstateviewmodel_unexpected_behavior/)
-- [Is it possible send/read data between two devices by NDEF without using android beam?](https://www.reddit.com/r/Kotlin/comments/xksbl8/is_it_possible_sendread_data_between_two_devices/)
-- [how can we do bulk move&lpar;sort&rpar; items in db like old satellite receivers? which strategy they used?](https://www.reddit.com/r/Kotlin/comments/xkki4w/how_can_we_do_bulk_movesort_items_in_db_like_old/)
-- [Arrays in Kotlin](https://www.reddit.com/r/Kotlin/comments/xkamd4/arrays_in_kotlin/)
-- [Unit Testing Log4j2 in Kotlin](https://www.reddit.com/r/Kotlin/comments/xk8paq/unit_testing_log4j2_in_kotlin/)
-- [Kotlin Native Plugin for Snapcraft](https://www.reddit.com/r/Kotlin/comments/xk7ysl/kotlin_native_plugin_for_snapcraft/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
