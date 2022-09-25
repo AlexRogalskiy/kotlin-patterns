@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to reuse a package?](https://www.reddit.com/r/Kotlin/comments/xmxmq3/how_to_reuse_a_package/)
+- [How to create a library?](https://www.reddit.com/r/Kotlin/comments/xmttd6/how_to_create_a_library/)
+- [TasKt: windows task manager built with Compose MP](https://www.reddit.com/r/Kotlin/comments/xmng11/taskt_windows_task_manager_built_with_compose_mp/)
+- [Kotlin Migration post-mortem of a thousand-file java android application](https://www.reddit.com/r/Kotlin/comments/xmmk5z/kotlin_migration_postmortem_of_a_thousandfile/)
 - [Best Kotlin Books for Beginners and Developers Must know in 2022](https://www.reddit.com/r/Kotlin/comments/xmgj9x/best_kotlin_books_for_beginners_and_developers/)
 - [Kopykat: Little utilities for more pleasant immutable data in Kotlin](https://www.reddit.com/r/Kotlin/comments/xmdpti/kopykat_little_utilities_for_more_pleasant/)
 - [Dead Simple Dependency Injection](https://www.reddit.com/r/Kotlin/comments/xm47xn/dead_simple_dependency_injection/)
 - [It appears that JetBrains is abandoning compatibility with Java annotation processors](https://www.reddit.com/r/Kotlin/comments/xm3yhz/it_appears_that_jetbrains_is_abandoning/)
 - [Door: Room Database for Kotlin Multiplatform [r/Android crosspost]](https://www.reddit.com/r/Kotlin/comments/xlxd1o/door_room_database_for_kotlin_multiplatform/)
 - [Back End with spring!](https://www.reddit.com/r/Kotlin/comments/xlwm9l/back_end_with_spring/)
-- [Building double-linked tree structures](https://www.reddit.com/r/Kotlin/comments/xlsyl9/building_doublelinked_tree_structures/)
-- [I&#39;m learning Kotlin. Am I getting this right?](https://www.reddit.com/r/Kotlin/comments/xlstli/im_learning_kotlin_am_i_getting_this_right/)
-- [Was DI &lpar;and DI frameworks&rpar; a dumb idea?](https://www.reddit.com/r/Kotlin/comments/xldaoe/was_di_and_di_frameworks_a_dumb_idea/)
-- [Kotlin internally](https://www.reddit.com/r/Kotlin/comments/xl9k8b/kotlin_internally/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
