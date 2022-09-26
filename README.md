@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AvaloniaUI &lpar;C#&rpar; vs Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/xo1ufr/avaloniaui_c_vs_compose_multiplatform/)
+- [Help with implementing MVVM in school project](https://www.reddit.com/r/Kotlin/comments/xnkduw/help_with_implementing_mvvm_in_school_project/)
 - [How to reuse a package?](https://www.reddit.com/r/Kotlin/comments/xmxmq3/how_to_reuse_a_package/)
 - [How to create a library?](https://www.reddit.com/r/Kotlin/comments/xmttd6/how_to_create_a_library/)
 - [TasKt: windows task manager built with Compose MP](https://www.reddit.com/r/Kotlin/comments/xmng11/taskt_windows_task_manager_built_with_compose_mp/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kopykat: Little utilities for more pleasant immutable data in Kotlin](https://www.reddit.com/r/Kotlin/comments/xmdpti/kopykat_little_utilities_for_more_pleasant/)
 - [Dead Simple Dependency Injection](https://www.reddit.com/r/Kotlin/comments/xm47xn/dead_simple_dependency_injection/)
 - [It appears that JetBrains is abandoning compatibility with Java annotation processors](https://www.reddit.com/r/Kotlin/comments/xm3yhz/it_appears_that_jetbrains_is_abandoning/)
-- [Door: Room Database for Kotlin Multiplatform [r/Android crosspost]](https://www.reddit.com/r/Kotlin/comments/xlxd1o/door_room_database_for_kotlin_multiplatform/)
-- [Back End with spring!](https://www.reddit.com/r/Kotlin/comments/xlwm9l/back_end_with_spring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
