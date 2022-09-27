@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [7 Important Android Dev Skills &amp; Responsibilities](https://www.reddit.com/r/Kotlin/comments/xop7sf/7_important_android_dev_skills_responsibilities/)
+- [My small multiplatform code to migrate from Google Authenticator](https://www.reddit.com/r/Kotlin/comments/xooxai/my_small_multiplatform_code_to_migrate_from/)
+- [Compress Images in Kotlin before Upload](https://www.reddit.com/r/Kotlin/comments/xokqx9/compress_images_in_kotlin_before_upload/)
+- [How to convert raw string &lpar;multiple line string&rpar; to escaped string &lpar;single line string&rpar;](https://www.reddit.com/r/Kotlin/comments/xoem5o/how_to_convert_raw_string_multiple_line_string_to/)
 - [AvaloniaUI &lpar;C#&rpar; vs Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/xo1ufr/avaloniaui_c_vs_compose_multiplatform/)
 - [Help with implementing MVVM in school project](https://www.reddit.com/r/Kotlin/comments/xnkduw/help_with_implementing_mvvm_in_school_project/)
 - [How to reuse a package?](https://www.reddit.com/r/Kotlin/comments/xmxmq3/how_to_reuse_a_package/)
 - [How to create a library?](https://www.reddit.com/r/Kotlin/comments/xmttd6/how_to_create_a_library/)
 - [TasKt: windows task manager built with Compose MP](https://www.reddit.com/r/Kotlin/comments/xmng11/taskt_windows_task_manager_built_with_compose_mp/)
 - [Kotlin Migration post-mortem of a thousand-file java android application](https://www.reddit.com/r/Kotlin/comments/xmmk5z/kotlin_migration_postmortem_of_a_thousandfile/)
-- [Best Kotlin Books for Beginners and Developers Must know in 2022](https://www.reddit.com/r/Kotlin/comments/xmgj9x/best_kotlin_books_for_beginners_and_developers/)
-- [Kopykat: Little utilities for more pleasant immutable data in Kotlin](https://www.reddit.com/r/Kotlin/comments/xmdpti/kopykat_little_utilities_for_more_pleasant/)
-- [Dead Simple Dependency Injection](https://www.reddit.com/r/Kotlin/comments/xm47xn/dead_simple_dependency_injection/)
-- [It appears that JetBrains is abandoning compatibility with Java annotation processors](https://www.reddit.com/r/Kotlin/comments/xm3yhz/it_appears_that_jetbrains_is_abandoning/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
