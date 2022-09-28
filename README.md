@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin runs on the JVM just like Java — How does it provide so many great features?](https://www.reddit.com/r/Kotlin/comments/xps2xt/kotlin_runs_on_the_jvm_just_like_java_how_does_it/)
+- [Way of proper practicing Kotlin](https://www.reddit.com/r/Kotlin/comments/xpp2oq/way_of_proper_practicing_kotlin/)
+- [Exploring &quot;select&quot; expression of Kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/xpj6bg/exploring_select_expression_of_kotlin_coroutines/)
+- [Wanted to write your First HTTP API using Kotlin and still wondering from where to start. This video will help you](https://www.reddit.com/r/Kotlin/comments/xpeef6/wanted_to_write_your_first_http_api_using_kotlin/)
+- [Design Patterns](https://www.reddit.com/r/Kotlin/comments/xp8sqt/design_patterns/)
+- [Failed implement Epoxy](https://www.reddit.com/r/Kotlin/comments/xp8osg/failed_implement_epoxy/)
 - [7 Important Android Dev Skills &amp; Responsibilities](https://www.reddit.com/r/Kotlin/comments/xop7sf/7_important_android_dev_skills_responsibilities/)
 - [My small multiplatform code to migrate from Google Authenticator](https://www.reddit.com/r/Kotlin/comments/xooxai/my_small_multiplatform_code_to_migrate_from/)
 - [Compress Images in Kotlin before Upload](https://www.reddit.com/r/Kotlin/comments/xokqx9/compress_images_in_kotlin_before_upload/)
 - [How to convert raw string &lpar;multiple line string&rpar; to escaped string &lpar;single line string&rpar;](https://www.reddit.com/r/Kotlin/comments/xoem5o/how_to_convert_raw_string_multiple_line_string_to/)
-- [AvaloniaUI &lpar;C#&rpar; vs Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/xo1ufr/avaloniaui_c_vs_compose_multiplatform/)
-- [Help with implementing MVVM in school project](https://www.reddit.com/r/Kotlin/comments/xnkduw/help_with_implementing_mvvm_in_school_project/)
-- [How to reuse a package?](https://www.reddit.com/r/Kotlin/comments/xmxmq3/how_to_reuse_a_package/)
-- [How to create a library?](https://www.reddit.com/r/Kotlin/comments/xmttd6/how_to_create_a_library/)
-- [TasKt: windows task manager built with Compose MP](https://www.reddit.com/r/Kotlin/comments/xmng11/taskt_windows_task_manager_built_with_compose_mp/)
-- [Kotlin Migration post-mortem of a thousand-file java android application](https://www.reddit.com/r/Kotlin/comments/xmmk5z/kotlin_migration_postmortem_of_a_thousandfile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
