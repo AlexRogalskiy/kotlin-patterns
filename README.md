@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin runs on the JVM just like Java — How does it provide so many great features?](https://www.reddit.com/r/Kotlin/comments/xps2xt/kotlin_runs_on_the_jvm_just_like_java_how_does_it/)
-- [Way of proper practicing Kotlin](https://www.reddit.com/r/Kotlin/comments/xpp2oq/way_of_proper_practicing_kotlin/)
-- [Exploring &quot;select&quot; expression of Kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/xpj6bg/exploring_select_expression_of_kotlin_coroutines/)
-- [Wanted to write your First HTTP API using Kotlin and still wondering from where to start. This video will help you](https://www.reddit.com/r/Kotlin/comments/xpeef6/wanted_to_write_your_first_http_api_using_kotlin/)
-- [Design Patterns](https://www.reddit.com/r/Kotlin/comments/xp8sqt/design_patterns/)
-- [Failed implement Epoxy](https://www.reddit.com/r/Kotlin/comments/xp8osg/failed_implement_epoxy/)
-- [7 Important Android Dev Skills &amp; Responsibilities](https://www.reddit.com/r/Kotlin/comments/xop7sf/7_important_android_dev_skills_responsibilities/)
-- [My small multiplatform code to migrate from Google Authenticator](https://www.reddit.com/r/Kotlin/comments/xooxai/my_small_multiplatform_code_to_migrate_from/)
-- [Compress Images in Kotlin before Upload](https://www.reddit.com/r/Kotlin/comments/xokqx9/compress_images_in_kotlin_before_upload/)
-- [How to convert raw string &lpar;multiple line string&rpar; to escaped string &lpar;single line string&rpar;](https://www.reddit.com/r/Kotlin/comments/xoem5o/how_to_convert_raw_string_multiple_line_string_to/)
+- [Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/xqt2yt/kotlin_multiplatform_mobile/)
+- [can I access and manipulate the iOS filesystem with kotlin multiplatform?](https://www.reddit.com/r/Kotlin/comments/xqo0fz/can_i_access_and_manipulate_the_ios_filesystem/)
+- [Supabase Client for Compose for Desktop, Android and Web](https://www.reddit.com/r/Kotlin/comments/xqmxv3/supabase_client_for_compose_for_desktop_android/)
+- [Difference between Primary Constructor Parameters and Class Properties](https://www.reddit.com/r/Kotlin/comments/xqlkdp/difference_between_primary_constructor_parameters/)
+- [Need help with this Assignment. I just started learning Kotlin but my lecturer hasn&#39;t been teaching us jack. Any help would be Glady appreciated please](https://www.reddit.com/r/Kotlin/comments/xqjdil/need_help_with_this_assignment_i_just_started/)
+- [Functional Programming Ideas for the Curious Kotliner &lpar;book&rpar;](https://www.reddit.com/r/Kotlin/comments/xqj5o2/functional_programming_ideas_for_the_curious/)
+- [I want to learn, what path do you suggest?](https://www.reddit.com/r/Kotlin/comments/xqf2lt/i_want_to_learn_what_path_do_you_suggest/)
+- [Kotlin Object Mapping — Pros &amp; Cons](https://www.reddit.com/r/Kotlin/comments/xqbd7y/kotlin_object_mapping_pros_cons/)
+- [Gettext-compatible i18n library for Kotlin](https://www.reddit.com/r/Kotlin/comments/xq7z6w/gettextcompatible_i18n_library_for_kotlin/)
+- [Converting js code for custom material ui checkbox to kotlin](https://www.reddit.com/r/Kotlin/comments/xq7mor/converting_js_code_for_custom_material_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
