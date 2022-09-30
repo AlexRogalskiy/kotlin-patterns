@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/xqt2yt/kotlin_multiplatform_mobile/)
-- [can I access and manipulate the iOS filesystem with kotlin multiplatform?](https://www.reddit.com/r/Kotlin/comments/xqo0fz/can_i_access_and_manipulate_the_ios_filesystem/)
-- [Supabase Client for Compose for Desktop, Android and Web](https://www.reddit.com/r/Kotlin/comments/xqmxv3/supabase_client_for_compose_for_desktop_android/)
-- [Difference between Primary Constructor Parameters and Class Properties](https://www.reddit.com/r/Kotlin/comments/xqlkdp/difference_between_primary_constructor_parameters/)
-- [Need help with this Assignment. I just started learning Kotlin but my lecturer hasn&#39;t been teaching us jack. Any help would be Glady appreciated please](https://www.reddit.com/r/Kotlin/comments/xqjdil/need_help_with_this_assignment_i_just_started/)
-- [Functional Programming Ideas for the Curious Kotliner &lpar;book&rpar;](https://www.reddit.com/r/Kotlin/comments/xqj5o2/functional_programming_ideas_for_the_curious/)
-- [I want to learn, what path do you suggest?](https://www.reddit.com/r/Kotlin/comments/xqf2lt/i_want_to_learn_what_path_do_you_suggest/)
-- [Kotlin Object Mapping — Pros &amp; Cons](https://www.reddit.com/r/Kotlin/comments/xqbd7y/kotlin_object_mapping_pros_cons/)
-- [Gettext-compatible i18n library for Kotlin](https://www.reddit.com/r/Kotlin/comments/xq7z6w/gettextcompatible_i18n_library_for_kotlin/)
-- [Converting js code for custom material ui checkbox to kotlin](https://www.reddit.com/r/Kotlin/comments/xq7mor/converting_js_code_for_custom_material_ui/)
+- [Stupid question but I have been struggling on this the whole day](https://www.reddit.com/r/Kotlin/comments/xrqfox/stupid_question_but_i_have_been_struggling_on/)
+- [Kotlin 1.7.20 has been released! 🎉](https://www.reddit.com/r/Kotlin/comments/xrayt9/kotlin_1720_has_been_released/)
+- [Better distribution of Kotlin apps to the desktop](https://www.reddit.com/r/Kotlin/comments/xr9ll0/better_distribution_of_kotlin_apps_to_the_desktop/)
+- [Kotlin 1.7.20 Released](https://www.reddit.com/r/Kotlin/comments/xr95ie/kotlin_1720_released/)
+- [Backend &lpar;Kotlin&rpar; Engineer &lpar;m/f/d&rpar; – Customer Growth Team](https://www.reddit.com/r/Kotlin/comments/xr7e1v/backend_kotlin_engineer_mfd_customer_growth_team/)
+- [Is there an option for BLE to forget paired devices after they havent connected in lets say a week? I&#39;m using scannedDevices.clear&lpar;&rpar; atm, but i dont want to clear all of them each time. Thanks!](https://www.reddit.com/r/Kotlin/comments/xr5zra/is_there_an_option_for_ble_to_forget_paired/)
+- [Cleaning method which returns the document name after the id [Spring Data/MongoDB .](https://www.reddit.com/r/Kotlin/comments/xr4f8r/cleaning_method_which_returns_the_document_name/)
+- [Recreating from Legacy - A Developer Story](https://www.reddit.com/r/Kotlin/comments/xr116m/recreating_from_legacy_a_developer_story/)
+- [Statistical distributions](https://www.reddit.com/r/Kotlin/comments/xr0c4s/statistical_distributions/)
+- [How much Kotlin do I need learn to develop android apps?](https://www.reddit.com/r/Kotlin/comments/xqyiwy/how_much_kotlin_do_i_need_learn_to_develop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
