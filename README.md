@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is a &quot;suspicious callable reference,&quot; and what can I do about it?](https://www.reddit.com/r/Kotlin/comments/xsd4r2/what_is_a_suspicious_callable_reference_and_what/)
+- [why does it seem that Kotlin isn&#39;t really taking off for backend development?](https://www.reddit.com/r/Kotlin/comments/xsb4wr/why_does_it_seem_that_kotlin_isnt_really_taking/)
+- [Using Higher Order Functions to Retry Errors](https://www.reddit.com/r/Kotlin/comments/xs3x49/using_higher_order_functions_to_retry_errors/)
+- [What&#39;s the difference between using function types and functional interfaces as listeners/callbacks?](https://www.reddit.com/r/Kotlin/comments/xrw6bu/whats_the_difference_between_using_function_types/)
+- [How Do I Theme The Top Bar Of A Desktop Application with Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/xrswml/how_do_i_theme_the_top_bar_of_a_desktop/)
 - [Stupid question but I have been struggling on this the whole day](https://www.reddit.com/r/Kotlin/comments/xrqfox/stupid_question_but_i_have_been_struggling_on/)
 - [Kotlin 1.7.20 has been released! 🎉](https://www.reddit.com/r/Kotlin/comments/xrayt9/kotlin_1720_has_been_released/)
 - [Better distribution of Kotlin apps to the desktop](https://www.reddit.com/r/Kotlin/comments/xr9ll0/better_distribution_of_kotlin_apps_to_the_desktop/)
 - [Kotlin 1.7.20 Released](https://www.reddit.com/r/Kotlin/comments/xr95ie/kotlin_1720_released/)
 - [Backend &lpar;Kotlin&rpar; Engineer &lpar;m/f/d&rpar; – Customer Growth Team](https://www.reddit.com/r/Kotlin/comments/xr7e1v/backend_kotlin_engineer_mfd_customer_growth_team/)
-- [Is there an option for BLE to forget paired devices after they havent connected in lets say a week? I&#39;m using scannedDevices.clear&lpar;&rpar; atm, but i dont want to clear all of them each time. Thanks!](https://www.reddit.com/r/Kotlin/comments/xr5zra/is_there_an_option_for_ble_to_forget_paired/)
-- [Cleaning method which returns the document name after the id [Spring Data/MongoDB .](https://www.reddit.com/r/Kotlin/comments/xr4f8r/cleaning_method_which_returns_the_document_name/)
-- [Recreating from Legacy - A Developer Story](https://www.reddit.com/r/Kotlin/comments/xr116m/recreating_from_legacy_a_developer_story/)
-- [Statistical distributions](https://www.reddit.com/r/Kotlin/comments/xr0c4s/statistical_distributions/)
-- [How much Kotlin do I need learn to develop android apps?](https://www.reddit.com/r/Kotlin/comments/xqyiwy/how_much_kotlin_do_i_need_learn_to_develop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
