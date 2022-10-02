@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [WorldWind Kotlin Tutorials - start developing your cross-platform geospatial application now](https://www.reddit.com/r/Kotlin/comments/xt6id3/worldwind_kotlin_tutorials_start_developing_your/)
+- [WorldWind Kotlin first multi-platform 3D globe on NASA hackathon](https://www.reddit.com/r/Kotlin/comments/xt6gvh/worldwind_kotlin_first_multiplatform_3d_globe_on/)
+- [WorldWind Kotlin - the first cross-platform planetary 3D globe library for JS, Android and JVM](https://www.reddit.com/r/Kotlin/comments/xt6ewy/worldwind_kotlin_the_first_crossplatform/)
+- [My small project to parse Youtube watch history](https://www.reddit.com/r/Kotlin/comments/xt4spa/my_small_project_to_parse_youtube_watch_history/)
+- [Swift/Kotlin ViewModel alignment in a Kotlin Multiplatform project](https://www.reddit.com/r/Kotlin/comments/xt0tl6/swiftkotlin_viewmodel_alignment_in_a_kotlin/)
+- [Trying to implement session auth in a Ktor app, but having some trouble with the auth part.](https://www.reddit.com/r/Kotlin/comments/xszx6v/trying_to_implement_session_auth_in_a_ktor_app/)
+- [Kotlin’s five powerful scope functions you should know how to use](https://www.reddit.com/r/Kotlin/comments/xstuhl/kotlins_five_powerful_scope_functions_you_should/)
+- [How to use a module?](https://www.reddit.com/r/Kotlin/comments/xstpg3/how_to_use_a_module/)
 - [What is a &quot;suspicious callable reference,&quot; and what can I do about it?](https://www.reddit.com/r/Kotlin/comments/xsd4r2/what_is_a_suspicious_callable_reference_and_what/)
 - [why does it seem that Kotlin isn&#39;t really taking off for backend development?](https://www.reddit.com/r/Kotlin/comments/xsb4wr/why_does_it_seem_that_kotlin_isnt_really_taking/)
-- [Using Higher Order Functions to Retry Errors](https://www.reddit.com/r/Kotlin/comments/xs3x49/using_higher_order_functions_to_retry_errors/)
-- [What&#39;s the difference between using function types and functional interfaces as listeners/callbacks?](https://www.reddit.com/r/Kotlin/comments/xrw6bu/whats_the_difference_between_using_function_types/)
-- [How Do I Theme The Top Bar Of A Desktop Application with Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/xrswml/how_do_i_theme_the_top_bar_of_a_desktop/)
-- [Stupid question but I have been struggling on this the whole day](https://www.reddit.com/r/Kotlin/comments/xrqfox/stupid_question_but_i_have_been_struggling_on/)
-- [Kotlin 1.7.20 has been released! 🎉](https://www.reddit.com/r/Kotlin/comments/xrayt9/kotlin_1720_has_been_released/)
-- [Better distribution of Kotlin apps to the desktop](https://www.reddit.com/r/Kotlin/comments/xr9ll0/better_distribution_of_kotlin_apps_to_the_desktop/)
-- [Kotlin 1.7.20 Released](https://www.reddit.com/r/Kotlin/comments/xr95ie/kotlin_1720_released/)
-- [Backend &lpar;Kotlin&rpar; Engineer &lpar;m/f/d&rpar; – Customer Growth Team](https://www.reddit.com/r/Kotlin/comments/xr7e1v/backend_kotlin_engineer_mfd_customer_growth_team/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
