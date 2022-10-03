@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Someone up to write some code](https://www.reddit.com/r/Kotlin/comments/xtxe3i/someone_up_to_write_some_code/)
+- [WTH is going on here?](https://www.reddit.com/r/Kotlin/comments/xtu03w/wth_is_going_on_here/)
+- [RequestAlreadyConsumedException in Ktor while trying to execute user auth](https://www.reddit.com/r/Kotlin/comments/xtfazk/requestalreadyconsumedexception_in_ktor_while/)
 - [WorldWind Kotlin Tutorials - start developing your cross-platform geospatial application now](https://www.reddit.com/r/Kotlin/comments/xt6id3/worldwind_kotlin_tutorials_start_developing_your/)
 - [WorldWind Kotlin first multi-platform 3D globe on NASA hackathon](https://www.reddit.com/r/Kotlin/comments/xt6gvh/worldwind_kotlin_first_multiplatform_3d_globe_on/)
 - [WorldWind Kotlin - the first cross-platform planetary 3D globe library for JS, Android and JVM](https://www.reddit.com/r/Kotlin/comments/xt6ewy/worldwind_kotlin_the_first_crossplatform/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Swift/Kotlin ViewModel alignment in a Kotlin Multiplatform project](https://www.reddit.com/r/Kotlin/comments/xt0tl6/swiftkotlin_viewmodel_alignment_in_a_kotlin/)
 - [Trying to implement session auth in a Ktor app, but having some trouble with the auth part.](https://www.reddit.com/r/Kotlin/comments/xszx6v/trying_to_implement_session_auth_in_a_ktor_app/)
 - [Kotlin’s five powerful scope functions you should know how to use](https://www.reddit.com/r/Kotlin/comments/xstuhl/kotlins_five_powerful_scope_functions_you_should/)
-- [How to use a module?](https://www.reddit.com/r/Kotlin/comments/xstpg3/how_to_use_a_module/)
-- [What is a &quot;suspicious callable reference,&quot; and what can I do about it?](https://www.reddit.com/r/Kotlin/comments/xsd4r2/what_is_a_suspicious_callable_reference_and_what/)
-- [why does it seem that Kotlin isn&#39;t really taking off for backend development?](https://www.reddit.com/r/Kotlin/comments/xsb4wr/why_does_it_seem_that_kotlin_isnt_really_taking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
