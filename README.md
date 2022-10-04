@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [5 Fun Ways to Use Extension Functions &lpar;video&rpar;](https://www.reddit.com/r/Kotlin/comments/xurbw9/5_fun_ways_to_use_extension_functions_video/)
+- [Javalin v5 has been released! &lpar;web micro-framework&rpar;](https://www.reddit.com/r/Kotlin/comments/xul627/javalin_v5_has_been_released_web_microframework/)
+- [Kotlin repo and tutorial for a neat text background https://exyte.com/blog/androidview-jetpack-compose-tutorial](https://www.reddit.com/r/Kotlin/comments/xuiyt2/kotlin_repo_and_tutorial_for_a_neat_text/)
+- [Execute Shell Commands in Java/Scala/Kotlin](https://www.reddit.com/r/Kotlin/comments/xuh8ec/execute_shell_commands_in_javascalakotlin/)
+- [New Kotlin Native Kafka client released! 🥳](https://www.reddit.com/r/Kotlin/comments/xuf9u3/new_kotlin_native_kafka_client_released/)
+- [How to access the generated JavaScript files by Kotlin/JavaScript in KMM project?](https://www.reddit.com/r/Kotlin/comments/xue52n/how_to_access_the_generated_javascript_files_by/)
+- [poller: a simple Kotlin library to poll at regular intervals](https://www.reddit.com/r/Kotlin/comments/xu9w2t/poller_a_simple_kotlin_library_to_poll_at_regular/)
 - [Someone up to write some code](https://www.reddit.com/r/Kotlin/comments/xtxe3i/someone_up_to_write_some_code/)
 - [WTH is going on here?](https://www.reddit.com/r/Kotlin/comments/xtu03w/wth_is_going_on_here/)
 - [RequestAlreadyConsumedException in Ktor while trying to execute user auth](https://www.reddit.com/r/Kotlin/comments/xtfazk/requestalreadyconsumedexception_in_ktor_while/)
-- [WorldWind Kotlin Tutorials - start developing your cross-platform geospatial application now](https://www.reddit.com/r/Kotlin/comments/xt6id3/worldwind_kotlin_tutorials_start_developing_your/)
-- [WorldWind Kotlin first multi-platform 3D globe on NASA hackathon](https://www.reddit.com/r/Kotlin/comments/xt6gvh/worldwind_kotlin_first_multiplatform_3d_globe_on/)
-- [WorldWind Kotlin - the first cross-platform planetary 3D globe library for JS, Android and JVM](https://www.reddit.com/r/Kotlin/comments/xt6ewy/worldwind_kotlin_the_first_crossplatform/)
-- [My small project to parse Youtube watch history](https://www.reddit.com/r/Kotlin/comments/xt4spa/my_small_project_to_parse_youtube_watch_history/)
-- [Swift/Kotlin ViewModel alignment in a Kotlin Multiplatform project](https://www.reddit.com/r/Kotlin/comments/xt0tl6/swiftkotlin_viewmodel_alignment_in_a_kotlin/)
-- [Trying to implement session auth in a Ktor app, but having some trouble with the auth part.](https://www.reddit.com/r/Kotlin/comments/xszx6v/trying_to_implement_session_auth_in_a_ktor_app/)
-- [Kotlin’s five powerful scope functions you should know how to use](https://www.reddit.com/r/Kotlin/comments/xstuhl/kotlins_five_powerful_scope_functions_you_should/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
