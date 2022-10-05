@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose multiplatform or .net MAUI for desktop application?](https://www.reddit.com/r/Kotlin/comments/xvvpaq/compose_multiplatform_or_net_maui_for_desktop/)
+- [Best library for messenger backend &lpar;JVM&rpar;](https://www.reddit.com/r/Kotlin/comments/xvpq1e/best_library_for_messenger_backend_jvm/)
+- [Is it okay to learn kotlin before java?](https://www.reddit.com/r/Kotlin/comments/xvn482/is_it_okay_to_learn_kotlin_before_java/)
+- [Is there some extra consideration required when fatjar&#39;ing 3rd party dependencies written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/xvjg06/is_there_some_extra_consideration_required_when/)
+- [The rangeUntil, or “..&lt;” operator, is a new way to create open-ended ranges! You might think of it as just an alias for the ”until” function, but that would mean missing some powerful new things. Let Sebastian give you a rundown of these new features 👇](https://www.reddit.com/r/Kotlin/comments/xvj4by/the_rangeuntil_or_operator_is_a_new_way_to_create/)
+- [Suggestions for developing a Kotlin Mutliplatform Mobile Course for my Team?](https://www.reddit.com/r/Kotlin/comments/xv77lg/suggestions_for_developing_a_kotlin_mutliplatform/)
+- [Kotlin book for experienced C++/Python dev](https://www.reddit.com/r/Kotlin/comments/xv5q9g/kotlin_book_for_experienced_cpython_dev/)
 - [5 Fun Ways to Use Extension Functions &lpar;video&rpar;](https://www.reddit.com/r/Kotlin/comments/xurbw9/5_fun_ways_to_use_extension_functions_video/)
 - [Javalin v5 has been released! &lpar;web micro-framework&rpar;](https://www.reddit.com/r/Kotlin/comments/xul627/javalin_v5_has_been_released_web_microframework/)
 - [Kotlin repo and tutorial for a neat text background https://exyte.com/blog/androidview-jetpack-compose-tutorial](https://www.reddit.com/r/Kotlin/comments/xuiyt2/kotlin_repo_and_tutorial_for_a_neat_text/)
-- [Execute Shell Commands in Java/Scala/Kotlin](https://www.reddit.com/r/Kotlin/comments/xuh8ec/execute_shell_commands_in_javascalakotlin/)
-- [New Kotlin Native Kafka client released! 🥳](https://www.reddit.com/r/Kotlin/comments/xuf9u3/new_kotlin_native_kafka_client_released/)
-- [How to access the generated JavaScript files by Kotlin/JavaScript in KMM project?](https://www.reddit.com/r/Kotlin/comments/xue52n/how_to_access_the_generated_javascript_files_by/)
-- [poller: a simple Kotlin library to poll at regular intervals](https://www.reddit.com/r/Kotlin/comments/xu9w2t/poller_a_simple_kotlin_library_to_poll_at_regular/)
-- [Someone up to write some code](https://www.reddit.com/r/Kotlin/comments/xtxe3i/someone_up_to_write_some_code/)
-- [WTH is going on here?](https://www.reddit.com/r/Kotlin/comments/xtu03w/wth_is_going_on_here/)
-- [RequestAlreadyConsumedException in Ktor while trying to execute user auth](https://www.reddit.com/r/Kotlin/comments/xtfazk/requestalreadyconsumedexception_in_ktor_while/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
