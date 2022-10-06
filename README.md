@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Quick Question, how would I replace all values of x with y in a List?](https://www.reddit.com/r/Kotlin/comments/xwirpd/quick_question_how_would_i_replace_all_values_of/)
+- [When to use coroutineScope vs supervisorScope in Kotlin?](https://www.reddit.com/r/Kotlin/comments/xwih2k/when_to_use_coroutinescope_vs_supervisorscope_in/)
+- [Checking a coroutine for completion &lpar;low level&rpar;](https://www.reddit.com/r/Kotlin/comments/xwf1a1/checking_a_coroutine_for_completion_low_level/)
+- [If Kotlin Runs on the JVM Just Like Java, Then How Does It Provide So Many Great Features? 🤔🚀](https://www.reddit.com/r/Kotlin/comments/xwd1cy/if_kotlin_runs_on_the_jvm_just_like_java_then_how/)
+- [Has anyone else experienced serious problems upgrading from Gradle 6 to 7? Despite devoting days to the problem our unit tests won&#39;t run on Gradle 7](https://www.reddit.com/r/Kotlin/comments/xwb924/has_anyone_else_experienced_serious_problems/)
+- [What does Kotlin have to offer for Java developers in 2022?](https://www.reddit.com/r/Kotlin/comments/xw8imo/what_does_kotlin_have_to_offer_for_java/)
+- [Best kotlin course](https://www.reddit.com/r/Kotlin/comments/xw584p/best_kotlin_course/)
 - [Compose multiplatform or .net MAUI for desktop application?](https://www.reddit.com/r/Kotlin/comments/xvvpaq/compose_multiplatform_or_net_maui_for_desktop/)
 - [Best library for messenger backend &lpar;JVM&rpar;](https://www.reddit.com/r/Kotlin/comments/xvpq1e/best_library_for_messenger_backend_jvm/)
 - [Is it okay to learn kotlin before java?](https://www.reddit.com/r/Kotlin/comments/xvn482/is_it_okay_to_learn_kotlin_before_java/)
-- [Is there some extra consideration required when fatjar&#39;ing 3rd party dependencies written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/xvjg06/is_there_some_extra_consideration_required_when/)
-- [The rangeUntil, or “..&lt;” operator, is a new way to create open-ended ranges! You might think of it as just an alias for the ”until” function, but that would mean missing some powerful new things. Let Sebastian give you a rundown of these new features 👇](https://www.reddit.com/r/Kotlin/comments/xvj4by/the_rangeuntil_or_operator_is_a_new_way_to_create/)
-- [Suggestions for developing a Kotlin Mutliplatform Mobile Course for my Team?](https://www.reddit.com/r/Kotlin/comments/xv77lg/suggestions_for_developing_a_kotlin_mutliplatform/)
-- [Kotlin book for experienced C++/Python dev](https://www.reddit.com/r/Kotlin/comments/xv5q9g/kotlin_book_for_experienced_cpython_dev/)
-- [5 Fun Ways to Use Extension Functions &lpar;video&rpar;](https://www.reddit.com/r/Kotlin/comments/xurbw9/5_fun_ways_to_use_extension_functions_video/)
-- [Javalin v5 has been released! &lpar;web micro-framework&rpar;](https://www.reddit.com/r/Kotlin/comments/xul627/javalin_v5_has_been_released_web_microframework/)
-- [Kotlin repo and tutorial for a neat text background https://exyte.com/blog/androidview-jetpack-compose-tutorial](https://www.reddit.com/r/Kotlin/comments/xuiyt2/kotlin_repo_and_tutorial_for_a_neat_text/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
