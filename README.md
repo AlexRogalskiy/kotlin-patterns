@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Quick Question, how would I replace all values of x with y in a List?](https://www.reddit.com/r/Kotlin/comments/xwirpd/quick_question_how_would_i_replace_all_values_of/)
+- [Why reified type is forbidden for catch parameter?](https://www.reddit.com/r/Kotlin/comments/xxizyk/why_reified_type_is_forbidden_for_catch_parameter/)
+- [Andrey Breslav: Kotlin in 5 minutes &lpar;September 2013&rpar;](https://www.reddit.com/r/Kotlin/comments/xxdxp2/andrey_breslav_kotlin_in_5_minutes_september_2013/)
+- [Best kotlin resources for experienced devs?](https://www.reddit.com/r/Kotlin/comments/xxaqj8/best_kotlin_resources_for_experienced_devs/)
+- [Hackerrank insertionSort1 &amp; insertionSort2](https://www.reddit.com/r/Kotlin/comments/xxa793/hackerrank_insertionsort1_insertionsort2/)
+- [Kotlin 1.7.20 comes with a new experimental feature called Data Objects! Let Sebastian show you how using data objects can lead to less code, fewer typos, and more symmetrical definitions for your class hierarchies.👇](https://www.reddit.com/r/Kotlin/comments/xx7ff6/kotlin_1720_comes_with_a_new_experimental_feature/)
+- [Question: How to split a string into multiple strings?](https://www.reddit.com/r/Kotlin/comments/xx5kwp/question_how_to_split_a_string_into_multiple/)
+- [Boilerplate to Prepare a CI/CD for Android Applications](https://www.reddit.com/r/Kotlin/comments/xx53dn/boilerplate_to_prepare_a_cicd_for_android/)
+- [ReelScript - Created a Kotlin Script that can convert given - Image, audio and Text to a Quote Style Reel.](https://www.reddit.com/r/Kotlin/comments/xx4yme/reelscript_created_a_kotlin_script_that_can/)
+- [Spring Boot: Up &amp; Running with Mark Heckler &amp; Thomas Vitale](https://www.reddit.com/r/Kotlin/comments/xx4u1m/spring_boot_up_running_with_mark_heckler_thomas/)
 - [When to use coroutineScope vs supervisorScope in Kotlin?](https://www.reddit.com/r/Kotlin/comments/xwih2k/when_to_use_coroutinescope_vs_supervisorscope_in/)
-- [Checking a coroutine for completion &lpar;low level&rpar;](https://www.reddit.com/r/Kotlin/comments/xwf1a1/checking_a_coroutine_for_completion_low_level/)
-- [If Kotlin Runs on the JVM Just Like Java, Then How Does It Provide So Many Great Features? 🤔🚀](https://www.reddit.com/r/Kotlin/comments/xwd1cy/if_kotlin_runs_on_the_jvm_just_like_java_then_how/)
-- [Has anyone else experienced serious problems upgrading from Gradle 6 to 7? Despite devoting days to the problem our unit tests won&#39;t run on Gradle 7](https://www.reddit.com/r/Kotlin/comments/xwb924/has_anyone_else_experienced_serious_problems/)
-- [What does Kotlin have to offer for Java developers in 2022?](https://www.reddit.com/r/Kotlin/comments/xw8imo/what_does_kotlin_have_to_offer_for_java/)
-- [Best kotlin course](https://www.reddit.com/r/Kotlin/comments/xw584p/best_kotlin_course/)
-- [Compose multiplatform or .net MAUI for desktop application?](https://www.reddit.com/r/Kotlin/comments/xvvpaq/compose_multiplatform_or_net_maui_for_desktop/)
-- [Best library for messenger backend &lpar;JVM&rpar;](https://www.reddit.com/r/Kotlin/comments/xvpq1e/best_library_for_messenger_backend_jvm/)
-- [Is it okay to learn kotlin before java?](https://www.reddit.com/r/Kotlin/comments/xvn482/is_it_okay_to_learn_kotlin_before_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
