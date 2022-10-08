@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Change aware code analysis tools?](https://www.reddit.com/r/Kotlin/comments/xy9fem/change_aware_code_analysis_tools/)
+- [Why/when to use nested and inner classes?](https://www.reddit.com/r/Kotlin/comments/xy6sab/whywhen_to_use_nested_and_inner_classes/)
+- [Deferring Error Handling With A Kotlin Result Type](https://www.reddit.com/r/Kotlin/comments/xy27zy/deferring_error_handling_with_a_kotlin_result_type/)
+- [Server As A Function With Kotlin — A detailed look on http4k](https://www.reddit.com/r/Kotlin/comments/xxzrqw/server_as_a_function_with_kotlin_a_detailed_look/)
+- [How to call a hidden class&#39;s static function using Kotlin&#39;s reflection?](https://www.reddit.com/r/Kotlin/comments/xxv0zz/how_to_call_a_hidden_classs_static_function_using/)
 - [Why reified type is forbidden for catch parameter?](https://www.reddit.com/r/Kotlin/comments/xxizyk/why_reified_type_is_forbidden_for_catch_parameter/)
 - [Andrey Breslav: Kotlin in 5 minutes &lpar;September 2013&rpar;](https://www.reddit.com/r/Kotlin/comments/xxdxp2/andrey_breslav_kotlin_in_5_minutes_september_2013/)
 - [Best kotlin resources for experienced devs?](https://www.reddit.com/r/Kotlin/comments/xxaqj8/best_kotlin_resources_for_experienced_devs/)
 - [Hackerrank insertionSort1 &amp; insertionSort2](https://www.reddit.com/r/Kotlin/comments/xxa793/hackerrank_insertionsort1_insertionsort2/)
 - [Kotlin 1.7.20 comes with a new experimental feature called Data Objects! Let Sebastian show you how using data objects can lead to less code, fewer typos, and more symmetrical definitions for your class hierarchies.👇](https://www.reddit.com/r/Kotlin/comments/xx7ff6/kotlin_1720_comes_with_a_new_experimental_feature/)
-- [Question: How to split a string into multiple strings?](https://www.reddit.com/r/Kotlin/comments/xx5kwp/question_how_to_split_a_string_into_multiple/)
-- [Boilerplate to Prepare a CI/CD for Android Applications](https://www.reddit.com/r/Kotlin/comments/xx53dn/boilerplate_to_prepare_a_cicd_for_android/)
-- [ReelScript - Created a Kotlin Script that can convert given - Image, audio and Text to a Quote Style Reel.](https://www.reddit.com/r/Kotlin/comments/xx4yme/reelscript_created_a_kotlin_script_that_can/)
-- [Spring Boot: Up &amp; Running with Mark Heckler &amp; Thomas Vitale](https://www.reddit.com/r/Kotlin/comments/xx4u1m/spring_boot_up_running_with_mark_heckler_thomas/)
-- [When to use coroutineScope vs supervisorScope in Kotlin?](https://www.reddit.com/r/Kotlin/comments/xwih2k/when_to_use_coroutinescope_vs_supervisorscope_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
