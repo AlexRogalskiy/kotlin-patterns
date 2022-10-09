@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Project for trying to learn Kotlin after learning Java](https://www.reddit.com/r/Kotlin/comments/xz3gtk/project_for_trying_to_learn_kotlin_after_learning/)
+- [3D game engine](https://www.reddit.com/r/Kotlin/comments/xz2yie/3d_game_engine/)
+- [Kweb 0.12.6 released: Migrate to Gradle 7, dependencies up to date, full example of live autoscaling kwebsite on Google Cloud](https://www.reddit.com/r/Kotlin/comments/xz2f4q/kweb_0126_released_migrate_to_gradle_7/)
+- [Should I?](https://www.reddit.com/r/Kotlin/comments/xyw6wq/should_i/)
+- [I just built my first Kotlin project](https://www.reddit.com/r/Kotlin/comments/xytpfu/i_just_built_my_first_kotlin_project/)
+- [Can you use ChromeOS](https://www.reddit.com/r/Kotlin/comments/xynkbx/can_you_use_chromeos/)
+- [Why is `suspend` a language keyword, but @Composable and @Serializable are annotations](https://www.reddit.com/r/Kotlin/comments/xymp6u/why_is_suspend_a_language_keyword_but_composable/)
 - [Change aware code analysis tools?](https://www.reddit.com/r/Kotlin/comments/xy9fem/change_aware_code_analysis_tools/)
 - [Why/when to use nested and inner classes?](https://www.reddit.com/r/Kotlin/comments/xy6sab/whywhen_to_use_nested_and_inner_classes/)
 - [Deferring Error Handling With A Kotlin Result Type](https://www.reddit.com/r/Kotlin/comments/xy27zy/deferring_error_handling_with_a_kotlin_result_type/)
-- [Server As A Function With Kotlin — A detailed look on http4k](https://www.reddit.com/r/Kotlin/comments/xxzrqw/server_as_a_function_with_kotlin_a_detailed_look/)
-- [How to call a hidden class&#39;s static function using Kotlin&#39;s reflection?](https://www.reddit.com/r/Kotlin/comments/xxv0zz/how_to_call_a_hidden_classs_static_function_using/)
-- [Why reified type is forbidden for catch parameter?](https://www.reddit.com/r/Kotlin/comments/xxizyk/why_reified_type_is_forbidden_for_catch_parameter/)
-- [Andrey Breslav: Kotlin in 5 minutes &lpar;September 2013&rpar;](https://www.reddit.com/r/Kotlin/comments/xxdxp2/andrey_breslav_kotlin_in_5_minutes_september_2013/)
-- [Best kotlin resources for experienced devs?](https://www.reddit.com/r/Kotlin/comments/xxaqj8/best_kotlin_resources_for_experienced_devs/)
-- [Hackerrank insertionSort1 &amp; insertionSort2](https://www.reddit.com/r/Kotlin/comments/xxa793/hackerrank_insertionsort1_insertionsort2/)
-- [Kotlin 1.7.20 comes with a new experimental feature called Data Objects! Let Sebastian show you how using data objects can lead to less code, fewer typos, and more symmetrical definitions for your class hierarchies.👇](https://www.reddit.com/r/Kotlin/comments/xx7ff6/kotlin_1720_comes_with_a_new_experimental_feature/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
