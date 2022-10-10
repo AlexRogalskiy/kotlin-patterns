@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rant: Gradle is an embarrassment to the Java/Kotlin ecosystem](https://www.reddit.com/r/Kotlin/comments/y042g1/rant_gradle_is_an_embarrassment_to_the_javakotlin/)
+- [JSON file to JsonObject?](https://www.reddit.com/r/Kotlin/comments/xzv2j4/json_file_to_jsonobject/)
+- [Why the secondary constructor is not working here? I&#39;m learning Kotlin.](https://www.reddit.com/r/Kotlin/comments/xzkw04/why_the_secondary_constructor_is_not_working_here/)
+- [Beginner: How and where to host ktor pet project? &lpar;JetBrains Space app&rpar;](https://www.reddit.com/r/Kotlin/comments/xzi8m9/beginner_how_and_where_to_host_ktor_pet_project/)
+- [Function As Parameter In Kotlin — &lpar;Easy Explanation&rpar;](https://www.reddit.com/r/Kotlin/comments/xzge03/function_as_parameter_in_kotlin_easy_explanation/)
 - [Project for trying to learn Kotlin after learning Java](https://www.reddit.com/r/Kotlin/comments/xz3gtk/project_for_trying_to_learn_kotlin_after_learning/)
 - [3D game engine](https://www.reddit.com/r/Kotlin/comments/xz2yie/3d_game_engine/)
 - [Kweb 0.12.6 released: Migrate to Gradle 7, dependencies up to date, full example of live autoscaling kwebsite on Google Cloud](https://www.reddit.com/r/Kotlin/comments/xz2f4q/kweb_0126_released_migrate_to_gradle_7/)
 - [Should I?](https://www.reddit.com/r/Kotlin/comments/xyw6wq/should_i/)
 - [I just built my first Kotlin project](https://www.reddit.com/r/Kotlin/comments/xytpfu/i_just_built_my_first_kotlin_project/)
-- [Can you use ChromeOS](https://www.reddit.com/r/Kotlin/comments/xynkbx/can_you_use_chromeos/)
-- [Why is `suspend` a language keyword, but @Composable and @Serializable are annotations](https://www.reddit.com/r/Kotlin/comments/xymp6u/why_is_suspend_a_language_keyword_but_composable/)
-- [Change aware code analysis tools?](https://www.reddit.com/r/Kotlin/comments/xy9fem/change_aware_code_analysis_tools/)
-- [Why/when to use nested and inner classes?](https://www.reddit.com/r/Kotlin/comments/xy6sab/whywhen_to_use_nested_and_inner_classes/)
-- [Deferring Error Handling With A Kotlin Result Type](https://www.reddit.com/r/Kotlin/comments/xy27zy/deferring_error_handling_with_a_kotlin_result_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
