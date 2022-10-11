@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My Kotlin StackOverflow story and how I made 70k rep with Kotlin](https://www.reddit.com/r/Kotlin/comments/y0r2k0/my_kotlin_stackoverflow_story_and_how_i_made_70k/)
+- [Introducing KMMBridge For Teams](https://www.reddit.com/r/Kotlin/comments/y0m553/introducing_kmmbridge_for_teams/)
+- [What determines the order in which multiple launch&lpar;&rpar; are executed in a coroutineScope?](https://www.reddit.com/r/Kotlin/comments/y0jm36/what_determines_the_order_in_which_multiple/)
+- [Kotlin Multiplatform Mobile Is in Beta – Start Using It Now!](https://www.reddit.com/r/Kotlin/comments/y0hz5p/kotlin_multiplatform_mobile_is_in_beta_start/)
+- [Announcing an Experimental Preview of Jetpack Multiplatform Libraries](https://www.reddit.com/r/Kotlin/comments/y0hwhu/announcing_an_experimental_preview_of_jetpack/)
+- [Kotlin Multiplatform Mobile Is in Beta – Start Using It Now!](https://www.reddit.com/r/Kotlin/comments/y0hmcc/kotlin_multiplatform_mobile_is_in_beta_start/)
+- [Current State of Spring Boot Native with Kotlin &lpar;GraalVM&rpar;](https://www.reddit.com/r/Kotlin/comments/y0eu8e/current_state_of_spring_boot_native_with_kotlin/)
+- [Konbini: a new multiplatform parser library](https://www.reddit.com/r/Kotlin/comments/y09sbh/konbini_a_new_multiplatform_parser_library/)
+- [http4k - super lightweight http toolkit for Kotlin &lt;3](https://www.reddit.com/r/Kotlin/comments/y09is4/http4k_super_lightweight_http_toolkit_for_kotlin_3/)
 - [Rant: Gradle is an embarrassment to the Java/Kotlin ecosystem](https://www.reddit.com/r/Kotlin/comments/y042g1/rant_gradle_is_an_embarrassment_to_the_javakotlin/)
-- [JSON file to JsonObject?](https://www.reddit.com/r/Kotlin/comments/xzv2j4/json_file_to_jsonobject/)
-- [Why the secondary constructor is not working here? I&#39;m learning Kotlin.](https://www.reddit.com/r/Kotlin/comments/xzkw04/why_the_secondary_constructor_is_not_working_here/)
-- [Beginner: How and where to host ktor pet project? &lpar;JetBrains Space app&rpar;](https://www.reddit.com/r/Kotlin/comments/xzi8m9/beginner_how_and_where_to_host_ktor_pet_project/)
-- [Function As Parameter In Kotlin — &lpar;Easy Explanation&rpar;](https://www.reddit.com/r/Kotlin/comments/xzge03/function_as_parameter_in_kotlin_easy_explanation/)
-- [Project for trying to learn Kotlin after learning Java](https://www.reddit.com/r/Kotlin/comments/xz3gtk/project_for_trying_to_learn_kotlin_after_learning/)
-- [3D game engine](https://www.reddit.com/r/Kotlin/comments/xz2yie/3d_game_engine/)
-- [Kweb 0.12.6 released: Migrate to Gradle 7, dependencies up to date, full example of live autoscaling kwebsite on Google Cloud](https://www.reddit.com/r/Kotlin/comments/xz2f4q/kweb_0126_released_migrate_to_gradle_7/)
-- [Should I?](https://www.reddit.com/r/Kotlin/comments/xyw6wq/should_i/)
-- [I just built my first Kotlin project](https://www.reddit.com/r/Kotlin/comments/xytpfu/i_just_built_my_first_kotlin_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
