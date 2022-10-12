@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My Kotlin StackOverflow story and how I made 70k rep with Kotlin](https://www.reddit.com/r/Kotlin/comments/y0r2k0/my_kotlin_stackoverflow_story_and_how_i_made_70k/)
+- [Trying LeetCode in Kotlin and struggling](https://www.reddit.com/r/Kotlin/comments/y1fxlx/trying_leetcode_in_kotlin_and_struggling/)
+- [Volunteer projects](https://www.reddit.com/r/Kotlin/comments/y1bkfm/volunteer_projects/)
+- [How I made 70k reputation on StackOverflow while helping people understand Kotlin](https://www.reddit.com/r/Kotlin/comments/y17p5u/how_i_made_70k_reputation_on_stackoverflow_while/)
+- [Inspect the contents of the Java Metaspace region](https://www.reddit.com/r/Kotlin/comments/y176t6/inspect_the_contents_of_the_java_metaspace_region/)
+- [How does Kotlin relate to existing Java code bases?](https://www.reddit.com/r/Kotlin/comments/y16n30/how_does_kotlin_relate_to_existing_java_code_bases/)
+- [Starting as a junior developer](https://www.reddit.com/r/Kotlin/comments/y142vu/starting_as_a_junior_developer/)
 - [Introducing KMMBridge For Teams](https://www.reddit.com/r/Kotlin/comments/y0m553/introducing_kmmbridge_for_teams/)
 - [What determines the order in which multiple launch&lpar;&rpar; are executed in a coroutineScope?](https://www.reddit.com/r/Kotlin/comments/y0jm36/what_determines_the_order_in_which_multiple/)
 - [Kotlin Multiplatform Mobile Is in Beta – Start Using It Now!](https://www.reddit.com/r/Kotlin/comments/y0hz5p/kotlin_multiplatform_mobile_is_in_beta_start/)
 - [Announcing an Experimental Preview of Jetpack Multiplatform Libraries](https://www.reddit.com/r/Kotlin/comments/y0hwhu/announcing_an_experimental_preview_of_jetpack/)
-- [Kotlin Multiplatform Mobile Is in Beta – Start Using It Now!](https://www.reddit.com/r/Kotlin/comments/y0hmcc/kotlin_multiplatform_mobile_is_in_beta_start/)
-- [Current State of Spring Boot Native with Kotlin &lpar;GraalVM&rpar;](https://www.reddit.com/r/Kotlin/comments/y0eu8e/current_state_of_spring_boot_native_with_kotlin/)
-- [Konbini: a new multiplatform parser library](https://www.reddit.com/r/Kotlin/comments/y09sbh/konbini_a_new_multiplatform_parser_library/)
-- [http4k - super lightweight http toolkit for Kotlin &lt;3](https://www.reddit.com/r/Kotlin/comments/y09is4/http4k_super_lightweight_http_toolkit_for_kotlin_3/)
-- [Rant: Gradle is an embarrassment to the Java/Kotlin ecosystem](https://www.reddit.com/r/Kotlin/comments/y042g1/rant_gradle_is_an_embarrassment_to_the_javakotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
