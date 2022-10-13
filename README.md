@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trying LeetCode in Kotlin and struggling](https://www.reddit.com/r/Kotlin/comments/y1fxlx/trying_leetcode_in_kotlin_and_struggling/)
-- [Volunteer projects](https://www.reddit.com/r/Kotlin/comments/y1bkfm/volunteer_projects/)
-- [How I made 70k reputation on StackOverflow while helping people understand Kotlin](https://www.reddit.com/r/Kotlin/comments/y17p5u/how_i_made_70k_reputation_on_stackoverflow_while/)
-- [Inspect the contents of the Java Metaspace region](https://www.reddit.com/r/Kotlin/comments/y176t6/inspect_the_contents_of_the_java_metaspace_region/)
-- [How does Kotlin relate to existing Java code bases?](https://www.reddit.com/r/Kotlin/comments/y16n30/how_does_kotlin_relate_to_existing_java_code_bases/)
-- [Starting as a junior developer](https://www.reddit.com/r/Kotlin/comments/y142vu/starting_as_a_junior_developer/)
-- [Introducing KMMBridge For Teams](https://www.reddit.com/r/Kotlin/comments/y0m553/introducing_kmmbridge_for_teams/)
-- [What determines the order in which multiple launch&lpar;&rpar; are executed in a coroutineScope?](https://www.reddit.com/r/Kotlin/comments/y0jm36/what_determines_the_order_in_which_multiple/)
-- [Kotlin Multiplatform Mobile Is in Beta – Start Using It Now!](https://www.reddit.com/r/Kotlin/comments/y0hz5p/kotlin_multiplatform_mobile_is_in_beta_start/)
-- [Announcing an Experimental Preview of Jetpack Multiplatform Libraries](https://www.reddit.com/r/Kotlin/comments/y0hwhu/announcing_an_experimental_preview_of_jetpack/)
+- [How do you use scoped functions for the root object of a method.](https://www.reddit.com/r/Kotlin/comments/y2na7m/how_do_you_use_scoped_functions_for_the_root/)
+- [Creating a GitHub Code Coverage Badge using Kover](https://www.reddit.com/r/Kotlin/comments/y2hxnf/creating_a_github_code_coverage_badge_using_kover/)
+- [What is your Kotlin project?](https://www.reddit.com/r/Kotlin/comments/y2gxr5/what_is_your_kotlin_project/)
+- [Kotlin Method Chaining](https://www.reddit.com/r/Kotlin/comments/y2bxgs/kotlin_method_chaining/)
+- [What brought you to kotlinlang.org?](https://www.reddit.com/r/Kotlin/comments/y282sx/what_brought_you_to_kotlinlangorg/)
+- [Fleet available for public preview](https://www.reddit.com/r/Kotlin/comments/y27ptn/fleet_available_for_public_preview/)
+- [Compose Multiplatform 1.2 Is Out: New Mouse and Keyboard APIs, ProGuard Support, Online Updates](https://www.reddit.com/r/Kotlin/comments/y269w8/compose_multiplatform_12_is_out_new_mouse_and/)
+- [Kotlin using JB&#39;s Exposed not able to restart a Ktor app, gets always ajdbc.JdbcSQLSyntaxErrorException](https://www.reddit.com/r/Kotlin/comments/y260t8/kotlin_using_jbs_exposed_not_able_to_restart_a/)
+- [I want to get into app development, where do I start?](https://www.reddit.com/r/Kotlin/comments/y22n8n/i_want_to_get_into_app_development_where_do_i/)
+- [Kotlin + Spring data course](https://www.reddit.com/r/Kotlin/comments/y20jqg/kotlin_spring_data_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
