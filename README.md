@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you use scoped functions for the root object of a method.](https://www.reddit.com/r/Kotlin/comments/y2na7m/how_do_you_use_scoped_functions_for_the_root/)
-- [Creating a GitHub Code Coverage Badge using Kover](https://www.reddit.com/r/Kotlin/comments/y2hxnf/creating_a_github_code_coverage_badge_using_kover/)
-- [What is your Kotlin project?](https://www.reddit.com/r/Kotlin/comments/y2gxr5/what_is_your_kotlin_project/)
-- [Kotlin Method Chaining](https://www.reddit.com/r/Kotlin/comments/y2bxgs/kotlin_method_chaining/)
-- [What brought you to kotlinlang.org?](https://www.reddit.com/r/Kotlin/comments/y282sx/what_brought_you_to_kotlinlangorg/)
-- [Fleet available for public preview](https://www.reddit.com/r/Kotlin/comments/y27ptn/fleet_available_for_public_preview/)
-- [Compose Multiplatform 1.2 Is Out: New Mouse and Keyboard APIs, ProGuard Support, Online Updates](https://www.reddit.com/r/Kotlin/comments/y269w8/compose_multiplatform_12_is_out_new_mouse_and/)
-- [Kotlin using JB&#39;s Exposed not able to restart a Ktor app, gets always ajdbc.JdbcSQLSyntaxErrorException](https://www.reddit.com/r/Kotlin/comments/y260t8/kotlin_using_jbs_exposed_not_able_to_restart_a/)
-- [I want to get into app development, where do I start?](https://www.reddit.com/r/Kotlin/comments/y22n8n/i_want_to_get_into_app_development_where_do_i/)
-- [Kotlin + Spring data course](https://www.reddit.com/r/Kotlin/comments/y20jqg/kotlin_spring_data_course/)
+- [Kotlin newbie with no programming experience. What can I do to fix my code? else if](https://www.reddit.com/r/Kotlin/comments/y491r3/kotlin_newbie_with_no_programming_experience_what/)
+- [Kotlin Function #Kotlin](https://www.reddit.com/r/Kotlin/comments/y45c63/kotlin_function_kotlin/)
+- [Google&#39;s Journey from Java to Kotlin for Server Side Programming](https://www.reddit.com/r/Kotlin/comments/y42dfc/googles_journey_from_java_to_kotlin_for_server/)
+- [Refactoring From Spring Boot to Kotlin](https://www.reddit.com/r/Kotlin/comments/y3ww85/refactoring_from_spring_boot_to_kotlin/)
+- [Why logging is not working](https://www.reddit.com/r/Kotlin/comments/y3t2na/why_logging_is_not_working/)
+- [Kotlin Dataframe and its place in the data processing ecosystem](https://www.reddit.com/r/Kotlin/comments/y3qfe4/kotlin_dataframe_and_its_place_in_the_data/)
+- [What should I learn for backend?](https://www.reddit.com/r/Kotlin/comments/y3og60/what_should_i_learn_for_backend/)
+- [Android push notificatoin from webview wrodpress website](https://www.reddit.com/r/Kotlin/comments/y3nywh/android_push_notificatoin_from_webview_wrodpress/)
+- [Building a multiplatform Mandelbrot viewer for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/y3nt0m/building_a_multiplatform_mandelbrot_viewer_for/)
+- [Where can we see the toLong&lpar;&rpar; method implementation](https://www.reddit.com/r/Kotlin/comments/y3mpvi/where_can_we_see_the_tolong_method_implementation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
