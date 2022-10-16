@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Type mismatch: inferred type is Array&lt;out XXX&gt; but Array&lt;XXX&gt; was expected](https://www.reddit.com/r/Kotlin/comments/y558hv/type_mismatch_inferred_type_is_arrayout_xxx_but/)
+- [Kweb 1.0.0-rc.1 released - A lightweight Kotlin web framework for backend developers](https://www.reddit.com/r/Kotlin/comments/y4zjk3/kweb_100rc1_released_a_lightweight_kotlin_web/)
+- [Where can I learn Kotlin multi platform?](https://www.reddit.com/r/Kotlin/comments/y4wewq/where_can_i_learn_kotlin_multi_platform/)
+- [Can anyone convert this kotlin code into JS or Java](https://www.reddit.com/r/Kotlin/comments/y4oi8p/can_anyone_convert_this_kotlin_code_into_js_or/)
+- [Plugin Development using Kotlin](https://www.reddit.com/r/Kotlin/comments/y4khha/plugin_development_using_kotlin/)
+- [I want to print the sum of 5 numbers while also checking the data type if it&#39;s an Int, what should I do here?](https://www.reddit.com/r/Kotlin/comments/y4e0w0/i_want_to_print_the_sum_of_5_numbers_while_also/)
 - [Kotlin newbie with no programming experience. What can I do to fix my code? else if](https://www.reddit.com/r/Kotlin/comments/y491r3/kotlin_newbie_with_no_programming_experience_what/)
 - [Kotlin Function #Kotlin](https://www.reddit.com/r/Kotlin/comments/y45c63/kotlin_function_kotlin/)
 - [Google&#39;s Journey from Java to Kotlin for Server Side Programming](https://www.reddit.com/r/Kotlin/comments/y42dfc/googles_journey_from_java_to_kotlin_for_server/)
 - [Refactoring From Spring Boot to Kotlin](https://www.reddit.com/r/Kotlin/comments/y3ww85/refactoring_from_spring_boot_to_kotlin/)
-- [Why logging is not working](https://www.reddit.com/r/Kotlin/comments/y3t2na/why_logging_is_not_working/)
-- [Kotlin Dataframe and its place in the data processing ecosystem](https://www.reddit.com/r/Kotlin/comments/y3qfe4/kotlin_dataframe_and_its_place_in_the_data/)
-- [What should I learn for backend?](https://www.reddit.com/r/Kotlin/comments/y3og60/what_should_i_learn_for_backend/)
-- [Android push notificatoin from webview wrodpress website](https://www.reddit.com/r/Kotlin/comments/y3nywh/android_push_notificatoin_from_webview_wrodpress/)
-- [Building a multiplatform Mandelbrot viewer for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/y3nt0m/building_a_multiplatform_mandelbrot_viewer_for/)
-- [Where can we see the toLong&lpar;&rpar; method implementation](https://www.reddit.com/r/Kotlin/comments/y3mpvi/where_can_we_see_the_tolong_method_implementation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
