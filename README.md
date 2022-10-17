@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Backend: In which cases golang is prefered over the use kotlin with spring/ktor and vice versa?](https://www.reddit.com/r/Kotlin/comments/y5ubje/backend_in_which_cases_golang_is_prefered_over/)
+- [So I was writing a UI framework for my kotlin/multiplatform game engine and then things somewhat escalated...](https://www.reddit.com/r/Kotlin/comments/y5rbq7/so_i_was_writing_a_ui_framework_for_my/)
+- [New to kotlin](https://www.reddit.com/r/Kotlin/comments/y5qqhu/new_to_kotlin/)
+- [LittleKt 0.4.0 released - A lightweight &amp; flexible 2D multiplatform game framework](https://www.reddit.com/r/Kotlin/comments/y5p8qv/littlekt_040_released_a_lightweight_flexible_2d/)
+- [I don’t underwhy people still use Spring…](https://www.reddit.com/r/Kotlin/comments/y5nr4p/i_dont_underwhy_people_still_use_spring/)
 - [Type mismatch: inferred type is Array&lt;out XXX&gt; but Array&lt;XXX&gt; was expected](https://www.reddit.com/r/Kotlin/comments/y558hv/type_mismatch_inferred_type_is_arrayout_xxx_but/)
 - [Kweb 1.0.0-rc.1 released - A lightweight Kotlin web framework for backend developers](https://www.reddit.com/r/Kotlin/comments/y4zjk3/kweb_100rc1_released_a_lightweight_kotlin_web/)
 - [Where can I learn Kotlin multi platform?](https://www.reddit.com/r/Kotlin/comments/y4wewq/where_can_i_learn_kotlin_multi_platform/)
 - [Can anyone convert this kotlin code into JS or Java](https://www.reddit.com/r/Kotlin/comments/y4oi8p/can_anyone_convert_this_kotlin_code_into_js_or/)
 - [Plugin Development using Kotlin](https://www.reddit.com/r/Kotlin/comments/y4khha/plugin_development_using_kotlin/)
-- [I want to print the sum of 5 numbers while also checking the data type if it&#39;s an Int, what should I do here?](https://www.reddit.com/r/Kotlin/comments/y4e0w0/i_want_to_print_the_sum_of_5_numbers_while_also/)
-- [Kotlin newbie with no programming experience. What can I do to fix my code? else if](https://www.reddit.com/r/Kotlin/comments/y491r3/kotlin_newbie_with_no_programming_experience_what/)
-- [Kotlin Function #Kotlin](https://www.reddit.com/r/Kotlin/comments/y45c63/kotlin_function_kotlin/)
-- [Google&#39;s Journey from Java to Kotlin for Server Side Programming](https://www.reddit.com/r/Kotlin/comments/y42dfc/googles_journey_from_java_to_kotlin_for_server/)
-- [Refactoring From Spring Boot to Kotlin](https://www.reddit.com/r/Kotlin/comments/y3ww85/refactoring_from_spring_boot_to_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
