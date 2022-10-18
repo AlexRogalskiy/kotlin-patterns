@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where to host spring boot app?](https://www.reddit.com/r/Kotlin/comments/y6vexq/where_to_host_spring_boot_app/)
+- [I want to learn kotlin from scratch zero zero!!!](https://www.reddit.com/r/Kotlin/comments/y6nwi3/i_want_to_learn_kotlin_from_scratch_zero_zero/)
+- [Help needed making Column.values Array the same in all Columns created &lpar;same identification&rpar;](https://www.reddit.com/r/Kotlin/comments/y6jeu3/help_needed_making_columnvalues_array_the_same_in/)
+- [Does anyone know why this don’t work? Kotlin](https://www.reddit.com/r/Kotlin/comments/y6g4a4/does_anyone_know_why_this_dont_work_kotlin/)
+- [What is the purpose of inline constructor parameters?](https://www.reddit.com/r/Kotlin/comments/y652hr/what_is_the_purpose_of_inline_constructor/)
+- [Android - StateFlow](https://www.reddit.com/r/Kotlin/comments/y62v2a/android_stateflow/)
 - [Backend: In which cases golang is prefered over the use kotlin with spring/ktor and vice versa?](https://www.reddit.com/r/Kotlin/comments/y5ubje/backend_in_which_cases_golang_is_prefered_over/)
 - [So I was writing a UI framework for my kotlin/multiplatform game engine and then things somewhat escalated...](https://www.reddit.com/r/Kotlin/comments/y5rbq7/so_i_was_writing_a_ui_framework_for_my/)
 - [New to kotlin](https://www.reddit.com/r/Kotlin/comments/y5qqhu/new_to_kotlin/)
 - [LittleKt 0.4.0 released - A lightweight &amp; flexible 2D multiplatform game framework](https://www.reddit.com/r/Kotlin/comments/y5p8qv/littlekt_040_released_a_lightweight_flexible_2d/)
-- [I don’t underwhy people still use Spring…](https://www.reddit.com/r/Kotlin/comments/y5nr4p/i_dont_underwhy_people_still_use_spring/)
-- [Type mismatch: inferred type is Array&lt;out XXX&gt; but Array&lt;XXX&gt; was expected](https://www.reddit.com/r/Kotlin/comments/y558hv/type_mismatch_inferred_type_is_arrayout_xxx_but/)
-- [Kweb 1.0.0-rc.1 released - A lightweight Kotlin web framework for backend developers](https://www.reddit.com/r/Kotlin/comments/y4zjk3/kweb_100rc1_released_a_lightweight_kotlin_web/)
-- [Where can I learn Kotlin multi platform?](https://www.reddit.com/r/Kotlin/comments/y4wewq/where_can_i_learn_kotlin_multi_platform/)
-- [Can anyone convert this kotlin code into JS or Java](https://www.reddit.com/r/Kotlin/comments/y4oi8p/can_anyone_convert_this_kotlin_code_into_js_or/)
-- [Plugin Development using Kotlin](https://www.reddit.com/r/Kotlin/comments/y4khha/plugin_development_using_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
