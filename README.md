@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking to connect Kotlin app with MS SQL Server](https://www.reddit.com/r/Kotlin/comments/y7k8vu/looking_to_connect_kotlin_app_with_ms_sql_server/)
+- [MaterialCalendarView - Build your customizable calendar app in Kotlin](https://www.reddit.com/r/Kotlin/comments/y75r13/materialcalendarview_build_your_customizable/)
+- [Questions for the middle android developer.](https://www.reddit.com/r/Kotlin/comments/y6zd06/questions_for_the_middle_android_developer/)
 - [Where to host spring boot app?](https://www.reddit.com/r/Kotlin/comments/y6vexq/where_to_host_spring_boot_app/)
 - [I want to learn kotlin from scratch zero zero!!!](https://www.reddit.com/r/Kotlin/comments/y6nwi3/i_want_to_learn_kotlin_from_scratch_zero_zero/)
 - [Help needed making Column.values Array the same in all Columns created &lpar;same identification&rpar;](https://www.reddit.com/r/Kotlin/comments/y6jeu3/help_needed_making_columnvalues_array_the_same_in/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What is the purpose of inline constructor parameters?](https://www.reddit.com/r/Kotlin/comments/y652hr/what_is_the_purpose_of_inline_constructor/)
 - [Android - StateFlow](https://www.reddit.com/r/Kotlin/comments/y62v2a/android_stateflow/)
 - [Backend: In which cases golang is prefered over the use kotlin with spring/ktor and vice versa?](https://www.reddit.com/r/Kotlin/comments/y5ubje/backend_in_which_cases_golang_is_prefered_over/)
-- [So I was writing a UI framework for my kotlin/multiplatform game engine and then things somewhat escalated...](https://www.reddit.com/r/Kotlin/comments/y5rbq7/so_i_was_writing_a_ui_framework_for_my/)
-- [New to kotlin](https://www.reddit.com/r/Kotlin/comments/y5qqhu/new_to_kotlin/)
-- [LittleKt 0.4.0 released - A lightweight &amp; flexible 2D multiplatform game framework](https://www.reddit.com/r/Kotlin/comments/y5p8qv/littlekt_040_released_a_lightweight_flexible_2d/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
