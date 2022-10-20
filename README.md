@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it possible to take data from flow one-by-one](https://www.reddit.com/r/Kotlin/comments/y832m5/is_it_possible_to_take_data_from_flow_onebyone/)
+- [Jackson, moshi or kotlinx.serialization?](https://www.reddit.com/r/Kotlin/comments/y7vx36/jackson_moshi_or_kotlinxserialization/)
+- [You might be creating your states wrong! — Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/y7s7ih/you_might_be_creating_your_states_wrong_jetpack/)
 - [Looking to connect Kotlin app with MS SQL Server](https://www.reddit.com/r/Kotlin/comments/y7k8vu/looking_to_connect_kotlin_app_with_ms_sql_server/)
 - [MaterialCalendarView - Build your customizable calendar app in Kotlin](https://www.reddit.com/r/Kotlin/comments/y75r13/materialcalendarview_build_your_customizable/)
 - [Questions for the middle android developer.](https://www.reddit.com/r/Kotlin/comments/y6zd06/questions_for_the_middle_android_developer/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I want to learn kotlin from scratch zero zero!!!](https://www.reddit.com/r/Kotlin/comments/y6nwi3/i_want_to_learn_kotlin_from_scratch_zero_zero/)
 - [Help needed making Column.values Array the same in all Columns created &lpar;same identification&rpar;](https://www.reddit.com/r/Kotlin/comments/y6jeu3/help_needed_making_columnvalues_array_the_same_in/)
 - [Does anyone know why this don’t work? Kotlin](https://www.reddit.com/r/Kotlin/comments/y6g4a4/does_anyone_know_why_this_dont_work_kotlin/)
-- [What is the purpose of inline constructor parameters?](https://www.reddit.com/r/Kotlin/comments/y652hr/what_is_the_purpose_of_inline_constructor/)
-- [Android - StateFlow](https://www.reddit.com/r/Kotlin/comments/y62v2a/android_stateflow/)
-- [Backend: In which cases golang is prefered over the use kotlin with spring/ktor and vice versa?](https://www.reddit.com/r/Kotlin/comments/y5ubje/backend_in_which_cases_golang_is_prefered_over/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
