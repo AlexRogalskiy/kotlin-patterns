@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A new tool-author-friendly way to distribute Gradle/Maven dependencies](https://www.reddit.com/r/Kotlin/comments/y91lgr/a_new_toolauthorfriendly_way_to_distribute/)
+- [Pulling from a CSV](https://www.reddit.com/r/Kotlin/comments/y8zkkx/pulling_from_a_csv/)
+- [Kotlin’s five powerful scope functions you should know how to use](https://www.reddit.com/r/Kotlin/comments/y8sq32/kotlins_five_powerful_scope_functions_you_should/)
+- [Kotlin code solution Define add&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/y8sgcr/kotlin_code_solution_define_add/)
+- [How to link Kotlin to a MySQL database using XAMPP?](https://www.reddit.com/r/Kotlin/comments/y8pxoh/how_to_link_kotlin_to_a_mysql_database_using_xampp/)
 - [Is it possible to take data from flow one-by-one](https://www.reddit.com/r/Kotlin/comments/y832m5/is_it_possible_to_take_data_from_flow_onebyone/)
 - [Jackson, moshi or kotlinx.serialization?](https://www.reddit.com/r/Kotlin/comments/y7vx36/jackson_moshi_or_kotlinxserialization/)
 - [You might be creating your states wrong! — Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/y7s7ih/you_might_be_creating_your_states_wrong_jetpack/)
 - [Looking to connect Kotlin app with MS SQL Server](https://www.reddit.com/r/Kotlin/comments/y7k8vu/looking_to_connect_kotlin_app_with_ms_sql_server/)
 - [MaterialCalendarView - Build your customizable calendar app in Kotlin](https://www.reddit.com/r/Kotlin/comments/y75r13/materialcalendarview_build_your_customizable/)
-- [Questions for the middle android developer.](https://www.reddit.com/r/Kotlin/comments/y6zd06/questions_for_the_middle_android_developer/)
-- [Where to host spring boot app?](https://www.reddit.com/r/Kotlin/comments/y6vexq/where_to_host_spring_boot_app/)
-- [I want to learn kotlin from scratch zero zero!!!](https://www.reddit.com/r/Kotlin/comments/y6nwi3/i_want_to_learn_kotlin_from_scratch_zero_zero/)
-- [Help needed making Column.values Array the same in all Columns created &lpar;same identification&rpar;](https://www.reddit.com/r/Kotlin/comments/y6jeu3/help_needed_making_columnvalues_array_the_same_in/)
-- [Does anyone know why this don’t work? Kotlin](https://www.reddit.com/r/Kotlin/comments/y6g4a4/does_anyone_know_why_this_dont_work_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
