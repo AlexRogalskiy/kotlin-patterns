@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JitPack has been down or semi-down for the last 3 days, no response from them on Twitter or via support requests](https://www.reddit.com/r/Kotlin/comments/ya2biy/jitpack_has_been_down_or_semidown_for_the_last_3/)
+- [Best Kotlin Books for Beginners and Developers Must know 2022 -](https://www.reddit.com/r/Kotlin/comments/y9xk0a/best_kotlin_books_for_beginners_and_developers/)
+- [Refactoring Closures to Classes in Kotlin](https://www.reddit.com/r/Kotlin/comments/y9x9zn/refactoring_closures_to_classes_in_kotlin/)
+- [How to take a photo without switching to the camera application and without preview?](https://www.reddit.com/r/Kotlin/comments/y9x7e6/how_to_take_a_photo_without_switching_to_the/)
+- [The better Kotlin REPL: Kotlin Interactive Shell &lpar;KI&rpar;](https://www.reddit.com/r/Kotlin/comments/y9w46k/the_better_kotlin_repl_kotlin_interactive_shell_ki/)
+- [Why loop here didnt stop?](https://www.reddit.com/r/Kotlin/comments/y9shtl/why_loop_here_didnt_stop/)
+- [Why does readln&lpar;&rpar; not work in Kotlin 1.6?](https://www.reddit.com/r/Kotlin/comments/y9qkmk/why_does_readln_not_work_in_kotlin_16/)
+- [My Top 8 Reasons Why Kotlin Makes Me a More Productive Software Engineer](https://www.reddit.com/r/Kotlin/comments/y9mq8a/my_top_8_reasons_why_kotlin_makes_me_a_more/)
 - [A new tool-author-friendly way to distribute Gradle/Maven dependencies](https://www.reddit.com/r/Kotlin/comments/y91lgr/a_new_toolauthorfriendly_way_to_distribute/)
 - [Pulling from a CSV](https://www.reddit.com/r/Kotlin/comments/y8zkkx/pulling_from_a_csv/)
-- [Kotlin’s five powerful scope functions you should know how to use](https://www.reddit.com/r/Kotlin/comments/y8sq32/kotlins_five_powerful_scope_functions_you_should/)
-- [Kotlin code solution Define add&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/y8sgcr/kotlin_code_solution_define_add/)
-- [How to link Kotlin to a MySQL database using XAMPP?](https://www.reddit.com/r/Kotlin/comments/y8pxoh/how_to_link_kotlin_to_a_mysql_database_using_xampp/)
-- [Is it possible to take data from flow one-by-one](https://www.reddit.com/r/Kotlin/comments/y832m5/is_it_possible_to_take_data_from_flow_onebyone/)
-- [Jackson, moshi or kotlinx.serialization?](https://www.reddit.com/r/Kotlin/comments/y7vx36/jackson_moshi_or_kotlinxserialization/)
-- [You might be creating your states wrong! — Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/y7s7ih/you_might_be_creating_your_states_wrong_jetpack/)
-- [Looking to connect Kotlin app with MS SQL Server](https://www.reddit.com/r/Kotlin/comments/y7k8vu/looking_to_connect_kotlin_app_with_ms_sql_server/)
-- [MaterialCalendarView - Build your customizable calendar app in Kotlin](https://www.reddit.com/r/Kotlin/comments/y75r13/materialcalendarview_build_your_customizable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
