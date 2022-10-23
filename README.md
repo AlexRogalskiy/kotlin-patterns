@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin’s way to make DSLs and many standard library functions work](https://www.reddit.com/r/Kotlin/comments/yb1q3f/kotlins_way_to_make_dsls_and_many_standard/)
+- [Question on time spent when using collectLatest](https://www.reddit.com/r/Kotlin/comments/yaq1t9/question_on_time_spent_when_using_collectlatest/)
+- [Kweb 1.0.0 released! The powerful but lightweight Kotlin web framework for backend devs](https://www.reddit.com/r/Kotlin/comments/yapfjf/kweb_100_released_the_powerful_but_lightweight/)
+- [What&#39;s the difference between overloading getValue&lpar;&rpar; operator and overriding ReadOnlyProperty&#39;s getValue&lpar;&rpar; method when creating property delegates?](https://www.reddit.com/r/Kotlin/comments/yajrek/whats_the_difference_between_overloading_getvalue/)
 - [JitPack has been down or semi-down for the last 3 days, no response from them on Twitter or via support requests](https://www.reddit.com/r/Kotlin/comments/ya2biy/jitpack_has_been_down_or_semidown_for_the_last_3/)
 - [Best Kotlin Books for Beginners and Developers Must know 2022 -](https://www.reddit.com/r/Kotlin/comments/y9xk0a/best_kotlin_books_for_beginners_and_developers/)
 - [Refactoring Closures to Classes in Kotlin](https://www.reddit.com/r/Kotlin/comments/y9x9zn/refactoring_closures_to_classes_in_kotlin/)
 - [How to take a photo without switching to the camera application and without preview?](https://www.reddit.com/r/Kotlin/comments/y9x7e6/how_to_take_a_photo_without_switching_to_the/)
 - [The better Kotlin REPL: Kotlin Interactive Shell &lpar;KI&rpar;](https://www.reddit.com/r/Kotlin/comments/y9w46k/the_better_kotlin_repl_kotlin_interactive_shell_ki/)
 - [Why loop here didnt stop?](https://www.reddit.com/r/Kotlin/comments/y9shtl/why_loop_here_didnt_stop/)
-- [Why does readln&lpar;&rpar; not work in Kotlin 1.6?](https://www.reddit.com/r/Kotlin/comments/y9qkmk/why_does_readln_not_work_in_kotlin_16/)
-- [My Top 8 Reasons Why Kotlin Makes Me a More Productive Software Engineer](https://www.reddit.com/r/Kotlin/comments/y9mq8a/my_top_8_reasons_why_kotlin_makes_me_a_more/)
-- [A new tool-author-friendly way to distribute Gradle/Maven dependencies](https://www.reddit.com/r/Kotlin/comments/y91lgr/a_new_toolauthorfriendly_way_to_distribute/)
-- [Pulling from a CSV](https://www.reddit.com/r/Kotlin/comments/y8zkkx/pulling_from_a_csv/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
