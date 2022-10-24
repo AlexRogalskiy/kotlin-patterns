@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Concurrency vs. Parallelism Using Kotlin](https://www.reddit.com/r/Kotlin/comments/ybueik/concurrency_vs_parallelism_using_kotlin/)
+- [Advice on Kotlin UI](https://www.reddit.com/r/Kotlin/comments/ybqfy3/advice_on_kotlin_ui/)
+- [What do i have to put in my Manifest?](https://www.reddit.com/r/Kotlin/comments/ybk41b/what_do_i_have_to_put_in_my_manifest/)
 - [Kotlin’s way to make DSLs and many standard library functions work](https://www.reddit.com/r/Kotlin/comments/yb1q3f/kotlins_way_to_make_dsls_and_many_standard/)
 - [Question on time spent when using collectLatest](https://www.reddit.com/r/Kotlin/comments/yaq1t9/question_on_time_spent_when_using_collectlatest/)
 - [Kweb 1.0.0 released! The powerful but lightweight Kotlin web framework for backend devs](https://www.reddit.com/r/Kotlin/comments/yapfjf/kweb_100_released_the_powerful_but_lightweight/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [JitPack has been down or semi-down for the last 3 days, no response from them on Twitter or via support requests](https://www.reddit.com/r/Kotlin/comments/ya2biy/jitpack_has_been_down_or_semidown_for_the_last_3/)
 - [Best Kotlin Books for Beginners and Developers Must know 2022 -](https://www.reddit.com/r/Kotlin/comments/y9xk0a/best_kotlin_books_for_beginners_and_developers/)
 - [Refactoring Closures to Classes in Kotlin](https://www.reddit.com/r/Kotlin/comments/y9x9zn/refactoring_closures_to_classes_in_kotlin/)
-- [How to take a photo without switching to the camera application and without preview?](https://www.reddit.com/r/Kotlin/comments/y9x7e6/how_to_take_a_photo_without_switching_to_the/)
-- [The better Kotlin REPL: Kotlin Interactive Shell &lpar;KI&rpar;](https://www.reddit.com/r/Kotlin/comments/y9w46k/the_better_kotlin_repl_kotlin_interactive_shell_ki/)
-- [Why loop here didnt stop?](https://www.reddit.com/r/Kotlin/comments/y9shtl/why_loop_here_didnt_stop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
