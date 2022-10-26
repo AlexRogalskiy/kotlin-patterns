@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Writing a job post for a Backend Kotlin Developer](https://www.reddit.com/r/Kotlin/comments/ydg825/writing_a_job_post_for_a_backend_kotlin_developer/)
+- [Sprint Data MongoDB not enabling Transactionality even after registering TransactionManager](https://www.reddit.com/r/Kotlin/comments/ydezld/sprint_data_mongodb_not_enabling_transactionality/)
+- [From zero to 10 million lines of Kotlin](https://www.reddit.com/r/Kotlin/comments/yd3fkd/from_zero_to_10_million_lines_of_kotlin/)
+- [Strongly Typed Programming - Is it worth it?](https://www.reddit.com/r/Kotlin/comments/ycyoyd/strongly_typed_programming_is_it_worth_it/)
+- [How to add value to a list in Kotlin?](https://www.reddit.com/r/Kotlin/comments/ycx91v/how_to_add_value_to_a_list_in_kotlin/)
 - [How to make more than 1 Activity switch button](https://www.reddit.com/r/Kotlin/comments/ycjkt9/how_to_make_more_than_1_activity_switch_button/)
 - [takePicture failed when I try to take photos and the application crashes](https://www.reddit.com/r/Kotlin/comments/ycgn88/takepicture_failed_when_i_try_to_take_photos_and/)
 - [Server-side Kotlin in Google](https://www.reddit.com/r/Kotlin/comments/ycf47x/serverside_kotlin_in_google/)
 - [Learning Kotlin, help with expressions](https://www.reddit.com/r/Kotlin/comments/yc2oxn/learning_kotlin_help_with_expressions/)
 - [Concurrency vs. Parallelism Using Kotlin](https://www.reddit.com/r/Kotlin/comments/ybueik/concurrency_vs_parallelism_using_kotlin/)
-- [Advice on Kotlin UI](https://www.reddit.com/r/Kotlin/comments/ybqfy3/advice_on_kotlin_ui/)
-- [Kotlin’s way to make DSLs and many standard library functions work](https://www.reddit.com/r/Kotlin/comments/yb1q3f/kotlins_way_to_make_dsls_and_many_standard/)
-- [Question on time spent when using collectLatest](https://www.reddit.com/r/Kotlin/comments/yaq1t9/question_on_time_spent_when_using_collectlatest/)
-- [Kweb 1.0.0 released! The powerful but lightweight Kotlin web framework for backend devs](https://www.reddit.com/r/Kotlin/comments/yapfjf/kweb_100_released_the_powerful_but_lightweight/)
-- [What&#39;s the difference between overloading getValue&lpar;&rpar; operator and overriding ReadOnlyProperty&#39;s getValue&lpar;&rpar; method when creating property delegates?](https://www.reddit.com/r/Kotlin/comments/yajrek/whats_the_difference_between_overloading_getvalue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
