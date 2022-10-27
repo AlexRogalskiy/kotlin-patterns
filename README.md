@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktor form-based authentication, how to challenge if a user is not found from the credentials passed](https://www.reddit.com/r/Kotlin/comments/yeb9fo/ktor_formbased_authentication_how_to_challenge_if/)
+- [Madlibs.kt](https://www.reddit.com/r/Kotlin/comments/ye9ej5/madlibskt/)
+- [KotlinConf’23 Is Going Global. Join Us!](https://www.reddit.com/r/Kotlin/comments/ye1xn5/kotlinconf23_is_going_global_join_us/)
+- [Should I Start with Java or Kotlin?](https://www.reddit.com/r/Kotlin/comments/ydtmus/should_i_start_with_java_or_kotlin/)
+- [Simulating &amp; troubleshooting OOMError in Kotlin](https://www.reddit.com/r/Kotlin/comments/ydpb7x/simulating_troubleshooting_oomerror_in_kotlin/)
 - [Writing a job post for a Backend Kotlin Developer](https://www.reddit.com/r/Kotlin/comments/ydg825/writing_a_job_post_for_a_backend_kotlin_developer/)
 - [Sprint Data MongoDB not enabling Transactionality even after registering TransactionManager](https://www.reddit.com/r/Kotlin/comments/ydezld/sprint_data_mongodb_not_enabling_transactionality/)
 - [From zero to 10 million lines of Kotlin](https://www.reddit.com/r/Kotlin/comments/yd3fkd/from_zero_to_10_million_lines_of_kotlin/)
 - [Strongly Typed Programming - Is it worth it?](https://www.reddit.com/r/Kotlin/comments/ycyoyd/strongly_typed_programming_is_it_worth_it/)
-- [How to add value to a list in Kotlin?](https://www.reddit.com/r/Kotlin/comments/ycx91v/how_to_add_value_to_a_list_in_kotlin/)
 - [How to make more than 1 Activity switch button](https://www.reddit.com/r/Kotlin/comments/ycjkt9/how_to_make_more_than_1_activity_switch_button/)
-- [takePicture failed when I try to take photos and the application crashes](https://www.reddit.com/r/Kotlin/comments/ycgn88/takepicture_failed_when_i_try_to_take_photos_and/)
-- [Server-side Kotlin in Google](https://www.reddit.com/r/Kotlin/comments/ycf47x/serverside_kotlin_in_google/)
-- [Learning Kotlin, help with expressions](https://www.reddit.com/r/Kotlin/comments/yc2oxn/learning_kotlin_help_with_expressions/)
-- [Concurrency vs. Parallelism Using Kotlin](https://www.reddit.com/r/Kotlin/comments/ybueik/concurrency_vs_parallelism_using_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
