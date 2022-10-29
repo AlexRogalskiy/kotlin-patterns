@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How Listening to the Tests Can Improve our Designs](https://www.reddit.com/r/Kotlin/comments/yfsp1z/how_listening_to_the_tests_can_improve_our_designs/)
+- [Need help implementing valve like logic using StateFlow and SharedFlow.](https://www.reddit.com/r/Kotlin/comments/yfhsgj/need_help_implementing_valve_like_logic_using/)
 - [What does &quot;function that returns no meaningful value&quot; mean in this kontext? Why isnt it meaningful? &lpar;Kotlin Docs - Basic Syntax&rpar;](https://www.reddit.com/r/Kotlin/comments/yfavos/what_does_function_that_returns_no_meaningful/)
 - [Kotlin code error](https://www.reddit.com/r/Kotlin/comments/yf44j7/kotlin_code_error/)
 - [That feeling you get](https://www.reddit.com/r/Kotlin/comments/yf3obq/that_feeling_you_get/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [The 2022 Ktor Customer Survey – A Call to Action](https://www.reddit.com/r/Kotlin/comments/yevxnq/the_2022_ktor_customer_survey_a_call_to_action/)
 - [Trigger ./gradlew test when files have changed](https://www.reddit.com/r/Kotlin/comments/yeppg0/trigger_gradlew_test_when_files_have_changed/)
 - [Model mappers for Data Objects in Kotlin](https://www.reddit.com/r/Kotlin/comments/yehnlv/model_mappers_for_data_objects_in_kotlin/)
-- [Ktor form-based authentication, how to challenge if a user is not found from the credentials passed](https://www.reddit.com/r/Kotlin/comments/yeb9fo/ktor_formbased_authentication_how_to_challenge_if/)
-- [Madlibs.kt](https://www.reddit.com/r/Kotlin/comments/ye9ej5/madlibskt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
