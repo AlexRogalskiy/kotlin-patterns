@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s new in Kotlin 1.7.20](https://www.reddit.com/r/Kotlin/comments/ygx8wg/whats_new_in_kotlin_1720/)
+- [Programming with Result](https://www.reddit.com/r/Kotlin/comments/ygrqd8/programming_with_result/)
+- [Memory game in kotlin.](https://www.reddit.com/r/Kotlin/comments/ygmi63/memory_game_in_kotlin/)
+- [Server as a Function With Kotlin — A Detailed Look at http4k](https://www.reddit.com/r/Kotlin/comments/ygfcup/server_as_a_function_with_kotlin_a_detailed_look/)
 - [How Listening to the Tests Can Improve our Designs](https://www.reddit.com/r/Kotlin/comments/yfsp1z/how_listening_to_the_tests_can_improve_our_designs/)
 - [Need help implementing valve like logic using StateFlow and SharedFlow.](https://www.reddit.com/r/Kotlin/comments/yfhsgj/need_help_implementing_valve_like_logic_using/)
 - [What does &quot;function that returns no meaningful value&quot; mean in this kontext? Why isnt it meaningful? &lpar;Kotlin Docs - Basic Syntax&rpar;](https://www.reddit.com/r/Kotlin/comments/yfavos/what_does_function_that_returns_no_meaningful/)
 - [Kotlin code error](https://www.reddit.com/r/Kotlin/comments/yf44j7/kotlin_code_error/)
 - [That feeling you get](https://www.reddit.com/r/Kotlin/comments/yf3obq/that_feeling_you_get/)
 - [Int to String](https://www.reddit.com/r/Kotlin/comments/yf36lw/int_to_string/)
-- [Syntax](https://www.reddit.com/r/Kotlin/comments/yf2hpz/syntax/)
-- [The 2022 Ktor Customer Survey – A Call to Action](https://www.reddit.com/r/Kotlin/comments/yevxnq/the_2022_ktor_customer_survey_a_call_to_action/)
-- [Trigger ./gradlew test when files have changed](https://www.reddit.com/r/Kotlin/comments/yeppg0/trigger_gradlew_test_when_files_have_changed/)
-- [Model mappers for Data Objects in Kotlin](https://www.reddit.com/r/Kotlin/comments/yehnlv/model_mappers_for_data_objects_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
