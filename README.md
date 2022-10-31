@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I Tried Playing w/ Kotlin - Here&#39;s What Happened &lpar;C#.NET Guy&rpar;](https://www.reddit.com/r/Kotlin/comments/yhrpqs/i_tried_playing_w_kotlin_heres_what_happened_cnet/)
+- [Kotter &lpar;a Kotlin-idiomatic library for writing dynamic console application&rpar; hits 1.0!](https://www.reddit.com/r/Kotlin/comments/yhqfuy/kotter_a_kotlinidiomatic_library_for_writing/)
+- [Ktoml 0.3.0 released](https://www.reddit.com/r/Kotlin/comments/yhqbii/ktoml_030_released/)
+- [Kweb 1.0.2 released - Managing complexity in Kweb with components](https://www.reddit.com/r/Kotlin/comments/yhfy0k/kweb_102_released_managing_complexity_in_kweb/)
 - [What&#39;s new in Kotlin 1.7.20](https://www.reddit.com/r/Kotlin/comments/ygx8wg/whats_new_in_kotlin_1720/)
 - [Programming with Result](https://www.reddit.com/r/Kotlin/comments/ygrqd8/programming_with_result/)
 - [Memory game in kotlin.](https://www.reddit.com/r/Kotlin/comments/ygmi63/memory_game_in_kotlin/)
 - [Server as a Function With Kotlin — A Detailed Look at http4k](https://www.reddit.com/r/Kotlin/comments/ygfcup/server_as_a_function_with_kotlin_a_detailed_look/)
 - [How Listening to the Tests Can Improve our Designs](https://www.reddit.com/r/Kotlin/comments/yfsp1z/how_listening_to_the_tests_can_improve_our_designs/)
 - [Need help implementing valve like logic using StateFlow and SharedFlow.](https://www.reddit.com/r/Kotlin/comments/yfhsgj/need_help_implementing_valve_like_logic_using/)
-- [What does &quot;function that returns no meaningful value&quot; mean in this kontext? Why isnt it meaningful? &lpar;Kotlin Docs - Basic Syntax&rpar;](https://www.reddit.com/r/Kotlin/comments/yfavos/what_does_function_that_returns_no_meaningful/)
-- [Kotlin code error](https://www.reddit.com/r/Kotlin/comments/yf44j7/kotlin_code_error/)
-- [That feeling you get](https://www.reddit.com/r/Kotlin/comments/yf3obq/that_feeling_you_get/)
-- [Int to String](https://www.reddit.com/r/Kotlin/comments/yf36lw/int_to_string/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
