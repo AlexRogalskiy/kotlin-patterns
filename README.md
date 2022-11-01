@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Join the Kotlin Multiplatform Contest and Win a Trip to KotlinConf’23!](https://www.reddit.com/r/Kotlin/comments/yig5j9/join_the_kotlin_multiplatform_contest_and_win_a/)
+- [Android Studio Kotlin Development](https://www.reddit.com/r/Kotlin/comments/yig2bj/android_studio_kotlin_development/)
+- [I wrote a library that allow you to use data objects to set parameters and receive ResultSet&#39;s data. I&#39;m looking for feedback.](https://www.reddit.com/r/Kotlin/comments/yieeup/i_wrote_a_library_that_allow_you_to_use_data/)
+- [Hello with read IP using Ipfy](https://www.reddit.com/r/Kotlin/comments/yi1r4z/hello_with_read_ip_using_ipfy/)
 - [I Tried Playing w/ Kotlin - Here&#39;s What Happened &lpar;C#.NET Guy&rpar;](https://www.reddit.com/r/Kotlin/comments/yhrpqs/i_tried_playing_w_kotlin_heres_what_happened_cnet/)
 - [Kotter &lpar;a Kotlin-idiomatic library for writing dynamic console application&rpar; hits 1.0!](https://www.reddit.com/r/Kotlin/comments/yhqfuy/kotter_a_kotlinidiomatic_library_for_writing/)
 - [Ktoml 0.3.0 released](https://www.reddit.com/r/Kotlin/comments/yhqbii/ktoml_030_released/)
-- [Kweb 1.0.2 released - Managing complexity in Kweb with components](https://www.reddit.com/r/Kotlin/comments/yhfy0k/kweb_102_released_managing_complexity_in_kweb/)
 - [What&#39;s new in Kotlin 1.7.20](https://www.reddit.com/r/Kotlin/comments/ygx8wg/whats_new_in_kotlin_1720/)
 - [Programming with Result](https://www.reddit.com/r/Kotlin/comments/ygrqd8/programming_with_result/)
 - [Memory game in kotlin.](https://www.reddit.com/r/Kotlin/comments/ygmi63/memory_game_in_kotlin/)
-- [Server as a Function With Kotlin — A Detailed Look at http4k](https://www.reddit.com/r/Kotlin/comments/ygfcup/server_as_a_function_with_kotlin_a_detailed_look/)
-- [How Listening to the Tests Can Improve our Designs](https://www.reddit.com/r/Kotlin/comments/yfsp1z/how_listening_to_the_tests_can_improve_our_designs/)
-- [Need help implementing valve like logic using StateFlow and SharedFlow.](https://www.reddit.com/r/Kotlin/comments/yfhsgj/need_help_implementing_valve_like_logic_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
