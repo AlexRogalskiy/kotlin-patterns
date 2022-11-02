@@ -57,7 +57,7 @@
         "alex": "^9.1.0",
         "conventional-changelog-cli": "^2.1.1",
         "dockerfile_lint": "^0.3.4",
-        "husky": "^7.0.1",
+        "husky": "^7.0.4",
         "git-cz": "^4.7.6",
         "jsonlint": "^1.6.3",
         "license-checker": "^25.0.1",
