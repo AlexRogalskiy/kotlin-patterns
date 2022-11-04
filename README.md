@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Spring Boot 3 Observability with Grafana - Piotr&#39;s TechBlog](https://www.reddit.com/r/Kotlin/comments/ylih81/spring_boot_3_observability_with_grafana_piotrs/)
+- [Android Studio, android emulator use?](https://www.reddit.com/r/Kotlin/comments/yld8qt/android_studio_android_emulator_use/)
+- [Total Beginner](https://www.reddit.com/r/Kotlin/comments/ylapi0/total_beginner/)
+- [Optimizations in Kweb framework, including server-side rendering, DOM hydration, JavaScript caching, and input diffing](https://www.reddit.com/r/Kotlin/comments/ylajv9/optimizations_in_kweb_framework_including/)
+- [Limitations of Kotlin/JS as of the latest Kotlin version](https://www.reddit.com/r/Kotlin/comments/yl79qq/limitations_of_kotlinjs_as_of_the_latest_kotlin/)
+- [Objects that use generics are not considered different types of parameters?](https://www.reddit.com/r/Kotlin/comments/ykt83d/objects_that_use_generics_are_not_considered/)
 - [Kotlin Coroutine and Netty](https://www.reddit.com/r/Kotlin/comments/ykagku/kotlin_coroutine_and_netty/)
 - [I built my first Kotlin project](https://www.reddit.com/r/Kotlin/comments/yk8uc0/i_built_my_first_kotlin_project/)
 - [How mature is Kotlin native for macOS and Windows development? Is it practical to consider it a solution for cross platform development?](https://www.reddit.com/r/Kotlin/comments/yk2bfg/how_mature_is_kotlin_native_for_macos_and_windows/)
 - [Is it bad practice to use a generic to visually simplify the function parameters?](https://www.reddit.com/r/Kotlin/comments/yjs50m/is_it_bad_practice_to_use_a_generic_to_visually/)
-- [Docs/Examples of Adding Another Platform for kotlinc?](https://www.reddit.com/r/Kotlin/comments/yjo6ki/docsexamples_of_adding_another_platform_for/)
-- [The Evolution of Kotlin Multiplatform Mobile - 2022 Edition](https://www.reddit.com/r/Kotlin/comments/yjkcpv/the_evolution_of_kotlin_multiplatform_mobile_2022/)
-- [How to Boost Code Coverage with Functional Testing](https://www.reddit.com/r/Kotlin/comments/yjhayv/how_to_boost_code_coverage_with_functional_testing/)
-- [JavaScript interop in Kweb &lpar;Kotlin server-side web framework&rpar;](https://www.reddit.com/r/Kotlin/comments/yjek6d/javascript_interop_in_kweb_kotlin_serverside_web/)
-- [Question in regards to data collections](https://www.reddit.com/r/Kotlin/comments/yjd0st/question_in_regards_to_data_collections/)
-- [Join the Kotlin Multiplatform Contest and Win a Trip to KotlinConf’23!](https://www.reddit.com/r/Kotlin/comments/yig5j9/join_the_kotlin_multiplatform_contest_and_win_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
