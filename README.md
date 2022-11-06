@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Latest java vs Kotlin?](https://www.reddit.com/r/Kotlin/comments/ynec2g/latest_java_vs_kotlin/)
+- [Second attempt at defining equation derived domains](https://www.reddit.com/r/Kotlin/comments/ynbu3i/second_attempt_at_defining_equation_derived/)
+- [Kotlin Backend Framework with low ram usage?](https://www.reddit.com/r/Kotlin/comments/yn6lgs/kotlin_backend_framework_with_low_ram_usage/)
+- [Kotlin/JS: How suspended functions are working in browserDevelopmentRun and browserProductionWebpack but not in Export as library ?](https://www.reddit.com/r/Kotlin/comments/ymu5sb/kotlinjs_how_suspended_functions_are_working_in/)
 - [Classes](https://www.reddit.com/r/Kotlin/comments/ymcktx/classes/)
 - [machine learning with kotlin?](https://www.reddit.com/r/Kotlin/comments/ym6c8r/machine_learning_with_kotlin/)
 - [What type of variable contains amutable list?](https://www.reddit.com/r/Kotlin/comments/ym5d8z/what_type_of_variable_contains_amutable_list/)
 - [What does it mean to be Guided by Tests?](https://www.reddit.com/r/Kotlin/comments/ym3gfr/what_does_it_mean_to_be_guided_by_tests/)
 - [Guidance Required: Kotlin bindings for a C++ library](https://www.reddit.com/r/Kotlin/comments/ym2zp0/guidance_required_kotlin_bindings_for_a_c_library/)
 - [Is it worth learning Kotin for a university project?](https://www.reddit.com/r/Kotlin/comments/ylxpur/is_it_worth_learning_kotin_for_a_university/)
-- [I&#39;m creating a quiz app and want to randomize the questions which are in variables que1, que2, que3 etc.. How can I make this work?](https://www.reddit.com/r/Kotlin/comments/ylqxx4/im_creating_a_quiz_app_and_want_to_randomize_the/)
-- [Why does implementation by delegation only work for interfaces?](https://www.reddit.com/r/Kotlin/comments/ylqpk6/why_does_implementation_by_delegation_only_work/)
-- [Spring Boot 3 Observability with Grafana - Piotr&#39;s TechBlog](https://www.reddit.com/r/Kotlin/comments/ylih81/spring_boot_3_observability_with_grafana_piotrs/)
-- [Android Studio, android emulator use?](https://www.reddit.com/r/Kotlin/comments/yld8qt/android_studio_android_emulator_use/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
