@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Like Kotlin to JS export by using Kotlin/JS interop, is it possible to export Kotlin code as C Library using C interop ?](https://www.reddit.com/r/Kotlin/comments/ynxu5f/like_kotlin_to_js_export_by_using_kotlinjs/)
+- [Java vs Kotlin](https://www.reddit.com/r/Kotlin/comments/yno3vg/java_vs_kotlin/)
+- [What is the time complexity of reverse&lpar;&rpar; ?](https://www.reddit.com/r/Kotlin/comments/ynn6eh/what_is_the_time_complexity_of_reverse/)
 - [Latest java vs Kotlin?](https://www.reddit.com/r/Kotlin/comments/ynec2g/latest_java_vs_kotlin/)
 - [Second attempt at defining equation derived domains](https://www.reddit.com/r/Kotlin/comments/ynbu3i/second_attempt_at_defining_equation_derived/)
 - [Kotlin Backend Framework with low ram usage?](https://www.reddit.com/r/Kotlin/comments/yn6lgs/kotlin_backend_framework_with_low_ram_usage/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Classes](https://www.reddit.com/r/Kotlin/comments/ymcktx/classes/)
 - [machine learning with kotlin?](https://www.reddit.com/r/Kotlin/comments/ym6c8r/machine_learning_with_kotlin/)
 - [What type of variable contains amutable list?](https://www.reddit.com/r/Kotlin/comments/ym5d8z/what_type_of_variable_contains_amutable_list/)
-- [What does it mean to be Guided by Tests?](https://www.reddit.com/r/Kotlin/comments/ym3gfr/what_does_it_mean_to_be_guided_by_tests/)
-- [Guidance Required: Kotlin bindings for a C++ library](https://www.reddit.com/r/Kotlin/comments/ym2zp0/guidance_required_kotlin_bindings_for_a_c_library/)
-- [Is it worth learning Kotin for a university project?](https://www.reddit.com/r/Kotlin/comments/ylxpur/is_it_worth_learning_kotin_for_a_university/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
