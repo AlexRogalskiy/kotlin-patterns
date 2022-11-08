@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Making a rest API using KMongo, wondering when I should actually establish my connection to the database](https://www.reddit.com/r/Kotlin/comments/yp7u2e/making_a_rest_api_using_kmongo_wondering_when_i/)
+- [How do you use generics with interfaces without having to do &quot;as&quot; all the time?](https://www.reddit.com/r/Kotlin/comments/yoywx8/how_do_you_use_generics_with_interfaces_without/)
+- [WHAT I SHOULD LEARN](https://www.reddit.com/r/Kotlin/comments/yoxx13/what_i_should_learn/)
+- [Database migrations with SQLDelight and Flyway](https://www.reddit.com/r/Kotlin/comments/yot4q7/database_migrations_with_sqldelight_and_flyway/)
+- [Should I use companion const val for a non-change constant?](https://www.reddit.com/r/Kotlin/comments/yorzjn/should_i_use_companion_const_val_for_a_nonchange/)
+- [Gilded Rose Refactoring Kata In Kotlin](https://www.reddit.com/r/Kotlin/comments/yor3f4/gilded_rose_refactoring_kata_in_kotlin/)
+- [VoLTE Android 13 Telephony registry](https://www.reddit.com/r/Kotlin/comments/yonff6/volte_android_13_telephony_registry/)
 - [Like Kotlin to JS export by using Kotlin/JS interop, is it possible to export Kotlin code as C Library using C interop ?](https://www.reddit.com/r/Kotlin/comments/ynxu5f/like_kotlin_to_js_export_by_using_kotlinjs/)
 - [Java vs Kotlin](https://www.reddit.com/r/Kotlin/comments/yno3vg/java_vs_kotlin/)
 - [What is the time complexity of reverse&lpar;&rpar; ?](https://www.reddit.com/r/Kotlin/comments/ynn6eh/what_is_the_time_complexity_of_reverse/)
-- [Latest java vs Kotlin?](https://www.reddit.com/r/Kotlin/comments/ynec2g/latest_java_vs_kotlin/)
-- [Second attempt at defining equation derived domains](https://www.reddit.com/r/Kotlin/comments/ynbu3i/second_attempt_at_defining_equation_derived/)
-- [Kotlin Backend Framework with low ram usage?](https://www.reddit.com/r/Kotlin/comments/yn6lgs/kotlin_backend_framework_with_low_ram_usage/)
-- [Kotlin/JS: How suspended functions are working in browserDevelopmentRun and browserProductionWebpack but not in Export as library ?](https://www.reddit.com/r/Kotlin/comments/ymu5sb/kotlinjs_how_suspended_functions_are_working_in/)
-- [Classes](https://www.reddit.com/r/Kotlin/comments/ymcktx/classes/)
-- [machine learning with kotlin?](https://www.reddit.com/r/Kotlin/comments/ym6c8r/machine_learning_with_kotlin/)
-- [What type of variable contains amutable list?](https://www.reddit.com/r/Kotlin/comments/ym5d8z/what_type_of_variable_contains_amutable_list/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
