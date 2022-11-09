@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [has anyone tried Big Nerd Ranch Kotlin book?](https://www.reddit.com/r/Kotlin/comments/yprymq/has_anyone_tried_big_nerd_ranch_kotlin_book/)
+- [Easy Android SharedPreferences with Delegated Properties](https://www.reddit.com/r/Kotlin/comments/yppa56/easy_android_sharedpreferences_with_delegated/)
+- [We released spring-componentmap &lpar;0.1.0&rpar; - A JVM library for Map&lpar;s&rpar; injection with Spring](https://www.reddit.com/r/Kotlin/comments/ypmc2o/we_released_springcomponentmap_010_a_jvm_library/)
+- [KMM setup issue for M1 chip](https://www.reddit.com/r/Kotlin/comments/ypjd0s/kmm_setup_issue_for_m1_chip/)
+- [Wanna learn how and why of Builder Design Pattern in kotlin?](https://www.reddit.com/r/Kotlin/comments/ypiidc/wanna_learn_how_and_why_of_builder_design_pattern/)
+- [Why is Sequence built using generateSequence constrained to run only once?](https://www.reddit.com/r/Kotlin/comments/ypfkmq/why_is_sequence_built_using_generatesequence/)
 - [Making a rest API using KMongo, wondering when I should actually establish my connection to the database](https://www.reddit.com/r/Kotlin/comments/yp7u2e/making_a_rest_api_using_kmongo_wondering_when_i/)
 - [How do you use generics with interfaces without having to do &quot;as&quot; all the time?](https://www.reddit.com/r/Kotlin/comments/yoywx8/how_do_you_use_generics_with_interfaces_without/)
 - [WHAT I SHOULD LEARN](https://www.reddit.com/r/Kotlin/comments/yoxx13/what_i_should_learn/)
 - [Database migrations with SQLDelight and Flyway](https://www.reddit.com/r/Kotlin/comments/yot4q7/database_migrations_with_sqldelight_and_flyway/)
-- [Should I use companion const val for a non-change constant?](https://www.reddit.com/r/Kotlin/comments/yorzjn/should_i_use_companion_const_val_for_a_nonchange/)
-- [Gilded Rose Refactoring Kata In Kotlin](https://www.reddit.com/r/Kotlin/comments/yor3f4/gilded_rose_refactoring_kata_in_kotlin/)
-- [VoLTE Android 13 Telephony registry](https://www.reddit.com/r/Kotlin/comments/yonff6/volte_android_13_telephony_registry/)
-- [Like Kotlin to JS export by using Kotlin/JS interop, is it possible to export Kotlin code as C Library using C interop ?](https://www.reddit.com/r/Kotlin/comments/ynxu5f/like_kotlin_to_js_export_by_using_kotlinjs/)
-- [Java vs Kotlin](https://www.reddit.com/r/Kotlin/comments/yno3vg/java_vs_kotlin/)
-- [What is the time complexity of reverse&lpar;&rpar; ?](https://www.reddit.com/r/Kotlin/comments/ynn6eh/what_is_the_time_complexity_of_reverse/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
