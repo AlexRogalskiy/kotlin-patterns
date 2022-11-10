@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Quarkus and Kotlin, have you used in Production? Tell me how was the experience!](https://www.reddit.com/r/Kotlin/comments/yqzpl5/quarkus_and_kotlin_have_you_used_in_production/)
+- [Android app that reads your wifi strength](https://www.reddit.com/r/Kotlin/comments/yqsd0g/android_app_that_reads_your_wifi_strength/)
+- [Actions as data by Alejandro Serrano @ Func Prog Sweden](https://www.reddit.com/r/Kotlin/comments/yqpv5n/actions_as_data_by_alejandro_serrano_func_prog/)
+- [Is f&lpar;::g&rpar; more efficient than f { g&lpar;it&rpar; }?](https://www.reddit.com/r/Kotlin/comments/yqn5i1/is_fg_more_efficient_than_f_git/)
+- [Kotlin/Native to C dylib : How to access class members in an instance object which returned by a method?](https://www.reddit.com/r/Kotlin/comments/yqbqgu/kotlinnative_to_c_dylib_how_to_access_class/)
 - [has anyone tried Big Nerd Ranch Kotlin book?](https://www.reddit.com/r/Kotlin/comments/yprymq/has_anyone_tried_big_nerd_ranch_kotlin_book/)
 - [Easy Android SharedPreferences with Delegated Properties](https://www.reddit.com/r/Kotlin/comments/yppa56/easy_android_sharedpreferences_with_delegated/)
 - [We released spring-componentmap &lpar;0.1.0&rpar; - A JVM library for Map&lpar;s&rpar; injection with Spring](https://www.reddit.com/r/Kotlin/comments/ypmc2o/we_released_springcomponentmap_010_a_jvm_library/)
 - [KMM setup issue for M1 chip](https://www.reddit.com/r/Kotlin/comments/ypjd0s/kmm_setup_issue_for_m1_chip/)
 - [Wanna learn how and why of Builder Design Pattern in kotlin?](https://www.reddit.com/r/Kotlin/comments/ypiidc/wanna_learn_how_and_why_of_builder_design_pattern/)
-- [Why is Sequence built using generateSequence constrained to run only once?](https://www.reddit.com/r/Kotlin/comments/ypfkmq/why_is_sequence_built_using_generatesequence/)
-- [Making a rest API using KMongo, wondering when I should actually establish my connection to the database](https://www.reddit.com/r/Kotlin/comments/yp7u2e/making_a_rest_api_using_kmongo_wondering_when_i/)
-- [How do you use generics with interfaces without having to do &quot;as&quot; all the time?](https://www.reddit.com/r/Kotlin/comments/yoywx8/how_do_you_use_generics_with_interfaces_without/)
-- [WHAT I SHOULD LEARN](https://www.reddit.com/r/Kotlin/comments/yoxx13/what_i_should_learn/)
-- [Database migrations with SQLDelight and Flyway](https://www.reddit.com/r/Kotlin/comments/yot4q7/database_migrations_with_sqldelight_and_flyway/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
