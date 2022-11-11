@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to abstract out a method that does very similar operations on two different properties of the same object ?](https://www.reddit.com/r/Kotlin/comments/yrz8bl/how_to_abstract_out_a_method_that_does_very/)
+- [solo learn problem - unable to figure it out :&lpar;](https://www.reddit.com/r/Kotlin/comments/yrwyas/solo_learn_problem_unable_to_figure_it_out/)
+- [Announcing Multiplatform Paging](https://www.reddit.com/r/Kotlin/comments/yrfo61/announcing_multiplatform_paging/)
 - [Quarkus and Kotlin, have you used in Production? Tell me how was the experience!](https://www.reddit.com/r/Kotlin/comments/yqzpl5/quarkus_and_kotlin_have_you_used_in_production/)
 - [Android app that reads your wifi strength](https://www.reddit.com/r/Kotlin/comments/yqsd0g/android_app_that_reads_your_wifi_strength/)
 - [Actions as data by Alejandro Serrano @ Func Prog Sweden](https://www.reddit.com/r/Kotlin/comments/yqpv5n/actions_as_data_by_alejandro_serrano_func_prog/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin/Native to C dylib : How to access class members in an instance object which returned by a method?](https://www.reddit.com/r/Kotlin/comments/yqbqgu/kotlinnative_to_c_dylib_how_to_access_class/)
 - [has anyone tried Big Nerd Ranch Kotlin book?](https://www.reddit.com/r/Kotlin/comments/yprymq/has_anyone_tried_big_nerd_ranch_kotlin_book/)
 - [Easy Android SharedPreferences with Delegated Properties](https://www.reddit.com/r/Kotlin/comments/yppa56/easy_android_sharedpreferences_with_delegated/)
-- [We released spring-componentmap &lpar;0.1.0&rpar; - A JVM library for Map&lpar;s&rpar; injection with Spring](https://www.reddit.com/r/Kotlin/comments/ypmc2o/we_released_springcomponentmap_010_a_jvm_library/)
-- [KMM setup issue for M1 chip](https://www.reddit.com/r/Kotlin/comments/ypjd0s/kmm_setup_issue_for_m1_chip/)
-- [Wanna learn how and why of Builder Design Pattern in kotlin?](https://www.reddit.com/r/Kotlin/comments/ypiidc/wanna_learn_how_and_why_of_builder_design_pattern/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
