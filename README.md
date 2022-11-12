@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/Native as a dynamic library : detailed tutorial with build steps for C using Cmake and linking build dylibs in Mac M1+](https://www.reddit.com/r/Kotlin/comments/ysjwe0/kotlinnative_as_a_dynamic_library_detailed/)
+- [need help](https://www.reddit.com/r/Kotlin/comments/yshw3z/need_help/)
+- [Mocking framework authors hate it when you use this one weird trick](https://www.reddit.com/r/Kotlin/comments/ysfqby/mocking_framework_authors_hate_it_when_you_use/)
+- [/kotlin doesnot support readline&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/ysbufb/kotlin_doesnot_support_readline/)
+- [Kotlin Native and GraalVM](https://www.reddit.com/r/Kotlin/comments/ysauuc/kotlin_native_and_graalvm/)
+- [i have a problem with in app update &lpar;immediate&rpar; when the app updated it didn&#39;t restart the ui as it said in android documentation?](https://www.reddit.com/r/Kotlin/comments/ys9ydy/i_have_a_problem_with_in_app_update_immediate/)
+- [Creating a simple recycler view using adapter but only the last data shows up](https://www.reddit.com/r/Kotlin/comments/ys6xab/creating_a_simple_recycler_view_using_adapter_but/)
+- [WorldWind Kotlin 1.1.0 released! Start your KMP map application today with the first open-source multi-platform 3D globe SDK. A bunch of stability fixes implemented.](https://www.reddit.com/r/Kotlin/comments/ys6m54/worldwind_kotlin_110_released_start_your_kmp_map/)
+- [If Kotlin Runs on the JVM Just Like Java, Then How Does It Provide So Many Great Features?](https://www.reddit.com/r/Kotlin/comments/ys4loh/if_kotlin_runs_on_the_jvm_just_like_java_then_how/)
 - [How to abstract out a method that does very similar operations on two different properties of the same object ?](https://www.reddit.com/r/Kotlin/comments/yrz8bl/how_to_abstract_out_a_method_that_does_very/)
-- [solo learn problem - unable to figure it out :&lpar;](https://www.reddit.com/r/Kotlin/comments/yrwyas/solo_learn_problem_unable_to_figure_it_out/)
-- [Announcing Multiplatform Paging](https://www.reddit.com/r/Kotlin/comments/yrfo61/announcing_multiplatform_paging/)
-- [Quarkus and Kotlin, have you used in Production? Tell me how was the experience!](https://www.reddit.com/r/Kotlin/comments/yqzpl5/quarkus_and_kotlin_have_you_used_in_production/)
-- [Android app that reads your wifi strength](https://www.reddit.com/r/Kotlin/comments/yqsd0g/android_app_that_reads_your_wifi_strength/)
-- [Actions as data by Alejandro Serrano @ Func Prog Sweden](https://www.reddit.com/r/Kotlin/comments/yqpv5n/actions_as_data_by_alejandro_serrano_func_prog/)
-- [Is f&lpar;::g&rpar; more efficient than f { g&lpar;it&rpar; }?](https://www.reddit.com/r/Kotlin/comments/yqn5i1/is_fg_more_efficient_than_f_git/)
-- [Kotlin/Native to C dylib : How to access class members in an instance object which returned by a method?](https://www.reddit.com/r/Kotlin/comments/yqbqgu/kotlinnative_to_c_dylib_how_to_access_class/)
-- [has anyone tried Big Nerd Ranch Kotlin book?](https://www.reddit.com/r/Kotlin/comments/yprymq/has_anyone_tried_big_nerd_ranch_kotlin_book/)
-- [Easy Android SharedPreferences with Delegated Properties](https://www.reddit.com/r/Kotlin/comments/yppa56/easy_android_sharedpreferences_with_delegated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
