@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin and Java Loom. Will Kotlin benefit from virtual threads?](https://www.reddit.com/r/Kotlin/comments/yugrb2/kotlin_and_java_loom_will_kotlin_benefit_from/)
+- [Porting Million Lines of Code from Java to Kotlin at Meta](https://www.reddit.com/r/Kotlin/comments/yug1t7/porting_million_lines_of_code_from_java_to_kotlin/)
+- [Learning Kotlin first?](https://www.reddit.com/r/Kotlin/comments/yuao20/learning_kotlin_first/)
+- [Kotlin/Native : How to import entire GTK4 Libs and headers to Kotlin Native C Interop?](https://www.reddit.com/r/Kotlin/comments/yu8mca/kotlinnative_how_to_import_entire_gtk4_libs_and/)
+- [Unresolved reference: kotlinx error when I tried to run Main.kt](https://www.reddit.com/r/Kotlin/comments/yu63v8/unresolved_reference_kotlinx_error_when_i_tried/)
+- [[Exposed] Write correct many-to-many relationships](https://www.reddit.com/r/Kotlin/comments/yu0mk1/exposed_write_correct_manytomany_relationships/)
 - [hyperskills : difference between free basic track and paid developer track?](https://www.reddit.com/r/Kotlin/comments/ytmsf7/hyperskills_difference_between_free_basic_track/)
 - [Kweb, the simple but powerful Kotlin web framework, releases version 1.1.5 and passes 800 stars on Github](https://www.reddit.com/r/Kotlin/comments/yt8k28/kweb_the_simple_but_powerful_kotlin_web_framework/)
 - [Tips how to speed up KotlinJS compilation?](https://www.reddit.com/r/Kotlin/comments/yt243j/tips_how_to_speed_up_kotlinjs_compilation/)
 - [Kotlin/Native as a dynamic library : detailed tutorial with build steps for C using Cmake and linking build dylibs in Mac M1+](https://www.reddit.com/r/Kotlin/comments/ysjwe0/kotlinnative_as_a_dynamic_library_detailed/)
-- [need help](https://www.reddit.com/r/Kotlin/comments/yshw3z/need_help/)
-- [Mocking framework authors hate it when you use this one weird trick](https://www.reddit.com/r/Kotlin/comments/ysfqby/mocking_framework_authors_hate_it_when_you_use/)
-- [/kotlin doesnot support readline&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/ysbufb/kotlin_doesnot_support_readline/)
-- [Kotlin Native and GraalVM](https://www.reddit.com/r/Kotlin/comments/ysauuc/kotlin_native_and_graalvm/)
-- [i have a problem with in app update &lpar;immediate&rpar; when the app updated it didn&#39;t restart the ui as it said in android documentation?](https://www.reddit.com/r/Kotlin/comments/ys9ydy/i_have_a_problem_with_in_app_update_immediate/)
-- [Creating a simple recycler view using adapter but only the last data shows up](https://www.reddit.com/r/Kotlin/comments/ys6xab/creating_a_simple_recycler_view_using_adapter_but/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
