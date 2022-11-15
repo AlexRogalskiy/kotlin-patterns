@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why Kotlin/Native C Interop not supporting C Preprocessors such as Macros ?](https://www.reddit.com/r/Kotlin/comments/yuy0kw/why_kotlinnative_c_interop_not_supporting_c/)
+- [Accelerometer doesn&#39;t move the object properly in the right direction.](https://www.reddit.com/r/Kotlin/comments/yuwfwr/accelerometer_doesnt_move_the_object_properly_in/)
 - [Kotlin and Java Loom. Will Kotlin benefit from virtual threads?](https://www.reddit.com/r/Kotlin/comments/yugrb2/kotlin_and_java_loom_will_kotlin_benefit_from/)
 - [Porting Million Lines of Code from Java to Kotlin at Meta](https://www.reddit.com/r/Kotlin/comments/yug1t7/porting_million_lines_of_code_from_java_to_kotlin/)
 - [Learning Kotlin first?](https://www.reddit.com/r/Kotlin/comments/yuao20/learning_kotlin_first/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [[Exposed] Write correct many-to-many relationships](https://www.reddit.com/r/Kotlin/comments/yu0mk1/exposed_write_correct_manytomany_relationships/)
 - [hyperskills : difference between free basic track and paid developer track?](https://www.reddit.com/r/Kotlin/comments/ytmsf7/hyperskills_difference_between_free_basic_track/)
 - [Kweb, the simple but powerful Kotlin web framework, releases version 1.1.5 and passes 800 stars on Github](https://www.reddit.com/r/Kotlin/comments/yt8k28/kweb_the_simple_but_powerful_kotlin_web_framework/)
-- [Tips how to speed up KotlinJS compilation?](https://www.reddit.com/r/Kotlin/comments/yt243j/tips_how_to_speed_up_kotlinjs_compilation/)
-- [Kotlin/Native as a dynamic library : detailed tutorial with build steps for C using Cmake and linking build dylibs in Mac M1+](https://www.reddit.com/r/Kotlin/comments/ysjwe0/kotlinnative_as_a_dynamic_library_detailed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
