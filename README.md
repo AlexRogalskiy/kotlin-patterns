@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Server Side, but without the JVM - Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/yw7xlu/kotlin_server_side_but_without_the_jvm/)
+- [How to create a deep copy of a class that is passed as an interface?](https://www.reddit.com/r/Kotlin/comments/yw4ip2/how_to_create_a_deep_copy_of_a_class_that_is/)
+- [Beginner Kotlin Android Developer Noob](https://www.reddit.com/r/Kotlin/comments/yw1j0s/beginner_kotlin_android_developer_noob/)
+- [textColor not showing on layout](https://www.reddit.com/r/Kotlin/comments/yvnct2/textcolor_not_showing_on_layout/)
 - [Why Kotlin/Native C Interop not supporting C Preprocessors such as Macros ?](https://www.reddit.com/r/Kotlin/comments/yuy0kw/why_kotlinnative_c_interop_not_supporting_c/)
 - [Accelerometer doesn&#39;t move the object properly in the right direction.](https://www.reddit.com/r/Kotlin/comments/yuwfwr/accelerometer_doesnt_move_the_object_properly_in/)
 - [Kotlin and Java Loom. Will Kotlin benefit from virtual threads?](https://www.reddit.com/r/Kotlin/comments/yugrb2/kotlin_and_java_loom_will_kotlin_benefit_from/)
 - [Porting Million Lines of Code from Java to Kotlin at Meta](https://www.reddit.com/r/Kotlin/comments/yug1t7/porting_million_lines_of_code_from_java_to_kotlin/)
 - [Learning Kotlin first?](https://www.reddit.com/r/Kotlin/comments/yuao20/learning_kotlin_first/)
 - [Kotlin/Native : How to import entire GTK4 Libs and headers to Kotlin Native C Interop?](https://www.reddit.com/r/Kotlin/comments/yu8mca/kotlinnative_how_to_import_entire_gtk4_libs_and/)
-- [Unresolved reference: kotlinx error when I tried to run Main.kt](https://www.reddit.com/r/Kotlin/comments/yu63v8/unresolved_reference_kotlinx_error_when_i_tried/)
-- [[Exposed] Write correct many-to-many relationships](https://www.reddit.com/r/Kotlin/comments/yu0mk1/exposed_write_correct_manytomany_relationships/)
-- [hyperskills : difference between free basic track and paid developer track?](https://www.reddit.com/r/Kotlin/comments/ytmsf7/hyperskills_difference_between_free_basic_track/)
-- [Kweb, the simple but powerful Kotlin web framework, releases version 1.1.5 and passes 800 stars on Github](https://www.reddit.com/r/Kotlin/comments/yt8k28/kweb_the_simple_but_powerful_kotlin_web_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
