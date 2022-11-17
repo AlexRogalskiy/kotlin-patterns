@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How Kotlin fixed Java&#39;s unsound arrays: invariance, covariance and contravariance in 3 minutes](https://www.reddit.com/r/Kotlin/comments/yx33pb/how_kotlin_fixed_javas_unsound_arrays_invariance/)
+- [plsss help me debug thissss](https://www.reddit.com/r/Kotlin/comments/yx22h1/plsss_help_me_debug_thissss/)
+- [Scala vs Kotlin for Stream Processing](https://www.reddit.com/r/Kotlin/comments/ywz0vm/scala_vs_kotlin_for_stream_processing/)
+- [Why am I unable to bind my analyze&lpar;&rpar; method to lifecycle? &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/ywxlny/why_am_i_unable_to_bind_my_analyze_method_to/)
+- [is kotlin going to grow in popularity?](https://www.reddit.com/r/Kotlin/comments/ywjwq5/is_kotlin_going_to_grow_in_popularity/)
 - [Kotlin Server Side, but without the JVM - Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/yw7xlu/kotlin_server_side_but_without_the_jvm/)
 - [How to create a deep copy of a class that is passed as an interface?](https://www.reddit.com/r/Kotlin/comments/yw4ip2/how_to_create_a_deep_copy_of_a_class_that_is/)
 - [Beginner Kotlin Android Developer Noob](https://www.reddit.com/r/Kotlin/comments/yw1j0s/beginner_kotlin_android_developer_noob/)
 - [textColor not showing on layout](https://www.reddit.com/r/Kotlin/comments/yvnct2/textcolor_not_showing_on_layout/)
 - [Why Kotlin/Native C Interop not supporting C Preprocessors such as Macros ?](https://www.reddit.com/r/Kotlin/comments/yuy0kw/why_kotlinnative_c_interop_not_supporting_c/)
-- [Accelerometer doesn&#39;t move the object properly in the right direction.](https://www.reddit.com/r/Kotlin/comments/yuwfwr/accelerometer_doesnt_move_the_object_properly_in/)
-- [Kotlin and Java Loom. Will Kotlin benefit from virtual threads?](https://www.reddit.com/r/Kotlin/comments/yugrb2/kotlin_and_java_loom_will_kotlin_benefit_from/)
-- [Porting Million Lines of Code from Java to Kotlin at Meta](https://www.reddit.com/r/Kotlin/comments/yug1t7/porting_million_lines_of_code_from_java_to_kotlin/)
-- [Learning Kotlin first?](https://www.reddit.com/r/Kotlin/comments/yuao20/learning_kotlin_first/)
-- [Kotlin/Native : How to import entire GTK4 Libs and headers to Kotlin Native C Interop?](https://www.reddit.com/r/Kotlin/comments/yu8mca/kotlinnative_how_to_import_entire_gtk4_libs_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
