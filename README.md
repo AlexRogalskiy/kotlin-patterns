@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can&#39;t Create Tar File from build.gradle.kts](https://www.reddit.com/r/Kotlin/comments/yy3j3f/cant_create_tar_file_from_buildgradlekts/)
+- [Assignment of real programmer tasks in Kotlin?](https://www.reddit.com/r/Kotlin/comments/yy26y0/assignment_of_real_programmer_tasks_in_kotlin/)
+- [Is it possible to access Web APIs from Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/yxw34e/is_it_possible_to_access_web_apis_from_kotlinjs/)
+- [GitHub - DuartBreedt/Android-Concepts-Reference-Kotlin: A single repository to learn the basics of Android in Kotlin without all the fluff.](https://www.reddit.com/r/Kotlin/comments/yxu5ll/github_duartbreedtandroidconceptsreferencekotlin/)
+- [I am getting TLE. Is there any better way?](https://www.reddit.com/r/Kotlin/comments/yxmkbv/i_am_getting_tle_is_there_any_better_way/)
 - [How Kotlin fixed Java&#39;s unsound arrays: invariance, covariance and contravariance in 3 minutes](https://www.reddit.com/r/Kotlin/comments/yx33pb/how_kotlin_fixed_javas_unsound_arrays_invariance/)
 - [plsss help me debug thissss](https://www.reddit.com/r/Kotlin/comments/yx22h1/plsss_help_me_debug_thissss/)
 - [Scala vs Kotlin for Stream Processing](https://www.reddit.com/r/Kotlin/comments/ywz0vm/scala_vs_kotlin_for_stream_processing/)
 - [Why am I unable to bind my analyze&lpar;&rpar; method to lifecycle? &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/ywxlny/why_am_i_unable_to_bind_my_analyze_method_to/)
 - [is kotlin going to grow in popularity?](https://www.reddit.com/r/Kotlin/comments/ywjwq5/is_kotlin_going_to_grow_in_popularity/)
-- [Kotlin Server Side, but without the JVM - Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/yw7xlu/kotlin_server_side_but_without_the_jvm/)
-- [How to create a deep copy of a class that is passed as an interface?](https://www.reddit.com/r/Kotlin/comments/yw4ip2/how_to_create_a_deep_copy_of_a_class_that_is/)
-- [Beginner Kotlin Android Developer Noob](https://www.reddit.com/r/Kotlin/comments/yw1j0s/beginner_kotlin_android_developer_noob/)
-- [textColor not showing on layout](https://www.reddit.com/r/Kotlin/comments/yvnct2/textcolor_not_showing_on_layout/)
-- [Why Kotlin/Native C Interop not supporting C Preprocessors such as Macros ?](https://www.reddit.com/r/Kotlin/comments/yuy0kw/why_kotlinnative_c_interop_not_supporting_c/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
