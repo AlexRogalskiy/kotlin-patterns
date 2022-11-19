@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose for desktop: Is it possible to use Scicharts? &lpar;Or other stock chart libs&rpar;](https://www.reddit.com/r/Kotlin/comments/yyy4fy/compose_for_desktop_is_it_possible_to_use/)
+- [How can I create Kotlin/JS with React multipage full-stack app? &lpar;sth similar to NextJS&rpar;](https://www.reddit.com/r/Kotlin/comments/yytol9/how_can_i_create_kotlinjs_with_react_multipage/)
+- [Using First-class Functions to Fake Effects](https://www.reddit.com/r/Kotlin/comments/yyopam/using_firstclass_functions_to_fake_effects/)
+- [How Kotlin Is Going To Fix Your Pains in 2023](https://www.reddit.com/r/Kotlin/comments/yyjzoa/how_kotlin_is_going_to_fix_your_pains_in_2023/)
 - [Can&#39;t Create Tar File from build.gradle.kts](https://www.reddit.com/r/Kotlin/comments/yy3j3f/cant_create_tar_file_from_buildgradlekts/)
 - [Assignment of real programmer tasks in Kotlin?](https://www.reddit.com/r/Kotlin/comments/yy26y0/assignment_of_real_programmer_tasks_in_kotlin/)
 - [Is it possible to access Web APIs from Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/yxw34e/is_it_possible_to_access_web_apis_from_kotlinjs/)
 - [GitHub - DuartBreedt/Android-Concepts-Reference-Kotlin: A single repository to learn the basics of Android in Kotlin without all the fluff.](https://www.reddit.com/r/Kotlin/comments/yxu5ll/github_duartbreedtandroidconceptsreferencekotlin/)
 - [I am getting TLE. Is there any better way?](https://www.reddit.com/r/Kotlin/comments/yxmkbv/i_am_getting_tle_is_there_any_better_way/)
 - [How Kotlin fixed Java&#39;s unsound arrays: invariance, covariance and contravariance in 3 minutes](https://www.reddit.com/r/Kotlin/comments/yx33pb/how_kotlin_fixed_javas_unsound_arrays_invariance/)
-- [plsss help me debug thissss](https://www.reddit.com/r/Kotlin/comments/yx22h1/plsss_help_me_debug_thissss/)
-- [Scala vs Kotlin for Stream Processing](https://www.reddit.com/r/Kotlin/comments/ywz0vm/scala_vs_kotlin_for_stream_processing/)
-- [Why am I unable to bind my analyze&lpar;&rpar; method to lifecycle? &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/ywxlny/why_am_i_unable_to_bind_my_analyze_method_to/)
-- [is kotlin going to grow in popularity?](https://www.reddit.com/r/Kotlin/comments/ywjwq5/is_kotlin_going_to_grow_in_popularity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
