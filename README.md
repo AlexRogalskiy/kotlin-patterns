@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any way to make operators always available for kotlinx collections?](https://www.reddit.com/r/Kotlin/comments/yzpwla/any_way_to_make_operators_always_available_for/)
+- [Migration from Scala to Kotlin](https://www.reddit.com/r/Kotlin/comments/yzh6ig/migration_from_scala_to_kotlin/)
 - [Compose for desktop: Is it possible to use Scicharts? &lpar;Or other stock chart libs&rpar;](https://www.reddit.com/r/Kotlin/comments/yyy4fy/compose_for_desktop_is_it_possible_to_use/)
 - [How can I create Kotlin/JS with React multipage full-stack app? &lpar;sth similar to NextJS&rpar;](https://www.reddit.com/r/Kotlin/comments/yytol9/how_can_i_create_kotlinjs_with_react_multipage/)
 - [Using First-class Functions to Fake Effects](https://www.reddit.com/r/Kotlin/comments/yyopam/using_firstclass_functions_to_fake_effects/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Assignment of real programmer tasks in Kotlin?](https://www.reddit.com/r/Kotlin/comments/yy26y0/assignment_of_real_programmer_tasks_in_kotlin/)
 - [Is it possible to access Web APIs from Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/yxw34e/is_it_possible_to_access_web_apis_from_kotlinjs/)
 - [GitHub - DuartBreedt/Android-Concepts-Reference-Kotlin: A single repository to learn the basics of Android in Kotlin without all the fluff.](https://www.reddit.com/r/Kotlin/comments/yxu5ll/github_duartbreedtandroidconceptsreferencekotlin/)
-- [I am getting TLE. Is there any better way?](https://www.reddit.com/r/Kotlin/comments/yxmkbv/i_am_getting_tle_is_there_any_better_way/)
-- [How Kotlin fixed Java&#39;s unsound arrays: invariance, covariance and contravariance in 3 minutes](https://www.reddit.com/r/Kotlin/comments/yx33pb/how_kotlin_fixed_javas_unsound_arrays_invariance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
