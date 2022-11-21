@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best Kotlin Books for Beginners and Developers Must know 2022 -](https://www.reddit.com/r/Kotlin/comments/z0meqw/best_kotlin_books_for_beginners_and_developers/)
+- [Source tree on rootproject vs a module](https://www.reddit.com/r/Kotlin/comments/z0d6x4/source_tree_on_rootproject_vs_a_module/)
+- [What is Dispatchers.Default&#39;s maximum number of threads when run on a phone with a single core CPU?](https://www.reddit.com/r/Kotlin/comments/z02i23/what_is_dispatchersdefaults_maximum_number_of/)
+- [compose desktop wayland](https://www.reddit.com/r/Kotlin/comments/z00ute/compose_desktop_wayland/)
+- [Kotlin work with Date/Time](https://www.reddit.com/r/Kotlin/comments/z00ppo/kotlin_work_with_datetime/)
+- [What should both the type of &quot;other&quot; and the return type of arithmetic functions be?](https://www.reddit.com/r/Kotlin/comments/yzx14e/what_should_both_the_type_of_other_and_the_return/)
 - [Any way to make operators always available for kotlinx collections?](https://www.reddit.com/r/Kotlin/comments/yzpwla/any_way_to_make_operators_always_available_for/)
 - [Migration from Scala to Kotlin](https://www.reddit.com/r/Kotlin/comments/yzh6ig/migration_from_scala_to_kotlin/)
 - [Compose for desktop: Is it possible to use Scicharts? &lpar;Or other stock chart libs&rpar;](https://www.reddit.com/r/Kotlin/comments/yyy4fy/compose_for_desktop_is_it_possible_to_use/)
 - [How can I create Kotlin/JS with React multipage full-stack app? &lpar;sth similar to NextJS&rpar;](https://www.reddit.com/r/Kotlin/comments/yytol9/how_can_i_create_kotlinjs_with_react_multipage/)
-- [Using First-class Functions to Fake Effects](https://www.reddit.com/r/Kotlin/comments/yyopam/using_firstclass_functions_to_fake_effects/)
-- [How Kotlin Is Going To Fix Your Pains in 2023](https://www.reddit.com/r/Kotlin/comments/yyjzoa/how_kotlin_is_going_to_fix_your_pains_in_2023/)
-- [Can&#39;t Create Tar File from build.gradle.kts](https://www.reddit.com/r/Kotlin/comments/yy3j3f/cant_create_tar_file_from_buildgradlekts/)
-- [Assignment of real programmer tasks in Kotlin?](https://www.reddit.com/r/Kotlin/comments/yy26y0/assignment_of_real_programmer_tasks_in_kotlin/)
-- [Is it possible to access Web APIs from Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/yxw34e/is_it_possible_to_access_web_apis_from_kotlinjs/)
-- [GitHub - DuartBreedt/Android-Concepts-Reference-Kotlin: A single repository to learn the basics of Android in Kotlin without all the fluff.](https://www.reddit.com/r/Kotlin/comments/yxu5ll/github_duartbreedtandroidconceptsreferencekotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
