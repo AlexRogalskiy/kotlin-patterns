@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best Kotlin Books for Beginners and Developers Must know 2022 -](https://www.reddit.com/r/Kotlin/comments/z0meqw/best_kotlin_books_for_beginners_and_developers/)
+- [Difference between calling coroutineScope { } and launch { } without specifying dispatchers?](https://www.reddit.com/r/Kotlin/comments/z1dqmr/difference_between_calling_coroutinescope_and/)
+- [How We Sped Up Zipline Hot Reload](https://www.reddit.com/r/Kotlin/comments/z17oqo/how_we_sped_up_zipline_hot_reload/)
+- [ArrowKt/FP - Tracking paths to validation errors](https://www.reddit.com/r/Kotlin/comments/z0yler/arrowktfp_tracking_paths_to_validation_errors/)
+- [Gradle Version Catalogs](https://www.reddit.com/r/Kotlin/comments/z0sf4v/gradle_version_catalogs/)
 - [Source tree on rootproject vs a module](https://www.reddit.com/r/Kotlin/comments/z0d6x4/source_tree_on_rootproject_vs_a_module/)
 - [What is Dispatchers.Default&#39;s maximum number of threads when run on a phone with a single core CPU?](https://www.reddit.com/r/Kotlin/comments/z02i23/what_is_dispatchersdefaults_maximum_number_of/)
 - [compose desktop wayland](https://www.reddit.com/r/Kotlin/comments/z00ute/compose_desktop_wayland/)
 - [Kotlin work with Date/Time](https://www.reddit.com/r/Kotlin/comments/z00ppo/kotlin_work_with_datetime/)
 - [What should both the type of &quot;other&quot; and the return type of arithmetic functions be?](https://www.reddit.com/r/Kotlin/comments/yzx14e/what_should_both_the_type_of_other_and_the_return/)
 - [Any way to make operators always available for kotlinx collections?](https://www.reddit.com/r/Kotlin/comments/yzpwla/any_way_to_make_operators_always_available_for/)
-- [Migration from Scala to Kotlin](https://www.reddit.com/r/Kotlin/comments/yzh6ig/migration_from_scala_to_kotlin/)
-- [Compose for desktop: Is it possible to use Scicharts? &lpar;Or other stock chart libs&rpar;](https://www.reddit.com/r/Kotlin/comments/yyy4fy/compose_for_desktop_is_it_possible_to_use/)
-- [How can I create Kotlin/JS with React multipage full-stack app? &lpar;sth similar to NextJS&rpar;](https://www.reddit.com/r/Kotlin/comments/yytol9/how_can_i_create_kotlinjs_with_react_multipage/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
