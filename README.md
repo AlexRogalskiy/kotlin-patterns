@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Theory behind Jetpack Compose: What are those elements?](https://www.reddit.com/r/Kotlin/comments/z2al5d/kotlin_theory_behind_jetpack_compose_what_are/)
+- [Using fuel with kotlin-serialization and coroutines](https://www.reddit.com/r/Kotlin/comments/z21h20/using_fuel_with_kotlinserialization_and_coroutines/)
+- [The new episode of Talking Kotlin is right around the corner! We chat with the engineers from Mongo and realm as they demo their new multiplatform product. Enjoy the episode and take part in the competition to get a chance to win a Kotlin T-shirt!](https://www.reddit.com/r/Kotlin/comments/z1x2yd/the_new_episode_of_talking_kotlin_is_right_around/)
+- [Annotation Error](https://www.reddit.com/r/Kotlin/comments/z1tazw/annotation_error/)
+- [Is it bad practice to write methods for a class that only do the job of an attribute of said class?](https://www.reddit.com/r/Kotlin/comments/z1k82f/is_it_bad_practice_to_write_methods_for_a_class/)
 - [Difference between calling coroutineScope { } and launch { } without specifying dispatchers?](https://www.reddit.com/r/Kotlin/comments/z1dqmr/difference_between_calling_coroutinescope_and/)
 - [How We Sped Up Zipline Hot Reload](https://www.reddit.com/r/Kotlin/comments/z17oqo/how_we_sped_up_zipline_hot_reload/)
 - [ArrowKt/FP - Tracking paths to validation errors](https://www.reddit.com/r/Kotlin/comments/z0yler/arrowktfp_tracking_paths_to_validation_errors/)
 - [Gradle Version Catalogs](https://www.reddit.com/r/Kotlin/comments/z0sf4v/gradle_version_catalogs/)
 - [Source tree on rootproject vs a module](https://www.reddit.com/r/Kotlin/comments/z0d6x4/source_tree_on_rootproject_vs_a_module/)
-- [What is Dispatchers.Default&#39;s maximum number of threads when run on a phone with a single core CPU?](https://www.reddit.com/r/Kotlin/comments/z02i23/what_is_dispatchersdefaults_maximum_number_of/)
-- [compose desktop wayland](https://www.reddit.com/r/Kotlin/comments/z00ute/compose_desktop_wayland/)
-- [Kotlin work with Date/Time](https://www.reddit.com/r/Kotlin/comments/z00ppo/kotlin_work_with_datetime/)
-- [What should both the type of &quot;other&quot; and the return type of arithmetic functions be?](https://www.reddit.com/r/Kotlin/comments/yzx14e/what_should_both_the_type_of_other_and_the_return/)
-- [Any way to make operators always available for kotlinx collections?](https://www.reddit.com/r/Kotlin/comments/yzpwla/any_way_to_make_operators_always_available_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
