@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin Theory behind Jetpack Compose: What are those elements?](https://www.reddit.com/r/Kotlin/comments/z2al5d/kotlin_theory_behind_jetpack_compose_what_are/)
-- [Using fuel with kotlin-serialization and coroutines](https://www.reddit.com/r/Kotlin/comments/z21h20/using_fuel_with_kotlinserialization_and_coroutines/)
-- [The new episode of Talking Kotlin is right around the corner! We chat with the engineers from Mongo and realm as they demo their new multiplatform product. Enjoy the episode and take part in the competition to get a chance to win a Kotlin T-shirt!](https://www.reddit.com/r/Kotlin/comments/z1x2yd/the_new_episode_of_talking_kotlin_is_right_around/)
-- [Annotation Error](https://www.reddit.com/r/Kotlin/comments/z1tazw/annotation_error/)
-- [Is it bad practice to write methods for a class that only do the job of an attribute of said class?](https://www.reddit.com/r/Kotlin/comments/z1k82f/is_it_bad_practice_to_write_methods_for_a_class/)
-- [Difference between calling coroutineScope { } and launch { } without specifying dispatchers?](https://www.reddit.com/r/Kotlin/comments/z1dqmr/difference_between_calling_coroutinescope_and/)
-- [How We Sped Up Zipline Hot Reload](https://www.reddit.com/r/Kotlin/comments/z17oqo/how_we_sped_up_zipline_hot_reload/)
-- [ArrowKt/FP - Tracking paths to validation errors](https://www.reddit.com/r/Kotlin/comments/z0yler/arrowktfp_tracking_paths_to_validation_errors/)
-- [Gradle Version Catalogs](https://www.reddit.com/r/Kotlin/comments/z0sf4v/gradle_version_catalogs/)
-- [Source tree on rootproject vs a module](https://www.reddit.com/r/Kotlin/comments/z0d6x4/source_tree_on_rootproject_vs_a_module/)
+- [Recommended Ktor Project Generator Plugins](https://www.reddit.com/r/Kotlin/comments/z36xau/recommended_ktor_project_generator_plugins/)
+- [is there any express js like backend framework for Kotlin?](https://www.reddit.com/r/Kotlin/comments/z2zg65/is_there_any_express_js_like_backend_framework/)
+- [Build desktop applications with JetBrains&#39; new UI style and Compose Desktop](https://www.reddit.com/r/Kotlin/comments/z2wsgc/build_desktop_applications_with_jetbrains_new_ui/)
+- [Join us for a new episode of &quot;A Touch Of Multiplatform!&quot; 🎥 Tomorrow, we&#39;ll be talking with Jake and Jesse about their experience with Kotlin Multiplatform in Cash App. Save the date! 👇](https://www.reddit.com/r/Kotlin/comments/z2uh1l/join_us_for_a_new_episode_of_a_touch_of/)
+- [We Are Looking For EAP Champions!](https://www.reddit.com/r/Kotlin/comments/z2slnv/we_are_looking_for_eap_champions/)
+- [Example Repository about Kotlin Coroutines and Flow on Android - Learning Kotlin Coroutines and Flows for Android by example. Sample implementations for real-world Android use cases.](https://www.reddit.com/r/Kotlin/comments/z2rmex/example_repository_about_kotlin_coroutines_and/)
+- [What is a Flow in Kotlin?](https://www.reddit.com/r/Kotlin/comments/z2rl1v/what_is_a_flow_in_kotlin/)
+- [A Tour of the Modern Java Platform • James Ward &amp; Ryan Knight](https://www.reddit.com/r/Kotlin/comments/z2p5sl/a_tour_of_the_modern_java_platform_james_ward/)
+- [Is there a clean way to flatten a List&lt;Set&lt;T&gt;&gt; to Set&lt;T&gt;](https://www.reddit.com/r/Kotlin/comments/z2ngfe/is_there_a_clean_way_to_flatten_a_listsett_to_sett/)
+- [Best Kotlin courses in 2022?](https://www.reddit.com/r/Kotlin/comments/z2llu3/best_kotlin_courses_in_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
