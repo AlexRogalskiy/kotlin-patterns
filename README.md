@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TF-IDF](https://www.reddit.com/r/Kotlin/comments/z3tw2r/tfidf/)
+- [Additional Monads not defined in Arrow](https://www.reddit.com/r/Kotlin/comments/z3qwxa/additional_monads_not_defined_in_arrow/)
+- [KMM UUID library discussion, best way to store 128bits](https://www.reddit.com/r/Kotlin/comments/z3qbou/kmm_uuid_library_discussion_best_way_to_store/)
+- [how to reference xml fields?](https://www.reddit.com/r/Kotlin/comments/z3niq3/how_to_reference_xml_fields/)
+- [Making appp](https://www.reddit.com/r/Kotlin/comments/z3jsxr/making_appp/)
 - [Recommended Ktor Project Generator Plugins](https://www.reddit.com/r/Kotlin/comments/z36xau/recommended_ktor_project_generator_plugins/)
 - [is there any express js like backend framework for Kotlin?](https://www.reddit.com/r/Kotlin/comments/z2zg65/is_there_any_express_js_like_backend_framework/)
 - [Build desktop applications with JetBrains&#39; new UI style and Compose Desktop](https://www.reddit.com/r/Kotlin/comments/z2wsgc/build_desktop_applications_with_jetbrains_new_ui/)
 - [Join us for a new episode of &quot;A Touch Of Multiplatform!&quot; 🎥 Tomorrow, we&#39;ll be talking with Jake and Jesse about their experience with Kotlin Multiplatform in Cash App. Save the date! 👇](https://www.reddit.com/r/Kotlin/comments/z2uh1l/join_us_for_a_new_episode_of_a_touch_of/)
 - [We Are Looking For EAP Champions!](https://www.reddit.com/r/Kotlin/comments/z2slnv/we_are_looking_for_eap_champions/)
-- [Example Repository about Kotlin Coroutines and Flow on Android - Learning Kotlin Coroutines and Flows for Android by example. Sample implementations for real-world Android use cases.](https://www.reddit.com/r/Kotlin/comments/z2rmex/example_repository_about_kotlin_coroutines_and/)
-- [What is a Flow in Kotlin?](https://www.reddit.com/r/Kotlin/comments/z2rl1v/what_is_a_flow_in_kotlin/)
-- [A Tour of the Modern Java Platform • James Ward &amp; Ryan Knight](https://www.reddit.com/r/Kotlin/comments/z2p5sl/a_tour_of_the_modern_java_platform_james_ward/)
-- [Is there a clean way to flatten a List&lt;Set&lt;T&gt;&gt; to Set&lt;T&gt;](https://www.reddit.com/r/Kotlin/comments/z2ngfe/is_there_a_clean_way_to_flatten_a_listsett_to_sett/)
-- [Best Kotlin courses in 2022?](https://www.reddit.com/r/Kotlin/comments/z2llu3/best_kotlin_courses_in_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
