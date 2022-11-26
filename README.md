@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The one without a clickbait title](https://www.reddit.com/r/Kotlin/comments/z4j4s3/the_one_without_a_clickbait_title/)
+- [Flow B depends on Flow A. Flow A emits multiple values and only one of them should trigger Flow B. How do I do this? Docs talk about flatMap but I honestly don&#39;t understand how to make that fit for my specific case](https://www.reddit.com/r/Kotlin/comments/z4j3z5/flow_b_depends_on_flow_a_flow_a_emits_multiple/)
+- [Kweb 1.2.0 released, with a new more concise syntax for components &lpar;web framework built on Ktor&rpar;](https://www.reddit.com/r/Kotlin/comments/z4ewe7/kweb_120_released_with_a_new_more_concise_syntax/)
+- [Beans to Values](https://www.reddit.com/r/Kotlin/comments/z49na9/beans_to_values/)
+- [Day 0](https://www.reddit.com/r/Kotlin/comments/z47kcc/day_0/)
+- [Ktor vs Node.js, Django, Go etc..](https://www.reddit.com/r/Kotlin/comments/z42mmk/ktor_vs_nodejs_django_go_etc/)
 - [TF-IDF](https://www.reddit.com/r/Kotlin/comments/z3tw2r/tfidf/)
 - [Additional Monads not defined in Arrow](https://www.reddit.com/r/Kotlin/comments/z3qwxa/additional_monads_not_defined_in_arrow/)
 - [KMM UUID library discussion, best way to store 128bits](https://www.reddit.com/r/Kotlin/comments/z3qbou/kmm_uuid_library_discussion_best_way_to_store/)
 - [how to reference xml fields?](https://www.reddit.com/r/Kotlin/comments/z3niq3/how_to_reference_xml_fields/)
-- [Making appp](https://www.reddit.com/r/Kotlin/comments/z3jsxr/making_appp/)
-- [Recommended Ktor Project Generator Plugins](https://www.reddit.com/r/Kotlin/comments/z36xau/recommended_ktor_project_generator_plugins/)
-- [is there any express js like backend framework for Kotlin?](https://www.reddit.com/r/Kotlin/comments/z2zg65/is_there_any_express_js_like_backend_framework/)
-- [Build desktop applications with JetBrains&#39; new UI style and Compose Desktop](https://www.reddit.com/r/Kotlin/comments/z2wsgc/build_desktop_applications_with_jetbrains_new_ui/)
-- [Join us for a new episode of &quot;A Touch Of Multiplatform!&quot; 🎥 Tomorrow, we&#39;ll be talking with Jake and Jesse about their experience with Kotlin Multiplatform in Cash App. Save the date! 👇](https://www.reddit.com/r/Kotlin/comments/z2uh1l/join_us_for_a_new_episode_of_a_touch_of/)
-- [We Are Looking For EAP Champions!](https://www.reddit.com/r/Kotlin/comments/z2slnv/we_are_looking_for_eap_champions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
