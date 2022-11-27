@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is this Data Type?](https://www.reddit.com/r/Kotlin/comments/z5o1r2/what_is_this_data_type/)
+- [Why it is not able to access classes from CommonMain in databinding layout in Kotlin Mutliplatform Mobile project ?](https://www.reddit.com/r/Kotlin/comments/z5d4us/why_it_is_not_able_to_access_classes_from/)
 - [The one without a clickbait title](https://www.reddit.com/r/Kotlin/comments/z4j4s3/the_one_without_a_clickbait_title/)
 - [Flow B depends on Flow A. Flow A emits multiple values and only one of them should trigger Flow B. How do I do this? Docs talk about flatMap but I honestly don&#39;t understand how to make that fit for my specific case](https://www.reddit.com/r/Kotlin/comments/z4j3z5/flow_b_depends_on_flow_a_flow_a_emits_multiple/)
 - [Kweb 1.2.0 released, with a new more concise syntax for components &lpar;web framework built on Ktor&rpar;](https://www.reddit.com/r/Kotlin/comments/z4ewe7/kweb_120_released_with_a_new_more_concise_syntax/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Ktor vs Node.js, Django, Go etc..](https://www.reddit.com/r/Kotlin/comments/z42mmk/ktor_vs_nodejs_django_go_etc/)
 - [TF-IDF](https://www.reddit.com/r/Kotlin/comments/z3tw2r/tfidf/)
 - [Additional Monads not defined in Arrow](https://www.reddit.com/r/Kotlin/comments/z3qwxa/additional_monads_not_defined_in_arrow/)
-- [KMM UUID library discussion, best way to store 128bits](https://www.reddit.com/r/Kotlin/comments/z3qbou/kmm_uuid_library_discussion_best_way_to_store/)
-- [how to reference xml fields?](https://www.reddit.com/r/Kotlin/comments/z3niq3/how_to_reference_xml_fields/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
