@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A few Kotlin constructs](https://www.reddit.com/r/Kotlin/comments/z69lnr/a_few_kotlin_constructs/)
+- [Kotlin DevRoom @ FOSDEM 2023](https://www.reddit.com/r/Kotlin/comments/z67vnq/kotlin_devroom_fosdem_2023/)
+- [How to test ViewModel if flow from RemoteMediator &lpar;paging 3&rpar; library has been collected or implemented in this?](https://www.reddit.com/r/Kotlin/comments/z5x4z1/how_to_test_viewmodel_if_flow_from_remotemediator/)
+- [Kotlin/WASM compiler as library](https://www.reddit.com/r/Kotlin/comments/z5t5hx/kotlinwasm_compiler_as_library/)
 - [What is this Data Type?](https://www.reddit.com/r/Kotlin/comments/z5o1r2/what_is_this_data_type/)
 - [Why it is not able to access classes from CommonMain in databinding layout in Kotlin Mutliplatform Mobile project ?](https://www.reddit.com/r/Kotlin/comments/z5d4us/why_it_is_not_able_to_access_classes_from/)
 - [The one without a clickbait title](https://www.reddit.com/r/Kotlin/comments/z4j4s3/the_one_without_a_clickbait_title/)
 - [Flow B depends on Flow A. Flow A emits multiple values and only one of them should trigger Flow B. How do I do this? Docs talk about flatMap but I honestly don&#39;t understand how to make that fit for my specific case](https://www.reddit.com/r/Kotlin/comments/z4j3z5/flow_b_depends_on_flow_a_flow_a_emits_multiple/)
 - [Kweb 1.2.0 released, with a new more concise syntax for components &lpar;web framework built on Ktor&rpar;](https://www.reddit.com/r/Kotlin/comments/z4ewe7/kweb_120_released_with_a_new_more_concise_syntax/)
 - [Beans to Values](https://www.reddit.com/r/Kotlin/comments/z49na9/beans_to_values/)
-- [Day 0](https://www.reddit.com/r/Kotlin/comments/z47kcc/day_0/)
-- [Ktor vs Node.js, Django, Go etc..](https://www.reddit.com/r/Kotlin/comments/z42mmk/ktor_vs_nodejs_django_go_etc/)
-- [TF-IDF](https://www.reddit.com/r/Kotlin/comments/z3tw2r/tfidf/)
-- [Additional Monads not defined in Arrow](https://www.reddit.com/r/Kotlin/comments/z3qwxa/additional_monads_not_defined_in_arrow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
