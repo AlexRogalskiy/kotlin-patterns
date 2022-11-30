@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about learning Kotling](https://www.reddit.com/r/Kotlin/comments/z88smu/question_about_learning_kotling/)
+- [Take Part in Advent of Code 2022 in Kotlin and Win Prizes!](https://www.reddit.com/r/Kotlin/comments/z81g49/take_part_in_advent_of_code_2022_in_kotlin_and/)
+- [Why learn Kotlin when I can kill it with Flutter?](https://www.reddit.com/r/Kotlin/comments/z7zfrw/why_learn_kotlin_when_i_can_kill_it_with_flutter/)
+- [Learn how to create Flows from Scratch in Kotlin with this video about Flow Builders.](https://www.reddit.com/r/Kotlin/comments/z7y1oo/learn_how_to_create_flows_from_scratch_in_kotlin/)
+- [We released a new version of ShapeShift &lpar;0.7.0&rpar; - A lightweight, modular, performant and extensible library for Object Mapping](https://www.reddit.com/r/Kotlin/comments/z7v54x/we_released_a_new_version_of_shapeshift_070_a/)
+- [Can KMM code be used on web?](https://www.reddit.com/r/Kotlin/comments/z7v1gl/can_kmm_code_be_used_on_web/)
+- [Design Patterns Kotlin](https://www.reddit.com/r/Kotlin/comments/z7qbsu/design_patterns_kotlin/)
+- [Tips and tricks](https://www.reddit.com/r/Kotlin/comments/z7l7r2/tips_and_tricks/)
 - [Survey on cross-platform mobile development frameworks](https://www.reddit.com/r/Kotlin/comments/z780p9/survey_on_crossplatform_mobile_development/)
 - [Is there a community where I can ask questions like why a certain code implementation better than what I did ?](https://www.reddit.com/r/Kotlin/comments/z6uo9g/is_there_a_community_where_i_can_ask_questions/)
-- [Why am I getting &quot;Expecting member declaration&quot; in this class?](https://www.reddit.com/r/Kotlin/comments/z6roty/why_am_i_getting_expecting_member_declaration_in/)
-- [A few Kotlin constructs](https://www.reddit.com/r/Kotlin/comments/z69lnr/a_few_kotlin_constructs/)
-- [Kotlin DevRoom @ FOSDEM 2023](https://www.reddit.com/r/Kotlin/comments/z67vnq/kotlin_devroom_fosdem_2023/)
-- [How to test ViewModel if flow from RemoteMediator &lpar;paging 3&rpar; library has been collected or implemented in this?](https://www.reddit.com/r/Kotlin/comments/z5x4z1/how_to_test_viewmodel_if_flow_from_remotemediator/)
-- [Kotlin/WASM compiler as library](https://www.reddit.com/r/Kotlin/comments/z5t5hx/kotlinwasm_compiler_as_library/)
-- [What is this Data Type?](https://www.reddit.com/r/Kotlin/comments/z5o1r2/what_is_this_data_type/)
-- [Why it is not able to access classes from CommonMain in databinding layout in Kotlin Mutliplatform Mobile project ?](https://www.reddit.com/r/Kotlin/comments/z5d4us/why_it_is_not_able_to_access_classes_from/)
-- [The one without a clickbait title](https://www.reddit.com/r/Kotlin/comments/z4j4s3/the_one_without_a_clickbait_title/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
