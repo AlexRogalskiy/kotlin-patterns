@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Image processing with JavaFX and Batik, as a graph of cacheable subtasks [x-post r/reviewmycode]](https://www.reddit.com/r/Kotlin/comments/z97sek/image_processing_with_javafx_and_batik_as_a_graph/)
+- [Wich factory converter is faster for retrofit 2?](https://www.reddit.com/r/Kotlin/comments/z958h2/wich_factory_converter_is_faster_for_retrofit_2/)
+- [Need someone to point me towards working with AR with Kotlin in Android Studio](https://www.reddit.com/r/Kotlin/comments/z92ucu/need_someone_to_point_me_towards_working_with_ar/)
+- [I am new to Android Dev. What is wrong with the code?](https://www.reddit.com/r/Kotlin/comments/z8yptj/i_am_new_to_android_dev_what_is_wrong_with_the/)
+- [Where do you host your Ktor server as Heroku free plan is over?](https://www.reddit.com/r/Kotlin/comments/z8wbgx/where_do_you_host_your_ktor_server_as_heroku_free/)
+- [Passing Arguments Best Practices](https://www.reddit.com/r/Kotlin/comments/z8pwrz/passing_arguments_best_practices/)
+- [Pairs and Triples in Kotlin and what the internet blogs don&#39;t talk about](https://www.reddit.com/r/Kotlin/comments/z8pe6s/pairs_and_triples_in_kotlin_and_what_the_internet/)
+- [What&#39;s the most Kotlin idiomatic way to iterate over a list in reverse with indexes?](https://www.reddit.com/r/Kotlin/comments/z8p2i2/whats_the_most_kotlin_idiomatic_way_to_iterate/)
+- [Does Kotlin memoize repeated constructor calls?](https://www.reddit.com/r/Kotlin/comments/z8h288/does_kotlin_memoize_repeated_constructor_calls/)
 - [Question about learning Kotling](https://www.reddit.com/r/Kotlin/comments/z88smu/question_about_learning_kotling/)
-- [Take Part in Advent of Code 2022 in Kotlin and Win Prizes!](https://www.reddit.com/r/Kotlin/comments/z81g49/take_part_in_advent_of_code_2022_in_kotlin_and/)
-- [Why learn Kotlin when I can kill it with Flutter?](https://www.reddit.com/r/Kotlin/comments/z7zfrw/why_learn_kotlin_when_i_can_kill_it_with_flutter/)
-- [Learn how to create Flows from Scratch in Kotlin with this video about Flow Builders.](https://www.reddit.com/r/Kotlin/comments/z7y1oo/learn_how_to_create_flows_from_scratch_in_kotlin/)
-- [We released a new version of ShapeShift &lpar;0.7.0&rpar; - A lightweight, modular, performant and extensible library for Object Mapping](https://www.reddit.com/r/Kotlin/comments/z7v54x/we_released_a_new_version_of_shapeshift_070_a/)
-- [Can KMM code be used on web?](https://www.reddit.com/r/Kotlin/comments/z7v1gl/can_kmm_code_be_used_on_web/)
-- [Design Patterns Kotlin](https://www.reddit.com/r/Kotlin/comments/z7qbsu/design_patterns_kotlin/)
-- [Tips and tricks](https://www.reddit.com/r/Kotlin/comments/z7l7r2/tips_and_tricks/)
-- [Survey on cross-platform mobile development frameworks](https://www.reddit.com/r/Kotlin/comments/z780p9/survey_on_crossplatform_mobile_development/)
-- [Is there a community where I can ask questions like why a certain code implementation better than what I did ?](https://www.reddit.com/r/Kotlin/comments/z6uo9g/is_there_a_community_where_i_can_ask_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
