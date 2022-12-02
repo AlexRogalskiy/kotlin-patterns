@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the state of Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/z9x4q9/what_is_the_state_of_compose_for_desktop/)
+- [Refactoring dependency injection from Spring to pure Kotlin in a small but somewhat realistic codebase](https://www.reddit.com/r/Kotlin/comments/z9l2kk/refactoring_dependency_injection_from_spring_to/)
 - [Image processing with JavaFX and Batik, as a graph of cacheable subtasks [x-post r/reviewmycode]](https://www.reddit.com/r/Kotlin/comments/z97sek/image_processing_with_javafx_and_batik_as_a_graph/)
 - [Wich factory converter is faster for retrofit 2?](https://www.reddit.com/r/Kotlin/comments/z958h2/wich_factory_converter_is_faster_for_retrofit_2/)
 - [Need someone to point me towards working with AR with Kotlin in Android Studio](https://www.reddit.com/r/Kotlin/comments/z92ucu/need_someone_to_point_me_towards_working_with_ar/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Passing Arguments Best Practices](https://www.reddit.com/r/Kotlin/comments/z8pwrz/passing_arguments_best_practices/)
 - [Pairs and Triples in Kotlin and what the internet blogs don&#39;t talk about](https://www.reddit.com/r/Kotlin/comments/z8pe6s/pairs_and_triples_in_kotlin_and_what_the_internet/)
 - [What&#39;s the most Kotlin idiomatic way to iterate over a list in reverse with indexes?](https://www.reddit.com/r/Kotlin/comments/z8p2i2/whats_the_most_kotlin_idiomatic_way_to_iterate/)
-- [Does Kotlin memoize repeated constructor calls?](https://www.reddit.com/r/Kotlin/comments/z8h288/does_kotlin_memoize_repeated_constructor_calls/)
-- [Question about learning Kotling](https://www.reddit.com/r/Kotlin/comments/z88smu/question_about_learning_kotling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
