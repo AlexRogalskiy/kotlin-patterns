@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/JS : Handling promises in External functions ?](https://www.reddit.com/r/Kotlin/comments/zaustw/kotlinjs_handling_promises_in_external_functions/)
+- [ATOM Episode #2 with Cash App&#39;s Jake Wharton &amp; Jesse Wilson just dropped!](https://www.reddit.com/r/Kotlin/comments/zar8oj/atom_episode_2_with_cash_apps_jake_wharton_jesse/)
+- [Threads vs Coroutines - ParallelMap in Kotlin](https://www.reddit.com/r/Kotlin/comments/zar87f/threads_vs_coroutines_parallelmap_in_kotlin/)
+- [Kotlin 1.8.0 beta introduces experimental functions](https://www.reddit.com/r/Kotlin/comments/zajdv0/kotlin_180_beta_introduces_experimental_functions/)
 - [What is the state of Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/z9x4q9/what_is_the_state_of_compose_for_desktop/)
 - [Refactoring dependency injection from Spring to pure Kotlin in a small but somewhat realistic codebase](https://www.reddit.com/r/Kotlin/comments/z9l2kk/refactoring_dependency_injection_from_spring_to/)
 - [Image processing with JavaFX and Batik, as a graph of cacheable subtasks [x-post r/reviewmycode]](https://www.reddit.com/r/Kotlin/comments/z97sek/image_processing_with_javafx_and_batik_as_a_graph/)
 - [Wich factory converter is faster for retrofit 2?](https://www.reddit.com/r/Kotlin/comments/z958h2/wich_factory_converter_is_faster_for_retrofit_2/)
 - [Need someone to point me towards working with AR with Kotlin in Android Studio](https://www.reddit.com/r/Kotlin/comments/z92ucu/need_someone_to_point_me_towards_working_with_ar/)
 - [I am new to Android Dev. What is wrong with the code?](https://www.reddit.com/r/Kotlin/comments/z8yptj/i_am_new_to_android_dev_what_is_wrong_with_the/)
-- [Where do you host your Ktor server as Heroku free plan is over?](https://www.reddit.com/r/Kotlin/comments/z8wbgx/where_do_you_host_your_ktor_server_as_heroku_free/)
-- [Passing Arguments Best Practices](https://www.reddit.com/r/Kotlin/comments/z8pwrz/passing_arguments_best_practices/)
-- [Pairs and Triples in Kotlin and what the internet blogs don&#39;t talk about](https://www.reddit.com/r/Kotlin/comments/z8pe6s/pairs_and_triples_in_kotlin_and_what_the_internet/)
-- [What&#39;s the most Kotlin idiomatic way to iterate over a list in reverse with indexes?](https://www.reddit.com/r/Kotlin/comments/z8p2i2/whats_the_most_kotlin_idiomatic_way_to_iterate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
