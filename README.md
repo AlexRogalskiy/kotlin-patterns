@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Huge update of WorldWindKotlin KMP 3D map engine with a lot of bugfixes released!](https://www.reddit.com/r/Kotlin/comments/zcqfk4/huge_update_of_worldwindkotlin_kmp_3d_map_engine/)
+- [Kotlin exposed relations.](https://www.reddit.com/r/Kotlin/comments/zc5ey1/kotlin_exposed_relations/)
 - [Why tools have Kotlin native to work with bytes?](https://www.reddit.com/r/Kotlin/comments/zbpu6d/why_tools_have_kotlin_native_to_work_with_bytes/)
 - [Compose Desktop drop in upgrade functionality?](https://www.reddit.com/r/Kotlin/comments/zblk49/compose_desktop_drop_in_upgrade_functionality/)
 - [Javafx webview not rendering a Threejs app](https://www.reddit.com/r/Kotlin/comments/zbl4cc/javafx_webview_not_rendering_a_threejs_app/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [ATOM Episode #2 with Cash App&#39;s Jake Wharton &amp; Jesse Wilson just dropped!](https://www.reddit.com/r/Kotlin/comments/zar8oj/atom_episode_2_with_cash_apps_jake_wharton_jesse/)
 - [Threads vs Coroutines - ParallelMap in Kotlin](https://www.reddit.com/r/Kotlin/comments/zar87f/threads_vs_coroutines_parallelmap_in_kotlin/)
 - [What is the state of Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/z9x4q9/what_is_the_state_of_compose_for_desktop/)
-- [Refactoring dependency injection from Spring to pure Kotlin in a small but somewhat realistic codebase](https://www.reddit.com/r/Kotlin/comments/z9l2kk/refactoring_dependency_injection_from_spring_to/)
-- [Image processing with JavaFX and Batik, as a graph of cacheable subtasks [x-post r/reviewmycode]](https://www.reddit.com/r/Kotlin/comments/z97sek/image_processing_with_javafx_and_batik_as_a_graph/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
