@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin eBooks featured in the Pragmatic Programmers Bundle](https://www.reddit.com/r/Kotlin/comments/zdq7sd/kotlin_ebooks_featured_in_the_pragmatic/)
+- [Learn How to change imperative thinking to declarative or functional thinking using Kotlin Standard Library Functions like All, Any, Reduce, Fold, and more.](https://www.reddit.com/r/Kotlin/comments/zde0qy/learn_how_to_change_imperative_thinking_to/)
+- [Please help our academic research!](https://www.reddit.com/r/Kotlin/comments/zd13cg/please_help_our_academic_research/)
+- [Why is there a performance difference between these two functions?](https://www.reddit.com/r/Kotlin/comments/zcxhb6/why_is_there_a_performance_difference_between/)
+- [Do you have a kind of Flip/Flop operator in Kotlin ?](https://www.reddit.com/r/Kotlin/comments/zctvow/do_you_have_a_kind_of_flipflop_operator_in_kotlin/)
 - [Huge update of WorldWindKotlin KMP 3D map engine with a lot of bugfixes released!](https://www.reddit.com/r/Kotlin/comments/zcqfk4/huge_update_of_worldwindkotlin_kmp_3d_map_engine/)
 - [Kotlin exposed relations.](https://www.reddit.com/r/Kotlin/comments/zc5ey1/kotlin_exposed_relations/)
 - [Why tools have Kotlin native to work with bytes?](https://www.reddit.com/r/Kotlin/comments/zbpu6d/why_tools_have_kotlin_native_to_work_with_bytes/)
 - [Compose Desktop drop in upgrade functionality?](https://www.reddit.com/r/Kotlin/comments/zblk49/compose_desktop_drop_in_upgrade_functionality/)
 - [Javafx webview not rendering a Threejs app](https://www.reddit.com/r/Kotlin/comments/zbl4cc/javafx_webview_not_rendering_a_threejs_app/)
-- [Kolin native](https://www.reddit.com/r/Kotlin/comments/zb4rn1/kolin_native/)
-- [Kotlin/JS : Handling promises in External functions ?](https://www.reddit.com/r/Kotlin/comments/zaustw/kotlinjs_handling_promises_in_external_functions/)
-- [ATOM Episode #2 with Cash App&#39;s Jake Wharton &amp; Jesse Wilson just dropped!](https://www.reddit.com/r/Kotlin/comments/zar8oj/atom_episode_2_with_cash_apps_jake_wharton_jesse/)
-- [Threads vs Coroutines - ParallelMap in Kotlin](https://www.reddit.com/r/Kotlin/comments/zar87f/threads_vs_coroutines_parallelmap_in_kotlin/)
-- [What is the state of Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/z9x4q9/what_is_the_state_of_compose_for_desktop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
