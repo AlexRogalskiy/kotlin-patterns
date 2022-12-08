@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Shifting from Flutter to Kotlin](https://www.reddit.com/r/Kotlin/comments/zfgd16/shifting_from_flutter_to_kotlin/)
+- [What Kotlin Code ChatGPT &lpar;AI&rpar; can write? I experimented, and the result is suitable for fundamental questions like writing a map function in Kotlin, Implementing an ArrayList Data structure in Kotlin, Creating Observer Design Pattern in Kotlin, and more.](https://www.reddit.com/r/Kotlin/comments/zfabzi/what_kotlin_code_chatgpt_ai_can_write_i/)
+- [Kotlin Flow terminal operators collect&lpar;&rpar;, first&lpar;&rpar;, last&lpar;&rpar;, single&lpar;&rpar;, toSet&lpar;&rpar;, toList&lpar;&rpar;, fold&lpar;&rpar;, reduce&lpar;&rpar; - EVERYTHING you need to know](https://www.reddit.com/r/Kotlin/comments/zf1anm/kotlin_flow_terminal_operators_collect_first_last/)
+- [[Multiplatform] UIWebViewDelegate exists in the generated binary from a fresh KMM Project. Any important reason why this is?](https://www.reddit.com/r/Kotlin/comments/zewq9i/multiplatform_uiwebviewdelegate_exists_in_the/)
+- [Can anyone pls recommend basic programs to do for beginners](https://www.reddit.com/r/Kotlin/comments/zew5gy/can_anyone_pls_recommend_basic_programs_to_do_for/)
+- [Is there a way to define my own type? A type A that inherits from Int, Long, Float, and String?](https://www.reddit.com/r/Kotlin/comments/zev2ev/is_there_a_way_to_define_my_own_type_a_type_a/)
 - [Kotlin Event with Andrey Breslav in London - Next Monday 12/12](https://www.reddit.com/r/Kotlin/comments/ze7x1g/kotlin_event_with_andrey_breslav_in_london_next/)
 - [How to divide a list in sublists.](https://www.reddit.com/r/Kotlin/comments/ze73nm/how_to_divide_a_list_in_sublists/)
 - [Create a Login](https://www.reddit.com/r/Kotlin/comments/ze3g9n/create_a_login/)
 - [Simulating &amp; troubleshooting Thread leak in Kotlin](https://www.reddit.com/r/Kotlin/comments/ze38wl/simulating_troubleshooting_thread_leak_in_kotlin/)
-- [Kotlin Native Pointer initialization](https://www.reddit.com/r/Kotlin/comments/ze2igy/kotlin_native_pointer_initialization/)
-- [Is it possible to wrap c++ code in a Kotlin/Native .klib?](https://www.reddit.com/r/Kotlin/comments/ze1mv9/is_it_possible_to_wrap_c_code_in_a_kotlinnative/)
-- [Jetbrains jdk doesn&#39;t support bitwise operators?](https://www.reddit.com/r/Kotlin/comments/zdy3p7/jetbrains_jdk_doesnt_support_bitwise_operators/)
-- [Kotlin eBooks featured in the Pragmatic Programmers Bundle](https://www.reddit.com/r/Kotlin/comments/zdq7sd/kotlin_ebooks_featured_in_the_pragmatic/)
-- [Learn How to change imperative thinking to declarative or functional thinking using Kotlin Standard Library Functions like All, Any, Reduce, Fold, and more.](https://www.reddit.com/r/Kotlin/comments/zde0qy/learn_how_to_change_imperative_thinking_to/)
-- [Please help our academic research!](https://www.reddit.com/r/Kotlin/comments/zd13cg/please_help_our_academic_research/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
