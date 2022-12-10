@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [3 Interesting Kotlin Feature Requests](https://www.reddit.com/r/Kotlin/comments/zhdwsu/3_interesting_kotlin_feature_requests/)
+- [Threads vs Coroutines - ParallelMap Performance](https://www.reddit.com/r/Kotlin/comments/zh2tpx/threads_vs_coroutines_parallelmap_performance/)
+- [where should I suggest a new function to be added for Kotlin?](https://www.reddit.com/r/Kotlin/comments/zgzwtk/where_should_i_suggest_a_new_function_to_be_added/)
+- [Kotlin on RaspberryPi](https://www.reddit.com/r/Kotlin/comments/zgujhh/kotlin_on_raspberrypi/)
+- [What&#39;s the benefit of using Arrow with Kotlin?](https://www.reddit.com/r/Kotlin/comments/zgsmsk/whats_the_benefit_of_using_arrow_with_kotlin/)
+- [Maps of Jobs for Kotlin developers](https://www.reddit.com/r/Kotlin/comments/zgqqgh/maps_of_jobs_for_kotlin_developers/)
 - [Writing Unit Test for interface](https://www.reddit.com/r/Kotlin/comments/zgbgkq/writing_unit_test_for_interface/)
 - [Is it possible to consume Kotlin/Native &lpar;.klib&rpar; in a Kotlin/Native Apple framework?](https://www.reddit.com/r/Kotlin/comments/zg6huw/is_it_possible_to_consume_kotlinnative_klib_in_a/)
 - [What distinguishes a mid-level developer from a senior one, and how do you make the leap? 🤔 Find out in the latest episode of Talking Kotlin! 🎥 Our guest is Marcin Moskala – an experienced developer, trainer, speaker, and author of books on Kotlin. 🤩](https://www.reddit.com/r/Kotlin/comments/zfwhir/what_distinguishes_a_midlevel_developer_from_a/)
 - [Ktor 2.2.1 &lpar;and 2.2.0&rpar; released](https://www.reddit.com/r/Kotlin/comments/zfvl1r/ktor_221_and_220_released/)
-- [The latest state of my framework after interacting with the first users.](https://www.reddit.com/r/Kotlin/comments/zfnoiu/the_latest_state_of_my_framework_after/)
-- [Shifting from Flutter to Kotlin](https://www.reddit.com/r/Kotlin/comments/zfgd16/shifting_from_flutter_to_kotlin/)
-- [What Kotlin Code ChatGPT &lpar;AI&rpar; can write? I experimented, and the result is suitable for fundamental questions like writing a map function in Kotlin, Implementing an ArrayList Data structure in Kotlin, Creating Observer Design Pattern in Kotlin, and more.](https://www.reddit.com/r/Kotlin/comments/zfabzi/what_kotlin_code_chatgpt_ai_can_write_i/)
-- [Kotlin Flow terminal operators collect&lpar;&rpar;, first&lpar;&rpar;, last&lpar;&rpar;, single&lpar;&rpar;, toSet&lpar;&rpar;, toList&lpar;&rpar;, fold&lpar;&rpar;, reduce&lpar;&rpar; - EVERYTHING you need to know](https://www.reddit.com/r/Kotlin/comments/zf1anm/kotlin_flow_terminal_operators_collect_first_last/)
-- [[Multiplatform] UIWebViewDelegate exists in the generated binary from a fresh KMM Project. Any important reason why this is?](https://www.reddit.com/r/Kotlin/comments/zewq9i/multiplatform_uiwebviewdelegate_exists_in_the/)
-- [Can anyone pls recommend basic programs to do for beginners](https://www.reddit.com/r/Kotlin/comments/zew5gy/can_anyone_pls_recommend_basic_programs_to_do_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
