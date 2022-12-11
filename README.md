@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a way to make a multiplatform app with Kotlin only?](https://www.reddit.com/r/Kotlin/comments/zia1rh/is_there_a_way_to_make_a_multiplatform_app_with/)
+- [try catch in loop](https://www.reddit.com/r/Kotlin/comments/zi3yzn/try_catch_in_loop/)
+- [How does the code below really work. I&#39;m sorry if I&#39;m spamming you with all these beginner questions!](https://www.reddit.com/r/Kotlin/comments/zhsgj2/how_does_the_code_below_really_work_im_sorry_if/)
+- [How does the code below work?](https://www.reddit.com/r/Kotlin/comments/zhs1uz/how_does_the_code_below_work/)
+- [Why is the Koan Lazy Property example didn&#39;t teach us to use &quot;by lazy&quot;?](https://www.reddit.com/r/Kotlin/comments/zhm9ac/why_is_the_koan_lazy_property_example_didnt_teach/)
 - [3 Interesting Kotlin Feature Requests](https://www.reddit.com/r/Kotlin/comments/zhdwsu/3_interesting_kotlin_feature_requests/)
 - [Threads vs Coroutines - ParallelMap Performance](https://www.reddit.com/r/Kotlin/comments/zh2tpx/threads_vs_coroutines_parallelmap_performance/)
 - [where should I suggest a new function to be added for Kotlin?](https://www.reddit.com/r/Kotlin/comments/zgzwtk/where_should_i_suggest_a_new_function_to_be_added/)
 - [Kotlin on RaspberryPi](https://www.reddit.com/r/Kotlin/comments/zgujhh/kotlin_on_raspberrypi/)
 - [What&#39;s the benefit of using Arrow with Kotlin?](https://www.reddit.com/r/Kotlin/comments/zgsmsk/whats_the_benefit_of_using_arrow_with_kotlin/)
-- [Maps of Jobs for Kotlin developers](https://www.reddit.com/r/Kotlin/comments/zgqqgh/maps_of_jobs_for_kotlin_developers/)
-- [Writing Unit Test for interface](https://www.reddit.com/r/Kotlin/comments/zgbgkq/writing_unit_test_for_interface/)
-- [Is it possible to consume Kotlin/Native &lpar;.klib&rpar; in a Kotlin/Native Apple framework?](https://www.reddit.com/r/Kotlin/comments/zg6huw/is_it_possible_to_consume_kotlinnative_klib_in_a/)
-- [What distinguishes a mid-level developer from a senior one, and how do you make the leap? 🤔 Find out in the latest episode of Talking Kotlin! 🎥 Our guest is Marcin Moskala – an experienced developer, trainer, speaker, and author of books on Kotlin. 🤩](https://www.reddit.com/r/Kotlin/comments/zfwhir/what_distinguishes_a_midlevel_developer_from_a/)
-- [Ktor 2.2.1 &lpar;and 2.2.0&rpar; released](https://www.reddit.com/r/Kotlin/comments/zfvl1r/ktor_221_and_220_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
