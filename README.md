@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JCEF browser can&#39;t run after being close](https://www.reddit.com/r/Kotlin/comments/zj9kfx/jcef_browser_cant_run_after_being_close/)
+- [How do you PAUSE a countdowntimer. I cant seem to get how to do that as there isnt an API. Still VERY new to kotlin so please bare with me.](https://www.reddit.com/r/Kotlin/comments/zj4t2g/how_do_you_pause_a_countdowntimer_i_cant_seem_to/)
+- [How does the kotlin compiler parse expressions with generics?](https://www.reddit.com/r/Kotlin/comments/zixv85/how_does_the_kotlin_compiler_parse_expressions/)
+- [Tracking changes to class properties and Kotlinx serialization issues](https://www.reddit.com/r/Kotlin/comments/zivr18/tracking_changes_to_class_properties_and_kotlinx/)
+- [Kweb 1.3.1 released, with DSL additions for HTML viewport](https://www.reddit.com/r/Kotlin/comments/zid3tq/kweb_131_released_with_dsl_additions_for_html/)
+- [how to find programmers for collaboration?](https://www.reddit.com/r/Kotlin/comments/zic3cp/how_to_find_programmers_for_collaboration/)
 - [Is there a way to make a multiplatform app with Kotlin only?](https://www.reddit.com/r/Kotlin/comments/zia1rh/is_there_a_way_to_make_a_multiplatform_app_with/)
 - [try catch in loop](https://www.reddit.com/r/Kotlin/comments/zi3yzn/try_catch_in_loop/)
 - [How does the code below really work. I&#39;m sorry if I&#39;m spamming you with all these beginner questions!](https://www.reddit.com/r/Kotlin/comments/zhsgj2/how_does_the_code_below_really_work_im_sorry_if/)
 - [How does the code below work?](https://www.reddit.com/r/Kotlin/comments/zhs1uz/how_does_the_code_below_work/)
-- [Why is the Koan Lazy Property example didn&#39;t teach us to use &quot;by lazy&quot;?](https://www.reddit.com/r/Kotlin/comments/zhm9ac/why_is_the_koan_lazy_property_example_didnt_teach/)
-- [3 Interesting Kotlin Feature Requests](https://www.reddit.com/r/Kotlin/comments/zhdwsu/3_interesting_kotlin_feature_requests/)
-- [Threads vs Coroutines - ParallelMap Performance](https://www.reddit.com/r/Kotlin/comments/zh2tpx/threads_vs_coroutines_parallelmap_performance/)
-- [where should I suggest a new function to be added for Kotlin?](https://www.reddit.com/r/Kotlin/comments/zgzwtk/where_should_i_suggest_a_new_function_to_be_added/)
-- [Kotlin on RaspberryPi](https://www.reddit.com/r/Kotlin/comments/zgujhh/kotlin_on_raspberrypi/)
-- [What&#39;s the benefit of using Arrow with Kotlin?](https://www.reddit.com/r/Kotlin/comments/zgsmsk/whats_the_benefit_of_using_arrow_with_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
