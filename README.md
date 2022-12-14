@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin as a THIRD language for a relative beginner](https://www.reddit.com/r/Kotlin/comments/zky7s2/kotlin_as_a_third_language_for_a_relative_beginner/)
+- [Reddit Recap: State of Mobile Platforms Edition &lpar;2022&rpar;](https://www.reddit.com/r/Kotlin/comments/zkvfnq/reddit_recap_state_of_mobile_platforms_edition/)
 - [Using the Android Studio installation to compile simple Kotlin programs via the command line](https://www.reddit.com/r/Kotlin/comments/zkbmr8/using_the_android_studio_installation_to_compile/)
+- [How to do continous background REST calls in android](https://www.reddit.com/r/Kotlin/comments/zk71cr/how_to_do_continous_background_rest_calls_in/)
 - [aside from JSON, what other ways an API data can be saved in the backend?](https://www.reddit.com/r/Kotlin/comments/zjtqh1/aside_from_json_what_other_ways_an_api_data_can/)
 - [How do i import javafx into a kotlin project?](https://www.reddit.com/r/Kotlin/comments/zjfn1p/how_do_i_import_javafx_into_a_kotlin_project/)
 - [JCEF browser can&#39;t run after being close](https://www.reddit.com/r/Kotlin/comments/zj9kfx/jcef_browser_cant_run_after_being_close/)
 - [How do you PAUSE a countdowntimer. I cant seem to get how to do that as there isnt an API. Still VERY new to kotlin so please bare with me.](https://www.reddit.com/r/Kotlin/comments/zj4t2g/how_do_you_pause_a_countdowntimer_i_cant_seem_to/)
 - [How does the kotlin compiler parse expressions with generics?](https://www.reddit.com/r/Kotlin/comments/zixv85/how_does_the_kotlin_compiler_parse_expressions/)
 - [Tracking changes to class properties and Kotlinx serialization issues](https://www.reddit.com/r/Kotlin/comments/zivr18/tracking_changes_to_class_properties_and_kotlinx/)
-- [Kweb 1.3.1 released, with DSL additions for HTML viewport](https://www.reddit.com/r/Kotlin/comments/zid3tq/kweb_131_released_with_dsl_additions_for_html/)
-- [how to find programmers for collaboration?](https://www.reddit.com/r/Kotlin/comments/zic3cp/how_to_find_programmers_for_collaboration/)
-- [Is there a way to make a multiplatform app with Kotlin only?](https://www.reddit.com/r/Kotlin/comments/zia1rh/is_there_a_way_to_make_a_multiplatform_app_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
