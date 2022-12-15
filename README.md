@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with example](https://www.reddit.com/r/Kotlin/comments/zm76ay/help_with_example/)
+- [KotlinDL 0.5 is out! And now it supports an inference of the ONNX model on Android!](https://www.reddit.com/r/Kotlin/comments/zlxi6d/kotlindl_05_is_out_and_now_it_supports_an/)
+- [Using Compose Across Platforms](https://www.reddit.com/r/Kotlin/comments/zlwfi2/using_compose_across_platforms/)
+- [Does cancelling coroutines this way makes sense?](https://www.reddit.com/r/Kotlin/comments/zlt1wb/does_cancelling_coroutines_this_way_makes_sense/)
+- [What happens when you pass in objects without visibility modifiers?](https://www.reddit.com/r/Kotlin/comments/zlrcfd/what_happens_when_you_pass_in_objects_without/)
+- [Have you noticed that IntelliJ uses bold braces in Kotlin?](https://www.reddit.com/r/Kotlin/comments/zlot9w/have_you_noticed_that_intellij_uses_bold_braces/)
+- [What is a domain gateway, why do you need it, and how to build it?](https://www.reddit.com/r/Kotlin/comments/zll0q5/what_is_a_domain_gateway_why_do_you_need_it_and/)
 - [Kotlin as a THIRD language for a relative beginner](https://www.reddit.com/r/Kotlin/comments/zky7s2/kotlin_as_a_third_language_for_a_relative_beginner/)
 - [Reddit Recap: State of Mobile Platforms Edition &lpar;2022&rpar;](https://www.reddit.com/r/Kotlin/comments/zkvfnq/reddit_recap_state_of_mobile_platforms_edition/)
 - [Using the Android Studio installation to compile simple Kotlin programs via the command line](https://www.reddit.com/r/Kotlin/comments/zkbmr8/using_the_android_studio_installation_to_compile/)
-- [How to do continous background REST calls in android](https://www.reddit.com/r/Kotlin/comments/zk71cr/how_to_do_continous_background_rest_calls_in/)
-- [aside from JSON, what other ways an API data can be saved in the backend?](https://www.reddit.com/r/Kotlin/comments/zjtqh1/aside_from_json_what_other_ways_an_api_data_can/)
-- [How do i import javafx into a kotlin project?](https://www.reddit.com/r/Kotlin/comments/zjfn1p/how_do_i_import_javafx_into_a_kotlin_project/)
-- [JCEF browser can&#39;t run after being close](https://www.reddit.com/r/Kotlin/comments/zj9kfx/jcef_browser_cant_run_after_being_close/)
-- [How do you PAUSE a countdowntimer. I cant seem to get how to do that as there isnt an API. Still VERY new to kotlin so please bare with me.](https://www.reddit.com/r/Kotlin/comments/zj4t2g/how_do_you_pause_a_countdowntimer_i_cant_seem_to/)
-- [How does the kotlin compiler parse expressions with generics?](https://www.reddit.com/r/Kotlin/comments/zixv85/how_does_the_kotlin_compiler_parse_expressions/)
-- [Tracking changes to class properties and Kotlinx serialization issues](https://www.reddit.com/r/Kotlin/comments/zivr18/tracking_changes_to_class_properties_and_kotlinx/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
