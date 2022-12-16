@@ -272,7 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help with example](https://www.reddit.com/r/Kotlin/comments/zm76ay/help_with_example/)
+- [How hard is it to parse a rather complex HTML site in kotlin?](https://www.reddit.com/r/Kotlin/comments/zmq8r5/how_hard_is_it_to_parse_a_rather_complex_html/)
+- [Are you a student or recent graduate? Join the Kotlin Multiplatform contest for the chance to win a trip to KotlinConf’23 in Amsterdam!](https://www.reddit.com/r/Kotlin/comments/zmlnir/are_you_a_student_or_recent_graduate_join_the/)
+- [Is it feasible to do incremental build and incremental test ?](https://www.reddit.com/r/Kotlin/comments/zmhx7c/is_it_feasible_to_do_incremental_build_and/)
 - [KotlinDL 0.5 is out! And now it supports an inference of the ONNX model on Android!](https://www.reddit.com/r/Kotlin/comments/zlxi6d/kotlindl_05_is_out_and_now_it_supports_an/)
 - [Using Compose Across Platforms](https://www.reddit.com/r/Kotlin/comments/zlwfi2/using_compose_across_platforms/)
 - [Does cancelling coroutines this way makes sense?](https://www.reddit.com/r/Kotlin/comments/zlt1wb/does_cancelling_coroutines_this_way_makes_sense/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Have you noticed that IntelliJ uses bold braces in Kotlin?](https://www.reddit.com/r/Kotlin/comments/zlot9w/have_you_noticed_that_intellij_uses_bold_braces/)
 - [What is a domain gateway, why do you need it, and how to build it?](https://www.reddit.com/r/Kotlin/comments/zll0q5/what_is_a_domain_gateway_why_do_you_need_it_and/)
 - [Kotlin as a THIRD language for a relative beginner](https://www.reddit.com/r/Kotlin/comments/zky7s2/kotlin_as_a_third_language_for_a_relative_beginner/)
-- [Reddit Recap: State of Mobile Platforms Edition &lpar;2022&rpar;](https://www.reddit.com/r/Kotlin/comments/zkvfnq/reddit_recap_state_of_mobile_platforms_edition/)
-- [Using the Android Studio installation to compile simple Kotlin programs via the command line](https://www.reddit.com/r/Kotlin/comments/zkbmr8/using_the_android_studio_installation_to_compile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
