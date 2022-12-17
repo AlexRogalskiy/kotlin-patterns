@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Multiplatform Mobile tutorial and challenge](https://www.reddit.com/r/Kotlin/comments/znnf91/kotlin_multiplatform_mobile_tutorial_and_challenge/)
+- [Threads vs Coroutines - Errors and Cancellation](https://www.reddit.com/r/Kotlin/comments/znjbnu/threads_vs_coroutines_errors_and_cancellation/)
+- [A new ExpressJS to Ktor migration guide](https://www.reddit.com/r/Kotlin/comments/zng9zg/a_new_expressjs_to_ktor_migration_guide/)
+- [Kotlin Essentials book by Marcin Moskała is finally ready! 🎆](https://www.reddit.com/r/Kotlin/comments/znb40q/kotlin_essentials_book_by_marcin_moskała_is/)
 - [How hard is it to parse a rather complex HTML site in kotlin?](https://www.reddit.com/r/Kotlin/comments/zmq8r5/how_hard_is_it_to_parse_a_rather_complex_html/)
 - [Are you a student or recent graduate? Join the Kotlin Multiplatform contest for the chance to win a trip to KotlinConf’23 in Amsterdam!](https://www.reddit.com/r/Kotlin/comments/zmlnir/are_you_a_student_or_recent_graduate_join_the/)
 - [Is it feasible to do incremental build and incremental test ?](https://www.reddit.com/r/Kotlin/comments/zmhx7c/is_it_feasible_to_do_incremental_build_and/)
 - [KotlinDL 0.5 is out! And now it supports an inference of the ONNX model on Android!](https://www.reddit.com/r/Kotlin/comments/zlxi6d/kotlindl_05_is_out_and_now_it_supports_an/)
 - [Using Compose Across Platforms](https://www.reddit.com/r/Kotlin/comments/zlwfi2/using_compose_across_platforms/)
 - [Does cancelling coroutines this way makes sense?](https://www.reddit.com/r/Kotlin/comments/zlt1wb/does_cancelling_coroutines_this_way_makes_sense/)
-- [What happens when you pass in objects without visibility modifiers?](https://www.reddit.com/r/Kotlin/comments/zlrcfd/what_happens_when_you_pass_in_objects_without/)
-- [Have you noticed that IntelliJ uses bold braces in Kotlin?](https://www.reddit.com/r/Kotlin/comments/zlot9w/have_you_noticed_that_intellij_uses_bold_braces/)
-- [What is a domain gateway, why do you need it, and how to build it?](https://www.reddit.com/r/Kotlin/comments/zll0q5/what_is_a_domain_gateway_why_do_you_need_it_and/)
-- [Kotlin as a THIRD language for a relative beginner](https://www.reddit.com/r/Kotlin/comments/zky7s2/kotlin_as_a_third_language_for_a_relative_beginner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
