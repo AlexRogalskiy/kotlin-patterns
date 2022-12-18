@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [launchIn VS collect | Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/zo98va/launchin_vs_collect_kotlin_flow_for_android/)
+- [I love the new AI &quot;ChatGPT&quot;](https://www.reddit.com/r/Kotlin/comments/zo6jpo/i_love_the_new_ai_chatgpt/)
+- [How to get raw response of retrofit using coroutine](https://www.reddit.com/r/Kotlin/comments/zo1rhr/how_to_get_raw_response_of_retrofit_using/)
+- [Kotlin Roadmap &lpar;December 2022 update&rpar;](https://www.reddit.com/r/Kotlin/comments/znvmpo/kotlin_roadmap_december_2022_update/)
 - [Kotlin Multiplatform Mobile tutorial and challenge](https://www.reddit.com/r/Kotlin/comments/znnf91/kotlin_multiplatform_mobile_tutorial_and_challenge/)
 - [Threads vs Coroutines - Errors and Cancellation](https://www.reddit.com/r/Kotlin/comments/znjbnu/threads_vs_coroutines_errors_and_cancellation/)
 - [A new ExpressJS to Ktor migration guide](https://www.reddit.com/r/Kotlin/comments/zng9zg/a_new_expressjs_to_ktor_migration_guide/)
 - [Kotlin Essentials book by Marcin Moskała is finally ready! 🎆](https://www.reddit.com/r/Kotlin/comments/znb40q/kotlin_essentials_book_by_marcin_moskała_is/)
 - [How hard is it to parse a rather complex HTML site in kotlin?](https://www.reddit.com/r/Kotlin/comments/zmq8r5/how_hard_is_it_to_parse_a_rather_complex_html/)
 - [Are you a student or recent graduate? Join the Kotlin Multiplatform contest for the chance to win a trip to KotlinConf’23 in Amsterdam!](https://www.reddit.com/r/Kotlin/comments/zmlnir/are_you_a_student_or_recent_graduate_join_the/)
-- [Is it feasible to do incremental build and incremental test ?](https://www.reddit.com/r/Kotlin/comments/zmhx7c/is_it_feasible_to_do_incremental_build_and/)
-- [KotlinDL 0.5 is out! And now it supports an inference of the ONNX model on Android!](https://www.reddit.com/r/Kotlin/comments/zlxi6d/kotlindl_05_is_out_and_now_it_supports_an/)
-- [Using Compose Across Platforms](https://www.reddit.com/r/Kotlin/comments/zlwfi2/using_compose_across_platforms/)
-- [Does cancelling coroutines this way makes sense?](https://www.reddit.com/r/Kotlin/comments/zlt1wb/does_cancelling_coroutines_this_way_makes_sense/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
