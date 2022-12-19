@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best courses to learn Flutter or Kotlin for app development](https://www.reddit.com/r/Kotlin/comments/zpc22m/best_courses_to_learn_flutter_or_kotlin_for_app/)
+- [How it stumped me initially and what helped me to understand coroutines](https://www.reddit.com/r/Kotlin/comments/zpaw9u/how_it_stumped_me_initially_and_what_helped_me_to/)
+- [I made a IntelliJ plugin which makes the auto generate named parameters, arguments value a lot nicer to work with &lpar;can choice values of Default or Random or Empty&rpar;](https://www.reddit.com/r/Kotlin/comments/zp4e05/i_made_a_intellij_plugin_which_makes_the_auto/)
 - [launchIn VS collect | Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/zo98va/launchin_vs_collect_kotlin_flow_for_android/)
 - [I love the new AI &quot;ChatGPT&quot;](https://www.reddit.com/r/Kotlin/comments/zo6jpo/i_love_the_new_ai_chatgpt/)
 - [How to get raw response of retrofit using coroutine](https://www.reddit.com/r/Kotlin/comments/zo1rhr/how_to_get_raw_response_of_retrofit_using/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Multiplatform Mobile tutorial and challenge](https://www.reddit.com/r/Kotlin/comments/znnf91/kotlin_multiplatform_mobile_tutorial_and_challenge/)
 - [Threads vs Coroutines - Errors and Cancellation](https://www.reddit.com/r/Kotlin/comments/znjbnu/threads_vs_coroutines_errors_and_cancellation/)
 - [A new ExpressJS to Ktor migration guide](https://www.reddit.com/r/Kotlin/comments/zng9zg/a_new_expressjs_to_ktor_migration_guide/)
-- [Kotlin Essentials book by Marcin Moskała is finally ready! 🎆](https://www.reddit.com/r/Kotlin/comments/znb40q/kotlin_essentials_book_by_marcin_moskała_is/)
-- [How hard is it to parse a rather complex HTML site in kotlin?](https://www.reddit.com/r/Kotlin/comments/zmq8r5/how_hard_is_it_to_parse_a_rather_complex_html/)
-- [Are you a student or recent graduate? Join the Kotlin Multiplatform contest for the chance to win a trip to KotlinConf’23 in Amsterdam!](https://www.reddit.com/r/Kotlin/comments/zmlnir/are_you_a_student_or_recent_graduate_join_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
