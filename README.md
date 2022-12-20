@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kotlin as a normal language](https://www.reddit.com/r/Kotlin/comments/zq6lvk/kotlin_as_a_normal_language/)
+- [PriceTagScanner - using Kotlin, Jetpack Compose, MLKit and OpenCV. This is a project that I worked on in my spare time. I hope Someone find it useful to learn new stuff.](https://www.reddit.com/r/Kotlin/comments/zpu1z6/pricetagscanner_using_kotlin_jetpack_compose/)
+- [Ktor Roadmap 2023](https://www.reddit.com/r/Kotlin/comments/zpozz6/ktor_roadmap_2023/)
+- [A new episode of “A Touch of Multiplatform” is out tomorrow! This time we will be talking to Max – Senior Software Engineer at @Lutron, a leader in the luxury smart lighting industry – about how they evaluated, adopted, and scaled Kotlin Multiplatform. 👇](https://www.reddit.com/r/Kotlin/comments/zpozpy/a_new_episode_of_a_touch_of_multiplatform_is_out/)
+- [Refactoring to extension function in Kotlin](https://www.reddit.com/r/Kotlin/comments/zpo3gg/refactoring_to_extension_function_in_kotlin/)
 - [Best courses to learn Flutter or Kotlin for app development](https://www.reddit.com/r/Kotlin/comments/zpc22m/best_courses_to_learn_flutter_or_kotlin_for_app/)
 - [How it stumped me initially and what helped me to understand coroutines](https://www.reddit.com/r/Kotlin/comments/zpaw9u/how_it_stumped_me_initially_and_what_helped_me_to/)
 - [I made a IntelliJ plugin which makes the auto generate named parameters, arguments value a lot nicer to work with &lpar;can choice values of Default or Random or Empty&rpar;](https://www.reddit.com/r/Kotlin/comments/zp4e05/i_made_a_intellij_plugin_which_makes_the_auto/)
 - [launchIn VS collect | Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/zo98va/launchin_vs_collect_kotlin_flow_for_android/)
 - [I love the new AI &quot;ChatGPT&quot;](https://www.reddit.com/r/Kotlin/comments/zo6jpo/i_love_the_new_ai_chatgpt/)
-- [How to get raw response of retrofit using coroutine](https://www.reddit.com/r/Kotlin/comments/zo1rhr/how_to_get_raw_response_of_retrofit_using/)
-- [Kotlin Roadmap &lpar;December 2022 update&rpar;](https://www.reddit.com/r/Kotlin/comments/znvmpo/kotlin_roadmap_december_2022_update/)
-- [Kotlin Multiplatform Mobile tutorial and challenge](https://www.reddit.com/r/Kotlin/comments/znnf91/kotlin_multiplatform_mobile_tutorial_and_challenge/)
-- [Threads vs Coroutines - Errors and Cancellation](https://www.reddit.com/r/Kotlin/comments/znjbnu/threads_vs_coroutines_errors_and_cancellation/)
-- [A new ExpressJS to Ktor migration guide](https://www.reddit.com/r/Kotlin/comments/zng9zg/a_new_expressjs_to_ktor_migration_guide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
