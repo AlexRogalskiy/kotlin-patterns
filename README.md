@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/zqyycc/kotlin_multiplatform_mobile/)
+- [Want to explore KSP and it’s powers.](https://www.reddit.com/r/Kotlin/comments/zqriav/want_to_explore_ksp_and_its_powers/)
+- [Is it possible to integrate an SDK with Kotlin 1.7.0 into an app with Kotlin 1.5.0 easily?](https://www.reddit.com/r/Kotlin/comments/zqn6y7/is_it_possible_to_integrate_an_sdk_with_kotlin/)
+- [My Top 8 Reasons Why Kotlin Makes Me a More Productive Software Engineer](https://www.reddit.com/r/Kotlin/comments/zqjfam/my_top_8_reasons_why_kotlin_makes_me_a_more/)
 - [kotlin as a normal language](https://www.reddit.com/r/Kotlin/comments/zq6lvk/kotlin_as_a_normal_language/)
 - [PriceTagScanner - using Kotlin, Jetpack Compose, MLKit and OpenCV. This is a project that I worked on in my spare time. I hope Someone find it useful to learn new stuff.](https://www.reddit.com/r/Kotlin/comments/zpu1z6/pricetagscanner_using_kotlin_jetpack_compose/)
 - [Ktor Roadmap 2023](https://www.reddit.com/r/Kotlin/comments/zpozz6/ktor_roadmap_2023/)
 - [A new episode of “A Touch of Multiplatform” is out tomorrow! This time we will be talking to Max – Senior Software Engineer at @Lutron, a leader in the luxury smart lighting industry – about how they evaluated, adopted, and scaled Kotlin Multiplatform. 👇](https://www.reddit.com/r/Kotlin/comments/zpozpy/a_new_episode_of_a_touch_of_multiplatform_is_out/)
 - [Refactoring to extension function in Kotlin](https://www.reddit.com/r/Kotlin/comments/zpo3gg/refactoring_to_extension_function_in_kotlin/)
 - [Best courses to learn Flutter or Kotlin for app development](https://www.reddit.com/r/Kotlin/comments/zpc22m/best_courses_to_learn_flutter_or_kotlin_for_app/)
-- [How it stumped me initially and what helped me to understand coroutines](https://www.reddit.com/r/Kotlin/comments/zpaw9u/how_it_stumped_me_initially_and_what_helped_me_to/)
-- [I made a IntelliJ plugin which makes the auto generate named parameters, arguments value a lot nicer to work with &lpar;can choice values of Default or Random or Empty&rpar;](https://www.reddit.com/r/Kotlin/comments/zp4e05/i_made_a_intellij_plugin_which_makes_the_auto/)
-- [launchIn VS collect | Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/zo98va/launchin_vs_collect_kotlin_flow_for_android/)
-- [I love the new AI &quot;ChatGPT&quot;](https://www.reddit.com/r/Kotlin/comments/zo6jpo/i_love_the_new_ai_chatgpt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
