@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should i use a recyclerView, a radio button, or button?](https://www.reddit.com/r/Kotlin/comments/zry528/should_i_use_a_recyclerview_a_radio_button_or/)
+- [My top 4 use cases for Kotlin inline classes](https://www.reddit.com/r/Kotlin/comments/zrf4fc/my_top_4_use_cases_for_kotlin_inline_classes/)
+- [SOLID Design Principles In Kotlin](https://www.reddit.com/r/Kotlin/comments/zrcvl5/solid_design_principles_in_kotlin/)
 - [Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/zqyycc/kotlin_multiplatform_mobile/)
 - [Want to explore KSP and it’s powers.](https://www.reddit.com/r/Kotlin/comments/zqriav/want_to_explore_ksp_and_its_powers/)
 - [Is it possible to integrate an SDK with Kotlin 1.7.0 into an app with Kotlin 1.5.0 easily?](https://www.reddit.com/r/Kotlin/comments/zqn6y7/is_it_possible_to_integrate_an_sdk_with_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [kotlin as a normal language](https://www.reddit.com/r/Kotlin/comments/zq6lvk/kotlin_as_a_normal_language/)
 - [PriceTagScanner - using Kotlin, Jetpack Compose, MLKit and OpenCV. This is a project that I worked on in my spare time. I hope Someone find it useful to learn new stuff.](https://www.reddit.com/r/Kotlin/comments/zpu1z6/pricetagscanner_using_kotlin_jetpack_compose/)
 - [Ktor Roadmap 2023](https://www.reddit.com/r/Kotlin/comments/zpozz6/ktor_roadmap_2023/)
-- [A new episode of “A Touch of Multiplatform” is out tomorrow! This time we will be talking to Max – Senior Software Engineer at @Lutron, a leader in the luxury smart lighting industry – about how they evaluated, adopted, and scaled Kotlin Multiplatform. 👇](https://www.reddit.com/r/Kotlin/comments/zpozpy/a_new_episode_of_a_touch_of_multiplatform_is_out/)
-- [Refactoring to extension function in Kotlin](https://www.reddit.com/r/Kotlin/comments/zpo3gg/refactoring_to_extension_function_in_kotlin/)
-- [Best courses to learn Flutter or Kotlin for app development](https://www.reddit.com/r/Kotlin/comments/zpc22m/best_courses_to_learn_flutter_or_kotlin_for_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
