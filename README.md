@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hoping I can get rid of my analysis paralysis, Kotlin okay for me? &lpar;newb question about Kotlin vs Python vs C#&rpar;](https://www.reddit.com/r/Kotlin/comments/zsxtiu/hoping_i_can_get_rid_of_my_analysis_paralysis/)
+- [I have a dumb question](https://www.reddit.com/r/Kotlin/comments/zsm926/i_have_a_dumb_question/)
+- [Strategies for updating software dependencies &lpar;time frame, on PR, release, automatic...&rpar;](https://www.reddit.com/r/Kotlin/comments/zsiuvk/strategies_for_updating_software_dependencies/)
+- [Why does async call inside courotine block UI](https://www.reddit.com/r/Kotlin/comments/zsig42/why_does_async_call_inside_courotine_block_ui/)
 - [Should i use a recyclerView, a radio button, or button?](https://www.reddit.com/r/Kotlin/comments/zry528/should_i_use_a_recyclerview_a_radio_button_or/)
 - [My top 4 use cases for Kotlin inline classes](https://www.reddit.com/r/Kotlin/comments/zrf4fc/my_top_4_use_cases_for_kotlin_inline_classes/)
 - [SOLID Design Principles In Kotlin](https://www.reddit.com/r/Kotlin/comments/zrcvl5/solid_design_principles_in_kotlin/)
 - [Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/zqyycc/kotlin_multiplatform_mobile/)
 - [Want to explore KSP and it’s powers.](https://www.reddit.com/r/Kotlin/comments/zqriav/want_to_explore_ksp_and_its_powers/)
 - [Is it possible to integrate an SDK with Kotlin 1.7.0 into an app with Kotlin 1.5.0 easily?](https://www.reddit.com/r/Kotlin/comments/zqn6y7/is_it_possible_to_integrate_an_sdk_with_kotlin/)
-- [My Top 8 Reasons Why Kotlin Makes Me a More Productive Software Engineer](https://www.reddit.com/r/Kotlin/comments/zqjfam/my_top_8_reasons_why_kotlin_makes_me_a_more/)
-- [kotlin as a normal language](https://www.reddit.com/r/Kotlin/comments/zq6lvk/kotlin_as_a_normal_language/)
-- [PriceTagScanner - using Kotlin, Jetpack Compose, MLKit and OpenCV. This is a project that I worked on in my spare time. I hope Someone find it useful to learn new stuff.](https://www.reddit.com/r/Kotlin/comments/zpu1z6/pricetagscanner_using_kotlin_jetpack_compose/)
-- [Ktor Roadmap 2023](https://www.reddit.com/r/Kotlin/comments/zpozz6/ktor_roadmap_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
