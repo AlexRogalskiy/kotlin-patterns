@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hoping I can get rid of my analysis paralysis, Kotlin okay for me? &lpar;newb question about Kotlin vs Python vs C#&rpar;](https://www.reddit.com/r/Kotlin/comments/zsxtiu/hoping_i_can_get_rid_of_my_analysis_paralysis/)
-- [I have a dumb question](https://www.reddit.com/r/Kotlin/comments/zsm926/i_have_a_dumb_question/)
-- [Strategies for updating software dependencies &lpar;time frame, on PR, release, automatic...&rpar;](https://www.reddit.com/r/Kotlin/comments/zsiuvk/strategies_for_updating_software_dependencies/)
-- [Why does async call inside courotine block UI](https://www.reddit.com/r/Kotlin/comments/zsig42/why_does_async_call_inside_courotine_block_ui/)
-- [Should i use a recyclerView, a radio button, or button?](https://www.reddit.com/r/Kotlin/comments/zry528/should_i_use_a_recyclerview_a_radio_button_or/)
-- [My top 4 use cases for Kotlin inline classes](https://www.reddit.com/r/Kotlin/comments/zrf4fc/my_top_4_use_cases_for_kotlin_inline_classes/)
-- [SOLID Design Principles In Kotlin](https://www.reddit.com/r/Kotlin/comments/zrcvl5/solid_design_principles_in_kotlin/)
-- [Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/zqyycc/kotlin_multiplatform_mobile/)
-- [Want to explore KSP and it’s powers.](https://www.reddit.com/r/Kotlin/comments/zqriav/want_to_explore_ksp_and_its_powers/)
-- [Is it possible to integrate an SDK with Kotlin 1.7.0 into an app with Kotlin 1.5.0 easily?](https://www.reddit.com/r/Kotlin/comments/zqn6y7/is_it_possible_to_integrate_an_sdk_with_kotlin/)
+- [WorldWindKotlin - the first Kotlin multi-platform 3D GIS update 1.1.5 released](https://www.reddit.com/r/Kotlin/comments/ztxz2c/worldwindkotlin_the_first_kotlin_multiplatform_3d/)
+- [How to Refactor Using the Open-Closed Principle](https://www.reddit.com/r/Kotlin/comments/ztlh7v/how_to_refactor_using_the_openclosed_principle/)
+- [WindowDraggableArea gets disabled by on click action to its child](https://www.reddit.com/r/Kotlin/comments/ztl3xe/windowdraggablearea_gets_disabled_by_on_click/)
+- [Can Kotlin Be More Environmentally Friendly? &lpar;Article&rpar;](https://www.reddit.com/r/Kotlin/comments/ztealv/can_kotlin_be_more_environmentally_friendly/)
+- [Issues with calling a public transport API for Android](https://www.reddit.com/r/Kotlin/comments/zte9tp/issues_with_calling_a_public_transport_api_for/)
+- [Basic Doubt](https://www.reddit.com/r/Kotlin/comments/ztcb8t/basic_doubt/)
+- [What are kotlin extensions used for ?](https://www.reddit.com/r/Kotlin/comments/ztc213/what_are_kotlin_extensions_used_for/)
+- [roadmap to android dev](https://www.reddit.com/r/Kotlin/comments/ztbryr/roadmap_to_android_dev/)
+- [How Kotlin’s “reified” Keyword Simplifies Working With Generics](https://www.reddit.com/r/Kotlin/comments/ztbkzc/how_kotlins_reified_keyword_simplifies_working/)
+- [Making a class dependency diagram](https://www.reddit.com/r/Kotlin/comments/ztb1tg/making_a_class_dependency_diagram/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
