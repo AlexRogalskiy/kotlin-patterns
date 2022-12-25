@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How should I look for Kotlin Backend Developer roles?](https://www.reddit.com/r/Kotlin/comments/zum5jc/how_should_i_look_for_kotlin_backend_developer/)
+- [Best Database for financial App](https://www.reddit.com/r/Kotlin/comments/zue6ot/best_database_for_financial_app/)
+- [Kweb 1.3.2 Released: Bugfixes for Bidirectional Syncing of Input Values with the Server](https://www.reddit.com/r/Kotlin/comments/zubdhh/kweb_132_released_bugfixes_for_bidirectional/)
+- [My story on game development with Kotlin](https://www.reddit.com/r/Kotlin/comments/zu9gk2/my_story_on_game_development_with_kotlin/)
+- [I am looking to try game development with LibKTX &lpar;and LibGDX&rpar;. Do you know how I can get helpful documentation for the classes, methods, etc?](https://www.reddit.com/r/Kotlin/comments/ztzs8x/i_am_looking_to_try_game_development_with_libktx/)
 - [WorldWindKotlin - the first Kotlin multi-platform 3D GIS update 1.1.5 released](https://www.reddit.com/r/Kotlin/comments/ztxz2c/worldwindkotlin_the_first_kotlin_multiplatform_3d/)
 - [How to Refactor Using the Open-Closed Principle](https://www.reddit.com/r/Kotlin/comments/ztlh7v/how_to_refactor_using_the_openclosed_principle/)
 - [WindowDraggableArea gets disabled by on click action to its child](https://www.reddit.com/r/Kotlin/comments/ztl3xe/windowdraggablearea_gets_disabled_by_on_click/)
 - [Can Kotlin Be More Environmentally Friendly? &lpar;Article&rpar;](https://www.reddit.com/r/Kotlin/comments/ztealv/can_kotlin_be_more_environmentally_friendly/)
 - [Issues with calling a public transport API for Android](https://www.reddit.com/r/Kotlin/comments/zte9tp/issues_with_calling_a_public_transport_api_for/)
-- [Basic Doubt](https://www.reddit.com/r/Kotlin/comments/ztcb8t/basic_doubt/)
-- [What are kotlin extensions used for ?](https://www.reddit.com/r/Kotlin/comments/ztc213/what_are_kotlin_extensions_used_for/)
-- [roadmap to android dev](https://www.reddit.com/r/Kotlin/comments/ztbryr/roadmap_to_android_dev/)
-- [How Kotlin’s “reified” Keyword Simplifies Working With Generics](https://www.reddit.com/r/Kotlin/comments/ztbkzc/how_kotlins_reified_keyword_simplifies_working/)
-- [Making a class dependency diagram](https://www.reddit.com/r/Kotlin/comments/ztb1tg/making_a_class_dependency_diagram/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
