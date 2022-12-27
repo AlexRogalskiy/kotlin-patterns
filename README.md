@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why are there so many restrictions on JS export?](https://www.reddit.com/r/Kotlin/comments/zvy7g4/why_are_there_so_many_restrictions_on_js_export/)
+- [Can&#39;t build Kotlin Native on IntellyJ Community Edition](https://www.reddit.com/r/Kotlin/comments/zvnuhg/cant_build_kotlin_native_on_intellyj_community/)
+- [Create a list of 2-element arrays from two lists of equal size](https://www.reddit.com/r/Kotlin/comments/zvlm57/create_a_list_of_2element_arrays_from_two_lists/)
+- [Best Practices to Avoid Shadowing Variables When Building a DSL](https://www.reddit.com/r/Kotlin/comments/zvdba7/best_practices_to_avoid_shadowing_variables_when/)
 - [Does Kotlin support JPMS modules?](https://www.reddit.com/r/Kotlin/comments/zv32xc/does_kotlin_support_jpms_modules/)
 - [is there a *short* yet good book on kotlin?](https://www.reddit.com/r/Kotlin/comments/zv14xf/is_there_a_short_yet_good_book_on_kotlin/)
 - [Hi developers people, I started learning kotlin a few days ago and I am walking at a steady pace, my question to you as a beginner, will jetpack compose be a strong competitor to flutter, will kotlin end the competition with Dart language and eliminate it?](https://www.reddit.com/r/Kotlin/comments/zuwc4r/hi_developers_people_i_started_learning_kotlin_a/)
 - [How should I look for Kotlin Backend Developer roles?](https://www.reddit.com/r/Kotlin/comments/zum5jc/how_should_i_look_for_kotlin_backend_developer/)
 - [Best Database for financial App](https://www.reddit.com/r/Kotlin/comments/zue6ot/best_database_for_financial_app/)
 - [Kweb 1.3.2 Released: Bugfixes for Bidirectional Syncing of Input Values with the Server](https://www.reddit.com/r/Kotlin/comments/zubdhh/kweb_132_released_bugfixes_for_bidirectional/)
-- [My story on game development with Kotlin](https://www.reddit.com/r/Kotlin/comments/zu9gk2/my_story_on_game_development_with_kotlin/)
-- [I am looking to try game development with LibKTX &lpar;and LibGDX&rpar;. Do you know how I can get helpful documentation for the classes, methods, etc?](https://www.reddit.com/r/Kotlin/comments/ztzs8x/i_am_looking_to_try_game_development_with_libktx/)
-- [WorldWindKotlin - the first Kotlin multi-platform 3D GIS update 1.1.5 released](https://www.reddit.com/r/Kotlin/comments/ztxz2c/worldwindkotlin_the_first_kotlin_multiplatform_3d/)
-- [How to Refactor Using the Open-Closed Principle](https://www.reddit.com/r/Kotlin/comments/ztlh7v/how_to_refactor_using_the_openclosed_principle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
