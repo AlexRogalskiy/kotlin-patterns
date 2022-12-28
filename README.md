@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin beginner, app development](https://www.reddit.com/r/Kotlin/comments/zwpgw8/kotlin_beginner_app_development/)
+- [What technology to choose for the App Lock Kotlin?](https://www.reddit.com/r/Kotlin/comments/zwk97g/what_technology_to_choose_for_the_app_lock_kotlin/)
 - [Why are there so many restrictions on JS export?](https://www.reddit.com/r/Kotlin/comments/zvy7g4/why_are_there_so_many_restrictions_on_js_export/)
 - [Can&#39;t build Kotlin Native on IntellyJ Community Edition](https://www.reddit.com/r/Kotlin/comments/zvnuhg/cant_build_kotlin_native_on_intellyj_community/)
 - [Create a list of 2-element arrays from two lists of equal size](https://www.reddit.com/r/Kotlin/comments/zvlm57/create_a_list_of_2element_arrays_from_two_lists/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [is there a *short* yet good book on kotlin?](https://www.reddit.com/r/Kotlin/comments/zv14xf/is_there_a_short_yet_good_book_on_kotlin/)
 - [Hi developers people, I started learning kotlin a few days ago and I am walking at a steady pace, my question to you as a beginner, will jetpack compose be a strong competitor to flutter, will kotlin end the competition with Dart language and eliminate it?](https://www.reddit.com/r/Kotlin/comments/zuwc4r/hi_developers_people_i_started_learning_kotlin_a/)
 - [How should I look for Kotlin Backend Developer roles?](https://www.reddit.com/r/Kotlin/comments/zum5jc/how_should_i_look_for_kotlin_backend_developer/)
-- [Best Database for financial App](https://www.reddit.com/r/Kotlin/comments/zue6ot/best_database_for_financial_app/)
-- [Kweb 1.3.2 Released: Bugfixes for Bidirectional Syncing of Input Values with the Server](https://www.reddit.com/r/Kotlin/comments/zubdhh/kweb_132_released_bugfixes_for_bidirectional/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
