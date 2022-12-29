@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Algo-trading with Kotlin](https://www.reddit.com/r/Kotlin/comments/zxj3wb/algotrading_with_kotlin/)
+- [5 Design Patterns Every Android Developer Must Know](https://www.reddit.com/r/Kotlin/comments/zxifnh/5_design_patterns_every_android_developer_must/)
+- [A new major mode for editing Kotlin in Emacs, based on tree-sitter](https://www.reddit.com/r/Kotlin/comments/zxg99h/a_new_major_mode_for_editing_kotlin_in_emacs/)
+- [Kotlin 1.8.0 has been released!](https://www.reddit.com/r/Kotlin/comments/zxch4f/kotlin_180_has_been_released/)
+- [Help using a local sql file for an app database](https://www.reddit.com/r/Kotlin/comments/zxbxl1/help_using_a_local_sql_file_for_an_app_database/)
+- [Extending Kotlin language?](https://www.reddit.com/r/Kotlin/comments/zx8tlu/extending_kotlin_language/)
+- [KMM or Flutter](https://www.reddit.com/r/Kotlin/comments/zx7ld6/kmm_or_flutter/)
+- [Simulating &amp; troubleshooting StackOverflowError in Kotlin](https://www.reddit.com/r/Kotlin/comments/zx7740/simulating_troubleshooting_stackoverflowerror_in/)
 - [Kotlin beginner, app development](https://www.reddit.com/r/Kotlin/comments/zwpgw8/kotlin_beginner_app_development/)
 - [What technology to choose for the App Lock Kotlin?](https://www.reddit.com/r/Kotlin/comments/zwk97g/what_technology_to_choose_for_the_app_lock_kotlin/)
-- [Why are there so many restrictions on JS export?](https://www.reddit.com/r/Kotlin/comments/zvy7g4/why_are_there_so_many_restrictions_on_js_export/)
-- [Can&#39;t build Kotlin Native on IntellyJ Community Edition](https://www.reddit.com/r/Kotlin/comments/zvnuhg/cant_build_kotlin_native_on_intellyj_community/)
-- [Create a list of 2-element arrays from two lists of equal size](https://www.reddit.com/r/Kotlin/comments/zvlm57/create_a_list_of_2element_arrays_from_two_lists/)
-- [Best Practices to Avoid Shadowing Variables When Building a DSL](https://www.reddit.com/r/Kotlin/comments/zvdba7/best_practices_to_avoid_shadowing_variables_when/)
-- [Does Kotlin support JPMS modules?](https://www.reddit.com/r/Kotlin/comments/zv32xc/does_kotlin_support_jpms_modules/)
-- [is there a *short* yet good book on kotlin?](https://www.reddit.com/r/Kotlin/comments/zv14xf/is_there_a_short_yet_good_book_on_kotlin/)
-- [Hi developers people, I started learning kotlin a few days ago and I am walking at a steady pace, my question to you as a beginner, will jetpack compose be a strong competitor to flutter, will kotlin end the competition with Dart language and eliminate it?](https://www.reddit.com/r/Kotlin/comments/zuwc4r/hi_developers_people_i_started_learning_kotlin_a/)
-- [How should I look for Kotlin Backend Developer roles?](https://www.reddit.com/r/Kotlin/comments/zum5jc/how_should_i_look_for_kotlin_backend_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
