@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for feedback where to start &lpar;new to Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/zymv0y/looking_for_feedback_where_to_start_new_to_kotlin/)
+- [writing and running kotlin on my phone.](https://www.reddit.com/r/Kotlin/comments/zyi9fz/writing_and_running_kotlin_on_my_phone/)
+- [📺 5 Awesome Kotlin Projects: People Even Write Games In Kotlin!](https://www.reddit.com/r/Kotlin/comments/zyaqbi/5_awesome_kotlin_projects_people_even_write_games/)
+- [Impact of Java Loom on Kotlin&#39;s future](https://www.reddit.com/r/Kotlin/comments/zy6qh1/impact_of_java_loom_on_kotlins_future/)
+- [Which library to use to make use of a deep Q-Learning algorithm?](https://www.reddit.com/r/Kotlin/comments/zy64za/which_library_to_use_to_make_use_of_a_deep/)
+- [What backend framework is best to learn first?](https://www.reddit.com/r/Kotlin/comments/zy0oas/what_backend_framework_is_best_to_learn_first/)
+- [How do i flip a digit at a certain position? What am i doing wrong?](https://www.reddit.com/r/Kotlin/comments/zxycck/how_do_i_flip_a_digit_at_a_certain_position_what/)
+- [What&#39;s new in Kotlin 1.8.0](https://www.reddit.com/r/Kotlin/comments/zxwka2/whats_new_in_kotlin_180/)
+- [Strange thing while compilation](https://www.reddit.com/r/Kotlin/comments/zxu3bk/strange_thing_while_compilation/)
 - [Algo-trading with Kotlin](https://www.reddit.com/r/Kotlin/comments/zxj3wb/algotrading_with_kotlin/)
-- [5 Design Patterns Every Android Developer Must Know](https://www.reddit.com/r/Kotlin/comments/zxifnh/5_design_patterns_every_android_developer_must/)
-- [A new major mode for editing Kotlin in Emacs, based on tree-sitter](https://www.reddit.com/r/Kotlin/comments/zxg99h/a_new_major_mode_for_editing_kotlin_in_emacs/)
-- [Kotlin 1.8.0 has been released!](https://www.reddit.com/r/Kotlin/comments/zxch4f/kotlin_180_has_been_released/)
-- [Help using a local sql file for an app database](https://www.reddit.com/r/Kotlin/comments/zxbxl1/help_using_a_local_sql_file_for_an_app_database/)
-- [Extending Kotlin language?](https://www.reddit.com/r/Kotlin/comments/zx8tlu/extending_kotlin_language/)
-- [KMM or Flutter](https://www.reddit.com/r/Kotlin/comments/zx7ld6/kmm_or_flutter/)
-- [Simulating &amp; troubleshooting StackOverflowError in Kotlin](https://www.reddit.com/r/Kotlin/comments/zx7740/simulating_troubleshooting_stackoverflowerror_in/)
-- [Kotlin beginner, app development](https://www.reddit.com/r/Kotlin/comments/zwpgw8/kotlin_beginner_app_development/)
-- [What technology to choose for the App Lock Kotlin?](https://www.reddit.com/r/Kotlin/comments/zwk97g/what_technology_to_choose_for_the_app_lock_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
