@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin for full desktop development](https://www.reddit.com/r/Kotlin/comments/zzdo1p/kotlin_for_full_desktop_development/)
+- [Testing vs Monitoring - Deploying a Performance Improvement](https://www.reddit.com/r/Kotlin/comments/zz4cd9/testing_vs_monitoring_deploying_a_performance/)
+- [Which is more readable](https://www.reddit.com/r/Kotlin/comments/zz289j/which_is_more_readable/)
+- [TIL that println&lpar;&rpar; will throw an NPE for a nullable platform type even though it&#39;s supposed to take `Any?` as an argument type...](https://www.reddit.com/r/Kotlin/comments/zz12k2/til_that_println_will_throw_an_npe_for_a_nullable/)
+- [🌐 A tiny HTTP client for Kotlin/Android. Only 90 lines of code](https://www.reddit.com/r/Kotlin/comments/zyxerd/a_tiny_http_client_for_kotlinandroid_only_90/)
+- [ChildEventListener to read data from Firebase Realtime Database but located inside the recycler view.adapter &lpar;not activity/fragment&rpar;](https://www.reddit.com/r/Kotlin/comments/zyq77h/childeventlistener_to_read_data_from_firebase/)
 - [Looking for feedback where to start &lpar;new to Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/zymv0y/looking_for_feedback_where_to_start_new_to_kotlin/)
 - [writing and running kotlin on my phone.](https://www.reddit.com/r/Kotlin/comments/zyi9fz/writing_and_running_kotlin_on_my_phone/)
 - [📺 5 Awesome Kotlin Projects: People Even Write Games In Kotlin!](https://www.reddit.com/r/Kotlin/comments/zyaqbi/5_awesome_kotlin_projects_people_even_write_games/)
 - [Impact of Java Loom on Kotlin&#39;s future](https://www.reddit.com/r/Kotlin/comments/zy6qh1/impact_of_java_loom_on_kotlins_future/)
-- [Which library to use to make use of a deep Q-Learning algorithm?](https://www.reddit.com/r/Kotlin/comments/zy64za/which_library_to_use_to_make_use_of_a_deep/)
-- [What backend framework is best to learn first?](https://www.reddit.com/r/Kotlin/comments/zy0oas/what_backend_framework_is_best_to_learn_first/)
-- [How do i flip a digit at a certain position? What am i doing wrong?](https://www.reddit.com/r/Kotlin/comments/zxycck/how_do_i_flip_a_digit_at_a_certain_position_what/)
-- [What&#39;s new in Kotlin 1.8.0](https://www.reddit.com/r/Kotlin/comments/zxwka2/whats_new_in_kotlin_180/)
-- [Strange thing while compilation](https://www.reddit.com/r/Kotlin/comments/zxu3bk/strange_thing_while_compilation/)
-- [Algo-trading with Kotlin](https://www.reddit.com/r/Kotlin/comments/zxj3wb/algotrading_with_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
