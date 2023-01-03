@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Delegation](https://www.reddit.com/r/Kotlin/comments/101olm5/kotlin_delegation/)
+- [Kotlin Native bindings for GTK4](https://www.reddit.com/r/Kotlin/comments/101l4cp/kotlin_native_bindings_for_gtk4/)
+- [Why compose multiplatform don&#39;t get more popular?](https://www.reddit.com/r/Kotlin/comments/101c4k0/why_compose_multiplatform_dont_get_more_popular/)
 - [Open Source Webhooks as a Service](https://www.reddit.com/r/Kotlin/comments/1005kqu/open_source_webhooks_as_a_service/)
 - [Did you use reflection in #kotlin?](https://www.reddit.com/r/Kotlin/comments/1000az2/did_you_use_reflection_in_kotlin/)
 - [Kotlin CLI template using GraalVM w/ releases using GitHub actions and Homebrew](https://www.reddit.com/r/Kotlin/comments/zzvi6e/kotlin_cli_template_using_graalvm_w_releases/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Valiktor Validate an enum class values. Help!](https://www.reddit.com/r/Kotlin/comments/zzsgvy/valiktor_validate_an_enum_class_values_help/)
 - [KVision 6.0.0 is released](https://www.reddit.com/r/Kotlin/comments/zzr3hv/kvision_600_is_released/)
 - [What is this pattern/syntax called?](https://www.reddit.com/r/Kotlin/comments/zzk00t/what_is_this_patternsyntax_called/)
-- [Kotlin for full desktop development](https://www.reddit.com/r/Kotlin/comments/zzdo1p/kotlin_for_full_desktop_development/)
-- [Testing vs Monitoring - Deploying a Performance Improvement](https://www.reddit.com/r/Kotlin/comments/zz4cd9/testing_vs_monitoring_deploying_a_performance/)
-- [Which is more readable](https://www.reddit.com/r/Kotlin/comments/zz289j/which_is_more_readable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
