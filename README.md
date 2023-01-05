@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where is the kotlin multiplatform documentation](https://www.reddit.com/r/Kotlin/comments/103hmkj/where_is_the_kotlin_multiplatform_documentation/)
+- [How do you think of Kotlin code?](https://www.reddit.com/r/Kotlin/comments/103fgki/how_do_you_think_of_kotlin_code/)
+- [We released small no-dependencies UrlEncoder libraries for Kotlin and Java that actually encode URL parameters and not HTML form parameters, as the JDK URLEncoder does.](https://www.reddit.com/r/Kotlin/comments/103dt7x/we_released_small_nodependencies_urlencoder/)
+- [send value from a popup fragment main activity](https://www.reddit.com/r/Kotlin/comments/10398xx/send_value_from_a_popup_fragment_main_activity/)
+- [Animations with Doodle 0.9.0](https://www.reddit.com/r/Kotlin/comments/1038bap/animations_with_doodle_090/)
+- [Learn everything about the onStart &amp; onCompletion Lifecycle Operators in Kotlin Flow!](https://www.reddit.com/r/Kotlin/comments/1034qc6/learn_everything_about_the_onstart_oncompletion/)
 - [Kotlin Delegation](https://www.reddit.com/r/Kotlin/comments/101olm5/kotlin_delegation/)
 - [Kotlin Native bindings for GTK4](https://www.reddit.com/r/Kotlin/comments/101l4cp/kotlin_native_bindings_for_gtk4/)
 - [Why compose multiplatform don&#39;t get more popular?](https://www.reddit.com/r/Kotlin/comments/101c4k0/why_compose_multiplatform_dont_get_more_popular/)
 - [Open Source Webhooks as a Service](https://www.reddit.com/r/Kotlin/comments/1005kqu/open_source_webhooks_as_a_service/)
-- [Did you use reflection in #kotlin?](https://www.reddit.com/r/Kotlin/comments/1000az2/did_you_use_reflection_in_kotlin/)
-- [Kotlin CLI template using GraalVM w/ releases using GitHub actions and Homebrew](https://www.reddit.com/r/Kotlin/comments/zzvi6e/kotlin_cli_template_using_graalvm_w_releases/)
-- [What is ArrayDeque || Kotlin Deque?](https://www.reddit.com/r/Kotlin/comments/zztj21/what_is_arraydeque_kotlin_deque/)
-- [Valiktor Validate an enum class values. Help!](https://www.reddit.com/r/Kotlin/comments/zzsgvy/valiktor_validate_an_enum_class_values_help/)
-- [KVision 6.0.0 is released](https://www.reddit.com/r/Kotlin/comments/zzr3hv/kvision_600_is_released/)
-- [What is this pattern/syntax called?](https://www.reddit.com/r/Kotlin/comments/zzk00t/what_is_this_patternsyntax_called/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
