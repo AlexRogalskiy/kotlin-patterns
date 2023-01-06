@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I think I’ve been using the wrong Kotlin](https://www.reddit.com/r/Kotlin/comments/104ag68/i_think_ive_been_using_the_wrong_kotlin/)
+- [mutableState is not getting called](https://www.reddit.com/r/Kotlin/comments/10495u2/mutablestate_is_not_getting_called/)
+- [help! am ı dumb?](https://www.reddit.com/r/Kotlin/comments/10483rb/help_am_ı_dumb/)
+- [searching for a kotlin dev for android](https://www.reddit.com/r/Kotlin/comments/10417q2/searching_for_a_kotlin_dev_for_android/)
+- [The list of KotlinConf&#39;23 speakers has been finalized](https://www.reddit.com/r/Kotlin/comments/103yiy2/the_list_of_kotlinconf23_speakers_has_been/)
+- [KediatR: A mediator library in Kotlin](https://www.reddit.com/r/Kotlin/comments/103wc7a/kediatr_a_mediator_library_in_kotlin/)
 - [Where is the kotlin multiplatform documentation](https://www.reddit.com/r/Kotlin/comments/103hmkj/where_is_the_kotlin_multiplatform_documentation/)
 - [How do you think of Kotlin code?](https://www.reddit.com/r/Kotlin/comments/103fgki/how_do_you_think_of_kotlin_code/)
 - [We released small no-dependencies UrlEncoder libraries for Kotlin and Java that actually encode URL parameters and not HTML form parameters, as the JDK URLEncoder does.](https://www.reddit.com/r/Kotlin/comments/103dt7x/we_released_small_nodependencies_urlencoder/)
 - [send value from a popup fragment main activity](https://www.reddit.com/r/Kotlin/comments/10398xx/send_value_from_a_popup_fragment_main_activity/)
-- [Animations with Doodle 0.9.0](https://www.reddit.com/r/Kotlin/comments/1038bap/animations_with_doodle_090/)
-- [Learn everything about the onStart &amp; onCompletion Lifecycle Operators in Kotlin Flow!](https://www.reddit.com/r/Kotlin/comments/1034qc6/learn_everything_about_the_onstart_oncompletion/)
-- [Kotlin Delegation](https://www.reddit.com/r/Kotlin/comments/101olm5/kotlin_delegation/)
-- [Kotlin Native bindings for GTK4](https://www.reddit.com/r/Kotlin/comments/101l4cp/kotlin_native_bindings_for_gtk4/)
-- [Why compose multiplatform don&#39;t get more popular?](https://www.reddit.com/r/Kotlin/comments/101c4k0/why_compose_multiplatform_dont_get_more_popular/)
-- [Open Source Webhooks as a Service](https://www.reddit.com/r/Kotlin/comments/1005kqu/open_source_webhooks_as_a_service/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
