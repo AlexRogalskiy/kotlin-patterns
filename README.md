@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [If Kotlin runs on JVM, does that mean Kotlin can be used literally anywhere Java can be used?](https://www.reddit.com/r/Kotlin/comments/107123o/if_kotlin_runs_on_jvm_does_that_mean_kotlin_can/)
+- [Advent of Code Day 1 in Kotlin](https://www.reddit.com/r/Kotlin/comments/106wd5f/advent_of_code_day_1_in_kotlin/)
+- [A friend took a look at my code and asked if I needed mental help. Is he right? What are your thoughts?](https://www.reddit.com/r/Kotlin/comments/106le0g/a_friend_took_a_look_at_my_code_and_asked_if_i/)
+- [Kotlin Spring Boot Tutorial Series](https://www.reddit.com/r/Kotlin/comments/106ikxn/kotlin_spring_boot_tutorial_series/)
+- [Android &lpar;Kotlin&rpar; Jetpack compose Foldable device using Window Manager Hindi](https://www.reddit.com/r/Kotlin/comments/106c57m/android_kotlin_jetpack_compose_foldable_device/)
 - [Ktoml 0.4.0 released 🎉](https://www.reddit.com/r/Kotlin/comments/1062ifh/ktoml_040_released/)
 - [How can I add buttons that pops up on click without using the activity_main.xml method?](https://www.reddit.com/r/Kotlin/comments/105z2oi/how_can_i_add_buttons_that_pops_up_on_click/)
 - [BDD unit test framework for kotlin](https://www.reddit.com/r/Kotlin/comments/105p8sa/bdd_unit_test_framework_for_kotlin/)
 - [Kweb 1.3.5 released with update to Ktor 2.2.2, and Gradle 7.6](https://www.reddit.com/r/Kotlin/comments/105nzk5/kweb_135_released_with_update_to_ktor_222_and/)
 - [Does Kotlin multiplaform work for creating desktop apps too? I want to create an app for MacOS/Windows and there&#39;s nothing in the documentation on how to set that up](https://www.reddit.com/r/Kotlin/comments/105g4ad/does_kotlin_multiplaform_work_for_creating/)
-- [Are noinline and crossinline purely used to guide Kotlin compilation correctness?](https://www.reddit.com/r/Kotlin/comments/1057wg5/are_noinline_and_crossinline_purely_used_to_guide/)
-- [Where to start when creating the first real project?](https://www.reddit.com/r/Kotlin/comments/1055akd/where_to_start_when_creating_the_first_real/)
-- [Atomic Kotlin: Maps](https://www.reddit.com/r/Kotlin/comments/104z9x6/atomic_kotlin_maps/)
-- [Kotlin assertion libraries - JUnit, Hamkrest and Strikt](https://www.reddit.com/r/Kotlin/comments/104yier/kotlin_assertion_libraries_junit_hamkrest_and/)
-- [Kotlin Coroutines - A Comprehensive Introduction](https://www.reddit.com/r/Kotlin/comments/104p0v4/kotlin_coroutines_a_comprehensive_introduction/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
