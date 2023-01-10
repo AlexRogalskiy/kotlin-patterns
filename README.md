@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Game Engines](https://www.reddit.com/r/Kotlin/comments/107vpuu/kotlin_game_engines/)
+- [Opinions on default parameters?](https://www.reddit.com/r/Kotlin/comments/107f5oe/opinions_on_default_parameters/)
+- [A short conversation about Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/107d8r6/a_short_conversation_about_kotlin_multiplatform/)
+- [Live Stream creating KMM app?](https://www.reddit.com/r/Kotlin/comments/107750m/live_stream_creating_kmm_app/)
+- [Failed to initialize JPA EntityManagerFactory: Could not determine recommended JdbcType for `ar.com.school.management.models.entity.Subject`](https://www.reddit.com/r/Kotlin/comments/1073oyv/failed_to_initialize_jpa_entitymanagerfactory/)
 - [If Kotlin runs on JVM, does that mean Kotlin can be used literally anywhere Java can be used?](https://www.reddit.com/r/Kotlin/comments/107123o/if_kotlin_runs_on_jvm_does_that_mean_kotlin_can/)
 - [Advent of Code Day 1 in Kotlin](https://www.reddit.com/r/Kotlin/comments/106wd5f/advent_of_code_day_1_in_kotlin/)
 - [A friend took a look at my code and asked if I needed mental help. Is he right? What are your thoughts?](https://www.reddit.com/r/Kotlin/comments/106le0g/a_friend_took_a_look_at_my_code_and_asked_if_i/)
 - [Kotlin Spring Boot Tutorial Series](https://www.reddit.com/r/Kotlin/comments/106ikxn/kotlin_spring_boot_tutorial_series/)
 - [Android &lpar;Kotlin&rpar; Jetpack compose Foldable device using Window Manager Hindi](https://www.reddit.com/r/Kotlin/comments/106c57m/android_kotlin_jetpack_compose_foldable_device/)
-- [Ktoml 0.4.0 released 🎉](https://www.reddit.com/r/Kotlin/comments/1062ifh/ktoml_040_released/)
-- [How can I add buttons that pops up on click without using the activity_main.xml method?](https://www.reddit.com/r/Kotlin/comments/105z2oi/how_can_i_add_buttons_that_pops_up_on_click/)
-- [BDD unit test framework for kotlin](https://www.reddit.com/r/Kotlin/comments/105p8sa/bdd_unit_test_framework_for_kotlin/)
-- [Kweb 1.3.5 released with update to Ktor 2.2.2, and Gradle 7.6](https://www.reddit.com/r/Kotlin/comments/105nzk5/kweb_135_released_with_update_to_ktor_222_and/)
-- [Does Kotlin multiplaform work for creating desktop apps too? I want to create an app for MacOS/Windows and there&#39;s nothing in the documentation on how to set that up](https://www.reddit.com/r/Kotlin/comments/105g4ad/does_kotlin_multiplaform_work_for_creating/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
