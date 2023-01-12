@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Coroutines playground](https://www.reddit.com/r/Kotlin/comments/109myy3/coroutines_playground/)
+- [Subreddit, I need your help.](https://www.reddit.com/r/Kotlin/comments/109h12l/subreddit_i_need_your_help/)
+- [Creating a compiler that converts Kotlin code to Swift code](https://www.reddit.com/r/Kotlin/comments/109g9ps/creating_a_compiler_that_converts_kotlin_code_to/)
+- [Proxy server](https://www.reddit.com/r/Kotlin/comments/109a3z2/proxy_server/)
+- [Pls fix the official guide for kotlin native on linux](https://www.reddit.com/r/Kotlin/comments/1095eye/pls_fix_the_official_guide_for_kotlin_native_on/)
+- [Do Kotlin / Native in the future evolve as a competition to Go lang and Rust ?](https://www.reddit.com/r/Kotlin/comments/1095ch2/do_kotlin_native_in_the_future_evolve_as_a/)
+- [Release of roboquant version 1.0](https://www.reddit.com/r/Kotlin/comments/1092r3t/release_of_roboquant_version_10/)
+- [Can&#39;t understand,nor i can make running kotlinc to compile something natively without it&#39;s ide.](https://www.reddit.com/r/Kotlin/comments/10929n1/cant_understandnor_i_can_make_running_kotlinc_to/)
 - [Creating testing-friendly Kotlin services with http4k](https://www.reddit.com/r/Kotlin/comments/108calu/creating_testingfriendly_kotlin_services_with/)
 - [Running Kotlin coroutines on Project Loom&#39;s virtual threads](https://www.reddit.com/r/Kotlin/comments/1085bs1/running_kotlin_coroutines_on_project_looms/)
-- [Code Generation from Kotlin to C#](https://www.reddit.com/r/Kotlin/comments/1085a2x/code_generation_from_kotlin_to_c/)
-- [Micrometer Tracing in Spring Boot 3 WebFlux](https://www.reddit.com/r/Kotlin/comments/1083yso/micrometer_tracing_in_spring_boot_3_webflux/)
-- [Kotlin Game Engines](https://www.reddit.com/r/Kotlin/comments/107vpuu/kotlin_game_engines/)
-- [Opinions on default parameters?](https://www.reddit.com/r/Kotlin/comments/107f5oe/opinions_on_default_parameters/)
-- [A short conversation about Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/107d8r6/a_short_conversation_about_kotlin_multiplatform/)
-- [Live Stream creating KMM app?](https://www.reddit.com/r/Kotlin/comments/107750m/live_stream_creating_kmm_app/)
-- [Failed to initialize JPA EntityManagerFactory: Could not determine recommended JdbcType for `ar.com.school.management.models.entity.Subject`](https://www.reddit.com/r/Kotlin/comments/1073oyv/failed_to_initialize_jpa_entitymanagerfactory/)
-- [If Kotlin runs on JVM, does that mean Kotlin can be used literally anywhere Java can be used?](https://www.reddit.com/r/Kotlin/comments/107123o/if_kotlin_runs_on_jvm_does_that_mean_kotlin_can/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
