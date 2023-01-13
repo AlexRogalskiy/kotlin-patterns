@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Coroutines playground](https://www.reddit.com/r/Kotlin/comments/109myy3/coroutines_playground/)
-- [Subreddit, I need your help.](https://www.reddit.com/r/Kotlin/comments/109h12l/subreddit_i_need_your_help/)
-- [Creating a compiler that converts Kotlin code to Swift code](https://www.reddit.com/r/Kotlin/comments/109g9ps/creating_a_compiler_that_converts_kotlin_code_to/)
-- [Proxy server](https://www.reddit.com/r/Kotlin/comments/109a3z2/proxy_server/)
-- [Pls fix the official guide for kotlin native on linux](https://www.reddit.com/r/Kotlin/comments/1095eye/pls_fix_the_official_guide_for_kotlin_native_on/)
-- [Do Kotlin / Native in the future evolve as a competition to Go lang and Rust ?](https://www.reddit.com/r/Kotlin/comments/1095ch2/do_kotlin_native_in_the_future_evolve_as_a/)
-- [Release of roboquant version 1.0](https://www.reddit.com/r/Kotlin/comments/1092r3t/release_of_roboquant_version_10/)
-- [Can&#39;t understand,nor i can make running kotlinc to compile something natively without it&#39;s ide.](https://www.reddit.com/r/Kotlin/comments/10929n1/cant_understandnor_i_can_make_running_kotlinc_to/)
-- [Creating testing-friendly Kotlin services with http4k](https://www.reddit.com/r/Kotlin/comments/108calu/creating_testingfriendly_kotlin_services_with/)
-- [Running Kotlin coroutines on Project Loom&#39;s virtual threads](https://www.reddit.com/r/Kotlin/comments/1085bs1/running_kotlin_coroutines_on_project_looms/)
+- [Kotlin REPL like Jupyter in Intellij IDEA?](https://www.reddit.com/r/Kotlin/comments/10ah92f/kotlin_repl_like_jupyter_in_intellij_idea/)
+- [Phillipp Lackner jetpack compose](https://www.reddit.com/r/Kotlin/comments/10ac5t7/phillipp_lackner_jetpack_compose/)
+- [Spring Boot with Kotlin](https://www.reddit.com/r/Kotlin/comments/10a72nf/spring_boot_with_kotlin/)
+- [Controller/Keyboard navigation for Compose Desktop](https://www.reddit.com/r/Kotlin/comments/10a6oh3/controllerkeyboard_navigation_for_compose_desktop/)
+- [kotlinx.coroutines in a scratch file](https://www.reddit.com/r/Kotlin/comments/10a4kdc/kotlinxcoroutines_in_a_scratch_file/)
+- [Animated Tabs Tutorial](https://www.reddit.com/r/Kotlin/comments/10a4eek/animated_tabs_tutorial/)
+- [Creative coding with Anton Arhipov. Join the webinar!](https://www.reddit.com/r/Kotlin/comments/10a1wkr/creative_coding_with_anton_arhipov_join_the/)
+- [Kotlin 1.8.0 Released](https://www.reddit.com/r/Kotlin/comments/10a1w5m/kotlin_180_released/)
+- [Kotlin 1.8 is a phantom release](https://www.reddit.com/r/Kotlin/comments/10a0uun/kotlin_18_is_a_phantom_release/)
+- [Same Tree - Leetcode 100 - Trees are Identical or Not | Kotlin | C](https://www.reddit.com/r/Kotlin/comments/109syf7/same_tree_leetcode_100_trees_are_identical_or_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
