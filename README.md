@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a way to make this possible in Kotlin](https://www.reddit.com/r/Kotlin/comments/10b9n96/is_there_a_way_to_make_this_possible_in_kotlin/)
+- [Generating Anagrams in Kotlin](https://www.reddit.com/r/Kotlin/comments/10azffg/generating_anagrams_in_kotlin/)
+- [How does the .asLiveData&lpar;&rpar; operator work? Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10arvw0/how_does_the_aslivedata_operator_work_kotlin_flow/)
+- [Simulating &amp; troubleshooting StackOverflowError in Kotlin](https://www.reddit.com/r/Kotlin/comments/10arekh/simulating_troubleshooting_stackoverflowerror_in/)
+- [Does SharedFlow exist in memory as long as there are collectors subscribed to it?](https://www.reddit.com/r/Kotlin/comments/10aphso/does_sharedflow_exist_in_memory_as_long_as_there/)
+- [Using Koltin script instead of bash](https://www.reddit.com/r/Kotlin/comments/10akin9/using_koltin_script_instead_of_bash/)
 - [Kotlin REPL like Jupyter in Intellij IDEA?](https://www.reddit.com/r/Kotlin/comments/10ah92f/kotlin_repl_like_jupyter_in_intellij_idea/)
 - [Phillipp Lackner jetpack compose](https://www.reddit.com/r/Kotlin/comments/10ac5t7/phillipp_lackner_jetpack_compose/)
 - [Spring Boot with Kotlin](https://www.reddit.com/r/Kotlin/comments/10a72nf/spring_boot_with_kotlin/)
 - [Controller/Keyboard navigation for Compose Desktop](https://www.reddit.com/r/Kotlin/comments/10a6oh3/controllerkeyboard_navigation_for_compose_desktop/)
-- [kotlinx.coroutines in a scratch file](https://www.reddit.com/r/Kotlin/comments/10a4kdc/kotlinxcoroutines_in_a_scratch_file/)
-- [Animated Tabs Tutorial](https://www.reddit.com/r/Kotlin/comments/10a4eek/animated_tabs_tutorial/)
-- [Creative coding with Anton Arhipov. Join the webinar!](https://www.reddit.com/r/Kotlin/comments/10a1wkr/creative_coding_with_anton_arhipov_join_the/)
-- [Kotlin 1.8.0 Released](https://www.reddit.com/r/Kotlin/comments/10a1w5m/kotlin_180_released/)
-- [Kotlin 1.8 is a phantom release](https://www.reddit.com/r/Kotlin/comments/10a0uun/kotlin_18_is_a_phantom_release/)
-- [Same Tree - Leetcode 100 - Trees are Identical or Not | Kotlin | C](https://www.reddit.com/r/Kotlin/comments/109syf7/same_tree_leetcode_100_trees_are_identical_or_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
