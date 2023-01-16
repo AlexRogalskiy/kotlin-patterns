@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [is it possible to create kotlin as external server ?](https://www.reddit.com/r/Kotlin/comments/10co49n/is_it_possible_to_create_kotlin_as_external_server/)
+- [I benchmarked kotlin rust and go. The results will shock you , or not.](https://www.reddit.com/r/Kotlin/comments/10cmmkz/i_benchmarked_kotlin_rust_and_go_the_results_will/)
 - [x-post from r/learnkotlin - Can&#39;t find the main method in codebase](https://www.reddit.com/r/Kotlin/comments/10c0gxq/xpost_from_rlearnkotlin_cant_find_the_main_method/)
 - [Kotlin MPP Library usage in Vite &lpar;svelte&rpar;](https://www.reddit.com/r/Kotlin/comments/10bw3hg/kotlin_mpp_library_usage_in_vite_svelte/)
 - [Want to learn Kotlin as first programming language](https://www.reddit.com/r/Kotlin/comments/10bdwk6/want_to_learn_kotlin_as_first_programming_language/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How does the .asLiveData&lpar;&rpar; operator work? Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10arvw0/how_does_the_aslivedata_operator_work_kotlin_flow/)
 - [Simulating &amp; troubleshooting StackOverflowError in Kotlin](https://www.reddit.com/r/Kotlin/comments/10arekh/simulating_troubleshooting_stackoverflowerror_in/)
 - [Does SharedFlow exist in memory as long as there are collectors subscribed to it?](https://www.reddit.com/r/Kotlin/comments/10aphso/does_sharedflow_exist_in_memory_as_long_as_there/)
-- [Using Koltin script instead of bash](https://www.reddit.com/r/Kotlin/comments/10akin9/using_koltin_script_instead_of_bash/)
-- [Kotlin REPL like Jupyter in Intellij IDEA?](https://www.reddit.com/r/Kotlin/comments/10ah92f/kotlin_repl_like_jupyter_in_intellij_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
