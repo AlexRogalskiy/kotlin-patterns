@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin tool to manage your CV](https://www.reddit.com/r/Kotlin/comments/10dlk7o/kotlin_tool_to_manage_your_cv/)
+- [Experimental Kotlin support in Pulumi – infrastructure as code in your favorite programming language](https://www.reddit.com/r/Kotlin/comments/10dhu94/experimental_kotlin_support_in_pulumi/)
 - [is it possible to create kotlin as external server ?](https://www.reddit.com/r/Kotlin/comments/10co49n/is_it_possible_to_create_kotlin_as_external_server/)
 - [I benchmarked kotlin rust and go. The results will shock you , or not.](https://www.reddit.com/r/Kotlin/comments/10cmmkz/i_benchmarked_kotlin_rust_and_go_the_results_will/)
 - [x-post from r/learnkotlin - Can&#39;t find the main method in codebase](https://www.reddit.com/r/Kotlin/comments/10c0gxq/xpost_from_rlearnkotlin_cant_find_the_main_method/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Is there a way to make this possible in Kotlin](https://www.reddit.com/r/Kotlin/comments/10b9n96/is_there_a_way_to_make_this_possible_in_kotlin/)
 - [Generating Anagrams in Kotlin](https://www.reddit.com/r/Kotlin/comments/10azffg/generating_anagrams_in_kotlin/)
 - [How does the .asLiveData&lpar;&rpar; operator work? Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10arvw0/how_does_the_aslivedata_operator_work_kotlin_flow/)
-- [Simulating &amp; troubleshooting StackOverflowError in Kotlin](https://www.reddit.com/r/Kotlin/comments/10arekh/simulating_troubleshooting_stackoverflowerror_in/)
-- [Does SharedFlow exist in memory as long as there are collectors subscribed to it?](https://www.reddit.com/r/Kotlin/comments/10aphso/does_sharedflow_exist_in_memory_as_long_as_there/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
