@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Already experienced with Flutter. Best courses to learn Kotlin Android development?](https://www.reddit.com/r/Kotlin/comments/10eqomd/already_experienced_with_flutter_best_courses_to/)
+- [Advice - Kotlin Course or Start on a Project?](https://www.reddit.com/r/Kotlin/comments/10eipu0/advice_kotlin_course_or_start_on_a_project/)
+- [Any way to add annotation arguments at runtime?](https://www.reddit.com/r/Kotlin/comments/10efwdp/any_way_to_add_annotation_arguments_at_runtime/)
+- [purecode - Functional Programming Talks | Free Event](https://www.reddit.com/r/Kotlin/comments/10eav3c/purecode_functional_programming_talks_free_event/)
+- [How would I create an app like Shazam for android?](https://www.reddit.com/r/Kotlin/comments/10e99mh/how_would_i_create_an_app_like_shazam_for_android/)
+- [Best YouTube channels to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/10e6sqi/best_youtube_channels_to_learn_kotlin/)
 - [Kotlin tool to manage your CV](https://www.reddit.com/r/Kotlin/comments/10dlk7o/kotlin_tool_to_manage_your_cv/)
 - [Experimental Kotlin support in Pulumi – infrastructure as code in your favorite programming language](https://www.reddit.com/r/Kotlin/comments/10dhu94/experimental_kotlin_support_in_pulumi/)
 - [is it possible to create kotlin as external server ?](https://www.reddit.com/r/Kotlin/comments/10co49n/is_it_possible_to_create_kotlin_as_external_server/)
 - [I benchmarked kotlin rust and go. The results will shock you , or not.](https://www.reddit.com/r/Kotlin/comments/10cmmkz/i_benchmarked_kotlin_rust_and_go_the_results_will/)
-- [x-post from r/learnkotlin - Can&#39;t find the main method in codebase](https://www.reddit.com/r/Kotlin/comments/10c0gxq/xpost_from_rlearnkotlin_cant_find_the_main_method/)
-- [Kotlin MPP Library usage in Vite &lpar;svelte&rpar;](https://www.reddit.com/r/Kotlin/comments/10bw3hg/kotlin_mpp_library_usage_in_vite_svelte/)
-- [Want to learn Kotlin as first programming language](https://www.reddit.com/r/Kotlin/comments/10bdwk6/want_to_learn_kotlin_as_first_programming_language/)
-- [Is there a way to make this possible in Kotlin](https://www.reddit.com/r/Kotlin/comments/10b9n96/is_there_a_way_to_make_this_possible_in_kotlin/)
-- [Generating Anagrams in Kotlin](https://www.reddit.com/r/Kotlin/comments/10azffg/generating_anagrams_in_kotlin/)
-- [How does the .asLiveData&lpar;&rpar; operator work? Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10arvw0/how_does_the_aslivedata_operator_work_kotlin_flow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
