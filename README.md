@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Already experienced with Flutter. Best courses to learn Kotlin Android development?](https://www.reddit.com/r/Kotlin/comments/10eqomd/already_experienced_with_flutter_best_courses_to/)
-- [Advice - Kotlin Course or Start on a Project?](https://www.reddit.com/r/Kotlin/comments/10eipu0/advice_kotlin_course_or_start_on_a_project/)
-- [Any way to add annotation arguments at runtime?](https://www.reddit.com/r/Kotlin/comments/10efwdp/any_way_to_add_annotation_arguments_at_runtime/)
-- [purecode - Functional Programming Talks | Free Event](https://www.reddit.com/r/Kotlin/comments/10eav3c/purecode_functional_programming_talks_free_event/)
-- [How would I create an app like Shazam for android?](https://www.reddit.com/r/Kotlin/comments/10e99mh/how_would_i_create_an_app_like_shazam_for_android/)
-- [Best YouTube channels to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/10e6sqi/best_youtube_channels_to_learn_kotlin/)
-- [Kotlin tool to manage your CV](https://www.reddit.com/r/Kotlin/comments/10dlk7o/kotlin_tool_to_manage_your_cv/)
-- [Experimental Kotlin support in Pulumi – infrastructure as code in your favorite programming language](https://www.reddit.com/r/Kotlin/comments/10dhu94/experimental_kotlin_support_in_pulumi/)
-- [is it possible to create kotlin as external server ?](https://www.reddit.com/r/Kotlin/comments/10co49n/is_it_possible_to_create_kotlin_as_external_server/)
-- [I benchmarked kotlin rust and go. The results will shock you , or not.](https://www.reddit.com/r/Kotlin/comments/10cmmkz/i_benchmarked_kotlin_rust_and_go_the_results_will/)
+- [@JvmRecord on data class?](https://www.reddit.com/r/Kotlin/comments/10focc5/jvmrecord_on_data_class/)
+- [What is the best framework or library to create a GraphQL API and call GraphQL API in Kotlin?](https://www.reddit.com/r/Kotlin/comments/10fiy5u/what_is_the_best_framework_or_library_to_create_a/)
+- [Lightweight framework for a web app in Kotlin?](https://www.reddit.com/r/Kotlin/comments/10ffpff/lightweight_framework_for_a_web_app_in_kotlin/)
+- [Learn all about the Kotlin Flow intermediate operators: map, filter, take, drop, transform, withIndex, dictinctUntilChanged | Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10fail9/learn_all_about_the_kotlin_flow_intermediate/)
+- [reflective-mockk: Stub methods programmatically using kotlin-reflect](https://www.reddit.com/r/Kotlin/comments/10f92ju/reflectivemockk_stub_methods_programmatically/)
+- [Maps for an android app](https://www.reddit.com/r/Kotlin/comments/10f48j4/maps_for_an_android_app/)
+- [How to setup coroutine on React Native Android?](https://www.reddit.com/r/Kotlin/comments/10f3a4m/how_to_setup_coroutine_on_react_native_android/)
+- [#Kotlin val vs const val for variable declaration in Hindi](https://www.reddit.com/r/Kotlin/comments/10f2cdn/kotlin_val_vs_const_val_for_variable_declaration/)
+- [Cypher DSL for Kotlin](https://www.reddit.com/r/Kotlin/comments/10f1ryp/cypher_dsl_for_kotlin/)
+- [New version of KStateMachine library has arrived &lpar;0.18.1&rpar;](https://www.reddit.com/r/Kotlin/comments/10eyqui/new_version_of_kstatemachine_library_has_arrived/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
