@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose multiplatform image from URL](https://www.reddit.com/r/Kotlin/comments/10gi237/compose_multiplatform_image_from_url/)
+- [Writing proper technical articles - Stavro Xhardha](https://www.reddit.com/r/Kotlin/comments/10gchzb/writing_proper_technical_articles_stavro_xhardha/)
+- [Compose Multiplatform Maps APIs?](https://www.reddit.com/r/Kotlin/comments/10gayu0/compose_multiplatform_maps_apis/)
+- [Kotlin Function Literals with Receiver](https://www.reddit.com/r/Kotlin/comments/10gaq8i/kotlin_function_literals_with_receiver/)
+- [Destructuring Declarations﻿ In Kotlin](https://www.reddit.com/r/Kotlin/comments/10fwalt/destructuring_declarations_in_kotlin/)
+- [Which One Should You Prefer? Flutter OR Kotlin ?](https://www.reddit.com/r/Kotlin/comments/10ftfs5/which_one_should_you_prefer_flutter_or_kotlin/)
 - [@JvmRecord on data class?](https://www.reddit.com/r/Kotlin/comments/10focc5/jvmrecord_on_data_class/)
 - [What is the best framework or library to create a GraphQL API and call GraphQL API in Kotlin?](https://www.reddit.com/r/Kotlin/comments/10fiy5u/what_is_the_best_framework_or_library_to_create_a/)
 - [Lightweight framework for a web app in Kotlin?](https://www.reddit.com/r/Kotlin/comments/10ffpff/lightweight_framework_for_a_web_app_in_kotlin/)
 - [Learn all about the Kotlin Flow intermediate operators: map, filter, take, drop, transform, withIndex, dictinctUntilChanged | Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10fail9/learn_all_about_the_kotlin_flow_intermediate/)
-- [reflective-mockk: Stub methods programmatically using kotlin-reflect](https://www.reddit.com/r/Kotlin/comments/10f92ju/reflectivemockk_stub_methods_programmatically/)
-- [Maps for an android app](https://www.reddit.com/r/Kotlin/comments/10f48j4/maps_for_an_android_app/)
-- [How to setup coroutine on React Native Android?](https://www.reddit.com/r/Kotlin/comments/10f3a4m/how_to_setup_coroutine_on_react_native_android/)
-- [#Kotlin val vs const val for variable declaration in Hindi](https://www.reddit.com/r/Kotlin/comments/10f2cdn/kotlin_val_vs_const_val_for_variable_declaration/)
-- [Cypher DSL for Kotlin](https://www.reddit.com/r/Kotlin/comments/10f1ryp/cypher_dsl_for_kotlin/)
-- [New version of KStateMachine library has arrived &lpar;0.18.1&rpar;](https://www.reddit.com/r/Kotlin/comments/10eyqui/new_version_of_kstatemachine_library_has_arrived/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
