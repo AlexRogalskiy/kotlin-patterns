@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Optimize Your Kotlin Performance - Profiling, Micro-optimizations and Precomputing](https://www.reddit.com/r/Kotlin/comments/10h5fge/optimize_your_kotlin_performance_profiling/)
+- [Can someone advice me a learning strategy for kotlin?](https://www.reddit.com/r/Kotlin/comments/10h4pd2/can_someone_advice_me_a_learning_strategy_for/)
+- [ki - A Better Interactive Shell for Kotlin](https://www.reddit.com/r/Kotlin/comments/10gzwvn/ki_a_better_interactive_shell_for_kotlin/)
+- [Kotlin Cross Platform development with MacMin?](https://www.reddit.com/r/Kotlin/comments/10gxzbn/kotlin_cross_platform_development_with_macmin/)
+- [JPA Inheritance annotations with Kotlin](https://www.reddit.com/r/Kotlin/comments/10gxay6/jpa_inheritance_annotations_with_kotlin/)
+- [Kotlin Collections Operations: reduce and fold](https://www.reddit.com/r/Kotlin/comments/10gpxvr/kotlin_collections_operations_reduce_and_fold/)
 - [Compose multiplatform image from URL](https://www.reddit.com/r/Kotlin/comments/10gi237/compose_multiplatform_image_from_url/)
 - [Writing proper technical articles - Stavro Xhardha](https://www.reddit.com/r/Kotlin/comments/10gchzb/writing_proper_technical_articles_stavro_xhardha/)
 - [Compose Multiplatform Maps APIs?](https://www.reddit.com/r/Kotlin/comments/10gayu0/compose_multiplatform_maps_apis/)
 - [Kotlin Function Literals with Receiver](https://www.reddit.com/r/Kotlin/comments/10gaq8i/kotlin_function_literals_with_receiver/)
-- [Destructuring Declarations﻿ In Kotlin](https://www.reddit.com/r/Kotlin/comments/10fwalt/destructuring_declarations_in_kotlin/)
-- [Which One Should You Prefer? Flutter OR Kotlin ?](https://www.reddit.com/r/Kotlin/comments/10ftfs5/which_one_should_you_prefer_flutter_or_kotlin/)
-- [@JvmRecord on data class?](https://www.reddit.com/r/Kotlin/comments/10focc5/jvmrecord_on_data_class/)
-- [What is the best framework or library to create a GraphQL API and call GraphQL API in Kotlin?](https://www.reddit.com/r/Kotlin/comments/10fiy5u/what_is_the_best_framework_or_library_to_create_a/)
-- [Lightweight framework for a web app in Kotlin?](https://www.reddit.com/r/Kotlin/comments/10ffpff/lightweight_framework_for_a_web_app_in_kotlin/)
-- [Learn all about the Kotlin Flow intermediate operators: map, filter, take, drop, transform, withIndex, dictinctUntilChanged | Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10fail9/learn_all_about_the_kotlin_flow_intermediate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
