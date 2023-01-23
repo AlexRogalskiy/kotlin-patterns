@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP scary generated variable](https://www.reddit.com/r/Kotlin/comments/10ivhxb/kmp_scary_generated_variable/)
+- [Kotlin is tightly linked to IntelliJ and that&#39;s a risk](https://www.reddit.com/r/Kotlin/comments/10it3v8/kotlin_is_tightly_linked_to_intellij_and_thats_a/)
+- [How to write a test for the Application class in Spring Boot for Kotlin](https://www.reddit.com/r/Kotlin/comments/10ilzi8/how_to_write_a_test_for_the_application_class_in/)
+- [Kotlin Arrays Equality Tips](https://www.reddit.com/r/Kotlin/comments/10ihl0r/kotlin_arrays_equality_tips/)
+- [Language usage in Fushia OS](https://www.reddit.com/r/Kotlin/comments/10ih4el/language_usage_in_fushia_os/)
 - [Extreme NavController Import Problems](https://www.reddit.com/r/Kotlin/comments/10i7vwp/extreme_navcontroller_import_problems/)
 - [How does one verify if a List/SingletonList is null or empty?](https://www.reddit.com/r/Kotlin/comments/10hx9u0/how_does_one_verify_if_a_listsingletonlist_is/)
 - [Any good arrow-kt guides?](https://www.reddit.com/r/Kotlin/comments/10hr3gz/any_good_arrowkt_guides/)
 - [Tips for Working With Strings in Kotlin &lpar;removeSurrounding, ignoreCase, joinToString and more&rpar;](https://www.reddit.com/r/Kotlin/comments/10hnt4d/tips_for_working_with_strings_in_kotlin/)
 - [Optimize Your Kotlin Performance - Profiling, Micro-optimizations and Precomputing](https://www.reddit.com/r/Kotlin/comments/10h5fge/optimize_your_kotlin_performance_profiling/)
-- [Can someone advice me a learning strategy for kotlin?](https://www.reddit.com/r/Kotlin/comments/10h4pd2/can_someone_advice_me_a_learning_strategy_for/)
-- [ki - A Better Interactive Shell for Kotlin](https://www.reddit.com/r/Kotlin/comments/10gzwvn/ki_a_better_interactive_shell_for_kotlin/)
-- [Kotlin Cross Platform development with MacMin?](https://www.reddit.com/r/Kotlin/comments/10gxzbn/kotlin_cross_platform_development_with_macmin/)
-- [JPA Inheritance annotations with Kotlin](https://www.reddit.com/r/Kotlin/comments/10gxay6/jpa_inheritance_annotations_with_kotlin/)
-- [Kotlin Collections Operations: reduce and fold](https://www.reddit.com/r/Kotlin/comments/10gpxvr/kotlin_collections_operations_reduce_and_fold/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
