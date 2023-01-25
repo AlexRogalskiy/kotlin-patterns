@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any Kotlin backend devs out there interested in mentoring?](https://www.reddit.com/r/Kotlin/comments/10jodwy/any_kotlin_backend_devs_out_there_interested_in/)
+- [Kotlin refactoring: 8 tips from practice](https://www.reddit.com/r/Kotlin/comments/10kdgx8/kotlin_refactoring_8_tips_from_practice/)
+- [App not installed android 11](https://www.reddit.com/r/Kotlin/comments/10kbvwv/app_not_installed_android_11/)
+- [Opened a ticket to jetbrains around tailwind support for JTE](https://www.reddit.com/r/Kotlin/comments/10k3blq/opened_a_ticket_to_jetbrains_around_tailwind/)
+- [Exoplayer Extension VP9 is 16kb?](https://www.reddit.com/r/Kotlin/comments/10jxw2s/exoplayer_extension_vp9_is_16kb/)
 - [Project](https://www.reddit.com/r/Kotlin/comments/10jmdrd/project/)
 - [Is Kotlin scripting dead?](https://www.reddit.com/r/Kotlin/comments/10jm5a5/is_kotlin_scripting_dead/)
 - [Can someone explain the code?](https://www.reddit.com/r/Kotlin/comments/10jitpl/can_someone_explain_the_code/)
 - [Data Structures in Kotlin - LinkedList Problems](https://www.reddit.com/r/Kotlin/comments/10jidfp/data_structures_in_kotlin_linkedlist_problems/)
 - [Auxiliary Camera support in Android](https://www.reddit.com/r/Kotlin/comments/10jgdxy/auxiliary_camera_support_in_android/)
 - [Character Vector for a character set](https://www.reddit.com/r/Kotlin/comments/10jc414/character_vector_for_a_character_set/)
-- [Comparing Implementations of the Monkey Language XI: Going Native &lpar;and JS&rpar; with Kotlin.](https://www.reddit.com/r/Kotlin/comments/10j9sr8/comparing_implementations_of_the_monkey_language/)
-- [Who is causing this error?](https://www.reddit.com/r/Kotlin/comments/10j692s/who_is_causing_this_error/)
-- [Kotlin Sorting Functions Tips](https://www.reddit.com/r/Kotlin/comments/10j5xsj/kotlin_sorting_functions_tips/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
