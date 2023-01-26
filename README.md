@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Mutation Tests](https://www.reddit.com/r/Kotlin/comments/10le1c4/kotlin_mutation_tests/)
+- [Is it possible to make Mac desktop apps with Kotlin?](https://www.reddit.com/r/Kotlin/comments/10l807t/is_it_possible_to_make_mac_desktop_apps_with/)
+- [Kotlin Dataframe 0.9.1 released!](https://www.reddit.com/r/Kotlin/comments/10l52un/kotlin_dataframe_091_released/)
+- [What is the porpuse of implementing and interface in a companion object? What is it&#39;s equivalent in Java?](https://www.reddit.com/r/Kotlin/comments/10l2m83/what_is_the_porpuse_of_implementing_and_interface/)
+- [Concurrent Flows with the buffer operator | Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10l1brt/concurrent_flows_with_the_buffer_operator_kotlin/)
+- [Notification Service Question](https://www.reddit.com/r/Kotlin/comments/10l0vsl/notification_service_question/)
+- [Simulating &amp; troubleshooting BLOCKED threads in Kotlin](https://www.reddit.com/r/Kotlin/comments/10krsq9/simulating_troubleshooting_blocked_threads_in/)
 - [Kotlin refactoring: 8 tips from practice](https://www.reddit.com/r/Kotlin/comments/10kdgx8/kotlin_refactoring_8_tips_from_practice/)
 - [App not installed android 11](https://www.reddit.com/r/Kotlin/comments/10kbvwv/app_not_installed_android_11/)
 - [Opened a ticket to jetbrains around tailwind support for JTE](https://www.reddit.com/r/Kotlin/comments/10k3blq/opened_a_ticket_to_jetbrains_around_tailwind/)
-- [Exoplayer Extension VP9 is 16kb?](https://www.reddit.com/r/Kotlin/comments/10jxw2s/exoplayer_extension_vp9_is_16kb/)
-- [Project](https://www.reddit.com/r/Kotlin/comments/10jmdrd/project/)
-- [Is Kotlin scripting dead?](https://www.reddit.com/r/Kotlin/comments/10jm5a5/is_kotlin_scripting_dead/)
-- [Can someone explain the code?](https://www.reddit.com/r/Kotlin/comments/10jitpl/can_someone_explain_the_code/)
-- [Data Structures in Kotlin - LinkedList Problems](https://www.reddit.com/r/Kotlin/comments/10jidfp/data_structures_in_kotlin_linkedlist_problems/)
-- [Auxiliary Camera support in Android](https://www.reddit.com/r/Kotlin/comments/10jgdxy/auxiliary_camera_support_in_android/)
-- [Character Vector for a character set](https://www.reddit.com/r/Kotlin/comments/10jc414/character_vector_for_a_character_set/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
