@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Data Objects &lpar;New in Kotlin 1.9&rpar;](https://www.reddit.com/r/Kotlin/comments/10ly0jl/kotlin_data_objects_new_in_kotlin_19/)
+- [How does KMM work internally?](https://www.reddit.com/r/Kotlin/comments/10lwy73/how_does_kmm_work_internally/)
+- [Is there a java file to kotlin file translator?](https://www.reddit.com/r/Kotlin/comments/10lwjsr/is_there_a_java_file_to_kotlin_file_translator/)
+- [Kotlin/Native Multiple Files &amp; Entry Points](https://www.reddit.com/r/Kotlin/comments/10lsnos/kotlinnative_multiple_files_entry_points/)
+- [Is there anything wrong with my code that would prohibit it from displaying images taken from firebase?](https://www.reddit.com/r/Kotlin/comments/10loh8c/is_there_anything_wrong_with_my_code_that_would/)
+- [recommendations for books advice for someone that hasnt worked with kotlin for a few years.](https://www.reddit.com/r/Kotlin/comments/10lljav/recommendations_for_books_advice_for_someone_that/)
+- [Imperative to Functional style](https://www.reddit.com/r/Kotlin/comments/10llb4w/imperative_to_functional_style/)
 - [Kotlin Mutation Tests](https://www.reddit.com/r/Kotlin/comments/10le1c4/kotlin_mutation_tests/)
 - [Is it possible to make Mac desktop apps with Kotlin?](https://www.reddit.com/r/Kotlin/comments/10l807t/is_it_possible_to_make_mac_desktop_apps_with/)
 - [Kotlin Dataframe 0.9.1 released!](https://www.reddit.com/r/Kotlin/comments/10l52un/kotlin_dataframe_091_released/)
-- [What is the porpuse of implementing and interface in a companion object? What is it&#39;s equivalent in Java?](https://www.reddit.com/r/Kotlin/comments/10l2m83/what_is_the_porpuse_of_implementing_and_interface/)
-- [Concurrent Flows with the buffer operator | Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10l1brt/concurrent_flows_with_the_buffer_operator_kotlin/)
-- [Notification Service Question](https://www.reddit.com/r/Kotlin/comments/10l0vsl/notification_service_question/)
-- [Simulating &amp; troubleshooting BLOCKED threads in Kotlin](https://www.reddit.com/r/Kotlin/comments/10krsq9/simulating_troubleshooting_blocked_threads_in/)
-- [Kotlin refactoring: 8 tips from practice](https://www.reddit.com/r/Kotlin/comments/10kdgx8/kotlin_refactoring_8_tips_from_practice/)
-- [App not installed android 11](https://www.reddit.com/r/Kotlin/comments/10kbvwv/app_not_installed_android_11/)
-- [Opened a ticket to jetbrains around tailwind support for JTE](https://www.reddit.com/r/Kotlin/comments/10k3blq/opened_a_ticket_to_jetbrains_around_tailwind/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
