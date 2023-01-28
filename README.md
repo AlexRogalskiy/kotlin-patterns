@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why do Kotlin tests &lpar;for Gradle projects&rpar; have to be inside classes?](https://www.reddit.com/r/Kotlin/comments/10n29rq/why_do_kotlin_tests_for_gradle_projects_have_to/)
+- [AnimationDrawable not Working](https://www.reddit.com/r/Kotlin/comments/10mz3jk/animationdrawable_not_working/)
+- [First time here; Could not find compile target android-33 for modules :app](https://www.reddit.com/r/Kotlin/comments/10mnflm/first_time_here_could_not_find_compile_target/)
+- [Is it possible to make iOS apps with Kotlin?](https://www.reddit.com/r/Kotlin/comments/10mihh3/is_it_possible_to_make_ios_apps_with_kotlin/)
+- [Master Complex Algorithm Testing Using Property-Based Tests](https://www.reddit.com/r/Kotlin/comments/10mihcr/master_complex_algorithm_testing_using/)
+- [C:/Users/LENOVO/.gradle/caches/transforms-2/files-2.1/2bcd0a6b95744b6f0ee26f9336bd22eb/jetified-annotation-jvm-1.6.0-beta01.jar!/META-INF/annotation.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.8.0, expected version is 1.6.0.](https://www.reddit.com/r/Kotlin/comments/10mhtaq/cuserslenovogradlecachestransforms2files212bcd0a6b/)
+- [[Meta] Should the trend of users posting Android questions on here be curbed? If so, how?](https://www.reddit.com/r/Kotlin/comments/10mebyt/meta_should_the_trend_of_users_posting_android/)
+- [How to Embed Interactive Kotlin Code into Your Medium Articles](https://www.reddit.com/r/Kotlin/comments/10mce1e/how_to_embed_interactive_kotlin_code_into_your/)
 - [Kotlin Data Objects &lpar;New in Kotlin 1.9&rpar;](https://www.reddit.com/r/Kotlin/comments/10ly0jl/kotlin_data_objects_new_in_kotlin_19/)
 - [How does KMM work internally?](https://www.reddit.com/r/Kotlin/comments/10lwy73/how_does_kmm_work_internally/)
-- [Is there a java file to kotlin file translator?](https://www.reddit.com/r/Kotlin/comments/10lwjsr/is_there_a_java_file_to_kotlin_file_translator/)
-- [Kotlin/Native Multiple Files &amp; Entry Points](https://www.reddit.com/r/Kotlin/comments/10lsnos/kotlinnative_multiple_files_entry_points/)
-- [Is there anything wrong with my code that would prohibit it from displaying images taken from firebase?](https://www.reddit.com/r/Kotlin/comments/10loh8c/is_there_anything_wrong_with_my_code_that_would/)
-- [recommendations for books advice for someone that hasnt worked with kotlin for a few years.](https://www.reddit.com/r/Kotlin/comments/10lljav/recommendations_for_books_advice_for_someone_that/)
-- [Imperative to Functional style](https://www.reddit.com/r/Kotlin/comments/10llb4w/imperative_to_functional_style/)
-- [Kotlin Mutation Tests](https://www.reddit.com/r/Kotlin/comments/10le1c4/kotlin_mutation_tests/)
-- [Is it possible to make Mac desktop apps with Kotlin?](https://www.reddit.com/r/Kotlin/comments/10l807t/is_it_possible_to_make_mac_desktop_apps_with/)
-- [Kotlin Dataframe 0.9.1 released!](https://www.reddit.com/r/Kotlin/comments/10l52un/kotlin_dataframe_091_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
