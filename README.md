@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [React native vs flutter vs native &lpar;Kotlin&rpar; for a newbie programmer](https://www.reddit.com/r/Kotlin/comments/10op8mv/react_native_vs_flutter_vs_native_kotlin_for_a/)
+- [Experience with recruiting for Kotlin project](https://www.reddit.com/r/Kotlin/comments/10nyxkb/experience_with_recruiting_for_kotlin_project/)
 - [Which logging library do you use for KMP?](https://www.reddit.com/r/Kotlin/comments/10ntuti/which_logging_library_do_you_use_for_kmp/)
 - [Adding a new platform to Kotlin Native](https://www.reddit.com/r/Kotlin/comments/10nptvk/adding_a_new_platform_to_kotlin_native/)
 - [Is there any use for me to learn Kotlin as a backend developer careerwise?](https://www.reddit.com/r/Kotlin/comments/10nlpxu/is_there_any_use_for_me_to_learn_kotlin_as_a/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [It is a good way to hide MockMvcs assertions?](https://www.reddit.com/r/Kotlin/comments/10navtx/it_is_a_good_way_to_hide_mockmvcs_assertions/)
 - [Will Loom Kill Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/10n9h08/will_loom_kill_kotlin_coroutines/)
 - [Why do Kotlin tests &lpar;for Gradle projects&rpar; have to be inside classes?](https://www.reddit.com/r/Kotlin/comments/10n29rq/why_do_kotlin_tests_for_gradle_projects_have_to/)
-- [AnimationDrawable not Working](https://www.reddit.com/r/Kotlin/comments/10mz3jk/animationdrawable_not_working/)
-- [Is it possible to make iOS apps with Kotlin?](https://www.reddit.com/r/Kotlin/comments/10mihh3/is_it_possible_to_make_ios_apps_with_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
