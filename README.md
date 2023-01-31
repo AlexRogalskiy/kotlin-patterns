@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP: A Use Case For Common UI Behavior – Touchlab](https://www.reddit.com/r/Kotlin/comments/10pd63t/kmp_a_use_case_for_common_ui_behavior_touchlab/)
+- [Could you suggest better kotlin-way for these overloading methods?](https://www.reddit.com/r/Kotlin/comments/10oujui/could_you_suggest_better_kotlinway_for_these/)
 - [React native vs flutter vs native &lpar;Kotlin&rpar; for a newbie programmer](https://www.reddit.com/r/Kotlin/comments/10op8mv/react_native_vs_flutter_vs_native_kotlin_for_a/)
 - [Experience with recruiting for Kotlin project](https://www.reddit.com/r/Kotlin/comments/10nyxkb/experience_with_recruiting_for_kotlin_project/)
 - [Which logging library do you use for KMP?](https://www.reddit.com/r/Kotlin/comments/10ntuti/which_logging_library_do_you_use_for_kmp/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Neat Kotlin Puzzlers](https://www.reddit.com/r/Kotlin/comments/10nkjlv/neat_kotlin_puzzlers/)
 - [How do I use launch correctly?](https://www.reddit.com/r/Kotlin/comments/10nk6c2/how_do_i_use_launch_correctly/)
 - [It is a good way to hide MockMvcs assertions?](https://www.reddit.com/r/Kotlin/comments/10navtx/it_is_a_good_way_to_hide_mockmvcs_assertions/)
-- [Will Loom Kill Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/10n9h08/will_loom_kill_kotlin_coroutines/)
-- [Why do Kotlin tests &lpar;for Gradle projects&rpar; have to be inside classes?](https://www.reddit.com/r/Kotlin/comments/10n29rq/why_do_kotlin_tests_for_gradle_projects_have_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
