@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin as a first language?](https://www.reddit.com/r/Kotlin/comments/10r13l7/kotlin_as_a_first_language/)
+- [I&#39;m new to Kotlin &lpar;coming from Java&rpar; and was wondering if someone could explain this syntax to me:](https://www.reddit.com/r/Kotlin/comments/10qqbx9/im_new_to_kotlin_coming_from_java_and_was/)
 - [What&#39;s &quot;language version 2.0&quot;?](https://www.reddit.com/r/Kotlin/comments/10qcvkk/whats_language_version_20/)
 - [Desktop Compose File Saving using SqlDelight](https://www.reddit.com/r/Kotlin/comments/10q8xfd/desktop_compose_file_saving_using_sqldelight/)
 - [We Are Improving Library Authors’ Experience!](https://www.reddit.com/r/Kotlin/comments/10q2ejp/we_are_improving_library_authors_experience/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin 1.8 with JDK 17 using Maven](https://www.reddit.com/r/Kotlin/comments/10ptb12/kotlin_18_with_jdk_17_using_maven/)
 - [How do I measure application memory consumption?](https://www.reddit.com/r/Kotlin/comments/10pslj5/how_do_i_measure_application_memory_consumption/)
 - [KMP: A Use Case For Common UI Behavior – Touchlab](https://www.reddit.com/r/Kotlin/comments/10pd63t/kmp_a_use_case_for_common_ui_behavior_touchlab/)
-- [Could you suggest better kotlin-way for these overloading methods?](https://www.reddit.com/r/Kotlin/comments/10oujui/could_you_suggest_better_kotlinway_for_these/)
-- [React native vs flutter vs native &lpar;Kotlin&rpar; for a newbie programmer](https://www.reddit.com/r/Kotlin/comments/10op8mv/react_native_vs_flutter_vs_native_kotlin_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
