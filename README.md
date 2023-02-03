@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Euro conversion calculator help &lpar;HW&rpar;](https://www.reddit.com/r/Kotlin/comments/10s695m/euro_conversion_calculator_help_hw/)
+- [open the default file manager of the phone](https://www.reddit.com/r/Kotlin/comments/10s1of2/open_the_default_file_manager_of_the_phone/)
+- [Where should I learn Kotlin as a beginner?](https://www.reddit.com/r/Kotlin/comments/10s073i/where_should_i_learn_kotlin_as_a_beginner/)
+- [Kotlin Quick Tip: Swap Two Variables in one readable line](https://www.reddit.com/r/Kotlin/comments/10rw59l/kotlin_quick_tip_swap_two_variables_in_one/)
+- [Take part in the Kotlin onboarding survey for the chance to win a prize](https://www.reddit.com/r/Kotlin/comments/10rqpc2/take_part_in_the_kotlin_onboarding_survey_for_the/)
+- [What is the best way to move from React Native to native Android development?](https://www.reddit.com/r/Kotlin/comments/10rmgrw/what_is_the_best_way_to_move_from_react_native_to/)
+- [How should I make &quot;choices&quot;?](https://www.reddit.com/r/Kotlin/comments/10rkwyg/how_should_i_make_choices/)
+- [What are &quot;common&quot;, &quot;JVM&quot;, &quot;android&quot;, and &quot;JS&quot; Kotlin components?](https://www.reddit.com/r/Kotlin/comments/10rikz0/what_are_common_jvm_android_and_js_kotlin/)
 - [Kotlin as a first language?](https://www.reddit.com/r/Kotlin/comments/10r13l7/kotlin_as_a_first_language/)
 - [I&#39;m new to Kotlin &lpar;coming from Java&rpar; and was wondering if someone could explain this syntax to me:](https://www.reddit.com/r/Kotlin/comments/10qqbx9/im_new_to_kotlin_coming_from_java_and_was/)
-- [What&#39;s &quot;language version 2.0&quot;?](https://www.reddit.com/r/Kotlin/comments/10qcvkk/whats_language_version_20/)
-- [Desktop Compose File Saving using SqlDelight](https://www.reddit.com/r/Kotlin/comments/10q8xfd/desktop_compose_file_saving_using_sqldelight/)
-- [We Are Improving Library Authors’ Experience!](https://www.reddit.com/r/Kotlin/comments/10q2ejp/we_are_improving_library_authors_experience/)
-- [How to handle Backpressure &lpar;aka BufferOverflows&rpar; in Kotlin Flows](https://www.reddit.com/r/Kotlin/comments/10pzyjy/how_to_handle_backpressure_aka_bufferoverflows_in/)
-- [What does this error mean?](https://www.reddit.com/r/Kotlin/comments/10pzno2/what_does_this_error_mean/)
-- [Kotlin 1.8 with JDK 17 using Maven](https://www.reddit.com/r/Kotlin/comments/10ptb12/kotlin_18_with_jdk_17_using_maven/)
-- [How do I measure application memory consumption?](https://www.reddit.com/r/Kotlin/comments/10pslj5/how_do_i_measure_application_memory_consumption/)
-- [KMP: A Use Case For Common UI Behavior – Touchlab](https://www.reddit.com/r/Kotlin/comments/10pd63t/kmp_a_use_case_for_common_ui_behavior_touchlab/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
