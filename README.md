@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best way to edit jpg exif data?](https://www.reddit.com/r/Kotlin/comments/10sz9l4/best_way_to_edit_jpg_exif_data/)
+- [Interview with Top Kotlin Contributors - Highlighting their Contributions to the Google Dev Library](https://www.reddit.com/r/Kotlin/comments/10srowa/interview_with_top_kotlin_contributors/)
+- [How to uncover Large Performance Improvements through Algorithm Analysis](https://www.reddit.com/r/Kotlin/comments/10soc50/how_to_uncover_large_performance_improvements/)
+- [Reproducible Kotlin Compiler Artifacts](https://www.reddit.com/r/Kotlin/comments/10snn49/reproducible_kotlin_compiler_artifacts/)
+- [[Exposed] How to make correct constrains in the DB](https://www.reddit.com/r/Kotlin/comments/10skpwb/exposed_how_to_make_correct_constrains_in_the_db/)
+- [What were your negative experiences when adopting KMM?](https://www.reddit.com/r/Kotlin/comments/10sig35/what_were_your_negative_experiences_when_adopting/)
+- [What are your reviews for Head First Android Development Third edition with kotlin?](https://www.reddit.com/r/Kotlin/comments/10sh94j/what_are_your_reviews_for_head_first_android/)
+- [Spring Boot Basic Structure Template &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/10sem3p/spring_boot_basic_structure_template_kotlin/)
 - [Euro conversion calculator help &lpar;HW&rpar;](https://www.reddit.com/r/Kotlin/comments/10s695m/euro_conversion_calculator_help_hw/)
 - [open the default file manager of the phone](https://www.reddit.com/r/Kotlin/comments/10s1of2/open_the_default_file_manager_of_the_phone/)
-- [Where should I learn Kotlin as a beginner?](https://www.reddit.com/r/Kotlin/comments/10s073i/where_should_i_learn_kotlin_as_a_beginner/)
-- [Kotlin Quick Tip: Swap Two Variables in one readable line](https://www.reddit.com/r/Kotlin/comments/10rw59l/kotlin_quick_tip_swap_two_variables_in_one/)
-- [Take part in the Kotlin onboarding survey for the chance to win a prize](https://www.reddit.com/r/Kotlin/comments/10rqpc2/take_part_in_the_kotlin_onboarding_survey_for_the/)
-- [What is the best way to move from React Native to native Android development?](https://www.reddit.com/r/Kotlin/comments/10rmgrw/what_is_the_best_way_to_move_from_react_native_to/)
-- [How should I make &quot;choices&quot;?](https://www.reddit.com/r/Kotlin/comments/10rkwyg/how_should_i_make_choices/)
-- [What are &quot;common&quot;, &quot;JVM&quot;, &quot;android&quot;, and &quot;JS&quot; Kotlin components?](https://www.reddit.com/r/Kotlin/comments/10rikz0/what_are_common_jvm_android_and_js_kotlin/)
-- [Kotlin as a first language?](https://www.reddit.com/r/Kotlin/comments/10r13l7/kotlin_as_a_first_language/)
-- [I&#39;m new to Kotlin &lpar;coming from Java&rpar; and was wondering if someone could explain this syntax to me:](https://www.reddit.com/r/Kotlin/comments/10qqbx9/im_new_to_kotlin_coming_from_java_and_was/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
