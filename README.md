@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [BEGINNER QUESTION::Program logic checks out but keep getting this error](https://www.reddit.com/r/Kotlin/comments/10txvgp/beginner_questionprogram_logic_checks_out_but/)
+- [How often do you guys use Calculus and/or Vectors in Kotlin?](https://www.reddit.com/r/Kotlin/comments/10tokl6/how_often_do_you_guys_use_calculus_andor_vectors/)
+- [Why don&#39;t my flow collect? &lpar;newbie&rpar;](https://www.reddit.com/r/Kotlin/comments/10tkqtg/why_dont_my_flow_collect_newbie/)
+- [Implementing a object detection into a kotlin mobile application](https://www.reddit.com/r/Kotlin/comments/10ti4pv/implementing_a_object_detection_into_a_kotlin/)
 - [Best way to edit jpg exif data?](https://www.reddit.com/r/Kotlin/comments/10sz9l4/best_way_to_edit_jpg_exif_data/)
 - [Interview with Top Kotlin Contributors - Highlighting their Contributions to the Google Dev Library](https://www.reddit.com/r/Kotlin/comments/10srowa/interview_with_top_kotlin_contributors/)
 - [How to uncover Large Performance Improvements through Algorithm Analysis](https://www.reddit.com/r/Kotlin/comments/10soc50/how_to_uncover_large_performance_improvements/)
 - [Reproducible Kotlin Compiler Artifacts](https://www.reddit.com/r/Kotlin/comments/10snn49/reproducible_kotlin_compiler_artifacts/)
 - [[Exposed] How to make correct constrains in the DB](https://www.reddit.com/r/Kotlin/comments/10skpwb/exposed_how_to_make_correct_constrains_in_the_db/)
 - [What were your negative experiences when adopting KMM?](https://www.reddit.com/r/Kotlin/comments/10sig35/what_were_your_negative_experiences_when_adopting/)
-- [What are your reviews for Head First Android Development Third edition with kotlin?](https://www.reddit.com/r/Kotlin/comments/10sh94j/what_are_your_reviews_for_head_first_android/)
-- [Spring Boot Basic Structure Template &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/10sem3p/spring_boot_basic_structure_template_kotlin/)
-- [Euro conversion calculator help &lpar;HW&rpar;](https://www.reddit.com/r/Kotlin/comments/10s695m/euro_conversion_calculator_help_hw/)
-- [open the default file manager of the phone](https://www.reddit.com/r/Kotlin/comments/10s1of2/open_the_default_file_manager_of_the_phone/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
