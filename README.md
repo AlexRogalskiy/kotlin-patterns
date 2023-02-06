@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Roadmap for learning Kotlin Backend Development](https://www.reddit.com/r/Kotlin/comments/10uul28/roadmap_for_learning_kotlin_backend_development/)
+- [A Kotlin to Dart compiler](https://www.reddit.com/r/Kotlin/comments/10ukwi4/a_kotlin_to_dart_compiler/)
+- [Compose multi platform geometry playground using canvas](https://www.reddit.com/r/Kotlin/comments/10uhz1j/compose_multi_platform_geometry_playground_using/)
+- [Been using ChatGBT to learn Kotlin. Think its a good idea?](https://www.reddit.com/r/Kotlin/comments/10tzne0/been_using_chatgbt_to_learn_kotlin_think_its_a/)
 - [BEGINNER QUESTION::Program logic checks out but keep getting this error](https://www.reddit.com/r/Kotlin/comments/10txvgp/beginner_questionprogram_logic_checks_out_but/)
 - [How often do you guys use Calculus and/or Vectors in Kotlin?](https://www.reddit.com/r/Kotlin/comments/10tokl6/how_often_do_you_guys_use_calculus_andor_vectors/)
 - [Why don&#39;t my flow collect? &lpar;newbie&rpar;](https://www.reddit.com/r/Kotlin/comments/10tkqtg/why_dont_my_flow_collect_newbie/)
 - [Implementing a object detection into a kotlin mobile application](https://www.reddit.com/r/Kotlin/comments/10ti4pv/implementing_a_object_detection_into_a_kotlin/)
 - [Best way to edit jpg exif data?](https://www.reddit.com/r/Kotlin/comments/10sz9l4/best_way_to_edit_jpg_exif_data/)
 - [Interview with Top Kotlin Contributors - Highlighting their Contributions to the Google Dev Library](https://www.reddit.com/r/Kotlin/comments/10srowa/interview_with_top_kotlin_contributors/)
-- [How to uncover Large Performance Improvements through Algorithm Analysis](https://www.reddit.com/r/Kotlin/comments/10soc50/how_to_uncover_large_performance_improvements/)
-- [Reproducible Kotlin Compiler Artifacts](https://www.reddit.com/r/Kotlin/comments/10snn49/reproducible_kotlin_compiler_artifacts/)
-- [[Exposed] How to make correct constrains in the DB](https://www.reddit.com/r/Kotlin/comments/10skpwb/exposed_how_to_make_correct_constrains_in_the_db/)
-- [What were your negative experiences when adopting KMM?](https://www.reddit.com/r/Kotlin/comments/10sig35/what_were_your_negative_experiences_when_adopting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
