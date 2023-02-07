@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any Courses With Compose Included?](https://www.reddit.com/r/Kotlin/comments/10viwya/any_courses_with_compose_included/)
+- [Do I need to learn about databases and frameworks before I start building? &lpar;to learn more about Kotlin?](https://www.reddit.com/r/Kotlin/comments/10vipyn/do_i_need_to_learn_about_databases_and_frameworks/)
+- [Kotlin Illustrated Guide - Intro to Class-Level Delegation](https://www.reddit.com/r/Kotlin/comments/10vg31u/kotlin_illustrated_guide_intro_to_classlevel/)
+- [Kotlin Tips: Default Values for Arrays and Maps](https://www.reddit.com/r/Kotlin/comments/10vd67b/kotlin_tips_default_values_for_arrays_and_maps/)
+- [What do Kotlin developers mean when they call Flow and Channel &quot;primitives&quot;?](https://www.reddit.com/r/Kotlin/comments/10v6va3/what_do_kotlin_developers_mean_when_they_call/)
+- [Key Features of Kotlin programming languages](https://www.reddit.com/r/Kotlin/comments/10v11yx/key_features_of_kotlin_programming_languages/)
+- [Short Circuits, Bottom Types and the Vacuous Boomerang](https://www.reddit.com/r/Kotlin/comments/10v0if7/short_circuits_bottom_types_and_the_vacuous/)
+- [What are the good code formatters for Kotlin?](https://www.reddit.com/r/Kotlin/comments/10v042b/what_are_the_good_code_formatters_for_kotlin/)
 - [Roadmap for learning Kotlin Backend Development](https://www.reddit.com/r/Kotlin/comments/10uul28/roadmap_for_learning_kotlin_backend_development/)
 - [A Kotlin to Dart compiler](https://www.reddit.com/r/Kotlin/comments/10ukwi4/a_kotlin_to_dart_compiler/)
-- [Compose multi platform geometry playground using canvas](https://www.reddit.com/r/Kotlin/comments/10uhz1j/compose_multi_platform_geometry_playground_using/)
-- [Been using ChatGBT to learn Kotlin. Think its a good idea?](https://www.reddit.com/r/Kotlin/comments/10tzne0/been_using_chatgbt_to_learn_kotlin_think_its_a/)
-- [BEGINNER QUESTION::Program logic checks out but keep getting this error](https://www.reddit.com/r/Kotlin/comments/10txvgp/beginner_questionprogram_logic_checks_out_but/)
-- [How often do you guys use Calculus and/or Vectors in Kotlin?](https://www.reddit.com/r/Kotlin/comments/10tokl6/how_often_do_you_guys_use_calculus_andor_vectors/)
-- [Why don&#39;t my flow collect? &lpar;newbie&rpar;](https://www.reddit.com/r/Kotlin/comments/10tkqtg/why_dont_my_flow_collect_newbie/)
-- [Implementing a object detection into a kotlin mobile application](https://www.reddit.com/r/Kotlin/comments/10ti4pv/implementing_a_object_detection_into_a_kotlin/)
-- [Best way to edit jpg exif data?](https://www.reddit.com/r/Kotlin/comments/10sz9l4/best_way_to_edit_jpg_exif_data/)
-- [Interview with Top Kotlin Contributors - Highlighting their Contributions to the Google Dev Library](https://www.reddit.com/r/Kotlin/comments/10srowa/interview_with_top_kotlin_contributors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
