@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Alternate freeware IDE instead of IntelliJ IDEA Ultimate Edition to build Spring boot REST backend](https://www.reddit.com/r/Kotlin/comments/10wgadi/alternate_freeware_ide_instead_of_intellij_idea/)
+- [How to pass super class parameters using Kotlin poet](https://www.reddit.com/r/Kotlin/comments/10wdxd9/how_to_pass_super_class_parameters_using_kotlin/)
+- [CRASH COURSE: Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10w8t2a/crash_course_kotlin_flow_for_android_development/)
+- [gtk-ks: Join the Effort to create GTK Bindings for Kotlin!](https://www.reddit.com/r/Kotlin/comments/10w43tb/gtkks_join_the_effort_to_create_gtk_bindings_for/)
+- [Should I jump to learn jetpack compose?](https://www.reddit.com/r/Kotlin/comments/10vykya/should_i_jump_to_learn_jetpack_compose/)
+- [A possibly dumb question...](https://www.reddit.com/r/Kotlin/comments/10vydyr/a_possibly_dumb_question/)
+- [Help with debug](https://www.reddit.com/r/Kotlin/comments/10vxsi9/help_with_debug/)
+- [Why can I not configure tasks.dokkaHtmlMultiModule?](https://www.reddit.com/r/Kotlin/comments/10vuqpk/why_can_i_not_configure_tasksdokkahtmlmultimodule/)
 - [Any Courses With Compose Included?](https://www.reddit.com/r/Kotlin/comments/10viwya/any_courses_with_compose_included/)
 - [Do I need to learn about databases and frameworks before I start building? &lpar;to learn more about Kotlin?](https://www.reddit.com/r/Kotlin/comments/10vipyn/do_i_need_to_learn_about_databases_and_frameworks/)
-- [Kotlin Illustrated Guide - Intro to Class-Level Delegation](https://www.reddit.com/r/Kotlin/comments/10vg31u/kotlin_illustrated_guide_intro_to_classlevel/)
-- [Kotlin Tips: Default Values for Arrays and Maps](https://www.reddit.com/r/Kotlin/comments/10vd67b/kotlin_tips_default_values_for_arrays_and_maps/)
-- [What do Kotlin developers mean when they call Flow and Channel &quot;primitives&quot;?](https://www.reddit.com/r/Kotlin/comments/10v6va3/what_do_kotlin_developers_mean_when_they_call/)
-- [Key Features of Kotlin programming languages](https://www.reddit.com/r/Kotlin/comments/10v11yx/key_features_of_kotlin_programming_languages/)
-- [Short Circuits, Bottom Types and the Vacuous Boomerang](https://www.reddit.com/r/Kotlin/comments/10v0if7/short_circuits_bottom_types_and_the_vacuous/)
-- [What are the good code formatters for Kotlin?](https://www.reddit.com/r/Kotlin/comments/10v042b/what_are_the_good_code_formatters_for_kotlin/)
-- [Roadmap for learning Kotlin Backend Development](https://www.reddit.com/r/Kotlin/comments/10uul28/roadmap_for_learning_kotlin_backend_development/)
-- [A Kotlin to Dart compiler](https://www.reddit.com/r/Kotlin/comments/10ukwi4/a_kotlin_to_dart_compiler/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
