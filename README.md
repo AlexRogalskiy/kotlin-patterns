@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A question about getOrPut&lpar;&rpar; from the Atomic Kotlin course.](https://www.reddit.com/r/Kotlin/comments/10xhcpv/a_question_about_getorput_from_the_atomic_kotlin/)
+- [What&#39;s new in Kotlin 1.8.20-Beta](https://www.reddit.com/r/Kotlin/comments/10x4ebt/whats_new_in_kotlin_1820beta/)
+- [I created a Kotlin client for Solana](https://www.reddit.com/r/Kotlin/comments/10x40xs/i_created_a_kotlin_client_for_solana/)
+- [The K2 Compiler is going stable in Kotlin 2.0](https://www.reddit.com/r/Kotlin/comments/10x03nl/the_k2_compiler_is_going_stable_in_kotlin_20/)
+- [Update Regarding Kotlin/Native Targets](https://www.reddit.com/r/Kotlin/comments/10wyqj5/update_regarding_kotlinnative_targets/)
+- [Error during work with Kotlin Multiplatform Library](https://www.reddit.com/r/Kotlin/comments/10wtqn3/error_during_work_with_kotlin_multiplatform/)
+- [Cool things in Kotlin but not used enough](https://www.reddit.com/r/Kotlin/comments/10wt7rl/cool_things_in_kotlin_but_not_used_enough/)
 - [Alternate freeware IDE instead of IntelliJ IDEA Ultimate Edition to build Spring boot REST backend](https://www.reddit.com/r/Kotlin/comments/10wgadi/alternate_freeware_ide_instead_of_intellij_idea/)
 - [How to pass super class parameters using Kotlin poet](https://www.reddit.com/r/Kotlin/comments/10wdxd9/how_to_pass_super_class_parameters_using_kotlin/)
 - [CRASH COURSE: Kotlin Flow for Android Development](https://www.reddit.com/r/Kotlin/comments/10w8t2a/crash_course_kotlin_flow_for_android_development/)
-- [gtk-ks: Join the Effort to create GTK Bindings for Kotlin!](https://www.reddit.com/r/Kotlin/comments/10w43tb/gtkks_join_the_effort_to_create_gtk_bindings_for/)
-- [Should I jump to learn jetpack compose?](https://www.reddit.com/r/Kotlin/comments/10vykya/should_i_jump_to_learn_jetpack_compose/)
-- [A possibly dumb question...](https://www.reddit.com/r/Kotlin/comments/10vydyr/a_possibly_dumb_question/)
-- [Help with debug](https://www.reddit.com/r/Kotlin/comments/10vxsi9/help_with_debug/)
-- [Why can I not configure tasks.dokkaHtmlMultiModule?](https://www.reddit.com/r/Kotlin/comments/10vuqpk/why_can_i_not_configure_tasksdokkahtmlmultimodule/)
-- [Any Courses With Compose Included?](https://www.reddit.com/r/Kotlin/comments/10viwya/any_courses_with_compose_included/)
-- [Do I need to learn about databases and frameworks before I start building? &lpar;to learn more about Kotlin?](https://www.reddit.com/r/Kotlin/comments/10vipyn/do_i_need_to_learn_about_databases_and_frameworks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
