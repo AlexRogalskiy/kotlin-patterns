@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My open Source Project about building a Lithuanian Vocabulary Learning App.](https://www.reddit.com/r/Kotlin/comments/10yuhl4/my_open_source_project_about_building_a/)
+- [Functional Kotlin - Simple Event Sourcing](https://www.reddit.com/r/Kotlin/comments/10ytyxh/functional_kotlin_simple_event_sourcing/)
+- [Does the documentation of async{} and launch{} apply to each other? &lpar;Aside from the difference that async {} returned a Deferred&rpar;](https://www.reddit.com/r/Kotlin/comments/10yqu9m/does_the_documentation_of_async_and_launch_apply/)
+- [Introducing the Kotlin Playground](https://www.reddit.com/r/Kotlin/comments/10ylgfe/introducing_the_kotlin_playground/)
 - [Will Project Valhalla bring Kotlin-like nulls to Java?](https://www.reddit.com/r/Kotlin/comments/10xwoql/will_project_valhalla_bring_kotlinlike_nulls_to/)
 - [Hire Kotlin App Developers | Kotlin App Development Solutions](https://www.reddit.com/r/Kotlin/comments/10xvja6/hire_kotlin_app_developers_kotlin_app_development/)
 - [Convert a string including operators to an int](https://www.reddit.com/r/Kotlin/comments/10xup9y/convert_a_string_including_operators_to_an_int/)
 - [📣 Kotlin Libraries Author Experience Survey](https://www.reddit.com/r/Kotlin/comments/10xpqxs/kotlin_libraries_author_experience_survey/)
 - [I improved a library I made a while ago to make working with data object and JDBC less tedious. I would love to see you try it and provide me with feedback.](https://www.reddit.com/r/Kotlin/comments/10xm9dv/i_improved_a_library_i_made_a_while_ago_to_make/)
-- [A question about getOrPut&lpar;&rpar; from the Atomic Kotlin course.](https://www.reddit.com/r/Kotlin/comments/10xhcpv/a_question_about_getorput_from_the_atomic_kotlin/)
 - [What&#39;s new in Kotlin 1.8.20-Beta](https://www.reddit.com/r/Kotlin/comments/10x4ebt/whats_new_in_kotlin_1820beta/)
-- [I created a Kotlin client for Solana](https://www.reddit.com/r/Kotlin/comments/10x40xs/i_created_a_kotlin_client_for_solana/)
-- [The K2 Compiler is going stable in Kotlin 2.0](https://www.reddit.com/r/Kotlin/comments/10x03nl/the_k2_compiler_is_going_stable_in_kotlin_20/)
-- [Update Regarding Kotlin/Native Targets](https://www.reddit.com/r/Kotlin/comments/10wyqj5/update_regarding_kotlinnative_targets/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
