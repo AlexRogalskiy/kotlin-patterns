@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin as a THIRD language for a relative beginner!](https://www.reddit.com/r/Kotlin/comments/110uzqg/kotlin_as_a_third_language_for_a_relative_beginner/)
+- [Do class members stay annotated when overridden by a subclass?](https://www.reddit.com/r/Kotlin/comments/110rftp/do_class_members_stay_annotated_when_overridden/)
+- [Cant run java -jar build/libs/backend-0.0.1-SNAPSHOT-plain.jar](https://www.reddit.com/r/Kotlin/comments/110hh9x/cant_run_java_jar/)
+- [Finally Started Live Streams!](https://www.reddit.com/r/Kotlin/comments/110enkj/finally_started_live_streams/)
+- [Kotlin beginner here! Anybody has free material I could learn from?](https://www.reddit.com/r/Kotlin/comments/1108whj/kotlin_beginner_here_anybody_has_free_material_i/)
+- [Kotlin Native &amp; Windows](https://www.reddit.com/r/Kotlin/comments/1108duj/kotlin_native_windows/)
+- [How many of you have pursued a career in mainly Kotlin?](https://www.reddit.com/r/Kotlin/comments/11054c0/how_many_of_you_have_pursued_a_career_in_mainly/)
 - [Guys, I think I&#39;m in love :&rpar;](https://www.reddit.com/r/Kotlin/comments/10zzwep/guys_i_think_im_in_love/)
 - [Decouple tuples in a list of tuples?](https://www.reddit.com/r/Kotlin/comments/10zugwx/decouple_tuples_in_a_list_of_tuples/)
 - [Keval, the math expression evaluator - 0.9.0](https://www.reddit.com/r/Kotlin/comments/10zskh0/keval_the_math_expression_evaluator_090/)
-- [Lite-For-JDBC : a thin library for database interactions](https://www.reddit.com/r/Kotlin/comments/10zoyfc/liteforjdbc_a_thin_library_for_database/)
-- [I finally bit the bullet after 4¼ years... good luck reviewing that 🤣](https://www.reddit.com/r/Kotlin/comments/10zor0l/i_finally_bit_the_bullet_after_4¼_years_good_luck/)
-- [Open source library for flexible load generating](https://www.reddit.com/r/Kotlin/comments/10zo2xo/open_source_library_for_flexible_load_generating/)
-- [My open Source Project about building a Lithuanian Vocabulary Learning App.](https://www.reddit.com/r/Kotlin/comments/10yuhl4/my_open_source_project_about_building_a/)
-- [Functional Kotlin - Simple Event Sourcing](https://www.reddit.com/r/Kotlin/comments/10ytyxh/functional_kotlin_simple_event_sourcing/)
-- [Does the documentation of async{} and launch{} apply to each other? &lpar;Aside from the difference that async {} returned a Deferred&rpar;](https://www.reddit.com/r/Kotlin/comments/10yqu9m/does_the_documentation_of_async_and_launch_apply/)
-- [Introducing the Kotlin Playground](https://www.reddit.com/r/Kotlin/comments/10ylgfe/introducing_the_kotlin_playground/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
