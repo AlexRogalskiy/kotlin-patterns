@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Video streaming app resources](https://www.reddit.com/r/Kotlin/comments/112dcfr/video_streaming_app_resources/)
+- [Kotlin exercism io: Saddle Points](https://www.reddit.com/r/Kotlin/comments/112chlw/kotlin_exercism_io_saddle_points/)
+- [Any idea as to how I find this location and fix it?](https://www.reddit.com/r/Kotlin/comments/112a9dz/any_idea_as_to_how_i_find_this_location_and_fix_it/)
+- [KMM for custom SDK](https://www.reddit.com/r/Kotlin/comments/111v1cn/kmm_for_custom_sdk/)
 - [The huge potential of Kotlin/Wasm](https://www.reddit.com/r/Kotlin/comments/111irgy/the_huge_potential_of_kotlinwasm/)
 - [Visualize all Kotlin Interface&#39;s in a Repo](https://www.reddit.com/r/Kotlin/comments/11163ea/visualize_all_kotlin_interfaces_in_a_repo/)
 - [Newbie Looking for Help with Callbacks Please](https://www.reddit.com/r/Kotlin/comments/111028r/newbie_looking_for_help_with_callbacks_please/)
 - [Do class members stay annotated when overridden by a subclass?](https://www.reddit.com/r/Kotlin/comments/110rftp/do_class_members_stay_annotated_when_overridden/)
 - [Cant run java -jar build/libs/backend-0.0.1-SNAPSHOT-plain.jar](https://www.reddit.com/r/Kotlin/comments/110hh9x/cant_run_java_jar/)
 - [Finally Started Live Streams!](https://www.reddit.com/r/Kotlin/comments/110enkj/finally_started_live_streams/)
-- [Kotlin beginner here! Anybody has free material I could learn from?](https://www.reddit.com/r/Kotlin/comments/1108whj/kotlin_beginner_here_anybody_has_free_material_i/)
-- [Kotlin Native &amp; Windows](https://www.reddit.com/r/Kotlin/comments/1108duj/kotlin_native_windows/)
-- [How many of you have pursued a career in mainly Kotlin?](https://www.reddit.com/r/Kotlin/comments/11054c0/how_many_of_you_have_pursued_a_career_in_mainly/)
-- [Decouple tuples in a list of tuples?](https://www.reddit.com/r/Kotlin/comments/10zugwx/decouple_tuples_in_a_list_of_tuples/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
