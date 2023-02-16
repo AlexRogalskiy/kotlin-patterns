@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android App Development in 10 Hours Bootcamp | Android 13](https://www.reddit.com/r/Kotlin/comments/113buc5/android_app_development_in_10_hours_bootcamp/)
+- [Concat Adapter and Search Filter](https://www.reddit.com/r/Kotlin/comments/113ba1l/concat_adapter_and_search_filter/)
+- [Tech-stack for web application using Kotlin?](https://www.reddit.com/r/Kotlin/comments/112yeq9/techstack_for_web_application_using_kotlin/)
+- [WorldWindKotlin multi-platform 3d map engine v1.1.27 released](https://www.reddit.com/r/Kotlin/comments/112swif/worldwindkotlin_multiplatform_3d_map_engine_v1127/)
+- [Any idea how to make it so that it’s able to be accessed from outside package?](https://www.reddit.com/r/Kotlin/comments/112pi7z/any_idea_how_to_make_it_so_that_its_able_to_be/)
 - [Video streaming app resources](https://www.reddit.com/r/Kotlin/comments/112dcfr/video_streaming_app_resources/)
 - [Kotlin exercism io: Saddle Points](https://www.reddit.com/r/Kotlin/comments/112chlw/kotlin_exercism_io_saddle_points/)
 - [Any idea as to how I find this location and fix it?](https://www.reddit.com/r/Kotlin/comments/112a9dz/any_idea_as_to_how_i_find_this_location_and_fix_it/)
 - [KMM for custom SDK](https://www.reddit.com/r/Kotlin/comments/111v1cn/kmm_for_custom_sdk/)
 - [The huge potential of Kotlin/Wasm](https://www.reddit.com/r/Kotlin/comments/111irgy/the_huge_potential_of_kotlinwasm/)
-- [Visualize all Kotlin Interface&#39;s in a Repo](https://www.reddit.com/r/Kotlin/comments/11163ea/visualize_all_kotlin_interfaces_in_a_repo/)
-- [Newbie Looking for Help with Callbacks Please](https://www.reddit.com/r/Kotlin/comments/111028r/newbie_looking_for_help_with_callbacks_please/)
-- [Do class members stay annotated when overridden by a subclass?](https://www.reddit.com/r/Kotlin/comments/110rftp/do_class_members_stay_annotated_when_overridden/)
-- [Cant run java -jar build/libs/backend-0.0.1-SNAPSHOT-plain.jar](https://www.reddit.com/r/Kotlin/comments/110hh9x/cant_run_java_jar/)
-- [Finally Started Live Streams!](https://www.reddit.com/r/Kotlin/comments/110enkj/finally_started_live_streams/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
