@@ -272,7 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android App Development in 10 Hours Bootcamp | Android 13](https://www.reddit.com/r/Kotlin/comments/113buc5/android_app_development_in_10_hours_bootcamp/)
+- [How to embed Neo4j in a compose desktop application?](https://www.reddit.com/r/Kotlin/comments/113qhzj/how_to_embed_neo4j_in_a_compose_desktop/)
 - [Concat Adapter and Search Filter](https://www.reddit.com/r/Kotlin/comments/113ba1l/concat_adapter_and_search_filter/)
 - [Tech-stack for web application using Kotlin?](https://www.reddit.com/r/Kotlin/comments/112yeq9/techstack_for_web_application_using_kotlin/)
 - [WorldWindKotlin multi-platform 3d map engine v1.1.27 released](https://www.reddit.com/r/Kotlin/comments/112swif/worldwindkotlin_multiplatform_3d_map_engine_v1127/)
