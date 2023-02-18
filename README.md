@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [unresolved reference error in import](https://www.reddit.com/r/Kotlin/comments/114zfp6/unresolved_reference_error_in_import/)
+- [What’s your most used tech stack?](https://www.reddit.com/r/Kotlin/comments/114s80i/whats_your_most_used_tech_stack/)
+- [What is the best resource&lpar;s&rpar; to learn developing Android apps with Kotlin](https://www.reddit.com/r/Kotlin/comments/114oqtc/what_is_the_best_resources_to_learn_developing/)
+- [PostgreSQL and Exposed - Kotlin database access](https://www.reddit.com/r/Kotlin/comments/114i8tj/postgresql_and_exposed_kotlin_database_access/)
 - [How to embed Neo4j in a compose desktop application?](https://www.reddit.com/r/Kotlin/comments/113qhzj/how_to_embed_neo4j_in_a_compose_desktop/)
 - [Concat Adapter and Search Filter](https://www.reddit.com/r/Kotlin/comments/113ba1l/concat_adapter_and_search_filter/)
 - [Tech-stack for web application using Kotlin?](https://www.reddit.com/r/Kotlin/comments/112yeq9/techstack_for_web_application_using_kotlin/)
 - [WorldWindKotlin multi-platform 3d map engine v1.1.27 released](https://www.reddit.com/r/Kotlin/comments/112swif/worldwindkotlin_multiplatform_3d_map_engine_v1127/)
 - [Any idea how to make it so that it’s able to be accessed from outside package?](https://www.reddit.com/r/Kotlin/comments/112pi7z/any_idea_how_to_make_it_so_that_its_able_to_be/)
 - [Video streaming app resources](https://www.reddit.com/r/Kotlin/comments/112dcfr/video_streaming_app_resources/)
-- [Kotlin exercism io: Saddle Points](https://www.reddit.com/r/Kotlin/comments/112chlw/kotlin_exercism_io_saddle_points/)
-- [Any idea as to how I find this location and fix it?](https://www.reddit.com/r/Kotlin/comments/112a9dz/any_idea_as_to_how_i_find_this_location_and_fix_it/)
-- [KMM for custom SDK](https://www.reddit.com/r/Kotlin/comments/111v1cn/kmm_for_custom_sdk/)
-- [The huge potential of Kotlin/Wasm](https://www.reddit.com/r/Kotlin/comments/111irgy/the_huge_potential_of_kotlinwasm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
