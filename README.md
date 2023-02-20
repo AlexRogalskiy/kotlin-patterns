@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&gt; Leave a like for adding decorators to kotlin: https://youtrack.jetbrains.com/issue/KT-49904](https://www.reddit.com/r/Kotlin/comments/116qhu0/leave_a_like_for_adding_decorators_to_kotlin/)
+- [Ktor client POST method not fetching data but Python requests library doing fine](https://www.reddit.com/r/Kotlin/comments/116c1d1/ktor_client_post_method_not_fetching_data_but/)
 - [New developer want to choose between multiplatform and flutter](https://www.reddit.com/r/Kotlin/comments/115ghwy/new_developer_want_to_choose_between/)
 - [KTor and non-blocking sql](https://www.reddit.com/r/Kotlin/comments/115futz/ktor_and_nonblocking_sql/)
 - [Kotlin bottom navigation app crashes every time at startup. Please follow the link given](https://www.reddit.com/r/Kotlin/comments/115bfl9/kotlin_bottom_navigation_app_crashes_every_time/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What is the best resource&lpar;s&rpar; to learn developing Android apps with Kotlin](https://www.reddit.com/r/Kotlin/comments/114oqtc/what_is_the_best_resources_to_learn_developing/)
 - [PostgreSQL and Exposed - Kotlin database access](https://www.reddit.com/r/Kotlin/comments/114i8tj/postgresql_and_exposed_kotlin_database_access/)
 - [How to embed Neo4j in a compose desktop application?](https://www.reddit.com/r/Kotlin/comments/113qhzj/how_to_embed_neo4j_in_a_compose_desktop/)
-- [Concat Adapter and Search Filter](https://www.reddit.com/r/Kotlin/comments/113ba1l/concat_adapter_and_search_filter/)
-- [Tech-stack for web application using Kotlin?](https://www.reddit.com/r/Kotlin/comments/112yeq9/techstack_for_web_application_using_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
