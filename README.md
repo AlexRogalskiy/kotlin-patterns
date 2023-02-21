@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🔁 Benjamin Kosten Announced EffeKt — Reactive Kotlin](https://www.reddit.com/r/Kotlin/comments/117n2zm/benjamin_kosten_announced_effekt_reactive_kotlin/)
+- [Kala: Android Resource Management Library](https://www.reddit.com/r/Kotlin/comments/117dfgn/kala_android_resource_management_library/)
+- [EffeKt: reactivity in kotlin](https://www.reddit.com/r/Kotlin/comments/1175zii/effekt_reactivity_in_kotlin/)
+- [Advanced Search and Filtering with JPA Specifications in Kotlin](https://www.reddit.com/r/Kotlin/comments/1171a9k/advanced_search_and_filtering_with_jpa/)
+- [How relevant is it to use Kotlin for frontend development?](https://www.reddit.com/r/Kotlin/comments/116zzu3/how_relevant_is_it_to_use_kotlin_for_frontend/)
 - [&gt; Leave a like for adding decorators to kotlin: https://youtrack.jetbrains.com/issue/KT-49904](https://www.reddit.com/r/Kotlin/comments/116qhu0/leave_a_like_for_adding_decorators_to_kotlin/)
 - [Ktor client POST method not fetching data but Python requests library doing fine](https://www.reddit.com/r/Kotlin/comments/116c1d1/ktor_client_post_method_not_fetching_data_but/)
 - [New developer want to choose between multiplatform and flutter](https://www.reddit.com/r/Kotlin/comments/115ghwy/new_developer_want_to_choose_between/)
 - [KTor and non-blocking sql](https://www.reddit.com/r/Kotlin/comments/115futz/ktor_and_nonblocking_sql/)
 - [Kotlin bottom navigation app crashes every time at startup. Please follow the link given](https://www.reddit.com/r/Kotlin/comments/115bfl9/kotlin_bottom_navigation_app_crashes_every_time/)
-- [unresolved reference error in import](https://www.reddit.com/r/Kotlin/comments/114zfp6/unresolved_reference_error_in_import/)
-- [What’s your most used tech stack?](https://www.reddit.com/r/Kotlin/comments/114s80i/whats_your_most_used_tech_stack/)
-- [What is the best resource&lpar;s&rpar; to learn developing Android apps with Kotlin](https://www.reddit.com/r/Kotlin/comments/114oqtc/what_is_the_best_resources_to_learn_developing/)
-- [PostgreSQL and Exposed - Kotlin database access](https://www.reddit.com/r/Kotlin/comments/114i8tj/postgresql_and_exposed_kotlin_database_access/)
-- [How to embed Neo4j in a compose desktop application?](https://www.reddit.com/r/Kotlin/comments/113qhzj/how_to_embed_neo4j_in_a_compose_desktop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
