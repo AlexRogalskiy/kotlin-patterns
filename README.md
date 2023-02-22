@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [🔁 Benjamin Kosten Announced EffeKt — Reactive Kotlin](https://www.reddit.com/r/Kotlin/comments/117n2zm/benjamin_kosten_announced_effekt_reactive_kotlin/)
+- [https://academy.droidcon.com/course/dependency-injection-with-koin-fundamentals. If anyone is looking to learn the basics of Android DI.](https://www.reddit.com/r/Kotlin/comments/118e1hg/httpsacademydroidconcomcoursedependencyinjectionwi/)
+- [List sorting mix of Letters and Numbers](https://www.reddit.com/r/Kotlin/comments/118bvui/list_sorting_mix_of_letters_and_numbers/)
+- [Kotlin CLI apps development status](https://www.reddit.com/r/Kotlin/comments/11841dn/kotlin_cli_apps_development_status/)
+- [🔁 Benjamin Kosten Announced EffeKt — Revolutionary Reactive Kotlin Library](https://www.reddit.com/r/Kotlin/comments/1181sz7/benjamin_kosten_announced_effekt_revolutionary/)
+- [which language is better for future:](https://www.reddit.com/r/Kotlin/comments/1181kmo/which_language_is_better_for_future/)
+- [How does delay&lpar;&rpar; function really work in coroutines?](https://www.reddit.com/r/Kotlin/comments/117xp9p/how_does_delay_function_really_work_in_coroutines/)
+- [I was making the Crypto Application but when I go to the watchlist it got crashes](https://www.reddit.com/r/Kotlin/comments/117v7x2/i_was_making_the_crypto_application_but_when_i_go/)
+- [Writing to db](https://www.reddit.com/r/Kotlin/comments/117srzq/writing_to_db/)
 - [Kala: Android Resource Management Library](https://www.reddit.com/r/Kotlin/comments/117dfgn/kala_android_resource_management_library/)
 - [EffeKt: reactivity in kotlin](https://www.reddit.com/r/Kotlin/comments/1175zii/effekt_reactivity_in_kotlin/)
-- [Advanced Search and Filtering with JPA Specifications in Kotlin](https://www.reddit.com/r/Kotlin/comments/1171a9k/advanced_search_and_filtering_with_jpa/)
-- [How relevant is it to use Kotlin for frontend development?](https://www.reddit.com/r/Kotlin/comments/116zzu3/how_relevant_is_it_to_use_kotlin_for_frontend/)
-- [&gt; Leave a like for adding decorators to kotlin: https://youtrack.jetbrains.com/issue/KT-49904](https://www.reddit.com/r/Kotlin/comments/116qhu0/leave_a_like_for_adding_decorators_to_kotlin/)
-- [Ktor client POST method not fetching data but Python requests library doing fine](https://www.reddit.com/r/Kotlin/comments/116c1d1/ktor_client_post_method_not_fetching_data_but/)
-- [New developer want to choose between multiplatform and flutter](https://www.reddit.com/r/Kotlin/comments/115ghwy/new_developer_want_to_choose_between/)
-- [KTor and non-blocking sql](https://www.reddit.com/r/Kotlin/comments/115futz/ktor_and_nonblocking_sql/)
-- [Kotlin bottom navigation app crashes every time at startup. Please follow the link given](https://www.reddit.com/r/Kotlin/comments/115bfl9/kotlin_bottom_navigation_app_crashes_every_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
