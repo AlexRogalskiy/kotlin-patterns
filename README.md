@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [https://academy.droidcon.com/course/dependency-injection-with-koin-fundamentals. If anyone is looking to learn the basics of Android DI.](https://www.reddit.com/r/Kotlin/comments/118e1hg/httpsacademydroidconcomcoursedependencyinjectionwi/)
+- [Kotlin microservices resources](https://www.reddit.com/r/Kotlin/comments/11981je/kotlin_microservices_resources/)
+- [Best practice for storing pre-defined instances of classes to avoid dependency issues?](https://www.reddit.com/r/Kotlin/comments/119567v/best_practice_for_storing_predefined_instances_of/)
+- [Stammtisch der Funktionalen Programmiersprachen](https://www.reddit.com/r/Kotlin/comments/118wafo/stammtisch_der_funktionalen_programmiersprachen/)
+- [Dino Game using Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/118ttfj/dino_game_using_compose_multiplatform/)
+- [What&#39;s the proper way to &quot;pause&quot; for initialization? Or... a better approach to initializing in general?](https://www.reddit.com/r/Kotlin/comments/118simj/whats_the_proper_way_to_pause_for_initialization/)
 - [List sorting mix of Letters and Numbers](https://www.reddit.com/r/Kotlin/comments/118bvui/list_sorting_mix_of_letters_and_numbers/)
 - [Kotlin CLI apps development status](https://www.reddit.com/r/Kotlin/comments/11841dn/kotlin_cli_apps_development_status/)
 - [🔁 Benjamin Kosten Announced EffeKt — Revolutionary Reactive Kotlin Library](https://www.reddit.com/r/Kotlin/comments/1181sz7/benjamin_kosten_announced_effekt_revolutionary/)
 - [which language is better for future:](https://www.reddit.com/r/Kotlin/comments/1181kmo/which_language_is_better_for_future/)
 - [How does delay&lpar;&rpar; function really work in coroutines?](https://www.reddit.com/r/Kotlin/comments/117xp9p/how_does_delay_function_really_work_in_coroutines/)
-- [I was making the Crypto Application but when I go to the watchlist it got crashes](https://www.reddit.com/r/Kotlin/comments/117v7x2/i_was_making_the_crypto_application_but_when_i_go/)
-- [Writing to db](https://www.reddit.com/r/Kotlin/comments/117srzq/writing_to_db/)
-- [Kala: Android Resource Management Library](https://www.reddit.com/r/Kotlin/comments/117dfgn/kala_android_resource_management_library/)
-- [EffeKt: reactivity in kotlin](https://www.reddit.com/r/Kotlin/comments/1175zii/effekt_reactivity_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
