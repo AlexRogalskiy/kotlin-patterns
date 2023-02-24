@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about code formatting in the fluent style.](https://www.reddit.com/r/Kotlin/comments/11abcxj/question_about_code_formatting_in_the_fluent_style/)
+- [This recent episode of ATOM &lpar;A Touch of Multiplatform&rpar; has Pamela and Justin chatting with Colin Lee and Annyce Davis from Meetup on how their team adopted and scaled #KotlinMultiplatform Mobile.](https://www.reddit.com/r/Kotlin/comments/11a7ix7/this_recent_episode_of_atom_a_touch_of/)
+- [help](https://www.reddit.com/r/Kotlin/comments/11a21g1/help/)
+- [Creating animations with kotlin](https://www.reddit.com/r/Kotlin/comments/119wirx/creating_animations_with_kotlin/)
+- [NativeImage Reverse Engineering](https://www.reddit.com/r/Kotlin/comments/119rvfq/nativeimage_reverse_engineering/)
 - [Kotlin microservices resources](https://www.reddit.com/r/Kotlin/comments/11981je/kotlin_microservices_resources/)
 - [Best practice for storing pre-defined instances of classes to avoid dependency issues?](https://www.reddit.com/r/Kotlin/comments/119567v/best_practice_for_storing_predefined_instances_of/)
 - [Stammtisch der Funktionalen Programmiersprachen](https://www.reddit.com/r/Kotlin/comments/118wafo/stammtisch_der_funktionalen_programmiersprachen/)
 - [Dino Game using Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/118ttfj/dino_game_using_compose_multiplatform/)
 - [What&#39;s the proper way to &quot;pause&quot; for initialization? Or... a better approach to initializing in general?](https://www.reddit.com/r/Kotlin/comments/118simj/whats_the_proper_way_to_pause_for_initialization/)
-- [List sorting mix of Letters and Numbers](https://www.reddit.com/r/Kotlin/comments/118bvui/list_sorting_mix_of_letters_and_numbers/)
-- [Kotlin CLI apps development status](https://www.reddit.com/r/Kotlin/comments/11841dn/kotlin_cli_apps_development_status/)
-- [🔁 Benjamin Kosten Announced EffeKt — Revolutionary Reactive Kotlin Library](https://www.reddit.com/r/Kotlin/comments/1181sz7/benjamin_kosten_announced_effekt_revolutionary/)
-- [which language is better for future:](https://www.reddit.com/r/Kotlin/comments/1181kmo/which_language_is_better_for_future/)
-- [How does delay&lpar;&rpar; function really work in coroutines?](https://www.reddit.com/r/Kotlin/comments/117xp9p/how_does_delay_function_really_work_in_coroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
