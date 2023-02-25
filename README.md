@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why should I use kotlinx.serialization?](https://www.reddit.com/r/Kotlin/comments/11b5n5j/why_should_i_use_kotlinxserialization/)
+- [Forum backend](https://www.reddit.com/r/Kotlin/comments/11b0y5s/forum_backend/)
+- [Structured concurrency + Loom == Preemptive cancellation?](https://www.reddit.com/r/Kotlin/comments/11b0pyi/structured_concurrency_loom_preemptive/)
+- [Is everything in ktor just extension functions on Application?](https://www.reddit.com/r/Kotlin/comments/11ayueh/is_everything_in_ktor_just_extension_functions_on/)
+- [kotlin multiplatform popup issue](https://www.reddit.com/r/Kotlin/comments/11au24d/kotlin_multiplatform_popup_issue/)
+- [Using PostgreSQL as an Append-only Datastore with Kotlin and Exposed](https://www.reddit.com/r/Kotlin/comments/11ap2og/using_postgresql_as_an_appendonly_datastore_with/)
+- [Error email verification - Kotlin &amp; Android Studio](https://www.reddit.com/r/Kotlin/comments/11anm6k/error_email_verification_kotlin_android_studio/)
+- [Compose Multiplatform template](https://www.reddit.com/r/Kotlin/comments/11akcv2/compose_multiplatform_template/)
 - [Question about code formatting in the fluent style.](https://www.reddit.com/r/Kotlin/comments/11abcxj/question_about_code_formatting_in_the_fluent_style/)
 - [This recent episode of ATOM &lpar;A Touch of Multiplatform&rpar; has Pamela and Justin chatting with Colin Lee and Annyce Davis from Meetup on how their team adopted and scaled #KotlinMultiplatform Mobile.](https://www.reddit.com/r/Kotlin/comments/11a7ix7/this_recent_episode_of_atom_a_touch_of/)
-- [help](https://www.reddit.com/r/Kotlin/comments/11a21g1/help/)
-- [Creating animations with kotlin](https://www.reddit.com/r/Kotlin/comments/119wirx/creating_animations_with_kotlin/)
-- [NativeImage Reverse Engineering](https://www.reddit.com/r/Kotlin/comments/119rvfq/nativeimage_reverse_engineering/)
-- [Kotlin microservices resources](https://www.reddit.com/r/Kotlin/comments/11981je/kotlin_microservices_resources/)
-- [Best practice for storing pre-defined instances of classes to avoid dependency issues?](https://www.reddit.com/r/Kotlin/comments/119567v/best_practice_for_storing_predefined_instances_of/)
-- [Stammtisch der Funktionalen Programmiersprachen](https://www.reddit.com/r/Kotlin/comments/118wafo/stammtisch_der_funktionalen_programmiersprachen/)
-- [Dino Game using Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/118ttfj/dino_game_using_compose_multiplatform/)
-- [What&#39;s the proper way to &quot;pause&quot; for initialization? Or... a better approach to initializing in general?](https://www.reddit.com/r/Kotlin/comments/118simj/whats_the_proper_way_to_pause_for_initialization/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
