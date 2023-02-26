@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Generating sine wave audio tone in kotlin/Java.](https://www.reddit.com/r/Kotlin/comments/11bwnyt/generating_sine_wave_audio_tone_in_kotlinjava/)
+- [How do I set the JDBC URL for KTor based on Testcontainers in my tests?](https://www.reddit.com/r/Kotlin/comments/11buwxn/how_do_i_set_the_jdbc_url_for_ktor_based_on/)
+- [Ktor server responds with HTML with kotlin object inside pre tag instead of JSON](https://www.reddit.com/r/Kotlin/comments/11brlli/ktor_server_responds_with_html_with_kotlin_object/)
+- [Kotlin and JPA — a good match or a recipe for failure?](https://www.reddit.com/r/Kotlin/comments/11bowin/kotlin_and_jpa_a_good_match_or_a_recipe_for/)
 - [Why should I use kotlinx.serialization?](https://www.reddit.com/r/Kotlin/comments/11b5n5j/why_should_i_use_kotlinxserialization/)
 - [Forum backend](https://www.reddit.com/r/Kotlin/comments/11b0y5s/forum_backend/)
 - [Structured concurrency + Loom == Preemptive cancellation?](https://www.reddit.com/r/Kotlin/comments/11b0pyi/structured_concurrency_loom_preemptive/)
 - [Is everything in ktor just extension functions on Application?](https://www.reddit.com/r/Kotlin/comments/11ayueh/is_everything_in_ktor_just_extension_functions_on/)
 - [kotlin multiplatform popup issue](https://www.reddit.com/r/Kotlin/comments/11au24d/kotlin_multiplatform_popup_issue/)
 - [Using PostgreSQL as an Append-only Datastore with Kotlin and Exposed](https://www.reddit.com/r/Kotlin/comments/11ap2og/using_postgresql_as_an_appendonly_datastore_with/)
-- [Error email verification - Kotlin &amp; Android Studio](https://www.reddit.com/r/Kotlin/comments/11anm6k/error_email_verification_kotlin_android_studio/)
-- [Compose Multiplatform template](https://www.reddit.com/r/Kotlin/comments/11akcv2/compose_multiplatform_template/)
-- [Question about code formatting in the fluent style.](https://www.reddit.com/r/Kotlin/comments/11abcxj/question_about_code_formatting_in_the_fluent_style/)
-- [This recent episode of ATOM &lpar;A Touch of Multiplatform&rpar; has Pamela and Justin chatting with Colin Lee and Annyce Davis from Meetup on how their team adopted and scaled #KotlinMultiplatform Mobile.](https://www.reddit.com/r/Kotlin/comments/11a7ix7/this_recent_episode_of_atom_a_touch_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
