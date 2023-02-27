@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [First Kotlin/Wasm HTTP server](https://www.reddit.com/r/Kotlin/comments/11cr95c/first_kotlinwasm_http_server/)
+- [Store: A Library For Building Network-Resilient iOS, Android, and Web Applications](https://www.reddit.com/r/Kotlin/comments/11cks6o/store_a_library_for_building_networkresilient_ios/)
+- [Where did you learn ktor from?](https://www.reddit.com/r/Kotlin/comments/11c9kuz/where_did_you_learn_ktor_from/)
 - [Generating sine wave audio tone in kotlin/Java.](https://www.reddit.com/r/Kotlin/comments/11bwnyt/generating_sine_wave_audio_tone_in_kotlinjava/)
 - [How do I set the JDBC URL for KTor based on Testcontainers in my tests?](https://www.reddit.com/r/Kotlin/comments/11buwxn/how_do_i_set_the_jdbc_url_for_ktor_based_on/)
 - [Ktor server responds with HTML with kotlin object inside pre tag instead of JSON](https://www.reddit.com/r/Kotlin/comments/11brlli/ktor_server_responds_with_html_with_kotlin_object/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Why should I use kotlinx.serialization?](https://www.reddit.com/r/Kotlin/comments/11b5n5j/why_should_i_use_kotlinxserialization/)
 - [Forum backend](https://www.reddit.com/r/Kotlin/comments/11b0y5s/forum_backend/)
 - [Structured concurrency + Loom == Preemptive cancellation?](https://www.reddit.com/r/Kotlin/comments/11b0pyi/structured_concurrency_loom_preemptive/)
-- [Is everything in ktor just extension functions on Application?](https://www.reddit.com/r/Kotlin/comments/11ayueh/is_everything_in_ktor_just_extension_functions_on/)
-- [kotlin multiplatform popup issue](https://www.reddit.com/r/Kotlin/comments/11au24d/kotlin_multiplatform_popup_issue/)
-- [Using PostgreSQL as an Append-only Datastore with Kotlin and Exposed](https://www.reddit.com/r/Kotlin/comments/11ap2og/using_postgresql_as_an_appendonly_datastore_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
