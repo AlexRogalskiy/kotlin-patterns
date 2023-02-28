@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Simple Dependency Injection Library](https://www.reddit.com/r/Kotlin/comments/11dr5ap/simple_dependency_injection_library/)
+- [How to parse XML in Kotlin?](https://www.reddit.com/r/Kotlin/comments/11dkqsn/how_to_parse_xml_in_kotlin/)
+- [Digging into KMM - My journey with Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/11ddr55/digging_into_kmm_my_journey_with_kotlin/)
+- [Please try my JSON library](https://www.reddit.com/r/Kotlin/comments/11dcl5e/please_try_my_json_library/)
 - [First Kotlin/Wasm HTTP server](https://www.reddit.com/r/Kotlin/comments/11cr95c/first_kotlinwasm_http_server/)
 - [Store: A Library For Building Network-Resilient iOS, Android, and Web Applications](https://www.reddit.com/r/Kotlin/comments/11cks6o/store_a_library_for_building_networkresilient_ios/)
 - [Where did you learn ktor from?](https://www.reddit.com/r/Kotlin/comments/11c9kuz/where_did_you_learn_ktor_from/)
 - [Generating sine wave audio tone in kotlin/Java.](https://www.reddit.com/r/Kotlin/comments/11bwnyt/generating_sine_wave_audio_tone_in_kotlinjava/)
 - [How do I set the JDBC URL for KTor based on Testcontainers in my tests?](https://www.reddit.com/r/Kotlin/comments/11buwxn/how_do_i_set_the_jdbc_url_for_ktor_based_on/)
 - [Ktor server responds with HTML with kotlin object inside pre tag instead of JSON](https://www.reddit.com/r/Kotlin/comments/11brlli/ktor_server_responds_with_html_with_kotlin_object/)
-- [Kotlin and JPA — a good match or a recipe for failure?](https://www.reddit.com/r/Kotlin/comments/11bowin/kotlin_and_jpa_a_good_match_or_a_recipe_for/)
-- [Why should I use kotlinx.serialization?](https://www.reddit.com/r/Kotlin/comments/11b5n5j/why_should_i_use_kotlinxserialization/)
-- [Forum backend](https://www.reddit.com/r/Kotlin/comments/11b0y5s/forum_backend/)
-- [Structured concurrency + Loom == Preemptive cancellation?](https://www.reddit.com/r/Kotlin/comments/11b0pyi/structured_concurrency_loom_preemptive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
