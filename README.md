@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Struggling with software robustness with Kotlin](https://www.reddit.com/r/Kotlin/comments/11efkig/struggling_with_software_robustness_with_kotlin/)
+- [side project to learn Quarkus](https://www.reddit.com/r/Kotlin/comments/11edxgj/side_project_to_learn_quarkus/)
 - [Simple Dependency Injection Library](https://www.reddit.com/r/Kotlin/comments/11dr5ap/simple_dependency_injection_library/)
 - [How to parse XML in Kotlin?](https://www.reddit.com/r/Kotlin/comments/11dkqsn/how_to_parse_xml_in_kotlin/)
 - [Digging into KMM - My journey with Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/11ddr55/digging_into_kmm_my_journey_with_kotlin/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Store: A Library For Building Network-Resilient iOS, Android, and Web Applications](https://www.reddit.com/r/Kotlin/comments/11cks6o/store_a_library_for_building_networkresilient_ios/)
 - [Where did you learn ktor from?](https://www.reddit.com/r/Kotlin/comments/11c9kuz/where_did_you_learn_ktor_from/)
 - [Generating sine wave audio tone in kotlin/Java.](https://www.reddit.com/r/Kotlin/comments/11bwnyt/generating_sine_wave_audio_tone_in_kotlinjava/)
-- [How do I set the JDBC URL for KTor based on Testcontainers in my tests?](https://www.reddit.com/r/Kotlin/comments/11buwxn/how_do_i_set_the_jdbc_url_for_ktor_based_on/)
-- [Ktor server responds with HTML with kotlin object inside pre tag instead of JSON](https://www.reddit.com/r/Kotlin/comments/11brlli/ktor_server_responds_with_html_with_kotlin_object/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
