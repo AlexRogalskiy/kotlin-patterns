@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help, How to build ktor app that will be executable by pc?](https://www.reddit.com/r/Kotlin/comments/11fct8u/help_how_to_build_ktor_app_that_will_be/)
+- [Can&#39;t compile official example code with Kotlin native](https://www.reddit.com/r/Kotlin/comments/11f5ash/cant_compile_official_example_code_with_kotlin/)
+- [Question: Android first or straight to KMM?](https://www.reddit.com/r/Kotlin/comments/11f4ku8/question_android_first_or_straight_to_kmm/)
+- [Kotlin multiplatform coroutines are silently crashing](https://www.reddit.com/r/Kotlin/comments/11f1tdx/kotlin_multiplatform_coroutines_are_silently/)
 - [Struggling with software robustness with Kotlin](https://www.reddit.com/r/Kotlin/comments/11efkig/struggling_with_software_robustness_with_kotlin/)
 - [side project to learn Quarkus](https://www.reddit.com/r/Kotlin/comments/11edxgj/side_project_to_learn_quarkus/)
 - [Simple Dependency Injection Library](https://www.reddit.com/r/Kotlin/comments/11dr5ap/simple_dependency_injection_library/)
 - [How to parse XML in Kotlin?](https://www.reddit.com/r/Kotlin/comments/11dkqsn/how_to_parse_xml_in_kotlin/)
 - [Digging into KMM - My journey with Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/11ddr55/digging_into_kmm_my_journey_with_kotlin/)
 - [Please try my JSON library](https://www.reddit.com/r/Kotlin/comments/11dcl5e/please_try_my_json_library/)
-- [First Kotlin/Wasm HTTP server](https://www.reddit.com/r/Kotlin/comments/11cr95c/first_kotlinwasm_http_server/)
-- [Store: A Library For Building Network-Resilient iOS, Android, and Web Applications](https://www.reddit.com/r/Kotlin/comments/11cks6o/store_a_library_for_building_networkresilient_ios/)
-- [Where did you learn ktor from?](https://www.reddit.com/r/Kotlin/comments/11c9kuz/where_did_you_learn_ktor_from/)
-- [Generating sine wave audio tone in kotlin/Java.](https://www.reddit.com/r/Kotlin/comments/11bwnyt/generating_sine_wave_audio_tone_in_kotlinjava/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
