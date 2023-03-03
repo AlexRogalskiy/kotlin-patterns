@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [WorldWindKotlin 1.2.2 with performance improvements released](https://www.reddit.com/r/Kotlin/comments/11ghtws/worldwindkotlin_122_with_performance_improvements/)
+- [What’s your favorite &amp; least favorite part of Kotlin dev experience?](https://www.reddit.com/r/Kotlin/comments/11g49h3/whats_your_favorite_least_favorite_part_of_kotlin/)
+- [How We Designed Qovery To Manage Thousands of Kubernetes Clusters with a Single Control Plane &lpar;written in Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/11g3e7x/how_we_designed_qovery_to_manage_thousands_of/)
+- [Are you willing to learn Kotlin coroutines in detail?](https://www.reddit.com/r/Kotlin/comments/11g08gm/are_you_willing_to_learn_kotlin_coroutines_in/)
+- [Kotlin new apprentice](https://www.reddit.com/r/Kotlin/comments/11fr8kd/kotlin_new_apprentice/)
 - [Help, How to build ktor app that will be executable by pc?](https://www.reddit.com/r/Kotlin/comments/11fct8u/help_how_to_build_ktor_app_that_will_be/)
 - [Can&#39;t compile official example code with Kotlin native](https://www.reddit.com/r/Kotlin/comments/11f5ash/cant_compile_official_example_code_with_kotlin/)
 - [Question: Android first or straight to KMM?](https://www.reddit.com/r/Kotlin/comments/11f4ku8/question_android_first_or_straight_to_kmm/)
 - [Kotlin multiplatform coroutines are silently crashing](https://www.reddit.com/r/Kotlin/comments/11f1tdx/kotlin_multiplatform_coroutines_are_silently/)
 - [Struggling with software robustness with Kotlin](https://www.reddit.com/r/Kotlin/comments/11efkig/struggling_with_software_robustness_with_kotlin/)
-- [side project to learn Quarkus](https://www.reddit.com/r/Kotlin/comments/11edxgj/side_project_to_learn_quarkus/)
-- [Simple Dependency Injection Library](https://www.reddit.com/r/Kotlin/comments/11dr5ap/simple_dependency_injection_library/)
-- [How to parse XML in Kotlin?](https://www.reddit.com/r/Kotlin/comments/11dkqsn/how_to_parse_xml_in_kotlin/)
-- [Digging into KMM - My journey with Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/11ddr55/digging_into_kmm_my_journey_with_kotlin/)
-- [Please try my JSON library](https://www.reddit.com/r/Kotlin/comments/11dcl5e/please_try_my_json_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
