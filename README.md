@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gilded Rose in Kotlin](https://www.reddit.com/r/Kotlin/comments/11hhhwm/gilded_rose_in_kotlin/)
+- [SDKs for web APIs](https://www.reddit.com/r/Kotlin/comments/11hgqpd/sdks_for_web_apis/)
+- [How to include dependencies in a library](https://www.reddit.com/r/Kotlin/comments/11hdyo2/how_to_include_dependencies_in_a_library/)
+- [Best books on modern Android development with Kotlin](https://www.reddit.com/r/Kotlin/comments/11h7jcy/best_books_on_modern_android_development_with/)
+- [Chatgpt like app created in kotlin, I am delighted to share with you an exciting new application that I have recently developed and published on the Play Store! An AI-powered chatbot designed for Android users. If you are familiar with ChatGPT, you will love Cleverbot.](https://www.reddit.com/r/Kotlin/comments/11h4bap/chatgpt_like_app_created_in_kotlin_i_am_delighted/)
+- [Introducing Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/11h1f78/introducing_kotlin_context_receivers/)
+- [Question on Scaffold; double drawer possible?](https://www.reddit.com/r/Kotlin/comments/11h0vil/question_on_scaffold_double_drawer_possible/)
 - [WorldWindKotlin 1.2.2 with performance improvements released](https://www.reddit.com/r/Kotlin/comments/11ghtws/worldwindkotlin_122_with_performance_improvements/)
 - [What’s your favorite &amp; least favorite part of Kotlin dev experience?](https://www.reddit.com/r/Kotlin/comments/11g49h3/whats_your_favorite_least_favorite_part_of_kotlin/)
 - [How We Designed Qovery To Manage Thousands of Kubernetes Clusters with a Single Control Plane &lpar;written in Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/11g3e7x/how_we_designed_qovery_to_manage_thousands_of/)
-- [Are you willing to learn Kotlin coroutines in detail?](https://www.reddit.com/r/Kotlin/comments/11g08gm/are_you_willing_to_learn_kotlin_coroutines_in/)
-- [Kotlin new apprentice](https://www.reddit.com/r/Kotlin/comments/11fr8kd/kotlin_new_apprentice/)
-- [Help, How to build ktor app that will be executable by pc?](https://www.reddit.com/r/Kotlin/comments/11fct8u/help_how_to_build_ktor_app_that_will_be/)
-- [Can&#39;t compile official example code with Kotlin native](https://www.reddit.com/r/Kotlin/comments/11f5ash/cant_compile_official_example_code_with_kotlin/)
-- [Question: Android first or straight to KMM?](https://www.reddit.com/r/Kotlin/comments/11f4ku8/question_android_first_or_straight_to_kmm/)
-- [Kotlin multiplatform coroutines are silently crashing](https://www.reddit.com/r/Kotlin/comments/11f1tdx/kotlin_multiplatform_coroutines_are_silently/)
-- [Struggling with software robustness with Kotlin](https://www.reddit.com/r/Kotlin/comments/11efkig/struggling_with_software_robustness_with_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
