@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [converting generic function from java to kotlin](https://www.reddit.com/r/Kotlin/comments/11hzz22/converting_generic_function_from_java_to_kotlin/)
+- [Learning materials for Spring Boot and/or Quarkus](https://www.reddit.com/r/Kotlin/comments/11hvno2/learning_materials_for_spring_boot_andor_quarkus/)
+- [Trying to upgrade from Ktor 2.1.3 to 2.2.1 and getting a MissingApplicationPluginException for plugin AuthenticationHolder.](https://www.reddit.com/r/Kotlin/comments/11hoqwq/trying_to_upgrade_from_ktor_213_to_221_and/)
+- [start-up time for ktor apps in kubernetes](https://www.reddit.com/r/Kotlin/comments/11honl1/startup_time_for_ktor_apps_in_kubernetes/)
 - [Gilded Rose in Kotlin](https://www.reddit.com/r/Kotlin/comments/11hhhwm/gilded_rose_in_kotlin/)
 - [SDKs for web APIs](https://www.reddit.com/r/Kotlin/comments/11hgqpd/sdks_for_web_apis/)
 - [How to include dependencies in a library](https://www.reddit.com/r/Kotlin/comments/11hdyo2/how_to_include_dependencies_in_a_library/)
 - [Best books on modern Android development with Kotlin](https://www.reddit.com/r/Kotlin/comments/11h7jcy/best_books_on_modern_android_development_with/)
-- [Chatgpt like app created in kotlin, I am delighted to share with you an exciting new application that I have recently developed and published on the Play Store! An AI-powered chatbot designed for Android users. If you are familiar with ChatGPT, you will love Cleverbot.](https://www.reddit.com/r/Kotlin/comments/11h4bap/chatgpt_like_app_created_in_kotlin_i_am_delighted/)
 - [Introducing Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/11h1f78/introducing_kotlin_context_receivers/)
 - [Question on Scaffold; double drawer possible?](https://www.reddit.com/r/Kotlin/comments/11h0vil/question_on_scaffold_double_drawer_possible/)
-- [WorldWindKotlin 1.2.2 with performance improvements released](https://www.reddit.com/r/Kotlin/comments/11ghtws/worldwindkotlin_122_with_performance_improvements/)
-- [What’s your favorite &amp; least favorite part of Kotlin dev experience?](https://www.reddit.com/r/Kotlin/comments/11g49h3/whats_your_favorite_least_favorite_part_of_kotlin/)
-- [How We Designed Qovery To Manage Thousands of Kubernetes Clusters with a Single Control Plane &lpar;written in Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/11g3e7x/how_we_designed_qovery_to_manage_thousands_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
