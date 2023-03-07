@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kotlin Spring, empty auth response](https://www.reddit.com/r/Kotlin/comments/11kg6so/kotlin_spring_empty_auth_response/)
+- [Do you really know the difference between shallow and deep copy in kotlin?](https://www.reddit.com/r/Kotlin/comments/11jstot/do_you_really_know_the_difference_between_shallow/)
+- [Algorithm feedback for Kotlin newbie](https://www.reddit.com/r/Kotlin/comments/11joqfq/algorithm_feedback_for_kotlin_newbie/)
 - [In gradle, is there a property access syntax for init scripts?](https://www.reddit.com/r/Kotlin/comments/11jlbb9/in_gradle_is_there_a_property_access_syntax_for/)
 - [Issue with using Firebase Admin SDK](https://www.reddit.com/r/Kotlin/comments/11j1lin/issue_with_using_firebase_admin_sdk/)
 - [Inheritance &lpar;with Spring Data JPA&rpar;](https://www.reddit.com/r/Kotlin/comments/11iyx4d/inheritance_with_spring_data_jpa/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [The &quot;suspend + receivers&quot; style in Kotlin](https://www.reddit.com/r/Kotlin/comments/11is5dw/the_suspend_receivers_style_in_kotlin/)
 - [I feel a bit dim](https://www.reddit.com/r/Kotlin/comments/11iqtq2/i_feel_a_bit_dim/)
 - [converting generic function from java to kotlin](https://www.reddit.com/r/Kotlin/comments/11hzz22/converting_generic_function_from_java_to_kotlin/)
-- [Learning materials for Spring Boot and/or Quarkus](https://www.reddit.com/r/Kotlin/comments/11hvno2/learning_materials_for_spring_boot_andor_quarkus/)
-- [Trying to upgrade from Ktor 2.1.3 to 2.2.1 and getting a MissingApplicationPluginException for plugin AuthenticationHolder.](https://www.reddit.com/r/Kotlin/comments/11hoqwq/trying_to_upgrade_from_ktor_213_to_221_and/)
-- [start-up time for ktor apps in kubernetes](https://www.reddit.com/r/Kotlin/comments/11honl1/startup_time_for_ktor_apps_in_kubernetes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
