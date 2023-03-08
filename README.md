@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Snackbar or Toast](https://www.reddit.com/r/Kotlin/comments/11l51ao/snackbar_or_toast/)
+- [Can&#39;t understand why only outputs zeros.](https://www.reddit.com/r/Kotlin/comments/11l3d7p/cant_understand_why_only_outputs_zeros/)
+- [Coroutines low level management](https://www.reddit.com/r/Kotlin/comments/11kubin/coroutines_low_level_management/)
 - [kotlin Spring, empty auth response](https://www.reddit.com/r/Kotlin/comments/11kg6so/kotlin_spring_empty_auth_response/)
 - [Do you really know the difference between shallow and deep copy in kotlin?](https://www.reddit.com/r/Kotlin/comments/11jstot/do_you_really_know_the_difference_between_shallow/)
 - [Algorithm feedback for Kotlin newbie](https://www.reddit.com/r/Kotlin/comments/11joqfq/algorithm_feedback_for_kotlin_newbie/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Issue with using Firebase Admin SDK](https://www.reddit.com/r/Kotlin/comments/11j1lin/issue_with_using_firebase_admin_sdk/)
 - [Inheritance &lpar;with Spring Data JPA&rpar;](https://www.reddit.com/r/Kotlin/comments/11iyx4d/inheritance_with_spring_data_jpa/)
 - [LocalDateTime.now&lpar;&rpar; mockk](https://www.reddit.com/r/Kotlin/comments/11iv4u7/localdatetimenow_mockk/)
-- [The &quot;suspend + receivers&quot; style in Kotlin](https://www.reddit.com/r/Kotlin/comments/11is5dw/the_suspend_receivers_style_in_kotlin/)
-- [I feel a bit dim](https://www.reddit.com/r/Kotlin/comments/11iqtq2/i_feel_a_bit_dim/)
-- [converting generic function from java to kotlin](https://www.reddit.com/r/Kotlin/comments/11hzz22/converting_generic_function_from_java_to_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
