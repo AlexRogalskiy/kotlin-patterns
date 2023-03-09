@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the most important reasons to prefer immutablility?](https://www.reddit.com/r/Kotlin/comments/11lygff/what_is_the_most_important_reasons_to_prefer/)
+- [I have decided that I am going to learn Kotlin and become an Android Developer](https://www.reddit.com/r/Kotlin/comments/11ly4o3/i_have_decided_that_i_am_going_to_learn_kotlin/)
+- [Kotlin 1.8.20-RC is out](https://www.reddit.com/r/Kotlin/comments/11luugr/kotlin_1820rc_is_out/)
+- [Pitfalls to avoid when switching to Virtual threads](https://www.reddit.com/r/Kotlin/comments/11ltayc/pitfalls_to_avoid_when_switching_to_virtual/)
+- [Kotlin multiple receiver ordering](https://www.reddit.com/r/Kotlin/comments/11lstk0/kotlin_multiple_receiver_ordering/)
 - [Snackbar or Toast](https://www.reddit.com/r/Kotlin/comments/11l51ao/snackbar_or_toast/)
 - [Can&#39;t understand why only outputs zeros.](https://www.reddit.com/r/Kotlin/comments/11l3d7p/cant_understand_why_only_outputs_zeros/)
 - [Coroutines low level management](https://www.reddit.com/r/Kotlin/comments/11kubin/coroutines_low_level_management/)
 - [kotlin Spring, empty auth response](https://www.reddit.com/r/Kotlin/comments/11kg6so/kotlin_spring_empty_auth_response/)
 - [Do you really know the difference between shallow and deep copy in kotlin?](https://www.reddit.com/r/Kotlin/comments/11jstot/do_you_really_know_the_difference_between_shallow/)
-- [Algorithm feedback for Kotlin newbie](https://www.reddit.com/r/Kotlin/comments/11joqfq/algorithm_feedback_for_kotlin_newbie/)
-- [In gradle, is there a property access syntax for init scripts?](https://www.reddit.com/r/Kotlin/comments/11jlbb9/in_gradle_is_there_a_property_access_syntax_for/)
-- [Issue with using Firebase Admin SDK](https://www.reddit.com/r/Kotlin/comments/11j1lin/issue_with_using_firebase_admin_sdk/)
-- [Inheritance &lpar;with Spring Data JPA&rpar;](https://www.reddit.com/r/Kotlin/comments/11iyx4d/inheritance_with_spring_data_jpa/)
-- [LocalDateTime.now&lpar;&rpar; mockk](https://www.reddit.com/r/Kotlin/comments/11iv4u7/localdatetimenow_mockk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
