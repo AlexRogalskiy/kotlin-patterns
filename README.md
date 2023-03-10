@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Programming Language Tutorial #1 - Hello world - General](https://www.reddit.com/r/Kotlin/comments/11ml9ze/kotlin_programming_language_tutorial_1_hello/)
+- [KStateMachine v0.20.0 with built-in Kotlin Coroutines support released!](https://www.reddit.com/r/Kotlin/comments/11mh0tw/kstatemachine_v0200_with_builtin_kotlin/)
 - [What is the most important reasons to prefer immutablility?](https://www.reddit.com/r/Kotlin/comments/11lygff/what_is_the_most_important_reasons_to_prefer/)
 - [I have decided that I am going to learn Kotlin and become an Android Developer](https://www.reddit.com/r/Kotlin/comments/11ly4o3/i_have_decided_that_i_am_going_to_learn_kotlin/)
 - [Kotlin 1.8.20-RC is out](https://www.reddit.com/r/Kotlin/comments/11luugr/kotlin_1820rc_is_out/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Snackbar or Toast](https://www.reddit.com/r/Kotlin/comments/11l51ao/snackbar_or_toast/)
 - [Can&#39;t understand why only outputs zeros.](https://www.reddit.com/r/Kotlin/comments/11l3d7p/cant_understand_why_only_outputs_zeros/)
 - [Coroutines low level management](https://www.reddit.com/r/Kotlin/comments/11kubin/coroutines_low_level_management/)
-- [kotlin Spring, empty auth response](https://www.reddit.com/r/Kotlin/comments/11kg6so/kotlin_spring_empty_auth_response/)
-- [Do you really know the difference between shallow and deep copy in kotlin?](https://www.reddit.com/r/Kotlin/comments/11jstot/do_you_really_know_the_difference_between_shallow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
