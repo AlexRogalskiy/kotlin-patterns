@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin interoperability with Java](https://www.reddit.com/r/Kotlin/comments/11ov8wn/kotlin_interoperability_with_java/)
+- [Best place to learn Ktor aside from the official website?](https://www.reddit.com/r/Kotlin/comments/11oqvo1/best_place_to_learn_ktor_aside_from_the_official/)
+- [How the heck does the kotlin compiler handle expressions with generics?](https://www.reddit.com/r/Kotlin/comments/11oot75/how_the_heck_does_the_kotlin_compiler_handle/)
+- [Companion object in inner class](https://www.reddit.com/r/Kotlin/comments/11oh1hv/companion_object_in_inner_class/)
 - [androidx.fragment.app.Fragment and updating the view](https://www.reddit.com/r/Kotlin/comments/11o0hk1/androidxfragmentappfragment_and_updating_the_view/)
 - [Touchlab Open Source Updates – Kermit, KMMBridge, CrashKiOS, Stately](https://www.reddit.com/r/Kotlin/comments/11nz7pj/touchlab_open_source_updates_kermit_kmmbridge/)
 - [Questions about Kotlin development](https://www.reddit.com/r/Kotlin/comments/11nxd4h/questions_about_kotlin_development/)
 - [Introducing the Reader Monad - functional Kotlin](https://www.reddit.com/r/Kotlin/comments/11nozs7/introducing_the_reader_monad_functional_kotlin/)
 - [Release 1.7.0-Beta · Kotlin/kotlinx.coroutines](https://www.reddit.com/r/Kotlin/comments/11njcjg/release_170beta_kotlinkotlinxcoroutines/)
 - [Kotlin Programming Language Tutorial #1 - Hello world - General](https://www.reddit.com/r/Kotlin/comments/11ml9ze/kotlin_programming_language_tutorial_1_hello/)
-- [KStateMachine v0.20.0 with built-in Kotlin Coroutines support released!](https://www.reddit.com/r/Kotlin/comments/11mh0tw/kstatemachine_v0200_with_builtin_kotlin/)
-- [What is the most important reasons to prefer immutablility?](https://www.reddit.com/r/Kotlin/comments/11lygff/what_is_the_most_important_reasons_to_prefer/)
-- [I have decided that I am going to learn Kotlin and become an Android Developer](https://www.reddit.com/r/Kotlin/comments/11ly4o3/i_have_decided_that_i_am_going_to_learn_kotlin/)
-- [Kotlin 1.8.20-RC is out](https://www.reddit.com/r/Kotlin/comments/11luugr/kotlin_1820rc_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
