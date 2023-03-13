@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin interoperability with Java](https://www.reddit.com/r/Kotlin/comments/11ov8wn/kotlin_interoperability_with_java/)
+- [Typster: A Typing game using Desktop Compose](https://www.reddit.com/r/Kotlin/comments/11psin5/typster_a_typing_game_using_desktop_compose/)
+- [Kotlin multiplatform app with shared UI for Android, IOS and Desktop](https://www.reddit.com/r/Kotlin/comments/11pph1p/kotlin_multiplatform_app_with_shared_ui_for/)
+- [is it posssible to add an a python AI tensorflow script inside kotlin for android?](https://www.reddit.com/r/Kotlin/comments/11pkahs/is_it_posssible_to_add_an_a_python_ai_tensorflow/)
+- [Guides for Kotlin scripting use case](https://www.reddit.com/r/Kotlin/comments/11phbgg/guides_for_kotlin_scripting_use_case/)
 - [Best place to learn Ktor aside from the official website?](https://www.reddit.com/r/Kotlin/comments/11oqvo1/best_place_to_learn_ktor_aside_from_the_official/)
-- [How the heck does the kotlin compiler handle expressions with generics?](https://www.reddit.com/r/Kotlin/comments/11oot75/how_the_heck_does_the_kotlin_compiler_handle/)
 - [Companion object in inner class](https://www.reddit.com/r/Kotlin/comments/11oh1hv/companion_object_in_inner_class/)
 - [androidx.fragment.app.Fragment and updating the view](https://www.reddit.com/r/Kotlin/comments/11o0hk1/androidxfragmentappfragment_and_updating_the_view/)
 - [Touchlab Open Source Updates – Kermit, KMMBridge, CrashKiOS, Stately](https://www.reddit.com/r/Kotlin/comments/11nz7pj/touchlab_open_source_updates_kermit_kmmbridge/)
 - [Questions about Kotlin development](https://www.reddit.com/r/Kotlin/comments/11nxd4h/questions_about_kotlin_development/)
 - [Introducing the Reader Monad - functional Kotlin](https://www.reddit.com/r/Kotlin/comments/11nozs7/introducing_the_reader_monad_functional_kotlin/)
-- [Release 1.7.0-Beta · Kotlin/kotlinx.coroutines](https://www.reddit.com/r/Kotlin/comments/11njcjg/release_170beta_kotlinkotlinxcoroutines/)
-- [Kotlin Programming Language Tutorial #1 - Hello world - General](https://www.reddit.com/r/Kotlin/comments/11ml9ze/kotlin_programming_language_tutorial_1_hello/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
