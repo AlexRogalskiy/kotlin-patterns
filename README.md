@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [what do these mean?](https://www.reddit.com/r/Kotlin/comments/11qmkxn/what_do_these_mean/)
+- [How is Ktor different](https://www.reddit.com/r/Kotlin/comments/11qe91z/how_is_ktor_different/)
+- [Best Bdd option for local app](https://www.reddit.com/r/Kotlin/comments/11qe4il/best_bdd_option_for_local_app/)
+- [How can you ensure that the vertical space between items in a recycler view is 0?](https://www.reddit.com/r/Kotlin/comments/11q5sbk/how_can_you_ensure_that_the_vertical_space/)
+- [Kotlin + Compose Desktop + JNI native + NFC = GoToTags Desktop App v4.4](https://www.reddit.com/r/Kotlin/comments/11q2pd8/kotlin_compose_desktop_jni_native_nfc_gototags/)
+- [What could be some fun projects ideas that I could make with Ktor?](https://www.reddit.com/r/Kotlin/comments/11q02mm/what_could_be_some_fun_projects_ideas_that_i/)
 - [Typster: A Typing game using Desktop Compose](https://www.reddit.com/r/Kotlin/comments/11psin5/typster_a_typing_game_using_desktop_compose/)
 - [Kotlin multiplatform app with shared UI for Android, IOS and Desktop](https://www.reddit.com/r/Kotlin/comments/11pph1p/kotlin_multiplatform_app_with_shared_ui_for/)
 - [is it posssible to add an a python AI tensorflow script inside kotlin for android?](https://www.reddit.com/r/Kotlin/comments/11pkahs/is_it_posssible_to_add_an_a_python_ai_tensorflow/)
 - [Guides for Kotlin scripting use case](https://www.reddit.com/r/Kotlin/comments/11phbgg/guides_for_kotlin_scripting_use_case/)
-- [Best place to learn Ktor aside from the official website?](https://www.reddit.com/r/Kotlin/comments/11oqvo1/best_place_to_learn_ktor_aside_from_the_official/)
-- [Companion object in inner class](https://www.reddit.com/r/Kotlin/comments/11oh1hv/companion_object_in_inner_class/)
-- [androidx.fragment.app.Fragment and updating the view](https://www.reddit.com/r/Kotlin/comments/11o0hk1/androidxfragmentappfragment_and_updating_the_view/)
-- [Touchlab Open Source Updates – Kermit, KMMBridge, CrashKiOS, Stately](https://www.reddit.com/r/Kotlin/comments/11nz7pj/touchlab_open_source_updates_kermit_kmmbridge/)
-- [Questions about Kotlin development](https://www.reddit.com/r/Kotlin/comments/11nxd4h/questions_about_kotlin_development/)
-- [Introducing the Reader Monad - functional Kotlin](https://www.reddit.com/r/Kotlin/comments/11nozs7/introducing_the_reader_monad_functional_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
