@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KotlinConf 2023 schedule is available](https://www.reddit.com/r/Kotlin/comments/11re6ou/kotlinconf_2023_schedule_is_available/)
+- [Failure Mitigation for Microservices: An Intro to Aperture](https://www.reddit.com/r/Kotlin/comments/11re68w/failure_mitigation_for_microservices_an_intro_to/)
+- [Extract the hotspot name from the reservation of startLocalOnlyHotspot](https://www.reddit.com/r/Kotlin/comments/11rc7wi/extract_the_hotspot_name_from_the_reservation_of/)
+- [Best frameworks to build back-end with Kotlin?](https://www.reddit.com/r/Kotlin/comments/11rawk4/best_frameworks_to_build_backend_with_kotlin/)
+- [Spring boot - authenticate never throws DisabledException or LockedException](https://www.reddit.com/r/Kotlin/comments/11r7219/spring_boot_authenticate_never_throws/)
+- [Kotlin/JS - How do you avoid different versions of the same library clashing?](https://www.reddit.com/r/Kotlin/comments/11r2hp3/kotlinjs_how_do_you_avoid_different_versions_of/)
+- [Multiplatform library with multiple Android targets](https://www.reddit.com/r/Kotlin/comments/11r0z4i/multiplatform_library_with_multiple_android/)
 - [what do these mean?](https://www.reddit.com/r/Kotlin/comments/11qmkxn/what_do_these_mean/)
 - [How is Ktor different](https://www.reddit.com/r/Kotlin/comments/11qe91z/how_is_ktor_different/)
 - [Best Bdd option for local app](https://www.reddit.com/r/Kotlin/comments/11qe4il/best_bdd_option_for_local_app/)
-- [How can you ensure that the vertical space between items in a recycler view is 0?](https://www.reddit.com/r/Kotlin/comments/11q5sbk/how_can_you_ensure_that_the_vertical_space/)
-- [Kotlin + Compose Desktop + JNI native + NFC = GoToTags Desktop App v4.4](https://www.reddit.com/r/Kotlin/comments/11q2pd8/kotlin_compose_desktop_jni_native_nfc_gototags/)
-- [What could be some fun projects ideas that I could make with Ktor?](https://www.reddit.com/r/Kotlin/comments/11q02mm/what_could_be_some_fun_projects_ideas_that_i/)
-- [Typster: A Typing game using Desktop Compose](https://www.reddit.com/r/Kotlin/comments/11psin5/typster_a_typing_game_using_desktop_compose/)
-- [Kotlin multiplatform app with shared UI for Android, IOS and Desktop](https://www.reddit.com/r/Kotlin/comments/11pph1p/kotlin_multiplatform_app_with_shared_ui_for/)
-- [is it posssible to add an a python AI tensorflow script inside kotlin for android?](https://www.reddit.com/r/Kotlin/comments/11pkahs/is_it_posssible_to_add_an_a_python_ai_tensorflow/)
-- [Guides for Kotlin scripting use case](https://www.reddit.com/r/Kotlin/comments/11phbgg/guides_for_kotlin_scripting_use_case/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
