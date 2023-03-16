@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - mjovanc/awesome-ktor: A curated list of awesome books, tutorials, courses, and resources for the Ktor framework ecosystem ⚡](https://www.reddit.com/r/Kotlin/comments/11s01pe/github_mjovancawesomektor_a_curated_list_of/)
+- [[Android/Multiplatform] Kotlin Flows + Ktor = Flawless HTTP requests &lpar;- ArrowKt&rpar;](https://www.reddit.com/r/Kotlin/comments/11rqwfd/androidmultiplatform_kotlin_flows_ktor_flawless/)
 - [KotlinConf 2023 schedule is available](https://www.reddit.com/r/Kotlin/comments/11re6ou/kotlinconf_2023_schedule_is_available/)
 - [Failure Mitigation for Microservices: An Intro to Aperture](https://www.reddit.com/r/Kotlin/comments/11re68w/failure_mitigation_for_microservices_an_intro_to/)
 - [Extract the hotspot name from the reservation of startLocalOnlyHotspot](https://www.reddit.com/r/Kotlin/comments/11rc7wi/extract_the_hotspot_name_from_the_reservation_of/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin/JS - How do you avoid different versions of the same library clashing?](https://www.reddit.com/r/Kotlin/comments/11r2hp3/kotlinjs_how_do_you_avoid_different_versions_of/)
 - [Multiplatform library with multiple Android targets](https://www.reddit.com/r/Kotlin/comments/11r0z4i/multiplatform_library_with_multiple_android/)
 - [what do these mean?](https://www.reddit.com/r/Kotlin/comments/11qmkxn/what_do_these_mean/)
-- [How is Ktor different](https://www.reddit.com/r/Kotlin/comments/11qe91z/how_is_ktor_different/)
-- [Best Bdd option for local app](https://www.reddit.com/r/Kotlin/comments/11qe4il/best_bdd_option_for_local_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
