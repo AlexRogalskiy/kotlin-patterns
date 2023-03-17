@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - mjovanc/awesome-ktor: A curated list of awesome books, tutorials, courses, and resources for the Ktor framework ecosystem ⚡](https://www.reddit.com/r/Kotlin/comments/11s01pe/github_mjovancawesomektor_a_curated_list_of/)
-- [[Android/Multiplatform] Kotlin Flows + Ktor = Flawless HTTP requests &lpar;- ArrowKt&rpar;](https://www.reddit.com/r/Kotlin/comments/11rqwfd/androidmultiplatform_kotlin_flows_ktor_flawless/)
-- [KotlinConf 2023 schedule is available](https://www.reddit.com/r/Kotlin/comments/11re6ou/kotlinconf_2023_schedule_is_available/)
-- [Failure Mitigation for Microservices: An Intro to Aperture](https://www.reddit.com/r/Kotlin/comments/11re68w/failure_mitigation_for_microservices_an_intro_to/)
-- [Extract the hotspot name from the reservation of startLocalOnlyHotspot](https://www.reddit.com/r/Kotlin/comments/11rc7wi/extract_the_hotspot_name_from_the_reservation_of/)
-- [Best frameworks to build back-end with Kotlin?](https://www.reddit.com/r/Kotlin/comments/11rawk4/best_frameworks_to_build_backend_with_kotlin/)
-- [Spring boot - authenticate never throws DisabledException or LockedException](https://www.reddit.com/r/Kotlin/comments/11r7219/spring_boot_authenticate_never_throws/)
-- [Kotlin/JS - How do you avoid different versions of the same library clashing?](https://www.reddit.com/r/Kotlin/comments/11r2hp3/kotlinjs_how_do_you_avoid_different_versions_of/)
-- [Multiplatform library with multiple Android targets](https://www.reddit.com/r/Kotlin/comments/11r0z4i/multiplatform_library_with_multiple_android/)
-- [what do these mean?](https://www.reddit.com/r/Kotlin/comments/11qmkxn/what_do_these_mean/)
+- [Kotlin Android Need Help](https://www.reddit.com/r/Kotlin/comments/11tdox2/kotlin_android_need_help/)
+- [Kotlin get bored what next?](https://www.reddit.com/r/Kotlin/comments/11t7rc4/kotlin_get_bored_what_next/)
+- [Mobile on Jetbrains Compose](https://www.reddit.com/r/Kotlin/comments/11t4yoq/mobile_on_jetbrains_compose/)
+- [Which one is faster, forEach&lpar;&rpar; or the good old for loops?](https://www.reddit.com/r/Kotlin/comments/11t14qa/which_one_is_faster_foreach_or_the_good_old_for/)
+- [How do I make the program recognise this button already exists?](https://www.reddit.com/r/Kotlin/comments/11t0fn9/how_do_i_make_the_program_recognise_this_button/)
+- [☎️ Ktor 2.2.4 Release: Takes On Communication Bugs](https://www.reddit.com/r/Kotlin/comments/11sztcu/ktor_224_release_takes_on_communication_bugs/)
+- [Serialize children classes](https://www.reddit.com/r/Kotlin/comments/11szm86/serialize_children_classes/)
+- [KTOR Resources: are you using it and why?](https://www.reddit.com/r/Kotlin/comments/11ssavh/ktor_resources_are_you_using_it_and_why/)
+- [Get some data from html](https://www.reddit.com/r/Kotlin/comments/11sqjwa/get_some_data_from_html/)
+- [I have a question... about OOP vs FP &lpar;I know, I know&rpar;](https://www.reddit.com/r/Kotlin/comments/11slq0t/i_have_a_question_about_oop_vs_fp_i_know_i_know/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
