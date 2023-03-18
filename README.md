@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New article: Exploring Kotlin&#39;s Context Receivers](https://www.reddit.com/r/Kotlin/comments/11tuw5m/new_article_exploring_kotlins_context_receivers/)
+- [Trying to access Firestore via GitLiveApp/firebase-kotlin-sdk. Any tutorials? as I&#39;m royally stuck!](https://www.reddit.com/r/Kotlin/comments/11tutlu/trying_to_access_firestore_via/)
+- [Examples of Compose Multiplatform in the browser with canvas](https://www.reddit.com/r/Kotlin/comments/11tpwqm/examples_of_compose_multiplatform_in_the_browser/)
+- [Help us understand how you learn Kotlin](https://www.reddit.com/r/Kotlin/comments/11tpj5a/help_us_understand_how_you_learn_kotlin/)
+- [Functional Thinking - Actions, Calculations, Data](https://www.reddit.com/r/Kotlin/comments/11tpch9/functional_thinking_actions_calculations_data/)
+- [Can you generate cross platform schemas with Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/11tny2k/can_you_generate_cross_platform_schemas_with/)
+- [How do I make a Interface Class that in it&#39;s values has another Interface Class](https://www.reddit.com/r/Kotlin/comments/11tnoko/how_do_i_make_a_interface_class_that_in_its/)
+- [Good books/resources for intermediate/advanced Kotlin developer?](https://www.reddit.com/r/Kotlin/comments/11tmid8/good_booksresources_for_intermediateadvanced/)
 - [Kotlin Android Need Help](https://www.reddit.com/r/Kotlin/comments/11tdox2/kotlin_android_need_help/)
 - [Kotlin get bored what next?](https://www.reddit.com/r/Kotlin/comments/11t7rc4/kotlin_get_bored_what_next/)
-- [Mobile on Jetbrains Compose](https://www.reddit.com/r/Kotlin/comments/11t4yoq/mobile_on_jetbrains_compose/)
-- [Which one is faster, forEach&lpar;&rpar; or the good old for loops?](https://www.reddit.com/r/Kotlin/comments/11t14qa/which_one_is_faster_foreach_or_the_good_old_for/)
-- [How do I make the program recognise this button already exists?](https://www.reddit.com/r/Kotlin/comments/11t0fn9/how_do_i_make_the_program_recognise_this_button/)
-- [☎️ Ktor 2.2.4 Release: Takes On Communication Bugs](https://www.reddit.com/r/Kotlin/comments/11sztcu/ktor_224_release_takes_on_communication_bugs/)
-- [Serialize children classes](https://www.reddit.com/r/Kotlin/comments/11szm86/serialize_children_classes/)
-- [KTOR Resources: are you using it and why?](https://www.reddit.com/r/Kotlin/comments/11ssavh/ktor_resources_are_you_using_it_and_why/)
-- [Get some data from html](https://www.reddit.com/r/Kotlin/comments/11sqjwa/get_some_data_from_html/)
-- [I have a question... about OOP vs FP &lpar;I know, I know&rpar;](https://www.reddit.com/r/Kotlin/comments/11slq0t/i_have_a_question_about_oop_vs_fp_i_know_i_know/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
