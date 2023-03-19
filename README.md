@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My small Portfolio site completely written in Kotlin](https://www.reddit.com/r/Kotlin/comments/11ux6zl/my_small_portfolio_site_completely_written_in/)
+- [As an Android dev, is there anything upcoming for KMM image, text. etc. resources?](https://www.reddit.com/r/Kotlin/comments/11uukdj/as_an_android_dev_is_there_anything_upcoming_for/)
+- [Learning Kotlin in depth &lpar;as a non-beginner&rpar;](https://www.reddit.com/r/Kotlin/comments/11upfhr/learning_kotlin_in_depth_as_a_nonbeginner/)
 - [New article: Exploring Kotlin&#39;s Context Receivers](https://www.reddit.com/r/Kotlin/comments/11tuw5m/new_article_exploring_kotlins_context_receivers/)
 - [Trying to access Firestore via GitLiveApp/firebase-kotlin-sdk. Any tutorials? as I&#39;m royally stuck!](https://www.reddit.com/r/Kotlin/comments/11tutlu/trying_to_access_firestore_via/)
 - [Examples of Compose Multiplatform in the browser with canvas](https://www.reddit.com/r/Kotlin/comments/11tpwqm/examples_of_compose_multiplatform_in_the_browser/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Functional Thinking - Actions, Calculations, Data](https://www.reddit.com/r/Kotlin/comments/11tpch9/functional_thinking_actions_calculations_data/)
 - [Can you generate cross platform schemas with Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/11tny2k/can_you_generate_cross_platform_schemas_with/)
 - [How do I make a Interface Class that in it&#39;s values has another Interface Class](https://www.reddit.com/r/Kotlin/comments/11tnoko/how_do_i_make_a_interface_class_that_in_its/)
-- [Good books/resources for intermediate/advanced Kotlin developer?](https://www.reddit.com/r/Kotlin/comments/11tmid8/good_booksresources_for_intermediateadvanced/)
-- [Kotlin Android Need Help](https://www.reddit.com/r/Kotlin/comments/11tdox2/kotlin_android_need_help/)
-- [Kotlin get bored what next?](https://www.reddit.com/r/Kotlin/comments/11t7rc4/kotlin_get_bored_what_next/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
