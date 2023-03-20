@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KOTLIN ANDROID STUDIO: &quot;Unresolved Reference&quot;](https://www.reddit.com/r/Kotlin/comments/11w4h3q/kotlin_android_studio_unresolved_reference/)
+- [Help with extension functions.](https://www.reddit.com/r/Kotlin/comments/11vmk20/help_with_extension_functions/)
+- [Compose UI or layouts?](https://www.reddit.com/r/Kotlin/comments/11vm9o8/compose_ui_or_layouts/)
 - [My small Portfolio site completely written in Kotlin](https://www.reddit.com/r/Kotlin/comments/11ux6zl/my_small_portfolio_site_completely_written_in/)
 - [As an Android dev, is there anything upcoming for KMM image, text. etc. resources?](https://www.reddit.com/r/Kotlin/comments/11uukdj/as_an_android_dev_is_there_anything_upcoming_for/)
 - [Learning Kotlin in depth &lpar;as a non-beginner&rpar;](https://www.reddit.com/r/Kotlin/comments/11upfhr/learning_kotlin_in_depth_as_a_nonbeginner/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Trying to access Firestore via GitLiveApp/firebase-kotlin-sdk. Any tutorials? as I&#39;m royally stuck!](https://www.reddit.com/r/Kotlin/comments/11tutlu/trying_to_access_firestore_via/)
 - [Examples of Compose Multiplatform in the browser with canvas](https://www.reddit.com/r/Kotlin/comments/11tpwqm/examples_of_compose_multiplatform_in_the_browser/)
 - [Help us understand how you learn Kotlin](https://www.reddit.com/r/Kotlin/comments/11tpj5a/help_us_understand_how_you_learn_kotlin/)
-- [Functional Thinking - Actions, Calculations, Data](https://www.reddit.com/r/Kotlin/comments/11tpch9/functional_thinking_actions_calculations_data/)
-- [Can you generate cross platform schemas with Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/11tny2k/can_you_generate_cross_platform_schemas_with/)
-- [How do I make a Interface Class that in it&#39;s values has another Interface Class](https://www.reddit.com/r/Kotlin/comments/11tnoko/how_do_i_make_a_interface_class_that_in_its/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
