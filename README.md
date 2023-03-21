@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Instagram Link sticker not redirect to app](https://www.reddit.com/r/Kotlin/comments/11x33s3/instagram_link_sticker_not_redirect_to_app/)
+- [Single flow with multiple listeners](https://www.reddit.com/r/Kotlin/comments/11wrtzu/single_flow_with_multiple_listeners/)
+- [Talking Kotlin: The Circuit – Compose-driven Architecture for Kotlin and Android](https://www.reddit.com/r/Kotlin/comments/11woskd/talking_kotlin_the_circuit_composedriven/)
+- [Video: Smart Casts with Kotlin Contracts](https://www.reddit.com/r/Kotlin/comments/11wkixc/video_smart_casts_with_kotlin_contracts/)
+- [How can I play a sound file on Kotlin JVM desktop?](https://www.reddit.com/r/Kotlin/comments/11wghe9/how_can_i_play_a_sound_file_on_kotlin_jvm_desktop/)
 - [KOTLIN ANDROID STUDIO: &quot;Unresolved Reference&quot;](https://www.reddit.com/r/Kotlin/comments/11w4h3q/kotlin_android_studio_unresolved_reference/)
 - [Help with extension functions.](https://www.reddit.com/r/Kotlin/comments/11vmk20/help_with_extension_functions/)
 - [Compose UI or layouts?](https://www.reddit.com/r/Kotlin/comments/11vm9o8/compose_ui_or_layouts/)
 - [My small Portfolio site completely written in Kotlin](https://www.reddit.com/r/Kotlin/comments/11ux6zl/my_small_portfolio_site_completely_written_in/)
 - [As an Android dev, is there anything upcoming for KMM image, text. etc. resources?](https://www.reddit.com/r/Kotlin/comments/11uukdj/as_an_android_dev_is_there_anything_upcoming_for/)
-- [Learning Kotlin in depth &lpar;as a non-beginner&rpar;](https://www.reddit.com/r/Kotlin/comments/11upfhr/learning_kotlin_in_depth_as_a_nonbeginner/)
-- [New article: Exploring Kotlin&#39;s Context Receivers](https://www.reddit.com/r/Kotlin/comments/11tuw5m/new_article_exploring_kotlins_context_receivers/)
-- [Trying to access Firestore via GitLiveApp/firebase-kotlin-sdk. Any tutorials? as I&#39;m royally stuck!](https://www.reddit.com/r/Kotlin/comments/11tutlu/trying_to_access_firestore_via/)
-- [Examples of Compose Multiplatform in the browser with canvas](https://www.reddit.com/r/Kotlin/comments/11tpwqm/examples_of_compose_multiplatform_in_the_browser/)
-- [Help us understand how you learn Kotlin](https://www.reddit.com/r/Kotlin/comments/11tpj5a/help_us_understand_how_you_learn_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
