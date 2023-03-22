@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KOTLIN SPLASH SCREEN ANIMATION NOT WORKING](https://www.reddit.com/r/Kotlin/comments/11xx9os/kotlin_splash_screen_animation_not_working/)
+- [I need help](https://www.reddit.com/r/Kotlin/comments/11xlrmh/i_need_help/)
+- [AnyMap Deep Merge with Kotlin](https://www.reddit.com/r/Kotlin/comments/11xj2ab/anymap_deep_merge_with_kotlin/)
+- [Looking for Kotlin Console UI libraries that work in IDE Terminal](https://www.reddit.com/r/Kotlin/comments/11xiq4p/looking_for_kotlin_console_ui_libraries_that_work/)
+- [Result Class with Generic Type for both Success and Failure States](https://www.reddit.com/r/Kotlin/comments/11xfo6p/result_class_with_generic_type_for_both_success/)
+- [Where to start?](https://www.reddit.com/r/Kotlin/comments/11xb6kw/where_to_start/)
+- [gacha game](https://www.reddit.com/r/Kotlin/comments/11x4jke/gacha_game/)
 - [Instagram Link sticker not redirect to app](https://www.reddit.com/r/Kotlin/comments/11x33s3/instagram_link_sticker_not_redirect_to_app/)
 - [Single flow with multiple listeners](https://www.reddit.com/r/Kotlin/comments/11wrtzu/single_flow_with_multiple_listeners/)
 - [Talking Kotlin: The Circuit – Compose-driven Architecture for Kotlin and Android](https://www.reddit.com/r/Kotlin/comments/11woskd/talking_kotlin_the_circuit_composedriven/)
-- [Video: Smart Casts with Kotlin Contracts](https://www.reddit.com/r/Kotlin/comments/11wkixc/video_smart_casts_with_kotlin_contracts/)
-- [How can I play a sound file on Kotlin JVM desktop?](https://www.reddit.com/r/Kotlin/comments/11wghe9/how_can_i_play_a_sound_file_on_kotlin_jvm_desktop/)
-- [KOTLIN ANDROID STUDIO: &quot;Unresolved Reference&quot;](https://www.reddit.com/r/Kotlin/comments/11w4h3q/kotlin_android_studio_unresolved_reference/)
-- [Help with extension functions.](https://www.reddit.com/r/Kotlin/comments/11vmk20/help_with_extension_functions/)
-- [Compose UI or layouts?](https://www.reddit.com/r/Kotlin/comments/11vm9o8/compose_ui_or_layouts/)
-- [My small Portfolio site completely written in Kotlin](https://www.reddit.com/r/Kotlin/comments/11ux6zl/my_small_portfolio_site_completely_written_in/)
-- [As an Android dev, is there anything upcoming for KMM image, text. etc. resources?](https://www.reddit.com/r/Kotlin/comments/11uukdj/as_an_android_dev_is_there_anything_upcoming_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
