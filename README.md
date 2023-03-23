@@ -272,7 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [KOTLIN SPLASH SCREEN ANIMATION NOT WORKING](https://www.reddit.com/r/Kotlin/comments/11xx9os/kotlin_splash_screen_animation_not_working/)
+- [How are you all handling database persistence?](https://www.reddit.com/r/Kotlin/comments/11z3hil/how_are_you_all_handling_database_persistence/)
+- [Repost: Exploring Kotlin’s Context Receivers 🙏🏼](https://www.reddit.com/r/Kotlin/comments/11ywio3/repost_exploring_kotlins_context_receivers/)
+- [PACKAGE MUSIC](https://www.reddit.com/r/Kotlin/comments/11yhnue/package_music/)
 - [I need help](https://www.reddit.com/r/Kotlin/comments/11xlrmh/i_need_help/)
 - [AnyMap Deep Merge with Kotlin](https://www.reddit.com/r/Kotlin/comments/11xj2ab/anymap_deep_merge_with_kotlin/)
 - [Looking for Kotlin Console UI libraries that work in IDE Terminal](https://www.reddit.com/r/Kotlin/comments/11xiq4p/looking_for_kotlin_console_ui_libraries_that_work/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Where to start?](https://www.reddit.com/r/Kotlin/comments/11xb6kw/where_to_start/)
 - [gacha game](https://www.reddit.com/r/Kotlin/comments/11x4jke/gacha_game/)
 - [Instagram Link sticker not redirect to app](https://www.reddit.com/r/Kotlin/comments/11x33s3/instagram_link_sticker_not_redirect_to_app/)
-- [Single flow with multiple listeners](https://www.reddit.com/r/Kotlin/comments/11wrtzu/single_flow_with_multiple_listeners/)
-- [Talking Kotlin: The Circuit – Compose-driven Architecture for Kotlin and Android](https://www.reddit.com/r/Kotlin/comments/11woskd/talking_kotlin_the_circuit_composedriven/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
