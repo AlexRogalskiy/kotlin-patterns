@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Small question: What is the meaning of &quot;someVariable: T &amp; Any&quot;?](https://www.reddit.com/r/Kotlin/comments/1201zjv/small_question_what_is_the_meaning_of/)
+- [Any can please provide Kotlin notes?](https://www.reddit.com/r/Kotlin/comments/11zzdr6/any_can_please_provide_kotlin_notes/)
+- [In the latest episode of Talking Kotlin, we chat with Amrita, Zac, and Kieran from Slack about Circuit, &quot;a simple, lightweight, and extensible framework for building Kotlin applications that’s Compose from the ground up.&quot; Check it out 👇](https://www.reddit.com/r/Kotlin/comments/11zrdmy/in_the_latest_episode_of_talking_kotlin_we_chat/)
+- [Shadow variable or use &quot;local&quot; suffix?](https://www.reddit.com/r/Kotlin/comments/11zrczd/shadow_variable_or_use_local_suffix/)
+- [Having a tough time with viewModels](https://www.reddit.com/r/Kotlin/comments/11zojja/having_a_tough_time_with_viewmodels/)
+- [Tutorial: Deploying Kotlin desktop apps that embed Chromium, with Conveyor](https://www.reddit.com/r/Kotlin/comments/11zmpu9/tutorial_deploying_kotlin_desktop_apps_that_embed/)
 - [How are you all handling database persistence?](https://www.reddit.com/r/Kotlin/comments/11z3hil/how_are_you_all_handling_database_persistence/)
 - [Repost: Exploring Kotlin’s Context Receivers 🙏🏼](https://www.reddit.com/r/Kotlin/comments/11ywio3/repost_exploring_kotlins_context_receivers/)
 - [PACKAGE MUSIC](https://www.reddit.com/r/Kotlin/comments/11yhnue/package_music/)
 - [I need help](https://www.reddit.com/r/Kotlin/comments/11xlrmh/i_need_help/)
-- [AnyMap Deep Merge with Kotlin](https://www.reddit.com/r/Kotlin/comments/11xj2ab/anymap_deep_merge_with_kotlin/)
-- [Looking for Kotlin Console UI libraries that work in IDE Terminal](https://www.reddit.com/r/Kotlin/comments/11xiq4p/looking_for_kotlin_console_ui_libraries_that_work/)
-- [Result Class with Generic Type for both Success and Failure States](https://www.reddit.com/r/Kotlin/comments/11xfo6p/result_class_with_generic_type_for_both_success/)
-- [Where to start?](https://www.reddit.com/r/Kotlin/comments/11xb6kw/where_to_start/)
-- [gacha game](https://www.reddit.com/r/Kotlin/comments/11x4jke/gacha_game/)
-- [Instagram Link sticker not redirect to app](https://www.reddit.com/r/Kotlin/comments/11x33s3/instagram_link_sticker_not_redirect_to_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
