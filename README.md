@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMM alternatives to Android Datastore &amp; Room DB?](https://www.reddit.com/r/Kotlin/comments/120uyrz/kmm_alternatives_to_android_datastore_room_db/)
+- [What do you use for building Desktop apps these days?](https://www.reddit.com/r/Kotlin/comments/120ojdv/what_do_you_use_for_building_desktop_apps_these/)
+- [the &quot;use&quot; keyword for multiple resources](https://www.reddit.com/r/Kotlin/comments/120lc9y/the_use_keyword_for_multiple_resources/)
+- [Simplifying Redux in Kotlin: &quot;mutating&quot; immutable states with Mutekt](https://www.reddit.com/r/Kotlin/comments/120k7yh/simplifying_redux_in_kotlin_mutating_immutable/)
+- [Defining an IO Context in Kotlin](https://www.reddit.com/r/Kotlin/comments/120id7k/defining_an_io_context_in_kotlin/)
 - [Small question: What is the meaning of &quot;someVariable: T &amp; Any&quot;?](https://www.reddit.com/r/Kotlin/comments/1201zjv/small_question_what_is_the_meaning_of/)
 - [Any can please provide Kotlin notes?](https://www.reddit.com/r/Kotlin/comments/11zzdr6/any_can_please_provide_kotlin_notes/)
 - [In the latest episode of Talking Kotlin, we chat with Amrita, Zac, and Kieran from Slack about Circuit, &quot;a simple, lightweight, and extensible framework for building Kotlin applications that’s Compose from the ground up.&quot; Check it out 👇](https://www.reddit.com/r/Kotlin/comments/11zrdmy/in_the_latest_episode_of_talking_kotlin_we_chat/)
 - [Shadow variable or use &quot;local&quot; suffix?](https://www.reddit.com/r/Kotlin/comments/11zrczd/shadow_variable_or_use_local_suffix/)
 - [Having a tough time with viewModels](https://www.reddit.com/r/Kotlin/comments/11zojja/having_a_tough_time_with_viewmodels/)
-- [Tutorial: Deploying Kotlin desktop apps that embed Chromium, with Conveyor](https://www.reddit.com/r/Kotlin/comments/11zmpu9/tutorial_deploying_kotlin_desktop_apps_that_embed/)
-- [How are you all handling database persistence?](https://www.reddit.com/r/Kotlin/comments/11z3hil/how_are_you_all_handling_database_persistence/)
-- [Repost: Exploring Kotlin’s Context Receivers 🙏🏼](https://www.reddit.com/r/Kotlin/comments/11ywio3/repost_exploring_kotlins_context_receivers/)
-- [PACKAGE MUSIC](https://www.reddit.com/r/Kotlin/comments/11yhnue/package_music/)
-- [I need help](https://www.reddit.com/r/Kotlin/comments/11xlrmh/i_need_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
