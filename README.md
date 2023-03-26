@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to test my skills in kotlin?](https://www.reddit.com/r/Kotlin/comments/121wkx8/how_to_test_my_skills_in_kotlin/)
+- [Library For Propagating HTTP Headers](https://www.reddit.com/r/Kotlin/comments/121uf79/library_for_propagating_http_headers/)
+- [Can anyone provide me Kotlin practise sets](https://www.reddit.com/r/Kotlin/comments/121u1jb/can_anyone_provide_me_kotlin_practise_sets/)
+- [Resources?](https://www.reddit.com/r/Kotlin/comments/121ords/resources/)
+- [Introducing Kotlin/Wasm](https://www.reddit.com/r/Kotlin/comments/121jdcg/introducing_kotlinwasm/)
+- [Json parser interface with kotlinx.serialization implementation - is there a better solution using kotlinx?](https://www.reddit.com/r/Kotlin/comments/121fkf4/json_parser_interface_with_kotlinxserialization/)
 - [KMM alternatives to Android Datastore &amp; Room DB?](https://www.reddit.com/r/Kotlin/comments/120uyrz/kmm_alternatives_to_android_datastore_room_db/)
 - [What do you use for building Desktop apps these days?](https://www.reddit.com/r/Kotlin/comments/120ojdv/what_do_you_use_for_building_desktop_apps_these/)
 - [the &quot;use&quot; keyword for multiple resources](https://www.reddit.com/r/Kotlin/comments/120lc9y/the_use_keyword_for_multiple_resources/)
 - [Simplifying Redux in Kotlin: &quot;mutating&quot; immutable states with Mutekt](https://www.reddit.com/r/Kotlin/comments/120k7yh/simplifying_redux_in_kotlin_mutating_immutable/)
-- [Defining an IO Context in Kotlin](https://www.reddit.com/r/Kotlin/comments/120id7k/defining_an_io_context_in_kotlin/)
-- [Small question: What is the meaning of &quot;someVariable: T &amp; Any&quot;?](https://www.reddit.com/r/Kotlin/comments/1201zjv/small_question_what_is_the_meaning_of/)
-- [Any can please provide Kotlin notes?](https://www.reddit.com/r/Kotlin/comments/11zzdr6/any_can_please_provide_kotlin_notes/)
-- [In the latest episode of Talking Kotlin, we chat with Amrita, Zac, and Kieran from Slack about Circuit, &quot;a simple, lightweight, and extensible framework for building Kotlin applications that’s Compose from the ground up.&quot; Check it out 👇](https://www.reddit.com/r/Kotlin/comments/11zrdmy/in_the_latest_episode_of_talking_kotlin_we_chat/)
-- [Shadow variable or use &quot;local&quot; suffix?](https://www.reddit.com/r/Kotlin/comments/11zrczd/shadow_variable_or_use_local_suffix/)
-- [Having a tough time with viewModels](https://www.reddit.com/r/Kotlin/comments/11zojja/having_a_tough_time_with_viewmodels/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
