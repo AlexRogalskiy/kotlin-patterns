@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are you a full-stack Kotlin dev?](https://www.reddit.com/r/Kotlin/comments/122qqyo/are_you_a_fullstack_kotlin_dev/)
+- [How can I learn Kotlin web development?](https://www.reddit.com/r/Kotlin/comments/122kgye/how_can_i_learn_kotlin_web_development/)
+- [Listenable Kotlin lessons.](https://www.reddit.com/r/Kotlin/comments/122fjii/listenable_kotlin_lessons/)
 - [How to test my skills in kotlin?](https://www.reddit.com/r/Kotlin/comments/121wkx8/how_to_test_my_skills_in_kotlin/)
 - [Library For Propagating HTTP Headers](https://www.reddit.com/r/Kotlin/comments/121uf79/library_for_propagating_http_headers/)
 - [Can anyone provide me Kotlin practise sets](https://www.reddit.com/r/Kotlin/comments/121u1jb/can_anyone_provide_me_kotlin_practise_sets/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Introducing Kotlin/Wasm](https://www.reddit.com/r/Kotlin/comments/121jdcg/introducing_kotlinwasm/)
 - [Json parser interface with kotlinx.serialization implementation - is there a better solution using kotlinx?](https://www.reddit.com/r/Kotlin/comments/121fkf4/json_parser_interface_with_kotlinxserialization/)
 - [KMM alternatives to Android Datastore &amp; Room DB?](https://www.reddit.com/r/Kotlin/comments/120uyrz/kmm_alternatives_to_android_datastore_room_db/)
-- [What do you use for building Desktop apps these days?](https://www.reddit.com/r/Kotlin/comments/120ojdv/what_do_you_use_for_building_desktop_apps_these/)
-- [the &quot;use&quot; keyword for multiple resources](https://www.reddit.com/r/Kotlin/comments/120lc9y/the_use_keyword_for_multiple_resources/)
-- [Simplifying Redux in Kotlin: &quot;mutating&quot; immutable states with Mutekt](https://www.reddit.com/r/Kotlin/comments/120k7yh/simplifying_redux_in_kotlin_mutating_immutable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
