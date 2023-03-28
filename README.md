@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to create a room database for those nested classes?](https://www.reddit.com/r/Kotlin/comments/1242hkr/how_to_create_a_room_database_for_those_nested/)
+- [Kotlin for cybersecurity](https://www.reddit.com/r/Kotlin/comments/123wqhh/kotlin_for_cybersecurity/)
+- [Problem migrating Java to Kotlin in an app that needs to be backwards-compatible](https://www.reddit.com/r/Kotlin/comments/123tuqr/problem_migrating_java_to_kotlin_in_an_app_that/)
+- [Which JVM Language Would You Choose for a New Server-Side Project?](https://www.reddit.com/r/Kotlin/comments/123tozf/which_jvm_language_would_you_choose_for_a_new/)
+- [Faster Kotlin APIs on AWS Lambda](https://www.reddit.com/r/Kotlin/comments/123oawj/faster_kotlin_apis_on_aws_lambda/)
 - [Are you a full-stack Kotlin dev?](https://www.reddit.com/r/Kotlin/comments/122qqyo/are_you_a_fullstack_kotlin_dev/)
 - [How can I learn Kotlin web development?](https://www.reddit.com/r/Kotlin/comments/122kgye/how_can_i_learn_kotlin_web_development/)
 - [Listenable Kotlin lessons.](https://www.reddit.com/r/Kotlin/comments/122fjii/listenable_kotlin_lessons/)
 - [How to test my skills in kotlin?](https://www.reddit.com/r/Kotlin/comments/121wkx8/how_to_test_my_skills_in_kotlin/)
 - [Library For Propagating HTTP Headers](https://www.reddit.com/r/Kotlin/comments/121uf79/library_for_propagating_http_headers/)
-- [Can anyone provide me Kotlin practise sets](https://www.reddit.com/r/Kotlin/comments/121u1jb/can_anyone_provide_me_kotlin_practise_sets/)
-- [Resources?](https://www.reddit.com/r/Kotlin/comments/121ords/resources/)
-- [Introducing Kotlin/Wasm](https://www.reddit.com/r/Kotlin/comments/121jdcg/introducing_kotlinwasm/)
-- [Json parser interface with kotlinx.serialization implementation - is there a better solution using kotlinx?](https://www.reddit.com/r/Kotlin/comments/121fkf4/json_parser_interface_with_kotlinxserialization/)
-- [KMM alternatives to Android Datastore &amp; Room DB?](https://www.reddit.com/r/Kotlin/comments/120uyrz/kmm_alternatives_to_android_datastore_room_db/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
