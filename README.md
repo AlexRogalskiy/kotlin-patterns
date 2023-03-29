@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Maven shade plugin throwing error when shading kotlin stdlib](https://www.reddit.com/r/Kotlin/comments/1259ti7/maven_shade_plugin_throwing_error_when_shading/)
+- [If you could remove one feature from Kotlin which one would that be?](https://www.reddit.com/r/Kotlin/comments/124x3im/if_you_could_remove_one_feature_from_kotlin_which/)
+- [Kotlin Library Design Problem with Smart Type Casts](https://www.reddit.com/r/Kotlin/comments/124owos/kotlin_library_design_problem_with_smart_type/)
+- [Introducing Kotlin/Wasm](https://www.reddit.com/r/Kotlin/comments/124o4x7/introducing_kotlinwasm/)
+- [Big news! LambdaConf returns Sept 16-19th and is better than ever! 🔥](https://www.reddit.com/r/Kotlin/comments/124n8f7/big_news_lambdaconf_returns_sept_1619th_and_is/)
+- [First android app using Kotlin](https://www.reddit.com/r/Kotlin/comments/124m58w/first_android_app_using_kotlin/)
+- [Which backend Frameworks for Web App is easy to learn?](https://www.reddit.com/r/Kotlin/comments/124hdnj/which_backend_frameworks_for_web_app_is_easy_to/)
+- [serverless Kotlin?](https://www.reddit.com/r/Kotlin/comments/124csis/serverless_kotlin/)
 - [How to create a room database for those nested classes?](https://www.reddit.com/r/Kotlin/comments/1242hkr/how_to_create_a_room_database_for_those_nested/)
 - [Kotlin for cybersecurity](https://www.reddit.com/r/Kotlin/comments/123wqhh/kotlin_for_cybersecurity/)
-- [Problem migrating Java to Kotlin in an app that needs to be backwards-compatible](https://www.reddit.com/r/Kotlin/comments/123tuqr/problem_migrating_java_to_kotlin_in_an_app_that/)
-- [Which JVM Language Would You Choose for a New Server-Side Project?](https://www.reddit.com/r/Kotlin/comments/123tozf/which_jvm_language_would_you_choose_for_a_new/)
-- [Faster Kotlin APIs on AWS Lambda](https://www.reddit.com/r/Kotlin/comments/123oawj/faster_kotlin_apis_on_aws_lambda/)
-- [Are you a full-stack Kotlin dev?](https://www.reddit.com/r/Kotlin/comments/122qqyo/are_you_a_fullstack_kotlin_dev/)
-- [How can I learn Kotlin web development?](https://www.reddit.com/r/Kotlin/comments/122kgye/how_can_i_learn_kotlin_web_development/)
-- [Listenable Kotlin lessons.](https://www.reddit.com/r/Kotlin/comments/122fjii/listenable_kotlin_lessons/)
-- [How to test my skills in kotlin?](https://www.reddit.com/r/Kotlin/comments/121wkx8/how_to_test_my_skills_in_kotlin/)
-- [Library For Propagating HTTP Headers](https://www.reddit.com/r/Kotlin/comments/121uf79/library_for_propagating_http_headers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
