@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Get Onboard Kotlin With Jetbrains](https://www.reddit.com/r/Kotlin/comments/125vkuy/get_onboard_kotlin_with_jetbrains/)
+- [Programming Language Memory Models: Problems, Solutions, and Directions](https://www.reddit.com/r/Kotlin/comments/125v3zg/programming_language_memory_models_problems/)
+- [Kotlin for hadoop tutorials?](https://www.reddit.com/r/Kotlin/comments/125rd8l/kotlin_for_hadoop_tutorials/)
+- [[DOUBT] How to use Factory Pattern with generic Interfaces](https://www.reddit.com/r/Kotlin/comments/125oz9k/doubt_how_to_use_factory_pattern_with_generic/)
+- [ChatGPT for Android using Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/125dbyx/chatgpt_for_android_using_jetpack_compose/)
+- [char sequence.toString != same string](https://www.reddit.com/r/Kotlin/comments/125a5vl/char_sequencetostring_same_string/)
 - [Maven shade plugin throwing error when shading kotlin stdlib](https://www.reddit.com/r/Kotlin/comments/1259ti7/maven_shade_plugin_throwing_error_when_shading/)
 - [If you could remove one feature from Kotlin which one would that be?](https://www.reddit.com/r/Kotlin/comments/124x3im/if_you_could_remove_one_feature_from_kotlin_which/)
 - [Kotlin Library Design Problem with Smart Type Casts](https://www.reddit.com/r/Kotlin/comments/124owos/kotlin_library_design_problem_with_smart_type/)
 - [Introducing Kotlin/Wasm](https://www.reddit.com/r/Kotlin/comments/124o4x7/introducing_kotlinwasm/)
-- [Big news! LambdaConf returns Sept 16-19th and is better than ever! 🔥](https://www.reddit.com/r/Kotlin/comments/124n8f7/big_news_lambdaconf_returns_sept_1619th_and_is/)
-- [First android app using Kotlin](https://www.reddit.com/r/Kotlin/comments/124m58w/first_android_app_using_kotlin/)
-- [Which backend Frameworks for Web App is easy to learn?](https://www.reddit.com/r/Kotlin/comments/124hdnj/which_backend_frameworks_for_web_app_is_easy_to/)
-- [serverless Kotlin?](https://www.reddit.com/r/Kotlin/comments/124csis/serverless_kotlin/)
-- [How to create a room database for those nested classes?](https://www.reddit.com/r/Kotlin/comments/1242hkr/how_to_create_a_room_database_for_those_nested/)
-- [Kotlin for cybersecurity](https://www.reddit.com/r/Kotlin/comments/123wqhh/kotlin_for_cybersecurity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
