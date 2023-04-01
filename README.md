@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can anyone compare &amp; contrast Kotlin Compose for Web vs fritz2?](https://www.reddit.com/r/Kotlin/comments/127o7nm/can_anyone_compare_contrast_kotlin_compose_for/)
+- [A New Approach to the API End-to-End Testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/127iaxe/a_new_approach_to_the_api_endtoend_testing_in/)
+- [Cunning Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/127h9sn/cunning_kotlin_context_receivers/)
 - [Struggle with Offset for API OkHttpClient](https://www.reddit.com/r/Kotlin/comments/1272kuw/struggle_with_offset_for_api_okhttpclient/)
 - [Ridiculous good productivity](https://www.reddit.com/r/Kotlin/comments/126v4wx/ridiculous_good_productivity/)
 - [Reconciling conflicts in Jetbrains plugin](https://www.reddit.com/r/Kotlin/comments/126e1sl/reconciling_conflicts_in_jetbrains_plugin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [[DOUBT] How to use Factory Pattern with generic Interfaces](https://www.reddit.com/r/Kotlin/comments/125oz9k/doubt_how_to_use_factory_pattern_with_generic/)
 - [ChatGPT for Android using Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/125dbyx/chatgpt_for_android_using_jetpack_compose/)
 - [char sequence.toString != same string](https://www.reddit.com/r/Kotlin/comments/125a5vl/char_sequencetostring_same_string/)
-- [Maven shade plugin throwing error when shading kotlin stdlib](https://www.reddit.com/r/Kotlin/comments/1259ti7/maven_shade_plugin_throwing_error_when_shading/)
-- [If you could remove one feature from Kotlin which one would that be?](https://www.reddit.com/r/Kotlin/comments/124x3im/if_you_could_remove_one_feature_from_kotlin_which/)
-- [Kotlin Library Design Problem with Smart Type Casts](https://www.reddit.com/r/Kotlin/comments/124owos/kotlin_library_design_problem_with_smart_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
