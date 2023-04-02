@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose for Desktop - release build](https://www.reddit.com/r/Kotlin/comments/128y00l/compose_for_desktop_release_build/)
+- [Is there a good resource or course where i can learn spring boot via kotlin](https://www.reddit.com/r/Kotlin/comments/128t7pn/is_there_a_good_resource_or_course_where_i_can/)
 - [Can anyone compare &amp; contrast Kotlin Compose for Web vs fritz2?](https://www.reddit.com/r/Kotlin/comments/127o7nm/can_anyone_compare_contrast_kotlin_compose_for/)
 - [A New Approach to the API End-to-End Testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/127iaxe/a_new_approach_to_the_api_endtoend_testing_in/)
 - [Cunning Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/127h9sn/cunning_kotlin_context_receivers/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Reconciling conflicts in Jetbrains plugin](https://www.reddit.com/r/Kotlin/comments/126e1sl/reconciling_conflicts_in_jetbrains_plugin/)
 - [Kotlin for hadoop tutorials?](https://www.reddit.com/r/Kotlin/comments/125rd8l/kotlin_for_hadoop_tutorials/)
 - [[DOUBT] How to use Factory Pattern with generic Interfaces](https://www.reddit.com/r/Kotlin/comments/125oz9k/doubt_how_to_use_factory_pattern_with_generic/)
-- [ChatGPT for Android using Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/125dbyx/chatgpt_for_android_using_jetpack_compose/)
-- [char sequence.toString != same string](https://www.reddit.com/r/Kotlin/comments/125a5vl/char_sequencetostring_same_string/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
