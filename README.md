@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone here who uses compose-multiplatform for desktop apps, what’s your feedback?](https://www.reddit.com/r/Kotlin/comments/12a1zr6/anyone_here_who_uses_composemultiplatform_for/)
+- [About gaining expirience](https://www.reddit.com/r/Kotlin/comments/129upiu/about_gaining_expirience/)
+- [Introducing krotoDC: Use gRPC and protobuf with Kotlin dataclasses](https://www.reddit.com/r/Kotlin/comments/129qifk/introducing_krotodc_use_grpc_and_protobuf_with/)
+- [Why is verticalArrangment not being recognised](https://www.reddit.com/r/Kotlin/comments/129og0h/why_is_verticalarrangment_not_being_recognised/)
+- [Trouble with function type signatures](https://www.reddit.com/r/Kotlin/comments/129k0xy/trouble_with_function_type_signatures/)
 - [Compose for Desktop - release build](https://www.reddit.com/r/Kotlin/comments/128y00l/compose_for_desktop_release_build/)
 - [Is there a good resource or course where i can learn spring boot via kotlin](https://www.reddit.com/r/Kotlin/comments/128t7pn/is_there_a_good_resource_or_course_where_i_can/)
 - [Can anyone compare &amp; contrast Kotlin Compose for Web vs fritz2?](https://www.reddit.com/r/Kotlin/comments/127o7nm/can_anyone_compare_contrast_kotlin_compose_for/)
 - [A New Approach to the API End-to-End Testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/127iaxe/a_new_approach_to_the_api_endtoend_testing_in/)
 - [Cunning Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/127h9sn/cunning_kotlin_context_receivers/)
-- [Struggle with Offset for API OkHttpClient](https://www.reddit.com/r/Kotlin/comments/1272kuw/struggle_with_offset_for_api_okhttpclient/)
-- [Ridiculous good productivity](https://www.reddit.com/r/Kotlin/comments/126v4wx/ridiculous_good_productivity/)
-- [Reconciling conflicts in Jetbrains plugin](https://www.reddit.com/r/Kotlin/comments/126e1sl/reconciling_conflicts_in_jetbrains_plugin/)
-- [Kotlin for hadoop tutorials?](https://www.reddit.com/r/Kotlin/comments/125rd8l/kotlin_for_hadoop_tutorials/)
-- [[DOUBT] How to use Factory Pattern with generic Interfaces](https://www.reddit.com/r/Kotlin/comments/125oz9k/doubt_how_to_use_factory_pattern_with_generic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
