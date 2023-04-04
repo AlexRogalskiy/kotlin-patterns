@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin without IntelliJ](https://www.reddit.com/r/Kotlin/comments/12axki3/kotlin_without_intellij/)
+- [KotlinConf 2023: Join the Livestream and Get Your Questions Answered!](https://www.reddit.com/r/Kotlin/comments/12ap5n8/kotlinconf_2023_join_the_livestream_and_get_your/)
+- [Newline curly brace](https://www.reddit.com/r/Kotlin/comments/12annka/newline_curly_brace/)
+- [Kotlin 1.8.20 Released](https://www.reddit.com/r/Kotlin/comments/12ages9/kotlin_1820_released/)
+- [Tips for improving my flow mapping code](https://www.reddit.com/r/Kotlin/comments/12adc05/tips_for_improving_my_flow_mapping_code/)
+- [Hello, I&#39;m a Flutter Developer . Now i&#39;m learning Kotlin for Native app development too . if you are looking for part time intern or Junior Kotlin Developer please DM me. I can handle Project alone or able to work with team .](https://www.reddit.com/r/Kotlin/comments/12a8i5p/hello_im_a_flutter_developer_now_im_learning/)
 - [Anyone here who uses compose-multiplatform for desktop apps, what’s your feedback?](https://www.reddit.com/r/Kotlin/comments/12a1zr6/anyone_here_who_uses_composemultiplatform_for/)
 - [About gaining expirience](https://www.reddit.com/r/Kotlin/comments/129upiu/about_gaining_expirience/)
 - [Introducing krotoDC: Use gRPC and protobuf with Kotlin dataclasses](https://www.reddit.com/r/Kotlin/comments/129qifk/introducing_krotodc_use_grpc_and_protobuf_with/)
 - [Why is verticalArrangment not being recognised](https://www.reddit.com/r/Kotlin/comments/129og0h/why_is_verticalarrangment_not_being_recognised/)
-- [Trouble with function type signatures](https://www.reddit.com/r/Kotlin/comments/129k0xy/trouble_with_function_type_signatures/)
-- [Compose for Desktop - release build](https://www.reddit.com/r/Kotlin/comments/128y00l/compose_for_desktop_release_build/)
-- [Is there a good resource or course where i can learn spring boot via kotlin](https://www.reddit.com/r/Kotlin/comments/128t7pn/is_there_a_good_resource_or_course_where_i_can/)
-- [Can anyone compare &amp; contrast Kotlin Compose for Web vs fritz2?](https://www.reddit.com/r/Kotlin/comments/127o7nm/can_anyone_compare_contrast_kotlin_compose_for/)
-- [A New Approach to the API End-to-End Testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/127iaxe/a_new_approach_to_the_api_endtoend_testing_in/)
-- [Cunning Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/127h9sn/cunning_kotlin_context_receivers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
