@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Context Receivers - Does It Support &quot;OR&quot; Scenarios?](https://www.reddit.com/r/Kotlin/comments/12bmzxh/context_receivers_does_it_support_or_scenarios/)
+- [Do I need to learn JAVA to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/12bcf9e/do_i_need_to_learn_java_to_learn_kotlin/)
+- [Real world example of a Kotlin/Ktor project](https://www.reddit.com/r/Kotlin/comments/12bc3f9/real_world_example_of_a_kotlinktor_project/)
+- [Repost of my Medium article on Concurrency vs. Parallelism](https://www.reddit.com/r/Kotlin/comments/12b89td/repost_of_my_medium_article_on_concurrency_vs/)
 - [Kotlin without IntelliJ](https://www.reddit.com/r/Kotlin/comments/12axki3/kotlin_without_intellij/)
 - [KotlinConf 2023: Join the Livestream and Get Your Questions Answered!](https://www.reddit.com/r/Kotlin/comments/12ap5n8/kotlinconf_2023_join_the_livestream_and_get_your/)
 - [Newline curly brace](https://www.reddit.com/r/Kotlin/comments/12annka/newline_curly_brace/)
 - [Kotlin 1.8.20 Released](https://www.reddit.com/r/Kotlin/comments/12ages9/kotlin_1820_released/)
 - [Tips for improving my flow mapping code](https://www.reddit.com/r/Kotlin/comments/12adc05/tips_for_improving_my_flow_mapping_code/)
 - [Hello, I&#39;m a Flutter Developer . Now i&#39;m learning Kotlin for Native app development too . if you are looking for part time intern or Junior Kotlin Developer please DM me. I can handle Project alone or able to work with team .](https://www.reddit.com/r/Kotlin/comments/12a8i5p/hello_im_a_flutter_developer_now_im_learning/)
-- [Anyone here who uses compose-multiplatform for desktop apps, what’s your feedback?](https://www.reddit.com/r/Kotlin/comments/12a1zr6/anyone_here_who_uses_composemultiplatform_for/)
-- [About gaining expirience](https://www.reddit.com/r/Kotlin/comments/129upiu/about_gaining_expirience/)
-- [Introducing krotoDC: Use gRPC and protobuf with Kotlin dataclasses](https://www.reddit.com/r/Kotlin/comments/129qifk/introducing_krotodc_use_grpc_and_protobuf_with/)
-- [Why is verticalArrangment not being recognised](https://www.reddit.com/r/Kotlin/comments/129og0h/why_is_verticalarrangment_not_being_recognised/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
