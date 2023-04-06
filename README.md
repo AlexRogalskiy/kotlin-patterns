@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which Kotlin features do you feel developers don&#39;t use enough?](https://www.reddit.com/r/Kotlin/comments/12d121x/which_kotlin_features_do_you_feel_developers_dont/)
+- [Kotlin + Compose is the full package?](https://www.reddit.com/r/Kotlin/comments/12cl319/kotlin_compose_is_the_full_package/)
+- [Meet Kotlin 1.9 data object](https://www.reddit.com/r/Kotlin/comments/12cjiza/meet_kotlin_19_data_object/)
+- [GitHub - piomin/course-spring-microservices: Code examples built for the purpose of video course: Microservices With Spring Boot And Spring Cloud](https://www.reddit.com/r/Kotlin/comments/12chv3e/github_piomincoursespringmicroservices_code/)
+- [Specifying non-nullable class field constraints on function parameters](https://www.reddit.com/r/Kotlin/comments/12cd5af/specifying_nonnullable_class_field_constraints_on/)
 - [Context Receivers - Does It Support &quot;OR&quot; Scenarios?](https://www.reddit.com/r/Kotlin/comments/12bmzxh/context_receivers_does_it_support_or_scenarios/)
 - [Do I need to learn JAVA to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/12bcf9e/do_i_need_to_learn_java_to_learn_kotlin/)
 - [Real world example of a Kotlin/Ktor project](https://www.reddit.com/r/Kotlin/comments/12bc3f9/real_world_example_of_a_kotlinktor_project/)
 - [Repost of my Medium article on Concurrency vs. Parallelism](https://www.reddit.com/r/Kotlin/comments/12b89td/repost_of_my_medium_article_on_concurrency_vs/)
-- [Kotlin without IntelliJ](https://www.reddit.com/r/Kotlin/comments/12axki3/kotlin_without_intellij/)
 - [KotlinConf 2023: Join the Livestream and Get Your Questions Answered!](https://www.reddit.com/r/Kotlin/comments/12ap5n8/kotlinconf_2023_join_the_livestream_and_get_your/)
-- [Newline curly brace](https://www.reddit.com/r/Kotlin/comments/12annka/newline_curly_brace/)
-- [Kotlin 1.8.20 Released](https://www.reddit.com/r/Kotlin/comments/12ages9/kotlin_1820_released/)
-- [Tips for improving my flow mapping code](https://www.reddit.com/r/Kotlin/comments/12adc05/tips_for_improving_my_flow_mapping_code/)
-- [Hello, I&#39;m a Flutter Developer . Now i&#39;m learning Kotlin for Native app development too . if you are looking for part time intern or Junior Kotlin Developer please DM me. I can handle Project alone or able to work with team .](https://www.reddit.com/r/Kotlin/comments/12a8i5p/hello_im_a_flutter_developer_now_im_learning/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
