@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Parameter order of CompletableFuture methods 😥](https://www.reddit.com/r/Kotlin/comments/12etyt3/parameter_order_of_completablefuture_methods/)
+- [How to add &quot;maintainer only&quot; functionality to custom DSL](https://www.reddit.com/r/Kotlin/comments/12entxm/how_to_add_maintainer_only_functionality_to/)
+- [Popups and Modals with Doodle](https://www.reddit.com/r/Kotlin/comments/12elr4c/popups_and_modals_with_doodle/)
+- [Introducing jOOQ with Lukas Eder](https://www.reddit.com/r/Kotlin/comments/12ehd76/introducing_jooq_with_lukas_eder/)
+- [KStateMachine now has Multiplatform support, iOS artefact is already available](https://www.reddit.com/r/Kotlin/comments/12e8kma/kstatemachine_now_has_multiplatform_support_ios/)
 - [Having troubles understanding how to do an kotlin exercise](https://www.reddit.com/r/Kotlin/comments/12e3ler/having_troubles_understanding_how_to_do_an_kotlin/)
 - [Ktor server side intermediate example](https://www.reddit.com/r/Kotlin/comments/12dmjzi/ktor_server_side_intermediate_example/)
 - [A new subreddit for the scientific programmers out there: r/ScientificComputing](https://www.reddit.com/r/Kotlin/comments/12ddphh/a_new_subreddit_for_the_scientific_programmers/)
 - [what do i need to learn as a complete beginner in order to build a basic audio streaming app?](https://www.reddit.com/r/Kotlin/comments/12dcs3t/what_do_i_need_to_learn_as_a_complete_beginner_in/)
 - [ChatGPT API for Kotlin](https://www.reddit.com/r/Kotlin/comments/12dau6a/chatgpt_api_for_kotlin/)
-- [Which Kotlin features do you feel developers don&#39;t use enough?](https://www.reddit.com/r/Kotlin/comments/12d121x/which_kotlin_features_do_you_feel_developers_dont/)
-- [Kotlin + Compose is the full package?](https://www.reddit.com/r/Kotlin/comments/12cl319/kotlin_compose_is_the_full_package/)
-- [Meet Kotlin 1.9 data object](https://www.reddit.com/r/Kotlin/comments/12cjiza/meet_kotlin_19_data_object/)
-- [GitHub - piomin/course-spring-microservices: Code examples built for the purpose of video course: Microservices With Spring Boot And Spring Cloud](https://www.reddit.com/r/Kotlin/comments/12chv3e/github_piomincoursespringmicroservices_code/)
-- [Specifying non-nullable class field constraints on function parameters](https://www.reddit.com/r/Kotlin/comments/12cd5af/specifying_nonnullable_class_field_constraints_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
