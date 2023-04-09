@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help displaying business phone number on maps for an app](https://www.reddit.com/r/Kotlin/comments/12g0egv/help_displaying_business_phone_number_on_maps_for/)
+- [Quillpad - notes, lists &amp; reminders - 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/12flxfy/quillpad_notes_lists_reminders_100_kotlin/)
+- [How to know what exception can function throw](https://www.reddit.com/r/Kotlin/comments/12fgwda/how_to_know_what_exception_can_function_throw/)
 - [Parameter order of CompletableFuture methods 😥](https://www.reddit.com/r/Kotlin/comments/12etyt3/parameter_order_of_completablefuture_methods/)
 - [How to add &quot;maintainer only&quot; functionality to custom DSL](https://www.reddit.com/r/Kotlin/comments/12entxm/how_to_add_maintainer_only_functionality_to/)
 - [Popups and Modals with Doodle](https://www.reddit.com/r/Kotlin/comments/12elr4c/popups_and_modals_with_doodle/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [KStateMachine now has Multiplatform support, iOS artefact is already available](https://www.reddit.com/r/Kotlin/comments/12e8kma/kstatemachine_now_has_multiplatform_support_ios/)
 - [Having troubles understanding how to do an kotlin exercise](https://www.reddit.com/r/Kotlin/comments/12e3ler/having_troubles_understanding_how_to_do_an_kotlin/)
 - [Ktor server side intermediate example](https://www.reddit.com/r/Kotlin/comments/12dmjzi/ktor_server_side_intermediate_example/)
-- [A new subreddit for the scientific programmers out there: r/ScientificComputing](https://www.reddit.com/r/Kotlin/comments/12ddphh/a_new_subreddit_for_the_scientific_programmers/)
-- [what do i need to learn as a complete beginner in order to build a basic audio streaming app?](https://www.reddit.com/r/Kotlin/comments/12dcs3t/what_do_i_need_to_learn_as_a_complete_beginner_in/)
-- [ChatGPT API for Kotlin](https://www.reddit.com/r/Kotlin/comments/12dau6a/chatgpt_api_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
