@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/Kotlin/comments/12gtrf3/github_kryptokronakryptokronakotlinsdk/)
+- [Call suspend function from regular function that&#39;s called from suspend function](https://www.reddit.com/r/Kotlin/comments/12go1k8/call_suspend_function_from_regular_function_thats/)
 - [Help displaying business phone number on maps for an app](https://www.reddit.com/r/Kotlin/comments/12g0egv/help_displaying_business_phone_number_on_maps_for/)
 - [Quillpad - notes, lists &amp; reminders - 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/12flxfy/quillpad_notes_lists_reminders_100_kotlin/)
 - [How to know what exception can function throw](https://www.reddit.com/r/Kotlin/comments/12fgwda/how_to_know_what_exception_can_function_throw/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Popups and Modals with Doodle](https://www.reddit.com/r/Kotlin/comments/12elr4c/popups_and_modals_with_doodle/)
 - [Introducing jOOQ with Lukas Eder](https://www.reddit.com/r/Kotlin/comments/12ehd76/introducing_jooq_with_lukas_eder/)
 - [KStateMachine now has Multiplatform support, iOS artefact is already available](https://www.reddit.com/r/Kotlin/comments/12e8kma/kstatemachine_now_has_multiplatform_support_ios/)
-- [Having troubles understanding how to do an kotlin exercise](https://www.reddit.com/r/Kotlin/comments/12e3ler/having_troubles_understanding_how_to_do_an_kotlin/)
-- [Ktor server side intermediate example](https://www.reddit.com/r/Kotlin/comments/12dmjzi/ktor_server_side_intermediate_example/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
