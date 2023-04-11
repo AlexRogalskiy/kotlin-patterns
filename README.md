@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the equivalent of Java&#39;s MyClass::new?](https://www.reddit.com/r/Kotlin/comments/12i4ehz/what_is_the_equivalent_of_javas_myclassnew/)
+- [Kotlin Scope Functions](https://www.reddit.com/r/Kotlin/comments/12hng60/kotlin_scope_functions/)
+- [Introducing Y-Chat: A Kotlin Multiplatform Library for ChatGPT and Open AI APIs](https://www.reddit.com/r/Kotlin/comments/12hk5qk/introducing_ychat_a_kotlin_multiplatform_library/)
+- [I made a logging library that uses context receivers, what do you think?](https://www.reddit.com/r/Kotlin/comments/12hdrht/i_made_a_logging_library_that_uses_context/)
+- [Need help grouping annotated classes in Android Kotlin project](https://www.reddit.com/r/Kotlin/comments/12h6zh8/need_help_grouping_annotated_classes_in_android/)
 - [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/Kotlin/comments/12gtrf3/github_kryptokronakryptokronakotlinsdk/)
 - [Call suspend function from regular function that&#39;s called from suspend function](https://www.reddit.com/r/Kotlin/comments/12go1k8/call_suspend_function_from_regular_function_thats/)
 - [Help displaying business phone number on maps for an app](https://www.reddit.com/r/Kotlin/comments/12g0egv/help_displaying_business_phone_number_on_maps_for/)
 - [Quillpad - notes, lists &amp; reminders - 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/12flxfy/quillpad_notes_lists_reminders_100_kotlin/)
 - [How to know what exception can function throw](https://www.reddit.com/r/Kotlin/comments/12fgwda/how_to_know_what_exception_can_function_throw/)
-- [Parameter order of CompletableFuture methods 😥](https://www.reddit.com/r/Kotlin/comments/12etyt3/parameter_order_of_completablefuture_methods/)
-- [How to add &quot;maintainer only&quot; functionality to custom DSL](https://www.reddit.com/r/Kotlin/comments/12entxm/how_to_add_maintainer_only_functionality_to/)
-- [Popups and Modals with Doodle](https://www.reddit.com/r/Kotlin/comments/12elr4c/popups_and_modals_with_doodle/)
-- [Introducing jOOQ with Lukas Eder](https://www.reddit.com/r/Kotlin/comments/12ehd76/introducing_jooq_with_lukas_eder/)
-- [KStateMachine now has Multiplatform support, iOS artefact is already available](https://www.reddit.com/r/Kotlin/comments/12e8kma/kstatemachine_now_has_multiplatform_support_ios/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
