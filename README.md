@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the equivalent of Java&#39;s MyClass::new?](https://www.reddit.com/r/Kotlin/comments/12i4ehz/what_is_the_equivalent_of_javas_myclassnew/)
+- [What&#39;s new in multiplatform Jetpack libraries](https://www.reddit.com/r/Kotlin/comments/12isf00/whats_new_in_multiplatform_jetpack_libraries/)
+- [I need help with parsing a nested array coming from api response](https://www.reddit.com/r/Kotlin/comments/12igxkr/i_need_help_with_parsing_a_nested_array_coming/)
+- [can a user upload text?](https://www.reddit.com/r/Kotlin/comments/12i9s8w/can_a_user_upload_text/)
+- [What are some good Kotlin libraries used for drawing/presenting images on a screen?](https://www.reddit.com/r/Kotlin/comments/12i6i0k/what_are_some_good_kotlin_libraries_used_for/)
 - [Kotlin Scope Functions](https://www.reddit.com/r/Kotlin/comments/12hng60/kotlin_scope_functions/)
 - [Introducing Y-Chat: A Kotlin Multiplatform Library for ChatGPT and Open AI APIs](https://www.reddit.com/r/Kotlin/comments/12hk5qk/introducing_ychat_a_kotlin_multiplatform_library/)
 - [I made a logging library that uses context receivers, what do you think?](https://www.reddit.com/r/Kotlin/comments/12hdrht/i_made_a_logging_library_that_uses_context/)
 - [Need help grouping annotated classes in Android Kotlin project](https://www.reddit.com/r/Kotlin/comments/12h6zh8/need_help_grouping_annotated_classes_in_android/)
 - [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/Kotlin/comments/12gtrf3/github_kryptokronakryptokronakotlinsdk/)
 - [Call suspend function from regular function that&#39;s called from suspend function](https://www.reddit.com/r/Kotlin/comments/12go1k8/call_suspend_function_from_regular_function_thats/)
-- [Help displaying business phone number on maps for an app](https://www.reddit.com/r/Kotlin/comments/12g0egv/help_displaying_business_phone_number_on_maps_for/)
-- [Quillpad - notes, lists &amp; reminders - 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/12flxfy/quillpad_notes_lists_reminders_100_kotlin/)
-- [How to know what exception can function throw](https://www.reddit.com/r/Kotlin/comments/12fgwda/how_to_know_what_exception_can_function_throw/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
