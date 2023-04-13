@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KotlinConf 2023 conferences starts tomorrow at 9:00AM &lpar;CEST&rpar;](https://www.reddit.com/r/Kotlin/comments/12jnyxv/kotlinconf_2023_conferences_starts_tomorrow_at/)
+- [As a react native android developer, I have no prior knowledge of kotlin and I am struggling to run a kotlin project that I have been assigned to. I would appreciate any assistance.](https://www.reddit.com/r/Kotlin/comments/12je9vo/as_a_react_native_android_developer_i_have_no/)
+- [What do you use for mutual exclusion?](https://www.reddit.com/r/Kotlin/comments/12je3wz/what_do_you_use_for_mutual_exclusion/)
+- [How are people&#39;s dev workflows?](https://www.reddit.com/r/Kotlin/comments/12jbxw2/how_are_peoples_dev_workflows/)
 - [What&#39;s new in multiplatform Jetpack libraries](https://www.reddit.com/r/Kotlin/comments/12isf00/whats_new_in_multiplatform_jetpack_libraries/)
 - [I need help with parsing a nested array coming from api response](https://www.reddit.com/r/Kotlin/comments/12igxkr/i_need_help_with_parsing_a_nested_array_coming/)
 - [can a user upload text?](https://www.reddit.com/r/Kotlin/comments/12i9s8w/can_a_user_upload_text/)
 - [What are some good Kotlin libraries used for drawing/presenting images on a screen?](https://www.reddit.com/r/Kotlin/comments/12i6i0k/what_are_some_good_kotlin_libraries_used_for/)
 - [Kotlin Scope Functions](https://www.reddit.com/r/Kotlin/comments/12hng60/kotlin_scope_functions/)
 - [Introducing Y-Chat: A Kotlin Multiplatform Library for ChatGPT and Open AI APIs](https://www.reddit.com/r/Kotlin/comments/12hk5qk/introducing_ychat_a_kotlin_multiplatform_library/)
-- [I made a logging library that uses context receivers, what do you think?](https://www.reddit.com/r/Kotlin/comments/12hdrht/i_made_a_logging_library_that_uses_context/)
-- [Need help grouping annotated classes in Android Kotlin project](https://www.reddit.com/r/Kotlin/comments/12h6zh8/need_help_grouping_annotated_classes_in_android/)
-- [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/Kotlin/comments/12gtrf3/github_kryptokronakryptokronakotlinsdk/)
-- [Call suspend function from regular function that&#39;s called from suspend function](https://www.reddit.com/r/Kotlin/comments/12go1k8/call_suspend_function_from_regular_function_thats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
