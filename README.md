@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can Someone help me run Discord Bot Form github based on kotlin ?](https://www.reddit.com/r/Kotlin/comments/12lf5uf/can_someone_help_me_run_discord_bot_form_github/)
+- [TLDW: Opinionated Wrap-up of KotlinConf 2023 Keynote](https://www.reddit.com/r/Kotlin/comments/12kxyzj/tldw_opinionated_wrapup_of_kotlinconf_2023_keynote/)
+- [GitHub - mjovanc/github-api: Kotlin API for GitHub](https://www.reddit.com/r/Kotlin/comments/12kulqa/github_mjovancgithubapi_kotlin_api_for_github/)
+- [Kotlin Polymorphic deserialization](https://www.reddit.com/r/Kotlin/comments/12kpzfk/kotlin_polymorphic_deserialization/)
+- [KotlinConf 2023: A Look at the Opening Keynote](https://www.reddit.com/r/Kotlin/comments/12kozn9/kotlinconf_2023_a_look_at_the_opening_keynote/)
+- [Chrome Extension in Kotlin](https://www.reddit.com/r/Kotlin/comments/12klzma/chrome_extension_in_kotlin/)
+- [Kotlin compiler plug-in development](https://www.reddit.com/r/Kotlin/comments/12kgl4e/kotlin_compiler_plugin_development/)
+- [JetBrains Compose is now Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/12kauzh/jetbrains_compose_is_now_compose_multiplatform/)
 - [KotlinConf 2023 conferences starts tomorrow at 9:00AM &lpar;CEST&rpar;](https://www.reddit.com/r/Kotlin/comments/12jnyxv/kotlinconf_2023_conferences_starts_tomorrow_at/)
 - [As a react native android developer, I have no prior knowledge of kotlin and I am struggling to run a kotlin project that I have been assigned to. I would appreciate any assistance.](https://www.reddit.com/r/Kotlin/comments/12je9vo/as_a_react_native_android_developer_i_have_no/)
-- [What do you use for mutual exclusion?](https://www.reddit.com/r/Kotlin/comments/12je3wz/what_do_you_use_for_mutual_exclusion/)
-- [How are people&#39;s dev workflows?](https://www.reddit.com/r/Kotlin/comments/12jbxw2/how_are_peoples_dev_workflows/)
-- [What&#39;s new in multiplatform Jetpack libraries](https://www.reddit.com/r/Kotlin/comments/12isf00/whats_new_in_multiplatform_jetpack_libraries/)
-- [I need help with parsing a nested array coming from api response](https://www.reddit.com/r/Kotlin/comments/12igxkr/i_need_help_with_parsing_a_nested_array_coming/)
-- [can a user upload text?](https://www.reddit.com/r/Kotlin/comments/12i9s8w/can_a_user_upload_text/)
-- [What are some good Kotlin libraries used for drawing/presenting images on a screen?](https://www.reddit.com/r/Kotlin/comments/12i6i0k/what_are_some_good_kotlin_libraries_used_for/)
-- [Kotlin Scope Functions](https://www.reddit.com/r/Kotlin/comments/12hng60/kotlin_scope_functions/)
-- [Introducing Y-Chat: A Kotlin Multiplatform Library for ChatGPT and Open AI APIs](https://www.reddit.com/r/Kotlin/comments/12hk5qk/introducing_ychat_a_kotlin_multiplatform_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
