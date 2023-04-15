@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can Someone help me run Discord Bot Form github based on kotlin ?](https://www.reddit.com/r/Kotlin/comments/12lf5uf/can_someone_help_me_run_discord_bot_form_github/)
-- [TLDW: Opinionated Wrap-up of KotlinConf 2023 Keynote](https://www.reddit.com/r/Kotlin/comments/12kxyzj/tldw_opinionated_wrapup_of_kotlinconf_2023_keynote/)
-- [GitHub - mjovanc/github-api: Kotlin API for GitHub](https://www.reddit.com/r/Kotlin/comments/12kulqa/github_mjovancgithubapi_kotlin_api_for_github/)
-- [Kotlin Polymorphic deserialization](https://www.reddit.com/r/Kotlin/comments/12kpzfk/kotlin_polymorphic_deserialization/)
-- [KotlinConf 2023: A Look at the Opening Keynote](https://www.reddit.com/r/Kotlin/comments/12kozn9/kotlinconf_2023_a_look_at_the_opening_keynote/)
-- [Chrome Extension in Kotlin](https://www.reddit.com/r/Kotlin/comments/12klzma/chrome_extension_in_kotlin/)
-- [Kotlin compiler plug-in development](https://www.reddit.com/r/Kotlin/comments/12kgl4e/kotlin_compiler_plugin_development/)
-- [JetBrains Compose is now Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/12kauzh/jetbrains_compose_is_now_compose_multiplatform/)
-- [KotlinConf 2023 conferences starts tomorrow at 9:00AM &lpar;CEST&rpar;](https://www.reddit.com/r/Kotlin/comments/12jnyxv/kotlinconf_2023_conferences_starts_tomorrow_at/)
-- [As a react native android developer, I have no prior knowledge of kotlin and I am struggling to run a kotlin project that I have been assigned to. I would appreciate any assistance.](https://www.reddit.com/r/Kotlin/comments/12je9vo/as_a_react_native_android_developer_i_have_no/)
+- [Compose Multiplatform for Kotlin Native?](https://www.reddit.com/r/Kotlin/comments/12mkfiv/compose_multiplatform_for_kotlin_native/)
+- [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/Kotlin/comments/12mj9a5/github_kryptokronakryptokronakotlinsdk/)
+- [The Kotlin mascot is back and its name is Kodee!](https://www.reddit.com/r/Kotlin/comments/12m69ly/the_kotlin_mascot_is_back_and_its_name_is_kodee/)
+- [To learn Kotlin, I made small utility app to scan open ports built with JavaFx/Kotlin.](https://www.reddit.com/r/Kotlin/comments/12m5a3k/to_learn_kotlin_i_made_small_utility_app_to_scan/)
+- [Kotlin DSL is Now the Default for New Gradle Builds](https://www.reddit.com/r/Kotlin/comments/12m03wi/kotlin_dsl_is_now_the_default_for_new_gradle/)
+- [jOOQ vs Exposed](https://www.reddit.com/r/Kotlin/comments/12lwbwd/jooq_vs_exposed/)
+- [DecimalFormat and NumberFormat libs for Kotlin Multiplatform ?](https://www.reddit.com/r/Kotlin/comments/12lvktq/decimalformat_and_numberformat_libs_for_kotlin/)
+- [Is your app ready to level up? This article explores how to blend cross-platform solutions with native apps for an unbeatable UX!](https://www.reddit.com/r/Kotlin/comments/12lpjft/is_your_app_ready_to_level_up_this_article/)
+- [Planning to start android dev. Should I learn kotlin or continue with java?](https://www.reddit.com/r/Kotlin/comments/12lo4qh/planning_to_start_android_dev_should_i_learn/)
+- [Google at KotlinConf ‘23](https://www.reddit.com/r/Kotlin/comments/12lo0xe/google_at_kotlinconf_23/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
