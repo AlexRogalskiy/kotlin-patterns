@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [On the Compose HTML rebranding &lpar;TL;DR - everything is fine!&rpar;](https://www.reddit.com/r/Kotlin/comments/12nar6u/on_the_compose_html_rebranding_tldr_everything_is/)
+- [Can a value class have a secondary constructor?](https://www.reddit.com/r/Kotlin/comments/12n93a2/can_a_value_class_have_a_secondary_constructor/)
+- [KotlinConf&#39;23 Keynote. Timestamps added. Find your favorite part. 👀](https://www.reddit.com/r/Kotlin/comments/12n3jc4/kotlinconf23_keynote_timestamps_added_find_your/)
+- [Why kotlinconf&#39;23 lives don&#39;t are record in official jet brains channel?](https://www.reddit.com/r/Kotlin/comments/12mmxmk/why_kotlinconf23_lives_dont_are_record_in/)
 - [Compose Multiplatform for Kotlin Native?](https://www.reddit.com/r/Kotlin/comments/12mkfiv/compose_multiplatform_for_kotlin_native/)
 - [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/Kotlin/comments/12mj9a5/github_kryptokronakryptokronakotlinsdk/)
 - [The Kotlin mascot is back and its name is Kodee!](https://www.reddit.com/r/Kotlin/comments/12m69ly/the_kotlin_mascot_is_back_and_its_name_is_kodee/)
 - [To learn Kotlin, I made small utility app to scan open ports built with JavaFx/Kotlin.](https://www.reddit.com/r/Kotlin/comments/12m5a3k/to_learn_kotlin_i_made_small_utility_app_to_scan/)
 - [Kotlin DSL is Now the Default for New Gradle Builds](https://www.reddit.com/r/Kotlin/comments/12m03wi/kotlin_dsl_is_now_the_default_for_new_gradle/)
 - [jOOQ vs Exposed](https://www.reddit.com/r/Kotlin/comments/12lwbwd/jooq_vs_exposed/)
-- [DecimalFormat and NumberFormat libs for Kotlin Multiplatform ?](https://www.reddit.com/r/Kotlin/comments/12lvktq/decimalformat_and_numberformat_libs_for_kotlin/)
-- [Is your app ready to level up? This article explores how to blend cross-platform solutions with native apps for an unbeatable UX!](https://www.reddit.com/r/Kotlin/comments/12lpjft/is_your_app_ready_to_level_up_this_article/)
-- [Planning to start android dev. Should I learn kotlin or continue with java?](https://www.reddit.com/r/Kotlin/comments/12lo4qh/planning_to_start_android_dev_should_i_learn/)
-- [Google at KotlinConf ‘23](https://www.reddit.com/r/Kotlin/comments/12lo0xe/google_at_kotlinconf_23/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
