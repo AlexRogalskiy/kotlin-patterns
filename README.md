@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why does this work with any MutableList type?](https://www.reddit.com/r/Kotlin/comments/12opi2e/why_does_this_work_with_any_mutablelist_type/)
+- [Inheritance vs copy&lpar;&rpar; vs duplicated code](https://www.reddit.com/r/Kotlin/comments/12ookhu/inheritance_vs_copy_vs_duplicated_code/)
+- [What are best options for navgation and state management for KMM + Cokmpose Multiplatform &lpar;iOS / Android&rpar;?](https://www.reddit.com/r/Kotlin/comments/12o5b6y/what_are_best_options_for_navgation_and_state/)
+- [Why Kotlin isn&#39;t becoming mainstream on server side](https://www.reddit.com/r/Kotlin/comments/12o03tu/why_kotlin_isnt_becoming_mainstream_on_server_side/)
 - [On the Compose HTML rebranding &lpar;TL;DR - everything is fine!&rpar;](https://www.reddit.com/r/Kotlin/comments/12nar6u/on_the_compose_html_rebranding_tldr_everything_is/)
 - [Can a value class have a secondary constructor?](https://www.reddit.com/r/Kotlin/comments/12n93a2/can_a_value_class_have_a_secondary_constructor/)
 - [KotlinConf&#39;23 Keynote. Timestamps added. Find your favorite part. 👀](https://www.reddit.com/r/Kotlin/comments/12n3jc4/kotlinconf23_keynote_timestamps_added_find_your/)
 - [Why kotlinconf&#39;23 lives don&#39;t are record in official jet brains channel?](https://www.reddit.com/r/Kotlin/comments/12mmxmk/why_kotlinconf23_lives_dont_are_record_in/)
 - [Compose Multiplatform for Kotlin Native?](https://www.reddit.com/r/Kotlin/comments/12mkfiv/compose_multiplatform_for_kotlin_native/)
 - [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/Kotlin/comments/12mj9a5/github_kryptokronakryptokronakotlinsdk/)
-- [The Kotlin mascot is back and its name is Kodee!](https://www.reddit.com/r/Kotlin/comments/12m69ly/the_kotlin_mascot_is_back_and_its_name_is_kodee/)
-- [To learn Kotlin, I made small utility app to scan open ports built with JavaFx/Kotlin.](https://www.reddit.com/r/Kotlin/comments/12m5a3k/to_learn_kotlin_i_made_small_utility_app_to_scan/)
-- [Kotlin DSL is Now the Default for New Gradle Builds](https://www.reddit.com/r/Kotlin/comments/12m03wi/kotlin_dsl_is_now_the_default_for_new_gradle/)
-- [jOOQ vs Exposed](https://www.reddit.com/r/Kotlin/comments/12lwbwd/jooq_vs_exposed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
