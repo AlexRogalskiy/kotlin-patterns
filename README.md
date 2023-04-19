@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [what is this feature?](https://www.reddit.com/r/Kotlin/comments/12r42a4/what_is_this_feature/)
+- [Google Cloud Function with Kotlin](https://www.reddit.com/r/Kotlin/comments/12qrqh8/google_cloud_function_with_kotlin/)
+- [Introducing Boost - a new open source desktop app for managing Spring Boot microservices](https://www.reddit.com/r/Kotlin/comments/12qjl94/introducing_boost_a_new_open_source_desktop_app/)
+- [Does any tooling exist for Java to add @NotNull to every parameter, return type, field, etc. by default?](https://www.reddit.com/r/Kotlin/comments/12qjh0d/does_any_tooling_exist_for_java_to_add_notnull_to/)
 - [The Kotlin repo visualized with Gource](https://www.reddit.com/r/Kotlin/comments/12q5xdd/the_kotlin_repo_visualized_with_gource/)
 - [No argument annotation in external dependency to be used with NoArg plugin](https://www.reddit.com/r/Kotlin/comments/12pyblh/no_argument_annotation_in_external_dependency_to/)
 - [BannerX: A Kotlin library which provides an intuitive way to display advertisements and slideshows.](https://www.reddit.com/r/Kotlin/comments/12pcxku/bannerx_a_kotlin_library_which_provides_an/)
 - [What&#39;s the state of server-side frameworks with Kotlin support today for small teams?](https://www.reddit.com/r/Kotlin/comments/12p9k89/whats_the_state_of_serverside_frameworks_with/)
 - [How do you define errors?](https://www.reddit.com/r/Kotlin/comments/12p4qe1/how_do_you_define_errors/)
 - [Kotlin multiplatform sample for Android and iOS](https://www.reddit.com/r/Kotlin/comments/12p2ct5/kotlin_multiplatform_sample_for_android_and_ios/)
-- [Why does this work with any MutableList type?](https://www.reddit.com/r/Kotlin/comments/12opi2e/why_does_this_work_with_any_mutablelist_type/)
-- [Inheritance vs copy&lpar;&rpar; vs duplicated code](https://www.reddit.com/r/Kotlin/comments/12ookhu/inheritance_vs_copy_vs_duplicated_code/)
-- [What are best options for navgation and state management for KMM + Cokmpose Multiplatform &lpar;iOS / Android&rpar;?](https://www.reddit.com/r/Kotlin/comments/12o5b6y/what_are_best_options_for_navgation_and_state/)
-- [Why Kotlin isn&#39;t becoming mainstream on server side](https://www.reddit.com/r/Kotlin/comments/12o03tu/why_kotlin_isnt_becoming_mainstream_on_server_side/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
