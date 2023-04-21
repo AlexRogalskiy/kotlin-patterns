@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Component reuse in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/12t8hpz/component_reuse_in_kotlin_multiplatform/)
+- [Should we rename our Spring Boot admin FOSS - Boost?](https://www.reddit.com/r/Kotlin/comments/12t4azf/should_we_rename_our_spring_boot_admin_foss_boost/)
+- [Ktor 2.3.0 Released](https://www.reddit.com/r/Kotlin/comments/12t17e5/ktor_230_released/)
+- [🚀 Ktor 2.3.0 has arrived!](https://www.reddit.com/r/Kotlin/comments/12t0n82/ktor_230_has_arrived/)
+- [Where can I find Kotlin conf videos?](https://www.reddit.com/r/Kotlin/comments/12ssf85/where_can_i_find_kotlin_conf_videos/)
 - [Kotlin Multiplatform User Survey: Q2 2023](https://www.reddit.com/r/Kotlin/comments/12s3k85/kotlin_multiplatform_user_survey_q2_2023/)
 - [Coroutines on the RaspberryPi &lpar;Pi4J-Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/12rtjju/coroutines_on_the_raspberrypi_pi4jkotlin/)
 - [what is this feature?](https://www.reddit.com/r/Kotlin/comments/12r42a4/what_is_this_feature/)
 - [Google Cloud Function with Kotlin](https://www.reddit.com/r/Kotlin/comments/12qrqh8/google_cloud_function_with_kotlin/)
 - [Introducing Boost - a new open source desktop app for managing Spring Boot microservices](https://www.reddit.com/r/Kotlin/comments/12qjl94/introducing_boost_a_new_open_source_desktop_app/)
-- [Does any tooling exist for Java to add @NotNull to every parameter, return type, field, etc. by default?](https://www.reddit.com/r/Kotlin/comments/12qjh0d/does_any_tooling_exist_for_java_to_add_notnull_to/)
-- [The Kotlin repo visualized with Gource](https://www.reddit.com/r/Kotlin/comments/12q5xdd/the_kotlin_repo_visualized_with_gource/)
-- [No argument annotation in external dependency to be used with NoArg plugin](https://www.reddit.com/r/Kotlin/comments/12pyblh/no_argument_annotation_in_external_dependency_to/)
-- [BannerX: A Kotlin library which provides an intuitive way to display advertisements and slideshows.](https://www.reddit.com/r/Kotlin/comments/12pcxku/bannerx_a_kotlin_library_which_provides_an/)
-- [What&#39;s the state of server-side frameworks with Kotlin support today for small teams?](https://www.reddit.com/r/Kotlin/comments/12p9k89/whats_the_state_of_serverside_frameworks_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
