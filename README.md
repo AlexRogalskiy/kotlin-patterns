@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java Virtual Threads – Easy introduction](https://www.reddit.com/r/Kotlin/comments/12u07w1/java_virtual_threads_easy_introduction/)
+- [jOOQ Transactions with Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/12ty87b/jooq_transactions_with_kotlin_context_receivers/)
+- [Java programmers after 1 day of Kotlindoctrination](https://www.reddit.com/r/Kotlin/comments/12tvw2o/java_programmers_after_1_day_of_kotlindoctrination/)
+- [A Pattern for composing Flow operations](https://www.reddit.com/r/Kotlin/comments/12tvl9p/a_pattern_for_composing_flow_operations/)
+- [What Roman Elizarov - creator of Coroutines - thinks about Virtual Threads](https://www.reddit.com/r/Kotlin/comments/12tuqk3/what_roman_elizarov_creator_of_coroutines_thinks/)
 - [Component reuse in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/12t8hpz/component_reuse_in_kotlin_multiplatform/)
 - [Should we rename our Spring Boot admin FOSS - Boost?](https://www.reddit.com/r/Kotlin/comments/12t4azf/should_we_rename_our_spring_boot_admin_foss_boost/)
 - [Ktor 2.3.0 Released](https://www.reddit.com/r/Kotlin/comments/12t17e5/ktor_230_released/)
 - [🚀 Ktor 2.3.0 has arrived!](https://www.reddit.com/r/Kotlin/comments/12t0n82/ktor_230_has_arrived/)
 - [Where can I find Kotlin conf videos?](https://www.reddit.com/r/Kotlin/comments/12ssf85/where_can_i_find_kotlin_conf_videos/)
-- [Kotlin Multiplatform User Survey: Q2 2023](https://www.reddit.com/r/Kotlin/comments/12s3k85/kotlin_multiplatform_user_survey_q2_2023/)
-- [Coroutines on the RaspberryPi &lpar;Pi4J-Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/12rtjju/coroutines_on_the_raspberrypi_pi4jkotlin/)
-- [what is this feature?](https://www.reddit.com/r/Kotlin/comments/12r42a4/what_is_this_feature/)
-- [Google Cloud Function with Kotlin](https://www.reddit.com/r/Kotlin/comments/12qrqh8/google_cloud_function_with_kotlin/)
-- [Introducing Boost - a new open source desktop app for managing Spring Boot microservices](https://www.reddit.com/r/Kotlin/comments/12qjl94/introducing_boost_a_new_open_source_desktop_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
