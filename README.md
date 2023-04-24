@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Dev here. What are some good, Kotlin only projects to improve my ability to write and understand the language?](https://www.reddit.com/r/Kotlin/comments/12wkfri/android_dev_here_what_are_some_good_kotlin_only/)
+- [Introducing gtk-kn: GTK for Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/12w5us1/introducing_gtkkn_gtk_for_kotlinnative/)
+- [How to fix a bug &quot;Unresolved reference: intent&quot; in Fragment](https://www.reddit.com/r/Kotlin/comments/12w0kfp/how_to_fix_a_bug_unresolved_reference_intent_in/)
 - [Kotlin Custom Scripting](https://www.reddit.com/r/Kotlin/comments/12vp7hj/kotlin_custom_scripting/)
 - [Mix kotlin native with jvm/android kotlin?](https://www.reddit.com/r/Kotlin/comments/12vmtfb/mix_kotlin_native_with_jvmandroid_kotlin/)
 - [kotlinconf23.videos.await&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/12vbkiq/kotlinconf23videosawait/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Gradle plugin for updating dependencies?](https://www.reddit.com/r/Kotlin/comments/12vaf76/gradle_plugin_for_updating_dependencies/)
 - [Java Virtual Threads – Easy introduction](https://www.reddit.com/r/Kotlin/comments/12u07w1/java_virtual_threads_easy_introduction/)
 - [jOOQ Transactions with Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/12ty87b/jooq_transactions_with_kotlin_context_receivers/)
-- [A Pattern for composing Flow operations](https://www.reddit.com/r/Kotlin/comments/12tvl9p/a_pattern_for_composing_flow_operations/)
-- [What Roman Elizarov - creator of Coroutines - thinks about Virtual Threads](https://www.reddit.com/r/Kotlin/comments/12tuqk3/what_roman_elizarov_creator_of_coroutines_thinks/)
-- [Component reuse in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/12t8hpz/component_reuse_in_kotlin_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
