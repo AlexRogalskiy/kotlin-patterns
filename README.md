@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why do I get these weird numbers in the list?](https://www.reddit.com/r/Kotlin/comments/12xz0be/why_do_i_get_these_weird_numbers_in_the_list/)
+- [How to retrieve default values of class fields? #kotlinxserialization](https://www.reddit.com/r/Kotlin/comments/12xyc71/how_to_retrieve_default_values_of_class_fields/)
+- [Help regarding LWJGL and Kotlin](https://www.reddit.com/r/Kotlin/comments/12xm5cy/help_regarding_lwjgl_and_kotlin/)
+- [Kweb 1.4.0 released: Create beautiful and functional website with a unified Kotlin codebase](https://www.reddit.com/r/Kotlin/comments/12xixt1/kweb_140_released_create_beautiful_and_functional/)
+- [Kotlin Compiler &lpar;K2&rpar; Plugin API and examples](https://www.reddit.com/r/Kotlin/comments/12xgdqb/kotlin_compiler_k2_plugin_api_and_examples/)
+- [Help building fat jar of ktor server](https://www.reddit.com/r/Kotlin/comments/12xbat2/help_building_fat_jar_of_ktor_server/)
 - [Android Dev here. What are some good, Kotlin only projects to improve my ability to write and understand the language?](https://www.reddit.com/r/Kotlin/comments/12wkfri/android_dev_here_what_are_some_good_kotlin_only/)
 - [Introducing gtk-kn: GTK for Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/12w5us1/introducing_gtkkn_gtk_for_kotlinnative/)
 - [How to fix a bug &quot;Unresolved reference: intent&quot; in Fragment](https://www.reddit.com/r/Kotlin/comments/12w0kfp/how_to_fix_a_bug_unresolved_reference_intent_in/)
 - [Kotlin Custom Scripting](https://www.reddit.com/r/Kotlin/comments/12vp7hj/kotlin_custom_scripting/)
-- [Mix kotlin native with jvm/android kotlin?](https://www.reddit.com/r/Kotlin/comments/12vmtfb/mix_kotlin_native_with_jvmandroid_kotlin/)
-- [kotlinconf23.videos.await&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/12vbkiq/kotlinconf23videosawait/)
-- [Dokker v0.0.1](https://www.reddit.com/r/Kotlin/comments/12vb3zq/dokker_v001/)
-- [Gradle plugin for updating dependencies?](https://www.reddit.com/r/Kotlin/comments/12vaf76/gradle_plugin_for_updating_dependencies/)
-- [Java Virtual Threads – Easy introduction](https://www.reddit.com/r/Kotlin/comments/12u07w1/java_virtual_threads_easy_introduction/)
-- [jOOQ Transactions with Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/12ty87b/jooq_transactions_with_kotlin_context_receivers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
