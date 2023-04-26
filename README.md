@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does creating Minecraft plugins prepare you for a job in any way?](https://www.reddit.com/r/Kotlin/comments/12z2fh4/does_creating_minecraft_plugins_prepare_you_for_a/)
+- [What are good examples of well written code in Kotlin &lpar;e.g HTTP4K&rpar;](https://www.reddit.com/r/Kotlin/comments/12z0myl/what_are_good_examples_of_well_written_code_in/)
+- [KotlinConf 2023: A Retrospective](https://www.reddit.com/r/Kotlin/comments/12yy3l9/kotlinconf_2023_a_retrospective/)
+- [In case you forget how good you&#39;ve got it](https://www.reddit.com/r/Kotlin/comments/12ywi2n/in_case_you_forget_how_good_youve_got_it/)
+- [Place api key is not working, i don&#39;t have billing account but i haven&#39;t made this app for any commercial purpose. I generated Api key, it&#39;s gonna work fine but when I type something to search some location it&#39;s not gonna load and simply come back to main activity. Is there any way to do this?](https://www.reddit.com/r/Kotlin/comments/12ys5j5/place_api_key_is_not_working_i_dont_have_billing/)
+- [Boost for Spring 0.5.0 released: FOSS desktop app for managing Spring Boot applications](https://www.reddit.com/r/Kotlin/comments/12yiywz/boost_for_spring_050_released_foss_desktop_app/)
+- [Ktor server with background job](https://www.reddit.com/r/Kotlin/comments/12ye5wm/ktor_server_with_background_job/)
 - [Why do I get these weird numbers in the list?](https://www.reddit.com/r/Kotlin/comments/12xz0be/why_do_i_get_these_weird_numbers_in_the_list/)
 - [How to retrieve default values of class fields? #kotlinxserialization](https://www.reddit.com/r/Kotlin/comments/12xyc71/how_to_retrieve_default_values_of_class_fields/)
 - [Help regarding LWJGL and Kotlin](https://www.reddit.com/r/Kotlin/comments/12xm5cy/help_regarding_lwjgl_and_kotlin/)
-- [Kweb 1.4.0 released: Create beautiful and functional website with a unified Kotlin codebase](https://www.reddit.com/r/Kotlin/comments/12xixt1/kweb_140_released_create_beautiful_and_functional/)
-- [Kotlin Compiler &lpar;K2&rpar; Plugin API and examples](https://www.reddit.com/r/Kotlin/comments/12xgdqb/kotlin_compiler_k2_plugin_api_and_examples/)
-- [Help building fat jar of ktor server](https://www.reddit.com/r/Kotlin/comments/12xbat2/help_building_fat_jar_of_ktor_server/)
-- [Android Dev here. What are some good, Kotlin only projects to improve my ability to write and understand the language?](https://www.reddit.com/r/Kotlin/comments/12wkfri/android_dev_here_what_are_some_good_kotlin_only/)
-- [Introducing gtk-kn: GTK for Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/12w5us1/introducing_gtkkn_gtk_for_kotlinnative/)
-- [How to fix a bug &quot;Unresolved reference: intent&quot; in Fragment](https://www.reddit.com/r/Kotlin/comments/12w0kfp/how_to_fix_a_bug_unresolved_reference_intent_in/)
-- [Kotlin Custom Scripting](https://www.reddit.com/r/Kotlin/comments/12vp7hj/kotlin_custom_scripting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
