@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gradle Dependency locking vs Version catalog](https://www.reddit.com/r/Kotlin/comments/12zrc7y/gradle_dependency_locking_vs_version_catalog/)
+- [Is it a good idea for a full stack team with Java experience &lpar;Spring boot&rpar; to switch to kotlin?](https://www.reddit.com/r/Kotlin/comments/12zgrow/is_it_a_good_idea_for_a_full_stack_team_with_java/)
+- [How We Accidentally DoS-ed Ourselves with Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/12zgpx4/how_we_accidentally_dosed_ourselves_with_kotlin/)
+- [Kotlin Keywords](https://www.reddit.com/r/Kotlin/comments/12zdl6j/kotlin_keywords/)
+- [How fix this problem kotlin.UninitializedPropertyAccessException: lateinit property binding has not been initialized ?](https://www.reddit.com/r/Kotlin/comments/12zahyl/how_fix_this_problem/)
 - [Does creating Minecraft plugins prepare you for a job in any way?](https://www.reddit.com/r/Kotlin/comments/12z2fh4/does_creating_minecraft_plugins_prepare_you_for_a/)
 - [What are good examples of well written code in Kotlin &lpar;e.g HTTP4K&rpar;](https://www.reddit.com/r/Kotlin/comments/12z0myl/what_are_good_examples_of_well_written_code_in/)
 - [KotlinConf 2023: A Retrospective](https://www.reddit.com/r/Kotlin/comments/12yy3l9/kotlinconf_2023_a_retrospective/)
 - [In case you forget how good you&#39;ve got it](https://www.reddit.com/r/Kotlin/comments/12ywi2n/in_case_you_forget_how_good_youve_got_it/)
-- [Place api key is not working, i don&#39;t have billing account but i haven&#39;t made this app for any commercial purpose. I generated Api key, it&#39;s gonna work fine but when I type something to search some location it&#39;s not gonna load and simply come back to main activity. Is there any way to do this?](https://www.reddit.com/r/Kotlin/comments/12ys5j5/place_api_key_is_not_working_i_dont_have_billing/)
 - [Boost for Spring 0.5.0 released: FOSS desktop app for managing Spring Boot applications](https://www.reddit.com/r/Kotlin/comments/12yiywz/boost_for_spring_050_released_foss_desktop_app/)
-- [Ktor server with background job](https://www.reddit.com/r/Kotlin/comments/12ye5wm/ktor_server_with_background_job/)
-- [Why do I get these weird numbers in the list?](https://www.reddit.com/r/Kotlin/comments/12xz0be/why_do_i_get_these_weird_numbers_in_the_list/)
-- [How to retrieve default values of class fields? #kotlinxserialization](https://www.reddit.com/r/Kotlin/comments/12xyc71/how_to_retrieve_default_values_of_class_fields/)
-- [Help regarding LWJGL and Kotlin](https://www.reddit.com/r/Kotlin/comments/12xm5cy/help_regarding_lwjgl_and_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
