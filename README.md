@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Kotlin Mascot Returns – Say Hello to Kodee!](https://www.reddit.com/r/Kotlin/comments/131cwyf/the_kotlin_mascot_returns_say_hello_to_kodee/)
+- [Kotlin algo-trading](https://www.reddit.com/r/Kotlin/comments/130xtao/kotlin_algotrading/)
+- [resources for beginners?](https://www.reddit.com/r/Kotlin/comments/130sdy6/resources_for_beginners/)
+- [Is there a better way to build a list stopping at a null](https://www.reddit.com/r/Kotlin/comments/130jnii/is_there_a_better_way_to_build_a_list_stopping_at/)
 - [Gradle Dependency locking vs Version catalog](https://www.reddit.com/r/Kotlin/comments/12zrc7y/gradle_dependency_locking_vs_version_catalog/)
 - [Is it a good idea for a full stack team with Java experience &lpar;Spring boot&rpar; to switch to kotlin?](https://www.reddit.com/r/Kotlin/comments/12zgrow/is_it_a_good_idea_for_a_full_stack_team_with_java/)
 - [How We Accidentally DoS-ed Ourselves with Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/12zgpx4/how_we_accidentally_dosed_ourselves_with_kotlin/)
 - [Kotlin Keywords](https://www.reddit.com/r/Kotlin/comments/12zdl6j/kotlin_keywords/)
 - [How fix this problem kotlin.UninitializedPropertyAccessException: lateinit property binding has not been initialized ?](https://www.reddit.com/r/Kotlin/comments/12zahyl/how_fix_this_problem/)
 - [Does creating Minecraft plugins prepare you for a job in any way?](https://www.reddit.com/r/Kotlin/comments/12z2fh4/does_creating_minecraft_plugins_prepare_you_for_a/)
-- [What are good examples of well written code in Kotlin &lpar;e.g HTTP4K&rpar;](https://www.reddit.com/r/Kotlin/comments/12z0myl/what_are_good_examples_of_well_written_code_in/)
-- [KotlinConf 2023: A Retrospective](https://www.reddit.com/r/Kotlin/comments/12yy3l9/kotlinconf_2023_a_retrospective/)
-- [In case you forget how good you&#39;ve got it](https://www.reddit.com/r/Kotlin/comments/12ywi2n/in_case_you_forget_how_good_youve_got_it/)
-- [Boost for Spring 0.5.0 released: FOSS desktop app for managing Spring Boot applications](https://www.reddit.com/r/Kotlin/comments/12yiywz/boost_for_spring_050_released_foss_desktop_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
