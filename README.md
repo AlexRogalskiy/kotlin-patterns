@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktor project that uses GET request to send another GET request to KPI endpoint](https://www.reddit.com/r/Kotlin/comments/1333dan/ktor_project_that_uses_get_request_to_send/)
+- [Why is RecyclerView updated after place is removed Am I adding old entries?](https://www.reddit.com/r/Kotlin/comments/132tuzx/why_is_recyclerview_updated_after_place_is/)
+- [Read a File in a Kotlin/Multiplatform Test](https://www.reddit.com/r/Kotlin/comments/132svme/read_a_file_in_a_kotlinmultiplatform_test/)
+- [Marketability of Kotlin frameworks](https://www.reddit.com/r/Kotlin/comments/132rwxb/marketability_of_kotlin_frameworks/)
 - [KotlinConf&#39;23 videos](https://www.reddit.com/r/Kotlin/comments/132dq52/kotlinconf23_videos/)
 - [What is the antithesis of Kotlin?](https://www.reddit.com/r/Kotlin/comments/1326ctr/what_is_the_antithesis_of_kotlin/)
 - [Using Flyway for Database Setup](https://www.reddit.com/r/Kotlin/comments/131mmrq/using_flyway_for_database_setup/)
 - [Thing - A rule-based entity management library written in Kotlin](https://www.reddit.com/r/Kotlin/comments/131i3fq/thing_a_rulebased_entity_management_library/)
 - [The Kotlin Mascot Returns – Say Hello to Kodee!](https://www.reddit.com/r/Kotlin/comments/131cwyf/the_kotlin_mascot_returns_say_hello_to_kodee/)
 - [Kotlin algo-trading](https://www.reddit.com/r/Kotlin/comments/130xtao/kotlin_algotrading/)
-- [resources for beginners?](https://www.reddit.com/r/Kotlin/comments/130sdy6/resources_for_beginners/)
-- [Is there a better way to build a list stopping at a null](https://www.reddit.com/r/Kotlin/comments/130jnii/is_there_a_better_way_to_build_a_list_stopping_at/)
-- [Gradle Dependency locking vs Version catalog](https://www.reddit.com/r/Kotlin/comments/12zrc7y/gradle_dependency_locking_vs_version_catalog/)
-- [Is it a good idea for a full stack team with Java experience &lpar;Spring boot&rpar; to switch to kotlin?](https://www.reddit.com/r/Kotlin/comments/12zgrow/is_it_a_good_idea_for_a_full_stack_team_with_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
