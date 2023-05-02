@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [River-Kt: Extensions &amp; Enterprise Integrations for Kotlin flows](https://www.reddit.com/r/Kotlin/comments/134qfhp/riverkt_extensions_enterprise_integrations_for/)
+- [GitHub - cmdjulian/kirc: Sync / Coroutines / Reactive Container Registry Client written in Kotlin ready for GraalVM 🐋](https://www.reddit.com/r/Kotlin/comments/134ietx/github_cmdjuliankirc_sync_coroutines_reactive/)
 - [Create Unit Test with Kotest-boilerplate plugin in Intellij](https://www.reddit.com/r/Kotlin/comments/1347u1y/create_unit_test_with_kotestboilerplate_plugin_in/)
 - [Tmux, NeoVim, etc. to write pure Kotlin code?](https://www.reddit.com/r/Kotlin/comments/1341mer/tmux_neovim_etc_to_write_pure_kotlin_code/)
 - [Kotlin learning best resource](https://www.reddit.com/r/Kotlin/comments/133zd0z/kotlin_learning_best_resource/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [KOTLIN and MOCKK UUID test](https://www.reddit.com/r/Kotlin/comments/133u69c/kotlin_and_mockk_uuid_test/)
 - [KSerGen: generate immutable data class and serializers module](https://www.reddit.com/r/Kotlin/comments/133ob8t/ksergen_generate_immutable_data_class_and/)
 - [Any best resource to learn KMM?](https://www.reddit.com/r/Kotlin/comments/133idby/any_best_resource_to_learn_kmm/)
-- [Jake Wharton&#39;s lecture on KotlinConf disappeared. Do you have a link?](https://www.reddit.com/r/Kotlin/comments/133i8qg/jake_whartons_lecture_on_kotlinconf_disappeared/)
-- [Ktor project that uses GET request to send another GET request to KPI endpoint](https://www.reddit.com/r/Kotlin/comments/1333dan/ktor_project_that_uses_get_request_to_send/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
