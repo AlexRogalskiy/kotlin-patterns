@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why this function is not tail recursive?](https://www.reddit.com/r/Kotlin/comments/135xnf8/why_this_function_is_not_tail_recursive/)
+- [How to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/135vlvy/how_to_learn_kotlin/)
+- [Compose Rich Text Editor Library &lpar;Multiplatform!&rpar;](https://www.reddit.com/r/Kotlin/comments/135jrny/compose_rich_text_editor_library_multiplatform/)
+- [Kotlin/Native Bitmap Library](https://www.reddit.com/r/Kotlin/comments/1359606/kotlinnative_bitmap_library/)
 - [River-Kt: Extensions &amp; Enterprise Integrations for Kotlin flows](https://www.reddit.com/r/Kotlin/comments/134qfhp/riverkt_extensions_enterprise_integrations_for/)
 - [GitHub - cmdjulian/kirc: Sync / Coroutines / Reactive Container Registry Client written in Kotlin ready for GraalVM 🐋](https://www.reddit.com/r/Kotlin/comments/134ietx/github_cmdjuliankirc_sync_coroutines_reactive/)
 - [Create Unit Test with Kotest-boilerplate plugin in Intellij](https://www.reddit.com/r/Kotlin/comments/1347u1y/create_unit_test_with_kotestboilerplate_plugin_in/)
 - [Tmux, NeoVim, etc. to write pure Kotlin code?](https://www.reddit.com/r/Kotlin/comments/1341mer/tmux_neovim_etc_to_write_pure_kotlin_code/)
 - [Kotlin learning best resource](https://www.reddit.com/r/Kotlin/comments/133zd0z/kotlin_learning_best_resource/)
 - [The many MANY faces of a Kotlin for loop](https://www.reddit.com/r/Kotlin/comments/133xi9h/the_many_many_faces_of_a_kotlin_for_loop/)
-- [Announcing tray-gtk 0.1.0](https://www.reddit.com/r/Kotlin/comments/133xhgl/announcing_traygtk_010/)
-- [KOTLIN and MOCKK UUID test](https://www.reddit.com/r/Kotlin/comments/133u69c/kotlin_and_mockk_uuid_test/)
-- [KSerGen: generate immutable data class and serializers module](https://www.reddit.com/r/Kotlin/comments/133ob8t/ksergen_generate_immutable_data_class_and/)
-- [Any best resource to learn KMM?](https://www.reddit.com/r/Kotlin/comments/133idby/any_best_resource_to_learn_kmm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
