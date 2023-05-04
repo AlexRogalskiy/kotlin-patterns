@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do graphics occupy the most part of Android development ?](https://www.reddit.com/r/Kotlin/comments/136xk01/do_graphics_occupy_the_most_part_of_android/)
+- [Study Partner / Buddy](https://www.reddit.com/r/Kotlin/comments/136um61/study_partner_buddy/)
+- [Kotlin Multiplatform Library.](https://www.reddit.com/r/Kotlin/comments/136rglf/kotlin_multiplatform_library/)
 - [Why this function is not tail recursive?](https://www.reddit.com/r/Kotlin/comments/135xnf8/why_this_function_is_not_tail_recursive/)
 - [How to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/135vlvy/how_to_learn_kotlin/)
 - [Compose Rich Text Editor Library &lpar;Multiplatform!&rpar;](https://www.reddit.com/r/Kotlin/comments/135jrny/compose_rich_text_editor_library_multiplatform/)
 - [Kotlin/Native Bitmap Library](https://www.reddit.com/r/Kotlin/comments/1359606/kotlinnative_bitmap_library/)
 - [River-Kt: Extensions &amp; Enterprise Integrations for Kotlin flows](https://www.reddit.com/r/Kotlin/comments/134qfhp/riverkt_extensions_enterprise_integrations_for/)
 - [GitHub - cmdjulian/kirc: Sync / Coroutines / Reactive Container Registry Client written in Kotlin ready for GraalVM 🐋](https://www.reddit.com/r/Kotlin/comments/134ietx/github_cmdjuliankirc_sync_coroutines_reactive/)
-- [Create Unit Test with Kotest-boilerplate plugin in Intellij](https://www.reddit.com/r/Kotlin/comments/1347u1y/create_unit_test_with_kotestboilerplate_plugin_in/)
 - [Tmux, NeoVim, etc. to write pure Kotlin code?](https://www.reddit.com/r/Kotlin/comments/1341mer/tmux_neovim_etc_to_write_pure_kotlin_code/)
-- [Kotlin learning best resource](https://www.reddit.com/r/Kotlin/comments/133zd0z/kotlin_learning_best_resource/)
-- [The many MANY faces of a Kotlin for loop](https://www.reddit.com/r/Kotlin/comments/133xi9h/the_many_many_faces_of_a_kotlin_for_loop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
