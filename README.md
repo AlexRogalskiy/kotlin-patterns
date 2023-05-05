@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help using compiled Kotlin in Electron app](https://www.reddit.com/r/Kotlin/comments/1384kyk/help_using_compiled_kotlin_in_electron_app/)
+- [ALL KotlinConf&#39;23 Recordings are PUBLISHED!](https://www.reddit.com/r/Kotlin/comments/137wun4/all_kotlinconf23_recordings_are_published/)
+- [How To Solve #LeetCode Problem &quot;Add Digit&quot; | Kotlin Solution](https://www.reddit.com/r/Kotlin/comments/137w4hu/how_to_solve_leetcode_problem_add_digit_kotlin/)
+- [KotlinConf 2023: Watch the Recordings](https://www.reddit.com/r/Kotlin/comments/137tat5/kotlinconf_2023_watch_the_recordings/)
+- [NoArg class with default value properties](https://www.reddit.com/r/Kotlin/comments/137h6j6/noarg_class_with_default_value_properties/)
+- [Elasticmagic &lpar;Elasticsearch client&rpar; for Kotlin 0.0.20](https://www.reddit.com/r/Kotlin/comments/137g7hw/elasticmagic_elasticsearch_client_for_kotlin_0020/)
+- [[HELP] Continous reading from console while program is running](https://www.reddit.com/r/Kotlin/comments/137g0dt/help_continous_reading_from_console_while_program/)
+- [Video: Intro to Collection Builders, plus Immutable Collections](https://www.reddit.com/r/Kotlin/comments/137ajhl/video_intro_to_collection_builders_plus_immutable/)
 - [Do graphics occupy the most part of Android development ?](https://www.reddit.com/r/Kotlin/comments/136xk01/do_graphics_occupy_the_most_part_of_android/)
 - [Study Partner / Buddy](https://www.reddit.com/r/Kotlin/comments/136um61/study_partner_buddy/)
-- [Kotlin Multiplatform Library.](https://www.reddit.com/r/Kotlin/comments/136rglf/kotlin_multiplatform_library/)
-- [Why this function is not tail recursive?](https://www.reddit.com/r/Kotlin/comments/135xnf8/why_this_function_is_not_tail_recursive/)
-- [How to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/135vlvy/how_to_learn_kotlin/)
-- [Compose Rich Text Editor Library &lpar;Multiplatform!&rpar;](https://www.reddit.com/r/Kotlin/comments/135jrny/compose_rich_text_editor_library_multiplatform/)
-- [Kotlin/Native Bitmap Library](https://www.reddit.com/r/Kotlin/comments/1359606/kotlinnative_bitmap_library/)
-- [River-Kt: Extensions &amp; Enterprise Integrations for Kotlin flows](https://www.reddit.com/r/Kotlin/comments/134qfhp/riverkt_extensions_enterprise_integrations_for/)
-- [GitHub - cmdjulian/kirc: Sync / Coroutines / Reactive Container Registry Client written in Kotlin ready for GraalVM 🐋](https://www.reddit.com/r/Kotlin/comments/134ietx/github_cmdjuliankirc_sync_coroutines_reactive/)
-- [Tmux, NeoVim, etc. to write pure Kotlin code?](https://www.reddit.com/r/Kotlin/comments/1341mer/tmux_neovim_etc_to_write_pure_kotlin_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
