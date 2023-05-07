@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This functionality of #kotlin is great and fun. #programming #list #map #hashmap #interestingfacts](https://www.reddit.com/r/Kotlin/comments/13a0006/this_functionality_of_kotlin_is_great_and_fun/)
+- [How to throw an Exception of a dynamic type](https://www.reddit.com/r/Kotlin/comments/139ylyb/how_to_throw_an_exception_of_a_dynamic_type/)
+- [Native iOS Navigation and Alerts from Compose](https://www.reddit.com/r/Kotlin/comments/139yl7p/native_ios_navigation_and_alerts_from_compose/)
+- [What are some good learning website that could also be used to build CV?](https://www.reddit.com/r/Kotlin/comments/1399ui4/what_are_some_good_learning_website_that_could/)
 - [Incremental end-to-end testing with Kotlin Notebooks](https://www.reddit.com/r/Kotlin/comments/138vxws/incremental_endtoend_testing_with_kotlin_notebooks/)
 - [kotlinx.coroutines 1.7.0 released](https://www.reddit.com/r/Kotlin/comments/138t86m/kotlinxcoroutines_170_released/)
 - [Configuring Kotlin Applications and Builds](https://www.reddit.com/r/Kotlin/comments/138noen/configuring_kotlin_applications_and_builds/)
 - [Looking for a coroutine-based message broker implementation for inter-app communication.](https://www.reddit.com/r/Kotlin/comments/138lkky/looking_for_a_coroutinebased_message_broker/)
 - [Help using compiled Kotlin in Electron app](https://www.reddit.com/r/Kotlin/comments/1384kyk/help_using_compiled_kotlin_in_electron_app/)
 - [ALL KotlinConf&#39;23 Recordings are PUBLISHED!](https://www.reddit.com/r/Kotlin/comments/137wun4/all_kotlinconf23_recordings_are_published/)
-- [How To Solve #LeetCode Problem &quot;Add Digit&quot; | Kotlin Solution](https://www.reddit.com/r/Kotlin/comments/137w4hu/how_to_solve_leetcode_problem_add_digit_kotlin/)
-- [KotlinConf 2023: Watch the Recordings](https://www.reddit.com/r/Kotlin/comments/137tat5/kotlinconf_2023_watch_the_recordings/)
-- [NoArg class with default value properties](https://www.reddit.com/r/Kotlin/comments/137h6j6/noarg_class_with_default_value_properties/)
-- [Elasticmagic &lpar;Elasticsearch client&rpar; for Kotlin 0.0.20](https://www.reddit.com/r/Kotlin/comments/137g7hw/elasticmagic_elasticsearch_client_for_kotlin_0020/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
