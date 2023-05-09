@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [List Index](https://www.reddit.com/r/Kotlin/comments/13c59tq/list_index/)
+- [Get funding for your Kotlin project! Apply for a grant from the Kotlin Foundation.](https://www.reddit.com/r/Kotlin/comments/13bpms0/get_funding_for_your_kotlin_project_apply_for_a/)
+- [Synchronized method – Boy Friend Threads &amp; Girl Friend Object](https://www.reddit.com/r/Kotlin/comments/13bmozi/synchronized_method_boy_friend_threads_girl/)
+- [Building a Full Stack Web Application with Kotlin and React - Part 1/2](https://www.reddit.com/r/Kotlin/comments/13bhfct/building_a_full_stack_web_application_with_kotlin/)
+- [SqlDelight in KMP](https://www.reddit.com/r/Kotlin/comments/13bf25j/sqldelight_in_kmp/)
 - [Best practices for project layout/architecture pattern?](https://www.reddit.com/r/Kotlin/comments/13b8ekb/best_practices_for_project_layoutarchitecture/)
 - [Android Studio - Am I going about creating a library module the wrong way? &lpar;See image captions&rpar;](https://www.reddit.com/r/Kotlin/comments/13b5j5n/android_studio_am_i_going_about_creating_a/)
 - [Help needed with using kapt](https://www.reddit.com/r/Kotlin/comments/13al6qg/help_needed_with_using_kapt/)
 - [Help needed](https://www.reddit.com/r/Kotlin/comments/13ai8o9/help_needed/)
 - [This functionality of #kotlin is great and fun. #programming #list #map #hashmap #interestingfacts](https://www.reddit.com/r/Kotlin/comments/13a0006/this_functionality_of_kotlin_is_great_and_fun/)
-- [How to throw an Exception of a dynamic type](https://www.reddit.com/r/Kotlin/comments/139ylyb/how_to_throw_an_exception_of_a_dynamic_type/)
-- [Native iOS Navigation and Alerts from Compose](https://www.reddit.com/r/Kotlin/comments/139yl7p/native_ios_navigation_and_alerts_from_compose/)
-- [What are some good learning website that could also be used to build CV?](https://www.reddit.com/r/Kotlin/comments/1399ui4/what_are_some_good_learning_website_that_could/)
-- [Incremental end-to-end testing with Kotlin Notebooks](https://www.reddit.com/r/Kotlin/comments/138vxws/incremental_endtoend_testing_with_kotlin_notebooks/)
-- [kotlinx.coroutines 1.7.0 released](https://www.reddit.com/r/Kotlin/comments/138t86m/kotlinxcoroutines_170_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
