@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Slack](https://www.reddit.com/r/Kotlin/comments/13d1cxe/kotlin_slack/)
+- [Reintroducing Ostara: FOSS admin app for Spring Boot](https://www.reddit.com/r/Kotlin/comments/13cor5e/reintroducing_ostara_foss_admin_app_for_spring/)
+- [Sc_100Plus_Kotlin](https://www.reddit.com/r/Kotlin/comments/13ckqc9/sc_100plus_kotlin/)
+- [what would be equivalent of Kotlin sealed class, data class in C++](https://www.reddit.com/r/Kotlin/comments/13cg8q0/what_would_be_equivalent_of_kotlin_sealed_class/)
 - [List Index](https://www.reddit.com/r/Kotlin/comments/13c59tq/list_index/)
 - [Get funding for your Kotlin project! Apply for a grant from the Kotlin Foundation.](https://www.reddit.com/r/Kotlin/comments/13bpms0/get_funding_for_your_kotlin_project_apply_for_a/)
 - [Synchronized method – Boy Friend Threads &amp; Girl Friend Object](https://www.reddit.com/r/Kotlin/comments/13bmozi/synchronized_method_boy_friend_threads_girl/)
 - [Building a Full Stack Web Application with Kotlin and React - Part 1/2](https://www.reddit.com/r/Kotlin/comments/13bhfct/building_a_full_stack_web_application_with_kotlin/)
 - [SqlDelight in KMP](https://www.reddit.com/r/Kotlin/comments/13bf25j/sqldelight_in_kmp/)
 - [Best practices for project layout/architecture pattern?](https://www.reddit.com/r/Kotlin/comments/13b8ekb/best_practices_for_project_layoutarchitecture/)
-- [Android Studio - Am I going about creating a library module the wrong way? &lpar;See image captions&rpar;](https://www.reddit.com/r/Kotlin/comments/13b5j5n/android_studio_am_i_going_about_creating_a/)
-- [Help needed with using kapt](https://www.reddit.com/r/Kotlin/comments/13al6qg/help_needed_with_using_kapt/)
-- [Help needed](https://www.reddit.com/r/Kotlin/comments/13ai8o9/help_needed/)
-- [This functionality of #kotlin is great and fun. #programming #list #map #hashmap #interestingfacts](https://www.reddit.com/r/Kotlin/comments/13a0006/this_functionality_of_kotlin_is_great_and_fun/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
