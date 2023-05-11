@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Difficulty w/ advanceUntilIdle&lpar;&rpar; in Test](https://www.reddit.com/r/Kotlin/comments/13e118e/difficulty_w_advanceuntilidle_in_test/)
+- [The Kotlin mascot returns – say hello to Kodee!](https://www.reddit.com/r/Kotlin/comments/13ducme/the_kotlin_mascot_returns_say_hello_to_kodee/)
+- [New samples and logo for gtk-kn project](https://www.reddit.com/r/Kotlin/comments/13dpv0f/new_samples_and_logo_for_gtkkn_project/)
 - [Kotlin Slack](https://www.reddit.com/r/Kotlin/comments/13d1cxe/kotlin_slack/)
 - [Reintroducing Ostara: FOSS admin app for Spring Boot](https://www.reddit.com/r/Kotlin/comments/13cor5e/reintroducing_ostara_foss_admin_app_for_spring/)
 - [Sc_100Plus_Kotlin](https://www.reddit.com/r/Kotlin/comments/13ckqc9/sc_100plus_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [List Index](https://www.reddit.com/r/Kotlin/comments/13c59tq/list_index/)
 - [Get funding for your Kotlin project! Apply for a grant from the Kotlin Foundation.](https://www.reddit.com/r/Kotlin/comments/13bpms0/get_funding_for_your_kotlin_project_apply_for_a/)
 - [Synchronized method – Boy Friend Threads &amp; Girl Friend Object](https://www.reddit.com/r/Kotlin/comments/13bmozi/synchronized_method_boy_friend_threads_girl/)
-- [Building a Full Stack Web Application with Kotlin and React - Part 1/2](https://www.reddit.com/r/Kotlin/comments/13bhfct/building_a_full_stack_web_application_with_kotlin/)
-- [SqlDelight in KMP](https://www.reddit.com/r/Kotlin/comments/13bf25j/sqldelight_in_kmp/)
-- [Best practices for project layout/architecture pattern?](https://www.reddit.com/r/Kotlin/comments/13b8ekb/best_practices_for_project_layoutarchitecture/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
