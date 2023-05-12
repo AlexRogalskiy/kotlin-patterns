@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ksoup - Kotlin Multiplatform HTML Parser ⚡](https://www.reddit.com/r/Kotlin/comments/13ekbk3/ksoup_kotlin_multiplatform_html_parser/)
 - [Difficulty w/ advanceUntilIdle&lpar;&rpar; in Test](https://www.reddit.com/r/Kotlin/comments/13e118e/difficulty_w_advanceuntilidle_in_test/)
 - [The Kotlin mascot returns – say hello to Kodee!](https://www.reddit.com/r/Kotlin/comments/13ducme/the_kotlin_mascot_returns_say_hello_to_kodee/)
 - [New samples and logo for gtk-kn project](https://www.reddit.com/r/Kotlin/comments/13dpv0f/new_samples_and_logo_for_gtkkn_project/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [what would be equivalent of Kotlin sealed class, data class in C++](https://www.reddit.com/r/Kotlin/comments/13cg8q0/what_would_be_equivalent_of_kotlin_sealed_class/)
 - [List Index](https://www.reddit.com/r/Kotlin/comments/13c59tq/list_index/)
 - [Get funding for your Kotlin project! Apply for a grant from the Kotlin Foundation.](https://www.reddit.com/r/Kotlin/comments/13bpms0/get_funding_for_your_kotlin_project_apply_for_a/)
-- [Synchronized method – Boy Friend Threads &amp; Girl Friend Object](https://www.reddit.com/r/Kotlin/comments/13bmozi/synchronized_method_boy_friend_threads_girl/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
