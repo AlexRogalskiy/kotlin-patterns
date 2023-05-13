@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there any website like codesandbox with a lot of Kotlin app?](https://www.reddit.com/r/Kotlin/comments/13g2176/is_there_any_website_like_codesandbox_with_a_lot/)
+- [Gradle Cheat Sheet for Android and KMP Projects](https://www.reddit.com/r/Kotlin/comments/13fvyza/gradle_cheat_sheet_for_android_and_kmp_projects/)
+- [Mobile multiplatform development at McDonald’s](https://www.reddit.com/r/Kotlin/comments/13fv731/mobile_multiplatform_development_at_mcdonalds/)
+- [The one where we find a bug storing Instants in PostgreSQL](https://www.reddit.com/r/Kotlin/comments/13fo8th/the_one_where_we_find_a_bug_storing_instants_in/)
+- [Join us for an interview about Dokka outputs and documentation](https://www.reddit.com/r/Kotlin/comments/13fnwts/join_us_for_an_interview_about_dokka_outputs_and/)
+- [Question: WasmGC and state shared with JS with Kotlin/wasm or Multiplatform?](https://www.reddit.com/r/Kotlin/comments/13fgal6/question_wasmgc_and_state_shared_with_js_with/)
 - [Ksoup - Kotlin Multiplatform HTML Parser ⚡](https://www.reddit.com/r/Kotlin/comments/13ekbk3/ksoup_kotlin_multiplatform_html_parser/)
 - [Difficulty w/ advanceUntilIdle&lpar;&rpar; in Test](https://www.reddit.com/r/Kotlin/comments/13e118e/difficulty_w_advanceuntilidle_in_test/)
 - [The Kotlin mascot returns – say hello to Kodee!](https://www.reddit.com/r/Kotlin/comments/13ducme/the_kotlin_mascot_returns_say_hello_to_kodee/)
 - [New samples and logo for gtk-kn project](https://www.reddit.com/r/Kotlin/comments/13dpv0f/new_samples_and_logo_for_gtkkn_project/)
-- [Kotlin Slack](https://www.reddit.com/r/Kotlin/comments/13d1cxe/kotlin_slack/)
-- [Reintroducing Ostara: FOSS admin app for Spring Boot](https://www.reddit.com/r/Kotlin/comments/13cor5e/reintroducing_ostara_foss_admin_app_for_spring/)
-- [Sc_100Plus_Kotlin](https://www.reddit.com/r/Kotlin/comments/13ckqc9/sc_100plus_kotlin/)
-- [what would be equivalent of Kotlin sealed class, data class in C++](https://www.reddit.com/r/Kotlin/comments/13cg8q0/what_would_be_equivalent_of_kotlin_sealed_class/)
-- [List Index](https://www.reddit.com/r/Kotlin/comments/13c59tq/list_index/)
-- [Get funding for your Kotlin project! Apply for a grant from the Kotlin Foundation.](https://www.reddit.com/r/Kotlin/comments/13bpms0/get_funding_for_your_kotlin_project_apply_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
