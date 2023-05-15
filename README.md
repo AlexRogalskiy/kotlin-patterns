@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to become good in Kotlin as a mobile developer](https://www.reddit.com/r/Kotlin/comments/13hl5tq/how_to_become_good_in_kotlin_as_a_mobile_developer/)
 - [Advantages for Kotlin over JavaScript for Android development?](https://www.reddit.com/r/Kotlin/comments/13gzcb7/advantages_for_kotlin_over_javascript_for_android/)
 - [Count Ways To Build Good Strings || #LeetCode Problem 2466 Explained](https://www.reddit.com/r/Kotlin/comments/13gtvyr/count_ways_to_build_good_strings_leetcode_problem/)
 - [Ktoml 0.5.0 released 🎉](https://www.reddit.com/r/Kotlin/comments/13gn6pp/ktoml_050_released/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Gradle Cheat Sheet for Android and KMP Projects](https://www.reddit.com/r/Kotlin/comments/13fvyza/gradle_cheat_sheet_for_android_and_kmp_projects/)
 - [Mobile multiplatform development at McDonald’s](https://www.reddit.com/r/Kotlin/comments/13fv731/mobile_multiplatform_development_at_mcdonalds/)
 - [The one where we find a bug storing Instants in PostgreSQL](https://www.reddit.com/r/Kotlin/comments/13fo8th/the_one_where_we_find_a_bug_storing_instants_in/)
-- [Join us for an interview about Dokka outputs and documentation](https://www.reddit.com/r/Kotlin/comments/13fnwts/join_us_for_an_interview_about_dokka_outputs_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
