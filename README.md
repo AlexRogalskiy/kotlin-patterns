@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Build Scalable Android Apps](https://www.reddit.com/r/Kotlin/comments/13ifpqc/how_to_build_scalable_android_apps/)
+- [Need help and guidance with higher order functions](https://www.reddit.com/r/Kotlin/comments/13iayye/need_help_and_guidance_with_higher_order_functions/)
+- [Achieving Controlled Parallelism In Chunked List](https://www.reddit.com/r/Kotlin/comments/13i4gli/achieving_controlled_parallelism_in_chunked_list/)
+- [Kotlin &amp; Exceptions](https://www.reddit.com/r/Kotlin/comments/13i331b/kotlin_exceptions/)
+- [KorGE 4.0 released &lpar;along kproject&rpar;! 🎊](https://www.reddit.com/r/Kotlin/comments/13i0sgn/korge_40_released_along_kproject/)
+- [Built an ambient TV experience with Kotlin and $10 hardware](https://www.reddit.com/r/Kotlin/comments/13i0brh/built_an_ambient_tv_experience_with_kotlin_and_10/)
+- [Supercharge your &lpar;k&rpar;script with Github copilot](https://www.reddit.com/r/Kotlin/comments/13hztaa/supercharge_your_kscript_with_github_copilot/)
 - [How to become good in Kotlin as a mobile developer](https://www.reddit.com/r/Kotlin/comments/13hl5tq/how_to_become_good_in_kotlin_as_a_mobile_developer/)
 - [Advantages for Kotlin over JavaScript for Android development?](https://www.reddit.com/r/Kotlin/comments/13gzcb7/advantages_for_kotlin_over_javascript_for_android/)
 - [Count Ways To Build Good Strings || #LeetCode Problem 2466 Explained](https://www.reddit.com/r/Kotlin/comments/13gtvyr/count_ways_to_build_good_strings_leetcode_problem/)
-- [Ktoml 0.5.0 released 🎉](https://www.reddit.com/r/Kotlin/comments/13gn6pp/ktoml_050_released/)
-- [Started to learn Kotlin. Question.](https://www.reddit.com/r/Kotlin/comments/13gbau0/started_to_learn_kotlin_question/)
-- [Google&#39;s Kotlin Style Guide vs Kotlin Official Code Style](https://www.reddit.com/r/Kotlin/comments/13g9s27/googles_kotlin_style_guide_vs_kotlin_official/)
-- [Is there any website like codesandbox with a lot of Kotlin app?](https://www.reddit.com/r/Kotlin/comments/13g2176/is_there_any_website_like_codesandbox_with_a_lot/)
-- [Gradle Cheat Sheet for Android and KMP Projects](https://www.reddit.com/r/Kotlin/comments/13fvyza/gradle_cheat_sheet_for_android_and_kmp_projects/)
-- [Mobile multiplatform development at McDonald’s](https://www.reddit.com/r/Kotlin/comments/13fv731/mobile_multiplatform_development_at_mcdonalds/)
-- [The one where we find a bug storing Instants in PostgreSQL](https://www.reddit.com/r/Kotlin/comments/13fo8th/the_one_where_we_find_a_bug_storing_instants_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
