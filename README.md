@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why null values are allowed in Kotlin variables when not specifying the data type?](https://www.reddit.com/r/Kotlin/comments/13jlggw/why_null_values_are_allowed_in_kotlin_variables/)
+- [Can we apply a filter in parallel to every element of a list in Kotlin?](https://www.reddit.com/r/Kotlin/comments/13j2je9/can_we_apply_a_filter_in_parallel_to_every/)
+- [Ktor KMM iOS framework size](https://www.reddit.com/r/Kotlin/comments/13iyrso/ktor_kmm_ios_framework_size/)
 - [How to Build Scalable Android Apps](https://www.reddit.com/r/Kotlin/comments/13ifpqc/how_to_build_scalable_android_apps/)
 - [Need help and guidance with higher order functions](https://www.reddit.com/r/Kotlin/comments/13iayye/need_help_and_guidance_with_higher_order_functions/)
 - [Achieving Controlled Parallelism In Chunked List](https://www.reddit.com/r/Kotlin/comments/13i4gli/achieving_controlled_parallelism_in_chunked_list/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [KorGE 4.0 released &lpar;along kproject&rpar;! 🎊](https://www.reddit.com/r/Kotlin/comments/13i0sgn/korge_40_released_along_kproject/)
 - [Built an ambient TV experience with Kotlin and $10 hardware](https://www.reddit.com/r/Kotlin/comments/13i0brh/built_an_ambient_tv_experience_with_kotlin_and_10/)
 - [Supercharge your &lpar;k&rpar;script with Github copilot](https://www.reddit.com/r/Kotlin/comments/13hztaa/supercharge_your_kscript_with_github_copilot/)
-- [How to become good in Kotlin as a mobile developer](https://www.reddit.com/r/Kotlin/comments/13hl5tq/how_to_become_good_in_kotlin_as_a_mobile_developer/)
-- [Advantages for Kotlin over JavaScript for Android development?](https://www.reddit.com/r/Kotlin/comments/13gzcb7/advantages_for_kotlin_over_javascript_for_android/)
-- [Count Ways To Build Good Strings || #LeetCode Problem 2466 Explained](https://www.reddit.com/r/Kotlin/comments/13gtvyr/count_ways_to_build_good_strings_leetcode_problem/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
