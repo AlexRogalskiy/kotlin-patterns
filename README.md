@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Impossible Algorithm: Computing income tax in constant time](https://www.reddit.com/r/Kotlin/comments/13kdizu/impossible_algorithm_computing_income_tax_in/)
+- [Kotlin VS Java – What&#39;s the Difference?](https://www.reddit.com/r/Kotlin/comments/13ka0s2/kotlin_vs_java_whats_the_difference/)
+- [What&#39;s next after Head First Kotlin?](https://www.reddit.com/r/Kotlin/comments/13jxf10/whats_next_after_head_first_kotlin/)
 - [Why null values are allowed in Kotlin variables when not specifying the data type?](https://www.reddit.com/r/Kotlin/comments/13jlggw/why_null_values_are_allowed_in_kotlin_variables/)
 - [Can we apply a filter in parallel to every element of a list in Kotlin?](https://www.reddit.com/r/Kotlin/comments/13j2je9/can_we_apply_a_filter_in_parallel_to_every/)
 - [Ktor KMM iOS framework size](https://www.reddit.com/r/Kotlin/comments/13iyrso/ktor_kmm_ios_framework_size/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Need help and guidance with higher order functions](https://www.reddit.com/r/Kotlin/comments/13iayye/need_help_and_guidance_with_higher_order_functions/)
 - [Achieving Controlled Parallelism In Chunked List](https://www.reddit.com/r/Kotlin/comments/13i4gli/achieving_controlled_parallelism_in_chunked_list/)
 - [Kotlin &amp; Exceptions](https://www.reddit.com/r/Kotlin/comments/13i331b/kotlin_exceptions/)
-- [KorGE 4.0 released &lpar;along kproject&rpar;! 🎊](https://www.reddit.com/r/Kotlin/comments/13i0sgn/korge_40_released_along_kproject/)
-- [Built an ambient TV experience with Kotlin and $10 hardware](https://www.reddit.com/r/Kotlin/comments/13i0brh/built_an_ambient_tv_experience_with_kotlin_and_10/)
-- [Supercharge your &lpar;k&rpar;script with Github copilot](https://www.reddit.com/r/Kotlin/comments/13hztaa/supercharge_your_kscript_with_github_copilot/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
