@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [my scrollview does not respond to 100 % on MotionEvent](https://www.reddit.com/r/Kotlin/comments/13lx2pn/my_scrollview_does_not_respond_to_100_on/)
+- [Defensive Coding for Safe Migrations](https://www.reddit.com/r/Kotlin/comments/13lwhos/defensive_coding_for_safe_migrations/)
+- [kotlin vs go whats the difference](https://www.reddit.com/r/Kotlin/comments/13lszt3/kotlin_vs_go_whats_the_difference/)
+- [kotlin multiply error?](https://www.reddit.com/r/Kotlin/comments/13lj8u6/kotlin_multiply_error/)
 - [Compose Multiplatform for iOS Is in Alpha](https://www.reddit.com/r/Kotlin/comments/13l6vuk/compose_multiplatform_for_ios_is_in_alpha/)
 - [Would Kotlin ever support fallthrough in when block someday?](https://www.reddit.com/r/Kotlin/comments/13kwxi0/would_kotlin_ever_support_fallthrough_in_when/)
 - [Impossible Algorithm: Computing income tax in constant time](https://www.reddit.com/r/Kotlin/comments/13kdizu/impossible_algorithm_computing_income_tax_in/)
 - [Kotlin VS Java – What&#39;s the Difference?](https://www.reddit.com/r/Kotlin/comments/13ka0s2/kotlin_vs_java_whats_the_difference/)
 - [What&#39;s next after Head First Kotlin?](https://www.reddit.com/r/Kotlin/comments/13jxf10/whats_next_after_head_first_kotlin/)
 - [Why null values are allowed in Kotlin variables when not specifying the data type?](https://www.reddit.com/r/Kotlin/comments/13jlggw/why_null_values_are_allowed_in_kotlin_variables/)
-- [Can we apply a filter in parallel to every element of a list in Kotlin?](https://www.reddit.com/r/Kotlin/comments/13j2je9/can_we_apply_a_filter_in_parallel_to_every/)
-- [Ktor KMM iOS framework size](https://www.reddit.com/r/Kotlin/comments/13iyrso/ktor_kmm_ios_framework_size/)
-- [How to Build Scalable Android Apps](https://www.reddit.com/r/Kotlin/comments/13ifpqc/how_to_build_scalable_android_apps/)
-- [Need help and guidance with higher order functions](https://www.reddit.com/r/Kotlin/comments/13iayye/need_help_and_guidance_with_higher_order_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
