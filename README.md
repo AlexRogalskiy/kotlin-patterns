@@ -272,7 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [my scrollview does not respond to 100 % on MotionEvent](https://www.reddit.com/r/Kotlin/comments/13lx2pn/my_scrollview_does_not_respond_to_100_on/)
+- [Trying to spin up a Ktor app using docker containers. I keep getting &quot;no main manifest attribute, in app.jar&quot;](https://www.reddit.com/r/Kotlin/comments/13mgjve/trying_to_spin_up_a_ktor_app_using_docker/)
 - [Defensive Coding for Safe Migrations](https://www.reddit.com/r/Kotlin/comments/13lwhos/defensive_coding_for_safe_migrations/)
 - [kotlin vs go whats the difference](https://www.reddit.com/r/Kotlin/comments/13lszt3/kotlin_vs_go_whats_the_difference/)
 - [kotlin multiply error?](https://www.reddit.com/r/Kotlin/comments/13lj8u6/kotlin_multiply_error/)
