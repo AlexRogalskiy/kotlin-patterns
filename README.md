@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Return a nested list of child table using Kotlin Exposed Dao](https://www.reddit.com/r/Kotlin/comments/13p2fki/return_a_nested_list_of_child_table_using_kotlin/)
+- [5 reasons why Kotlin is more productive than Java?](https://www.reddit.com/r/Kotlin/comments/13oxhn3/5_reasons_why_kotlin_is_more_productive_than_java/)
+- [Compose Rich Text Editor 0.2.0 released, with a lot of new features](https://www.reddit.com/r/Kotlin/comments/13ojjxo/compose_rich_text_editor_020_released_with_a_lot/)
 - [Replicating Jetbrains Exposed Star Wars Example in IntelliJ Scratch file](https://www.reddit.com/r/Kotlin/comments/13np5za/replicating_jetbrains_exposed_star_wars_example/)
 - [Kotlin and Android Development with Android Studio Flamingo](https://www.reddit.com/r/Kotlin/comments/13njqcs/kotlin_and_android_development_with_android/)
 - [Trying to spin up a Ktor app using docker containers. I keep getting &quot;no main manifest attribute, in app.jar&quot;](https://www.reddit.com/r/Kotlin/comments/13mgjve/trying_to_spin_up_a_ktor_app_using_docker/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [kotlin vs go whats the difference](https://www.reddit.com/r/Kotlin/comments/13lszt3/kotlin_vs_go_whats_the_difference/)
 - [kotlin multiply error?](https://www.reddit.com/r/Kotlin/comments/13lj8u6/kotlin_multiply_error/)
 - [Compose Multiplatform for iOS Is in Alpha](https://www.reddit.com/r/Kotlin/comments/13l6vuk/compose_multiplatform_for_ios_is_in_alpha/)
-- [Would Kotlin ever support fallthrough in when block someday?](https://www.reddit.com/r/Kotlin/comments/13kwxi0/would_kotlin_ever_support_fallthrough_in_when/)
-- [Impossible Algorithm: Computing income tax in constant time](https://www.reddit.com/r/Kotlin/comments/13kdizu/impossible_algorithm_computing_income_tax_in/)
-- [Kotlin VS Java – What&#39;s the Difference?](https://www.reddit.com/r/Kotlin/comments/13ka0s2/kotlin_vs_java_whats_the_difference/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
