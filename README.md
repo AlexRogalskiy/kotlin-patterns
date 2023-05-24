@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Job search: I used to rely on LinkedIn, but it&#39;s not as ... abundat... anymore. Are the more job search engines out there?](https://www.reddit.com/r/Kotlin/comments/13q7u31/job_search_i_used_to_rely_on_linkedin_but_its_not/)
+- [Built a multiplatform RSS app built using Kotlin and Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/13q7aaa/built_a_multiplatform_rss_app_built_using_kotlin/)
+- [http4k-connect 3.40.4.0 released with OpenAI API support](https://www.reddit.com/r/Kotlin/comments/13pxvxj/http4kconnect_34040_released_with_openai_api/)
+- [Kotlin Native vs Rust &lpar;performance&rpar;](https://www.reddit.com/r/Kotlin/comments/13pvi3k/kotlin_native_vs_rust_performance/)
+- [Just Released MLKit with Jetpack Compose! Seeking Feedback 🚀 💫](https://www.reddit.com/r/Kotlin/comments/13pqq0x/just_released_mlkit_with_jetpack_compose_seeking/)
+- [Ostara for Spring 0.9.0 released: FOSS admin app for Spring Boot applications](https://www.reddit.com/r/Kotlin/comments/13pnwdq/ostara_for_spring_090_released_foss_admin_app_for/)
+- [Kotlin Multiplatform in Intellij, &quot;hot reloading&quot;](https://www.reddit.com/r/Kotlin/comments/13pft7w/kotlin_multiplatform_in_intellij_hot_reloading/)
+- [Is this a good and common practice, to achieve similar outcome as Swift&#39;s &quot;guard let&quot; and avoid safe call operator?](https://www.reddit.com/r/Kotlin/comments/13pf3a0/is_this_a_good_and_common_practice_to_achieve/)
 - [Return a nested list of child table using Kotlin Exposed Dao](https://www.reddit.com/r/Kotlin/comments/13p2fki/return_a_nested_list_of_child_table_using_kotlin/)
 - [5 reasons why Kotlin is more productive than Java?](https://www.reddit.com/r/Kotlin/comments/13oxhn3/5_reasons_why_kotlin_is_more_productive_than_java/)
-- [Compose Rich Text Editor 0.2.0 released, with a lot of new features](https://www.reddit.com/r/Kotlin/comments/13ojjxo/compose_rich_text_editor_020_released_with_a_lot/)
-- [Replicating Jetbrains Exposed Star Wars Example in IntelliJ Scratch file](https://www.reddit.com/r/Kotlin/comments/13np5za/replicating_jetbrains_exposed_star_wars_example/)
-- [Kotlin and Android Development with Android Studio Flamingo](https://www.reddit.com/r/Kotlin/comments/13njqcs/kotlin_and_android_development_with_android/)
-- [Trying to spin up a Ktor app using docker containers. I keep getting &quot;no main manifest attribute, in app.jar&quot;](https://www.reddit.com/r/Kotlin/comments/13mgjve/trying_to_spin_up_a_ktor_app_using_docker/)
-- [Defensive Coding for Safe Migrations](https://www.reddit.com/r/Kotlin/comments/13lwhos/defensive_coding_for_safe_migrations/)
-- [kotlin vs go whats the difference](https://www.reddit.com/r/Kotlin/comments/13lszt3/kotlin_vs_go_whats_the_difference/)
-- [kotlin multiply error?](https://www.reddit.com/r/Kotlin/comments/13lj8u6/kotlin_multiply_error/)
-- [Compose Multiplatform for iOS Is in Alpha](https://www.reddit.com/r/Kotlin/comments/13l6vuk/compose_multiplatform_for_ios_is_in_alpha/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
