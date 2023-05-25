@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Opinion needed: Best way to plan out a mobile application](https://www.reddit.com/r/Kotlin/comments/13qzee9/opinion_needed_best_way_to_plan_out_a_mobile/)
+- [Kamel v0.5.0 released with Kotlin Native and JS support](https://www.reddit.com/r/Kotlin/comments/13qxwml/kamel_v050_released_with_kotlin_native_and_js/)
+- [Interview with Google PM about Kotlin, Multiplatform &amp; The Future](https://www.reddit.com/r/Kotlin/comments/13qq5l9/interview_with_google_pm_about_kotlin/)
+- [What&#39;s new in Kotlin 1.9.0-Beta](https://www.reddit.com/r/Kotlin/comments/13qm5l0/whats_new_in_kotlin_190beta/)
+- [Use latest version of Kotlin by default](https://www.reddit.com/r/Kotlin/comments/13qiv97/use_latest_version_of_kotlin_by_default/)
+- [`kds`, `kmem`, `klock`, `krypto`, `klogger`, `kbignum` published to WASM target in 4.0.1](https://www.reddit.com/r/Kotlin/comments/13qh7c5/kds_kmem_klock_krypto_klogger_kbignum_published/)
 - [Job search: I used to rely on LinkedIn, but it&#39;s not as ... abundat... anymore. Are the more job search engines out there?](https://www.reddit.com/r/Kotlin/comments/13q7u31/job_search_i_used_to_rely_on_linkedin_but_its_not/)
 - [Built a multiplatform RSS app built using Kotlin and Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/13q7aaa/built_a_multiplatform_rss_app_built_using_kotlin/)
 - [http4k-connect 3.40.4.0 released with OpenAI API support](https://www.reddit.com/r/Kotlin/comments/13pxvxj/http4kconnect_34040_released_with_openai_api/)
 - [Kotlin Native vs Rust &lpar;performance&rpar;](https://www.reddit.com/r/Kotlin/comments/13pvi3k/kotlin_native_vs_rust_performance/)
-- [Just Released MLKit with Jetpack Compose! Seeking Feedback 🚀 💫](https://www.reddit.com/r/Kotlin/comments/13pqq0x/just_released_mlkit_with_jetpack_compose_seeking/)
-- [Ostara for Spring 0.9.0 released: FOSS admin app for Spring Boot applications](https://www.reddit.com/r/Kotlin/comments/13pnwdq/ostara_for_spring_090_released_foss_admin_app_for/)
-- [Kotlin Multiplatform in Intellij, &quot;hot reloading&quot;](https://www.reddit.com/r/Kotlin/comments/13pft7w/kotlin_multiplatform_in_intellij_hot_reloading/)
-- [Is this a good and common practice, to achieve similar outcome as Swift&#39;s &quot;guard let&quot; and avoid safe call operator?](https://www.reddit.com/r/Kotlin/comments/13pf3a0/is_this_a_good_and_common_practice_to_achieve/)
-- [Return a nested list of child table using Kotlin Exposed Dao](https://www.reddit.com/r/Kotlin/comments/13p2fki/return_a_nested_list_of_child_table_using_kotlin/)
-- [5 reasons why Kotlin is more productive than Java?](https://www.reddit.com/r/Kotlin/comments/13oxhn3/5_reasons_why_kotlin_is_more_productive_than_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
