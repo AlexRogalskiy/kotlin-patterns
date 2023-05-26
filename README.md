@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to deploy ktor server on vps in easy and simple way](https://www.reddit.com/r/Kotlin/comments/13rr0bb/how_to_deploy_ktor_server_on_vps_in_easy_and/)
+- [Why Kotlin is more productive than Java?](https://www.reddit.com/r/Kotlin/comments/13rpmnj/why_kotlin_is_more_productive_than_java/)
+- [How to deploy ktor server in your vps in easy and simple way](https://www.reddit.com/r/Kotlin/comments/13roty5/how_to_deploy_ktor_server_in_your_vps_in_easy_and/)
+- [Kotlin/JS API support in the Kotlin Binary Compatibility Validator](https://www.reddit.com/r/Kotlin/comments/13rm227/kotlinjs_api_support_in_the_kotlin_binary/)
+- [Exceptions lose context when crossing multiple Reactive/coroutine boundaries](https://www.reddit.com/r/Kotlin/comments/13ria33/exceptions_lose_context_when_crossing_multiple/)
 - [Opinion needed: Best way to plan out a mobile application](https://www.reddit.com/r/Kotlin/comments/13qzee9/opinion_needed_best_way_to_plan_out_a_mobile/)
 - [Kamel v0.5.0 released with Kotlin Native and JS support](https://www.reddit.com/r/Kotlin/comments/13qxwml/kamel_v050_released_with_kotlin_native_and_js/)
 - [Interview with Google PM about Kotlin, Multiplatform &amp; The Future](https://www.reddit.com/r/Kotlin/comments/13qq5l9/interview_with_google_pm_about_kotlin/)
 - [What&#39;s new in Kotlin 1.9.0-Beta](https://www.reddit.com/r/Kotlin/comments/13qm5l0/whats_new_in_kotlin_190beta/)
 - [Use latest version of Kotlin by default](https://www.reddit.com/r/Kotlin/comments/13qiv97/use_latest_version_of_kotlin_by_default/)
-- [`kds`, `kmem`, `klock`, `krypto`, `klogger`, `kbignum` published to WASM target in 4.0.1](https://www.reddit.com/r/Kotlin/comments/13qh7c5/kds_kmem_klock_krypto_klogger_kbignum_published/)
-- [Job search: I used to rely on LinkedIn, but it&#39;s not as ... abundat... anymore. Are the more job search engines out there?](https://www.reddit.com/r/Kotlin/comments/13q7u31/job_search_i_used_to_rely_on_linkedin_but_its_not/)
-- [Built a multiplatform RSS app built using Kotlin and Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/13q7aaa/built_a_multiplatform_rss_app_built_using_kotlin/)
-- [http4k-connect 3.40.4.0 released with OpenAI API support](https://www.reddit.com/r/Kotlin/comments/13pxvxj/http4kconnect_34040_released_with_openai_api/)
-- [Kotlin Native vs Rust &lpar;performance&rpar;](https://www.reddit.com/r/Kotlin/comments/13pvi3k/kotlin_native_vs_rust_performance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
