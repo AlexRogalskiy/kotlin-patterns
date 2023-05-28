@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need a macbook to usw compose multiplatform](https://www.reddit.com/r/Kotlin/comments/13tnu9r/i_need_a_macbook_to_usw_compose_multiplatform/)
+- [Kweb 1.4.5 released, a remote interface to the browser&#39;s DOM](https://www.reddit.com/r/Kotlin/comments/13tgmu8/kweb_145_released_a_remote_interface_to_the/)
+- [How suitable is kotlin for native applications?](https://www.reddit.com/r/Kotlin/comments/13t0rev/how_suitable_is_kotlin_for_native_applications/)
 - [5 Best Android Image Loading Libraries](https://www.reddit.com/r/Kotlin/comments/13sie57/5_best_android_image_loading_libraries/)
 - [Complex Menus Made Easy with Doodle 0.9.2](https://www.reddit.com/r/Kotlin/comments/13sg8px/complex_menus_made_easy_with_doodle_092/)
 - [Communicating with Tests](https://www.reddit.com/r/Kotlin/comments/13sesvb/communicating_with_tests/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Learn Kotllin as a Swift developer](https://www.reddit.com/r/Kotlin/comments/13s9ww9/learn_kotllin_as_a_swift_developer/)
 - [I am building an app related to Machine Learning and AI in java and kotlin. if somebody is intersted in joining me, just DM me. I have already finished a part of the app.](https://www.reddit.com/r/Kotlin/comments/13s8e77/i_am_building_an_app_related_to_machine_learning/)
 - [How to deploy ktor server on vps in easy and simple way](https://www.reddit.com/r/Kotlin/comments/13rr0bb/how_to_deploy_ktor_server_on_vps_in_easy_and/)
-- [Why Kotlin is more productive than Java?](https://www.reddit.com/r/Kotlin/comments/13rpmnj/why_kotlin_is_more_productive_than_java/)
-- [How to deploy ktor server in your vps in easy and simple way](https://www.reddit.com/r/Kotlin/comments/13roty5/how_to_deploy_ktor_server_in_your_vps_in_easy_and/)
-- [Kotlin/JS API support in the Kotlin Binary Compatibility Validator](https://www.reddit.com/r/Kotlin/comments/13rm227/kotlinjs_api_support_in_the_kotlin_binary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
