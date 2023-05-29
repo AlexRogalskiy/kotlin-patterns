@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [No implementation for equals method](https://www.reddit.com/r/Kotlin/comments/13udihu/no_implementation_for_equals_method/)
+- [🧸 Tiny : my Kotlin Multiplatform 2D Game engine](https://www.reddit.com/r/Kotlin/comments/13ucasb/tiny_my_kotlin_multiplatform_2d_game_engine/)
+- [name concise youtubers for kotlin](https://www.reddit.com/r/Kotlin/comments/13ua3xl/name_concise_youtubers_for_kotlin/)
+- [Applying Kotlin Structured Concurrency: Part III — Exceptions in coroutines](https://www.reddit.com/r/Kotlin/comments/13u2a2g/applying_kotlin_structured_concurrency_part_iii/)
+- [I&#39;m creating a REST API using KTOR. What&#39;s the best ORM to go with KTOR ?](https://www.reddit.com/r/Kotlin/comments/13tz09o/im_creating_a_rest_api_using_ktor_whats_the_best/)
+- [Dive into kotlin deeply](https://www.reddit.com/r/Kotlin/comments/13twpiy/dive_into_kotlin_deeply/)
+- [What is your for loop syntax preference: Kotlin vs Other syntax?](https://www.reddit.com/r/Kotlin/comments/13tvglh/what_is_your_for_loop_syntax_preference_kotlin_vs/)
 - [I need a macbook to usw compose multiplatform](https://www.reddit.com/r/Kotlin/comments/13tnu9r/i_need_a_macbook_to_usw_compose_multiplatform/)
 - [Kweb 1.4.5 released, a remote interface to the browser&#39;s DOM](https://www.reddit.com/r/Kotlin/comments/13tgmu8/kweb_145_released_a_remote_interface_to_the/)
 - [How suitable is kotlin for native applications?](https://www.reddit.com/r/Kotlin/comments/13t0rev/how_suitable_is_kotlin_for_native_applications/)
-- [5 Best Android Image Loading Libraries](https://www.reddit.com/r/Kotlin/comments/13sie57/5_best_android_image_loading_libraries/)
-- [Complex Menus Made Easy with Doodle 0.9.2](https://www.reddit.com/r/Kotlin/comments/13sg8px/complex_menus_made_easy_with_doodle_092/)
-- [Communicating with Tests](https://www.reddit.com/r/Kotlin/comments/13sesvb/communicating_with_tests/)
-- [Why would we use a property delegated to another property rather than a computed property?](https://www.reddit.com/r/Kotlin/comments/13sddin/why_would_we_use_a_property_delegated_to_another/)
-- [Learn Kotllin as a Swift developer](https://www.reddit.com/r/Kotlin/comments/13s9ww9/learn_kotllin_as_a_swift_developer/)
-- [I am building an app related to Machine Learning and AI in java and kotlin. if somebody is intersted in joining me, just DM me. I have already finished a part of the app.](https://www.reddit.com/r/Kotlin/comments/13s8e77/i_am_building_an_app_related_to_machine_learning/)
-- [How to deploy ktor server on vps in easy and simple way](https://www.reddit.com/r/Kotlin/comments/13rr0bb/how_to_deploy_ktor_server_on_vps_in_easy_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
