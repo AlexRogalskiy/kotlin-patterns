@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Sealed Keyword in Kotlin via Medium](https://www.reddit.com/r/Kotlin/comments/13wzokd/the_sealed_keyword_in_kotlin_via_medium/)
+- [What is the difference between background and foreground services in Android?](https://www.reddit.com/r/Kotlin/comments/13wsw8v/what_is_the_difference_between_background_and/)
+- [Anyone here checked Kotlin out and decided to stay / move back to Java?](https://www.reddit.com/r/Kotlin/comments/13wp1vd/anyone_here_checked_kotlin_out_and_decided_to/)
+- [Applying Structured concurrency in Kotlin: Part II — Coroutines creation](https://www.reddit.com/r/Kotlin/comments/13wgdky/applying_structured_concurrency_in_kotlin_part_ii/)
+- [ktor main&lpar;&rpar; doesn&#39;t run](https://www.reddit.com/r/Kotlin/comments/13wfaqi/ktor_main_doesnt_run/)
 - [No good hot reload story with Maven?](https://www.reddit.com/r/Kotlin/comments/13w3s9b/no_good_hot_reload_story_with_maven/)
-- [New to kotlin and programming in general.](https://www.reddit.com/r/Kotlin/comments/13vxz3f/new_to_kotlin_and_programming_in_general/)
 - [3 Reasons to Use MVVM in Android Development](https://www.reddit.com/r/Kotlin/comments/13vwo4h/3_reasons_to_use_mvvm_in_android_development/)
 - [🏆 Top Kotlin open source projects and contributors](https://www.reddit.com/r/Kotlin/comments/13vuqab/top_kotlin_open_source_projects_and_contributors/)
 - [vsc versus intellij](https://www.reddit.com/r/Kotlin/comments/13vh7tg/vsc_versus_intellij/)
 - [Really basic help - basic functions](https://www.reddit.com/r/Kotlin/comments/13vg779/really_basic_help_basic_functions/)
-- [transfering image from from app to api](https://www.reddit.com/r/Kotlin/comments/13v9vrh/transfering_image_from_from_app_to_api/)
-- [3 Reasons to Use MVVM in Android Development](https://www.reddit.com/r/Kotlin/comments/13v1xwt/3_reasons_to_use_mvvm_in_android_development/)
-- [Is there a difference between assigning values on declaration and assigning values in the init block?](https://www.reddit.com/r/Kotlin/comments/13v0gwi/is_there_a_difference_between_assigning_values_on/)
-- [How to resolve the bug where the flashlight image/logo on the phone keep blinking even if the application and flashlight shut down?](https://www.reddit.com/r/Kotlin/comments/13uif2q/how_to_resolve_the_bug_where_the_flashlight/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
