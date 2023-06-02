@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMM with Compose and SwiftUI](https://www.reddit.com/r/Kotlin/comments/13xsjn5/kmm_with_compose_and_swiftui/)
+- [Anti Lucky Patcher](https://www.reddit.com/r/Kotlin/comments/13xrwi8/anti_lucky_patcher/)
+- [Sharing a trick I found to improve classes like ErrorOr&lt;Type&gt;](https://www.reddit.com/r/Kotlin/comments/13xqbmj/sharing_a_trick_i_found_to_improve_classes_like/)
+- [I&#39;ve made a huge mistake by switching to Kotlin /s](https://www.reddit.com/r/Kotlin/comments/13xg5fe/ive_made_a_huge_mistake_by_switching_to_kotlin_s/)
+- [Free EBook on Kotlin](https://www.reddit.com/r/Kotlin/comments/13x7aao/free_ebook_on_kotlin/)
 - [The Sealed Keyword in Kotlin via Medium](https://www.reddit.com/r/Kotlin/comments/13wzokd/the_sealed_keyword_in_kotlin_via_medium/)
 - [What is the difference between background and foreground services in Android?](https://www.reddit.com/r/Kotlin/comments/13wsw8v/what_is_the_difference_between_background_and/)
 - [Anyone here checked Kotlin out and decided to stay / move back to Java?](https://www.reddit.com/r/Kotlin/comments/13wp1vd/anyone_here_checked_kotlin_out_and_decided_to/)
 - [Applying Structured concurrency in Kotlin: Part II — Coroutines creation](https://www.reddit.com/r/Kotlin/comments/13wgdky/applying_structured_concurrency_in_kotlin_part_ii/)
 - [ktor main&lpar;&rpar; doesn&#39;t run](https://www.reddit.com/r/Kotlin/comments/13wfaqi/ktor_main_doesnt_run/)
-- [No good hot reload story with Maven?](https://www.reddit.com/r/Kotlin/comments/13w3s9b/no_good_hot_reload_story_with_maven/)
-- [3 Reasons to Use MVVM in Android Development](https://www.reddit.com/r/Kotlin/comments/13vwo4h/3_reasons_to_use_mvvm_in_android_development/)
-- [🏆 Top Kotlin open source projects and contributors](https://www.reddit.com/r/Kotlin/comments/13vuqab/top_kotlin_open_source_projects_and_contributors/)
-- [vsc versus intellij](https://www.reddit.com/r/Kotlin/comments/13vh7tg/vsc_versus_intellij/)
-- [Really basic help - basic functions](https://www.reddit.com/r/Kotlin/comments/13vg779/really_basic_help_basic_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
