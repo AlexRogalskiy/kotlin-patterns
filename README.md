@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Refactoring to Dependency Injection](https://www.reddit.com/r/Kotlin/comments/13yd71c/refactoring_to_dependency_injection/)
+- [Declaring objects inside Companion Object block](https://www.reddit.com/r/Kotlin/comments/13y84of/declaring_objects_inside_companion_object_block/)
 - [KMM with Compose and SwiftUI](https://www.reddit.com/r/Kotlin/comments/13xsjn5/kmm_with_compose_and_swiftui/)
 - [Anti Lucky Patcher](https://www.reddit.com/r/Kotlin/comments/13xrwi8/anti_lucky_patcher/)
 - [Sharing a trick I found to improve classes like ErrorOr&lt;Type&gt;](https://www.reddit.com/r/Kotlin/comments/13xqbmj/sharing_a_trick_i_found_to_improve_classes_like/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [The Sealed Keyword in Kotlin via Medium](https://www.reddit.com/r/Kotlin/comments/13wzokd/the_sealed_keyword_in_kotlin_via_medium/)
 - [What is the difference between background and foreground services in Android?](https://www.reddit.com/r/Kotlin/comments/13wsw8v/what_is_the_difference_between_background_and/)
 - [Anyone here checked Kotlin out and decided to stay / move back to Java?](https://www.reddit.com/r/Kotlin/comments/13wp1vd/anyone_here_checked_kotlin_out_and_decided_to/)
-- [Applying Structured concurrency in Kotlin: Part II — Coroutines creation](https://www.reddit.com/r/Kotlin/comments/13wgdky/applying_structured_concurrency_in_kotlin_part_ii/)
-- [ktor main&lpar;&rpar; doesn&#39;t run](https://www.reddit.com/r/Kotlin/comments/13wfaqi/ktor_main_doesnt_run/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
