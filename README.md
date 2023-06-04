@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KorGE early dev version published with WASM &lpar;WebAssembly&rpar; support! Along KorIO, KorIM, KorAU, KorTE, korinject, and KorGW](https://www.reddit.com/r/Kotlin/comments/13ztzna/korge_early_dev_version_published_with_wasm/)
+- [Discord Bot for playing Othello made with JDA](https://www.reddit.com/r/Kotlin/comments/13zns5p/discord_bot_for_playing_othello_made_with_jda/)
+- [How to create annotatino to restrict use of functions, similarly to `@Compose`](https://www.reddit.com/r/Kotlin/comments/13zjt8e/how_to_create_annotatino_to_restrict_use_of/)
+- [Kotlin Algorithms and Design Patterns](https://www.reddit.com/r/Kotlin/comments/13z1id5/kotlin_algorithms_and_design_patterns/)
 - [Refactoring to Dependency Injection](https://www.reddit.com/r/Kotlin/comments/13yd71c/refactoring_to_dependency_injection/)
 - [Declaring objects inside Companion Object block](https://www.reddit.com/r/Kotlin/comments/13y84of/declaring_objects_inside_companion_object_block/)
 - [KMM with Compose and SwiftUI](https://www.reddit.com/r/Kotlin/comments/13xsjn5/kmm_with_compose_and_swiftui/)
 - [Anti Lucky Patcher](https://www.reddit.com/r/Kotlin/comments/13xrwi8/anti_lucky_patcher/)
 - [Sharing a trick I found to improve classes like ErrorOr&lt;Type&gt;](https://www.reddit.com/r/Kotlin/comments/13xqbmj/sharing_a_trick_i_found_to_improve_classes_like/)
 - [I&#39;ve made a huge mistake by switching to Kotlin /s](https://www.reddit.com/r/Kotlin/comments/13xg5fe/ive_made_a_huge_mistake_by_switching_to_kotlin_s/)
-- [Free EBook on Kotlin](https://www.reddit.com/r/Kotlin/comments/13x7aao/free_ebook_on_kotlin/)
-- [The Sealed Keyword in Kotlin via Medium](https://www.reddit.com/r/Kotlin/comments/13wzokd/the_sealed_keyword_in_kotlin_via_medium/)
-- [What is the difference between background and foreground services in Android?](https://www.reddit.com/r/Kotlin/comments/13wsw8v/what_is_the_difference_between_background_and/)
-- [Anyone here checked Kotlin out and decided to stay / move back to Java?](https://www.reddit.com/r/Kotlin/comments/13wp1vd/anyone_here_checked_kotlin_out_and_decided_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
