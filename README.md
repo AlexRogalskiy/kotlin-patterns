@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Relative Newbie] Recommendations for a simple GUI](https://www.reddit.com/r/Kotlin/comments/140rl6t/relative_newbie_recommendations_for_a_simple_gui/)
+- [Trying to use Dagger 2 in a Maven project and cannot for the life of me get the generated sources to work.](https://www.reddit.com/r/Kotlin/comments/140j77h/trying_to_use_dagger_2_in_a_maven_project_and/)
+- [App to measure height of object.](https://www.reddit.com/r/Kotlin/comments/14033xp/app_to_measure_height_of_object/)
 - [KorGE early dev version published with WASM &lpar;WebAssembly&rpar; support! Along KorIO, KorIM, KorAU, KorTE, korinject, and KorGW](https://www.reddit.com/r/Kotlin/comments/13ztzna/korge_early_dev_version_published_with_wasm/)
 - [Discord Bot for playing Othello made with JDA](https://www.reddit.com/r/Kotlin/comments/13zns5p/discord_bot_for_playing_othello_made_with_jda/)
 - [How to create annotatino to restrict use of functions, similarly to `@Compose`](https://www.reddit.com/r/Kotlin/comments/13zjt8e/how_to_create_annotatino_to_restrict_use_of/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Refactoring to Dependency Injection](https://www.reddit.com/r/Kotlin/comments/13yd71c/refactoring_to_dependency_injection/)
 - [Declaring objects inside Companion Object block](https://www.reddit.com/r/Kotlin/comments/13y84of/declaring_objects_inside_companion_object_block/)
 - [KMM with Compose and SwiftUI](https://www.reddit.com/r/Kotlin/comments/13xsjn5/kmm_with_compose_and_swiftui/)
-- [Anti Lucky Patcher](https://www.reddit.com/r/Kotlin/comments/13xrwi8/anti_lucky_patcher/)
-- [Sharing a trick I found to improve classes like ErrorOr&lt;Type&gt;](https://www.reddit.com/r/Kotlin/comments/13xqbmj/sharing_a_trick_i_found_to_improve_classes_like/)
-- [I&#39;ve made a huge mistake by switching to Kotlin /s](https://www.reddit.com/r/Kotlin/comments/13xg5fe/ive_made_a_huge_mistake_by_switching_to_kotlin_s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
