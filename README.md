@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Curious which method you guys would prefer](https://www.reddit.com/r/Kotlin/comments/14205eu/curious_which_method_you_guys_would_prefer/)
+- [gotlin - understanding Kotlin coroutines better via goroutines](https://www.reddit.com/r/Kotlin/comments/141zz0s/gotlin_understanding_kotlin_coroutines_better_via/)
+- [Top 5 Reasons to Learn Android Development](https://www.reddit.com/r/Kotlin/comments/141lsqv/top_5_reasons_to_learn_android_development/)
+- [How do I get -Xdebug compiler option working?](https://www.reddit.com/r/Kotlin/comments/141ggho/how_do_i_get_xdebug_compiler_option_working/)
 - [[Relative Newbie] Recommendations for a simple GUI](https://www.reddit.com/r/Kotlin/comments/140rl6t/relative_newbie_recommendations_for_a_simple_gui/)
 - [Trying to use Dagger 2 in a Maven project and cannot for the life of me get the generated sources to work.](https://www.reddit.com/r/Kotlin/comments/140j77h/trying_to_use_dagger_2_in_a_maven_project_and/)
 - [App to measure height of object.](https://www.reddit.com/r/Kotlin/comments/14033xp/app_to_measure_height_of_object/)
 - [KorGE early dev version published with WASM &lpar;WebAssembly&rpar; support! Along KorIO, KorIM, KorAU, KorTE, korinject, and KorGW](https://www.reddit.com/r/Kotlin/comments/13ztzna/korge_early_dev_version_published_with_wasm/)
 - [Discord Bot for playing Othello made with JDA](https://www.reddit.com/r/Kotlin/comments/13zns5p/discord_bot_for_playing_othello_made_with_jda/)
 - [How to create annotatino to restrict use of functions, similarly to `@Compose`](https://www.reddit.com/r/Kotlin/comments/13zjt8e/how_to_create_annotatino_to_restrict_use_of/)
-- [Kotlin Algorithms and Design Patterns](https://www.reddit.com/r/Kotlin/comments/13z1id5/kotlin_algorithms_and_design_patterns/)
-- [Refactoring to Dependency Injection](https://www.reddit.com/r/Kotlin/comments/13yd71c/refactoring_to_dependency_injection/)
-- [Declaring objects inside Companion Object block](https://www.reddit.com/r/Kotlin/comments/13y84of/declaring_objects_inside_companion_object_block/)
-- [KMM with Compose and SwiftUI](https://www.reddit.com/r/Kotlin/comments/13xsjn5/kmm_with_compose_and_swiftui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
