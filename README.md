@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;DroidMizer&quot;, My new app I made completely in Kotlin](https://www.reddit.com/r/Kotlin/comments/143snox/droidmizer_my_new_app_i_made_completely_in_kotlin/)
+- [Why does this happen in Jetpack compose??](https://www.reddit.com/r/Kotlin/comments/143myfq/why_does_this_happen_in_jetpack_compose/)
+- [val vs var in Kotlin](https://www.reddit.com/r/Kotlin/comments/1439tfj/val_vs_var_in_kotlin/)
 - [Is Coroutine thread safe?](https://www.reddit.com/r/Kotlin/comments/142zkh5/is_coroutine_thread_safe/)
 - [Will this subreddit strike next week?](https://www.reddit.com/r/Kotlin/comments/142zaav/will_this_subreddit_strike_next_week/)
 - [Questions about optimization with primitives](https://www.reddit.com/r/Kotlin/comments/142qdph/questions_about_optimization_with_primitives/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Finding and Fixing an Intermittent Bug](https://www.reddit.com/r/Kotlin/comments/142as8r/finding_and_fixing_an_intermittent_bug/)
 - [Curious which method you guys would prefer](https://www.reddit.com/r/Kotlin/comments/14205eu/curious_which_method_you_guys_would_prefer/)
 - [gotlin - understanding Kotlin coroutines better via goroutines](https://www.reddit.com/r/Kotlin/comments/141zz0s/gotlin_understanding_kotlin_coroutines_better_via/)
-- [Top 5 Reasons to Learn Android Development](https://www.reddit.com/r/Kotlin/comments/141lsqv/top_5_reasons_to_learn_android_development/)
-- [How do I get -Xdebug compiler option working?](https://www.reddit.com/r/Kotlin/comments/141ggho/how_do_i_get_xdebug_compiler_option_working/)
-- [[Relative Newbie] Recommendations for a simple GUI](https://www.reddit.com/r/Kotlin/comments/140rl6t/relative_newbie_recommendations_for_a_simple_gui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
