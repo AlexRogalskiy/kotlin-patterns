@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Intellij is getting less user-friendly with each succeeding version of Kotlin](https://www.reddit.com/r/Kotlin/comments/144ooie/intellij_is_getting_less_userfriendly_with_each/)
+- [Is there a .wasm + webidl -&gt; Kotlin Common effort already in the works?](https://www.reddit.com/r/Kotlin/comments/144jsav/is_there_a_wasm_webidl_kotlin_common_effort/)
+- [Jetpack Compose + Kotlin](https://www.reddit.com/r/Kotlin/comments/144dob6/jetpack_compose_kotlin/)
 - [&quot;DroidMizer&quot;, My new app I made completely in Kotlin](https://www.reddit.com/r/Kotlin/comments/143snox/droidmizer_my_new_app_i_made_completely_in_kotlin/)
 - [Why does this happen in Jetpack compose??](https://www.reddit.com/r/Kotlin/comments/143myfq/why_does_this_happen_in_jetpack_compose/)
 - [val vs var in Kotlin](https://www.reddit.com/r/Kotlin/comments/1439tfj/val_vs_var_in_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Will this subreddit strike next week?](https://www.reddit.com/r/Kotlin/comments/142zaav/will_this_subreddit_strike_next_week/)
 - [Questions about optimization with primitives](https://www.reddit.com/r/Kotlin/comments/142qdph/questions_about_optimization_with_primitives/)
 - [Top 5 Reasons to Learn Android Development in 2023](https://www.reddit.com/r/Kotlin/comments/142nbnn/top_5_reasons_to_learn_android_development_in_2023/)
-- [Finding and Fixing an Intermittent Bug](https://www.reddit.com/r/Kotlin/comments/142as8r/finding_and_fixing_an_intermittent_bug/)
-- [Curious which method you guys would prefer](https://www.reddit.com/r/Kotlin/comments/14205eu/curious_which_method_you_guys_would_prefer/)
-- [gotlin - understanding Kotlin coroutines better via goroutines](https://www.reddit.com/r/Kotlin/comments/141zz0s/gotlin_understanding_kotlin_coroutines_better_via/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
