@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MonoSketch is a cool ASCII flow drawing app fully written in Kotlin JS](https://www.reddit.com/r/Kotlin/comments/145ngef/monosketch_is_a_cool_ascii_flow_drawing_app_fully/)
+- [Should I replace kotlin-stdlib-jdk8 with kotlin-stdlib?](https://www.reddit.com/r/Kotlin/comments/145a4sn/should_i_replace_kotlinstdlibjdk8_with/)
+- [The sad state of REPLs in Kotlin](https://www.reddit.com/r/Kotlin/comments/1457upq/the_sad_state_of_repls_in_kotlin/)
+- [API recommendations for streaming?](https://www.reddit.com/r/Kotlin/comments/1456ilh/api_recommendations_for_streaming/)
+- [Debugger-based Development](https://www.reddit.com/r/Kotlin/comments/1451pqx/debuggerbased_development/)
 - [Intellij is getting less user-friendly with each succeeding version of Kotlin](https://www.reddit.com/r/Kotlin/comments/144ooie/intellij_is_getting_less_userfriendly_with_each/)
 - [Is there a .wasm + webidl -&gt; Kotlin Common effort already in the works?](https://www.reddit.com/r/Kotlin/comments/144jsav/is_there_a_wasm_webidl_kotlin_common_effort/)
 - [Jetpack Compose + Kotlin](https://www.reddit.com/r/Kotlin/comments/144dob6/jetpack_compose_kotlin/)
 - [&quot;DroidMizer&quot;, My new app I made completely in Kotlin](https://www.reddit.com/r/Kotlin/comments/143snox/droidmizer_my_new_app_i_made_completely_in_kotlin/)
 - [Why does this happen in Jetpack compose??](https://www.reddit.com/r/Kotlin/comments/143myfq/why_does_this_happen_in_jetpack_compose/)
-- [val vs var in Kotlin](https://www.reddit.com/r/Kotlin/comments/1439tfj/val_vs_var_in_kotlin/)
-- [Is Coroutine thread safe?](https://www.reddit.com/r/Kotlin/comments/142zkh5/is_coroutine_thread_safe/)
-- [Will this subreddit strike next week?](https://www.reddit.com/r/Kotlin/comments/142zaav/will_this_subreddit_strike_next_week/)
-- [Questions about optimization with primitives](https://www.reddit.com/r/Kotlin/comments/142qdph/questions_about_optimization_with_primitives/)
-- [Top 5 Reasons to Learn Android Development in 2023](https://www.reddit.com/r/Kotlin/comments/142nbnn/top_5_reasons_to_learn_android_development_in_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
