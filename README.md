@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best UI toolkit for Kotlin](https://www.reddit.com/r/Kotlin/comments/146x2sz/best_ui_toolkit_for_kotlin/)
 - [/r/kotlin will go dark for 48 hours initially on June 12th, and potentially longer. Please read for details.](https://www.reddit.com/r/Kotlin/comments/146gvp3/rkotlin_will_go_dark_for_48_hours_initially_on/)
 - [MonoSketch is a cool ASCII flow drawing app fully written in Kotlin JS](https://www.reddit.com/r/Kotlin/comments/145ngef/monosketch_is_a_cool_ascii_flow_drawing_app_fully/)
 - [Should I replace kotlin-stdlib-jdk8 with kotlin-stdlib?](https://www.reddit.com/r/Kotlin/comments/145a4sn/should_i_replace_kotlinstdlibjdk8_with/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Intellij is getting less user-friendly with each succeeding version of Kotlin](https://www.reddit.com/r/Kotlin/comments/144ooie/intellij_is_getting_less_userfriendly_with_each/)
 - [Is there a .wasm + webidl -&gt; Kotlin Common effort already in the works?](https://www.reddit.com/r/Kotlin/comments/144jsav/is_there_a_wasm_webidl_kotlin_common_effort/)
 - [Jetpack Compose + Kotlin](https://www.reddit.com/r/Kotlin/comments/144dob6/jetpack_compose_kotlin/)
-- [&quot;DroidMizer&quot;, My new app I made completely in Kotlin](https://www.reddit.com/r/Kotlin/comments/143snox/droidmizer_my_new_app_i_made_completely_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
