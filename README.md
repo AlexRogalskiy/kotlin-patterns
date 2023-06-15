@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&#39;m spinning up a coroutine inside of the IO thread, but my logs are showing I&#39;m in the Default thread](https://www.reddit.com/r/Kotlin/comments/149n2oy/im_spinning_up_a_coroutine_inside_of_the_io/)
+- [Ideal tech stack &amp; approach for a social media app](https://www.reddit.com/r/Kotlin/comments/149lavp/ideal_tech_stack_approach_for_a_social_media_app/)
+- [Applying Kotlin Structured concurrency: Part IV — Coroutines Cancellation](https://www.reddit.com/r/Kotlin/comments/149hh77/applying_kotlin_structured_concurrency_part_iv/)
+- [Learning Kotlin: Is there anything wrong with this code?](https://www.reddit.com/r/Kotlin/comments/149g1c9/learning_kotlin_is_there_anything_wrong_with_this/)
+- [Question on Kotlin Koans: For Loop Exercise](https://www.reddit.com/r/Kotlin/comments/149ehvv/question_on_kotlin_koans_for_loop_exercise/)
+- [Dynamic Kotlin with Zipline - Cash App code blog](https://www.reddit.com/r/Kotlin/comments/1499337/dynamic_kotlin_with_zipline_cash_app_code_blog/)
 - [Best UI toolkit for Kotlin](https://www.reddit.com/r/Kotlin/comments/146x2sz/best_ui_toolkit_for_kotlin/)
 - [/r/kotlin will go dark for 48 hours initially on June 12th, and potentially longer. Please read for details.](https://www.reddit.com/r/Kotlin/comments/146gvp3/rkotlin_will_go_dark_for_48_hours_initially_on/)
 - [MonoSketch is a cool ASCII flow drawing app fully written in Kotlin JS](https://www.reddit.com/r/Kotlin/comments/145ngef/monosketch_is_a_cool_ascii_flow_drawing_app_fully/)
 - [Should I replace kotlin-stdlib-jdk8 with kotlin-stdlib?](https://www.reddit.com/r/Kotlin/comments/145a4sn/should_i_replace_kotlinstdlibjdk8_with/)
-- [The sad state of REPLs in Kotlin](https://www.reddit.com/r/Kotlin/comments/1457upq/the_sad_state_of_repls_in_kotlin/)
-- [API recommendations for streaming?](https://www.reddit.com/r/Kotlin/comments/1456ilh/api_recommendations_for_streaming/)
-- [Debugger-based Development](https://www.reddit.com/r/Kotlin/comments/1451pqx/debuggerbased_development/)
-- [Intellij is getting less user-friendly with each succeeding version of Kotlin](https://www.reddit.com/r/Kotlin/comments/144ooie/intellij_is_getting_less_userfriendly_with_each/)
-- [Is there a .wasm + webidl -&gt; Kotlin Common effort already in the works?](https://www.reddit.com/r/Kotlin/comments/144jsav/is_there_a_wasm_webidl_kotlin_common_effort/)
-- [Jetpack Compose + Kotlin](https://www.reddit.com/r/Kotlin/comments/144dob6/jetpack_compose_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
