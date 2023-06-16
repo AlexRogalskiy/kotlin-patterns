@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Builder Design Pattern In Kotlin](https://www.reddit.com/r/Kotlin/comments/14a6y8b/builder_design_pattern_in_kotlin/)
 - [I&#39;m spinning up a coroutine inside of the IO thread, but my logs are showing I&#39;m in the Default thread](https://www.reddit.com/r/Kotlin/comments/149n2oy/im_spinning_up_a_coroutine_inside_of_the_io/)
 - [Ideal tech stack &amp; approach for a social media app](https://www.reddit.com/r/Kotlin/comments/149lavp/ideal_tech_stack_approach_for_a_social_media_app/)
 - [Applying Kotlin Structured concurrency: Part IV — Coroutines Cancellation](https://www.reddit.com/r/Kotlin/comments/149hh77/applying_kotlin_structured_concurrency_part_iv/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Best UI toolkit for Kotlin](https://www.reddit.com/r/Kotlin/comments/146x2sz/best_ui_toolkit_for_kotlin/)
 - [/r/kotlin will go dark for 48 hours initially on June 12th, and potentially longer. Please read for details.](https://www.reddit.com/r/Kotlin/comments/146gvp3/rkotlin_will_go_dark_for_48_hours_initially_on/)
 - [MonoSketch is a cool ASCII flow drawing app fully written in Kotlin JS](https://www.reddit.com/r/Kotlin/comments/145ngef/monosketch_is_a_cool_ascii_flow_drawing_app_fully/)
-- [Should I replace kotlin-stdlib-jdk8 with kotlin-stdlib?](https://www.reddit.com/r/Kotlin/comments/145a4sn/should_i_replace_kotlinstdlibjdk8_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
