@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can someone please explain Mono to me like I’m stupid](https://www.reddit.com/r/Kotlin/comments/14b9076/can_someone_please_explain_mono_to_me_like_im/)
+- [kotlinx-serialization won&#39;t serialize a List?](https://www.reddit.com/r/Kotlin/comments/14b8bcn/kotlinxserialization_wont_serialize_a_list/)
+- [Top 5 Reasons to Learn Android Development](https://www.reddit.com/r/Kotlin/comments/14b35or/top_5_reasons_to_learn_android_development/)
+- [Tidy First, then Implement](https://www.reddit.com/r/Kotlin/comments/14aqg9j/tidy_first_then_implement/)
+- [Seal the Deal with Kotlin — A Look at Sealed Classes and Sealed Interfaces](https://www.reddit.com/r/Kotlin/comments/14aowhi/seal_the_deal_with_kotlin_a_look_at_sealed/)
+- [Kotlin pet clinic analog on GitHub](https://www.reddit.com/r/Kotlin/comments/14aobps/kotlin_pet_clinic_analog_on_github/)
+- [Meet interfAIce: Integrate ChatGPT into Java/Kotlin applications through &quot;Functional Prompt Engineering&quot;](https://www.reddit.com/r/Kotlin/comments/14amml4/meet_interfaice_integrate_chatgpt_into_javakotlin/)
 - [Builder Design Pattern In Kotlin](https://www.reddit.com/r/Kotlin/comments/14a6y8b/builder_design_pattern_in_kotlin/)
 - [I&#39;m spinning up a coroutine inside of the IO thread, but my logs are showing I&#39;m in the Default thread](https://www.reddit.com/r/Kotlin/comments/149n2oy/im_spinning_up_a_coroutine_inside_of_the_io/)
 - [Ideal tech stack &amp; approach for a social media app](https://www.reddit.com/r/Kotlin/comments/149lavp/ideal_tech_stack_approach_for_a_social_media_app/)
-- [Applying Kotlin Structured concurrency: Part IV — Coroutines Cancellation](https://www.reddit.com/r/Kotlin/comments/149hh77/applying_kotlin_structured_concurrency_part_iv/)
-- [Learning Kotlin: Is there anything wrong with this code?](https://www.reddit.com/r/Kotlin/comments/149g1c9/learning_kotlin_is_there_anything_wrong_with_this/)
-- [Question on Kotlin Koans: For Loop Exercise](https://www.reddit.com/r/Kotlin/comments/149ehvv/question_on_kotlin_koans_for_loop_exercise/)
-- [Dynamic Kotlin with Zipline - Cash App code blog](https://www.reddit.com/r/Kotlin/comments/1499337/dynamic_kotlin_with_zipline_cash_app_code_blog/)
-- [Best UI toolkit for Kotlin](https://www.reddit.com/r/Kotlin/comments/146x2sz/best_ui_toolkit_for_kotlin/)
-- [/r/kotlin will go dark for 48 hours initially on June 12th, and potentially longer. Please read for details.](https://www.reddit.com/r/Kotlin/comments/146gvp3/rkotlin_will_go_dark_for_48_hours_initially_on/)
-- [MonoSketch is a cool ASCII flow drawing app fully written in Kotlin JS](https://www.reddit.com/r/Kotlin/comments/145ngef/monosketch_is_a_cool_ascii_flow_drawing_app_fully/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
