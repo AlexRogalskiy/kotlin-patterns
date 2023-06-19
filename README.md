@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I am starting to learn to code by Remaking an app I have on my phone that could be made BETTER](https://www.reddit.com/r/Kotlin/comments/14cqtsp/i_am_starting_to_learn_to_code_by_remaking_an_app/)
 - [Is kotlin mature enough for on demand video streaming service?](https://www.reddit.com/r/Kotlin/comments/14bzpi8/is_kotlin_mature_enough_for_on_demand_video/)
 - [Should I choose Kotlin over Java for a new project &lpar;backend&rpar;?](https://www.reddit.com/r/Kotlin/comments/14bpuym/should_i_choose_kotlin_over_java_for_a_new/)
 - [Learning Kotlin through organized and repetitive practice](https://www.reddit.com/r/Kotlin/comments/14bkfo4/learning_kotlin_through_organized_and_repetitive/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Tidy First, then Implement](https://www.reddit.com/r/Kotlin/comments/14aqg9j/tidy_first_then_implement/)
 - [Seal the Deal with Kotlin — A Look at Sealed Classes and Sealed Interfaces](https://www.reddit.com/r/Kotlin/comments/14aowhi/seal_the_deal_with_kotlin_a_look_at_sealed/)
 - [Kotlin pet clinic analog on GitHub](https://www.reddit.com/r/Kotlin/comments/14aobps/kotlin_pet_clinic_analog_on_github/)
-- [Meet interfAIce: Integrate ChatGPT into Java/Kotlin applications through &quot;Functional Prompt Engineering&quot;](https://www.reddit.com/r/Kotlin/comments/14amml4/meet_interfaice_integrate_chatgpt_into_javakotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
