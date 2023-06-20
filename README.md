@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How is Koin Dependency Injection better if I have to initialize dependencies?](https://www.reddit.com/r/Kotlin/comments/14drj0r/how_is_koin_dependency_injection_better_if_i_have/)
+- [issue with junit library in kt script](https://www.reddit.com/r/Kotlin/comments/14dp675/issue_with_junit_library_in_kt_script/)
+- [I want to access a local IP address in Kotlin Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/14dl1zl/i_want_to_access_a_local_ip_address_in_kotlin/)
+- [Kotlin Type Inference Working Principle](https://www.reddit.com/r/Kotlin/comments/14djbzr/kotlin_type_inference_working_principle/)
+- [Library for human-readable, relative timestamps?](https://www.reddit.com/r/Kotlin/comments/14de4jf/library_for_humanreadable_relative_timestamps/)
+- [Ostara 0.10.0 released: Biggest release to date of the F/OSS admin app for Spring Boot](https://www.reddit.com/r/Kotlin/comments/14ddxi0/ostara_0100_released_biggest_release_to_date_of/)
 - [I am starting to learn to code by Remaking an app I have on my phone that could be made BETTER](https://www.reddit.com/r/Kotlin/comments/14cqtsp/i_am_starting_to_learn_to_code_by_remaking_an_app/)
 - [Is kotlin mature enough for on demand video streaming service?](https://www.reddit.com/r/Kotlin/comments/14bzpi8/is_kotlin_mature_enough_for_on_demand_video/)
 - [Should I choose Kotlin over Java for a new project &lpar;backend&rpar;?](https://www.reddit.com/r/Kotlin/comments/14bpuym/should_i_choose_kotlin_over_java_for_a_new/)
 - [Learning Kotlin through organized and repetitive practice](https://www.reddit.com/r/Kotlin/comments/14bkfo4/learning_kotlin_through_organized_and_repetitive/)
-- [Can someone please explain Mono to me like I’m stupid](https://www.reddit.com/r/Kotlin/comments/14b9076/can_someone_please_explain_mono_to_me_like_im/)
-- [kotlinx-serialization won&#39;t serialize a List?](https://www.reddit.com/r/Kotlin/comments/14b8bcn/kotlinxserialization_wont_serialize_a_list/)
-- [Top 5 Reasons to Learn Android Development](https://www.reddit.com/r/Kotlin/comments/14b35or/top_5_reasons_to_learn_android_development/)
-- [Tidy First, then Implement](https://www.reddit.com/r/Kotlin/comments/14aqg9j/tidy_first_then_implement/)
-- [Seal the Deal with Kotlin — A Look at Sealed Classes and Sealed Interfaces](https://www.reddit.com/r/Kotlin/comments/14aowhi/seal_the_deal_with_kotlin_a_look_at_sealed/)
-- [Kotlin pet clinic analog on GitHub](https://www.reddit.com/r/Kotlin/comments/14aobps/kotlin_pet_clinic_analog_on_github/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
