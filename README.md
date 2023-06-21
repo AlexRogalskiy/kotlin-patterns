@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which course should I take?](https://www.reddit.com/r/Kotlin/comments/14eta4h/which_course_should_i_take/)
+- [Top 3 Areas AI Will Not Replace Software Engineers](https://www.reddit.com/r/Kotlin/comments/14ehq8u/top_3_areas_ai_will_not_replace_software_engineers/)
+- [Idiomatic error handling with Result, Either and Arrow](https://www.reddit.com/r/Kotlin/comments/14e6wsz/idiomatic_error_handling_with_result_either_and/)
+- [Syntax highlighting has been temporarily turned of because of an internal error](https://www.reddit.com/r/Kotlin/comments/14e671e/syntax_highlighting_has_been_temporarily_turned/)
+- [Kotlin Multiplatform for web development?](https://www.reddit.com/r/Kotlin/comments/14e1es9/kotlin_multiplatform_for_web_development/)
 - [How is Koin Dependency Injection better if I have to initialize dependencies?](https://www.reddit.com/r/Kotlin/comments/14drj0r/how_is_koin_dependency_injection_better_if_i_have/)
 - [issue with junit library in kt script](https://www.reddit.com/r/Kotlin/comments/14dp675/issue_with_junit_library_in_kt_script/)
 - [I want to access a local IP address in Kotlin Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/14dl1zl/i_want_to_access_a_local_ip_address_in_kotlin/)
 - [Kotlin Type Inference Working Principle](https://www.reddit.com/r/Kotlin/comments/14djbzr/kotlin_type_inference_working_principle/)
 - [Library for human-readable, relative timestamps?](https://www.reddit.com/r/Kotlin/comments/14de4jf/library_for_humanreadable_relative_timestamps/)
-- [Ostara 0.10.0 released: Biggest release to date of the F/OSS admin app for Spring Boot](https://www.reddit.com/r/Kotlin/comments/14ddxi0/ostara_0100_released_biggest_release_to_date_of/)
-- [I am starting to learn to code by Remaking an app I have on my phone that could be made BETTER](https://www.reddit.com/r/Kotlin/comments/14cqtsp/i_am_starting_to_learn_to_code_by_remaking_an_app/)
-- [Is kotlin mature enough for on demand video streaming service?](https://www.reddit.com/r/Kotlin/comments/14bzpi8/is_kotlin_mature_enough_for_on_demand_video/)
-- [Should I choose Kotlin over Java for a new project &lpar;backend&rpar;?](https://www.reddit.com/r/Kotlin/comments/14bpuym/should_i_choose_kotlin_over_java_for_a_new/)
-- [Learning Kotlin through organized and repetitive practice](https://www.reddit.com/r/Kotlin/comments/14bkfo4/learning_kotlin_through_organized_and_repetitive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
