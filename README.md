@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin for a desktop App](https://www.reddit.com/r/Kotlin/comments/14hc6v0/kotlin_for_a_desktop_app/)
+- [Kotlin on VScode, intellij, or android studio?](https://www.reddit.com/r/Kotlin/comments/14h9jc2/kotlin_on_vscode_intellij_or_android_studio/)
+- [Introducing VertexAI-KT: Simplifying Integration with Google Cloud&#39;s Vertex AI PaLM API](https://www.reddit.com/r/Kotlin/comments/14h9htm/introducing_vertexaikt_simplifying_integration/)
+- [When I run my app in intelijj it uses the native file picker. When I generate the exe file. it uses something else.](https://www.reddit.com/r/Kotlin/comments/14h7vp0/when_i_run_my_app_in_intelijj_it_uses_the_native/)
+- [How do I find documentation for random libraries.](https://www.reddit.com/r/Kotlin/comments/14h3cj9/how_do_i_find_documentation_for_random_libraries/)
+- [Yak Shaving - Just trying to finish a thing](https://www.reddit.com/r/Kotlin/comments/14gt910/yak_shaving_just_trying_to_finish_a_thing/)
+- [Syntax &quot;!!&quot;](https://www.reddit.com/r/Kotlin/comments/14gr091/syntax/)
 - [Flow testing with Turbine](https://www.reddit.com/r/Kotlin/comments/14gj8la/flow_testing_with_turbine/)
 - [Help needed regarding lambdas with multiple value parameters](https://www.reddit.com/r/Kotlin/comments/14gad8d/help_needed_regarding_lambdas_with_multiple_value/)
 - [What is Infix Functions?](https://www.reddit.com/r/Kotlin/comments/14g0pjx/what_is_infix_functions/)
-- [sift 0.12.0: A CLI tool for Reverse Modeling JVM Applications, Now With Improved Kotlin Support!](https://www.reddit.com/r/Kotlin/comments/14fzdz9/sift_0120_a_cli_tool_for_reverse_modeling_jvm/)
-- [Introducing ChatBot Builder: A Kotlin Compose Multiplatform Library that enables customizable Chat UI and defined bot behavior instructions using OpenAI API&#39;s](https://www.reddit.com/r/Kotlin/comments/14f9qr6/introducing_chatbot_builder_a_kotlin_compose/)
-- [QuickCode: a simple language for generating dynamic code templates using {{variables}} and #ifs.](https://www.reddit.com/r/Kotlin/comments/14f6icn/quickcode_a_simple_language_for_generating/)
-- [http4k Platform v5: New Servers, Loom, TracerBullet, OpenAI plugin SDK and more...](https://www.reddit.com/r/Kotlin/comments/14f6ctt/http4k_platform_v5_new_servers_loom_tracerbullet/)
-- [Flow testing with Turbine](https://www.reddit.com/r/Kotlin/comments/14f4r0e/flow_testing_with_turbine/)
-- [Coroutine books or resources](https://www.reddit.com/r/Kotlin/comments/14f1ev4/coroutine_books_or_resources/)
-- [Which course should I take?](https://www.reddit.com/r/Kotlin/comments/14eta4h/which_course_should_i_take/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
