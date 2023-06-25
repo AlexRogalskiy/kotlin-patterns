@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why I get Unresolved reference: AddEditNoteScreen in the first file but didn&#39;t get it in the another file?](https://www.reddit.com/r/Kotlin/comments/14i7nl0/why_i_get_unresolved_reference_addeditnotescreen/)
+- [negative integer handling in programming languages](https://www.reddit.com/r/Kotlin/comments/14i4tci/negative_integer_handling_in_programming_languages/)
+- [Why does running &quot;kotlinc -version&quot; take like 2 seconds?](https://www.reddit.com/r/Kotlin/comments/14hvo0e/why_does_running_kotlinc_version_take_like_2/)
 - [Kotlin for a desktop App](https://www.reddit.com/r/Kotlin/comments/14hc6v0/kotlin_for_a_desktop_app/)
 - [Kotlin on VScode, intellij, or android studio?](https://www.reddit.com/r/Kotlin/comments/14h9jc2/kotlin_on_vscode_intellij_or_android_studio/)
 - [Introducing VertexAI-KT: Simplifying Integration with Google Cloud&#39;s Vertex AI PaLM API](https://www.reddit.com/r/Kotlin/comments/14h9htm/introducing_vertexaikt_simplifying_integration/)
-- [When I run my app in intelijj it uses the native file picker. When I generate the exe file. it uses something else.](https://www.reddit.com/r/Kotlin/comments/14h7vp0/when_i_run_my_app_in_intelijj_it_uses_the_native/)
 - [How do I find documentation for random libraries.](https://www.reddit.com/r/Kotlin/comments/14h3cj9/how_do_i_find_documentation_for_random_libraries/)
 - [Yak Shaving - Just trying to finish a thing](https://www.reddit.com/r/Kotlin/comments/14gt910/yak_shaving_just_trying_to_finish_a_thing/)
 - [Syntax &quot;!!&quot;](https://www.reddit.com/r/Kotlin/comments/14gr091/syntax/)
 - [Flow testing with Turbine](https://www.reddit.com/r/Kotlin/comments/14gj8la/flow_testing_with_turbine/)
-- [Help needed regarding lambdas with multiple value parameters](https://www.reddit.com/r/Kotlin/comments/14gad8d/help_needed_regarding_lambdas_with_multiple_value/)
-- [What is Infix Functions?](https://www.reddit.com/r/Kotlin/comments/14g0pjx/what_is_infix_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
