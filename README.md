@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Invitation to Learn Kotlin on GitHub!](https://www.reddit.com/r/Kotlin/comments/14iy5pa/invitation_to_learn_kotlin_on_github/)
+- [The Software Engineer Intuition | The Upside-Down Trees](https://www.reddit.com/r/Kotlin/comments/14ix8yk/the_software_engineer_intuition_the_upsidedown/)
+- [Getting &#39;Plugin [id: &#39;com.android.library&#39;, version: &#39;7.4.2&#39;] was not found in any of the following sources: &#39; error when trying to run Test in CommonTest in Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/14ii6wc/getting_plugin_id_comandroidlibrary_version_742/)
 - [Why I get Unresolved reference: AddEditNoteScreen in the first file but didn&#39;t get it in the another file?](https://www.reddit.com/r/Kotlin/comments/14i7nl0/why_i_get_unresolved_reference_addeditnotescreen/)
 - [negative integer handling in programming languages](https://www.reddit.com/r/Kotlin/comments/14i4tci/negative_integer_handling_in_programming_languages/)
 - [Why does running &quot;kotlinc -version&quot; take like 2 seconds?](https://www.reddit.com/r/Kotlin/comments/14hvo0e/why_does_running_kotlinc_version_take_like_2/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin on VScode, intellij, or android studio?](https://www.reddit.com/r/Kotlin/comments/14h9jc2/kotlin_on_vscode_intellij_or_android_studio/)
 - [Introducing VertexAI-KT: Simplifying Integration with Google Cloud&#39;s Vertex AI PaLM API](https://www.reddit.com/r/Kotlin/comments/14h9htm/introducing_vertexaikt_simplifying_integration/)
 - [How do I find documentation for random libraries.](https://www.reddit.com/r/Kotlin/comments/14h3cj9/how_do_i_find_documentation_for_random_libraries/)
-- [Yak Shaving - Just trying to finish a thing](https://www.reddit.com/r/Kotlin/comments/14gt910/yak_shaving_just_trying_to_finish_a_thing/)
-- [Syntax &quot;!!&quot;](https://www.reddit.com/r/Kotlin/comments/14gr091/syntax/)
-- [Flow testing with Turbine](https://www.reddit.com/r/Kotlin/comments/14gj8la/flow_testing_with_turbine/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
