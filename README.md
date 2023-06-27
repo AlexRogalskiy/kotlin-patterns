@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🌟 Unleash Your Kotlin Superpowers with this Amazing Learning Repository! 🚀](https://www.reddit.com/r/Kotlin/comments/14jsgso/unleash_your_kotlin_superpowers_with_this_amazing/)
+- [Do you already use context receivers on prod?](https://www.reddit.com/r/Kotlin/comments/14jrrla/do_you_already_use_context_receivers_on_prod/)
+- [Kotlin beginner course question](https://www.reddit.com/r/Kotlin/comments/14jnlz3/kotlin_beginner_course_question/)
+- [Fix all invalid package directives](https://www.reddit.com/r/Kotlin/comments/14jj914/fix_all_invalid_package_directives/)
+- [Episode 8 of A Touch of Multiplatform premieres today! We&#39;ll be chatting to Manoel and Giancarlo from Sentry, covering topics like how their mobile SDK was developed at a Hackathon and how the community can improve their OSS project. Catch it here 👇](https://www.reddit.com/r/Kotlin/comments/14jgw3g/episode_8_of_a_touch_of_multiplatform_premieres/)
+- [Re-mind 🧠 | Compose Desktop Application that helps you revise DSA](https://www.reddit.com/r/Kotlin/comments/14jes6n/remind_compose_desktop_application_that_helps_you/)
+- [Do you have library recommend about definite integral&lpar;math&rpar;?](https://www.reddit.com/r/Kotlin/comments/14jb9ev/do_you_have_library_recommend_about_definite/)
+- [Meet kobweb a web frame framework for kotlin](https://www.reddit.com/r/Kotlin/comments/14j4nf1/meet_kobweb_a_web_frame_framework_for_kotlin/)
 - [Invitation to Learn Kotlin on GitHub!](https://www.reddit.com/r/Kotlin/comments/14iy5pa/invitation_to_learn_kotlin_on_github/)
 - [The Software Engineer Intuition | The Upside-Down Trees](https://www.reddit.com/r/Kotlin/comments/14ix8yk/the_software_engineer_intuition_the_upsidedown/)
-- [Getting &#39;Plugin [id: &#39;com.android.library&#39;, version: &#39;7.4.2&#39;] was not found in any of the following sources: &#39; error when trying to run Test in CommonTest in Kotlin Multiplatform Mobile](https://www.reddit.com/r/Kotlin/comments/14ii6wc/getting_plugin_id_comandroidlibrary_version_742/)
-- [Why I get Unresolved reference: AddEditNoteScreen in the first file but didn&#39;t get it in the another file?](https://www.reddit.com/r/Kotlin/comments/14i7nl0/why_i_get_unresolved_reference_addeditnotescreen/)
-- [negative integer handling in programming languages](https://www.reddit.com/r/Kotlin/comments/14i4tci/negative_integer_handling_in_programming_languages/)
-- [Why does running &quot;kotlinc -version&quot; take like 2 seconds?](https://www.reddit.com/r/Kotlin/comments/14hvo0e/why_does_running_kotlinc_version_take_like_2/)
-- [Kotlin for a desktop App](https://www.reddit.com/r/Kotlin/comments/14hc6v0/kotlin_for_a_desktop_app/)
-- [Kotlin on VScode, intellij, or android studio?](https://www.reddit.com/r/Kotlin/comments/14h9jc2/kotlin_on_vscode_intellij_or_android_studio/)
-- [Introducing VertexAI-KT: Simplifying Integration with Google Cloud&#39;s Vertex AI PaLM API](https://www.reddit.com/r/Kotlin/comments/14h9htm/introducing_vertexaikt_simplifying_integration/)
-- [How do I find documentation for random libraries.](https://www.reddit.com/r/Kotlin/comments/14h3cj9/how_do_i_find_documentation_for_random_libraries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
