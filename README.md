@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where can I find practice questions?](https://www.reddit.com/r/Kotlin/comments/14kj4dc/where_can_i_find_practice_questions/)
+- [Best practices for building a real-time Firebase mobile chat app with Kotlin?](https://www.reddit.com/r/Kotlin/comments/14kbf0o/best_practices_for_building_a_realtime_firebase/)
+- [I have some gradle build errors](https://www.reddit.com/r/Kotlin/comments/14k9be3/i_have_some_gradle_build_errors/)
+- [ktor testApplication confusion](https://www.reddit.com/r/Kotlin/comments/14k2czw/ktor_testapplication_confusion/)
 - [🌟 Unleash Your Kotlin Superpowers with this Amazing Learning Repository! 🚀](https://www.reddit.com/r/Kotlin/comments/14jsgso/unleash_your_kotlin_superpowers_with_this_amazing/)
 - [Do you already use context receivers on prod?](https://www.reddit.com/r/Kotlin/comments/14jrrla/do_you_already_use_context_receivers_on_prod/)
 - [Kotlin beginner course question](https://www.reddit.com/r/Kotlin/comments/14jnlz3/kotlin_beginner_course_question/)
 - [Fix all invalid package directives](https://www.reddit.com/r/Kotlin/comments/14jj914/fix_all_invalid_package_directives/)
 - [Episode 8 of A Touch of Multiplatform premieres today! We&#39;ll be chatting to Manoel and Giancarlo from Sentry, covering topics like how their mobile SDK was developed at a Hackathon and how the community can improve their OSS project. Catch it here 👇](https://www.reddit.com/r/Kotlin/comments/14jgw3g/episode_8_of_a_touch_of_multiplatform_premieres/)
 - [Re-mind 🧠 | Compose Desktop Application that helps you revise DSA](https://www.reddit.com/r/Kotlin/comments/14jes6n/remind_compose_desktop_application_that_helps_you/)
-- [Do you have library recommend about definite integral&lpar;math&rpar;?](https://www.reddit.com/r/Kotlin/comments/14jb9ev/do_you_have_library_recommend_about_definite/)
-- [Meet kobweb a web frame framework for kotlin](https://www.reddit.com/r/Kotlin/comments/14j4nf1/meet_kobweb_a_web_frame_framework_for_kotlin/)
-- [Invitation to Learn Kotlin on GitHub!](https://www.reddit.com/r/Kotlin/comments/14iy5pa/invitation_to_learn_kotlin_on_github/)
-- [The Software Engineer Intuition | The Upside-Down Trees](https://www.reddit.com/r/Kotlin/comments/14ix8yk/the_software_engineer_intuition_the_upsidedown/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
