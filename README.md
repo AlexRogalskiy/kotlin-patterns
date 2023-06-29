@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [warnings as errors in multiplatform](https://www.reddit.com/r/Kotlin/comments/14l9tww/warnings_as_errors_in_multiplatform/)
+- [Why my viewmodel does not survive configuration changes?](https://www.reddit.com/r/Kotlin/comments/14l97qh/why_my_viewmodel_does_not_survive_configuration/)
 - [Where can I find practice questions?](https://www.reddit.com/r/Kotlin/comments/14kj4dc/where_can_i_find_practice_questions/)
 - [Best practices for building a real-time Firebase mobile chat app with Kotlin?](https://www.reddit.com/r/Kotlin/comments/14kbf0o/best_practices_for_building_a_realtime_firebase/)
 - [I have some gradle build errors](https://www.reddit.com/r/Kotlin/comments/14k9be3/i_have_some_gradle_build_errors/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Do you already use context receivers on prod?](https://www.reddit.com/r/Kotlin/comments/14jrrla/do_you_already_use_context_receivers_on_prod/)
 - [Kotlin beginner course question](https://www.reddit.com/r/Kotlin/comments/14jnlz3/kotlin_beginner_course_question/)
 - [Fix all invalid package directives](https://www.reddit.com/r/Kotlin/comments/14jj914/fix_all_invalid_package_directives/)
-- [Episode 8 of A Touch of Multiplatform premieres today! We&#39;ll be chatting to Manoel and Giancarlo from Sentry, covering topics like how their mobile SDK was developed at a Hackathon and how the community can improve their OSS project. Catch it here 👇](https://www.reddit.com/r/Kotlin/comments/14jgw3g/episode_8_of_a_touch_of_multiplatform_premieres/)
-- [Re-mind 🧠 | Compose Desktop Application that helps you revise DSA](https://www.reddit.com/r/Kotlin/comments/14jes6n/remind_compose_desktop_application_that_helps_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
