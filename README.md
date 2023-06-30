@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How come you can add a string + double but not the other way around?](https://www.reddit.com/r/Kotlin/comments/14m0wmg/how_come_you_can_add_a_string_double_but_not_the/)
+- [Java &amp; Kotlin Open Source Hidden Gems, June 2023: LLMs Edition](https://www.reddit.com/r/Kotlin/comments/14lvj2j/java_kotlin_open_source_hidden_gems_june_2023/)
 - [warnings as errors in multiplatform](https://www.reddit.com/r/Kotlin/comments/14l9tww/warnings_as_errors_in_multiplatform/)
 - [Why my viewmodel does not survive configuration changes?](https://www.reddit.com/r/Kotlin/comments/14l97qh/why_my_viewmodel_does_not_survive_configuration/)
 - [Where can I find practice questions?](https://www.reddit.com/r/Kotlin/comments/14kj4dc/where_can_i_find_practice_questions/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [ktor testApplication confusion](https://www.reddit.com/r/Kotlin/comments/14k2czw/ktor_testapplication_confusion/)
 - [🌟 Unleash Your Kotlin Superpowers with this Amazing Learning Repository! 🚀](https://www.reddit.com/r/Kotlin/comments/14jsgso/unleash_your_kotlin_superpowers_with_this_amazing/)
 - [Do you already use context receivers on prod?](https://www.reddit.com/r/Kotlin/comments/14jrrla/do_you_already_use_context_receivers_on_prod/)
-- [Kotlin beginner course question](https://www.reddit.com/r/Kotlin/comments/14jnlz3/kotlin_beginner_course_question/)
-- [Fix all invalid package directives](https://www.reddit.com/r/Kotlin/comments/14jj914/fix_all_invalid_package_directives/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
