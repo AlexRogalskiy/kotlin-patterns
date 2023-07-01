@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How good is Compose Multiplatform in production especially in creating Desktop apps?](https://www.reddit.com/r/Kotlin/comments/14n4yxg/how_good_is_compose_multiplatform_in_production/)
+- [How to add vertical or horizontal scrollbars on LazyColumn or LazyRow, if there dimensions were set by weight Property.](https://www.reddit.com/r/Kotlin/comments/14n0rwf/how_to_add_vertical_or_horizontal_scrollbars_on/)
+- [How to create Tables in jetbrains compose for desktop similar to the Bootstrap one in Web?](https://www.reddit.com/r/Kotlin/comments/14n0qyj/how_to_create_tables_in_jetbrains_compose_for/)
+- [How can we prevent NoSuchElementException from happening?](https://www.reddit.com/r/Kotlin/comments/14mvqml/how_can_we_prevent_nosuchelementexception_from/)
+- [First Look at JetBrains AI Assistant](https://www.reddit.com/r/Kotlin/comments/14mttgh/first_look_at_jetbrains_ai_assistant/)
 - [How come you can add a string + double but not the other way around?](https://www.reddit.com/r/Kotlin/comments/14m0wmg/how_come_you_can_add_a_string_double_but_not_the/)
 - [Java &amp; Kotlin Open Source Hidden Gems, June 2023: LLMs Edition](https://www.reddit.com/r/Kotlin/comments/14lvj2j/java_kotlin_open_source_hidden_gems_june_2023/)
 - [warnings as errors in multiplatform](https://www.reddit.com/r/Kotlin/comments/14l9tww/warnings_as_errors_in_multiplatform/)
 - [Why my viewmodel does not survive configuration changes?](https://www.reddit.com/r/Kotlin/comments/14l97qh/why_my_viewmodel_does_not_survive_configuration/)
 - [Where can I find practice questions?](https://www.reddit.com/r/Kotlin/comments/14kj4dc/where_can_i_find_practice_questions/)
-- [Best practices for building a real-time Firebase mobile chat app with Kotlin?](https://www.reddit.com/r/Kotlin/comments/14kbf0o/best_practices_for_building_a_realtime_firebase/)
-- [I have some gradle build errors](https://www.reddit.com/r/Kotlin/comments/14k9be3/i_have_some_gradle_build_errors/)
-- [ktor testApplication confusion](https://www.reddit.com/r/Kotlin/comments/14k2czw/ktor_testapplication_confusion/)
-- [🌟 Unleash Your Kotlin Superpowers with this Amazing Learning Repository! 🚀](https://www.reddit.com/r/Kotlin/comments/14jsgso/unleash_your_kotlin_superpowers_with_this_amazing/)
-- [Do you already use context receivers on prod?](https://www.reddit.com/r/Kotlin/comments/14jrrla/do_you_already_use_context_receivers_on_prod/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
