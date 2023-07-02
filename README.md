@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How would I serialize a JSON primitive to a class?](https://www.reddit.com/r/Kotlin/comments/14nztnf/how_would_i_serialize_a_json_primitive_to_a_class/)
+- [Should I learn Java before Kotlin?](https://www.reddit.com/r/Kotlin/comments/14nxq1r/should_i_learn_java_before_kotlin/)
+- [Introducing Snitch: A Lightweight, Typesafe Web Framework for Kotlin](https://www.reddit.com/r/Kotlin/comments/14nrc4z/introducing_snitch_a_lightweight_typesafe_web/)
+- [Spells as Code - a typesafe skill system](https://www.reddit.com/r/Kotlin/comments/14nosfx/spells_as_code_a_typesafe_skill_system/)
+- [Kotlin/Wasm in the browser and beyond &lpar;server, edge&rpar;](https://www.reddit.com/r/Kotlin/comments/14no6i3/kotlinwasm_in_the_browser_and_beyond_server_edge/)
 - [How good is Compose Multiplatform in production especially in creating Desktop apps?](https://www.reddit.com/r/Kotlin/comments/14n4yxg/how_good_is_compose_multiplatform_in_production/)
 - [How to add vertical or horizontal scrollbars on LazyColumn or LazyRow, if there dimensions were set by weight Property.](https://www.reddit.com/r/Kotlin/comments/14n0rwf/how_to_add_vertical_or_horizontal_scrollbars_on/)
 - [How to create Tables in jetbrains compose for desktop similar to the Bootstrap one in Web?](https://www.reddit.com/r/Kotlin/comments/14n0qyj/how_to_create_tables_in_jetbrains_compose_for/)
 - [How can we prevent NoSuchElementException from happening?](https://www.reddit.com/r/Kotlin/comments/14mvqml/how_can_we_prevent_nosuchelementexception_from/)
 - [First Look at JetBrains AI Assistant](https://www.reddit.com/r/Kotlin/comments/14mttgh/first_look_at_jetbrains_ai_assistant/)
-- [How come you can add a string + double but not the other way around?](https://www.reddit.com/r/Kotlin/comments/14m0wmg/how_come_you_can_add_a_string_double_but_not_the/)
-- [Java &amp; Kotlin Open Source Hidden Gems, June 2023: LLMs Edition](https://www.reddit.com/r/Kotlin/comments/14lvj2j/java_kotlin_open_source_hidden_gems_june_2023/)
-- [warnings as errors in multiplatform](https://www.reddit.com/r/Kotlin/comments/14l9tww/warnings_as_errors_in_multiplatform/)
-- [Why my viewmodel does not survive configuration changes?](https://www.reddit.com/r/Kotlin/comments/14l97qh/why_my_viewmodel_does_not_survive_configuration/)
-- [Where can I find practice questions?](https://www.reddit.com/r/Kotlin/comments/14kj4dc/where_can_i_find_practice_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
