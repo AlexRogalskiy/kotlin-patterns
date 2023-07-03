@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&#39;m a complete beginner! How do I get started with Kotlin?](https://www.reddit.com/r/Kotlin/comments/14oufch/im_a_complete_beginner_how_do_i_get_started_with/)
+- [Can&#39;t figure our how to fix the gradle error](https://www.reddit.com/r/Kotlin/comments/14oiu6e/cant_figure_our_how_to_fix_the_gradle_error/)
 - [How would I serialize a JSON primitive to a class?](https://www.reddit.com/r/Kotlin/comments/14nztnf/how_would_i_serialize_a_json_primitive_to_a_class/)
 - [Should I learn Java before Kotlin?](https://www.reddit.com/r/Kotlin/comments/14nxq1r/should_i_learn_java_before_kotlin/)
 - [Introducing Snitch: A Lightweight, Typesafe Web Framework for Kotlin](https://www.reddit.com/r/Kotlin/comments/14nrc4z/introducing_snitch_a_lightweight_typesafe_web/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How good is Compose Multiplatform in production especially in creating Desktop apps?](https://www.reddit.com/r/Kotlin/comments/14n4yxg/how_good_is_compose_multiplatform_in_production/)
 - [How to add vertical or horizontal scrollbars on LazyColumn or LazyRow, if there dimensions were set by weight Property.](https://www.reddit.com/r/Kotlin/comments/14n0rwf/how_to_add_vertical_or_horizontal_scrollbars_on/)
 - [How to create Tables in jetbrains compose for desktop similar to the Bootstrap one in Web?](https://www.reddit.com/r/Kotlin/comments/14n0qyj/how_to_create_tables_in_jetbrains_compose_for/)
-- [How can we prevent NoSuchElementException from happening?](https://www.reddit.com/r/Kotlin/comments/14mvqml/how_can_we_prevent_nosuchelementexception_from/)
-- [First Look at JetBrains AI Assistant](https://www.reddit.com/r/Kotlin/comments/14mttgh/first_look_at_jetbrains_ai_assistant/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
