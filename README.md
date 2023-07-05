@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Notebooks are really useful in our project. Recommend you take a look!](https://www.reddit.com/r/Kotlin/comments/14qm1xb/kotlin_notebooks_are_really_useful_in_our_project/)
+- [Ostara 0.11.0 released: F/OSS admin app for Spring Boot with Actuator API](https://www.reddit.com/r/Kotlin/comments/14qef78/ostara_0110_released_foss_admin_app_for_spring/)
+- [JavaScript or Kotlin.](https://www.reddit.com/r/Kotlin/comments/14qcmry/javascript_or_kotlin/)
+- [Websites, courses or platforms in Russian for learning Kotlin](https://www.reddit.com/r/Kotlin/comments/14qcari/websites_courses_or_platforms_in_russian_for/)
+- [WebCalm - free JavaScript and CSS support for JetBrains IDEs](https://www.reddit.com/r/Kotlin/comments/14q94re/webcalm_free_javascript_and_css_support_for/)
+- [Testing Framework](https://www.reddit.com/r/Kotlin/comments/14q4y80/testing_framework/)
+- [Beginner Question: Could someone break this code for me?](https://www.reddit.com/r/Kotlin/comments/14q2a5q/beginner_question_could_someone_break_this_code/)
 - [I&#39;m a complete beginner! How do I get started with Kotlin?](https://www.reddit.com/r/Kotlin/comments/14oufch/im_a_complete_beginner_how_do_i_get_started_with/)
 - [Can&#39;t figure our how to fix the gradle error](https://www.reddit.com/r/Kotlin/comments/14oiu6e/cant_figure_our_how_to_fix_the_gradle_error/)
 - [How would I serialize a JSON primitive to a class?](https://www.reddit.com/r/Kotlin/comments/14nztnf/how_would_i_serialize_a_json_primitive_to_a_class/)
-- [Should I learn Java before Kotlin?](https://www.reddit.com/r/Kotlin/comments/14nxq1r/should_i_learn_java_before_kotlin/)
-- [Introducing Snitch: A Lightweight, Typesafe Web Framework for Kotlin](https://www.reddit.com/r/Kotlin/comments/14nrc4z/introducing_snitch_a_lightweight_typesafe_web/)
-- [Spells as Code - a typesafe skill system](https://www.reddit.com/r/Kotlin/comments/14nosfx/spells_as_code_a_typesafe_skill_system/)
-- [Kotlin/Wasm in the browser and beyond &lpar;server, edge&rpar;](https://www.reddit.com/r/Kotlin/comments/14no6i3/kotlinwasm_in_the_browser_and_beyond_server_edge/)
-- [How good is Compose Multiplatform in production especially in creating Desktop apps?](https://www.reddit.com/r/Kotlin/comments/14n4yxg/how_good_is_compose_multiplatform_in_production/)
-- [How to add vertical or horizontal scrollbars on LazyColumn or LazyRow, if there dimensions were set by weight Property.](https://www.reddit.com/r/Kotlin/comments/14n0rwf/how_to_add_vertical_or_horizontal_scrollbars_on/)
-- [How to create Tables in jetbrains compose for desktop similar to the Bootstrap one in Web?](https://www.reddit.com/r/Kotlin/comments/14n0qyj/how_to_create_tables_in_jetbrains_compose_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
