@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using Eithers from the Arrow library, and not really sure the best way to accomplish this.](https://www.reddit.com/r/Kotlin/comments/14ru6ba/using_eithers_from_the_arrow_library_and_not/)
+- [Idea vs eclipse vs vscode](https://www.reddit.com/r/Kotlin/comments/14rf16a/idea_vs_eclipse_vs_vscode/)
+- [Kotlin Foundation Announces Grants Program Winners](https://www.reddit.com/r/Kotlin/comments/14r9gpn/kotlin_foundation_announces_grants_program_winners/)
+- [Resource to Start Kotlin for Mobile App Development](https://www.reddit.com/r/Kotlin/comments/14r42hq/resource_to_start_kotlin_for_mobile_app/)
+- [I know C#, I know Kotlin. What can I expect from applying to Java dev position? Is it hard to transfer those 2 languages to Java?](https://www.reddit.com/r/Kotlin/comments/14r0zq0/i_know_c_i_know_kotlin_what_can_i_expect_from/)
 - [Kotlin Notebooks are really useful in our project. Recommend you take a look!](https://www.reddit.com/r/Kotlin/comments/14qm1xb/kotlin_notebooks_are_really_useful_in_our_project/)
 - [Ostara 0.11.0 released: F/OSS admin app for Spring Boot with Actuator API](https://www.reddit.com/r/Kotlin/comments/14qef78/ostara_0110_released_foss_admin_app_for_spring/)
 - [JavaScript or Kotlin.](https://www.reddit.com/r/Kotlin/comments/14qcmry/javascript_or_kotlin/)
 - [Websites, courses or platforms in Russian for learning Kotlin](https://www.reddit.com/r/Kotlin/comments/14qcari/websites_courses_or_platforms_in_russian_for/)
 - [WebCalm - free JavaScript and CSS support for JetBrains IDEs](https://www.reddit.com/r/Kotlin/comments/14q94re/webcalm_free_javascript_and_css_support_for/)
-- [Testing Framework](https://www.reddit.com/r/Kotlin/comments/14q4y80/testing_framework/)
-- [Beginner Question: Could someone break this code for me?](https://www.reddit.com/r/Kotlin/comments/14q2a5q/beginner_question_could_someone_break_this_code/)
-- [I&#39;m a complete beginner! How do I get started with Kotlin?](https://www.reddit.com/r/Kotlin/comments/14oufch/im_a_complete_beginner_how_do_i_get_started_with/)
-- [Can&#39;t figure our how to fix the gradle error](https://www.reddit.com/r/Kotlin/comments/14oiu6e/cant_figure_our_how_to_fix_the_gradle_error/)
-- [How would I serialize a JSON primitive to a class?](https://www.reddit.com/r/Kotlin/comments/14nztnf/how_would_i_serialize_a_json_primitive_to_a_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
