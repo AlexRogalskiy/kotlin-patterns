@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin 1.9.0 Released](https://www.reddit.com/r/Kotlin/comments/14scipg/kotlin_190_released/)
+- [Sites, courses or other resources for learning Kotlin in Russian](https://www.reddit.com/r/Kotlin/comments/14s5ihg/sites_courses_or_other_resources_for_learning/)
+- [Please help pro coders](https://www.reddit.com/r/Kotlin/comments/14s1txg/please_help_pro_coders/)
+- [How to fix this?](https://www.reddit.com/r/Kotlin/comments/14rz2vp/how_to_fix_this/)
+- [Sites, books or platforms for learning Kotlin](https://www.reddit.com/r/Kotlin/comments/14rxo6n/sites_books_or_platforms_for_learning_kotlin/)
+- [Native UI and multiplatform Compose with Redwood](https://www.reddit.com/r/Kotlin/comments/14rvg6i/native_ui_and_multiplatform_compose_with_redwood/)
 - [Using Eithers from the Arrow library, and not really sure the best way to accomplish this.](https://www.reddit.com/r/Kotlin/comments/14ru6ba/using_eithers_from_the_arrow_library_and_not/)
 - [Idea vs eclipse vs vscode](https://www.reddit.com/r/Kotlin/comments/14rf16a/idea_vs_eclipse_vs_vscode/)
 - [Kotlin Foundation Announces Grants Program Winners](https://www.reddit.com/r/Kotlin/comments/14r9gpn/kotlin_foundation_announces_grants_program_winners/)
 - [Resource to Start Kotlin for Mobile App Development](https://www.reddit.com/r/Kotlin/comments/14r42hq/resource_to_start_kotlin_for_mobile_app/)
-- [I know C#, I know Kotlin. What can I expect from applying to Java dev position? Is it hard to transfer those 2 languages to Java?](https://www.reddit.com/r/Kotlin/comments/14r0zq0/i_know_c_i_know_kotlin_what_can_i_expect_from/)
-- [Kotlin Notebooks are really useful in our project. Recommend you take a look!](https://www.reddit.com/r/Kotlin/comments/14qm1xb/kotlin_notebooks_are_really_useful_in_our_project/)
-- [Ostara 0.11.0 released: F/OSS admin app for Spring Boot with Actuator API](https://www.reddit.com/r/Kotlin/comments/14qef78/ostara_0110_released_foss_admin_app_for_spring/)
-- [JavaScript or Kotlin.](https://www.reddit.com/r/Kotlin/comments/14qcmry/javascript_or_kotlin/)
-- [Websites, courses or platforms in Russian for learning Kotlin](https://www.reddit.com/r/Kotlin/comments/14qcari/websites_courses_or_platforms_in_russian_for/)
-- [WebCalm - free JavaScript and CSS support for JetBrains IDEs](https://www.reddit.com/r/Kotlin/comments/14q94re/webcalm_free_javascript_and_css_support_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
