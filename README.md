@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [®️](https://www.reddit.com/r/Kotlin/comments/14tgz3f/_/)
+- [Wow! Refactoring with JetBrains AI Assistant](https://www.reddit.com/r/Kotlin/comments/14t0lwf/wow_refactoring_with_jetbrains_ai_assistant/)
 - [Kotlin 1.9.0 Released](https://www.reddit.com/r/Kotlin/comments/14scipg/kotlin_190_released/)
 - [Sites, courses or other resources for learning Kotlin in Russian](https://www.reddit.com/r/Kotlin/comments/14s5ihg/sites_courses_or_other_resources_for_learning/)
 - [Please help pro coders](https://www.reddit.com/r/Kotlin/comments/14s1txg/please_help_pro_coders/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Native UI and multiplatform Compose with Redwood](https://www.reddit.com/r/Kotlin/comments/14rvg6i/native_ui_and_multiplatform_compose_with_redwood/)
 - [Using Eithers from the Arrow library, and not really sure the best way to accomplish this.](https://www.reddit.com/r/Kotlin/comments/14ru6ba/using_eithers_from_the_arrow_library_and_not/)
 - [Idea vs eclipse vs vscode](https://www.reddit.com/r/Kotlin/comments/14rf16a/idea_vs_eclipse_vs_vscode/)
-- [Kotlin Foundation Announces Grants Program Winners](https://www.reddit.com/r/Kotlin/comments/14r9gpn/kotlin_foundation_announces_grants_program_winners/)
-- [Resource to Start Kotlin for Mobile App Development](https://www.reddit.com/r/Kotlin/comments/14r42hq/resource_to_start_kotlin_for_mobile_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
