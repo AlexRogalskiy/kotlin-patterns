@@ -272,7 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [®️](https://www.reddit.com/r/Kotlin/comments/14tgz3f/_/)
+- [Do you use Kotlin for Web Frontend?](https://www.reddit.com/r/Kotlin/comments/14ueul6/do_you_use_kotlin_for_web_frontend/)
+- [How to unit test and mock Extension Properties](https://www.reddit.com/r/Kotlin/comments/14ud831/how_to_unit_test_and_mock_extension_properties/)
 - [Wow! Refactoring with JetBrains AI Assistant](https://www.reddit.com/r/Kotlin/comments/14t0lwf/wow_refactoring_with_jetbrains_ai_assistant/)
 - [Kotlin 1.9.0 Released](https://www.reddit.com/r/Kotlin/comments/14scipg/kotlin_190_released/)
 - [Sites, courses or other resources for learning Kotlin in Russian](https://www.reddit.com/r/Kotlin/comments/14s5ihg/sites_courses_or_other_resources_for_learning/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Sites, books or platforms for learning Kotlin](https://www.reddit.com/r/Kotlin/comments/14rxo6n/sites_books_or_platforms_for_learning_kotlin/)
 - [Native UI and multiplatform Compose with Redwood](https://www.reddit.com/r/Kotlin/comments/14rvg6i/native_ui_and_multiplatform_compose_with_redwood/)
 - [Using Eithers from the Arrow library, and not really sure the best way to accomplish this.](https://www.reddit.com/r/Kotlin/comments/14ru6ba/using_eithers_from_the_arrow_library_and_not/)
-- [Idea vs eclipse vs vscode](https://www.reddit.com/r/Kotlin/comments/14rf16a/idea_vs_eclipse_vs_vscode/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
