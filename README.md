@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MonoSketch v1.3 came out with a new feature and an improvement](https://www.reddit.com/r/Kotlin/comments/14vgls1/monosketch_v13_came_out_with_a_new_feature_and_an/)
+- [🦊 Kotlin 1.9.0: K2 Beta, 10 Times Smaller Basic WebAssembly Build](https://www.reddit.com/r/Kotlin/comments/14vbslc/kotlin_190_k2_beta_10_times_smaller_basic/)
+- [What&#39;s the best/easiest way to deploy a Kotlin Application?](https://www.reddit.com/r/Kotlin/comments/14v1eul/whats_the_besteasiest_way_to_deploy_a_kotlin/)
+- [I made a JetBrains plugin to manage etcd](https://www.reddit.com/r/Kotlin/comments/14uyfv6/i_made_a_jetbrains_plugin_to_manage_etcd/)
+- [Are you considering migrating back to java?](https://www.reddit.com/r/Kotlin/comments/14utjnp/are_you_considering_migrating_back_to_java/)
 - [Do you use Kotlin for Web Frontend?](https://www.reddit.com/r/Kotlin/comments/14ueul6/do_you_use_kotlin_for_web_frontend/)
 - [How to unit test and mock Extension Properties](https://www.reddit.com/r/Kotlin/comments/14ud831/how_to_unit_test_and_mock_extension_properties/)
 - [Wow! Refactoring with JetBrains AI Assistant](https://www.reddit.com/r/Kotlin/comments/14t0lwf/wow_refactoring_with_jetbrains_ai_assistant/)
 - [Kotlin 1.9.0 Released](https://www.reddit.com/r/Kotlin/comments/14scipg/kotlin_190_released/)
 - [Sites, courses or other resources for learning Kotlin in Russian](https://www.reddit.com/r/Kotlin/comments/14s5ihg/sites_courses_or_other_resources_for_learning/)
-- [Please help pro coders](https://www.reddit.com/r/Kotlin/comments/14s1txg/please_help_pro_coders/)
-- [How to fix this?](https://www.reddit.com/r/Kotlin/comments/14rz2vp/how_to_fix_this/)
-- [Sites, books or platforms for learning Kotlin](https://www.reddit.com/r/Kotlin/comments/14rxo6n/sites_books_or_platforms_for_learning_kotlin/)
-- [Native UI and multiplatform Compose with Redwood](https://www.reddit.com/r/Kotlin/comments/14rvg6i/native_ui_and_multiplatform_compose_with_redwood/)
-- [Using Eithers from the Arrow library, and not really sure the best way to accomplish this.](https://www.reddit.com/r/Kotlin/comments/14ru6ba/using_eithers_from_the_arrow_library_and_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
