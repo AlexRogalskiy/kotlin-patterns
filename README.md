@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Immutable lists, O&lpar;1&rpar; prepend/append](https://www.reddit.com/r/Kotlin/comments/14wdhj0/immutable_lists_o1_prependappend/)
+- [Are We Out of Luck for Rich Text Editing?](https://www.reddit.com/r/Kotlin/comments/14w1lvs/are_we_out_of_luck_for_rich_text_editing/)
+- [I created a library for parsing text in Kotlin. Better than regular expressions. What do you think?](https://www.reddit.com/r/Kotlin/comments/14vvic7/i_created_a_library_for_parsing_text_in_kotlin/)
+- [Using function vs Classes](https://www.reddit.com/r/Kotlin/comments/14vmgbf/using_function_vs_classes/)
+- [Kotlin 1.9.0 - Why you should use entries instead of values&lpar;&rpar; enum method?](https://www.reddit.com/r/Kotlin/comments/14vmbe4/kotlin_190_why_you_should_use_entries_instead_of/)
 - [MonoSketch v1.3 came out with a new feature and an improvement](https://www.reddit.com/r/Kotlin/comments/14vgls1/monosketch_v13_came_out_with_a_new_feature_and_an/)
 - [🦊 Kotlin 1.9.0: K2 Beta, 10 Times Smaller Basic WebAssembly Build](https://www.reddit.com/r/Kotlin/comments/14vbslc/kotlin_190_k2_beta_10_times_smaller_basic/)
 - [What&#39;s the best/easiest way to deploy a Kotlin Application?](https://www.reddit.com/r/Kotlin/comments/14v1eul/whats_the_besteasiest_way_to_deploy_a_kotlin/)
 - [I made a JetBrains plugin to manage etcd](https://www.reddit.com/r/Kotlin/comments/14uyfv6/i_made_a_jetbrains_plugin_to_manage_etcd/)
 - [Are you considering migrating back to java?](https://www.reddit.com/r/Kotlin/comments/14utjnp/are_you_considering_migrating_back_to_java/)
-- [Do you use Kotlin for Web Frontend?](https://www.reddit.com/r/Kotlin/comments/14ueul6/do_you_use_kotlin_for_web_frontend/)
-- [How to unit test and mock Extension Properties](https://www.reddit.com/r/Kotlin/comments/14ud831/how_to_unit_test_and_mock_extension_properties/)
-- [Wow! Refactoring with JetBrains AI Assistant](https://www.reddit.com/r/Kotlin/comments/14t0lwf/wow_refactoring_with_jetbrains_ai_assistant/)
-- [Kotlin 1.9.0 Released](https://www.reddit.com/r/Kotlin/comments/14scipg/kotlin_190_released/)
-- [Sites, courses or other resources for learning Kotlin in Russian](https://www.reddit.com/r/Kotlin/comments/14s5ihg/sites_courses_or_other_resources_for_learning/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
