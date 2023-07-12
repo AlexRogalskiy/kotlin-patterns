@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why we like Kotlin :&rpar;](https://www.reddit.com/r/Kotlin/comments/14x4pz6/why_we_like_kotlin/)
+- [Wellcome to contribute my multi-platform 3d map engine](https://www.reddit.com/r/Kotlin/comments/14x4gsn/wellcome_to_contribute_my_multiplatform_3d_map/)
+- [Java collction APIs and kotlin collections](https://www.reddit.com/r/Kotlin/comments/14x2dgt/java_collction_apis_and_kotlin_collections/)
+- [Kotlin Context Receivers - How to Use, Why, and Best Practice](https://www.reddit.com/r/Kotlin/comments/14wrisi/kotlin_context_receivers_how_to_use_why_and_best/)
+- [Kotlin will take over everything for sure.](https://www.reddit.com/r/Kotlin/comments/14wr7k9/kotlin_will_take_over_everything_for_sure/)
+- [Kotlin article review](https://www.reddit.com/r/Kotlin/comments/14wn9w7/kotlin_article_review/)
 - [Immutable lists, O&lpar;1&rpar; prepend/append](https://www.reddit.com/r/Kotlin/comments/14wdhj0/immutable_lists_o1_prependappend/)
 - [Are We Out of Luck for Rich Text Editing?](https://www.reddit.com/r/Kotlin/comments/14w1lvs/are_we_out_of_luck_for_rich_text_editing/)
 - [I created a library for parsing text in Kotlin. Better than regular expressions. What do you think?](https://www.reddit.com/r/Kotlin/comments/14vvic7/i_created_a_library_for_parsing_text_in_kotlin/)
 - [Using function vs Classes](https://www.reddit.com/r/Kotlin/comments/14vmgbf/using_function_vs_classes/)
-- [Kotlin 1.9.0 - Why you should use entries instead of values&lpar;&rpar; enum method?](https://www.reddit.com/r/Kotlin/comments/14vmbe4/kotlin_190_why_you_should_use_entries_instead_of/)
-- [MonoSketch v1.3 came out with a new feature and an improvement](https://www.reddit.com/r/Kotlin/comments/14vgls1/monosketch_v13_came_out_with_a_new_feature_and_an/)
-- [🦊 Kotlin 1.9.0: K2 Beta, 10 Times Smaller Basic WebAssembly Build](https://www.reddit.com/r/Kotlin/comments/14vbslc/kotlin_190_k2_beta_10_times_smaller_basic/)
-- [What&#39;s the best/easiest way to deploy a Kotlin Application?](https://www.reddit.com/r/Kotlin/comments/14v1eul/whats_the_besteasiest_way_to_deploy_a_kotlin/)
-- [I made a JetBrains plugin to manage etcd](https://www.reddit.com/r/Kotlin/comments/14uyfv6/i_made_a_jetbrains_plugin_to_manage_etcd/)
-- [Are you considering migrating back to java?](https://www.reddit.com/r/Kotlin/comments/14utjnp/are_you_considering_migrating_back_to_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
