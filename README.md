@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a more kotlin-esque way to write this?](https://www.reddit.com/r/Kotlin/comments/14xzvlu/is_there_a_more_kotlinesque_way_to_write_this/)
+- [Kotlin 1.9 compatibility with Compose](https://www.reddit.com/r/Kotlin/comments/14xzgd6/kotlin_19_compatibility_with_compose/)
+- [The Great Kotlin Week: 1.9, Notebook, MongoDB Driver and support for education - JVM Weekly vol. 50](https://www.reddit.com/r/Kotlin/comments/14xn3s9/the_great_kotlin_week_19_notebook_mongodb_driver/)
+- [What is Jetbrains team preparing for KMP?](https://www.reddit.com/r/Kotlin/comments/14xlqec/what_is_jetbrains_team_preparing_for_kmp/)
+- [Learn kotlin](https://www.reddit.com/r/Kotlin/comments/14xl6sc/learn_kotlin/)
+- [How to convert this to Kotlin?](https://www.reddit.com/r/Kotlin/comments/14xi9w6/how_to_convert_this_to_kotlin/)
+- [I completely rewrite android developers code but when I try to run it it doesn’t work&lpar;I watch philipp lackner&rpar;](https://www.reddit.com/r/Kotlin/comments/14xhhmw/i_completely_rewrite_android_developers_code_but/)
+- [Help needed](https://www.reddit.com/r/Kotlin/comments/14xgtyg/help_needed/)
 - [Why we like Kotlin :&rpar;](https://www.reddit.com/r/Kotlin/comments/14x4pz6/why_we_like_kotlin/)
 - [Wellcome to contribute my multi-platform 3d map engine](https://www.reddit.com/r/Kotlin/comments/14x4gsn/wellcome_to_contribute_my_multiplatform_3d_map/)
-- [Java collction APIs and kotlin collections](https://www.reddit.com/r/Kotlin/comments/14x2dgt/java_collction_apis_and_kotlin_collections/)
-- [Kotlin Context Receivers - How to Use, Why, and Best Practice](https://www.reddit.com/r/Kotlin/comments/14wrisi/kotlin_context_receivers_how_to_use_why_and_best/)
-- [Kotlin will take over everything for sure.](https://www.reddit.com/r/Kotlin/comments/14wr7k9/kotlin_will_take_over_everything_for_sure/)
-- [Kotlin article review](https://www.reddit.com/r/Kotlin/comments/14wn9w7/kotlin_article_review/)
-- [Immutable lists, O&lpar;1&rpar; prepend/append](https://www.reddit.com/r/Kotlin/comments/14wdhj0/immutable_lists_o1_prependappend/)
-- [Are We Out of Luck for Rich Text Editing?](https://www.reddit.com/r/Kotlin/comments/14w1lvs/are_we_out_of_luck_for_rich_text_editing/)
-- [I created a library for parsing text in Kotlin. Better than regular expressions. What do you think?](https://www.reddit.com/r/Kotlin/comments/14vvic7/i_created_a_library_for_parsing_text_in_kotlin/)
-- [Using function vs Classes](https://www.reddit.com/r/Kotlin/comments/14vmgbf/using_function_vs_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
