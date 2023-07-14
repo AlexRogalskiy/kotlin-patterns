@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Multiplatform image loading: Coil 3.0](https://www.reddit.com/r/Kotlin/comments/14z02nr/multiplatform_image_loading_coil_30/)
+- [Kotlin compiler hangs when missing a constructor param](https://www.reddit.com/r/Kotlin/comments/14yvmmz/kotlin_compiler_hangs_when_missing_a_constructor/)
+- [Kotlin/Native: make it work with linker changes in Xcode 15 beta 3/4?](https://www.reddit.com/r/Kotlin/comments/14yvbtx/kotlinnative_make_it_work_with_linker_changes_in/)
+- [How to use a list as a parameter of a function?](https://www.reddit.com/r/Kotlin/comments/14yv5eg/how_to_use_a_list_as_a_parameter_of_a_function/)
+- [Difference in efficiency between objects and functions](https://www.reddit.com/r/Kotlin/comments/14ypcmy/difference_in_efficiency_between_objects_and/)
+- [Starting with Kotlin Cheatsheet](https://www.reddit.com/r/Kotlin/comments/14ylufp/starting_with_kotlin_cheatsheet/)
+- [Kotlin Roadmap &lpar;July 2023 update&rpar;](https://www.reddit.com/r/Kotlin/comments/14yhozl/kotlin_roadmap_july_2023_update/)
 - [Is there a more kotlin-esque way to write this?](https://www.reddit.com/r/Kotlin/comments/14xzvlu/is_there_a_more_kotlinesque_way_to_write_this/)
 - [Kotlin 1.9 compatibility with Compose](https://www.reddit.com/r/Kotlin/comments/14xzgd6/kotlin_19_compatibility_with_compose/)
 - [The Great Kotlin Week: 1.9, Notebook, MongoDB Driver and support for education - JVM Weekly vol. 50](https://www.reddit.com/r/Kotlin/comments/14xn3s9/the_great_kotlin_week_19_notebook_mongodb_driver/)
-- [What is Jetbrains team preparing for KMP?](https://www.reddit.com/r/Kotlin/comments/14xlqec/what_is_jetbrains_team_preparing_for_kmp/)
-- [Learn kotlin](https://www.reddit.com/r/Kotlin/comments/14xl6sc/learn_kotlin/)
-- [How to convert this to Kotlin?](https://www.reddit.com/r/Kotlin/comments/14xi9w6/how_to_convert_this_to_kotlin/)
-- [I completely rewrite android developers code but when I try to run it it doesn’t work&lpar;I watch philipp lackner&rpar;](https://www.reddit.com/r/Kotlin/comments/14xhhmw/i_completely_rewrite_android_developers_code_but/)
-- [Help needed](https://www.reddit.com/r/Kotlin/comments/14xgtyg/help_needed/)
-- [Why we like Kotlin :&rpar;](https://www.reddit.com/r/Kotlin/comments/14x4pz6/why_we_like_kotlin/)
-- [Wellcome to contribute my multi-platform 3d map engine](https://www.reddit.com/r/Kotlin/comments/14x4gsn/wellcome_to_contribute_my_multiplatform_3d_map/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
