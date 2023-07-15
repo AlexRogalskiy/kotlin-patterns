@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [About KMM](https://www.reddit.com/r/Kotlin/comments/14zz237/about_kmm/)
+- [Coupling and Cohesion - Listening to the Code](https://www.reddit.com/r/Kotlin/comments/14zbe6s/coupling_and_cohesion_listening_to_the_code/)
+- [Why did you learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/14zarc8/why_did_you_learn_kotlin/)
+- [Best English language tech conferences in Europe next year?](https://www.reddit.com/r/Kotlin/comments/14zakjd/best_english_language_tech_conferences_in_europe/)
+- [I recently wrote about Kotlin post. Guys please take a look and tell me your thoughts!](https://www.reddit.com/r/Kotlin/comments/14z5w0g/i_recently_wrote_about_kotlin_post_guys_please/)
 - [Multiplatform image loading: Coil 3.0](https://www.reddit.com/r/Kotlin/comments/14z02nr/multiplatform_image_loading_coil_30/)
 - [Kotlin compiler hangs when missing a constructor param](https://www.reddit.com/r/Kotlin/comments/14yvmmz/kotlin_compiler_hangs_when_missing_a_constructor/)
 - [Kotlin/Native: make it work with linker changes in Xcode 15 beta 3/4?](https://www.reddit.com/r/Kotlin/comments/14yvbtx/kotlinnative_make_it_work_with_linker_changes_in/)
 - [How to use a list as a parameter of a function?](https://www.reddit.com/r/Kotlin/comments/14yv5eg/how_to_use_a_list_as_a_parameter_of_a_function/)
 - [Difference in efficiency between objects and functions](https://www.reddit.com/r/Kotlin/comments/14ypcmy/difference_in_efficiency_between_objects_and/)
-- [Starting with Kotlin Cheatsheet](https://www.reddit.com/r/Kotlin/comments/14ylufp/starting_with_kotlin_cheatsheet/)
-- [Kotlin Roadmap &lpar;July 2023 update&rpar;](https://www.reddit.com/r/Kotlin/comments/14yhozl/kotlin_roadmap_july_2023_update/)
-- [Is there a more kotlin-esque way to write this?](https://www.reddit.com/r/Kotlin/comments/14xzvlu/is_there_a_more_kotlinesque_way_to_write_this/)
-- [Kotlin 1.9 compatibility with Compose](https://www.reddit.com/r/Kotlin/comments/14xzgd6/kotlin_19_compatibility_with_compose/)
-- [The Great Kotlin Week: 1.9, Notebook, MongoDB Driver and support for education - JVM Weekly vol. 50](https://www.reddit.com/r/Kotlin/comments/14xn3s9/the_great_kotlin_week_19_notebook_mongodb_driver/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
