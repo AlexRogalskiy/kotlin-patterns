@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Type in Class](https://www.reddit.com/r/Kotlin/comments/150pvi6/type_in_class/)
+- [Kotlin ProblemSolving](https://www.reddit.com/r/Kotlin/comments/1507d7d/kotlin_problemsolving/)
+- [Do you wear glasses?](https://www.reddit.com/r/Kotlin/comments/1502k68/do_you_wear_glasses/)
 - [About KMM](https://www.reddit.com/r/Kotlin/comments/14zz237/about_kmm/)
 - [Coupling and Cohesion - Listening to the Code](https://www.reddit.com/r/Kotlin/comments/14zbe6s/coupling_and_cohesion_listening_to_the_code/)
 - [Why did you learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/14zarc8/why_did_you_learn_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I recently wrote about Kotlin post. Guys please take a look and tell me your thoughts!](https://www.reddit.com/r/Kotlin/comments/14z5w0g/i_recently_wrote_about_kotlin_post_guys_please/)
 - [Multiplatform image loading: Coil 3.0](https://www.reddit.com/r/Kotlin/comments/14z02nr/multiplatform_image_loading_coil_30/)
 - [Kotlin compiler hangs when missing a constructor param](https://www.reddit.com/r/Kotlin/comments/14yvmmz/kotlin_compiler_hangs_when_missing_a_constructor/)
-- [Kotlin/Native: make it work with linker changes in Xcode 15 beta 3/4?](https://www.reddit.com/r/Kotlin/comments/14yvbtx/kotlinnative_make_it_work_with_linker_changes_in/)
-- [How to use a list as a parameter of a function?](https://www.reddit.com/r/Kotlin/comments/14yv5eg/how_to_use_a_list_as_a_parameter_of_a_function/)
-- [Difference in efficiency between objects and functions](https://www.reddit.com/r/Kotlin/comments/14ypcmy/difference_in_efficiency_between_objects_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
