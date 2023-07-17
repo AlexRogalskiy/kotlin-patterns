@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to learn Ktor? Kotlin is my first language](https://www.reddit.com/r/Kotlin/comments/151f43e/how_to_learn_ktor_kotlin_is_my_first_language/)
+- [help me](https://www.reddit.com/r/Kotlin/comments/151ec32/help_me/)
+- [Do you have production desktop apps using kotlin multiplatform ? What was your experience with it ?](https://www.reddit.com/r/Kotlin/comments/1518i9r/do_you_have_production_desktop_apps_using_kotlin/)
 - [Type in Class](https://www.reddit.com/r/Kotlin/comments/150pvi6/type_in_class/)
 - [Kotlin ProblemSolving](https://www.reddit.com/r/Kotlin/comments/1507d7d/kotlin_problemsolving/)
 - [Do you wear glasses?](https://www.reddit.com/r/Kotlin/comments/1502k68/do_you_wear_glasses/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Coupling and Cohesion - Listening to the Code](https://www.reddit.com/r/Kotlin/comments/14zbe6s/coupling_and_cohesion_listening_to_the_code/)
 - [Why did you learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/14zarc8/why_did_you_learn_kotlin/)
 - [Best English language tech conferences in Europe next year?](https://www.reddit.com/r/Kotlin/comments/14zakjd/best_english_language_tech_conferences_in_europe/)
-- [I recently wrote about Kotlin post. Guys please take a look and tell me your thoughts!](https://www.reddit.com/r/Kotlin/comments/14z5w0g/i_recently_wrote_about_kotlin_post_guys_please/)
-- [Multiplatform image loading: Coil 3.0](https://www.reddit.com/r/Kotlin/comments/14z02nr/multiplatform_image_loading_coil_30/)
-- [Kotlin compiler hangs when missing a constructor param](https://www.reddit.com/r/Kotlin/comments/14yvmmz/kotlin_compiler_hangs_when_missing_a_constructor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
