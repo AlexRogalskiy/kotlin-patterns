@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [For a completely Noob!!](https://www.reddit.com/r/Kotlin/comments/152duj5/for_a_completely_noob/)
+- [How to start with webflux?](https://www.reddit.com/r/Kotlin/comments/152afvr/how_to_start_with_webflux/)
+- [Jetpack Compose - PickerSheet Library](https://www.reddit.com/r/Kotlin/comments/1526m2l/jetpack_compose_pickersheet_library/)
+- [Kotlin Files Merger or Combiner](https://www.reddit.com/r/Kotlin/comments/151vvhn/kotlin_files_merger_or_combiner/)
+- [Why I avoid ORMs](https://www.reddit.com/r/Kotlin/comments/151uupy/why_i_avoid_orms/)
+- [Compose Rich Editor 1.0.0-alpha01 released with a lot of new features](https://www.reddit.com/r/Kotlin/comments/151utej/compose_rich_editor_100alpha01_released_with_a/)
 - [How to learn Ktor? Kotlin is my first language](https://www.reddit.com/r/Kotlin/comments/151f43e/how_to_learn_ktor_kotlin_is_my_first_language/)
 - [help me](https://www.reddit.com/r/Kotlin/comments/151ec32/help_me/)
 - [Do you have production desktop apps using kotlin multiplatform ? What was your experience with it ?](https://www.reddit.com/r/Kotlin/comments/1518i9r/do_you_have_production_desktop_apps_using_kotlin/)
 - [Type in Class](https://www.reddit.com/r/Kotlin/comments/150pvi6/type_in_class/)
-- [Kotlin ProblemSolving](https://www.reddit.com/r/Kotlin/comments/1507d7d/kotlin_problemsolving/)
-- [Do you wear glasses?](https://www.reddit.com/r/Kotlin/comments/1502k68/do_you_wear_glasses/)
-- [About KMM](https://www.reddit.com/r/Kotlin/comments/14zz237/about_kmm/)
-- [Coupling and Cohesion - Listening to the Code](https://www.reddit.com/r/Kotlin/comments/14zbe6s/coupling_and_cohesion_listening_to_the_code/)
-- [Why did you learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/14zarc8/why_did_you_learn_kotlin/)
-- [Best English language tech conferences in Europe next year?](https://www.reddit.com/r/Kotlin/comments/14zakjd/best_english_language_tech_conferences_in_europe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
