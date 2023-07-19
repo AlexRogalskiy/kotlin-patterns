@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Simple orm](https://www.reddit.com/r/Kotlin/comments/15366fu/simple_orm/)
+- [Learning Backend](https://www.reddit.com/r/Kotlin/comments/15365n6/learning_backend/)
+- [BuildSrc vs Version Catalogs](https://www.reddit.com/r/Kotlin/comments/152zxxs/buildsrc_vs_version_catalogs/)
 - [For a completely Noob!!](https://www.reddit.com/r/Kotlin/comments/152duj5/for_a_completely_noob/)
 - [How to start with webflux?](https://www.reddit.com/r/Kotlin/comments/152afvr/how_to_start_with_webflux/)
 - [Jetpack Compose - PickerSheet Library](https://www.reddit.com/r/Kotlin/comments/1526m2l/jetpack_compose_pickersheet_library/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Why I avoid ORMs](https://www.reddit.com/r/Kotlin/comments/151uupy/why_i_avoid_orms/)
 - [Compose Rich Editor 1.0.0-alpha01 released with a lot of new features](https://www.reddit.com/r/Kotlin/comments/151utej/compose_rich_editor_100alpha01_released_with_a/)
 - [How to learn Ktor? Kotlin is my first language](https://www.reddit.com/r/Kotlin/comments/151f43e/how_to_learn_ktor_kotlin_is_my_first_language/)
-- [help me](https://www.reddit.com/r/Kotlin/comments/151ec32/help_me/)
-- [Do you have production desktop apps using kotlin multiplatform ? What was your experience with it ?](https://www.reddit.com/r/Kotlin/comments/1518i9r/do_you_have_production_desktop_apps_using_kotlin/)
-- [Type in Class](https://www.reddit.com/r/Kotlin/comments/150pvi6/type_in_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
