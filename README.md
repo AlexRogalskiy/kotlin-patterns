@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A stable, multiplatform Molecule 1.0](https://www.reddit.com/r/Kotlin/comments/154d0ka/a_stable_multiplatform_molecule_10/)
+- [need help on why recyclerview is not appearing](https://www.reddit.com/r/Kotlin/comments/1547ukn/need_help_on_why_recyclerview_is_not_appearing/)
+- [Kotlin Roadmap Update](https://www.reddit.com/r/Kotlin/comments/153tj63/kotlin_roadmap_update/)
+- [Ostara 0.12.0 released: F/OSS admin app for Spring Boot now with Service Discovery support!](https://www.reddit.com/r/Kotlin/comments/153rh08/ostara_0120_released_foss_admin_app_for_spring/)
 - [Simple orm](https://www.reddit.com/r/Kotlin/comments/15366fu/simple_orm/)
 - [Learning Backend](https://www.reddit.com/r/Kotlin/comments/15365n6/learning_backend/)
 - [BuildSrc vs Version Catalogs](https://www.reddit.com/r/Kotlin/comments/152zxxs/buildsrc_vs_version_catalogs/)
 - [For a completely Noob!!](https://www.reddit.com/r/Kotlin/comments/152duj5/for_a_completely_noob/)
 - [How to start with webflux?](https://www.reddit.com/r/Kotlin/comments/152afvr/how_to_start_with_webflux/)
 - [Jetpack Compose - PickerSheet Library](https://www.reddit.com/r/Kotlin/comments/1526m2l/jetpack_compose_pickersheet_library/)
-- [Kotlin Files Merger or Combiner](https://www.reddit.com/r/Kotlin/comments/151vvhn/kotlin_files_merger_or_combiner/)
-- [Why I avoid ORMs](https://www.reddit.com/r/Kotlin/comments/151uupy/why_i_avoid_orms/)
-- [Compose Rich Editor 1.0.0-alpha01 released with a lot of new features](https://www.reddit.com/r/Kotlin/comments/151utej/compose_rich_editor_100alpha01_released_with_a/)
-- [How to learn Ktor? Kotlin is my first language](https://www.reddit.com/r/Kotlin/comments/151f43e/how_to_learn_ktor_kotlin_is_my_first_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
