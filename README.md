@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Responsive App](https://www.reddit.com/r/Kotlin/comments/154rqa9/responsive_app/)
+- [Another great kotlin goody that i never knew existed : chunked](https://www.reddit.com/r/Kotlin/comments/15611jz/another_great_kotlin_goody_that_i_never_knew/)
+- [Kotlin or Flutter](https://www.reddit.com/r/Kotlin/comments/15609mh/kotlin_or_flutter/)
+- [Hey, i am new to kotlin. Can you advice me?](https://www.reddit.com/r/Kotlin/comments/155xtct/hey_i_am_new_to_kotlin_can_you_advice_me/)
+- [https://medium.com/@cenkeraydin14/kotlin-1-4ddae1d5891f](https://www.reddit.com/r/Kotlin/comments/155qje5/httpsmediumcomcenkeraydin14kotlin14ddae1d5891f/)
+- [Hello, you should read my article about kotlin.You can translate any language](https://www.reddit.com/r/Kotlin/comments/155oint/hello_you_should_read_my_article_about_kotlinyou/)
+- [Reasons to Start Learning Kotlin in 2023](https://www.reddit.com/r/Kotlin/comments/155nc2e/reasons_to_start_learning_kotlin_in_2023/)
+- [Duly Diligent Deploys - Delivering a user story](https://www.reddit.com/r/Kotlin/comments/155iyr9/duly_diligent_deploys_delivering_a_user_story/)
+- [Android Developers: Read this before you give up on WalletConnect v2!](https://www.reddit.com/r/Kotlin/comments/155iq01/android_developers_read_this_before_you_give_up/)
+- [Question about connecting to a localhost web server through an Android Compose app](https://www.reddit.com/r/Kotlin/comments/155gc4q/question_about_connecting_to_a_localhost_web/)
 - [Getting annotated properties](https://www.reddit.com/r/Kotlin/comments/154q0vf/getting_annotated_properties/)
-- [A stable, multiplatform Molecule 1.0](https://www.reddit.com/r/Kotlin/comments/154d0ka/a_stable_multiplatform_molecule_10/)
-- [need help on why recyclerview is not appearing](https://www.reddit.com/r/Kotlin/comments/1547ukn/need_help_on_why_recyclerview_is_not_appearing/)
-- [Kotlin Roadmap Update](https://www.reddit.com/r/Kotlin/comments/153tj63/kotlin_roadmap_update/)
-- [Ostara 0.12.0 released: F/OSS admin app for Spring Boot now with Service Discovery support!](https://www.reddit.com/r/Kotlin/comments/153rh08/ostara_0120_released_foss_admin_app_for_spring/)
-- [Simple orm](https://www.reddit.com/r/Kotlin/comments/15366fu/simple_orm/)
-- [Learning Backend](https://www.reddit.com/r/Kotlin/comments/15365n6/learning_backend/)
-- [BuildSrc vs Version Catalogs](https://www.reddit.com/r/Kotlin/comments/152zxxs/buildsrc_vs_version_catalogs/)
-- [For a completely Noob!!](https://www.reddit.com/r/Kotlin/comments/152duj5/for_a_completely_noob/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
