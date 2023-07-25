@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The only kotlin learning resources link you&#39;ll ever need.](https://www.reddit.com/r/Kotlin/comments/158415t/the_only_kotlin_learning_resources_link_youll/)
 - [Can anyone recommend me best Kotlin course.](https://www.reddit.com/r/Kotlin/comments/157j3uq/can_anyone_recommend_me_best_kotlin_course/)
 - [Another great kotlin goody that i never knew existed : chunked](https://www.reddit.com/r/Kotlin/comments/15611jz/another_great_kotlin_goody_that_i_never_knew/)
 - [Kotlin or Flutter](https://www.reddit.com/r/Kotlin/comments/15609mh/kotlin_or_flutter/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Reasons to Start Learning Kotlin in 2023](https://www.reddit.com/r/Kotlin/comments/155nc2e/reasons_to_start_learning_kotlin_in_2023/)
 - [Duly Diligent Deploys - Delivering a user story](https://www.reddit.com/r/Kotlin/comments/155iyr9/duly_diligent_deploys_delivering_a_user_story/)
 - [Android Developers: Read this before you give up on WalletConnect v2!](https://www.reddit.com/r/Kotlin/comments/155iq01/android_developers_read_this_before_you_give_up/)
-- [Question about connecting to a localhost web server through an Android Compose app](https://www.reddit.com/r/Kotlin/comments/155gc4q/question_about_connecting_to_a_localhost_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
