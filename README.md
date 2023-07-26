@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trying to understand a constructor that takes a closure after the supplied class parameters](https://www.reddit.com/r/Kotlin/comments/159fdt4/trying_to_understand_a_constructor_that_takes_a/)
+- [New to Android Development and want to create a notification button](https://www.reddit.com/r/Kotlin/comments/1599xp4/new_to_android_development_and_want_to_create_a/)
+- [Just started](https://www.reddit.com/r/Kotlin/comments/15913o0/just_started/)
+- [What&#39;s the easiest way of displaying map data &lpar;OSM, Google maps&rpar; in a TornadoFX app?](https://www.reddit.com/r/Kotlin/comments/1590jxd/whats_the_easiest_way_of_displaying_map_data_osm/)
+- [Top 10 Kotlin Design Patterns with Easy-to-Follow Code Examples](https://www.reddit.com/r/Kotlin/comments/1590cfr/top_10_kotlin_design_patterns_with_easytofollow/)
+- [Kotlin Scope Functions: When to use them](https://www.reddit.com/r/Kotlin/comments/15904cy/kotlin_scope_functions_when_to_use_them/)
 - [The only kotlin learning resources link you&#39;ll ever need.](https://www.reddit.com/r/Kotlin/comments/158415t/the_only_kotlin_learning_resources_link_youll/)
 - [Can anyone recommend me best Kotlin course.](https://www.reddit.com/r/Kotlin/comments/157j3uq/can_anyone_recommend_me_best_kotlin_course/)
 - [Another great kotlin goody that i never knew existed : chunked](https://www.reddit.com/r/Kotlin/comments/15611jz/another_great_kotlin_goody_that_i_never_knew/)
 - [Kotlin or Flutter](https://www.reddit.com/r/Kotlin/comments/15609mh/kotlin_or_flutter/)
-- [Hey, i am new to kotlin. Can you advice me?](https://www.reddit.com/r/Kotlin/comments/155xtct/hey_i_am_new_to_kotlin_can_you_advice_me/)
-- [https://medium.com/@cenkeraydin14/kotlin-1-4ddae1d5891f](https://www.reddit.com/r/Kotlin/comments/155qje5/httpsmediumcomcenkeraydin14kotlin14ddae1d5891f/)
-- [Hello, you should read my article about kotlin.You can translate any language](https://www.reddit.com/r/Kotlin/comments/155oint/hello_you_should_read_my_article_about_kotlinyou/)
-- [Reasons to Start Learning Kotlin in 2023](https://www.reddit.com/r/Kotlin/comments/155nc2e/reasons_to_start_learning_kotlin_in_2023/)
-- [Duly Diligent Deploys - Delivering a user story](https://www.reddit.com/r/Kotlin/comments/155iyr9/duly_diligent_deploys_delivering_a_user_story/)
-- [Android Developers: Read this before you give up on WalletConnect v2!](https://www.reddit.com/r/Kotlin/comments/155iq01/android_developers_read_this_before_you_give_up/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
