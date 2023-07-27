@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing SQLDelight 2.0](https://www.reddit.com/r/Kotlin/comments/15ak294/announcing_sqldelight_20/)
+- [Kotlin](https://www.reddit.com/r/Kotlin/comments/15ahs9x/kotlin/)
+- [Soywiz &lpar;Carlos Ballesteros Velasco&rpar; leaves the KorGE project.](https://www.reddit.com/r/Kotlin/comments/15ae07k/soywiz_carlos_ballesteros_velasco_leaves_the/)
+- [Shared preference makes app slow?](https://www.reddit.com/r/Kotlin/comments/15adg8q/shared_preference_makes_app_slow/)
+- [Looking for some clarification on extension functions](https://www.reddit.com/r/Kotlin/comments/15a8po2/looking_for_some_clarification_on_extension/)
+- [KotlinConf 2024 Tickets Are Now Available!](https://www.reddit.com/r/Kotlin/comments/15a8h4m/kotlinconf_2024_tickets_are_now_available/)
+- [Kotlin alternatives for AI and Data Science?](https://www.reddit.com/r/Kotlin/comments/15a4oe8/kotlin_alternatives_for_ai_and_data_science/)
+- [Can I learn kotlin basics and data structure and algorithm at Java at the same time](https://www.reddit.com/r/Kotlin/comments/159tfxs/can_i_learn_kotlin_basics_and_data_structure_and/)
+- [Should I use KMM if I want to start a project now？](https://www.reddit.com/r/Kotlin/comments/159sw7z/should_i_use_kmm_if_i_want_to_start_a_project_now/)
 - [Trying to understand a constructor that takes a closure after the supplied class parameters](https://www.reddit.com/r/Kotlin/comments/159fdt4/trying_to_understand_a_constructor_that_takes_a/)
-- [New to Android Development and want to create a notification button](https://www.reddit.com/r/Kotlin/comments/1599xp4/new_to_android_development_and_want_to_create_a/)
-- [Just started](https://www.reddit.com/r/Kotlin/comments/15913o0/just_started/)
-- [What&#39;s the easiest way of displaying map data &lpar;OSM, Google maps&rpar; in a TornadoFX app?](https://www.reddit.com/r/Kotlin/comments/1590jxd/whats_the_easiest_way_of_displaying_map_data_osm/)
-- [Top 10 Kotlin Design Patterns with Easy-to-Follow Code Examples](https://www.reddit.com/r/Kotlin/comments/1590cfr/top_10_kotlin_design_patterns_with_easytofollow/)
-- [Kotlin Scope Functions: When to use them](https://www.reddit.com/r/Kotlin/comments/15904cy/kotlin_scope_functions_when_to_use_them/)
-- [The only kotlin learning resources link you&#39;ll ever need.](https://www.reddit.com/r/Kotlin/comments/158415t/the_only_kotlin_learning_resources_link_youll/)
-- [Can anyone recommend me best Kotlin course.](https://www.reddit.com/r/Kotlin/comments/157j3uq/can_anyone_recommend_me_best_kotlin_course/)
-- [Another great kotlin goody that i never knew existed : chunked](https://www.reddit.com/r/Kotlin/comments/15611jz/another_great_kotlin_goody_that_i_never_knew/)
-- [Kotlin or Flutter](https://www.reddit.com/r/Kotlin/comments/15609mh/kotlin_or_flutter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
