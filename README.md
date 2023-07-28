@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMM from an EM perspective](https://www.reddit.com/r/Kotlin/comments/15bf7ch/kmm_from_an_em_perspective/)
+- [Build an iOS &amp; Android app in 100% Kotlin with Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/15bdw8v/build_an_ios_android_app_in_100_kotlin_with/)
+- [libphonenumber Kotlin Multiplatform Port](https://www.reddit.com/r/Kotlin/comments/15b9idk/libphonenumber_kotlin_multiplatform_port/)
+- [KotlinConf 2024 Tickets Are Now Available!](https://www.reddit.com/r/Kotlin/comments/15b48jq/kotlinconf_2024_tickets_are_now_available/)
+- [Problems with Polimorphic serializer](https://www.reddit.com/r/Kotlin/comments/15b2du7/problems_with_polimorphic_serializer/)
+- [Little example of railway oriented programming in Kotlin](https://www.reddit.com/r/Kotlin/comments/15b16px/little_example_of_railway_oriented_programming_in/)
+- [Where can I use kotlin besides Android dev?](https://www.reddit.com/r/Kotlin/comments/15awc15/where_can_i_use_kotlin_besides_android_dev/)
+- [Unicode string to charArray?](https://www.reddit.com/r/Kotlin/comments/15ash37/unicode_string_to_chararray/)
 - [Announcing SQLDelight 2.0](https://www.reddit.com/r/Kotlin/comments/15ak294/announcing_sqldelight_20/)
 - [Kotlin](https://www.reddit.com/r/Kotlin/comments/15ahs9x/kotlin/)
-- [Soywiz &lpar;Carlos Ballesteros Velasco&rpar; leaves the KorGE project.](https://www.reddit.com/r/Kotlin/comments/15ae07k/soywiz_carlos_ballesteros_velasco_leaves_the/)
-- [Shared preference makes app slow?](https://www.reddit.com/r/Kotlin/comments/15adg8q/shared_preference_makes_app_slow/)
-- [Looking for some clarification on extension functions](https://www.reddit.com/r/Kotlin/comments/15a8po2/looking_for_some_clarification_on_extension/)
-- [KotlinConf 2024 Tickets Are Now Available!](https://www.reddit.com/r/Kotlin/comments/15a8h4m/kotlinconf_2024_tickets_are_now_available/)
-- [Kotlin alternatives for AI and Data Science?](https://www.reddit.com/r/Kotlin/comments/15a4oe8/kotlin_alternatives_for_ai_and_data_science/)
-- [Can I learn kotlin basics and data structure and algorithm at Java at the same time](https://www.reddit.com/r/Kotlin/comments/159tfxs/can_i_learn_kotlin_basics_and_data_structure_and/)
-- [Should I use KMM if I want to start a project now？](https://www.reddit.com/r/Kotlin/comments/159sw7z/should_i_use_kmm_if_i_want_to_start_a_project_now/)
-- [Trying to understand a constructor that takes a closure after the supplied class parameters](https://www.reddit.com/r/Kotlin/comments/159fdt4/trying_to_understand_a_constructor_that_takes_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
