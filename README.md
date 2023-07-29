@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Recommendations for a parser combinator library](https://www.reddit.com/r/Kotlin/comments/15c52jg/recommendations_for_a_parser_combinator_library/)
+- [[Exposed Question] Correct way to wrap code with transactions](https://www.reddit.com/r/Kotlin/comments/15c4oe0/exposed_question_correct_way_to_wrap_code_with/)
+- [Reactive Spring Boot with WebFlux, R2DBC and Postgres - Piotr&#39;s TechBlog](https://www.reddit.com/r/Kotlin/comments/15bzy0h/reactive_spring_boot_with_webflux_r2dbc_and/)
+- [NullPointerExceptions for Fun and Profit](https://www.reddit.com/r/Kotlin/comments/15bwyna/nullpointerexceptions_for_fun_and_profit/)
+- [Can anyone share me some links for compose for desktop tutorials using kotlin for beginners](https://www.reddit.com/r/Kotlin/comments/15bwshs/can_anyone_share_me_some_links_for_compose_for/)
+- [Designing a Functional Library](https://www.reddit.com/r/Kotlin/comments/15btbto/designing_a_functional_library/)
+- [Why Is Every Single Tutorial I Try To Find So Confusing?](https://www.reddit.com/r/Kotlin/comments/15bo7kp/why_is_every_single_tutorial_i_try_to_find_so/)
 - [KMM from an EM perspective](https://www.reddit.com/r/Kotlin/comments/15bf7ch/kmm_from_an_em_perspective/)
 - [Build an iOS &amp; Android app in 100% Kotlin with Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/15bdw8v/build_an_ios_android_app_in_100_kotlin_with/)
 - [libphonenumber Kotlin Multiplatform Port](https://www.reddit.com/r/Kotlin/comments/15b9idk/libphonenumber_kotlin_multiplatform_port/)
-- [KotlinConf 2024 Tickets Are Now Available!](https://www.reddit.com/r/Kotlin/comments/15b48jq/kotlinconf_2024_tickets_are_now_available/)
-- [Problems with Polimorphic serializer](https://www.reddit.com/r/Kotlin/comments/15b2du7/problems_with_polimorphic_serializer/)
-- [Little example of railway oriented programming in Kotlin](https://www.reddit.com/r/Kotlin/comments/15b16px/little_example_of_railway_oriented_programming_in/)
-- [Where can I use kotlin besides Android dev?](https://www.reddit.com/r/Kotlin/comments/15awc15/where_can_i_use_kotlin_besides_android_dev/)
-- [Unicode string to charArray?](https://www.reddit.com/r/Kotlin/comments/15ash37/unicode_string_to_chararray/)
-- [Announcing SQLDelight 2.0](https://www.reddit.com/r/Kotlin/comments/15ak294/announcing_sqldelight_20/)
-- [Kotlin](https://www.reddit.com/r/Kotlin/comments/15ahs9x/kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
