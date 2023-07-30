@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Use Bottom Sheet in a Tensorflow App](https://www.reddit.com/r/Kotlin/comments/15d2v75/how_to_use_bottom_sheet_in_a_tensorflow_app/)
+- [I&#39;m writing an app in Kotlin and taking a more functional approach. However, this app makes a lot of database calls and I&#39;m not sure how to write unit tests in a functional Kotlin app since I can&#39;t use a mocking framework the just mock the calls.](https://www.reddit.com/r/Kotlin/comments/15d1tn2/im_writing_an_app_in_kotlin_and_taking_a_more/)
+- [I can&#39;t get my app to work!](https://www.reddit.com/r/Kotlin/comments/15d0hmo/i_cant_get_my_app_to_work/)
+- [Looking to make a desktop app, Kotlin Compose or Java FX&lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/15cw08e/looking_to_make_a_desktop_app_kotlin_compose_or/)
 - [Recommendations for a parser combinator library](https://www.reddit.com/r/Kotlin/comments/15c52jg/recommendations_for_a_parser_combinator_library/)
 - [[Exposed Question] Correct way to wrap code with transactions](https://www.reddit.com/r/Kotlin/comments/15c4oe0/exposed_question_correct_way_to_wrap_code_with/)
 - [Reactive Spring Boot with WebFlux, R2DBC and Postgres - Piotr&#39;s TechBlog](https://www.reddit.com/r/Kotlin/comments/15bzy0h/reactive_spring_boot_with_webflux_r2dbc_and/)
 - [NullPointerExceptions for Fun and Profit](https://www.reddit.com/r/Kotlin/comments/15bwyna/nullpointerexceptions_for_fun_and_profit/)
 - [Can anyone share me some links for compose for desktop tutorials using kotlin for beginners](https://www.reddit.com/r/Kotlin/comments/15bwshs/can_anyone_share_me_some_links_for_compose_for/)
 - [Designing a Functional Library](https://www.reddit.com/r/Kotlin/comments/15btbto/designing_a_functional_library/)
-- [Why Is Every Single Tutorial I Try To Find So Confusing?](https://www.reddit.com/r/Kotlin/comments/15bo7kp/why_is_every_single_tutorial_i_try_to_find_so/)
-- [KMM from an EM perspective](https://www.reddit.com/r/Kotlin/comments/15bf7ch/kmm_from_an_em_perspective/)
-- [Build an iOS &amp; Android app in 100% Kotlin with Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/15bdw8v/build_an_ios_android_app_in_100_kotlin_with/)
-- [libphonenumber Kotlin Multiplatform Port](https://www.reddit.com/r/Kotlin/comments/15b9idk/libphonenumber_kotlin_multiplatform_port/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
