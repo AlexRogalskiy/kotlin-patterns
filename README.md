@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just Released MLKit with Kotlin &amp; Jetpack Compose! Seeking Feedback 🚀 💫](https://www.reddit.com/r/Kotlin/comments/15dwf45/just_released_mlkit_with_kotlin_jetpack_compose/)
+- [Using Lwjgl Trying to draw rect doesnt show anything on screen](https://www.reddit.com/r/Kotlin/comments/15dvdot/using_lwjgl_trying_to_draw_rect_doesnt_show/)
+- [Using GraphQL with Kotlin](https://www.reddit.com/r/Kotlin/comments/15dtacg/using_graphql_with_kotlin/)
+- [Kotlin or Scala?](https://www.reddit.com/r/Kotlin/comments/15doi4e/kotlin_or_scala/)
+- [Is it worth learning Kotlin &lpar;for non-Android backend dev?&rpar;](https://www.reddit.com/r/Kotlin/comments/15dnvpr/is_it_worth_learning_kotlin_for_nonandroid/)
+- [Mokkery - mocking library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/15diixk/mokkery_mocking_library_for_kotlin_multiplatform/)
+- [What is the recommded way to manager resources in KMM&lpar;i18n,font,image...&rpar;？](https://www.reddit.com/r/Kotlin/comments/15di85z/what_is_the_recommded_way_to_manager_resources_in/)
 - [How to Use Bottom Sheet in a Tensorflow App](https://www.reddit.com/r/Kotlin/comments/15d2v75/how_to_use_bottom_sheet_in_a_tensorflow_app/)
 - [I&#39;m writing an app in Kotlin and taking a more functional approach. However, this app makes a lot of database calls and I&#39;m not sure how to write unit tests in a functional Kotlin app since I can&#39;t use a mocking framework the just mock the calls.](https://www.reddit.com/r/Kotlin/comments/15d1tn2/im_writing_an_app_in_kotlin_and_taking_a_more/)
 - [I can&#39;t get my app to work!](https://www.reddit.com/r/Kotlin/comments/15d0hmo/i_cant_get_my_app_to_work/)
-- [Looking to make a desktop app, Kotlin Compose or Java FX&lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/15cw08e/looking_to_make_a_desktop_app_kotlin_compose_or/)
-- [Recommendations for a parser combinator library](https://www.reddit.com/r/Kotlin/comments/15c52jg/recommendations_for_a_parser_combinator_library/)
-- [[Exposed Question] Correct way to wrap code with transactions](https://www.reddit.com/r/Kotlin/comments/15c4oe0/exposed_question_correct_way_to_wrap_code_with/)
-- [Reactive Spring Boot with WebFlux, R2DBC and Postgres - Piotr&#39;s TechBlog](https://www.reddit.com/r/Kotlin/comments/15bzy0h/reactive_spring_boot_with_webflux_r2dbc_and/)
-- [NullPointerExceptions for Fun and Profit](https://www.reddit.com/r/Kotlin/comments/15bwyna/nullpointerexceptions_for_fun_and_profit/)
-- [Can anyone share me some links for compose for desktop tutorials using kotlin for beginners](https://www.reddit.com/r/Kotlin/comments/15bwshs/can_anyone_share_me_some_links_for_compose_for/)
-- [Designing a Functional Library](https://www.reddit.com/r/Kotlin/comments/15btbto/designing_a_functional_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
