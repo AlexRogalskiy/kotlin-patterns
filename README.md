@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it okay to start developing Android Apps using Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/15eyvsv/is_it_okay_to_start_developing_android_apps_using/)
+- [How can I read a character without having to press enter?](https://www.reddit.com/r/Kotlin/comments/15exgqu/how_can_i_read_a_character_without_having_to/)
+- [Update on the Name of Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/15etouv/update_on_the_name_of_kotlin_multiplatform/)
+- [Compose character Н ́ -&gt; Н́](https://www.reddit.com/r/Kotlin/comments/15em7if/compose_character_н_н/)
+- [Kotlin 4- Functions](https://www.reddit.com/r/Kotlin/comments/15ek0zo/kotlin_4_functions/)
+- [ChatGPT Tries to Add Auth0 Authentication to an iOS App, Round Two!](https://www.reddit.com/r/Kotlin/comments/15ehueg/chatgpt_tries_to_add_auth0_authentication_to_an/)
+- [Beyond K2: What features are next and how you can use them](https://www.reddit.com/r/Kotlin/comments/15eeha9/beyond_k2_what_features_are_next_and_how_you_can/)
+- [Kotlin vs Java: The Inside Scoop on Closures](https://www.reddit.com/r/Kotlin/comments/15e7nxn/kotlin_vs_java_the_inside_scoop_on_closures/)
+- [Sleepless Concurrency: delay&lpar;&rpar; vs. Thread.sleep&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/15e6jw1/sleepless_concurrency_delay_vs_threadsleep/)
 - [Just Released MLKit with Kotlin &amp; Jetpack Compose! Seeking Feedback 🚀 💫](https://www.reddit.com/r/Kotlin/comments/15dwf45/just_released_mlkit_with_kotlin_jetpack_compose/)
-- [Using Lwjgl Trying to draw rect doesnt show anything on screen](https://www.reddit.com/r/Kotlin/comments/15dvdot/using_lwjgl_trying_to_draw_rect_doesnt_show/)
-- [Using GraphQL with Kotlin](https://www.reddit.com/r/Kotlin/comments/15dtacg/using_graphql_with_kotlin/)
-- [Kotlin or Scala?](https://www.reddit.com/r/Kotlin/comments/15doi4e/kotlin_or_scala/)
-- [Is it worth learning Kotlin &lpar;for non-Android backend dev?&rpar;](https://www.reddit.com/r/Kotlin/comments/15dnvpr/is_it_worth_learning_kotlin_for_nonandroid/)
-- [Mokkery - mocking library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/15diixk/mokkery_mocking_library_for_kotlin_multiplatform/)
-- [What is the recommded way to manager resources in KMM&lpar;i18n,font,image...&rpar;？](https://www.reddit.com/r/Kotlin/comments/15di85z/what_is_the_recommded_way_to_manager_resources_in/)
-- [How to Use Bottom Sheet in a Tensorflow App](https://www.reddit.com/r/Kotlin/comments/15d2v75/how_to_use_bottom_sheet_in_a_tensorflow_app/)
-- [I&#39;m writing an app in Kotlin and taking a more functional approach. However, this app makes a lot of database calls and I&#39;m not sure how to write unit tests in a functional Kotlin app since I can&#39;t use a mocking framework the just mock the calls.](https://www.reddit.com/r/Kotlin/comments/15d1tn2/im_writing_an_app_in_kotlin_and_taking_a_more/)
-- [I can&#39;t get my app to work!](https://www.reddit.com/r/Kotlin/comments/15d0hmo/i_cant_get_my_app_to_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
