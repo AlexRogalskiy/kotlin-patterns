@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose Multiplatform 1.5.0-beta01](https://www.reddit.com/r/Kotlin/comments/15fmmkr/compose_multiplatform_150beta01/)
+- [How to mock a val tha is being created using the lazy delegate?](https://www.reddit.com/r/Kotlin/comments/15fctbm/how_to_mock_a_val_tha_is_being_created_using_the/)
+- [The most Kotlin-Friendly Framework: Springboot vs Quarkus vs Micronaut. Who Claims the Krown?](https://www.reddit.com/r/Kotlin/comments/15fal57/the_most_kotlinfriendly_framework_springboot_vs/)
+- [Simulating &amp; troubleshooting deadlock in Kotlin](https://www.reddit.com/r/Kotlin/comments/15f8q6j/simulating_troubleshooting_deadlock_in_kotlin/)
 - [Is it okay to start developing Android Apps using Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/15eyvsv/is_it_okay_to_start_developing_android_apps_using/)
 - [How can I read a character without having to press enter?](https://www.reddit.com/r/Kotlin/comments/15exgqu/how_can_i_read_a_character_without_having_to/)
 - [Update on the Name of Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/15etouv/update_on_the_name_of_kotlin_multiplatform/)
 - [Compose character Н ́ -&gt; Н́](https://www.reddit.com/r/Kotlin/comments/15em7if/compose_character_н_н/)
 - [Kotlin 4- Functions](https://www.reddit.com/r/Kotlin/comments/15ek0zo/kotlin_4_functions/)
 - [ChatGPT Tries to Add Auth0 Authentication to an iOS App, Round Two!](https://www.reddit.com/r/Kotlin/comments/15ehueg/chatgpt_tries_to_add_auth0_authentication_to_an/)
-- [Beyond K2: What features are next and how you can use them](https://www.reddit.com/r/Kotlin/comments/15eeha9/beyond_k2_what_features_are_next_and_how_you_can/)
-- [Kotlin vs Java: The Inside Scoop on Closures](https://www.reddit.com/r/Kotlin/comments/15e7nxn/kotlin_vs_java_the_inside_scoop_on_closures/)
-- [Sleepless Concurrency: delay&lpar;&rpar; vs. Thread.sleep&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/15e6jw1/sleepless_concurrency_delay_vs_threadsleep/)
-- [Just Released MLKit with Kotlin &amp; Jetpack Compose! Seeking Feedback 🚀 💫](https://www.reddit.com/r/Kotlin/comments/15dwf45/just_released_mlkit_with_kotlin_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
