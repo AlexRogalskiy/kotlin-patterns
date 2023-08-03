@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can I infer a generic type based on one of the arguments?](https://www.reddit.com/r/Kotlin/comments/15gnwdl/can_i_infer_a_generic_type_based_on_one_of_the/)
+- [Why was TornadoFX abandoned?](https://www.reddit.com/r/Kotlin/comments/15gm98h/why_was_tornadofx_abandoned/)
+- [How do you create a Spinner with Multiplatform?](https://www.reddit.com/r/Kotlin/comments/15ghfih/how_do_you_create_a_spinner_with_multiplatform/)
+- [Okio 3.5 has WASM](https://www.reddit.com/r/Kotlin/comments/15gh39o/okio_35_has_wasm/)
+- [Compiler generic parameter check not working](https://www.reddit.com/r/Kotlin/comments/15gexc7/compiler_generic_parameter_check_not_working/)
+- [Deploy Compose Web Apps to Netlify](https://www.reddit.com/r/Kotlin/comments/15g8v3e/deploy_compose_web_apps_to_netlify/)
+- [How do I skip the default title bar and add a personalized title bar in Jetpack Compose for Desktop app that includes maximize, minimize, and close buttons with its appropriate functionalities?](https://www.reddit.com/r/Kotlin/comments/15g822o/how_do_i_skip_the_default_title_bar_and_add_a/)
+- [kotlinx AST](https://www.reddit.com/r/Kotlin/comments/15fxqbt/kotlinx_ast/)
+- [About creating a ui library](https://www.reddit.com/r/Kotlin/comments/15fxg8b/about_creating_a_ui_library/)
 - [Compose Multiplatform 1.5.0-beta01](https://www.reddit.com/r/Kotlin/comments/15fmmkr/compose_multiplatform_150beta01/)
-- [How to mock a val tha is being created using the lazy delegate?](https://www.reddit.com/r/Kotlin/comments/15fctbm/how_to_mock_a_val_tha_is_being_created_using_the/)
-- [The most Kotlin-Friendly Framework: Springboot vs Quarkus vs Micronaut. Who Claims the Krown?](https://www.reddit.com/r/Kotlin/comments/15fal57/the_most_kotlinfriendly_framework_springboot_vs/)
-- [Simulating &amp; troubleshooting deadlock in Kotlin](https://www.reddit.com/r/Kotlin/comments/15f8q6j/simulating_troubleshooting_deadlock_in_kotlin/)
-- [Is it okay to start developing Android Apps using Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/15eyvsv/is_it_okay_to_start_developing_android_apps_using/)
-- [How can I read a character without having to press enter?](https://www.reddit.com/r/Kotlin/comments/15exgqu/how_can_i_read_a_character_without_having_to/)
-- [Update on the Name of Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/15etouv/update_on_the_name_of_kotlin_multiplatform/)
-- [Compose character Н ́ -&gt; Н́](https://www.reddit.com/r/Kotlin/comments/15em7if/compose_character_н_н/)
-- [Kotlin 4- Functions](https://www.reddit.com/r/Kotlin/comments/15ek0zo/kotlin_4_functions/)
-- [ChatGPT Tries to Add Auth0 Authentication to an iOS App, Round Two!](https://www.reddit.com/r/Kotlin/comments/15ehueg/chatgpt_tries_to_add_auth0_authentication_to_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
