@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question someone may help me with](https://www.reddit.com/r/Kotlin/comments/15h7mt0/question_someone_may_help_me_with/)
+- [Safe concurrency in Kotlin: resources and resilience](https://www.reddit.com/r/Kotlin/comments/15h2oi4/safe_concurrency_in_kotlin_resources_and/)
+- [How to use -Xdump option in kotlin cmd line compiler](https://www.reddit.com/r/Kotlin/comments/15h15dz/how_to_use_xdump_option_in_kotlin_cmd_line/)
 - [Can I infer a generic type based on one of the arguments?](https://www.reddit.com/r/Kotlin/comments/15gnwdl/can_i_infer_a_generic_type_based_on_one_of_the/)
 - [Why was TornadoFX abandoned?](https://www.reddit.com/r/Kotlin/comments/15gm98h/why_was_tornadofx_abandoned/)
 - [How do you create a Spinner with Multiplatform?](https://www.reddit.com/r/Kotlin/comments/15ghfih/how_do_you_create_a_spinner_with_multiplatform/)
 - [Okio 3.5 has WASM](https://www.reddit.com/r/Kotlin/comments/15gh39o/okio_35_has_wasm/)
 - [Compiler generic parameter check not working](https://www.reddit.com/r/Kotlin/comments/15gexc7/compiler_generic_parameter_check_not_working/)
 - [Deploy Compose Web Apps to Netlify](https://www.reddit.com/r/Kotlin/comments/15g8v3e/deploy_compose_web_apps_to_netlify/)
-- [How do I skip the default title bar and add a personalized title bar in Jetpack Compose for Desktop app that includes maximize, minimize, and close buttons with its appropriate functionalities?](https://www.reddit.com/r/Kotlin/comments/15g822o/how_do_i_skip_the_default_title_bar_and_add_a/)
 - [kotlinx AST](https://www.reddit.com/r/Kotlin/comments/15fxqbt/kotlinx_ast/)
-- [About creating a ui library](https://www.reddit.com/r/Kotlin/comments/15fxg8b/about_creating_a_ui_library/)
-- [Compose Multiplatform 1.5.0-beta01](https://www.reddit.com/r/Kotlin/comments/15fmmkr/compose_multiplatform_150beta01/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
