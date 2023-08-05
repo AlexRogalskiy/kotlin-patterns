@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [HTML Form parsing with http4k lenses](https://www.reddit.com/r/Kotlin/comments/15i2iaz/html_form_parsing_with_http4k_lenses/)
 - [Question someone may help me with](https://www.reddit.com/r/Kotlin/comments/15h7mt0/question_someone_may_help_me_with/)
 - [Safe concurrency in Kotlin: resources and resilience](https://www.reddit.com/r/Kotlin/comments/15h2oi4/safe_concurrency_in_kotlin_resources_and/)
 - [How to use -Xdump option in kotlin cmd line compiler](https://www.reddit.com/r/Kotlin/comments/15h15dz/how_to_use_xdump_option_in_kotlin_cmd_line/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Okio 3.5 has WASM](https://www.reddit.com/r/Kotlin/comments/15gh39o/okio_35_has_wasm/)
 - [Compiler generic parameter check not working](https://www.reddit.com/r/Kotlin/comments/15gexc7/compiler_generic_parameter_check_not_working/)
 - [Deploy Compose Web Apps to Netlify](https://www.reddit.com/r/Kotlin/comments/15g8v3e/deploy_compose_web_apps_to_netlify/)
-- [kotlinx AST](https://www.reddit.com/r/Kotlin/comments/15fxqbt/kotlinx_ast/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
