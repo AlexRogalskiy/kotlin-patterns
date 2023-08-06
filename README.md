@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [if i want to contribute in open source should i learn flutter or kotlin ? if i had to learn both which should i learn first ?](https://www.reddit.com/r/Kotlin/comments/15j22xs/if_i_want_to_contribute_in_open_source_should_i/)
+- [Why does Kotlin require code duplication?](https://www.reddit.com/r/Kotlin/comments/15j0z7d/why_does_kotlin_require_code_duplication/)
+- [Help a Kotlin noob](https://www.reddit.com/r/Kotlin/comments/15izxii/help_a_kotlin_noob/)
+- [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/Kotlin/comments/15ivb94/github_kryptokronakryptokronakotlinsdk/)
+- [Where does coroutines queued when there are no threads to run right now?](https://www.reddit.com/r/Kotlin/comments/15iqnoo/where_does_coroutines_queued_when_there_are_no/)
 - [HTML Form parsing with http4k lenses](https://www.reddit.com/r/Kotlin/comments/15i2iaz/html_form_parsing_with_http4k_lenses/)
 - [Question someone may help me with](https://www.reddit.com/r/Kotlin/comments/15h7mt0/question_someone_may_help_me_with/)
 - [Safe concurrency in Kotlin: resources and resilience](https://www.reddit.com/r/Kotlin/comments/15h2oi4/safe_concurrency_in_kotlin_resources_and/)
 - [How to use -Xdump option in kotlin cmd line compiler](https://www.reddit.com/r/Kotlin/comments/15h15dz/how_to_use_xdump_option_in_kotlin_cmd_line/)
 - [Can I infer a generic type based on one of the arguments?](https://www.reddit.com/r/Kotlin/comments/15gnwdl/can_i_infer_a_generic_type_based_on_one_of_the/)
-- [Why was TornadoFX abandoned?](https://www.reddit.com/r/Kotlin/comments/15gm98h/why_was_tornadofx_abandoned/)
-- [How do you create a Spinner with Multiplatform?](https://www.reddit.com/r/Kotlin/comments/15ghfih/how_do_you_create_a_spinner_with_multiplatform/)
-- [Okio 3.5 has WASM](https://www.reddit.com/r/Kotlin/comments/15gh39o/okio_35_has_wasm/)
-- [Compiler generic parameter check not working](https://www.reddit.com/r/Kotlin/comments/15gexc7/compiler_generic_parameter_check_not_working/)
-- [Deploy Compose Web Apps to Netlify](https://www.reddit.com/r/Kotlin/comments/15g8v3e/deploy_compose_web_apps_to_netlify/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
