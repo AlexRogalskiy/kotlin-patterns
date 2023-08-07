@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Blog post series about parsing date-time strings with Kotlin multiplatform library Parsus](https://www.reddit.com/r/Kotlin/comments/15ju7vz/blog_post_series_about_parsing_datetime_strings/)
+- [Build a Compose Multiplatform App From Scratch - Deep structure understanding](https://www.reddit.com/r/Kotlin/comments/15jmnv3/build_a_compose_multiplatform_app_from_scratch/)
+- [Can I create a class that is generic over its parent class?](https://www.reddit.com/r/Kotlin/comments/15jm7fx/can_i_create_a_class_that_is_generic_over_its/)
+- [Has anyone taken this course.](https://www.reddit.com/r/Kotlin/comments/15jkas4/has_anyone_taken_this_course/)
 - [if i want to contribute in open source should i learn flutter or kotlin ? if i had to learn both which should i learn first ?](https://www.reddit.com/r/Kotlin/comments/15j22xs/if_i_want_to_contribute_in_open_source_should_i/)
 - [Why does Kotlin require code duplication?](https://www.reddit.com/r/Kotlin/comments/15j0z7d/why_does_kotlin_require_code_duplication/)
 - [Help a Kotlin noob](https://www.reddit.com/r/Kotlin/comments/15izxii/help_a_kotlin_noob/)
 - [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/Kotlin/comments/15ivb94/github_kryptokronakryptokronakotlinsdk/)
 - [Where does coroutines queued when there are no threads to run right now?](https://www.reddit.com/r/Kotlin/comments/15iqnoo/where_does_coroutines_queued_when_there_are_no/)
 - [HTML Form parsing with http4k lenses](https://www.reddit.com/r/Kotlin/comments/15i2iaz/html_form_parsing_with_http4k_lenses/)
-- [Question someone may help me with](https://www.reddit.com/r/Kotlin/comments/15h7mt0/question_someone_may_help_me_with/)
-- [Safe concurrency in Kotlin: resources and resilience](https://www.reddit.com/r/Kotlin/comments/15h2oi4/safe_concurrency_in_kotlin_resources_and/)
-- [How to use -Xdump option in kotlin cmd line compiler](https://www.reddit.com/r/Kotlin/comments/15h15dz/how_to_use_xdump_option_in_kotlin_cmd_line/)
-- [Can I infer a generic type based on one of the arguments?](https://www.reddit.com/r/Kotlin/comments/15gnwdl/can_i_infer_a_generic_type_based_on_one_of_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
