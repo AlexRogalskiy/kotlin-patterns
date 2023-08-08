@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin dijkistra algorithm](https://www.reddit.com/r/Kotlin/comments/15kjbz8/kotlin_dijkistra_algorithm/)
+- [TestAd not Loading on Physical Device](https://www.reddit.com/r/Kotlin/comments/15kigve/testad_not_loading_on_physical_device/)
+- [GitHub - ErfanSn/AR-Touch: 🔮 Obtain the power of touchless interaction with display screens](https://www.reddit.com/r/Kotlin/comments/15kceki/github_erfansnartouch_obtain_the_power_of/)
 - [Blog post series about parsing date-time strings with Kotlin multiplatform library Parsus](https://www.reddit.com/r/Kotlin/comments/15ju7vz/blog_post_series_about_parsing_datetime_strings/)
 - [Build a Compose Multiplatform App From Scratch - Deep structure understanding](https://www.reddit.com/r/Kotlin/comments/15jmnv3/build_a_compose_multiplatform_app_from_scratch/)
 - [Can I create a class that is generic over its parent class?](https://www.reddit.com/r/Kotlin/comments/15jm7fx/can_i_create_a_class_that_is_generic_over_its/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [if i want to contribute in open source should i learn flutter or kotlin ? if i had to learn both which should i learn first ?](https://www.reddit.com/r/Kotlin/comments/15j22xs/if_i_want_to_contribute_in_open_source_should_i/)
 - [Why does Kotlin require code duplication?](https://www.reddit.com/r/Kotlin/comments/15j0z7d/why_does_kotlin_require_code_duplication/)
 - [Help a Kotlin noob](https://www.reddit.com/r/Kotlin/comments/15izxii/help_a_kotlin_noob/)
-- [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/Kotlin/comments/15ivb94/github_kryptokronakryptokronakotlinsdk/)
-- [Where does coroutines queued when there are no threads to run right now?](https://www.reddit.com/r/Kotlin/comments/15iqnoo/where_does_coroutines_queued_when_there_are_no/)
-- [HTML Form parsing with http4k lenses](https://www.reddit.com/r/Kotlin/comments/15i2iaz/html_form_parsing_with_http4k_lenses/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
