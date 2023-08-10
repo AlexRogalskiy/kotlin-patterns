@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How can I work with large Lists/Arrays?](https://www.reddit.com/r/Kotlin/comments/15mwmcw/how_can_i_work_with_large_listsarrays/)
+- [Poko goes multiplatform](https://www.reddit.com/r/Kotlin/comments/15mt6z3/poko_goes_multiplatform/)
+- [How to start learning Kotlin](https://www.reddit.com/r/Kotlin/comments/15ml4ka/how_to_start_learning_kotlin/)
+- [Kotlin Vs Dart](https://www.reddit.com/r/Kotlin/comments/15mjwno/kotlin_vs_dart/)
+- [Kotlin Optional Parameter Question](https://www.reddit.com/r/Kotlin/comments/15mj4xc/kotlin_optional_parameter_question/)
+- [If I want to follow a complete functional approach with Kotlin. Where do I get started?](https://www.reddit.com/r/Kotlin/comments/15mhq5r/if_i_want_to_follow_a_complete_functional/)
+- [Tracer: new dependency injection tool with little config](https://www.reddit.com/r/Kotlin/comments/15mcb9q/tracer_new_dependency_injection_tool_with_little/)
+- [Delegate trick: onDelegate](https://www.reddit.com/r/Kotlin/comments/15malxk/delegate_trick_ondelegate/)
 - [I have learned the basics of compose , hilt , room and retrofit but have issues with integrating them in the viewmodel and writing the logic to create a functional app](https://www.reddit.com/r/Kotlin/comments/15lw4uk/i_have_learned_the_basics_of_compose_hilt_room/)
 - [Kotlin Streamer or YouTuber](https://www.reddit.com/r/Kotlin/comments/15lucr4/kotlin_streamer_or_youtuber/)
-- [Dynamic PropNamingStrategies using Jackson on REST response API](https://www.reddit.com/r/Kotlin/comments/15lgvjr/dynamic_propnamingstrategies_using_jackson_on/)
-- [Has anyone successfully migrated Android Kotlin to KMP?](https://www.reddit.com/r/Kotlin/comments/15lcx0b/has_anyone_successfully_migrated_android_kotlin/)
-- [Kotlin dijkistra algorithm](https://www.reddit.com/r/Kotlin/comments/15kjbz8/kotlin_dijkistra_algorithm/)
-- [TestAd not Loading on Physical Device](https://www.reddit.com/r/Kotlin/comments/15kigve/testad_not_loading_on_physical_device/)
-- [GitHub - ErfanSn/AR-Touch: 🔮 Obtain the power of touchless interaction with display screens](https://www.reddit.com/r/Kotlin/comments/15kceki/github_erfansnartouch_obtain_the_power_of/)
-- [Blog post series about parsing date-time strings with Kotlin multiplatform library Parsus](https://www.reddit.com/r/Kotlin/comments/15ju7vz/blog_post_series_about_parsing_datetime_strings/)
-- [Build a Compose Multiplatform App From Scratch - Deep structure understanding](https://www.reddit.com/r/Kotlin/comments/15jmnv3/build_a_compose_multiplatform_app_from_scratch/)
-- [Can I create a class that is generic over its parent class?](https://www.reddit.com/r/Kotlin/comments/15jm7fx/can_i_create_a_class_that_is_generic_over_its/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
