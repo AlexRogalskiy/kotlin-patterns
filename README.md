@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The new episode of Talking Kotlin is just around the corner! This time, engineers from Instabee share their story of using Compose Multiplatform on iOS in production 👇](https://www.reddit.com/r/Kotlin/comments/15nfzcr/the_new_episode_of_talking_kotlin_is_just_around/)
+- [Sealed class &amp; Hibernate 6](https://www.reddit.com/r/Kotlin/comments/15ndn8g/sealed_class_hibernate_6/)
+- [multiplatform + cinterop, how to find the g++ compiler?](https://www.reddit.com/r/Kotlin/comments/15n054s/multiplatform_cinterop_how_to_find_the_g_compiler/)
 - [How can I work with large Lists/Arrays?](https://www.reddit.com/r/Kotlin/comments/15mwmcw/how_can_i_work_with_large_listsarrays/)
 - [Poko goes multiplatform](https://www.reddit.com/r/Kotlin/comments/15mt6z3/poko_goes_multiplatform/)
 - [How to start learning Kotlin](https://www.reddit.com/r/Kotlin/comments/15ml4ka/how_to_start_learning_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Optional Parameter Question](https://www.reddit.com/r/Kotlin/comments/15mj4xc/kotlin_optional_parameter_question/)
 - [If I want to follow a complete functional approach with Kotlin. Where do I get started?](https://www.reddit.com/r/Kotlin/comments/15mhq5r/if_i_want_to_follow_a_complete_functional/)
 - [Tracer: new dependency injection tool with little config](https://www.reddit.com/r/Kotlin/comments/15mcb9q/tracer_new_dependency_injection_tool_with_little/)
-- [Delegate trick: onDelegate](https://www.reddit.com/r/Kotlin/comments/15malxk/delegate_trick_ondelegate/)
-- [I have learned the basics of compose , hilt , room and retrofit but have issues with integrating them in the viewmodel and writing the logic to create a functional app](https://www.reddit.com/r/Kotlin/comments/15lw4uk/i_have_learned_the_basics_of_compose_hilt_room/)
-- [Kotlin Streamer or YouTuber](https://www.reddit.com/r/Kotlin/comments/15lucr4/kotlin_streamer_or_youtuber/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
