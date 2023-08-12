@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can I use Kotlin multi platform on a windows PC to build an iOS and android app?](https://www.reddit.com/r/Kotlin/comments/15oqzaw/can_i_use_kotlin_multi_platform_on_a_windows_pc/)
+- [Kotlin in VSCode](https://www.reddit.com/r/Kotlin/comments/15ok6n3/kotlin_in_vscode/)
+- [Looking for a Kotlin/Java Libarary for Bluetooth 5 for Desktop JVM Apps](https://www.reddit.com/r/Kotlin/comments/15oja94/looking_for_a_kotlinjava_libarary_for_bluetooth_5/)
+- [HTMX - Dynamic HTML without Javascript](https://www.reddit.com/r/Kotlin/comments/15o7j5v/htmx_dynamic_html_without_javascript/)
+- [So does compose multiplatform mean......](https://www.reddit.com/r/Kotlin/comments/15o2q9i/so_does_compose_multiplatform_mean/)
 - [The new episode of Talking Kotlin is just around the corner! This time, engineers from Instabee share their story of using Compose Multiplatform on iOS in production 👇](https://www.reddit.com/r/Kotlin/comments/15nfzcr/the_new_episode_of_talking_kotlin_is_just_around/)
 - [Sealed class &amp; Hibernate 6](https://www.reddit.com/r/Kotlin/comments/15ndn8g/sealed_class_hibernate_6/)
 - [multiplatform + cinterop, how to find the g++ compiler?](https://www.reddit.com/r/Kotlin/comments/15n054s/multiplatform_cinterop_how_to_find_the_g_compiler/)
 - [How can I work with large Lists/Arrays?](https://www.reddit.com/r/Kotlin/comments/15mwmcw/how_can_i_work_with_large_listsarrays/)
 - [Poko goes multiplatform](https://www.reddit.com/r/Kotlin/comments/15mt6z3/poko_goes_multiplatform/)
-- [How to start learning Kotlin](https://www.reddit.com/r/Kotlin/comments/15ml4ka/how_to_start_learning_kotlin/)
-- [Kotlin Vs Dart](https://www.reddit.com/r/Kotlin/comments/15mjwno/kotlin_vs_dart/)
-- [Kotlin Optional Parameter Question](https://www.reddit.com/r/Kotlin/comments/15mj4xc/kotlin_optional_parameter_question/)
-- [If I want to follow a complete functional approach with Kotlin. Where do I get started?](https://www.reddit.com/r/Kotlin/comments/15mhq5r/if_i_want_to_follow_a_complete_functional/)
-- [Tracer: new dependency injection tool with little config](https://www.reddit.com/r/Kotlin/comments/15mcb9q/tracer_new_dependency_injection_tool_with_little/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
