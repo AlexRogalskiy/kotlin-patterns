@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin native as compared to other languages with binary targets](https://www.reddit.com/r/Kotlin/comments/15pejwx/kotlin_native_as_compared_to_other_languages_with/)
+- [Kotlin Explorer – Desktop tool to quickly explore disassembled Kotlin code](https://www.reddit.com/r/Kotlin/comments/15p433t/kotlin_explorer_desktop_tool_to_quickly_explore/)
 - [Can I use Kotlin multi platform on a windows PC to build an iOS and android app?](https://www.reddit.com/r/Kotlin/comments/15oqzaw/can_i_use_kotlin_multi_platform_on_a_windows_pc/)
 - [Kotlin in VSCode](https://www.reddit.com/r/Kotlin/comments/15ok6n3/kotlin_in_vscode/)
 - [Looking for a Kotlin/Java Libarary for Bluetooth 5 for Desktop JVM Apps](https://www.reddit.com/r/Kotlin/comments/15oja94/looking_for_a_kotlinjava_libarary_for_bluetooth_5/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [The new episode of Talking Kotlin is just around the corner! This time, engineers from Instabee share their story of using Compose Multiplatform on iOS in production 👇](https://www.reddit.com/r/Kotlin/comments/15nfzcr/the_new_episode_of_talking_kotlin_is_just_around/)
 - [Sealed class &amp; Hibernate 6](https://www.reddit.com/r/Kotlin/comments/15ndn8g/sealed_class_hibernate_6/)
 - [multiplatform + cinterop, how to find the g++ compiler?](https://www.reddit.com/r/Kotlin/comments/15n054s/multiplatform_cinterop_how_to_find_the_g_compiler/)
-- [How can I work with large Lists/Arrays?](https://www.reddit.com/r/Kotlin/comments/15mwmcw/how_can_i_work_with_large_listsarrays/)
-- [Poko goes multiplatform](https://www.reddit.com/r/Kotlin/comments/15mt6z3/poko_goes_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
