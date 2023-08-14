@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [when should i leave java for kotlin?](https://www.reddit.com/r/Kotlin/comments/15qetqq/when_should_i_leave_java_for_kotlin/)
+- [What&#39;s the best way to convert a List&lt;Pair&lt;A,B&gt;&gt; to Map&lt;A,Set&lt;B&gt;&gt;](https://www.reddit.com/r/Kotlin/comments/15q9ak2/whats_the_best_way_to_convert_a_listpairab_to/)
+- [Welcome](https://www.reddit.com/r/Kotlin/comments/15px0o4/welcome/)
+- [Useful Kotlin features that &lpar;maybe&rpar; not everyone knows about](https://www.reddit.com/r/Kotlin/comments/15pqqfs/useful_kotlin_features_that_maybe_not_everyone/)
+- [May I ask that kotlin multiplatform jvm can use inputStream, so what about iOS? Is there a solution now? Is there a third-party library or an official library in this regard?](https://www.reddit.com/r/Kotlin/comments/15pn9jy/may_i_ask_that_kotlin_multiplatform_jvm_can_use/)
 - [Kotlin native as compared to other languages with binary targets](https://www.reddit.com/r/Kotlin/comments/15pejwx/kotlin_native_as_compared_to_other_languages_with/)
 - [Kotlin Explorer – Desktop tool to quickly explore disassembled Kotlin code](https://www.reddit.com/r/Kotlin/comments/15p433t/kotlin_explorer_desktop_tool_to_quickly_explore/)
 - [Can I use Kotlin multi platform on a windows PC to build an iOS and android app?](https://www.reddit.com/r/Kotlin/comments/15oqzaw/can_i_use_kotlin_multi_platform_on_a_windows_pc/)
 - [Kotlin in VSCode](https://www.reddit.com/r/Kotlin/comments/15ok6n3/kotlin_in_vscode/)
 - [Looking for a Kotlin/Java Libarary for Bluetooth 5 for Desktop JVM Apps](https://www.reddit.com/r/Kotlin/comments/15oja94/looking_for_a_kotlinjava_libarary_for_bluetooth_5/)
-- [HTMX - Dynamic HTML without Javascript](https://www.reddit.com/r/Kotlin/comments/15o7j5v/htmx_dynamic_html_without_javascript/)
-- [So does compose multiplatform mean......](https://www.reddit.com/r/Kotlin/comments/15o2q9i/so_does_compose_multiplatform_mean/)
-- [The new episode of Talking Kotlin is just around the corner! This time, engineers from Instabee share their story of using Compose Multiplatform on iOS in production 👇](https://www.reddit.com/r/Kotlin/comments/15nfzcr/the_new_episode_of_talking_kotlin_is_just_around/)
-- [Sealed class &amp; Hibernate 6](https://www.reddit.com/r/Kotlin/comments/15ndn8g/sealed_class_hibernate_6/)
-- [multiplatform + cinterop, how to find the g++ compiler?](https://www.reddit.com/r/Kotlin/comments/15n054s/multiplatform_cinterop_how_to_find_the_g_compiler/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
