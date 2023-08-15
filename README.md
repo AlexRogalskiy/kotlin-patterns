@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SurrealDB Kotlin Driver](https://www.reddit.com/r/Kotlin/comments/15r24tp/surrealdb_kotlin_driver/)
+- [How do primitives work in Kotlin?](https://www.reddit.com/r/Kotlin/comments/15r1miu/how_do_primitives_work_in_kotlin/)
+- [How can I upgrade proguard version used in Compose for Desktop?](https://www.reddit.com/r/Kotlin/comments/15r0myc/how_can_i_upgrade_proguard_version_used_in/)
 - [when should i leave java for kotlin?](https://www.reddit.com/r/Kotlin/comments/15qetqq/when_should_i_leave_java_for_kotlin/)
 - [What&#39;s the best way to convert a List&lt;Pair&lt;A,B&gt;&gt; to Map&lt;A,Set&lt;B&gt;&gt;](https://www.reddit.com/r/Kotlin/comments/15q9ak2/whats_the_best_way_to_convert_a_listpairab_to/)
-- [Welcome](https://www.reddit.com/r/Kotlin/comments/15px0o4/welcome/)
 - [Useful Kotlin features that &lpar;maybe&rpar; not everyone knows about](https://www.reddit.com/r/Kotlin/comments/15pqqfs/useful_kotlin_features_that_maybe_not_everyone/)
 - [May I ask that kotlin multiplatform jvm can use inputStream, so what about iOS? Is there a solution now? Is there a third-party library or an official library in this regard?](https://www.reddit.com/r/Kotlin/comments/15pn9jy/may_i_ask_that_kotlin_multiplatform_jvm_can_use/)
 - [Kotlin native as compared to other languages with binary targets](https://www.reddit.com/r/Kotlin/comments/15pejwx/kotlin_native_as_compared_to_other_languages_with/)
 - [Kotlin Explorer – Desktop tool to quickly explore disassembled Kotlin code](https://www.reddit.com/r/Kotlin/comments/15p433t/kotlin_explorer_desktop_tool_to_quickly_explore/)
 - [Can I use Kotlin multi platform on a windows PC to build an iOS and android app?](https://www.reddit.com/r/Kotlin/comments/15oqzaw/can_i_use_kotlin_multi_platform_on_a_windows_pc/)
-- [Kotlin in VSCode](https://www.reddit.com/r/Kotlin/comments/15ok6n3/kotlin_in_vscode/)
-- [Looking for a Kotlin/Java Libarary for Bluetooth 5 for Desktop JVM Apps](https://www.reddit.com/r/Kotlin/comments/15oja94/looking_for_a_kotlinjava_libarary_for_bluetooth_5/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
