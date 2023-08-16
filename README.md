@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Frontend vs backend](https://www.reddit.com/r/Kotlin/comments/15s9xt8/frontend_vs_backend/)
+- [Best way to learn Kotlin](https://www.reddit.com/r/Kotlin/comments/15s4z2n/best_way_to_learn_kotlin/)
+- [Do you use Scratch files, Worksheets, Notebooks, or any other REPL environment with Kotlin?](https://www.reddit.com/r/Kotlin/comments/15rzt6x/do_you_use_scratch_files_worksheets_notebooks_or/)
+- [Smart Vending Machine Project &lpar;Advice needed&rpar;](https://www.reddit.com/r/Kotlin/comments/15rz7ld/smart_vending_machine_project_advice_needed/)
+- [What is the best way of developing a web service, for consuming in android app ?](https://www.reddit.com/r/Kotlin/comments/15rxbdl/what_is_the_best_way_of_developing_a_web_service/)
+- [Is this possible in Kotlin?](https://www.reddit.com/r/Kotlin/comments/15rn9q1/is_this_possible_in_kotlin/)
 - [SurrealDB Kotlin Driver](https://www.reddit.com/r/Kotlin/comments/15r24tp/surrealdb_kotlin_driver/)
 - [How do primitives work in Kotlin?](https://www.reddit.com/r/Kotlin/comments/15r1miu/how_do_primitives_work_in_kotlin/)
 - [How can I upgrade proguard version used in Compose for Desktop?](https://www.reddit.com/r/Kotlin/comments/15r0myc/how_can_i_upgrade_proguard_version_used_in/)
 - [when should i leave java for kotlin?](https://www.reddit.com/r/Kotlin/comments/15qetqq/when_should_i_leave_java_for_kotlin/)
-- [What&#39;s the best way to convert a List&lt;Pair&lt;A,B&gt;&gt; to Map&lt;A,Set&lt;B&gt;&gt;](https://www.reddit.com/r/Kotlin/comments/15q9ak2/whats_the_best_way_to_convert_a_listpairab_to/)
-- [Useful Kotlin features that &lpar;maybe&rpar; not everyone knows about](https://www.reddit.com/r/Kotlin/comments/15pqqfs/useful_kotlin_features_that_maybe_not_everyone/)
-- [May I ask that kotlin multiplatform jvm can use inputStream, so what about iOS? Is there a solution now? Is there a third-party library or an official library in this regard?](https://www.reddit.com/r/Kotlin/comments/15pn9jy/may_i_ask_that_kotlin_multiplatform_jvm_can_use/)
-- [Kotlin native as compared to other languages with binary targets](https://www.reddit.com/r/Kotlin/comments/15pejwx/kotlin_native_as_compared_to_other_languages_with/)
-- [Kotlin Explorer – Desktop tool to quickly explore disassembled Kotlin code](https://www.reddit.com/r/Kotlin/comments/15p433t/kotlin_explorer_desktop_tool_to_quickly_explore/)
-- [Can I use Kotlin multi platform on a windows PC to build an iOS and android app?](https://www.reddit.com/r/Kotlin/comments/15oqzaw/can_i_use_kotlin_multi_platform_on_a_windows_pc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
