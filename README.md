@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Shuffle multiple lists &lpar;all of them of the same size&rpar; in the same manner](https://www.reddit.com/r/Kotlin/comments/15t0d7k/shuffle_multiple_lists_all_of_them_of_the_same/)
+- [Hexagon Toolkit 3.0 was just released 🎊🎉](https://www.reddit.com/r/Kotlin/comments/15ss271/hexagon_toolkit_30_was_just_released/)
 - [Frontend vs backend](https://www.reddit.com/r/Kotlin/comments/15s9xt8/frontend_vs_backend/)
 - [Best way to learn Kotlin](https://www.reddit.com/r/Kotlin/comments/15s4z2n/best_way_to_learn_kotlin/)
 - [Do you use Scratch files, Worksheets, Notebooks, or any other REPL environment with Kotlin?](https://www.reddit.com/r/Kotlin/comments/15rzt6x/do_you_use_scratch_files_worksheets_notebooks_or/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Is this possible in Kotlin?](https://www.reddit.com/r/Kotlin/comments/15rn9q1/is_this_possible_in_kotlin/)
 - [SurrealDB Kotlin Driver](https://www.reddit.com/r/Kotlin/comments/15r24tp/surrealdb_kotlin_driver/)
 - [How do primitives work in Kotlin?](https://www.reddit.com/r/Kotlin/comments/15r1miu/how_do_primitives_work_in_kotlin/)
-- [How can I upgrade proguard version used in Compose for Desktop?](https://www.reddit.com/r/Kotlin/comments/15r0myc/how_can_i_upgrade_proguard_version_used_in/)
-- [when should i leave java for kotlin?](https://www.reddit.com/r/Kotlin/comments/15qetqq/when_should_i_leave_java_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
