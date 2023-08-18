@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just published FlowMVI 2.0 - KMP MVI Architecture on steroids](https://www.reddit.com/r/Kotlin/comments/15txudh/just_published_flowmvi_20_kmp_mvi_architecture_on/)
+- [KVision 7.0.0 is released](https://www.reddit.com/r/Kotlin/comments/15tlk5z/kvision_700_is_released/)
 - [Shuffle multiple lists &lpar;all of them of the same size&rpar; in the same manner](https://www.reddit.com/r/Kotlin/comments/15t0d7k/shuffle_multiple_lists_all_of_them_of_the_same/)
 - [Hexagon Toolkit 3.0 was just released 🎊🎉](https://www.reddit.com/r/Kotlin/comments/15ss271/hexagon_toolkit_30_was_just_released/)
 - [Frontend vs backend](https://www.reddit.com/r/Kotlin/comments/15s9xt8/frontend_vs_backend/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Smart Vending Machine Project &lpar;Advice needed&rpar;](https://www.reddit.com/r/Kotlin/comments/15rz7ld/smart_vending_machine_project_advice_needed/)
 - [What is the best way of developing a web service, for consuming in android app ?](https://www.reddit.com/r/Kotlin/comments/15rxbdl/what_is_the_best_way_of_developing_a_web_service/)
 - [Is this possible in Kotlin?](https://www.reddit.com/r/Kotlin/comments/15rn9q1/is_this_possible_in_kotlin/)
-- [SurrealDB Kotlin Driver](https://www.reddit.com/r/Kotlin/comments/15r24tp/surrealdb_kotlin_driver/)
-- [How do primitives work in Kotlin?](https://www.reddit.com/r/Kotlin/comments/15r1miu/how_do_primitives_work_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
