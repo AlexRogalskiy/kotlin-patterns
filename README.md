@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beginner questions on using databases.](https://www.reddit.com/r/Kotlin/comments/15vvdfd/beginner_questions_on_using_databases/)
+- [Kotlin DSL Primer: Techniques, Patterns &amp; Implementation](https://www.reddit.com/r/Kotlin/comments/15vk736/kotlin_dsl_primer_techniques_patterns/)
+- [Help with Kotlin Flow](https://www.reddit.com/r/Kotlin/comments/15vcbd8/help_with_kotlin_flow/)
+- [error: supertype initialization is impossible without primary constructor](https://www.reddit.com/r/Kotlin/comments/15v7p65/error_supertype_initialization_is_impossible/)
 - [Testing HTMX with Playwright](https://www.reddit.com/r/Kotlin/comments/15uj5mp/testing_htmx_with_playwright/)
 - [Handling different kind of incoming json messages and update database.](https://www.reddit.com/r/Kotlin/comments/15udksu/handling_different_kind_of_incoming_json_messages/)
 - [Just published FlowMVI 2.0 - KMP MVI Architecture on steroids](https://www.reddit.com/r/Kotlin/comments/15txudh/just_published_flowmvi_20_kmp_mvi_architecture_on/)
 - [KVision 7.0.0 is released](https://www.reddit.com/r/Kotlin/comments/15tlk5z/kvision_700_is_released/)
 - [Shuffle multiple lists &lpar;all of them of the same size&rpar; in the same manner](https://www.reddit.com/r/Kotlin/comments/15t0d7k/shuffle_multiple_lists_all_of_them_of_the_same/)
 - [Hexagon Toolkit 3.0 was just released 🎊🎉](https://www.reddit.com/r/Kotlin/comments/15ss271/hexagon_toolkit_30_was_just_released/)
-- [Frontend vs backend](https://www.reddit.com/r/Kotlin/comments/15s9xt8/frontend_vs_backend/)
-- [Best way to learn Kotlin](https://www.reddit.com/r/Kotlin/comments/15s4z2n/best_way_to_learn_kotlin/)
-- [Do you use Scratch files, Worksheets, Notebooks, or any other REPL environment with Kotlin?](https://www.reddit.com/r/Kotlin/comments/15rzt6x/do_you_use_scratch_files_worksheets_notebooks_or/)
-- [Smart Vending Machine Project &lpar;Advice needed&rpar;](https://www.reddit.com/r/Kotlin/comments/15rz7ld/smart_vending_machine_project_advice_needed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
