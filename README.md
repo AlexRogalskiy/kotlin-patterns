@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best kotlin youtube channels?](https://www.reddit.com/r/Kotlin/comments/15xkos4/best_kotlin_youtube_channels/)
+- [Sprinkler: Binary Transcoders; binary serialization made easy](https://www.reddit.com/r/Kotlin/comments/15xi8t5/sprinkler_binary_transcoders_binary_serialization/)
+- [Issues with any Gradle interaction](https://www.reddit.com/r/Kotlin/comments/15x4652/issues_with_any_gradle_interaction/)
+- [hello guys i really need your help. i have 0 errors in my code an unable to run it. i am facing this problem. i just started using kotlin and i am unable to find a solution. It would be very grateful if someone could hello me on this](https://www.reddit.com/r/Kotlin/comments/15x3c44/hello_guys_i_really_need_your_help_i_have_0/)
+- [hello guys, i really need your help on this problem. i have no errors in my code but i am unable to run it.could someone provide me with a solution, i need to present this project tommorrow.](https://www.reddit.com/r/Kotlin/comments/15x3aii/hello_guys_i_really_need_your_help_on_this/)
+- [hello guys, i really need your help on this problem. i have no errors in my code but i am unable to run it.could someone provide me with a solution, i need to present this project tommorrow.](https://www.reddit.com/r/Kotlin/comments/15x37iv/hello_guys_i_really_need_your_help_on_this/)
+- [Saving a variable change after condition us no longer met](https://www.reddit.com/r/Kotlin/comments/15x2t4j/saving_a_variable_change_after_condition_us_no/)
 - [How to invoke functions via reflection?](https://www.reddit.com/r/Kotlin/comments/15wne3b/how_to_invoke_functions_via_reflection/)
 - [Help with JSON deserialization using KotlinX.Serialization, KTor, and KMM with generic class](https://www.reddit.com/r/Kotlin/comments/15wla9e/help_with_json_deserialization_using/)
 - [A cheat sheet for Kotlin on Github](https://www.reddit.com/r/Kotlin/comments/15wiicr/a_cheat_sheet_for_kotlin_on_github/)
-- [A bot with Kotlin](https://www.reddit.com/r/Kotlin/comments/15wh353/a_bot_with_kotlin/)
-- [Beginner question on using delegation in Kotlin](https://www.reddit.com/r/Kotlin/comments/15w184w/beginner_question_on_using_delegation_in_kotlin/)
-- [Is there a Kotlin discord?](https://www.reddit.com/r/Kotlin/comments/15vyo6c/is_there_a_kotlin_discord/)
-- [Beginner questions on using databases.](https://www.reddit.com/r/Kotlin/comments/15vvdfd/beginner_questions_on_using_databases/)
-- [Kotlin DSL Primer: Techniques, Patterns &amp; Implementation](https://www.reddit.com/r/Kotlin/comments/15vk736/kotlin_dsl_primer_techniques_patterns/)
-- [Help with Kotlin Flow](https://www.reddit.com/r/Kotlin/comments/15vcbd8/help_with_kotlin_flow/)
-- [error: supertype initialization is impossible without primary constructor](https://www.reddit.com/r/Kotlin/comments/15v7p65/error_supertype_initialization_is_impossible/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
