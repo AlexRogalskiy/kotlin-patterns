@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Intellisense broken on multiplatform: AGAIN](https://www.reddit.com/r/Kotlin/comments/15yjfmi/intellisense_broken_on_multiplatform_again/)
+- [trouble with build setup. &lpar;compose desktop, windows, intellijidea&rpar; I think it might just be an issue with how im telling the build file about my jdk version but i cant find help online about what do next?](https://www.reddit.com/r/Kotlin/comments/15yhttd/trouble_with_build_setup_compose_desktop_windows/)
+- [Who&#39;s Hiring?](https://www.reddit.com/r/Kotlin/comments/15ydoya/whos_hiring/)
+- [Recommended way to learn to write a kotlin compiler plugin？](https://www.reddit.com/r/Kotlin/comments/15ybj87/recommended_way_to_learn_to_write_a_kotlin/)
+- [Kotlin Illustrated Ch 14 - Abstract and Open Classes](https://www.reddit.com/r/Kotlin/comments/15y5oa0/kotlin_illustrated_ch_14_abstract_and_open_classes/)
+- [Kotlin Algorithms and Design Patterns](https://www.reddit.com/r/Kotlin/comments/15y3xzu/kotlin_algorithms_and_design_patterns/)
+- [How good is Kotlin for integration of multiple other APIs? Which framework should i prefer?](https://www.reddit.com/r/Kotlin/comments/15xxhcx/how_good_is_kotlin_for_integration_of_multiple/)
 - [Best kotlin youtube channels?](https://www.reddit.com/r/Kotlin/comments/15xkos4/best_kotlin_youtube_channels/)
 - [Sprinkler: Binary Transcoders; binary serialization made easy](https://www.reddit.com/r/Kotlin/comments/15xi8t5/sprinkler_binary_transcoders_binary_serialization/)
 - [Issues with any Gradle interaction](https://www.reddit.com/r/Kotlin/comments/15x4652/issues_with_any_gradle_interaction/)
-- [hello guys i really need your help. i have 0 errors in my code an unable to run it. i am facing this problem. i just started using kotlin and i am unable to find a solution. It would be very grateful if someone could hello me on this](https://www.reddit.com/r/Kotlin/comments/15x3c44/hello_guys_i_really_need_your_help_i_have_0/)
-- [hello guys, i really need your help on this problem. i have no errors in my code but i am unable to run it.could someone provide me with a solution, i need to present this project tommorrow.](https://www.reddit.com/r/Kotlin/comments/15x3aii/hello_guys_i_really_need_your_help_on_this/)
-- [hello guys, i really need your help on this problem. i have no errors in my code but i am unable to run it.could someone provide me with a solution, i need to present this project tommorrow.](https://www.reddit.com/r/Kotlin/comments/15x37iv/hello_guys_i_really_need_your_help_on_this/)
-- [Saving a variable change after condition us no longer met](https://www.reddit.com/r/Kotlin/comments/15x2t4j/saving_a_variable_change_after_condition_us_no/)
-- [How to invoke functions via reflection?](https://www.reddit.com/r/Kotlin/comments/15wne3b/how_to_invoke_functions_via_reflection/)
-- [Help with JSON deserialization using KotlinX.Serialization, KTor, and KMM with generic class](https://www.reddit.com/r/Kotlin/comments/15wla9e/help_with_json_deserialization_using/)
-- [A cheat sheet for Kotlin on Github](https://www.reddit.com/r/Kotlin/comments/15wiicr/a_cheat_sheet_for_kotlin_on_github/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
