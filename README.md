@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Calf - Compose Adaptive Look &amp; Feel is released 🎉 🚀](https://www.reddit.com/r/Kotlin/comments/15z9gfs/calf_compose_adaptive_look_feel_is_released/)
+- [Dynamically Unloading Plugins.... HELP](https://www.reddit.com/r/Kotlin/comments/15z3umb/dynamically_unloading_plugins_help/)
+- [Android and iOS library from Kotlin Multiplatform based on a C library compiled from Golang - am I crazy ?](https://www.reddit.com/r/Kotlin/comments/15ytazb/android_and_ios_library_from_kotlin_multiplatform/)
 - [Intellisense broken on multiplatform: AGAIN](https://www.reddit.com/r/Kotlin/comments/15yjfmi/intellisense_broken_on_multiplatform_again/)
 - [trouble with build setup. &lpar;compose desktop, windows, intellijidea&rpar; I think it might just be an issue with how im telling the build file about my jdk version but i cant find help online about what do next?](https://www.reddit.com/r/Kotlin/comments/15yhttd/trouble_with_build_setup_compose_desktop_windows/)
 - [Who&#39;s Hiring?](https://www.reddit.com/r/Kotlin/comments/15ydoya/whos_hiring/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Illustrated Ch 14 - Abstract and Open Classes](https://www.reddit.com/r/Kotlin/comments/15y5oa0/kotlin_illustrated_ch_14_abstract_and_open_classes/)
 - [Kotlin Algorithms and Design Patterns](https://www.reddit.com/r/Kotlin/comments/15y3xzu/kotlin_algorithms_and_design_patterns/)
 - [How good is Kotlin for integration of multiple other APIs? Which framework should i prefer?](https://www.reddit.com/r/Kotlin/comments/15xxhcx/how_good_is_kotlin_for_integration_of_multiple/)
-- [Best kotlin youtube channels?](https://www.reddit.com/r/Kotlin/comments/15xkos4/best_kotlin_youtube_channels/)
-- [Sprinkler: Binary Transcoders; binary serialization made easy](https://www.reddit.com/r/Kotlin/comments/15xi8t5/sprinkler_binary_transcoders_binary_serialization/)
-- [Issues with any Gradle interaction](https://www.reddit.com/r/Kotlin/comments/15x4652/issues_with_any_gradle_interaction/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
