@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Calf - Compose Adaptive Look &amp; Feel is released 🎉 🚀](https://www.reddit.com/r/Kotlin/comments/15z9gfs/calf_compose_adaptive_look_feel_is_released/)
-- [Dynamically Unloading Plugins.... HELP](https://www.reddit.com/r/Kotlin/comments/15z3umb/dynamically_unloading_plugins_help/)
-- [Android and iOS library from Kotlin Multiplatform based on a C library compiled from Golang - am I crazy ?](https://www.reddit.com/r/Kotlin/comments/15ytazb/android_and_ios_library_from_kotlin_multiplatform/)
-- [Intellisense broken on multiplatform: AGAIN](https://www.reddit.com/r/Kotlin/comments/15yjfmi/intellisense_broken_on_multiplatform_again/)
-- [trouble with build setup. &lpar;compose desktop, windows, intellijidea&rpar; I think it might just be an issue with how im telling the build file about my jdk version but i cant find help online about what do next?](https://www.reddit.com/r/Kotlin/comments/15yhttd/trouble_with_build_setup_compose_desktop_windows/)
-- [Who&#39;s Hiring?](https://www.reddit.com/r/Kotlin/comments/15ydoya/whos_hiring/)
-- [Recommended way to learn to write a kotlin compiler plugin？](https://www.reddit.com/r/Kotlin/comments/15ybj87/recommended_way_to_learn_to_write_a_kotlin/)
-- [Kotlin Illustrated Ch 14 - Abstract and Open Classes](https://www.reddit.com/r/Kotlin/comments/15y5oa0/kotlin_illustrated_ch_14_abstract_and_open_classes/)
-- [Kotlin Algorithms and Design Patterns](https://www.reddit.com/r/Kotlin/comments/15y3xzu/kotlin_algorithms_and_design_patterns/)
-- [How good is Kotlin for integration of multiple other APIs? Which framework should i prefer?](https://www.reddit.com/r/Kotlin/comments/15xxhcx/how_good_is_kotlin_for_integration_of_multiple/)
+- [Help understanding this complicated abstract class implementation I found on Stackoverflow](https://www.reddit.com/r/Kotlin/comments/160k1ls/help_understanding_this_complicated_abstract/)
+- [XML parser/serializer for Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/160jx1c/xml_parserserializer_for_kotlin_multiplatform/)
+- [access TPM in KMP?](https://www.reddit.com/r/Kotlin/comments/160gvj1/access_tpm_in_kmp/)
+- [Share models between backend and frontend](https://www.reddit.com/r/Kotlin/comments/160fzd3/share_models_between_backend_and_frontend/)
+- [Ai model is loading endlessly](https://www.reddit.com/r/Kotlin/comments/160crrk/ai_model_is_loading_endlessly/)
+- [Kotlin 1.9.10 is released!](https://www.reddit.com/r/Kotlin/comments/16077x4/kotlin_1910_is_released/)
+- [Help regarding serial communication android 5.1.1](https://www.reddit.com/r/Kotlin/comments/1606f8f/help_regarding_serial_communication_android_511/)
+- [Fastest way to learn idiomatic Kotlin for the backend development](https://www.reddit.com/r/Kotlin/comments/1605d6a/fastest_way_to_learn_idiomatic_kotlin_for_the/)
+- [Kotlin Flow/Coroutine Question](https://www.reddit.com/r/Kotlin/comments/1604h36/kotlin_flowcoroutine_question/)
+- [Can someone explain this Kotlin syntax?](https://www.reddit.com/r/Kotlin/comments/1602mop/can_someone_explain_this_kotlin_syntax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
