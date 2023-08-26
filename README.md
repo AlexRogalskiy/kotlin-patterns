@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to control by code the phone flashlight light brightness/strength?](https://www.reddit.com/r/Kotlin/comments/161arno/how_to_control_by_code_the_phone_flashlight_light/)
+- [Seeking Advice: Should I Enhance my React Native Skills or Learn Native Android &lpar;Kotlin&rpar;?](https://www.reddit.com/r/Kotlin/comments/1618lc8/seeking_advice_should_i_enhance_my_react_native/)
+- [compose multiplatform - creating observable objects](https://www.reddit.com/r/Kotlin/comments/16152km/compose_multiplatform_creating_observable_objects/)
+- [Looking for a simple code editor for kotlin](https://www.reddit.com/r/Kotlin/comments/1610ttx/looking_for_a_simple_code_editor_for_kotlin/)
+- [Extending Playwright with Kotlin](https://www.reddit.com/r/Kotlin/comments/160z6w6/extending_playwright_with_kotlin/)
 - [Help understanding this complicated abstract class implementation I found on Stackoverflow](https://www.reddit.com/r/Kotlin/comments/160k1ls/help_understanding_this_complicated_abstract/)
 - [XML parser/serializer for Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/160jx1c/xml_parserserializer_for_kotlin_multiplatform/)
 - [access TPM in KMP?](https://www.reddit.com/r/Kotlin/comments/160gvj1/access_tpm_in_kmp/)
 - [Share models between backend and frontend](https://www.reddit.com/r/Kotlin/comments/160fzd3/share_models_between_backend_and_frontend/)
-- [Ai model is loading endlessly](https://www.reddit.com/r/Kotlin/comments/160crrk/ai_model_is_loading_endlessly/)
 - [Kotlin 1.9.10 is released!](https://www.reddit.com/r/Kotlin/comments/16077x4/kotlin_1910_is_released/)
-- [Help regarding serial communication android 5.1.1](https://www.reddit.com/r/Kotlin/comments/1606f8f/help_regarding_serial_communication_android_511/)
-- [Fastest way to learn idiomatic Kotlin for the backend development](https://www.reddit.com/r/Kotlin/comments/1605d6a/fastest_way_to_learn_idiomatic_kotlin_for_the/)
-- [Kotlin Flow/Coroutine Question](https://www.reddit.com/r/Kotlin/comments/1604h36/kotlin_flowcoroutine_question/)
-- [Can someone explain this Kotlin syntax?](https://www.reddit.com/r/Kotlin/comments/1602mop/can_someone_explain_this_kotlin_syntax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
