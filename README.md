@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can someone explain to me what Coroutines are?](https://www.reddit.com/r/Kotlin/comments/162d2lv/can_someone_explain_to_me_what_coroutines_are/)
+- [Can someone explain to me what Coroutines are?](https://www.reddit.com/r/Kotlin/comments/162d2lm/can_someone_explain_to_me_what_coroutines_are/)
 - [How to control by code the phone flashlight light brightness/strength?](https://www.reddit.com/r/Kotlin/comments/161arno/how_to_control_by_code_the_phone_flashlight_light/)
 - [Seeking Advice: Should I Enhance my React Native Skills or Learn Native Android &lpar;Kotlin&rpar;?](https://www.reddit.com/r/Kotlin/comments/1618lc8/seeking_advice_should_i_enhance_my_react_native/)
 - [compose multiplatform - creating observable objects](https://www.reddit.com/r/Kotlin/comments/16152km/compose_multiplatform_creating_observable_objects/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Help understanding this complicated abstract class implementation I found on Stackoverflow](https://www.reddit.com/r/Kotlin/comments/160k1ls/help_understanding_this_complicated_abstract/)
 - [XML parser/serializer for Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/160jx1c/xml_parserserializer_for_kotlin_multiplatform/)
 - [access TPM in KMP?](https://www.reddit.com/r/Kotlin/comments/160gvj1/access_tpm_in_kmp/)
-- [Share models between backend and frontend](https://www.reddit.com/r/Kotlin/comments/160fzd3/share_models_between_backend_and_frontend/)
-- [Kotlin 1.9.10 is released!](https://www.reddit.com/r/Kotlin/comments/16077x4/kotlin_1910_is_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
