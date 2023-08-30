@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [When and why should I use the &#39;in&#39; or &#39;out&#39; keywords?](https://www.reddit.com/r/Kotlin/comments/164q0ye/when_and_why_should_i_use_the_in_or_out_keywords/)
+- [tips to decrese kotlin compilation time.](https://www.reddit.com/r/Kotlin/comments/164c3zg/tips_to_decrese_kotlin_compilation_time/)
+- [Preference Datastore to encrypt and decrypt string in xml](https://www.reddit.com/r/Kotlin/comments/164bflg/preference_datastore_to_encrypt_and_decrypt/)
+- [Flow, Channel, or something else?](https://www.reddit.com/r/Kotlin/comments/1646lcn/flow_channel_or_something_else/)
 - [Can you discriminate what interface are you working on with properties?](https://www.reddit.com/r/Kotlin/comments/1643s8j/can_you_discriminate_what_interface_are_you/)
 - [Is there a way to create a method that will determine what is the T type of a class?](https://www.reddit.com/r/Kotlin/comments/1642ty7/is_there_a_way_to_create_a_method_that_will/)
 - [How helpful has Kotlin DSL been for you? In what use case have you implemented it?](https://www.reddit.com/r/Kotlin/comments/163xobs/how_helpful_has_kotlin_dsl_been_for_you_in_what/)
 - [Seeking Advice on Integrating Compose and SwiftUI](https://www.reddit.com/r/Kotlin/comments/163vf9s/seeking_advice_on_integrating_compose_and_swiftui/)
 - [Compose Multiplatform 1.5.0 Release](https://www.reddit.com/r/Kotlin/comments/163q2em/compose_multiplatform_150_release/)
 - [Alligator Operator in Kotlin 1.9](https://www.reddit.com/r/Kotlin/comments/163nei8/alligator_operator_in_kotlin_19/)
-- [Is Kotlin a good choice for competitive programming and leetcode or Should I continue with C++ or Java?](https://www.reddit.com/r/Kotlin/comments/163kimo/is_kotlin_a_good_choice_for_competitive/)
-- [Algorithm Question Repository - Join and Contribute!](https://www.reddit.com/r/Kotlin/comments/163fhwb/algorithm_question_repository_join_and_contribute/)
-- [Escape the magics of the frameworks](https://www.reddit.com/r/Kotlin/comments/163eu9j/escape_the_magics_of_the_frameworks/)
-- [Can I use KMM Flutter and Swift with windows?](https://www.reddit.com/r/Kotlin/comments/163cg09/can_i_use_kmm_flutter_and_swift_with_windows/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
