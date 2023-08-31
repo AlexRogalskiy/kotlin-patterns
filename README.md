@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it possible to get all possible method calls?](https://www.reddit.com/r/Kotlin/comments/165wufo/is_it_possible_to_get_all_possible_method_calls/)
+- [Kotlin new comer, NOT from Java](https://www.reddit.com/r/Kotlin/comments/165me76/kotlin_new_comer_not_from_java/)
+- [Is Java feature deprecated but Kotlin not? What is best practice in this case](https://www.reddit.com/r/Kotlin/comments/165m4y4/is_java_feature_deprecated_but_kotlin_not_what_is/)
+- [Add `statefulMap` and `statefulTransform` operator to Kotlin coroutines&#39; Flow](https://www.reddit.com/r/Kotlin/comments/165c6he/add_statefulmap_and_statefultransform_operator_to/)
 - [When and why should I use the &#39;in&#39; or &#39;out&#39; keywords?](https://www.reddit.com/r/Kotlin/comments/164q0ye/when_and_why_should_i_use_the_in_or_out_keywords/)
 - [tips to decrese kotlin compilation time.](https://www.reddit.com/r/Kotlin/comments/164c3zg/tips_to_decrese_kotlin_compilation_time/)
 - [Preference Datastore to encrypt and decrypt string in xml](https://www.reddit.com/r/Kotlin/comments/164bflg/preference_datastore_to_encrypt_and_decrypt/)
 - [Flow, Channel, or something else?](https://www.reddit.com/r/Kotlin/comments/1646lcn/flow_channel_or_something_else/)
 - [Can you discriminate what interface are you working on with properties?](https://www.reddit.com/r/Kotlin/comments/1643s8j/can_you_discriminate_what_interface_are_you/)
 - [Is there a way to create a method that will determine what is the T type of a class?](https://www.reddit.com/r/Kotlin/comments/1642ty7/is_there_a_way_to_create_a_method_that_will/)
-- [How helpful has Kotlin DSL been for you? In what use case have you implemented it?](https://www.reddit.com/r/Kotlin/comments/163xobs/how_helpful_has_kotlin_dsl_been_for_you_in_what/)
-- [Seeking Advice on Integrating Compose and SwiftUI](https://www.reddit.com/r/Kotlin/comments/163vf9s/seeking_advice_on_integrating_compose_and_swiftui/)
-- [Compose Multiplatform 1.5.0 Release](https://www.reddit.com/r/Kotlin/comments/163q2em/compose_multiplatform_150_release/)
-- [Alligator Operator in Kotlin 1.9](https://www.reddit.com/r/Kotlin/comments/163nei8/alligator_operator_in_kotlin_19/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
