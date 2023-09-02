@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Newbie takes...](https://www.reddit.com/r/Kotlin/comments/167gtbh/newbie_takes/)
+- [Currying in Kotlin](https://www.reddit.com/r/Kotlin/comments/1675q5c/currying_in_kotlin/)
+- [Custom tunneling protocol with vpnservice](https://www.reddit.com/r/Kotlin/comments/167564i/custom_tunneling_protocol_with_vpnservice/)
+- [Expert Refactoring - Introducing duplication to remove duplication](https://www.reddit.com/r/Kotlin/comments/1673mpq/expert_refactoring_introducing_duplication_to/)
 - [Developing a Android Camera app from scratch?](https://www.reddit.com/r/Kotlin/comments/166h6hr/developing_a_android_camera_app_from_scratch/)
 - [Kamel vs compose-imageloader](https://www.reddit.com/r/Kotlin/comments/166ck45/kamel_vs_composeimageloader/)
 - [Apologies for the basic question, but I want to make sure I get a definitive answer](https://www.reddit.com/r/Kotlin/comments/1669zfc/apologies_for_the_basic_question_but_i_want_to/)
 - [Trying to read the docs, but...](https://www.reddit.com/r/Kotlin/comments/1667zwy/trying_to_read_the_docs_but/)
 - [How To Use Kotlin’s Built-In Functions To Measure Code Execution Time](https://www.reddit.com/r/Kotlin/comments/1666v9q/how_to_use_kotlins_builtin_functions_to_measure/)
 - [Fixed Clock now with kotlinx.datetime for test](https://www.reddit.com/r/Kotlin/comments/1665t5p/fixed_clock_now_with_kotlinxdatetime_for_test/)
-- [Is it possible to get all possible method calls?](https://www.reddit.com/r/Kotlin/comments/165wufo/is_it_possible_to_get_all_possible_method_calls/)
-- [Kotlin new comer, NOT from Java](https://www.reddit.com/r/Kotlin/comments/165me76/kotlin_new_comer_not_from_java/)
-- [Is Java feature deprecated but Kotlin not? What is best practice in this case](https://www.reddit.com/r/Kotlin/comments/165m4y4/is_java_feature_deprecated_but_kotlin_not_what_is/)
-- [Add `statefulMap` and `statefulTransform` operator to Kotlin coroutines&#39; Flow](https://www.reddit.com/r/Kotlin/comments/165c6he/add_statefulmap_and_statefultransform_operator_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
