@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How stable is compose web?](https://www.reddit.com/r/Kotlin/comments/168hjk1/how_stable_is_compose_web/)
+- [Refactoring Multi-Module Kotlin Project With Konsist](https://www.reddit.com/r/Kotlin/comments/168bb7e/refactoring_multimodule_kotlin_project_with/)
+- [Does Kotlin have a concept similar to pattern matching guards in Scala?](https://www.reddit.com/r/Kotlin/comments/1687x61/does_kotlin_have_a_concept_similar_to_pattern/)
+- [Null object pattern and kotlin](https://www.reddit.com/r/Kotlin/comments/1681ge4/null_object_pattern_and_kotlin/)
+- [How is Kotlin better than the swift programming language?](https://www.reddit.com/r/Kotlin/comments/167rvno/how_is_kotlin_better_than_the_swift_programming/)
 - [Newbie takes...](https://www.reddit.com/r/Kotlin/comments/167gtbh/newbie_takes/)
 - [Currying in Kotlin](https://www.reddit.com/r/Kotlin/comments/1675q5c/currying_in_kotlin/)
 - [Custom tunneling protocol with vpnservice](https://www.reddit.com/r/Kotlin/comments/167564i/custom_tunneling_protocol_with_vpnservice/)
 - [Expert Refactoring - Introducing duplication to remove duplication](https://www.reddit.com/r/Kotlin/comments/1673mpq/expert_refactoring_introducing_duplication_to/)
 - [Developing a Android Camera app from scratch?](https://www.reddit.com/r/Kotlin/comments/166h6hr/developing_a_android_camera_app_from_scratch/)
-- [Kamel vs compose-imageloader](https://www.reddit.com/r/Kotlin/comments/166ck45/kamel_vs_composeimageloader/)
-- [Apologies for the basic question, but I want to make sure I get a definitive answer](https://www.reddit.com/r/Kotlin/comments/1669zfc/apologies_for_the_basic_question_but_i_want_to/)
-- [Trying to read the docs, but...](https://www.reddit.com/r/Kotlin/comments/1667zwy/trying_to_read_the_docs_but/)
-- [How To Use Kotlin’s Built-In Functions To Measure Code Execution Time](https://www.reddit.com/r/Kotlin/comments/1666v9q/how_to_use_kotlins_builtin_functions_to_measure/)
-- [Fixed Clock now with kotlinx.datetime for test](https://www.reddit.com/r/Kotlin/comments/1665t5p/fixed_clock_now_with_kotlinxdatetime_for_test/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
