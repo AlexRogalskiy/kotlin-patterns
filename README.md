@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is java worth it ?](https://www.reddit.com/r/Kotlin/comments/16a67fm/is_java_worth_it/)
+- [How do I determine if I have all the correct versions for my implementations?](https://www.reddit.com/r/Kotlin/comments/169zqnr/how_do_i_determine_if_i_have_all_the_correct/)
+- [is there a way you can create a desktop app with both python and kotlin togather?](https://www.reddit.com/r/Kotlin/comments/169yl4k/is_there_a_way_you_can_create_a_desktop_app_with/)
+- [Can I make desktop applications using kotlin](https://www.reddit.com/r/Kotlin/comments/169wptt/can_i_make_desktop_applications_using_kotlin/)
+- [Can I use kotlin to setup a home server using an old pc](https://www.reddit.com/r/Kotlin/comments/169vs3b/can_i_use_kotlin_to_setup_a_home_server_using_an/)
+- [What&#39;s the difference between Compose Multiplatform Mobile &amp; Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/169soqd/whats_the_difference_between_compose/)
+- [Anyone know ruby? And what the equivalent would be in a kotlin android context?](https://www.reddit.com/r/Kotlin/comments/169kguh/anyone_know_ruby_and_what_the_equivalent_would_be/)
+- [Sandi Metz&#39;s rules for code](https://www.reddit.com/r/Kotlin/comments/169juqd/sandi_metzs_rules_for_code/)
+- [Is it true that ppl that knows python gets pay more than kotlin ?](https://www.reddit.com/r/Kotlin/comments/169emk9/is_it_true_that_ppl_that_knows_python_gets_pay/)
 - [Can I define every method as a run lambda expression?](https://www.reddit.com/r/Kotlin/comments/169bdgo/can_i_define_every_method_as_a_run_lambda/)
-- [How to create a files and folder explorer?](https://www.reddit.com/r/Kotlin/comments/1696w3h/how_to_create_a_files_and_folder_explorer/)
-- [Java or kotlin ?](https://www.reddit.com/r/Kotlin/comments/16922tl/java_or_kotlin/)
-- [How can I use WebView for Compose MultiPlatform Desktop？](https://www.reddit.com/r/Kotlin/comments/168tig6/how_can_i_use_webview_for_compose_multiplatform/)
-- [Which is the best way to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/168m5z0/which_is_the_best_way_to_learn_kotlin/)
-- [How stable is compose web?](https://www.reddit.com/r/Kotlin/comments/168hjk1/how_stable_is_compose_web/)
-- [Refactoring Multi-Module Kotlin Project With Konsist](https://www.reddit.com/r/Kotlin/comments/168bb7e/refactoring_multimodule_kotlin_project_with/)
-- [Does Kotlin have a concept similar to pattern matching guards in Scala?](https://www.reddit.com/r/Kotlin/comments/1687x61/does_kotlin_have_a_concept_similar_to_pattern/)
-- [Null object pattern and kotlin](https://www.reddit.com/r/Kotlin/comments/1681ge4/null_object_pattern_and_kotlin/)
-- [How is Kotlin better than the swift programming language?](https://www.reddit.com/r/Kotlin/comments/167rvno/how_is_kotlin_better_than_the_swift_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
