@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is java worth it ?](https://www.reddit.com/r/Kotlin/comments/16a67fm/is_java_worth_it/)
-- [How do I determine if I have all the correct versions for my implementations?](https://www.reddit.com/r/Kotlin/comments/169zqnr/how_do_i_determine_if_i_have_all_the_correct/)
-- [is there a way you can create a desktop app with both python and kotlin togather?](https://www.reddit.com/r/Kotlin/comments/169yl4k/is_there_a_way_you_can_create_a_desktop_app_with/)
-- [Can I make desktop applications using kotlin](https://www.reddit.com/r/Kotlin/comments/169wptt/can_i_make_desktop_applications_using_kotlin/)
-- [Can I use kotlin to setup a home server using an old pc](https://www.reddit.com/r/Kotlin/comments/169vs3b/can_i_use_kotlin_to_setup_a_home_server_using_an/)
-- [What&#39;s the difference between Compose Multiplatform Mobile &amp; Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/169soqd/whats_the_difference_between_compose/)
-- [Anyone know ruby? And what the equivalent would be in a kotlin android context?](https://www.reddit.com/r/Kotlin/comments/169kguh/anyone_know_ruby_and_what_the_equivalent_would_be/)
-- [Sandi Metz&#39;s rules for code](https://www.reddit.com/r/Kotlin/comments/169juqd/sandi_metzs_rules_for_code/)
-- [Is it true that ppl that knows python gets pay more than kotlin ?](https://www.reddit.com/r/Kotlin/comments/169emk9/is_it_true_that_ppl_that_knows_python_gets_pay/)
-- [Can I define every method as a run lambda expression?](https://www.reddit.com/r/Kotlin/comments/169bdgo/can_i_define_every_method_as_a_run_lambda/)
+- [What qualifications do I need to get a programming job that uses kotlin?](https://www.reddit.com/r/Kotlin/comments/16b4mi8/what_qualifications_do_i_need_to_get_a/)
+- [Student hierarchy](https://www.reddit.com/r/Kotlin/comments/16b3if0/student_hierarchy/)
+- [SKIE &lpar;Swift Kotlin Interface Enhancer&rpar; has been released as open source!](https://www.reddit.com/r/Kotlin/comments/16b1koy/skie_swift_kotlin_interface_enhancer_has_been/)
+- [Where&#39;s a good place to learn kotlin?](https://www.reddit.com/r/Kotlin/comments/16b0bn8/wheres_a_good_place_to_learn_kotlin/)
+- [SKIE is Open Source](https://www.reddit.com/r/Kotlin/comments/16azmpj/skie_is_open_source/)
+- [Library for DDS Image manipulation?](https://www.reddit.com/r/Kotlin/comments/16auecz/library_for_dds_image_manipulation/)
+- [Participate in the Kotlin Multiplatform Сontest for the chance to win a trip to KotlinConf’24!](https://www.reddit.com/r/Kotlin/comments/16arnt2/participate_in_the_kotlin_multiplatform_сontest/)
+- [Fractional part loading problem](https://www.reddit.com/r/Kotlin/comments/16apu6e/fractional_part_loading_problem/)
+- [I cant use Genymotion &lpar;The virtual device got no IP address&rpar;](https://www.reddit.com/r/Kotlin/comments/16ak4y4/i_cant_use_genymotion_the_virtual_device_got_no/)
+- [Does adding 2 numbers in kotlin do a memory allocation?](https://www.reddit.com/r/Kotlin/comments/16afpaj/does_adding_2_numbers_in_kotlin_do_a_memory/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
