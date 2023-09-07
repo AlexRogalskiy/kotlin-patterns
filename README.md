@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What qualifications do I need to get a programming job that uses kotlin?](https://www.reddit.com/r/Kotlin/comments/16b4mi8/what_qualifications_do_i_need_to_get_a/)
+- [Example fullstack app using compose multiplatform and ktor](https://www.reddit.com/r/Kotlin/comments/16bsabk/example_fullstack_app_using_compose_multiplatform/)
+- [Runtime errors with Kotlin React FC](https://www.reddit.com/r/Kotlin/comments/16bs1tr/runtime_errors_with_kotlin_react_fc/)
+- [Kotlin&#39;s Time API uses a monotonic clock. Here&#39;s why that matters.](https://www.reddit.com/r/Kotlin/comments/16brpg0/kotlins_time_api_uses_a_monotonic_clock_heres_why/)
+- [Jar file missing dependencies](https://www.reddit.com/r/Kotlin/comments/16bnwvz/jar_file_missing_dependencies/)
+- [Issues loading TLS from a string instead of a file](https://www.reddit.com/r/Kotlin/comments/16bnakc/issues_loading_tls_from_a_string_instead_of_a_file/)
+- [Survey for people with Kotlin/Java programming experience](https://www.reddit.com/r/Kotlin/comments/16bkb5e/survey_for_people_with_kotlinjava_programming/)
+- [Firebase Auth in EU](https://www.reddit.com/r/Kotlin/comments/16bh3sp/firebase_auth_in_eu/)
+- [Kotlin DSL Mastery: Techniques, Patterns &amp; Implementation](https://www.reddit.com/r/Kotlin/comments/16bd6ss/kotlin_dsl_mastery_techniques_patterns/)
+- [Which Swift language features you would like to bring to Kotlin?](https://www.reddit.com/r/Kotlin/comments/16bc8tt/which_swift_language_features_you_would_like_to/)
 - [Student hierarchy](https://www.reddit.com/r/Kotlin/comments/16b3if0/student_hierarchy/)
-- [SKIE &lpar;Swift Kotlin Interface Enhancer&rpar; has been released as open source!](https://www.reddit.com/r/Kotlin/comments/16b1koy/skie_swift_kotlin_interface_enhancer_has_been/)
-- [Where&#39;s a good place to learn kotlin?](https://www.reddit.com/r/Kotlin/comments/16b0bn8/wheres_a_good_place_to_learn_kotlin/)
-- [SKIE is Open Source](https://www.reddit.com/r/Kotlin/comments/16azmpj/skie_is_open_source/)
-- [Library for DDS Image manipulation?](https://www.reddit.com/r/Kotlin/comments/16auecz/library_for_dds_image_manipulation/)
-- [Participate in the Kotlin Multiplatform Сontest for the chance to win a trip to KotlinConf’24!](https://www.reddit.com/r/Kotlin/comments/16arnt2/participate_in_the_kotlin_multiplatform_сontest/)
-- [Fractional part loading problem](https://www.reddit.com/r/Kotlin/comments/16apu6e/fractional_part_loading_problem/)
-- [I cant use Genymotion &lpar;The virtual device got no IP address&rpar;](https://www.reddit.com/r/Kotlin/comments/16ak4y4/i_cant_use_genymotion_the_virtual_device_got_no/)
-- [Does adding 2 numbers in kotlin do a memory allocation?](https://www.reddit.com/r/Kotlin/comments/16afpaj/does_adding_2_numbers_in_kotlin_do_a_memory/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
