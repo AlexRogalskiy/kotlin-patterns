@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to go about parsing this json?](https://www.reddit.com/r/Kotlin/comments/16cp7zd/how_to_go_about_parsing_this_json/)
+- [Impossible to land a backend Kotlin job in my region](https://www.reddit.com/r/Kotlin/comments/16cm2m3/impossible_to_land_a_backend_kotlin_job_in_my/)
+- [Verify Clean Architecture layers with Konsist - extremely helpful when multiple layers are defined](https://www.reddit.com/r/Kotlin/comments/16cbh5n/verify_clean_architecture_layers_with_konsist/)
+- [Where/How do i learn kotlin?](https://www.reddit.com/r/Kotlin/comments/16cay9s/wherehow_do_i_learn_kotlin/)
 - [Example fullstack app using compose multiplatform and ktor](https://www.reddit.com/r/Kotlin/comments/16bsabk/example_fullstack_app_using_compose_multiplatform/)
 - [Runtime errors with Kotlin React FC](https://www.reddit.com/r/Kotlin/comments/16bs1tr/runtime_errors_with_kotlin_react_fc/)
 - [Kotlin&#39;s Time API uses a monotonic clock. Here&#39;s why that matters.](https://www.reddit.com/r/Kotlin/comments/16brpg0/kotlins_time_api_uses_a_monotonic_clock_heres_why/)
 - [Jar file missing dependencies](https://www.reddit.com/r/Kotlin/comments/16bnwvz/jar_file_missing_dependencies/)
 - [Issues loading TLS from a string instead of a file](https://www.reddit.com/r/Kotlin/comments/16bnakc/issues_loading_tls_from_a_string_instead_of_a_file/)
 - [Survey for people with Kotlin/Java programming experience](https://www.reddit.com/r/Kotlin/comments/16bkb5e/survey_for_people_with_kotlinjava_programming/)
-- [Firebase Auth in EU](https://www.reddit.com/r/Kotlin/comments/16bh3sp/firebase_auth_in_eu/)
-- [Kotlin DSL Mastery: Techniques, Patterns &amp; Implementation](https://www.reddit.com/r/Kotlin/comments/16bd6ss/kotlin_dsl_mastery_techniques_patterns/)
-- [Which Swift language features you would like to bring to Kotlin?](https://www.reddit.com/r/Kotlin/comments/16bc8tt/which_swift_language_features_you_would_like_to/)
-- [Student hierarchy](https://www.reddit.com/r/Kotlin/comments/16b3if0/student_hierarchy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
