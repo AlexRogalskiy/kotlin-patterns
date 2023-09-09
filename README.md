@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Routing issue when running Ktor in Docker](https://www.reddit.com/r/Kotlin/comments/16dn1jx/routing_issue_when_running_ktor_in_docker/)
+- [Multiplatform threading library &lpar;ios, android, jvm, macos, mswin, linux&rpar;](https://www.reddit.com/r/Kotlin/comments/16dgovq/multiplatform_threading_library_ios_android_jvm/)
+- [Backend devs using kotlinx.serialization: Where do you draw the line for how complex to make your serializable DTOs?](https://www.reddit.com/r/Kotlin/comments/16dexhn/backend_devs_using_kotlinxserialization_where_do/)
+- [Compose to SwiftUI translation?](https://www.reddit.com/r/Kotlin/comments/16db2e3/compose_to_swiftui_translation/)
+- [Test-driving a Kotlin JSON parser](https://www.reddit.com/r/Kotlin/comments/16d8v86/testdriving_a_kotlin_json_parser/)
+- [Powerful, yet simple Carousels in Doodle](https://www.reddit.com/r/Kotlin/comments/16d7oup/powerful_yet_simple_carousels_in_doodle/)
+- [Visual Studio Code](https://www.reddit.com/r/Kotlin/comments/16d1x21/visual_studio_code/)
 - [How to go about parsing this json?](https://www.reddit.com/r/Kotlin/comments/16cp7zd/how_to_go_about_parsing_this_json/)
 - [Impossible to land a backend Kotlin job in my region](https://www.reddit.com/r/Kotlin/comments/16cm2m3/impossible_to_land_a_backend_kotlin_job_in_my/)
 - [Verify Clean Architecture layers with Konsist - extremely helpful when multiple layers are defined](https://www.reddit.com/r/Kotlin/comments/16cbh5n/verify_clean_architecture_layers_with_konsist/)
-- [Where/How do i learn kotlin?](https://www.reddit.com/r/Kotlin/comments/16cay9s/wherehow_do_i_learn_kotlin/)
-- [Example fullstack app using compose multiplatform and ktor](https://www.reddit.com/r/Kotlin/comments/16bsabk/example_fullstack_app_using_compose_multiplatform/)
-- [Runtime errors with Kotlin React FC](https://www.reddit.com/r/Kotlin/comments/16bs1tr/runtime_errors_with_kotlin_react_fc/)
-- [Kotlin&#39;s Time API uses a monotonic clock. Here&#39;s why that matters.](https://www.reddit.com/r/Kotlin/comments/16brpg0/kotlins_time_api_uses_a_monotonic_clock_heres_why/)
-- [Jar file missing dependencies](https://www.reddit.com/r/Kotlin/comments/16bnwvz/jar_file_missing_dependencies/)
-- [Issues loading TLS from a string instead of a file](https://www.reddit.com/r/Kotlin/comments/16bnakc/issues_loading_tls_from_a_string_instead_of_a_file/)
-- [Survey for people with Kotlin/Java programming experience](https://www.reddit.com/r/Kotlin/comments/16bkb5e/survey_for_people_with_kotlinjava_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
