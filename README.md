@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [course for intermediate programmer](https://www.reddit.com/r/Kotlin/comments/16feids/course_for_intermediate_programmer/)
 - [Routing issue when running Ktor in Docker](https://www.reddit.com/r/Kotlin/comments/16dn1jx/routing_issue_when_running_ktor_in_docker/)
 - [Multiplatform threading library &lpar;ios, android, jvm, macos, mswin, linux&rpar;](https://www.reddit.com/r/Kotlin/comments/16dgovq/multiplatform_threading_library_ios_android_jvm/)
 - [Backend devs using kotlinx.serialization: Where do you draw the line for how complex to make your serializable DTOs?](https://www.reddit.com/r/Kotlin/comments/16dexhn/backend_devs_using_kotlinxserialization_where_do/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Visual Studio Code](https://www.reddit.com/r/Kotlin/comments/16d1x21/visual_studio_code/)
 - [How to go about parsing this json?](https://www.reddit.com/r/Kotlin/comments/16cp7zd/how_to_go_about_parsing_this_json/)
 - [Impossible to land a backend Kotlin job in my region](https://www.reddit.com/r/Kotlin/comments/16cm2m3/impossible_to_land_a_backend_kotlin_job_in_my/)
-- [Verify Clean Architecture layers with Konsist - extremely helpful when multiple layers are defined](https://www.reddit.com/r/Kotlin/comments/16cbh5n/verify_clean_architecture_layers_with_konsist/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
