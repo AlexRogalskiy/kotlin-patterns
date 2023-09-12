@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/Wasm introduces WASI support](https://www.reddit.com/r/Kotlin/comments/16g6llc/kotlinwasm_introduces_wasi_support/)
+- [need help regarding HTTP multiform](https://www.reddit.com/r/Kotlin/comments/16g3eq5/need_help_regarding_http_multiform/)
+- [jetbrain exposed migration tools](https://www.reddit.com/r/Kotlin/comments/16fzuup/jetbrain_exposed_migration_tools/)
+- [Kotlin/ Thingspeak Interfacing.](https://www.reddit.com/r/Kotlin/comments/16fqzux/kotlin_thingspeak_interfacing/)
+- [Starting apps from notifications in freeform mode](https://www.reddit.com/r/Kotlin/comments/16fqxug/starting_apps_from_notifications_in_freeform_mode/)
+- [Solve architectural linting in your Kotlin projects](https://www.reddit.com/r/Kotlin/comments/16fq4rn/solve_architectural_linting_in_your_kotlin/)
 - [course for intermediate programmer](https://www.reddit.com/r/Kotlin/comments/16feids/course_for_intermediate_programmer/)
 - [Routing issue when running Ktor in Docker](https://www.reddit.com/r/Kotlin/comments/16dn1jx/routing_issue_when_running_ktor_in_docker/)
 - [Multiplatform threading library &lpar;ios, android, jvm, macos, mswin, linux&rpar;](https://www.reddit.com/r/Kotlin/comments/16dgovq/multiplatform_threading_library_ios_android_jvm/)
 - [Backend devs using kotlinx.serialization: Where do you draw the line for how complex to make your serializable DTOs?](https://www.reddit.com/r/Kotlin/comments/16dexhn/backend_devs_using_kotlinxserialization_where_do/)
-- [Compose to SwiftUI translation?](https://www.reddit.com/r/Kotlin/comments/16db2e3/compose_to_swiftui_translation/)
-- [Test-driving a Kotlin JSON parser](https://www.reddit.com/r/Kotlin/comments/16d8v86/testdriving_a_kotlin_json_parser/)
-- [Powerful, yet simple Carousels in Doodle](https://www.reddit.com/r/Kotlin/comments/16d7oup/powerful_yet_simple_carousels_in_doodle/)
-- [Visual Studio Code](https://www.reddit.com/r/Kotlin/comments/16d1x21/visual_studio_code/)
-- [How to go about parsing this json?](https://www.reddit.com/r/Kotlin/comments/16cp7zd/how_to_go_about_parsing_this_json/)
-- [Impossible to land a backend Kotlin job in my region](https://www.reddit.com/r/Kotlin/comments/16cm2m3/impossible_to_land_a_backend_kotlin_job_in_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
