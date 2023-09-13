@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Wanna Know about new Kotlin compilation target?&lpar;wasm&rpar;](https://www.reddit.com/r/Kotlin/comments/16gswq5/wanna_know_about_new_kotlin_compilation_targetwasm/)
+- [Emotional Kotlin 😄😢😠](https://www.reddit.com/r/Kotlin/comments/16gmi4x/emotional_kotlin/)
+- [Advanced Carousel In Doodle](https://www.reddit.com/r/Kotlin/comments/16giaj3/advanced_carousel_in_doodle/)
+- [When will google drop Kolin](https://www.reddit.com/r/Kotlin/comments/16ghwll/when_will_google_drop_kolin/)
 - [Kotlin/Wasm introduces WASI support](https://www.reddit.com/r/Kotlin/comments/16g6llc/kotlinwasm_introduces_wasi_support/)
 - [need help regarding HTTP multiform](https://www.reddit.com/r/Kotlin/comments/16g3eq5/need_help_regarding_http_multiform/)
 - [jetbrain exposed migration tools](https://www.reddit.com/r/Kotlin/comments/16fzuup/jetbrain_exposed_migration_tools/)
 - [Kotlin/ Thingspeak Interfacing.](https://www.reddit.com/r/Kotlin/comments/16fqzux/kotlin_thingspeak_interfacing/)
 - [Starting apps from notifications in freeform mode](https://www.reddit.com/r/Kotlin/comments/16fqxug/starting_apps_from_notifications_in_freeform_mode/)
 - [Solve architectural linting in your Kotlin projects](https://www.reddit.com/r/Kotlin/comments/16fq4rn/solve_architectural_linting_in_your_kotlin/)
-- [course for intermediate programmer](https://www.reddit.com/r/Kotlin/comments/16feids/course_for_intermediate_programmer/)
-- [Routing issue when running Ktor in Docker](https://www.reddit.com/r/Kotlin/comments/16dn1jx/routing_issue_when_running_ktor_in_docker/)
-- [Multiplatform threading library &lpar;ios, android, jvm, macos, mswin, linux&rpar;](https://www.reddit.com/r/Kotlin/comments/16dgovq/multiplatform_threading_library_ios_android_jvm/)
-- [Backend devs using kotlinx.serialization: Where do you draw the line for how complex to make your serializable DTOs?](https://www.reddit.com/r/Kotlin/comments/16dexhn/backend_devs_using_kotlinxserialization_where_do/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
