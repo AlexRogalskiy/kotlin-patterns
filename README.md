@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Wanna Know about new Kotlin compilation target?&lpar;wasm&rpar;](https://www.reddit.com/r/Kotlin/comments/16gswq5/wanna_know_about_new_kotlin_compilation_targetwasm/)
-- [Emotional Kotlin 😄😢😠](https://www.reddit.com/r/Kotlin/comments/16gmi4x/emotional_kotlin/)
-- [Advanced Carousel In Doodle](https://www.reddit.com/r/Kotlin/comments/16giaj3/advanced_carousel_in_doodle/)
-- [When will google drop Kolin](https://www.reddit.com/r/Kotlin/comments/16ghwll/when_will_google_drop_kolin/)
-- [Kotlin/Wasm introduces WASI support](https://www.reddit.com/r/Kotlin/comments/16g6llc/kotlinwasm_introduces_wasi_support/)
-- [need help regarding HTTP multiform](https://www.reddit.com/r/Kotlin/comments/16g3eq5/need_help_regarding_http_multiform/)
-- [jetbrain exposed migration tools](https://www.reddit.com/r/Kotlin/comments/16fzuup/jetbrain_exposed_migration_tools/)
-- [Kotlin/ Thingspeak Interfacing.](https://www.reddit.com/r/Kotlin/comments/16fqzux/kotlin_thingspeak_interfacing/)
-- [Starting apps from notifications in freeform mode](https://www.reddit.com/r/Kotlin/comments/16fqxug/starting_apps_from_notifications_in_freeform_mode/)
-- [Solve architectural linting in your Kotlin projects](https://www.reddit.com/r/Kotlin/comments/16fq4rn/solve_architectural_linting_in_your_kotlin/)
+- [codegen.kt A library to make code generation easier](https://www.reddit.com/r/Kotlin/comments/16i1z1a/codegenkt_a_library_to_make_code_generation_easier/)
+- [IF YOU WERE TO START OVER...](https://www.reddit.com/r/Kotlin/comments/16i11ml/if_you_were_to_start_over/)
+- [QUESTION FOR FREELANCERS](https://www.reddit.com/r/Kotlin/comments/16hz3td/question_for_freelancers/)
+- [Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/16hsq0f/compose_multiplatform/)
+- [looking for a stricter superset of the official kotlin formatter](https://www.reddit.com/r/Kotlin/comments/16hrktr/looking_for_a_stricter_superset_of_the_official/)
+- [any course to crash my android dev abilities?](https://www.reddit.com/r/Kotlin/comments/16hpxhq/any_course_to_crash_my_android_dev_abilities/)
+- [I&#39;m having this problem with my app, which one should I update?](https://www.reddit.com/r/Kotlin/comments/16hps6f/im_having_this_problem_with_my_app_which_one/)
+- [Does Kotlin have libraries like numpy, matplotlib, pandas?](https://www.reddit.com/r/Kotlin/comments/16hm2p9/does_kotlin_have_libraries_like_numpy_matplotlib/)
+- [How FlowMVI has changed the fate of our project](https://www.reddit.com/r/Kotlin/comments/16hkzxf/how_flowmvi_has_changed_the_fate_of_our_project/)
+- [Room database: auto generate HTTP endpoint and multiplatform offline-first client repository &lpar;open source&rpar;](https://www.reddit.com/r/Kotlin/comments/16hhrjm/room_database_auto_generate_http_endpoint_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
