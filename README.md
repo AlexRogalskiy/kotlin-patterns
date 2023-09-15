@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Symbol Processing: Power of KSP](https://www.reddit.com/r/Kotlin/comments/16idivb/kotlin_symbol_processing_power_of_ksp/)
 - [codegen.kt A library to make code generation easier](https://www.reddit.com/r/Kotlin/comments/16i1z1a/codegenkt_a_library_to_make_code_generation_easier/)
 - [IF YOU WERE TO START OVER...](https://www.reddit.com/r/Kotlin/comments/16i11ml/if_you_were_to_start_over/)
 - [QUESTION FOR FREELANCERS](https://www.reddit.com/r/Kotlin/comments/16hz3td/question_for_freelancers/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I&#39;m having this problem with my app, which one should I update?](https://www.reddit.com/r/Kotlin/comments/16hps6f/im_having_this_problem_with_my_app_which_one/)
 - [Does Kotlin have libraries like numpy, matplotlib, pandas?](https://www.reddit.com/r/Kotlin/comments/16hm2p9/does_kotlin_have_libraries_like_numpy_matplotlib/)
 - [How FlowMVI has changed the fate of our project](https://www.reddit.com/r/Kotlin/comments/16hkzxf/how_flowmvi_has_changed_the_fate_of_our_project/)
-- [Room database: auto generate HTTP endpoint and multiplatform offline-first client repository &lpar;open source&rpar;](https://www.reddit.com/r/Kotlin/comments/16hhrjm/room_database_auto_generate_http_endpoint_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
