@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I don&#39;t understand SharedFlow ?](https://www.reddit.com/r/Kotlin/comments/16jmq3h/i_dont_understand_sharedflow/)
+- [When the Simplest Thing doesn&#39;t work -Writing a Kotlin JSON parser take 2](https://www.reddit.com/r/Kotlin/comments/16jdm44/when_the_simplest_thing_doesnt_work_writing_a/)
+- [What DI framework do you use in Kotlin?](https://www.reddit.com/r/Kotlin/comments/16jbdiu/what_di_framework_do_you_use_in_kotlin/)
+- [Kotlin Training Days &lpar;Free&rpar;](https://www.reddit.com/r/Kotlin/comments/16j657m/kotlin_training_days_free/)
 - [Kotlin Symbol Processing: Power of KSP](https://www.reddit.com/r/Kotlin/comments/16idivb/kotlin_symbol_processing_power_of_ksp/)
 - [codegen.kt A library to make code generation easier](https://www.reddit.com/r/Kotlin/comments/16i1z1a/codegenkt_a_library_to_make_code_generation_easier/)
 - [IF YOU WERE TO START OVER...](https://www.reddit.com/r/Kotlin/comments/16i11ml/if_you_were_to_start_over/)
 - [QUESTION FOR FREELANCERS](https://www.reddit.com/r/Kotlin/comments/16hz3td/question_for_freelancers/)
 - [Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/16hsq0f/compose_multiplatform/)
 - [looking for a stricter superset of the official kotlin formatter](https://www.reddit.com/r/Kotlin/comments/16hrktr/looking_for_a_stricter_superset_of_the_official/)
-- [any course to crash my android dev abilities?](https://www.reddit.com/r/Kotlin/comments/16hpxhq/any_course_to_crash_my_android_dev_abilities/)
-- [I&#39;m having this problem with my app, which one should I update?](https://www.reddit.com/r/Kotlin/comments/16hps6f/im_having_this_problem_with_my_app_which_one/)
-- [Does Kotlin have libraries like numpy, matplotlib, pandas?](https://www.reddit.com/r/Kotlin/comments/16hm2p9/does_kotlin_have_libraries_like_numpy_matplotlib/)
-- [How FlowMVI has changed the fate of our project](https://www.reddit.com/r/Kotlin/comments/16hkzxf/how_flowmvi_has_changed_the_fate_of_our_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
