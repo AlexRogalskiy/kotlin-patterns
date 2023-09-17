@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Convert list of Pair into map](https://www.reddit.com/r/Kotlin/comments/16km14d/convert_list_of_pair_into_map/)
+- [Sealed interface serialization](https://www.reddit.com/r/Kotlin/comments/16kbq9v/sealed_interface_serialization/)
+- [Kotlin-Algorithms-and-Design-Patterns](https://www.reddit.com/r/Kotlin/comments/16k1msx/kotlinalgorithmsanddesignpatterns/)
 - [I don&#39;t understand SharedFlow ?](https://www.reddit.com/r/Kotlin/comments/16jmq3h/i_dont_understand_sharedflow/)
 - [When the Simplest Thing doesn&#39;t work -Writing a Kotlin JSON parser take 2](https://www.reddit.com/r/Kotlin/comments/16jdm44/when_the_simplest_thing_doesnt_work_writing_a/)
 - [What DI framework do you use in Kotlin?](https://www.reddit.com/r/Kotlin/comments/16jbdiu/what_di_framework_do_you_use_in_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Symbol Processing: Power of KSP](https://www.reddit.com/r/Kotlin/comments/16idivb/kotlin_symbol_processing_power_of_ksp/)
 - [codegen.kt A library to make code generation easier](https://www.reddit.com/r/Kotlin/comments/16i1z1a/codegenkt_a_library_to_make_code_generation_easier/)
 - [IF YOU WERE TO START OVER...](https://www.reddit.com/r/Kotlin/comments/16i11ml/if_you_were_to_start_over/)
-- [QUESTION FOR FREELANCERS](https://www.reddit.com/r/Kotlin/comments/16hz3td/question_for_freelancers/)
-- [Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/16hsq0f/compose_multiplatform/)
-- [looking for a stricter superset of the official kotlin formatter](https://www.reddit.com/r/Kotlin/comments/16hrktr/looking_for_a_stricter_superset_of_the_official/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
