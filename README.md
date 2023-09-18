@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Released jackson-module-kotlin without kotlin-reflect.](https://www.reddit.com/r/Kotlin/comments/16lfxor/released_jacksonmodulekotlin_without_kotlinreflect/)
+- [Just released another Compose Multiplatform library, this time a port of androidx.palette! Now you can generate a color palette, or calculate a dominant color from an image.](https://www.reddit.com/r/Kotlin/comments/16l8wfh/just_released_another_compose_multiplatform/)
+- [Retrofit issue 404.](https://www.reddit.com/r/Kotlin/comments/16l74gr/retrofit_issue_404/)
+- [Add extension function to Map](https://www.reddit.com/r/Kotlin/comments/16kygvz/add_extension_function_to_map/)
+- [mavlink-kotlin is production-ready!](https://www.reddit.com/r/Kotlin/comments/16ks6mk/mavlinkkotlin_is_productionready/)
 - [Convert list of Pair into map](https://www.reddit.com/r/Kotlin/comments/16km14d/convert_list_of_pair_into_map/)
 - [Sealed interface serialization](https://www.reddit.com/r/Kotlin/comments/16kbq9v/sealed_interface_serialization/)
 - [Kotlin-Algorithms-and-Design-Patterns](https://www.reddit.com/r/Kotlin/comments/16k1msx/kotlinalgorithmsanddesignpatterns/)
 - [I don&#39;t understand SharedFlow ?](https://www.reddit.com/r/Kotlin/comments/16jmq3h/i_dont_understand_sharedflow/)
 - [When the Simplest Thing doesn&#39;t work -Writing a Kotlin JSON parser take 2](https://www.reddit.com/r/Kotlin/comments/16jdm44/when_the_simplest_thing_doesnt_work_writing_a/)
-- [What DI framework do you use in Kotlin?](https://www.reddit.com/r/Kotlin/comments/16jbdiu/what_di_framework_do_you_use_in_kotlin/)
-- [Kotlin Training Days &lpar;Free&rpar;](https://www.reddit.com/r/Kotlin/comments/16j657m/kotlin_training_days_free/)
-- [Kotlin Symbol Processing: Power of KSP](https://www.reddit.com/r/Kotlin/comments/16idivb/kotlin_symbol_processing_power_of_ksp/)
-- [codegen.kt A library to make code generation easier](https://www.reddit.com/r/Kotlin/comments/16i1z1a/codegenkt_a_library_to_make_code_generation_easier/)
-- [IF YOU WERE TO START OVER...](https://www.reddit.com/r/Kotlin/comments/16i11ml/if_you_were_to_start_over/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
