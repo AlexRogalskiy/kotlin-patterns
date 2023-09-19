@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for an English Dictionary in SQL Format – Any Recommendations?](https://www.reddit.com/r/Kotlin/comments/16lud7r/looking_for_an_english_dictionary_in_sql_format/)
+- [Protect Kotlin Project Architecture Using Konsist](https://www.reddit.com/r/Kotlin/comments/16lowc2/protect_kotlin_project_architecture_using_konsist/)
 - [Released jackson-module-kotlin without kotlin-reflect.](https://www.reddit.com/r/Kotlin/comments/16lfxor/released_jacksonmodulekotlin_without_kotlinreflect/)
 - [Just released another Compose Multiplatform library, this time a port of androidx.palette! Now you can generate a color palette, or calculate a dominant color from an image.](https://www.reddit.com/r/Kotlin/comments/16l8wfh/just_released_another_compose_multiplatform/)
 - [Retrofit issue 404.](https://www.reddit.com/r/Kotlin/comments/16l74gr/retrofit_issue_404/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Convert list of Pair into map](https://www.reddit.com/r/Kotlin/comments/16km14d/convert_list_of_pair_into_map/)
 - [Sealed interface serialization](https://www.reddit.com/r/Kotlin/comments/16kbq9v/sealed_interface_serialization/)
 - [Kotlin-Algorithms-and-Design-Patterns](https://www.reddit.com/r/Kotlin/comments/16k1msx/kotlinalgorithmsanddesignpatterns/)
-- [I don&#39;t understand SharedFlow ?](https://www.reddit.com/r/Kotlin/comments/16jmq3h/i_dont_understand_sharedflow/)
-- [When the Simplest Thing doesn&#39;t work -Writing a Kotlin JSON parser take 2](https://www.reddit.com/r/Kotlin/comments/16jdm44/when_the_simplest_thing_doesnt_work_writing_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
