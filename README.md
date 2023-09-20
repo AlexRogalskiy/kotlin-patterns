@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for an English Dictionary in SQL Format – Any Recommendations?](https://www.reddit.com/r/Kotlin/comments/16lud7r/looking_for_an_english_dictionary_in_sql_format/)
+- [Help with code review!](https://www.reddit.com/r/Kotlin/comments/16mwemi/help_with_code_review/)
+- [Is it possible to extract assets from an kotlin game?](https://www.reddit.com/r/Kotlin/comments/16mwe4j/is_it_possible_to_extract_assets_from_an_kotlin/)
+- [User Interface for hardware project](https://www.reddit.com/r/Kotlin/comments/16mucjo/user_interface_for_hardware_project/)
+- [Is it possible to get HarmonyOS and Jetpack compose/KMP to work together?](https://www.reddit.com/r/Kotlin/comments/16mmbtl/is_it_possible_to_get_harmonyos_and_jetpack/)
+- [DSA choice language](https://www.reddit.com/r/Kotlin/comments/16mgpou/dsa_choice_language/)
 - [Protect Kotlin Project Architecture Using Konsist](https://www.reddit.com/r/Kotlin/comments/16lowc2/protect_kotlin_project_architecture_using_konsist/)
 - [Released jackson-module-kotlin without kotlin-reflect.](https://www.reddit.com/r/Kotlin/comments/16lfxor/released_jacksonmodulekotlin_without_kotlinreflect/)
 - [Just released another Compose Multiplatform library, this time a port of androidx.palette! Now you can generate a color palette, or calculate a dominant color from an image.](https://www.reddit.com/r/Kotlin/comments/16l8wfh/just_released_another_compose_multiplatform/)
 - [Retrofit issue 404.](https://www.reddit.com/r/Kotlin/comments/16l74gr/retrofit_issue_404/)
 - [Add extension function to Map](https://www.reddit.com/r/Kotlin/comments/16kygvz/add_extension_function_to_map/)
-- [mavlink-kotlin is production-ready!](https://www.reddit.com/r/Kotlin/comments/16ks6mk/mavlinkkotlin_is_productionready/)
-- [Convert list of Pair into map](https://www.reddit.com/r/Kotlin/comments/16km14d/convert_list_of_pair_into_map/)
-- [Sealed interface serialization](https://www.reddit.com/r/Kotlin/comments/16kbq9v/sealed_interface_serialization/)
-- [Kotlin-Algorithms-and-Design-Patterns](https://www.reddit.com/r/Kotlin/comments/16k1msx/kotlinalgorithmsanddesignpatterns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
