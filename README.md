@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Runtime Surprise: Kotlin Breaks !!Non-Nullability Promise on Developer Cheating in Field Initialization](https://www.reddit.com/r/Kotlin/comments/16nch48/runtime_surprise_kotlin_breaks_nonnullability/)
+- [Trying to make a Get request to bricklinks API](https://www.reddit.com/r/Kotlin/comments/16nbygb/trying_to_make_a_get_request_to_bricklinks_api/)
 - [Help with code review!](https://www.reddit.com/r/Kotlin/comments/16mwemi/help_with_code_review/)
 - [Is it possible to extract assets from an kotlin game?](https://www.reddit.com/r/Kotlin/comments/16mwe4j/is_it_possible_to_extract_assets_from_an_kotlin/)
 - [User Interface for hardware project](https://www.reddit.com/r/Kotlin/comments/16mucjo/user_interface_for_hardware_project/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Protect Kotlin Project Architecture Using Konsist](https://www.reddit.com/r/Kotlin/comments/16lowc2/protect_kotlin_project_architecture_using_konsist/)
 - [Released jackson-module-kotlin without kotlin-reflect.](https://www.reddit.com/r/Kotlin/comments/16lfxor/released_jacksonmodulekotlin_without_kotlinreflect/)
 - [Just released another Compose Multiplatform library, this time a port of androidx.palette! Now you can generate a color palette, or calculate a dominant color from an image.](https://www.reddit.com/r/Kotlin/comments/16l8wfh/just_released_another_compose_multiplatform/)
-- [Retrofit issue 404.](https://www.reddit.com/r/Kotlin/comments/16l74gr/retrofit_issue_404/)
-- [Add extension function to Map](https://www.reddit.com/r/Kotlin/comments/16kygvz/add_extension_function_to_map/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
