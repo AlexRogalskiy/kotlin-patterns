@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🐾🐶 &quot;Dogiz&quot;: Explore modern Android with Kotlin, Jetpack Compose, Flow, and clean architecture principles.](https://www.reddit.com/r/Kotlin/comments/16oful5/dogiz_explore_modern_android_with_kotlin_jetpack/)
+- [Mid-senior level interview. What should I expect?](https://www.reddit.com/r/Kotlin/comments/16ocdcb/midsenior_level_interview_what_should_i_expect/)
+- [GraphQL Kotlin v7 is out!](https://www.reddit.com/r/Kotlin/comments/16o3l5t/graphql_kotlin_v7_is_out/)
 - [Runtime Surprise: Kotlin Breaks !!Non-Nullability Promise on Developer Cheating in Field Initialization](https://www.reddit.com/r/Kotlin/comments/16nch48/runtime_surprise_kotlin_breaks_nonnullability/)
 - [Trying to make a Get request to bricklinks API](https://www.reddit.com/r/Kotlin/comments/16nbygb/trying_to_make_a_get_request_to_bricklinks_api/)
 - [Help with code review!](https://www.reddit.com/r/Kotlin/comments/16mwemi/help_with_code_review/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [User Interface for hardware project](https://www.reddit.com/r/Kotlin/comments/16mucjo/user_interface_for_hardware_project/)
 - [Is it possible to get HarmonyOS and Jetpack compose/KMP to work together?](https://www.reddit.com/r/Kotlin/comments/16mmbtl/is_it_possible_to_get_harmonyos_and_jetpack/)
 - [DSA choice language](https://www.reddit.com/r/Kotlin/comments/16mgpou/dsa_choice_language/)
-- [Protect Kotlin Project Architecture Using Konsist](https://www.reddit.com/r/Kotlin/comments/16lowc2/protect_kotlin_project_architecture_using_konsist/)
-- [Released jackson-module-kotlin without kotlin-reflect.](https://www.reddit.com/r/Kotlin/comments/16lfxor/released_jacksonmodulekotlin_without_kotlinreflect/)
-- [Just released another Compose Multiplatform library, this time a port of androidx.palette! Now you can generate a color palette, or calculate a dominant color from an image.](https://www.reddit.com/r/Kotlin/comments/16l8wfh/just_released_another_compose_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
