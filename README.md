@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [🐾🐶 &quot;Dogiz&quot;: Explore modern Android with Kotlin, Jetpack Compose, Flow, and clean architecture principles.](https://www.reddit.com/r/Kotlin/comments/16oful5/dogiz_explore_modern_android_with_kotlin_jetpack/)
-- [Mid-senior level interview. What should I expect?](https://www.reddit.com/r/Kotlin/comments/16ocdcb/midsenior_level_interview_what_should_i_expect/)
-- [GraphQL Kotlin v7 is out!](https://www.reddit.com/r/Kotlin/comments/16o3l5t/graphql_kotlin_v7_is_out/)
-- [Runtime Surprise: Kotlin Breaks !!Non-Nullability Promise on Developer Cheating in Field Initialization](https://www.reddit.com/r/Kotlin/comments/16nch48/runtime_surprise_kotlin_breaks_nonnullability/)
-- [Trying to make a Get request to bricklinks API](https://www.reddit.com/r/Kotlin/comments/16nbygb/trying_to_make_a_get_request_to_bricklinks_api/)
-- [Help with code review!](https://www.reddit.com/r/Kotlin/comments/16mwemi/help_with_code_review/)
-- [Is it possible to extract assets from an kotlin game?](https://www.reddit.com/r/Kotlin/comments/16mwe4j/is_it_possible_to_extract_assets_from_an_kotlin/)
-- [User Interface for hardware project](https://www.reddit.com/r/Kotlin/comments/16mucjo/user_interface_for_hardware_project/)
-- [Is it possible to get HarmonyOS and Jetpack compose/KMP to work together?](https://www.reddit.com/r/Kotlin/comments/16mmbtl/is_it_possible_to_get_harmonyos_and_jetpack/)
-- [DSA choice language](https://www.reddit.com/r/Kotlin/comments/16mgpou/dsa_choice_language/)
+- [Is it possible to use flutter/react lib to kotlin multiplatform project](https://www.reddit.com/r/Kotlin/comments/16phasz/is_it_possible_to_use_flutterreact_lib_to_kotlin/)
+- [Would you be interested in a 3D Kotlin game engine?](https://www.reddit.com/r/Kotlin/comments/16pfdgy/would_you_be_interested_in_a_3d_kotlin_game_engine/)
+- [Balancing Momentum and Complexity in TDD - Writing a Kotlin JSON Parser Take 2 Part 2](https://www.reddit.com/r/Kotlin/comments/16pcjb8/balancing_momentum_and_complexity_in_tdd_writing/)
+- [High-quality documentation for my kotlin ORM framework is completed](https://www.reddit.com/r/Kotlin/comments/16pcdvz/highquality_documentation_for_my_kotlin_orm/)
+- [Convert java code to kotlin](https://www.reddit.com/r/Kotlin/comments/16paxiz/convert_java_code_to_kotlin/)
+- [How to use Processing 4 with Kotlin and Gradle](https://www.reddit.com/r/Kotlin/comments/16p7g6q/how_to_use_processing_4_with_kotlin_and_gradle/)
+- [Functional Error Handling in Kotlin with the Raise DSL](https://www.reddit.com/r/Kotlin/comments/16p45dz/functional_error_handling_in_kotlin_with_the/)
+- [Spring Boot &amp; Kotlin - Crash Course For Java Devs](https://www.reddit.com/r/Kotlin/comments/16p3u5m/spring_boot_kotlin_crash_course_for_java_devs/)
+- [need help with Gradle issues, using android studio to write kotlin](https://www.reddit.com/r/Kotlin/comments/16oymxv/need_help_with_gradle_issues_using_android_studio/)
+- [Problems with mockkConstrutor - Mockk](https://www.reddit.com/r/Kotlin/comments/16oyg2c/problems_with_mockkconstrutor_mockk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
