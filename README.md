@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Kotiln aa better choice to build a RESTFull API backend application than Spring Boot using java?](https://www.reddit.com/r/Kotlin/comments/16q7xdg/is_kotiln_aa_better_choice_to_build_a_restfull/)
+- [Please help me understand the fallacy of my reasoning](https://www.reddit.com/r/Kotlin/comments/16pwz75/please_help_me_understand_the_fallacy_of_my/)
 - [Is it possible to use flutter/react lib to kotlin multiplatform project](https://www.reddit.com/r/Kotlin/comments/16phasz/is_it_possible_to_use_flutterreact_lib_to_kotlin/)
 - [Would you be interested in a 3D Kotlin game engine?](https://www.reddit.com/r/Kotlin/comments/16pfdgy/would_you_be_interested_in_a_3d_kotlin_game_engine/)
 - [Balancing Momentum and Complexity in TDD - Writing a Kotlin JSON Parser Take 2 Part 2](https://www.reddit.com/r/Kotlin/comments/16pcjb8/balancing_momentum_and_complexity_in_tdd_writing/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to use Processing 4 with Kotlin and Gradle](https://www.reddit.com/r/Kotlin/comments/16p7g6q/how_to_use_processing_4_with_kotlin_and_gradle/)
 - [Functional Error Handling in Kotlin with the Raise DSL](https://www.reddit.com/r/Kotlin/comments/16p45dz/functional_error_handling_in_kotlin_with_the/)
 - [Spring Boot &amp; Kotlin - Crash Course For Java Devs](https://www.reddit.com/r/Kotlin/comments/16p3u5m/spring_boot_kotlin_crash_course_for_java_devs/)
-- [need help with Gradle issues, using android studio to write kotlin](https://www.reddit.com/r/Kotlin/comments/16oymxv/need_help_with_gradle_issues_using_android_studio/)
-- [Problems with mockkConstrutor - Mockk](https://www.reddit.com/r/Kotlin/comments/16oyg2c/problems_with_mockkconstrutor_mockk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
