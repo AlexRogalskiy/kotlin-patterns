@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [People who use Spring and Kotlin...](https://www.reddit.com/r/Kotlin/comments/16r4986/people_who_use_spring_and_kotlin/)
+- [Build time is long in app dev](https://www.reddit.com/r/Kotlin/comments/16r43h8/build_time_is_long_in_app_dev/)
+- [Open-sourcing Play Deals: Paid Apps Deals &lpar;a KMP Project&rpar;](https://www.reddit.com/r/Kotlin/comments/16qy7p4/opensourcing_play_deals_paid_apps_deals_a_kmp/)
+- [Kotlin spring](https://www.reddit.com/r/Kotlin/comments/16qtyve/kotlin_spring/)
+- [KMM iOS compose app. How do I make custom views that draw things? I can&#39;t use the canvas API. Is there a compose native set of APIs to draw?](https://www.reddit.com/r/Kotlin/comments/16qmenn/kmm_ios_compose_app_how_do_i_make_custom_views/)
 - [Is Kotiln aa better choice to build a RESTFull API backend application than Spring Boot using java?](https://www.reddit.com/r/Kotlin/comments/16q7xdg/is_kotiln_aa_better_choice_to_build_a_restfull/)
 - [Please help me understand the fallacy of my reasoning](https://www.reddit.com/r/Kotlin/comments/16pwz75/please_help_me_understand_the_fallacy_of_my/)
 - [Is it possible to use flutter/react lib to kotlin multiplatform project](https://www.reddit.com/r/Kotlin/comments/16phasz/is_it_possible_to_use_flutterreact_lib_to_kotlin/)
 - [Would you be interested in a 3D Kotlin game engine?](https://www.reddit.com/r/Kotlin/comments/16pfdgy/would_you_be_interested_in_a_3d_kotlin_game_engine/)
 - [Balancing Momentum and Complexity in TDD - Writing a Kotlin JSON Parser Take 2 Part 2](https://www.reddit.com/r/Kotlin/comments/16pcjb8/balancing_momentum_and_complexity_in_tdd_writing/)
-- [High-quality documentation for my kotlin ORM framework is completed](https://www.reddit.com/r/Kotlin/comments/16pcdvz/highquality_documentation_for_my_kotlin_orm/)
-- [Convert java code to kotlin](https://www.reddit.com/r/Kotlin/comments/16paxiz/convert_java_code_to_kotlin/)
-- [How to use Processing 4 with Kotlin and Gradle](https://www.reddit.com/r/Kotlin/comments/16p7g6q/how_to_use_processing_4_with_kotlin_and_gradle/)
-- [Functional Error Handling in Kotlin with the Raise DSL](https://www.reddit.com/r/Kotlin/comments/16p45dz/functional_error_handling_in_kotlin_with_the/)
-- [Spring Boot &amp; Kotlin - Crash Course For Java Devs](https://www.reddit.com/r/Kotlin/comments/16p3u5m/spring_boot_kotlin_crash_course_for_java_devs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
