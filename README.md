@@ -272,10 +272,10 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Finally java is also getting one of the most useful Kotlin feature as part of value object preview &lpar;project Valhalla&rpar;.](https://www.reddit.com/r/Kotlin/comments/16swntv/finally_java_is_also_getting_one_of_the_most/)
 - [I want to communicate with a professional person who has succeeded in the field and in Android applications using Kotlin and who is self-taught.](https://www.reddit.com/r/Kotlin/comments/16s5004/i_want_to_communicate_with_a_professional_person/)
 - [How to access Android 13 Files ?](https://www.reddit.com/r/Kotlin/comments/16ry2xe/how_to_access_android_13_files/)
 - [Sealed interfaces seem to just be sealed classes without constructor args. Is that the only difference between the two?](https://www.reddit.com/r/Kotlin/comments/16rm4pz/sealed_interfaces_seem_to_just_be_sealed_classes/)
-- [Mastering Kotlin: Your Ultimate Guide to Modern Programming](https://www.reddit.com/r/Kotlin/comments/16rj0td/mastering_kotlin_your_ultimate_guide_to_modern/)
 - [People who use Spring and Kotlin...](https://www.reddit.com/r/Kotlin/comments/16r4986/people_who_use_spring_and_kotlin/)
 - [Build time is long in app dev](https://www.reddit.com/r/Kotlin/comments/16r43h8/build_time_is_long_in_app_dev/)
 - [Open-sourcing Play Deals: Paid Apps Deals &lpar;a KMP Project&rpar;](https://www.reddit.com/r/Kotlin/comments/16qy7p4/opensourcing_play_deals_paid_apps_deals_a_kmp/)
