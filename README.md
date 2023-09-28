@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can i rewrite any regular function as lambda syntax?](https://www.reddit.com/r/Kotlin/comments/16u0v50/can_i_rewrite_any_regular_function_as_lambda/)
+- [Kotlin for Desktop Apps](https://www.reddit.com/r/Kotlin/comments/16tvpvc/kotlin_for_desktop_apps/)
+- [Kotlin to Swift Code Transformations | SKIE Live Demo &amp; QA - 9.28.2023](https://www.reddit.com/r/Kotlin/comments/16trslz/kotlin_to_swift_code_transformations_skie_live/)
+- [How to Use Kotlin 1.9&#39;s Timing API](https://www.reddit.com/r/Kotlin/comments/16tokmp/how_to_use_kotlin_19s_timing_api/)
+- [call arraylists in different activities](https://www.reddit.com/r/Kotlin/comments/16tmjo1/call_arraylists_in_different_activities/)
+- [Should i start from kotlin?](https://www.reddit.com/r/Kotlin/comments/16tjmdw/should_i_start_from_kotlin/)
+- [Newbie to IT!!](https://www.reddit.com/r/Kotlin/comments/16thqbq/newbie_to_it/)
 - [Finally java is also getting one of the most useful Kotlin feature as part of value object preview &lpar;project Valhalla&rpar;.](https://www.reddit.com/r/Kotlin/comments/16swntv/finally_java_is_also_getting_one_of_the_most/)
 - [I want to communicate with a professional person who has succeeded in the field and in Android applications using Kotlin and who is self-taught.](https://www.reddit.com/r/Kotlin/comments/16s5004/i_want_to_communicate_with_a_professional_person/)
 - [How to access Android 13 Files ?](https://www.reddit.com/r/Kotlin/comments/16ry2xe/how_to_access_android_13_files/)
-- [Sealed interfaces seem to just be sealed classes without constructor args. Is that the only difference between the two?](https://www.reddit.com/r/Kotlin/comments/16rm4pz/sealed_interfaces_seem_to_just_be_sealed_classes/)
-- [People who use Spring and Kotlin...](https://www.reddit.com/r/Kotlin/comments/16r4986/people_who_use_spring_and_kotlin/)
-- [Build time is long in app dev](https://www.reddit.com/r/Kotlin/comments/16r43h8/build_time_is_long_in_app_dev/)
-- [Open-sourcing Play Deals: Paid Apps Deals &lpar;a KMP Project&rpar;](https://www.reddit.com/r/Kotlin/comments/16qy7p4/opensourcing_play_deals_paid_apps_deals_a_kmp/)
-- [Kotlin spring](https://www.reddit.com/r/Kotlin/comments/16qtyve/kotlin_spring/)
-- [KMM iOS compose app. How do I make custom views that draw things? I can&#39;t use the canvas API. Is there a compose native set of APIs to draw?](https://www.reddit.com/r/Kotlin/comments/16qmenn/kmm_ios_compose_app_how_do_i_make_custom_views/)
-- [Is Kotiln aa better choice to build a RESTFull API backend application than Spring Boot using java?](https://www.reddit.com/r/Kotlin/comments/16q7xdg/is_kotiln_aa_better_choice_to_build_a_restfull/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
