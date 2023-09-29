@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I wanna Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/16ux0zo/i_wanna_learn_kotlin/)
+- [Java Experienced coder looking for Kotlin tutorial](https://www.reddit.com/r/Kotlin/comments/16uwqer/java_experienced_coder_looking_for_kotlin_tutorial/)
+- [WorldWind Kotlin 1.3.0 released &lpar;open-source multi-platform 3D GIS&rpar;](https://www.reddit.com/r/Kotlin/comments/16uqbuc/worldwind_kotlin_130_released_opensource/)
+- [Seeking Unpaid Remote Mobile Developer Position in the USA/EU - Fluent in Spanish and Portuguese, B2 English, Backend Experience](https://www.reddit.com/r/Kotlin/comments/16unt67/seeking_unpaid_remote_mobile_developer_position/)
+- [Debugging Kotlin/Native code](https://www.reddit.com/r/Kotlin/comments/16ud6wc/debugging_kotlinnative_code/)
 - [Can i rewrite any regular function as lambda syntax?](https://www.reddit.com/r/Kotlin/comments/16u0v50/can_i_rewrite_any_regular_function_as_lambda/)
 - [Kotlin for Desktop Apps](https://www.reddit.com/r/Kotlin/comments/16tvpvc/kotlin_for_desktop_apps/)
 - [Kotlin to Swift Code Transformations | SKIE Live Demo &amp; QA - 9.28.2023](https://www.reddit.com/r/Kotlin/comments/16trslz/kotlin_to_swift_code_transformations_skie_live/)
 - [How to Use Kotlin 1.9&#39;s Timing API](https://www.reddit.com/r/Kotlin/comments/16tokmp/how_to_use_kotlin_19s_timing_api/)
 - [call arraylists in different activities](https://www.reddit.com/r/Kotlin/comments/16tmjo1/call_arraylists_in_different_activities/)
-- [Should i start from kotlin?](https://www.reddit.com/r/Kotlin/comments/16tjmdw/should_i_start_from_kotlin/)
-- [Newbie to IT!!](https://www.reddit.com/r/Kotlin/comments/16thqbq/newbie_to_it/)
-- [Finally java is also getting one of the most useful Kotlin feature as part of value object preview &lpar;project Valhalla&rpar;.](https://www.reddit.com/r/Kotlin/comments/16swntv/finally_java_is_also_getting_one_of_the_most/)
-- [I want to communicate with a professional person who has succeeded in the field and in Android applications using Kotlin and who is self-taught.](https://www.reddit.com/r/Kotlin/comments/16s5004/i_want_to_communicate_with_a_professional_person/)
-- [How to access Android 13 Files ?](https://www.reddit.com/r/Kotlin/comments/16ry2xe/how_to_access_android_13_files/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
