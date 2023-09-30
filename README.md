@@ -272,7 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I wanna Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/16ux0zo/i_wanna_learn_kotlin/)
+- [Please hire me for free](https://www.reddit.com/r/Kotlin/comments/16vkn5f/please_hire_me_for_free/)
+- [Back to Basics - Java To Kotlin Classes](https://www.reddit.com/r/Kotlin/comments/16vc86l/back_to_basics_java_to_kotlin_classes/)
+- [when i upload my app apk to virustotal it gives me it gives me trojan-spy.androidos.agent, how do i check if this is a false detection before submitting it to google play? i dont want my account to get flagged](https://www.reddit.com/r/Kotlin/comments/16v9q9w/when_i_upload_my_app_apk_to_virustotal_it_gives/)
 - [Java Experienced coder looking for Kotlin tutorial](https://www.reddit.com/r/Kotlin/comments/16uwqer/java_experienced_coder_looking_for_kotlin_tutorial/)
 - [WorldWind Kotlin 1.3.0 released &lpar;open-source multi-platform 3D GIS&rpar;](https://www.reddit.com/r/Kotlin/comments/16uqbuc/worldwind_kotlin_130_released_opensource/)
 - [Seeking Unpaid Remote Mobile Developer Position in the USA/EU - Fluent in Spanish and Portuguese, B2 English, Backend Experience](https://www.reddit.com/r/Kotlin/comments/16unt67/seeking_unpaid_remote_mobile_developer_position/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Can i rewrite any regular function as lambda syntax?](https://www.reddit.com/r/Kotlin/comments/16u0v50/can_i_rewrite_any_regular_function_as_lambda/)
 - [Kotlin for Desktop Apps](https://www.reddit.com/r/Kotlin/comments/16tvpvc/kotlin_for_desktop_apps/)
 - [Kotlin to Swift Code Transformations | SKIE Live Demo &amp; QA - 9.28.2023](https://www.reddit.com/r/Kotlin/comments/16trslz/kotlin_to_swift_code_transformations_skie_live/)
-- [How to Use Kotlin 1.9&#39;s Timing API](https://www.reddit.com/r/Kotlin/comments/16tokmp/how_to_use_kotlin_19s_timing_api/)
-- [call arraylists in different activities](https://www.reddit.com/r/Kotlin/comments/16tmjo1/call_arraylists_in_different_activities/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
