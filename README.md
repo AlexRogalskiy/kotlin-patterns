@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Frontend in android apps with kotlin](https://www.reddit.com/r/Kotlin/comments/16xr1z5/frontend_in_android_apps_with_kotlin/)
+- [Does f?.invoke&lpar;&rpar; only work on the JVM?](https://www.reddit.com/r/Kotlin/comments/16xqwwk/does_finvoke_only_work_on_the_jvm/)
 - [Welcome OpenOTP - an open-source Kotlin Multiplatform 2FA application](https://www.reddit.com/r/Kotlin/comments/16xi3x8/welcome_openotp_an_opensource_kotlin/)
 - [Advantages of Compose Multiplatform over Flutter](https://www.reddit.com/r/Kotlin/comments/16x7a0a/advantages_of_compose_multiplatform_over_flutter/)
 - [Native Android vs. Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/16wx8ae/native_android_vs_compose_multiplatform/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I created a small template project for your Compose MP projects. I hope it&#39;s useful to anyone here!](https://www.reddit.com/r/Kotlin/comments/16wknkt/i_created_a_small_template_project_for_your/)
 - [Kotlin vs Swift - Optional](https://www.reddit.com/r/Kotlin/comments/16wgsdf/kotlin_vs_swift_optional/)
 - [Thank you](https://www.reddit.com/r/Kotlin/comments/16w5pvf/thank_you/)
-- [Please hire me for free](https://www.reddit.com/r/Kotlin/comments/16vkn5f/please_hire_me_for_free/)
-- [Back to Basics - Java To Kotlin Classes](https://www.reddit.com/r/Kotlin/comments/16vc86l/back_to_basics_java_to_kotlin_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
