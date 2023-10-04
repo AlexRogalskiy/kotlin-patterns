@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s the point of `buildList` &lpar;other than semantics&rpar; when `apply` and `let` exist](https://www.reddit.com/r/Kotlin/comments/16z8qhk/whats_the_point_of_buildlist_other_than_semantics/)
+- [Best Light IDE for Kotlin](https://www.reddit.com/r/Kotlin/comments/16yzixe/best_light_ide_for_kotlin/)
+- [Build a Domain Gateway with Kotlin &amp; SpringBoot](https://www.reddit.com/r/Kotlin/comments/16yv5td/build_a_domain_gateway_with_kotlin_springboot/)
+- [Kotlin and Variance: Navigating Type Relationships](https://www.reddit.com/r/Kotlin/comments/16yp7uw/kotlin_and_variance_navigating_type_relationships/)
+- [How to extract a pdf text WITH the text style &lpar;bold, italic&rpar;...](https://www.reddit.com/r/Kotlin/comments/16yljle/how_to_extract_a_pdf_text_with_the_text_style/)
 - [Frontend in android apps with kotlin](https://www.reddit.com/r/Kotlin/comments/16xr1z5/frontend_in_android_apps_with_kotlin/)
 - [Does f?.invoke&lpar;&rpar; only work on the JVM?](https://www.reddit.com/r/Kotlin/comments/16xqwwk/does_finvoke_only_work_on_the_jvm/)
 - [Welcome OpenOTP - an open-source Kotlin Multiplatform 2FA application](https://www.reddit.com/r/Kotlin/comments/16xi3x8/welcome_openotp_an_opensource_kotlin/)
 - [Advantages of Compose Multiplatform over Flutter](https://www.reddit.com/r/Kotlin/comments/16x7a0a/advantages_of_compose_multiplatform_over_flutter/)
 - [Native Android vs. Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/16wx8ae/native_android_vs_compose_multiplatform/)
-- [State of Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/16ww78d/state_of_kotlinjs/)
-- [Dear library authors &amp; OS maintainers! Introducing &#39;java-library-template&#39; in 60s](https://www.reddit.com/r/Kotlin/comments/16wven2/dear_library_authors_os_maintainers_introducing/)
-- [I created a small template project for your Compose MP projects. I hope it&#39;s useful to anyone here!](https://www.reddit.com/r/Kotlin/comments/16wknkt/i_created_a_small_template_project_for_your/)
-- [Kotlin vs Swift - Optional](https://www.reddit.com/r/Kotlin/comments/16wgsdf/kotlin_vs_swift_optional/)
-- [Thank you](https://www.reddit.com/r/Kotlin/comments/16w5pvf/thank_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
