@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Resources to learn how to use YouTube/Instagra API in Android Studio w/ Kotlin](https://www.reddit.com/r/Kotlin/comments/16zs2h1/resources_to_learn_how_to_use_youtubeinstagra_api/)
+- [Kotlin Multiplatform upload to S3](https://www.reddit.com/r/Kotlin/comments/16ze9sx/kotlin_multiplatform_upload_to_s3/)
+- [Type safe Bundle in Android development leverage lots Kotlin feature](https://www.reddit.com/r/Kotlin/comments/16zcuqk/type_safe_bundle_in_android_development_leverage/)
 - [What&#39;s the point of `buildList` &lpar;other than semantics&rpar; when `apply` and `let` exist](https://www.reddit.com/r/Kotlin/comments/16z8qhk/whats_the_point_of_buildlist_other_than_semantics/)
 - [Best Light IDE for Kotlin](https://www.reddit.com/r/Kotlin/comments/16yzixe/best_light_ide_for_kotlin/)
 - [Build a Domain Gateway with Kotlin &amp; SpringBoot](https://www.reddit.com/r/Kotlin/comments/16yv5td/build_a_domain_gateway_with_kotlin_springboot/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to extract a pdf text WITH the text style &lpar;bold, italic&rpar;...](https://www.reddit.com/r/Kotlin/comments/16yljle/how_to_extract_a_pdf_text_with_the_text_style/)
 - [Frontend in android apps with kotlin](https://www.reddit.com/r/Kotlin/comments/16xr1z5/frontend_in_android_apps_with_kotlin/)
 - [Does f?.invoke&lpar;&rpar; only work on the JVM?](https://www.reddit.com/r/Kotlin/comments/16xqwwk/does_finvoke_only_work_on_the_jvm/)
-- [Welcome OpenOTP - an open-source Kotlin Multiplatform 2FA application](https://www.reddit.com/r/Kotlin/comments/16xi3x8/welcome_openotp_an_opensource_kotlin/)
-- [Advantages of Compose Multiplatform over Flutter](https://www.reddit.com/r/Kotlin/comments/16x7a0a/advantages_of_compose_multiplatform_over_flutter/)
-- [Native Android vs. Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/16wx8ae/native_android_vs_compose_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
