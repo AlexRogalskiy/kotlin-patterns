@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin compatibility with JVM21 ?](https://www.reddit.com/r/Kotlin/comments/170wdw8/kotlin_compatibility_with_jvm21/)
+- [LaunchedEffect not calling fetch function](https://www.reddit.com/r/Kotlin/comments/170u6jr/launchedeffect_not_calling_fetch_function/)
+- [KorGE 5.0 Released](https://www.reddit.com/r/Kotlin/comments/170sabv/korge_50_released/)
+- [Default xml file not found](https://www.reddit.com/r/Kotlin/comments/170lalx/default_xml_file_not_found/)
+- [Can&#39;t wrap my head around this error](https://www.reddit.com/r/Kotlin/comments/170l838/cant_wrap_my_head_around_this_error/)
+- [Why is there an ambiguity in function overloading ?](https://www.reddit.com/r/Kotlin/comments/170hd4l/why_is_there_an_ambiguity_in_function_overloading/)
+- [JetBrains must invent cargo clone for Kotlin / Java](https://www.reddit.com/r/Kotlin/comments/170ek6f/jetbrains_must_invent_cargo_clone_for_kotlin_java/)
 - [Resources to learn how to use YouTube/Instagra API in Android Studio w/ Kotlin](https://www.reddit.com/r/Kotlin/comments/16zs2h1/resources_to_learn_how_to_use_youtubeinstagra_api/)
 - [Kotlin Multiplatform upload to S3](https://www.reddit.com/r/Kotlin/comments/16ze9sx/kotlin_multiplatform_upload_to_s3/)
 - [Type safe Bundle in Android development leverage lots Kotlin feature](https://www.reddit.com/r/Kotlin/comments/16zcuqk/type_safe_bundle_in_android_development_leverage/)
-- [What&#39;s the point of `buildList` &lpar;other than semantics&rpar; when `apply` and `let` exist](https://www.reddit.com/r/Kotlin/comments/16z8qhk/whats_the_point_of_buildlist_other_than_semantics/)
-- [Best Light IDE for Kotlin](https://www.reddit.com/r/Kotlin/comments/16yzixe/best_light_ide_for_kotlin/)
-- [Build a Domain Gateway with Kotlin &amp; SpringBoot](https://www.reddit.com/r/Kotlin/comments/16yv5td/build_a_domain_gateway_with_kotlin_springboot/)
-- [Kotlin and Variance: Navigating Type Relationships](https://www.reddit.com/r/Kotlin/comments/16yp7uw/kotlin_and_variance_navigating_type_relationships/)
-- [How to extract a pdf text WITH the text style &lpar;bold, italic&rpar;...](https://www.reddit.com/r/Kotlin/comments/16yljle/how_to_extract_a_pdf_text_with_the_text_style/)
-- [Frontend in android apps with kotlin](https://www.reddit.com/r/Kotlin/comments/16xr1z5/frontend_in_android_apps_with_kotlin/)
-- [Does f?.invoke&lpar;&rpar; only work on the JVM?](https://www.reddit.com/r/Kotlin/comments/16xqwwk/does_finvoke_only_work_on_the_jvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
