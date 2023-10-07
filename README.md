@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I generate a sequence containing null values?](https://www.reddit.com/r/Kotlin/comments/171nj87/how_do_i_generate_a_sequence_containing_null/)
+- [Looking for help](https://www.reddit.com/r/Kotlin/comments/171mtmw/looking_for_help/)
+- [Looking for some advice on JWT authentication](https://www.reddit.com/r/Kotlin/comments/171juvs/looking_for_some_advice_on_jwt_authentication/)
+- [Concurrent cancellation protocol, Scala&#39;s Cats-Effect vs Kotlin Coroutines &lpar;sample&rpar;](https://www.reddit.com/r/Kotlin/comments/171hsni/concurrent_cancellation_protocol_scalas/)
+- [Extending Ktor for the kotlin community](https://www.reddit.com/r/Kotlin/comments/171fcuk/extending_ktor_for_the_kotlin_community/)
+- [Things are Going to Get Worse Before they Get Worse - Iterative Design as Goal Seeking](https://www.reddit.com/r/Kotlin/comments/1719k1z/things_are_going_to_get_worse_before_they_get/)
 - [Kotlin compatibility with JVM21 ?](https://www.reddit.com/r/Kotlin/comments/170wdw8/kotlin_compatibility_with_jvm21/)
 - [LaunchedEffect not calling fetch function](https://www.reddit.com/r/Kotlin/comments/170u6jr/launchedeffect_not_calling_fetch_function/)
 - [KorGE 5.0 Released](https://www.reddit.com/r/Kotlin/comments/170sabv/korge_50_released/)
 - [Default xml file not found](https://www.reddit.com/r/Kotlin/comments/170lalx/default_xml_file_not_found/)
-- [Can&#39;t wrap my head around this error](https://www.reddit.com/r/Kotlin/comments/170l838/cant_wrap_my_head_around_this_error/)
-- [Why is there an ambiguity in function overloading ?](https://www.reddit.com/r/Kotlin/comments/170hd4l/why_is_there_an_ambiguity_in_function_overloading/)
-- [JetBrains must invent cargo clone for Kotlin / Java](https://www.reddit.com/r/Kotlin/comments/170ek6f/jetbrains_must_invent_cargo_clone_for_kotlin_java/)
-- [Resources to learn how to use YouTube/Instagra API in Android Studio w/ Kotlin](https://www.reddit.com/r/Kotlin/comments/16zs2h1/resources_to_learn_how_to_use_youtubeinstagra_api/)
-- [Kotlin Multiplatform upload to S3](https://www.reddit.com/r/Kotlin/comments/16ze9sx/kotlin_multiplatform_upload_to_s3/)
-- [Type safe Bundle in Android development leverage lots Kotlin feature](https://www.reddit.com/r/Kotlin/comments/16zcuqk/type_safe_bundle_in_android_development_leverage/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
