@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP KMMBridge Update](https://www.reddit.com/r/Kotlin/comments/1727kt6/kmp_kmmbridge_update/)
+- [Anyone have a way to monitor coroutine metrics?](https://www.reddit.com/r/Kotlin/comments/1724kdq/anyone_have_a_way_to_monitor_coroutine_metrics/)
 - [How do I generate a sequence containing null values?](https://www.reddit.com/r/Kotlin/comments/171nj87/how_do_i_generate_a_sequence_containing_null/)
 - [Looking for help](https://www.reddit.com/r/Kotlin/comments/171mtmw/looking_for_help/)
 - [Looking for some advice on JWT authentication](https://www.reddit.com/r/Kotlin/comments/171juvs/looking_for_some_advice_on_jwt_authentication/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Things are Going to Get Worse Before they Get Worse - Iterative Design as Goal Seeking](https://www.reddit.com/r/Kotlin/comments/1719k1z/things_are_going_to_get_worse_before_they_get/)
 - [Kotlin compatibility with JVM21 ?](https://www.reddit.com/r/Kotlin/comments/170wdw8/kotlin_compatibility_with_jvm21/)
 - [LaunchedEffect not calling fetch function](https://www.reddit.com/r/Kotlin/comments/170u6jr/launchedeffect_not_calling_fetch_function/)
-- [KorGE 5.0 Released](https://www.reddit.com/r/Kotlin/comments/170sabv/korge_50_released/)
-- [Default xml file not found](https://www.reddit.com/r/Kotlin/comments/170lalx/default_xml_file_not_found/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
