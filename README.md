@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to return a file from static folder using ktor?](https://www.reddit.com/r/Kotlin/comments/1739966/how_to_return_a_file_from_static_folder_using_ktor/)
+- [What&#39;s position of Kotlin Native in the Kotlin ecosystem? Will it stay in future, or be dropped as experimental project?](https://www.reddit.com/r/Kotlin/comments/172sul9/whats_position_of_kotlin_native_in_the_kotlin/)
 - [KMP KMMBridge Update](https://www.reddit.com/r/Kotlin/comments/1727kt6/kmp_kmmbridge_update/)
 - [Anyone have a way to monitor coroutine metrics?](https://www.reddit.com/r/Kotlin/comments/1724kdq/anyone_have_a_way_to_monitor_coroutine_metrics/)
 - [How do I generate a sequence containing null values?](https://www.reddit.com/r/Kotlin/comments/171nj87/how_do_i_generate_a_sequence_containing_null/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Concurrent cancellation protocol, Scala&#39;s Cats-Effect vs Kotlin Coroutines &lpar;sample&rpar;](https://www.reddit.com/r/Kotlin/comments/171hsni/concurrent_cancellation_protocol_scalas/)
 - [Extending Ktor for the kotlin community](https://www.reddit.com/r/Kotlin/comments/171fcuk/extending_ktor_for_the_kotlin_community/)
 - [Things are Going to Get Worse Before they Get Worse - Iterative Design as Goal Seeking](https://www.reddit.com/r/Kotlin/comments/1719k1z/things_are_going_to_get_worse_before_they_get/)
-- [Kotlin compatibility with JVM21 ?](https://www.reddit.com/r/Kotlin/comments/170wdw8/kotlin_compatibility_with_jvm21/)
-- [LaunchedEffect not calling fetch function](https://www.reddit.com/r/Kotlin/comments/170u6jr/launchedeffect_not_calling_fetch_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
