@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [which database should i use](https://www.reddit.com/r/Kotlin/comments/1751b9v/which_database_should_i_use/)
+- [Experimenting with a Visual Editor for Compose and Kotlin: Seeking Your Thoughts!](https://www.reddit.com/r/Kotlin/comments/174tzyb/experimenting_with_a_visual_editor_for_compose/)
+- [Article - Konsist and Conquer: Embracing the World of Dynamic Testing](https://www.reddit.com/r/Kotlin/comments/174smd1/article_konsist_and_conquer_embracing_the_world/)
+- [Kotlin Illustrated - Data Classes and Destructuring](https://www.reddit.com/r/Kotlin/comments/174piho/kotlin_illustrated_data_classes_and_destructuring/)
+- [Encoding NFC Tags at 4+ tags/sec with Kotlin JVM and Compose Desktop App](https://www.reddit.com/r/Kotlin/comments/174muxg/encoding_nfc_tags_at_4_tagssec_with_kotlin_jvm/)
+- [Compile Time safety with Koin](https://www.reddit.com/r/Kotlin/comments/174fkj8/compile_time_safety_with_koin/)
 - [How to return a file from static folder using ktor?](https://www.reddit.com/r/Kotlin/comments/1739966/how_to_return_a_file_from_static_folder_using_ktor/)
 - [What&#39;s position of Kotlin Native in the Kotlin ecosystem? Will it stay in future, or be dropped as experimental project?](https://www.reddit.com/r/Kotlin/comments/172sul9/whats_position_of_kotlin_native_in_the_kotlin/)
 - [KMP KMMBridge Update](https://www.reddit.com/r/Kotlin/comments/1727kt6/kmp_kmmbridge_update/)
 - [Anyone have a way to monitor coroutine metrics?](https://www.reddit.com/r/Kotlin/comments/1724kdq/anyone_have_a_way_to_monitor_coroutine_metrics/)
-- [How do I generate a sequence containing null values?](https://www.reddit.com/r/Kotlin/comments/171nj87/how_do_i_generate_a_sequence_containing_null/)
-- [Looking for help](https://www.reddit.com/r/Kotlin/comments/171mtmw/looking_for_help/)
-- [Looking for some advice on JWT authentication](https://www.reddit.com/r/Kotlin/comments/171juvs/looking_for_some_advice_on_jwt_authentication/)
-- [Concurrent cancellation protocol, Scala&#39;s Cats-Effect vs Kotlin Coroutines &lpar;sample&rpar;](https://www.reddit.com/r/Kotlin/comments/171hsni/concurrent_cancellation_protocol_scalas/)
-- [Extending Ktor for the kotlin community](https://www.reddit.com/r/Kotlin/comments/171fcuk/extending_ktor_for_the_kotlin_community/)
-- [Things are Going to Get Worse Before they Get Worse - Iterative Design as Goal Seeking](https://www.reddit.com/r/Kotlin/comments/1719k1z/things_are_going_to_get_worse_before_they_get/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
