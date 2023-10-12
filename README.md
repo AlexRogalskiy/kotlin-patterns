@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to pass a list of a list of a list to a function &lpar;parameter Types&rpar;](https://www.reddit.com/r/Kotlin/comments/175op9h/how_to_pass_a_list_of_a_list_of_a_list_to_a/)
+- [How to Binary?](https://www.reddit.com/r/Kotlin/comments/175h8yh/how_to_binary/)
+- [coroutine cycle and what does suspend do?](https://www.reddit.com/r/Kotlin/comments/175dbyh/coroutine_cycle_and_what_does_suspend_do/)
+- [Deep copying a class - alternatives?](https://www.reddit.com/r/Kotlin/comments/1757rw5/deep_copying_a_class_alternatives/)
 - [which database should i use](https://www.reddit.com/r/Kotlin/comments/1751b9v/which_database_should_i_use/)
 - [Experimenting with a Visual Editor for Compose and Kotlin: Seeking Your Thoughts!](https://www.reddit.com/r/Kotlin/comments/174tzyb/experimenting_with_a_visual_editor_for_compose/)
 - [Article - Konsist and Conquer: Embracing the World of Dynamic Testing](https://www.reddit.com/r/Kotlin/comments/174smd1/article_konsist_and_conquer_embracing_the_world/)
 - [Kotlin Illustrated - Data Classes and Destructuring](https://www.reddit.com/r/Kotlin/comments/174piho/kotlin_illustrated_data_classes_and_destructuring/)
 - [Encoding NFC Tags at 4+ tags/sec with Kotlin JVM and Compose Desktop App](https://www.reddit.com/r/Kotlin/comments/174muxg/encoding_nfc_tags_at_4_tagssec_with_kotlin_jvm/)
 - [Compile Time safety with Koin](https://www.reddit.com/r/Kotlin/comments/174fkj8/compile_time_safety_with_koin/)
-- [How to return a file from static folder using ktor?](https://www.reddit.com/r/Kotlin/comments/1739966/how_to_return_a_file_from_static_folder_using_ktor/)
-- [What&#39;s position of Kotlin Native in the Kotlin ecosystem? Will it stay in future, or be dropped as experimental project?](https://www.reddit.com/r/Kotlin/comments/172sul9/whats_position_of_kotlin_native_in_the_kotlin/)
-- [KMP KMMBridge Update](https://www.reddit.com/r/Kotlin/comments/1727kt6/kmp_kmmbridge_update/)
-- [Anyone have a way to monitor coroutine metrics?](https://www.reddit.com/r/Kotlin/comments/1724kdq/anyone_have_a_way_to_monitor_coroutine_metrics/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
