@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I learn android development and JDK in 10 days for an interview?](https://www.reddit.com/r/Kotlin/comments/1779vqu/how_do_i_learn_android_development_and_jdk_in_10/)
+- [Android Memory Optimizer](https://www.reddit.com/r/Kotlin/comments/17725xz/android_memory_optimizer/)
+- [Refactoring as a Software Design Technique](https://www.reddit.com/r/Kotlin/comments/1770jzp/refactoring_as_a_software_design_technique/)
 - [Setting up socket communication with ktor](https://www.reddit.com/r/Kotlin/comments/176jc9x/setting_up_socket_communication_with_ktor/)
 - [Type mismatch in Observer: Required: MutableLiveData&lt;List&lt;DBClasses.contacts&gt;&gt; Found: MutableList&lt;DBClasses.contacts&gt;](https://www.reddit.com/r/Kotlin/comments/176j6cf/type_mismatch_in_observer_required/)
-- [A straightforward article that beautifully showcases the advantages of Konsist over ArchUnit.](https://www.reddit.com/r/Kotlin/comments/176iswq/a_straightforward_article_that_beautifully/)
 - [EvoMaster 2.0: A Fuzzer for generating JUnit tests for REST, GraphQL and RPC APIs](https://www.reddit.com/r/Kotlin/comments/17618r7/evomaster_20_a_fuzzer_for_generating_junit_tests/)
 - [How to pass a list of a list of a list to a function &lpar;parameter Types&rpar;](https://www.reddit.com/r/Kotlin/comments/175op9h/how_to_pass_a_list_of_a_list_of_a_list_to_a/)
 - [How to Binary?](https://www.reddit.com/r/Kotlin/comments/175h8yh/how_to_binary/)
 - [coroutine cycle and what does suspend do?](https://www.reddit.com/r/Kotlin/comments/175dbyh/coroutine_cycle_and_what_does_suspend_do/)
 - [Deep copying a class - alternatives?](https://www.reddit.com/r/Kotlin/comments/1757rw5/deep_copying_a_class_alternatives/)
-- [which database should i use](https://www.reddit.com/r/Kotlin/comments/1751b9v/which_database_should_i_use/)
-- [Experimenting with a Visual Editor for Compose and Kotlin: Seeking Your Thoughts!](https://www.reddit.com/r/Kotlin/comments/174tzyb/experimenting_with_a_visual_editor_for_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
