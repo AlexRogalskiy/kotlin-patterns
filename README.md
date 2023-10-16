@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any tips for getting started in Kotlin?](https://www.reddit.com/r/Kotlin/comments/178r7sc/any_tips_for_getting_started_in_kotlin/)
 - [KMP - Gradle plugin that generates a Swift representation of a Kotlin iOS Module](https://www.reddit.com/r/Kotlin/comments/177qy76/kmp_gradle_plugin_that_generates_a_swift/)
 - [KMP with Gradle precompiled scripts](https://www.reddit.com/r/Kotlin/comments/177j3n0/kmp_with_gradle_precompiled_scripts/)
 - [Is there a zip decompression library that can be used in kotlin multiplatform?](https://www.reddit.com/r/Kotlin/comments/177eonh/is_there_a_zip_decompression_library_that_can_be/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Setting up socket communication with ktor](https://www.reddit.com/r/Kotlin/comments/176jc9x/setting_up_socket_communication_with_ktor/)
 - [Type mismatch in Observer: Required: MutableLiveData&lt;List&lt;DBClasses.contacts&gt;&gt; Found: MutableList&lt;DBClasses.contacts&gt;](https://www.reddit.com/r/Kotlin/comments/176j6cf/type_mismatch_in_observer_required/)
 - [EvoMaster 2.0: A Fuzzer for generating JUnit tests for REST, GraphQL and RPC APIs](https://www.reddit.com/r/Kotlin/comments/17618r7/evomaster_20_a_fuzzer_for_generating_junit_tests/)
-- [How to pass a list of a list of a list to a function &lpar;parameter Types&rpar;](https://www.reddit.com/r/Kotlin/comments/175op9h/how_to_pass_a_list_of_a_list_of_a_list_to_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
