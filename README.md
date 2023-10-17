@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any guidance in exceptions and error handling for microservices?](https://www.reddit.com/r/Kotlin/comments/179lvvb/any_guidance_in_exceptions_and_error_handling_for/)
+- [I could use some advice on making an API feel kotlin-native.](https://www.reddit.com/r/Kotlin/comments/179cx26/i_could_use_some_advice_on_making_an_api_feel/)
+- [KMP library: compile with lower version?](https://www.reddit.com/r/Kotlin/comments/1796ud0/kmp_library_compile_with_lower_version/)
+- [Firebase App Check for Ktor server](https://www.reddit.com/r/Kotlin/comments/178wk6u/firebase_app_check_for_ktor_server/)
 - [Any tips for getting started in Kotlin?](https://www.reddit.com/r/Kotlin/comments/178r7sc/any_tips_for_getting_started_in_kotlin/)
 - [KMP - Gradle plugin that generates a Swift representation of a Kotlin iOS Module](https://www.reddit.com/r/Kotlin/comments/177qy76/kmp_gradle_plugin_that_generates_a_swift/)
 - [KMP with Gradle precompiled scripts](https://www.reddit.com/r/Kotlin/comments/177j3n0/kmp_with_gradle_precompiled_scripts/)
 - [Is there a zip decompression library that can be used in kotlin multiplatform?](https://www.reddit.com/r/Kotlin/comments/177eonh/is_there_a_zip_decompression_library_that_can_be/)
 - [How do I learn android development and JDK in 10 days for an interview?](https://www.reddit.com/r/Kotlin/comments/1779vqu/how_do_i_learn_android_development_and_jdk_in_10/)
 - [Android Memory Optimizer](https://www.reddit.com/r/Kotlin/comments/17725xz/android_memory_optimizer/)
-- [Refactoring as a Software Design Technique](https://www.reddit.com/r/Kotlin/comments/1770jzp/refactoring_as_a_software_design_technique/)
-- [Setting up socket communication with ktor](https://www.reddit.com/r/Kotlin/comments/176jc9x/setting_up_socket_communication_with_ktor/)
-- [Type mismatch in Observer: Required: MutableLiveData&lt;List&lt;DBClasses.contacts&gt;&gt; Found: MutableList&lt;DBClasses.contacts&gt;](https://www.reddit.com/r/Kotlin/comments/176j6cf/type_mismatch_in_observer_required/)
-- [EvoMaster 2.0: A Fuzzer for generating JUnit tests for REST, GraphQL and RPC APIs](https://www.reddit.com/r/Kotlin/comments/17618r7/evomaster_20_a_fuzzer_for_generating_junit_tests/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
