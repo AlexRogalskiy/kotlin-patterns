@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I find/hire a Kotlin developer for an Android app?](https://www.reddit.com/r/Kotlin/comments/17a9hqr/how_do_i_findhire_a_kotlin_developer_for_an/)
+- [Lock file during a create event](https://www.reddit.com/r/Kotlin/comments/17a71p0/lock_file_during_a_create_event/)
+- [Real time visual collaboration app with Kotlin](https://www.reddit.com/r/Kotlin/comments/17a4uq0/real_time_visual_collaboration_app_with_kotlin/)
+- [Multiplatform, easy to use, high performance TOML library &lpar;builtin support for kotlinx.serialization&rpar;](https://www.reddit.com/r/Kotlin/comments/179qbib/multiplatform_easy_to_use_high_performance_toml/)
 - [Any guidance in exceptions and error handling for microservices?](https://www.reddit.com/r/Kotlin/comments/179lvvb/any_guidance_in_exceptions_and_error_handling_for/)
 - [I could use some advice on making an API feel kotlin-native.](https://www.reddit.com/r/Kotlin/comments/179cx26/i_could_use_some_advice_on_making_an_api_feel/)
 - [KMP library: compile with lower version?](https://www.reddit.com/r/Kotlin/comments/1796ud0/kmp_library_compile_with_lower_version/)
 - [Firebase App Check for Ktor server](https://www.reddit.com/r/Kotlin/comments/178wk6u/firebase_app_check_for_ktor_server/)
 - [Any tips for getting started in Kotlin?](https://www.reddit.com/r/Kotlin/comments/178r7sc/any_tips_for_getting_started_in_kotlin/)
 - [KMP - Gradle plugin that generates a Swift representation of a Kotlin iOS Module](https://www.reddit.com/r/Kotlin/comments/177qy76/kmp_gradle_plugin_that_generates_a_swift/)
-- [KMP with Gradle precompiled scripts](https://www.reddit.com/r/Kotlin/comments/177j3n0/kmp_with_gradle_precompiled_scripts/)
-- [Is there a zip decompression library that can be used in kotlin multiplatform?](https://www.reddit.com/r/Kotlin/comments/177eonh/is_there_a_zip_decompression_library_that_can_be/)
-- [How do I learn android development and JDK in 10 days for an interview?](https://www.reddit.com/r/Kotlin/comments/1779vqu/how_do_i_learn_android_development_and_jdk_in_10/)
-- [Android Memory Optimizer](https://www.reddit.com/r/Kotlin/comments/17725xz/android_memory_optimizer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
