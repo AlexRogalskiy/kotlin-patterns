@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KonigKontext - A globally shared, request scoped, context for JVM based gRPC microservices](https://www.reddit.com/r/Kotlin/comments/17b0qwg/konigkontext_a_globally_shared_request_scoped/)
+- [Kotlin beginner buddy](https://www.reddit.com/r/Kotlin/comments/17b0f8r/kotlin_beginner_buddy/)
+- [Kotlin unresolved reference](https://www.reddit.com/r/Kotlin/comments/17aylp0/kotlin_unresolved_reference/)
+- [Logger.i&lpar;&rpar; Not Your Style? Customize Kermit Logger!](https://www.reddit.com/r/Kotlin/comments/17aupmp/loggeri_not_your_style_customize_kermit_logger/)
+- [Kotlin web development jobs](https://www.reddit.com/r/Kotlin/comments/17aprhs/kotlin_web_development_jobs/)
 - [How do I find/hire a Kotlin developer for an Android app?](https://www.reddit.com/r/Kotlin/comments/17a9hqr/how_do_i_findhire_a_kotlin_developer_for_an/)
 - [Lock file during a create event](https://www.reddit.com/r/Kotlin/comments/17a71p0/lock_file_during_a_create_event/)
 - [Real time visual collaboration app with Kotlin](https://www.reddit.com/r/Kotlin/comments/17a4uq0/real_time_visual_collaboration_app_with_kotlin/)
 - [Multiplatform, easy to use, high performance TOML library &lpar;builtin support for kotlinx.serialization&rpar;](https://www.reddit.com/r/Kotlin/comments/179qbib/multiplatform_easy_to_use_high_performance_toml/)
 - [Any guidance in exceptions and error handling for microservices?](https://www.reddit.com/r/Kotlin/comments/179lvvb/any_guidance_in_exceptions_and_error_handling_for/)
-- [I could use some advice on making an API feel kotlin-native.](https://www.reddit.com/r/Kotlin/comments/179cx26/i_could_use_some_advice_on_making_an_api_feel/)
-- [KMP library: compile with lower version?](https://www.reddit.com/r/Kotlin/comments/1796ud0/kmp_library_compile_with_lower_version/)
-- [Firebase App Check for Ktor server](https://www.reddit.com/r/Kotlin/comments/178wk6u/firebase_app_check_for_ktor_server/)
-- [Any tips for getting started in Kotlin?](https://www.reddit.com/r/Kotlin/comments/178r7sc/any_tips_for_getting_started_in_kotlin/)
-- [KMP - Gradle plugin that generates a Swift representation of a Kotlin iOS Module](https://www.reddit.com/r/Kotlin/comments/177qy76/kmp_gradle_plugin_that_generates_a_swift/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
