@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can you please share some tips to make json serialization as fast as possible?](https://www.reddit.com/r/Kotlin/comments/17bxhg7/can_you_please_share_some_tips_to_make_json/)
+- [Got a backend interview tomorrow and need advice!](https://www.reddit.com/r/Kotlin/comments/17bw3n9/got_a_backend_interview_tomorrow_and_need_advice/)
+- [How DoorDash Standardized and Improved Microservices Caching](https://www.reddit.com/r/Kotlin/comments/17bp6bm/how_doordash_standardized_and_improved/)
+- [Making the kotlin plugin not add an implementation dependency](https://www.reddit.com/r/Kotlin/comments/17blxrc/making_the_kotlin_plugin_not_add_an/)
 - [KonigKontext - A globally shared, request scoped, context for JVM based gRPC microservices](https://www.reddit.com/r/Kotlin/comments/17b0qwg/konigkontext_a_globally_shared_request_scoped/)
 - [Kotlin beginner buddy](https://www.reddit.com/r/Kotlin/comments/17b0f8r/kotlin_beginner_buddy/)
 - [Kotlin unresolved reference](https://www.reddit.com/r/Kotlin/comments/17aylp0/kotlin_unresolved_reference/)
 - [Logger.i&lpar;&rpar; Not Your Style? Customize Kermit Logger!](https://www.reddit.com/r/Kotlin/comments/17aupmp/loggeri_not_your_style_customize_kermit_logger/)
 - [Kotlin web development jobs](https://www.reddit.com/r/Kotlin/comments/17aprhs/kotlin_web_development_jobs/)
 - [How do I find/hire a Kotlin developer for an Android app?](https://www.reddit.com/r/Kotlin/comments/17a9hqr/how_do_i_findhire_a_kotlin_developer_for_an/)
-- [Lock file during a create event](https://www.reddit.com/r/Kotlin/comments/17a71p0/lock_file_during_a_create_event/)
-- [Real time visual collaboration app with Kotlin](https://www.reddit.com/r/Kotlin/comments/17a4uq0/real_time_visual_collaboration_app_with_kotlin/)
-- [Multiplatform, easy to use, high performance TOML library &lpar;builtin support for kotlinx.serialization&rpar;](https://www.reddit.com/r/Kotlin/comments/179qbib/multiplatform_easy_to_use_high_performance_toml/)
-- [Any guidance in exceptions and error handling for microservices?](https://www.reddit.com/r/Kotlin/comments/179lvvb/any_guidance_in_exceptions_and_error_handling_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
