@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Force Int convert to string in Kotlinx Serialization](https://www.reddit.com/r/Kotlin/comments/17eudwn/force_int_convert_to_string_in_kotlinx/)
+- [How did you learn react?](https://www.reddit.com/r/Kotlin/comments/17eof5t/how_did_you_learn_react/)
+- [Collecting items from the Flow in chunks💦](https://www.reddit.com/r/Kotlin/comments/17emp6f/collecting_items_from_the_flow_in_chunks/)
+- [A KMM alternative?](https://www.reddit.com/r/Kotlin/comments/17ekffk/a_kmm_alternative/)
+- [Modern kotlin course for &lpar;medior&rpar; FE-dev](https://www.reddit.com/r/Kotlin/comments/17efk0j/modern_kotlin_course_for_medior_fedev/)
 - [overloaded `let` for suspendable lambda](https://www.reddit.com/r/Kotlin/comments/17e21hx/overloaded_let_for_suspendable_lambda/)
 - [Kotlin Multiplatform and Flutter Combo: A Dynamic Duo?](https://www.reddit.com/r/Kotlin/comments/17dn4os/kotlin_multiplatform_and_flutter_combo_a_dynamic/)
 - [Roman Elizarov &lpar;Kotlin lead&rpar; is leaving JetBrains](https://www.reddit.com/r/Kotlin/comments/17cme21/roman_elizarov_kotlin_lead_is_leaving_jetbrains/)
 - [Kermit Now Supports WASM](https://www.reddit.com/r/Kotlin/comments/17ckbaa/kermit_now_supports_wasm/)
 - [When TDD goes right - our JSON parsing accelerates](https://www.reddit.com/r/Kotlin/comments/17cbodq/when_tdd_goes_right_our_json_parsing_accelerates/)
-- [Kotlin: a bit of history](https://www.reddit.com/r/Kotlin/comments/17c2oos/kotlin_a_bit_of_history/)
-- [Can you please share some tips to make json serialization as fast as possible?](https://www.reddit.com/r/Kotlin/comments/17bxhg7/can_you_please_share_some_tips_to_make_json/)
-- [Got a backend interview tomorrow and need advice!](https://www.reddit.com/r/Kotlin/comments/17bw3n9/got_a_backend_interview_tomorrow_and_need_advice/)
-- [How DoorDash Standardized and Improved Microservices Caching](https://www.reddit.com/r/Kotlin/comments/17bp6bm/how_doordash_standardized_and_improved/)
-- [Making the kotlin plugin not add an implementation dependency](https://www.reddit.com/r/Kotlin/comments/17blxrc/making_the_kotlin_plugin_not_add_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
