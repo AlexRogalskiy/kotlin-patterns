@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are current best-practices for unit testing in Kotlin &lpar;frameworks, tools, style, etc&rpar;?](https://www.reddit.com/r/Kotlin/comments/17fdrd3/what_are_current_bestpractices_for_unit_testing/)
 - [Force Int convert to string in Kotlinx Serialization](https://www.reddit.com/r/Kotlin/comments/17eudwn/force_int_convert_to_string_in_kotlinx/)
 - [How did you learn react?](https://www.reddit.com/r/Kotlin/comments/17eof5t/how_did_you_learn_react/)
 - [Collecting items from the Flow in chunks💦](https://www.reddit.com/r/Kotlin/comments/17emp6f/collecting_items_from_the_flow_in_chunks/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Multiplatform and Flutter Combo: A Dynamic Duo?](https://www.reddit.com/r/Kotlin/comments/17dn4os/kotlin_multiplatform_and_flutter_combo_a_dynamic/)
 - [Roman Elizarov &lpar;Kotlin lead&rpar; is leaving JetBrains](https://www.reddit.com/r/Kotlin/comments/17cme21/roman_elizarov_kotlin_lead_is_leaving_jetbrains/)
 - [Kermit Now Supports WASM](https://www.reddit.com/r/Kotlin/comments/17ckbaa/kermit_now_supports_wasm/)
-- [When TDD goes right - our JSON parsing accelerates](https://www.reddit.com/r/Kotlin/comments/17cbodq/when_tdd_goes_right_our_json_parsing_accelerates/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
