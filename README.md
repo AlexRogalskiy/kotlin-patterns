@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Found it interesting that Kotlin properly accounts for lambdas that return Nothing](https://www.reddit.com/r/Kotlin/comments/17ghc30/found_it_interesting_that_kotlin_properly/)
+- [Does learning Kotlin make you a better Java developer?](https://www.reddit.com/r/Kotlin/comments/17ggbbu/does_learning_kotlin_make_you_a_better_java/)
+- [Exploring Kotlin Notebook](https://www.reddit.com/r/Kotlin/comments/17g96xd/exploring_kotlin_notebook/)
+- [Expert developer&#39;s perspective on Kotlin vs Java](https://www.reddit.com/r/Kotlin/comments/17g6bgk/expert_developers_perspective_on_kotlin_vs_java/)
+- [Web Scraping with Kotlin &amp; ChatGPT](https://www.reddit.com/r/Kotlin/comments/17g3608/web_scraping_with_kotlin_chatgpt/)
+- [Gradle plugin for provide build-time constants](https://www.reddit.com/r/Kotlin/comments/17fx2gu/gradle_plugin_for_provide_buildtime_constants/)
 - [What are current best-practices for unit testing in Kotlin &lpar;frameworks, tools, style, etc&rpar;?](https://www.reddit.com/r/Kotlin/comments/17fdrd3/what_are_current_bestpractices_for_unit_testing/)
 - [Force Int convert to string in Kotlinx Serialization](https://www.reddit.com/r/Kotlin/comments/17eudwn/force_int_convert_to_string_in_kotlinx/)
 - [How did you learn react?](https://www.reddit.com/r/Kotlin/comments/17eof5t/how_did_you_learn_react/)
 - [Collecting items from the Flow in chunks💦](https://www.reddit.com/r/Kotlin/comments/17emp6f/collecting_items_from_the_flow_in_chunks/)
-- [A KMM alternative?](https://www.reddit.com/r/Kotlin/comments/17ekffk/a_kmm_alternative/)
-- [Modern kotlin course for &lpar;medior&rpar; FE-dev](https://www.reddit.com/r/Kotlin/comments/17efk0j/modern_kotlin_course_for_medior_fedev/)
-- [overloaded `let` for suspendable lambda](https://www.reddit.com/r/Kotlin/comments/17e21hx/overloaded_let_for_suspendable_lambda/)
-- [Kotlin Multiplatform and Flutter Combo: A Dynamic Duo?](https://www.reddit.com/r/Kotlin/comments/17dn4os/kotlin_multiplatform_and_flutter_combo_a_dynamic/)
-- [Roman Elizarov &lpar;Kotlin lead&rpar; is leaving JetBrains](https://www.reddit.com/r/Kotlin/comments/17cme21/roman_elizarov_kotlin_lead_is_leaving_jetbrains/)
-- [Kermit Now Supports WASM](https://www.reddit.com/r/Kotlin/comments/17ckbaa/kermit_now_supports_wasm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
