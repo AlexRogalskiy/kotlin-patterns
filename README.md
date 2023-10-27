@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just released my first Kotlin multiplatform app - ZenBreak!](https://www.reddit.com/r/Kotlin/comments/17gs7ul/just_released_my_first_kotlin_multiplatform_app/)
+- [Confused about Kotlin Multiplatform, how to use c interoperability?](https://www.reddit.com/r/Kotlin/comments/17gmy8b/confused_about_kotlin_multiplatform_how_to_use_c/)
 - [Found it interesting that Kotlin properly accounts for lambdas that return Nothing](https://www.reddit.com/r/Kotlin/comments/17ghc30/found_it_interesting_that_kotlin_properly/)
 - [Does learning Kotlin make you a better Java developer?](https://www.reddit.com/r/Kotlin/comments/17ggbbu/does_learning_kotlin_make_you_a_better_java/)
 - [Exploring Kotlin Notebook](https://www.reddit.com/r/Kotlin/comments/17g96xd/exploring_kotlin_notebook/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Gradle plugin for provide build-time constants](https://www.reddit.com/r/Kotlin/comments/17fx2gu/gradle_plugin_for_provide_buildtime_constants/)
 - [What are current best-practices for unit testing in Kotlin &lpar;frameworks, tools, style, etc&rpar;?](https://www.reddit.com/r/Kotlin/comments/17fdrd3/what_are_current_bestpractices_for_unit_testing/)
 - [Force Int convert to string in Kotlinx Serialization](https://www.reddit.com/r/Kotlin/comments/17eudwn/force_int_convert_to_string_in_kotlinx/)
-- [How did you learn react?](https://www.reddit.com/r/Kotlin/comments/17eof5t/how_did_you_learn_react/)
-- [Collecting items from the Flow in chunks💦](https://www.reddit.com/r/Kotlin/comments/17emp6f/collecting_items_from_the_flow_in_chunks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
