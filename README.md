@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how to run http4k app on free IDEs?](https://www.reddit.com/r/Kotlin/comments/17i6ayq/how_to_run_http4k_app_on_free_ides/)
 - [Embrace Mutation with Object Orientation](https://www.reddit.com/r/Kotlin/comments/17hnn42/embrace_mutation_with_object_orientation/)
 - [Just released my first Kotlin multiplatform app - ZenBreak!](https://www.reddit.com/r/Kotlin/comments/17gs7ul/just_released_my_first_kotlin_multiplatform_app/)
 - [Confused about Kotlin Multiplatform, how to use c interoperability?](https://www.reddit.com/r/Kotlin/comments/17gmy8b/confused_about_kotlin_multiplatform_how_to_use_c/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Expert developer&#39;s perspective on Kotlin vs Java](https://www.reddit.com/r/Kotlin/comments/17g6bgk/expert_developers_perspective_on_kotlin_vs_java/)
 - [Web Scraping with Kotlin &amp; ChatGPT](https://www.reddit.com/r/Kotlin/comments/17g3608/web_scraping_with_kotlin_chatgpt/)
 - [Gradle plugin for provide build-time constants](https://www.reddit.com/r/Kotlin/comments/17fx2gu/gradle_plugin_for_provide_buildtime_constants/)
-- [What are current best-practices for unit testing in Kotlin &lpar;frameworks, tools, style, etc&rpar;?](https://www.reddit.com/r/Kotlin/comments/17fdrd3/what_are_current_bestpractices_for_unit_testing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
