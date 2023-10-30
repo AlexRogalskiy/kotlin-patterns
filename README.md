@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A wrapper library over NewPipeExtractor](https://www.reddit.com/r/Kotlin/comments/17j8hw1/a_wrapper_library_over_newpipeextractor/)
+- [Set certain selectable dates in date picker in kotlin](https://www.reddit.com/r/Kotlin/comments/17j75mx/set_certain_selectable_dates_in_date_picker_in/)
+- [Representing in-progress, successful and failed operations](https://www.reddit.com/r/Kotlin/comments/17j1lw4/representing_inprogress_successful_and_failed/)
+- [Need a learning roadmap](https://www.reddit.com/r/Kotlin/comments/17itas6/need_a_learning_roadmap/)
 - [how to run http4k app on free IDEs?](https://www.reddit.com/r/Kotlin/comments/17i6ayq/how_to_run_http4k_app_on_free_ides/)
 - [Embrace Mutation with Object Orientation](https://www.reddit.com/r/Kotlin/comments/17hnn42/embrace_mutation_with_object_orientation/)
 - [Just released my first Kotlin multiplatform app - ZenBreak!](https://www.reddit.com/r/Kotlin/comments/17gs7ul/just_released_my_first_kotlin_multiplatform_app/)
 - [Confused about Kotlin Multiplatform, how to use c interoperability?](https://www.reddit.com/r/Kotlin/comments/17gmy8b/confused_about_kotlin_multiplatform_how_to_use_c/)
 - [Found it interesting that Kotlin properly accounts for lambdas that return Nothing](https://www.reddit.com/r/Kotlin/comments/17ghc30/found_it_interesting_that_kotlin_properly/)
 - [Does learning Kotlin make you a better Java developer?](https://www.reddit.com/r/Kotlin/comments/17ggbbu/does_learning_kotlin_make_you_a_better_java/)
-- [Exploring Kotlin Notebook](https://www.reddit.com/r/Kotlin/comments/17g96xd/exploring_kotlin_notebook/)
-- [Expert developer&#39;s perspective on Kotlin vs Java](https://www.reddit.com/r/Kotlin/comments/17g6bgk/expert_developers_perspective_on_kotlin_vs_java/)
-- [Web Scraping with Kotlin &amp; ChatGPT](https://www.reddit.com/r/Kotlin/comments/17g3608/web_scraping_with_kotlin_chatgpt/)
-- [Gradle plugin for provide build-time constants](https://www.reddit.com/r/Kotlin/comments/17fx2gu/gradle_plugin_for_provide_buildtime_constants/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
