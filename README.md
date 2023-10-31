@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need feedback on a class that allows you to get values from .env using delegates](https://www.reddit.com/r/Kotlin/comments/17k4g4f/need_feedback_on_a_class_that_allows_you_to_get/)
+- [Important stability release of multi-platform 3D GIS engine](https://www.reddit.com/r/Kotlin/comments/17k3qim/important_stability_release_of_multiplatform_3d/)
+- [Introducing 💠 Haze, a glass-like blur modifier for Compose &lpar;Jetpack &amp; Multiplatform&rpar;](https://www.reddit.com/r/Kotlin/comments/17jxxkx/introducing_haze_a_glasslike_blur_modifier_for/)
 - [A wrapper library over NewPipeExtractor](https://www.reddit.com/r/Kotlin/comments/17j8hw1/a_wrapper_library_over_newpipeextractor/)
 - [Set certain selectable dates in date picker in kotlin](https://www.reddit.com/r/Kotlin/comments/17j75mx/set_certain_selectable_dates_in_date_picker_in/)
 - [Representing in-progress, successful and failed operations](https://www.reddit.com/r/Kotlin/comments/17j1lw4/representing_inprogress_successful_and_failed/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [how to run http4k app on free IDEs?](https://www.reddit.com/r/Kotlin/comments/17i6ayq/how_to_run_http4k_app_on_free_ides/)
 - [Embrace Mutation with Object Orientation](https://www.reddit.com/r/Kotlin/comments/17hnn42/embrace_mutation_with_object_orientation/)
 - [Just released my first Kotlin multiplatform app - ZenBreak!](https://www.reddit.com/r/Kotlin/comments/17gs7ul/just_released_my_first_kotlin_multiplatform_app/)
-- [Confused about Kotlin Multiplatform, how to use c interoperability?](https://www.reddit.com/r/Kotlin/comments/17gmy8b/confused_about_kotlin_multiplatform_how_to_use_c/)
-- [Found it interesting that Kotlin properly accounts for lambdas that return Nothing](https://www.reddit.com/r/Kotlin/comments/17ghc30/found_it_interesting_that_kotlin_properly/)
-- [Does learning Kotlin make you a better Java developer?](https://www.reddit.com/r/Kotlin/comments/17ggbbu/does_learning_kotlin_make_you_a_better_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
