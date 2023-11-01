@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can extension methods be written in Kotlin so that they can be used in a Java codebase?](https://www.reddit.com/r/Kotlin/comments/17kio9n/can_extension_methods_be_written_in_kotlin_so/)
+- [Kotlin-Algorithms-and-Design-Patterns](https://www.reddit.com/r/Kotlin/comments/17kieao/kotlinalgorithmsanddesignpatterns/)
+- [Kotlin Notebook to solve a complex School Timetabling problem with Timefold AI](https://www.reddit.com/r/Kotlin/comments/17kfoye/kotlin_notebook_to_solve_a_complex_school/)
 - [Need feedback on a class that allows you to get values from .env using delegates](https://www.reddit.com/r/Kotlin/comments/17k4g4f/need_feedback_on_a_class_that_allows_you_to_get/)
 - [Important stability release of multi-platform 3D GIS engine](https://www.reddit.com/r/Kotlin/comments/17k3qim/important_stability_release_of_multiplatform_3d/)
 - [Introducing 💠 Haze, a glass-like blur modifier for Compose &lpar;Jetpack &amp; Multiplatform&rpar;](https://www.reddit.com/r/Kotlin/comments/17jxxkx/introducing_haze_a_glasslike_blur_modifier_for/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Set certain selectable dates in date picker in kotlin](https://www.reddit.com/r/Kotlin/comments/17j75mx/set_certain_selectable_dates_in_date_picker_in/)
 - [Representing in-progress, successful and failed operations](https://www.reddit.com/r/Kotlin/comments/17j1lw4/representing_inprogress_successful_and_failed/)
 - [Need a learning roadmap](https://www.reddit.com/r/Kotlin/comments/17itas6/need_a_learning_roadmap/)
-- [how to run http4k app on free IDEs?](https://www.reddit.com/r/Kotlin/comments/17i6ayq/how_to_run_http4k_app_on_free_ides/)
-- [Embrace Mutation with Object Orientation](https://www.reddit.com/r/Kotlin/comments/17hnn42/embrace_mutation_with_object_orientation/)
-- [Just released my first Kotlin multiplatform app - ZenBreak!](https://www.reddit.com/r/Kotlin/comments/17gs7ul/just_released_my_first_kotlin_multiplatform_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
