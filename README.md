@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can extension methods be written in Kotlin so that they can be used in a Java codebase?](https://www.reddit.com/r/Kotlin/comments/17kio9n/can_extension_methods_be_written_in_kotlin_so/)
-- [Kotlin-Algorithms-and-Design-Patterns](https://www.reddit.com/r/Kotlin/comments/17kieao/kotlinalgorithmsanddesignpatterns/)
-- [Kotlin Notebook to solve a complex School Timetabling problem with Timefold AI](https://www.reddit.com/r/Kotlin/comments/17kfoye/kotlin_notebook_to_solve_a_complex_school/)
-- [Need feedback on a class that allows you to get values from .env using delegates](https://www.reddit.com/r/Kotlin/comments/17k4g4f/need_feedback_on_a_class_that_allows_you_to_get/)
-- [Important stability release of multi-platform 3D GIS engine](https://www.reddit.com/r/Kotlin/comments/17k3qim/important_stability_release_of_multiplatform_3d/)
-- [Introducing 💠 Haze, a glass-like blur modifier for Compose &lpar;Jetpack &amp; Multiplatform&rpar;](https://www.reddit.com/r/Kotlin/comments/17jxxkx/introducing_haze_a_glasslike_blur_modifier_for/)
-- [A wrapper library over NewPipeExtractor](https://www.reddit.com/r/Kotlin/comments/17j8hw1/a_wrapper_library_over_newpipeextractor/)
-- [Set certain selectable dates in date picker in kotlin](https://www.reddit.com/r/Kotlin/comments/17j75mx/set_certain_selectable_dates_in_date_picker_in/)
-- [Representing in-progress, successful and failed operations](https://www.reddit.com/r/Kotlin/comments/17j1lw4/representing_inprogress_successful_and_failed/)
-- [Need a learning roadmap](https://www.reddit.com/r/Kotlin/comments/17itas6/need_a_learning_roadmap/)
+- [Editing HTML in Kotlin script](https://www.reddit.com/r/Kotlin/comments/17lmhmn/editing_html_in_kotlin_script/)
+- [Errors with emulator on Android Studio](https://www.reddit.com/r/Kotlin/comments/17ll6k3/errors_with_emulator_on_android_studio/)
+- [Android Compose, Crafting a Unique Focus Experience](https://www.reddit.com/r/Kotlin/comments/17lhz5t/android_compose_crafting_a_unique_focus_experience/)
+- [How can i implement ai model for face swap in android?](https://www.reddit.com/r/Kotlin/comments/17lgbn2/how_can_i_implement_ai_model_for_face_swap_in/)
+- [Kotlin Multiplatform Is Stable and Production-Ready](https://www.reddit.com/r/Kotlin/comments/17lef32/kotlin_multiplatform_is_stable_and_productionready/)
+- [Roadmap to learn Kotlin or a way?](https://www.reddit.com/r/Kotlin/comments/17ldr92/roadmap_to_learn_kotlin_or_a_way/)
+- [🎉 Kotlin Multiplatform is now STABLE!](https://www.reddit.com/r/Kotlin/comments/17lbryf/kotlin_multiplatform_is_now_stable/)
+- [Kotlin 1.9.20 released](https://www.reddit.com/r/Kotlin/comments/17laiz6/kotlin_1920_released/)
+- [Kotlin Type Aliases: Enhancing Code Clarity - Wednesday&#39;s Kotlin Kuppa #1](https://www.reddit.com/r/Kotlin/comments/17l9ycy/kotlin_type_aliases_enhancing_code_clarity/)
+- [RecycleView swipe item](https://www.reddit.com/r/Kotlin/comments/17l9irx/recycleview_swipe_item/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
