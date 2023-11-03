@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about flows](https://www.reddit.com/r/Kotlin/comments/17lwbvc/question_about_flows/)
 - [Editing HTML in Kotlin script](https://www.reddit.com/r/Kotlin/comments/17lmhmn/editing_html_in_kotlin_script/)
 - [Errors with emulator on Android Studio](https://www.reddit.com/r/Kotlin/comments/17ll6k3/errors_with_emulator_on_android_studio/)
 - [Android Compose, Crafting a Unique Focus Experience](https://www.reddit.com/r/Kotlin/comments/17lhz5t/android_compose_crafting_a_unique_focus_experience/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [🎉 Kotlin Multiplatform is now STABLE!](https://www.reddit.com/r/Kotlin/comments/17lbryf/kotlin_multiplatform_is_now_stable/)
 - [Kotlin 1.9.20 released](https://www.reddit.com/r/Kotlin/comments/17laiz6/kotlin_1920_released/)
 - [Kotlin Type Aliases: Enhancing Code Clarity - Wednesday&#39;s Kotlin Kuppa #1](https://www.reddit.com/r/Kotlin/comments/17l9ycy/kotlin_type_aliases_enhancing_code_clarity/)
-- [RecycleView swipe item](https://www.reddit.com/r/Kotlin/comments/17l9irx/recycleview_swipe_item/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
