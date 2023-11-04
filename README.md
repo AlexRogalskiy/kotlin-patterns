@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Null Safety](https://www.reddit.com/r/Kotlin/comments/17n1lg1/null_safety/)
+- [Null Safety](https://www.reddit.com/r/Kotlin/comments/17n1lfu/null_safety/)
+- [How Conformant is my JSON parser?](https://www.reddit.com/r/Kotlin/comments/17mvs93/how_conformant_is_my_json_parser/)
+- [BulletSpan in tablet](https://www.reddit.com/r/Kotlin/comments/17mr4e8/bulletspan_in_tablet/)
+- [Question about localization and components using Ktor with Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/17mo9d7/question_about_localization_and_components_using/)
 - [Question about flows](https://www.reddit.com/r/Kotlin/comments/17lwbvc/question_about_flows/)
 - [Editing HTML in Kotlin script](https://www.reddit.com/r/Kotlin/comments/17lmhmn/editing_html_in_kotlin_script/)
 - [Errors with emulator on Android Studio](https://www.reddit.com/r/Kotlin/comments/17ll6k3/errors_with_emulator_on_android_studio/)
 - [Android Compose, Crafting a Unique Focus Experience](https://www.reddit.com/r/Kotlin/comments/17lhz5t/android_compose_crafting_a_unique_focus_experience/)
 - [How can i implement ai model for face swap in android?](https://www.reddit.com/r/Kotlin/comments/17lgbn2/how_can_i_implement_ai_model_for_face_swap_in/)
-- [Kotlin Multiplatform Is Stable and Production-Ready](https://www.reddit.com/r/Kotlin/comments/17lef32/kotlin_multiplatform_is_stable_and_productionready/)
-- [Roadmap to learn Kotlin or a way?](https://www.reddit.com/r/Kotlin/comments/17ldr92/roadmap_to_learn_kotlin_or_a_way/)
-- [🎉 Kotlin Multiplatform is now STABLE!](https://www.reddit.com/r/Kotlin/comments/17lbryf/kotlin_multiplatform_is_now_stable/)
-- [Kotlin 1.9.20 released](https://www.reddit.com/r/Kotlin/comments/17laiz6/kotlin_1920_released/)
-- [Kotlin Type Aliases: Enhancing Code Clarity - Wednesday&#39;s Kotlin Kuppa #1](https://www.reddit.com/r/Kotlin/comments/17l9ycy/kotlin_type_aliases_enhancing_code_clarity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
