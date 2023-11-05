@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can someone explain to me how versions work?](https://www.reddit.com/r/Kotlin/comments/17nsfjm/can_someone_explain_to_me_how_versions_work/)
+- [Mismatch error with Retrofit Callback method](https://www.reddit.com/r/Kotlin/comments/17nbmou/mismatch_error_with_retrofit_callback_method/)
 - [Null Safety](https://www.reddit.com/r/Kotlin/comments/17n1lg1/null_safety/)
 - [Null Safety](https://www.reddit.com/r/Kotlin/comments/17n1lfu/null_safety/)
 - [How Conformant is my JSON parser?](https://www.reddit.com/r/Kotlin/comments/17mvs93/how_conformant_is_my_json_parser/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Question about flows](https://www.reddit.com/r/Kotlin/comments/17lwbvc/question_about_flows/)
 - [Editing HTML in Kotlin script](https://www.reddit.com/r/Kotlin/comments/17lmhmn/editing_html_in_kotlin_script/)
 - [Errors with emulator on Android Studio](https://www.reddit.com/r/Kotlin/comments/17ll6k3/errors_with_emulator_on_android_studio/)
-- [Android Compose, Crafting a Unique Focus Experience](https://www.reddit.com/r/Kotlin/comments/17lhz5t/android_compose_crafting_a_unique_focus_experience/)
-- [How can i implement ai model for face swap in android?](https://www.reddit.com/r/Kotlin/comments/17lgbn2/how_can_i_implement_ai_model_for_face_swap_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
