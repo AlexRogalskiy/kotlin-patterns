@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Xcode Kotlin Plugin Fixed for Xcode 15](https://www.reddit.com/r/Kotlin/comments/17olcig/xcode_kotlin_plugin_fixed_for_xcode_15/)
 - [Can someone explain to me how versions work?](https://www.reddit.com/r/Kotlin/comments/17nsfjm/can_someone_explain_to_me_how_versions_work/)
 - [Mismatch error with Retrofit Callback method](https://www.reddit.com/r/Kotlin/comments/17nbmou/mismatch_error_with_retrofit_callback_method/)
 - [Null Safety](https://www.reddit.com/r/Kotlin/comments/17n1lg1/null_safety/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Question about localization and components using Ktor with Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/17mo9d7/question_about_localization_and_components_using/)
 - [Question about flows](https://www.reddit.com/r/Kotlin/comments/17lwbvc/question_about_flows/)
 - [Editing HTML in Kotlin script](https://www.reddit.com/r/Kotlin/comments/17lmhmn/editing_html_in_kotlin_script/)
-- [Errors with emulator on Android Studio](https://www.reddit.com/r/Kotlin/comments/17ll6k3/errors_with_emulator_on_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
