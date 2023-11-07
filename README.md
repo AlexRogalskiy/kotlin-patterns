@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I love that Kotlin lets me do things like this... &lpar;cursed?&rpar;](https://www.reddit.com/r/Kotlin/comments/17ph6jj/i_love_that_kotlin_lets_me_do_things_like_this/)
+- [Is there a django like Kotlin fullstack framework](https://www.reddit.com/r/Kotlin/comments/17pdl9l/is_there_a_django_like_kotlin_fullstack_framework/)
+- [Weird error in ktor](https://www.reddit.com/r/Kotlin/comments/17pbc2w/weird_error_in_ktor/)
+- [How to fire and forget coroutine, webflux](https://www.reddit.com/r/Kotlin/comments/17pb64x/how_to_fire_and_forget_coroutine_webflux/)
+- [Generic class question](https://www.reddit.com/r/Kotlin/comments/17p8bc9/generic_class_question/)
+- [I miss the no-prefix and overloadable enums](https://www.reddit.com/r/Kotlin/comments/17p3brd/i_miss_the_noprefix_and_overloadable_enums/)
+- [[Video] A Tour Through Konsist](https://www.reddit.com/r/Kotlin/comments/17p20cp/video_a_tour_through_konsist/)
+- [Mobile performace &lpar;vs swift&rpar;](https://www.reddit.com/r/Kotlin/comments/17ozi9e/mobile_performace_vs_swift/)
 - [Xcode Kotlin Plugin Fixed for Xcode 15](https://www.reddit.com/r/Kotlin/comments/17olcig/xcode_kotlin_plugin_fixed_for_xcode_15/)
 - [Can someone explain to me how versions work?](https://www.reddit.com/r/Kotlin/comments/17nsfjm/can_someone_explain_to_me_how_versions_work/)
-- [Mismatch error with Retrofit Callback method](https://www.reddit.com/r/Kotlin/comments/17nbmou/mismatch_error_with_retrofit_callback_method/)
-- [Null Safety](https://www.reddit.com/r/Kotlin/comments/17n1lg1/null_safety/)
-- [Null Safety](https://www.reddit.com/r/Kotlin/comments/17n1lfu/null_safety/)
-- [How Conformant is my JSON parser?](https://www.reddit.com/r/Kotlin/comments/17mvs93/how_conformant_is_my_json_parser/)
-- [BulletSpan in tablet](https://www.reddit.com/r/Kotlin/comments/17mr4e8/bulletspan_in_tablet/)
-- [Question about localization and components using Ktor with Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/17mo9d7/question_about_localization_and_components_using/)
-- [Question about flows](https://www.reddit.com/r/Kotlin/comments/17lwbvc/question_about_flows/)
-- [Editing HTML in Kotlin script](https://www.reddit.com/r/Kotlin/comments/17lmhmn/editing_html_in_kotlin_script/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
