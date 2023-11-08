@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Conveyor release for KMP desktop apps: Win/Lin ARM, dark mode, cloud signing and more](https://www.reddit.com/r/Kotlin/comments/17pyjsk/new_conveyor_release_for_kmp_desktop_apps_winlin/)
+- [Welcome Fleet with Kotlin Multiplatform Tooling](https://www.reddit.com/r/Kotlin/comments/17pvvs7/welcome_fleet_with_kotlin_multiplatform_tooling/)
+- [What Now?](https://www.reddit.com/r/Kotlin/comments/17pqxjd/what_now/)
+- [Why Kotlin Multiplatform Won’t Succeed - DONN FELKER](https://www.reddit.com/r/Kotlin/comments/17pooao/why_kotlin_multiplatform_wont_succeed_donn_felker/)
+- [[Thoughts] Why Kotlin Multiplatform Won’t Succeed - DONN FELKER](https://www.reddit.com/r/Kotlin/comments/17plko9/thoughts_why_kotlin_multiplatform_wont_succeed/)
 - [I love that Kotlin lets me do things like this... &lpar;cursed?&rpar;](https://www.reddit.com/r/Kotlin/comments/17ph6jj/i_love_that_kotlin_lets_me_do_things_like_this/)
 - [Is there a django like Kotlin fullstack framework](https://www.reddit.com/r/Kotlin/comments/17pdl9l/is_there_a_django_like_kotlin_fullstack_framework/)
 - [Weird error in ktor](https://www.reddit.com/r/Kotlin/comments/17pbc2w/weird_error_in_ktor/)
 - [How to fire and forget coroutine, webflux](https://www.reddit.com/r/Kotlin/comments/17pb64x/how_to_fire_and_forget_coroutine_webflux/)
 - [Generic class question](https://www.reddit.com/r/Kotlin/comments/17p8bc9/generic_class_question/)
-- [I miss the no-prefix and overloadable enums](https://www.reddit.com/r/Kotlin/comments/17p3brd/i_miss_the_noprefix_and_overloadable_enums/)
-- [[Video] A Tour Through Konsist](https://www.reddit.com/r/Kotlin/comments/17p20cp/video_a_tour_through_konsist/)
-- [Mobile performace &lpar;vs swift&rpar;](https://www.reddit.com/r/Kotlin/comments/17ozi9e/mobile_performace_vs_swift/)
-- [Xcode Kotlin Plugin Fixed for Xcode 15](https://www.reddit.com/r/Kotlin/comments/17olcig/xcode_kotlin_plugin_fixed_for_xcode_15/)
-- [Can someone explain to me how versions work?](https://www.reddit.com/r/Kotlin/comments/17nsfjm/can_someone_explain_to_me_how_versions_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
