@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How helpful are LLMs with Kotlin?](https://www.reddit.com/r/Kotlin/comments/17r1qdi/how_helpful_are_llms_with_kotlin/)
+- [Type mismatch: inferred type is Unit but Int was expected](https://www.reddit.com/r/Kotlin/comments/17qz6mm/type_mismatch_inferred_type_is_unit_but_int_was/)
+- [Server Task Scheduling Plugin for Ktor Server](https://www.reddit.com/r/Kotlin/comments/17qxbiy/server_task_scheduling_plugin_for_ktor_server/)
+- [My code is filled with null checks &quot;?.&quot; using 3rd party lib](https://www.reddit.com/r/Kotlin/comments/17qq630/my_code_is_filled_with_null_checks_using_3rd/)
+- [Function Types and the Strategy Pattern - Wednesday&#39;s Kotlin Kuppa #2](https://www.reddit.com/r/Kotlin/comments/17qiadu/function_types_and_the_strategy_pattern/)
 - [New Conveyor release for KMP desktop apps: Win/Lin ARM, dark mode, cloud signing and more](https://www.reddit.com/r/Kotlin/comments/17pyjsk/new_conveyor_release_for_kmp_desktop_apps_winlin/)
 - [Welcome Fleet with Kotlin Multiplatform Tooling](https://www.reddit.com/r/Kotlin/comments/17pvvs7/welcome_fleet_with_kotlin_multiplatform_tooling/)
 - [What Now?](https://www.reddit.com/r/Kotlin/comments/17pqxjd/what_now/)
 - [Why Kotlin Multiplatform Won’t Succeed - DONN FELKER](https://www.reddit.com/r/Kotlin/comments/17pooao/why_kotlin_multiplatform_wont_succeed_donn_felker/)
 - [[Thoughts] Why Kotlin Multiplatform Won’t Succeed - DONN FELKER](https://www.reddit.com/r/Kotlin/comments/17plko9/thoughts_why_kotlin_multiplatform_wont_succeed/)
-- [I love that Kotlin lets me do things like this... &lpar;cursed?&rpar;](https://www.reddit.com/r/Kotlin/comments/17ph6jj/i_love_that_kotlin_lets_me_do_things_like_this/)
-- [Is there a django like Kotlin fullstack framework](https://www.reddit.com/r/Kotlin/comments/17pdl9l/is_there_a_django_like_kotlin_fullstack_framework/)
-- [Weird error in ktor](https://www.reddit.com/r/Kotlin/comments/17pbc2w/weird_error_in_ktor/)
-- [How to fire and forget coroutine, webflux](https://www.reddit.com/r/Kotlin/comments/17pb64x/how_to_fire_and_forget_coroutine_webflux/)
-- [Generic class question](https://www.reddit.com/r/Kotlin/comments/17p8bc9/generic_class_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
