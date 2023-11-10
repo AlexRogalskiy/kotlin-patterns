@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Converting image to PNG using excessive memory?](https://www.reddit.com/r/Kotlin/comments/17rsru8/converting_image_to_png_using_excessive_memory/)
+- [What the Bettencourt design pattern for programmir a app?](https://www.reddit.com/r/Kotlin/comments/17rnl6k/what_the_bettencourt_design_pattern_for/)
+- [New RPC framework based on Kotlin Multiplatform and Ktor](https://www.reddit.com/r/Kotlin/comments/17rj31n/new_rpc_framework_based_on_kotlin_multiplatform/)
+- [Naming confusion, Api or Service?](https://www.reddit.com/r/Kotlin/comments/17re1ta/naming_confusion_api_or_service/)
+- [Koin for KMP Cheat Sheet](https://www.reddit.com/r/Kotlin/comments/17rchra/koin_for_kmp_cheat_sheet/)
+- [Amper – Improving the Build Tooling User Experience](https://www.reddit.com/r/Kotlin/comments/17rcg1m/amper_improving_the_build_tooling_user_experience/)
+- [Amper – Improving the Build Tooling User Experience &lpar;kmp configuration tool&rpar;](https://www.reddit.com/r/Kotlin/comments/17ra9qf/amper_improving_the_build_tooling_user_experience/)
+- [Kotlin development viability](https://www.reddit.com/r/Kotlin/comments/17r9kds/kotlin_development_viability/)
+- [Best Choice for Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/17r5mi8/best_choice_for_learning_kotlin/)
 - [How helpful are LLMs with Kotlin?](https://www.reddit.com/r/Kotlin/comments/17r1qdi/how_helpful_are_llms_with_kotlin/)
-- [Type mismatch: inferred type is Unit but Int was expected](https://www.reddit.com/r/Kotlin/comments/17qz6mm/type_mismatch_inferred_type_is_unit_but_int_was/)
-- [Server Task Scheduling Plugin for Ktor Server](https://www.reddit.com/r/Kotlin/comments/17qxbiy/server_task_scheduling_plugin_for_ktor_server/)
-- [My code is filled with null checks &quot;?.&quot; using 3rd party lib](https://www.reddit.com/r/Kotlin/comments/17qq630/my_code_is_filled_with_null_checks_using_3rd/)
-- [Function Types and the Strategy Pattern - Wednesday&#39;s Kotlin Kuppa #2](https://www.reddit.com/r/Kotlin/comments/17qiadu/function_types_and_the_strategy_pattern/)
-- [New Conveyor release for KMP desktop apps: Win/Lin ARM, dark mode, cloud signing and more](https://www.reddit.com/r/Kotlin/comments/17pyjsk/new_conveyor_release_for_kmp_desktop_apps_winlin/)
-- [Welcome Fleet with Kotlin Multiplatform Tooling](https://www.reddit.com/r/Kotlin/comments/17pvvs7/welcome_fleet_with_kotlin_multiplatform_tooling/)
-- [What Now?](https://www.reddit.com/r/Kotlin/comments/17pqxjd/what_now/)
-- [Why Kotlin Multiplatform Won’t Succeed - DONN FELKER](https://www.reddit.com/r/Kotlin/comments/17pooao/why_kotlin_multiplatform_wont_succeed_donn_felker/)
-- [[Thoughts] Why Kotlin Multiplatform Won’t Succeed - DONN FELKER](https://www.reddit.com/r/Kotlin/comments/17plko9/thoughts_why_kotlin_multiplatform_wont_succeed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
