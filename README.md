@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TFB Benchmarks latest round was released &lpar;including Kotlin tools&rpar;](https://www.reddit.com/r/Kotlin/comments/17ssknj/tfb_benchmarks_latest_round_was_released/)
+- [What is the best course on Udemy to learn Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/17srl97/what_is_the_best_course_on_udemy_to_learn_kotlin/)
+- [FIRST LOOK at NEW KOTLIN TOOLING – Fleet + KMP + Q&amp;A!](https://www.reddit.com/r/Kotlin/comments/17sntlv/first_look_at_new_kotlin_tooling_fleet_kmp_qa/)
 - [Textbook recommendations](https://www.reddit.com/r/Kotlin/comments/17sc8sh/textbook_recommendations/)
 - [Declarative Gradle: &quot;we are working closely with the Amper team at JetBrains.&quot;](https://www.reddit.com/r/Kotlin/comments/17s8h28/declarative_gradle_we_are_working_closely_with/)
 - [Kotlin MUI Documentation?](https://www.reddit.com/r/Kotlin/comments/17s7ele/kotlin_mui_documentation/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to get the right folder for app data in each OS?](https://www.reddit.com/r/Kotlin/comments/17s682o/how_to_get_the_right_folder_for_app_data_in_each/)
 - [Do you have experience using RPCs with Kotlin? Share your feedback!](https://www.reddit.com/r/Kotlin/comments/17s3ra1/do_you_have_experience_using_rpcs_with_kotlin/)
 - [Monthly Berlindroid &amp; Kotlin User Group Meetup, Wed, Nov 22, 2023, 7:00 PM](https://www.reddit.com/r/Kotlin/comments/17rzj4y/monthly_berlindroid_kotlin_user_group_meetup_wed/)
-- [You can modify a &quot;val&quot; once it&#39;s initialize???](https://www.reddit.com/r/Kotlin/comments/17rup6k/you_can_modify_a_val_once_its_initialize/)
-- [Converting image to PNG using excessive memory?](https://www.reddit.com/r/Kotlin/comments/17rsru8/converting_image_to_png_using_excessive_memory/)
-- [What the Bettencourt design pattern for programmir a app?](https://www.reddit.com/r/Kotlin/comments/17rnl6k/what_the_bettencourt_design_pattern_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
