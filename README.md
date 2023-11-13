@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I use Java or Kotlin for a wifi scanning project?](https://www.reddit.com/r/Kotlin/comments/17tqenw/should_i_use_java_or_kotlin_for_a_wifi_scanning/)
+- [Finding Lambda Expressions Confusing.](https://www.reddit.com/r/Kotlin/comments/17tliyq/finding_lambda_expressions_confusing/)
+- [Someone can help me to correct this code](https://www.reddit.com/r/Kotlin/comments/17thyhm/someone_can_help_me_to_correct_this_code/)
+- [ktor server - memory leak](https://www.reddit.com/r/Kotlin/comments/17thbze/ktor_server_memory_leak/)
 - [TFB Benchmarks latest round was released &lpar;including Kotlin tools&rpar;](https://www.reddit.com/r/Kotlin/comments/17ssknj/tfb_benchmarks_latest_round_was_released/)
 - [What is the best course on Udemy to learn Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/17srl97/what_is_the_best_course_on_udemy_to_learn_kotlin/)
 - [FIRST LOOK at NEW KOTLIN TOOLING – Fleet + KMP + Q&amp;A!](https://www.reddit.com/r/Kotlin/comments/17sntlv/first_look_at_new_kotlin_tooling_fleet_kmp_qa/)
 - [Textbook recommendations](https://www.reddit.com/r/Kotlin/comments/17sc8sh/textbook_recommendations/)
 - [Declarative Gradle: &quot;we are working closely with the Amper team at JetBrains.&quot;](https://www.reddit.com/r/Kotlin/comments/17s8h28/declarative_gradle_we_are_working_closely_with/)
 - [Kotlin MUI Documentation?](https://www.reddit.com/r/Kotlin/comments/17s7ele/kotlin_mui_documentation/)
-- [Expert Testing - Generating Test Cases for our JSON Parser](https://www.reddit.com/r/Kotlin/comments/17s68qe/expert_testing_generating_test_cases_for_our_json/)
-- [How to get the right folder for app data in each OS?](https://www.reddit.com/r/Kotlin/comments/17s682o/how_to_get_the_right_folder_for_app_data_in_each/)
-- [Do you have experience using RPCs with Kotlin? Share your feedback!](https://www.reddit.com/r/Kotlin/comments/17s3ra1/do_you_have_experience_using_rpcs_with_kotlin/)
-- [Monthly Berlindroid &amp; Kotlin User Group Meetup, Wed, Nov 22, 2023, 7:00 PM](https://www.reddit.com/r/Kotlin/comments/17rzj4y/monthly_berlindroid_kotlin_user_group_meetup_wed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
