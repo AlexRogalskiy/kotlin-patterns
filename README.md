@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pulumi Kotlin - The missing piece in Kotlin multi-platform](https://www.reddit.com/r/Kotlin/comments/17udltq/pulumi_kotlin_the_missing_piece_in_kotlin/)
+- [Seeking Active Kotlin Packrat Parser Libraries](https://www.reddit.com/r/Kotlin/comments/17u9i7m/seeking_active_kotlin_packrat_parser_libraries/)
 - [Should I use Java or Kotlin for a wifi scanning project?](https://www.reddit.com/r/Kotlin/comments/17tqenw/should_i_use_java_or_kotlin_for_a_wifi_scanning/)
 - [Finding Lambda Expressions Confusing.](https://www.reddit.com/r/Kotlin/comments/17tliyq/finding_lambda_expressions_confusing/)
 - [Someone can help me to correct this code](https://www.reddit.com/r/Kotlin/comments/17thyhm/someone_can_help_me_to_correct_this_code/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What is the best course on Udemy to learn Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/17srl97/what_is_the_best_course_on_udemy_to_learn_kotlin/)
 - [FIRST LOOK at NEW KOTLIN TOOLING – Fleet + KMP + Q&amp;A!](https://www.reddit.com/r/Kotlin/comments/17sntlv/first_look_at_new_kotlin_tooling_fleet_kmp_qa/)
 - [Textbook recommendations](https://www.reddit.com/r/Kotlin/comments/17sc8sh/textbook_recommendations/)
-- [Declarative Gradle: &quot;we are working closely with the Amper team at JetBrains.&quot;](https://www.reddit.com/r/Kotlin/comments/17s8h28/declarative_gradle_we_are_working_closely_with/)
-- [Kotlin MUI Documentation?](https://www.reddit.com/r/Kotlin/comments/17s7ele/kotlin_mui_documentation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
