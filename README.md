@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Coroutines - Is it still experimental?](https://www.reddit.com/r/Kotlin/comments/17v6kxh/kotlin_coroutines_is_it_still_experimental/)
+- [Forbes&#39; Adoption of Kotlin Multiplatform &lpar;KMP&rpar;: A Milestone in Modern App Development](https://www.reddit.com/r/Kotlin/comments/17v6jy4/forbes_adoption_of_kotlin_multiplatform_kmp_a/)
+- [Placeholder is not shown in Text fields type password of custom M3 material](https://www.reddit.com/r/Kotlin/comments/17uuczq/placeholder_is_not_shown_in_text_fields_type/)
 - [Pulumi Kotlin - The missing piece in Kotlin multi-platform](https://www.reddit.com/r/Kotlin/comments/17udltq/pulumi_kotlin_the_missing_piece_in_kotlin/)
 - [Seeking Active Kotlin Packrat Parser Libraries](https://www.reddit.com/r/Kotlin/comments/17u9i7m/seeking_active_kotlin_packrat_parser_libraries/)
 - [Should I use Java or Kotlin for a wifi scanning project?](https://www.reddit.com/r/Kotlin/comments/17tqenw/should_i_use_java_or_kotlin_for_a_wifi_scanning/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Someone can help me to correct this code](https://www.reddit.com/r/Kotlin/comments/17thyhm/someone_can_help_me_to_correct_this_code/)
 - [ktor server - memory leak](https://www.reddit.com/r/Kotlin/comments/17thbze/ktor_server_memory_leak/)
 - [TFB Benchmarks latest round was released &lpar;including Kotlin tools&rpar;](https://www.reddit.com/r/Kotlin/comments/17ssknj/tfb_benchmarks_latest_round_was_released/)
-- [What is the best course on Udemy to learn Kotlin Coroutines?](https://www.reddit.com/r/Kotlin/comments/17srl97/what_is_the_best_course_on_udemy_to_learn_kotlin/)
-- [FIRST LOOK at NEW KOTLIN TOOLING – Fleet + KMP + Q&amp;A!](https://www.reddit.com/r/Kotlin/comments/17sntlv/first_look_at_new_kotlin_tooling_fleet_kmp_qa/)
-- [Textbook recommendations](https://www.reddit.com/r/Kotlin/comments/17sc8sh/textbook_recommendations/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
