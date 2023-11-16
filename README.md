@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can I add plugins to my CLI tool written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/17w80fc/can_i_add_plugins_to_my_cli_tool_written_in_kotlin/)
+- [Flows and .collect clarification needed](https://www.reddit.com/r/Kotlin/comments/17w50ee/flows_and_collect_clarification_needed/)
+- [MongoDB Document and Data Class](https://www.reddit.com/r/Kotlin/comments/17vzqxc/mongodb_document_and_data_class/)
+- [What are your JAVA_HOME/Gradle/JDK settings in IntelliJ?](https://www.reddit.com/r/Kotlin/comments/17vz8ut/what_are_your_java_homegradlejdk_settings_in/)
+- [Kotlin 2.0.0 Beta1 is out](https://www.reddit.com/r/Kotlin/comments/17vz7eg/kotlin_200_beta1_is_out/)
+- [Are &quot;coroutine&quot; and &quot;suspended function&quot; synonyms and interchangeable?](https://www.reddit.com/r/Kotlin/comments/17vwdyz/are_coroutine_and_suspended_function_synonyms_and/)
+- [http4k Chronicles | Talking Kotlin #126](https://www.reddit.com/r/Kotlin/comments/17vqw5h/http4k_chronicles_talking_kotlin_126/)
 - [Kotlin Coroutines - Is it still experimental?](https://www.reddit.com/r/Kotlin/comments/17v6kxh/kotlin_coroutines_is_it_still_experimental/)
 - [Forbes&#39; Adoption of Kotlin Multiplatform &lpar;KMP&rpar;: A Milestone in Modern App Development](https://www.reddit.com/r/Kotlin/comments/17v6jy4/forbes_adoption_of_kotlin_multiplatform_kmp_a/)
 - [Placeholder is not shown in Text fields type password of custom M3 material](https://www.reddit.com/r/Kotlin/comments/17uuczq/placeholder_is_not_shown_in_text_fields_type/)
-- [Pulumi Kotlin - The missing piece in Kotlin multi-platform](https://www.reddit.com/r/Kotlin/comments/17udltq/pulumi_kotlin_the_missing_piece_in_kotlin/)
-- [Seeking Active Kotlin Packrat Parser Libraries](https://www.reddit.com/r/Kotlin/comments/17u9i7m/seeking_active_kotlin_packrat_parser_libraries/)
-- [Should I use Java or Kotlin for a wifi scanning project?](https://www.reddit.com/r/Kotlin/comments/17tqenw/should_i_use_java_or_kotlin_for_a_wifi_scanning/)
-- [Finding Lambda Expressions Confusing.](https://www.reddit.com/r/Kotlin/comments/17tliyq/finding_lambda_expressions_confusing/)
-- [Someone can help me to correct this code](https://www.reddit.com/r/Kotlin/comments/17thyhm/someone_can_help_me_to_correct_this_code/)
-- [ktor server - memory leak](https://www.reddit.com/r/Kotlin/comments/17thbze/ktor_server_memory_leak/)
-- [TFB Benchmarks latest round was released &lpar;including Kotlin tools&rpar;](https://www.reddit.com/r/Kotlin/comments/17ssknj/tfb_benchmarks_latest_round_was_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
