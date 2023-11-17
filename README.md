@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [why does invoke operator exist?](https://www.reddit.com/r/Kotlin/comments/17x1uid/why_does_invoke_operator_exist/)
+- [🚀 Introducing ksoup: A Pure Kotlin 🌟 Alternative to jsoup for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/17wzcmw/introducing_ksoup_a_pure_kotlin_alternative_to/)
+- [When does micronaut create @Inject objects?](https://www.reddit.com/r/Kotlin/comments/17wyvuv/when_does_micronaut_create_inject_objects/)
+- [Use Kotlin as a pure functional programming](https://www.reddit.com/r/Kotlin/comments/17wv5c6/use_kotlin_as_a_pure_functional_programming/)
+- [Constant time income tax algorithm — Part 2](https://www.reddit.com/r/Kotlin/comments/17wqqch/constant_time_income_tax_algorithm_part_2/)
+- [Constant time income tax algorithm— Part 2](https://www.reddit.com/r/Kotlin/comments/17wqosf/constant_time_income_tax_algorithm_part_2/)
+- [Constant time income tax algorithm— Part 2](https://www.reddit.com/r/Kotlin/comments/17wqnt7/constant_time_income_tax_algorithm_part_2/)
+- [Kotlin Multiplatform Development Roadmap for 2024](https://www.reddit.com/r/Kotlin/comments/17wnrpm/kotlin_multiplatform_development_roadmap_for_2024/)
 - [Can I add plugins to my CLI tool written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/17w80fc/can_i_add_plugins_to_my_cli_tool_written_in_kotlin/)
 - [Flows and .collect clarification needed](https://www.reddit.com/r/Kotlin/comments/17w50ee/flows_and_collect_clarification_needed/)
-- [MongoDB Document and Data Class](https://www.reddit.com/r/Kotlin/comments/17vzqxc/mongodb_document_and_data_class/)
-- [What are your JAVA_HOME/Gradle/JDK settings in IntelliJ?](https://www.reddit.com/r/Kotlin/comments/17vz8ut/what_are_your_java_homegradlejdk_settings_in/)
-- [Kotlin 2.0.0 Beta1 is out](https://www.reddit.com/r/Kotlin/comments/17vz7eg/kotlin_200_beta1_is_out/)
-- [Are &quot;coroutine&quot; and &quot;suspended function&quot; synonyms and interchangeable?](https://www.reddit.com/r/Kotlin/comments/17vwdyz/are_coroutine_and_suspended_function_synonyms_and/)
-- [http4k Chronicles | Talking Kotlin #126](https://www.reddit.com/r/Kotlin/comments/17vqw5h/http4k_chronicles_talking_kotlin_126/)
-- [Kotlin Coroutines - Is it still experimental?](https://www.reddit.com/r/Kotlin/comments/17v6kxh/kotlin_coroutines_is_it_still_experimental/)
-- [Forbes&#39; Adoption of Kotlin Multiplatform &lpar;KMP&rpar;: A Milestone in Modern App Development](https://www.reddit.com/r/Kotlin/comments/17v6jy4/forbes_adoption_of_kotlin_multiplatform_kmp_a/)
-- [Placeholder is not shown in Text fields type password of custom M3 material](https://www.reddit.com/r/Kotlin/comments/17uuczq/placeholder_is_not_shown_in_text_fields_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
