@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with SQLite](https://www.reddit.com/r/Kotlin/comments/17xkkg0/help_with_sqlite/)
+- [Data-Oriented Programming with Gradual Types in Kotlin](https://www.reddit.com/r/Kotlin/comments/17xdro2/dataoriented_programming_with_gradual_types_in/)
+- [🚀 Kotlin 2.0.0-Beta 1 is here. What does this mean for Koin users?](https://www.reddit.com/r/Kotlin/comments/17xcxa6/kotlin_200beta_1_is_here_what_does_this_mean_for/)
+- [Kotlin MeetUp Amsterdam November 30th - Advent of Code, Kotlin Multiplatform &amp; TDD!](https://www.reddit.com/r/Kotlin/comments/17xc79h/kotlin_meetup_amsterdam_november_30th_advent_of/)
+- [The Complete KSoup Cheatsheet for Kotlin](https://www.reddit.com/r/Kotlin/comments/17x9vvy/the_complete_ksoup_cheatsheet_for_kotlin/)
+- [NoSuchMethodException with getDeclaredConstructor](https://www.reddit.com/r/Kotlin/comments/17x5d0s/nosuchmethodexception_with_getdeclaredconstructor/)
 - [why does invoke operator exist?](https://www.reddit.com/r/Kotlin/comments/17x1uid/why_does_invoke_operator_exist/)
 - [🚀 Introducing ksoup: A Pure Kotlin 🌟 Alternative to jsoup for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/17wzcmw/introducing_ksoup_a_pure_kotlin_alternative_to/)
 - [When does micronaut create @Inject objects?](https://www.reddit.com/r/Kotlin/comments/17wyvuv/when_does_micronaut_create_inject_objects/)
 - [Use Kotlin as a pure functional programming](https://www.reddit.com/r/Kotlin/comments/17wv5c6/use_kotlin_as_a_pure_functional_programming/)
-- [Constant time income tax algorithm — Part 2](https://www.reddit.com/r/Kotlin/comments/17wqqch/constant_time_income_tax_algorithm_part_2/)
-- [Constant time income tax algorithm— Part 2](https://www.reddit.com/r/Kotlin/comments/17wqosf/constant_time_income_tax_algorithm_part_2/)
-- [Constant time income tax algorithm— Part 2](https://www.reddit.com/r/Kotlin/comments/17wqnt7/constant_time_income_tax_algorithm_part_2/)
-- [Kotlin Multiplatform Development Roadmap for 2024](https://www.reddit.com/r/Kotlin/comments/17wnrpm/kotlin_multiplatform_development_roadmap_for_2024/)
-- [Can I add plugins to my CLI tool written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/17w80fc/can_i_add_plugins_to_my_cli_tool_written_in_kotlin/)
-- [Flows and .collect clarification needed](https://www.reddit.com/r/Kotlin/comments/17w50ee/flows_and_collect_clarification_needed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
