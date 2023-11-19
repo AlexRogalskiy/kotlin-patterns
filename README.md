@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need help swapping between fragments in android studio](https://www.reddit.com/r/Kotlin/comments/17yjid2/need_help_swapping_between_fragments_in_android/)
+- [withTimeout not working when calling channel.receive](https://www.reddit.com/r/Kotlin/comments/17yeiy8/withtimeout_not_working_when_calling/)
+- [learn Kotlin](https://www.reddit.com/r/Kotlin/comments/17yb20l/learn_kotlin/)
+- [Help to creat a Translator Button](https://www.reddit.com/r/Kotlin/comments/17y9gwt/help_to_creat_a_translator_button/)
+- [Kotlin JS: Generate wrapper from index.d.ts](https://www.reddit.com/r/Kotlin/comments/17y4xrg/kotlin_js_generate_wrapper_from_indexdts/)
+- [Best practise for null-safety with database model classes](https://www.reddit.com/r/Kotlin/comments/17y3o4y/best_practise_for_nullsafety_with_database_model/)
+- [Trouble parsing json](https://www.reddit.com/r/Kotlin/comments/17xz4ct/trouble_parsing_json/)
 - [Help with SQLite](https://www.reddit.com/r/Kotlin/comments/17xkkg0/help_with_sqlite/)
 - [Data-Oriented Programming with Gradual Types in Kotlin](https://www.reddit.com/r/Kotlin/comments/17xdro2/dataoriented_programming_with_gradual_types_in/)
 - [🚀 Kotlin 2.0.0-Beta 1 is here. What does this mean for Koin users?](https://www.reddit.com/r/Kotlin/comments/17xcxa6/kotlin_200beta_1_is_here_what_does_this_mean_for/)
-- [Kotlin MeetUp Amsterdam November 30th - Advent of Code, Kotlin Multiplatform &amp; TDD!](https://www.reddit.com/r/Kotlin/comments/17xc79h/kotlin_meetup_amsterdam_november_30th_advent_of/)
-- [The Complete KSoup Cheatsheet for Kotlin](https://www.reddit.com/r/Kotlin/comments/17x9vvy/the_complete_ksoup_cheatsheet_for_kotlin/)
-- [NoSuchMethodException with getDeclaredConstructor](https://www.reddit.com/r/Kotlin/comments/17x5d0s/nosuchmethodexception_with_getdeclaredconstructor/)
-- [why does invoke operator exist?](https://www.reddit.com/r/Kotlin/comments/17x1uid/why_does_invoke_operator_exist/)
-- [🚀 Introducing ksoup: A Pure Kotlin 🌟 Alternative to jsoup for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/17wzcmw/introducing_ksoup_a_pure_kotlin_alternative_to/)
-- [When does micronaut create @Inject objects?](https://www.reddit.com/r/Kotlin/comments/17wyvuv/when_does_micronaut_create_inject_objects/)
-- [Use Kotlin as a pure functional programming](https://www.reddit.com/r/Kotlin/comments/17wv5c6/use_kotlin_as_a_pure_functional_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
