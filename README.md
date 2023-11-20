@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I read that there is a way to install ContentNegotiation per route in Ktor, but I can&#39;t find documentation anywhere on how to do it.](https://www.reddit.com/r/Kotlin/comments/17zco0t/i_read_that_there_is_a_way_to_install/)
+- [Ktor ContentNegotiation with multiple serializers configured serializes everything to whichever configuration is declared first.](https://www.reddit.com/r/Kotlin/comments/17zavdk/ktor_contentnegotiation_with_multiple_serializers/)
+- [Configuring Spring Security with Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/17z6d4o/configuring_spring_security_with_kotlin_dsl/)
+- [Creating My First Personal Website](https://www.reddit.com/r/Kotlin/comments/17z1vds/creating_my_first_personal_website/)
+- [Which File picker to use for working with getFilesDir&lpar;&rpar;?](https://www.reddit.com/r/Kotlin/comments/17z1302/which_file_picker_to_use_for_working_with/)
 - [Need help swapping between fragments in android studio](https://www.reddit.com/r/Kotlin/comments/17yjid2/need_help_swapping_between_fragments_in_android/)
 - [withTimeout not working when calling channel.receive](https://www.reddit.com/r/Kotlin/comments/17yeiy8/withtimeout_not_working_when_calling/)
 - [learn Kotlin](https://www.reddit.com/r/Kotlin/comments/17yb20l/learn_kotlin/)
 - [Help to creat a Translator Button](https://www.reddit.com/r/Kotlin/comments/17y9gwt/help_to_creat_a_translator_button/)
 - [Kotlin JS: Generate wrapper from index.d.ts](https://www.reddit.com/r/Kotlin/comments/17y4xrg/kotlin_js_generate_wrapper_from_indexdts/)
-- [Best practise for null-safety with database model classes](https://www.reddit.com/r/Kotlin/comments/17y3o4y/best_practise_for_nullsafety_with_database_model/)
-- [Trouble parsing json](https://www.reddit.com/r/Kotlin/comments/17xz4ct/trouble_parsing_json/)
-- [Help with SQLite](https://www.reddit.com/r/Kotlin/comments/17xkkg0/help_with_sqlite/)
-- [Data-Oriented Programming with Gradual Types in Kotlin](https://www.reddit.com/r/Kotlin/comments/17xdro2/dataoriented_programming_with_gradual_types_in/)
-- [🚀 Kotlin 2.0.0-Beta 1 is here. What does this mean for Koin users?](https://www.reddit.com/r/Kotlin/comments/17xcxa6/kotlin_200beta_1_is_here_what_does_this_mean_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
