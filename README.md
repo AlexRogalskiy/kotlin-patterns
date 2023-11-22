@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Multiplatform Airbnb clone using Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/180sylb/kotlin_multiplatform_airbnb_clone_using_jetpack/)
+- [Personal Website Dev log #1](https://www.reddit.com/r/Kotlin/comments/180j1j6/personal_website_dev_log_1/)
 - [What do you think about the future of Kotlin?](https://www.reddit.com/r/Kotlin/comments/17zuhk9/what_do_you_think_about_the_future_of_kotlin/)
 - [Kotlin Community Discord](https://www.reddit.com/r/Kotlin/comments/17zr2jn/kotlin_community_discord/)
 - [The Complete JSoup Kotlin Cheatsheet](https://www.reddit.com/r/Kotlin/comments/17zqujh/the_complete_jsoup_kotlin_cheatsheet/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Ktor ContentNegotiation with multiple serializers configured serializes everything to whichever configuration is declared first.](https://www.reddit.com/r/Kotlin/comments/17zavdk/ktor_contentnegotiation_with_multiple_serializers/)
 - [Configuring Spring Security with Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/17z6d4o/configuring_spring_security_with_kotlin_dsl/)
 - [Creating My First Personal Website](https://www.reddit.com/r/Kotlin/comments/17z1vds/creating_my_first_personal_website/)
-- [Which File picker to use for working with getFilesDir&lpar;&rpar;?](https://www.reddit.com/r/Kotlin/comments/17z1302/which_file_picker_to_use_for_working_with/)
-- [Need help swapping between fragments in android studio](https://www.reddit.com/r/Kotlin/comments/17yjid2/need_help_swapping_between_fragments_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
