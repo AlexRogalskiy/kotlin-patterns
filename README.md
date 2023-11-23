@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Database decimal datatype, how to represent in my DAO with Kotlin](https://www.reddit.com/r/Kotlin/comments/181f5h3/database_decimal_datatype_how_to_represent_in_my/)
+- [🌦️ Building a Weather App Live: Kotlin Multiplatform Adventure!](https://www.reddit.com/r/Kotlin/comments/181d6oc/building_a_weather_app_live_kotlin_multiplatform/)
+- [Personal Website Dev log 2](https://www.reddit.com/r/Kotlin/comments/181axey/personal_website_dev_log_2/)
+- [What are inline value classes in Kotlin and when you should use them](https://www.reddit.com/r/Kotlin/comments/1818mbh/what_are_inline_value_classes_in_kotlin_and_when/)
+- [How many active users in kotlin through the years?](https://www.reddit.com/r/Kotlin/comments/1815w04/how_many_active_users_in_kotlin_through_the_years/)
+- [A Deep Dive into Sealed Classes - Wednesday&#39;s Kotlin Kuppa #3](https://www.reddit.com/r/Kotlin/comments/1813f8f/a_deep_dive_into_sealed_classes_wednesdays_kotlin/)
 - [Kotlin Multiplatform Airbnb clone using Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/180sylb/kotlin_multiplatform_airbnb_clone_using_jetpack/)
 - [Personal Website Dev log #1](https://www.reddit.com/r/Kotlin/comments/180j1j6/personal_website_dev_log_1/)
 - [What do you think about the future of Kotlin?](https://www.reddit.com/r/Kotlin/comments/17zuhk9/what_do_you_think_about_the_future_of_kotlin/)
 - [Kotlin Community Discord](https://www.reddit.com/r/Kotlin/comments/17zr2jn/kotlin_community_discord/)
-- [The Complete JSoup Kotlin Cheatsheet](https://www.reddit.com/r/Kotlin/comments/17zqujh/the_complete_jsoup_kotlin_cheatsheet/)
-- [jOOQ&#39;s DAO extension plugin](https://www.reddit.com/r/Kotlin/comments/17zp25q/jooqs_dao_extension_plugin/)
-- [I read that there is a way to install ContentNegotiation per route in Ktor, but I can&#39;t find documentation anywhere on how to do it.](https://www.reddit.com/r/Kotlin/comments/17zco0t/i_read_that_there_is_a_way_to_install/)
-- [Ktor ContentNegotiation with multiple serializers configured serializes everything to whichever configuration is declared first.](https://www.reddit.com/r/Kotlin/comments/17zavdk/ktor_contentnegotiation_with_multiple_serializers/)
-- [Configuring Spring Security with Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/17z6d4o/configuring_spring_security_with_kotlin_dsl/)
-- [Creating My First Personal Website](https://www.reddit.com/r/Kotlin/comments/17z1vds/creating_my_first_personal_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
