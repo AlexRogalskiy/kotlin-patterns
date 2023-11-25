@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Shopify app development using Kotlin](https://www.reddit.com/r/Kotlin/comments/1834snb/shopify_app_development_using_kotlin/)
+- [learn kotlin](https://www.reddit.com/r/Kotlin/comments/182z085/learn_kotlin/)
+- [What do you think about removing checked exceptions in kotlin?](https://www.reddit.com/r/Kotlin/comments/182t52c/what_do_you_think_about_removing_checked/)
+- [Extracting Data from Maps - More Data-Oriented Programming in Kotlin](https://www.reddit.com/r/Kotlin/comments/182qzbo/extracting_data_from_maps_more_dataoriented/)
 - [🌟 Ksoup 0.0.5 Released: Key Bug Fixes for Enhanced Web Scraping in Kotlin Multiplatform 🚀](https://www.reddit.com/r/Kotlin/comments/182dzl7/ksoup_005_released_key_bug_fixes_for_enhanced_web/)
 - [New to mobile development advice and resources](https://www.reddit.com/r/Kotlin/comments/182dpht/new_to_mobile_development_advice_and_resources/)
 - [Personal Website Development log # 3](https://www.reddit.com/r/Kotlin/comments/18235bw/personal_website_development_log_3/)
 - [Sigbla, a framework for working with data in tables](https://www.reddit.com/r/Kotlin/comments/1821lwg/sigbla_a_framework_for_working_with_data_in_tables/)
 - [Database decimal datatype, how to represent in my DAO with Kotlin](https://www.reddit.com/r/Kotlin/comments/181f5h3/database_decimal_datatype_how_to_represent_in_my/)
 - [🌦️ Building a Weather App Live: Kotlin Multiplatform Adventure!](https://www.reddit.com/r/Kotlin/comments/181d6oc/building_a_weather_app_live_kotlin_multiplatform/)
-- [Personal Website Dev log 2](https://www.reddit.com/r/Kotlin/comments/181axey/personal_website_dev_log_2/)
-- [What are inline value classes in Kotlin and when you should use them](https://www.reddit.com/r/Kotlin/comments/1818mbh/what_are_inline_value_classes_in_kotlin_and_when/)
-- [How many active users in kotlin through the years?](https://www.reddit.com/r/Kotlin/comments/1815w04/how_many_active_users_in_kotlin_through_the_years/)
-- [A Deep Dive into Sealed Classes - Wednesday&#39;s Kotlin Kuppa #3](https://www.reddit.com/r/Kotlin/comments/1813f8f/a_deep_dive_into_sealed_classes_wednesdays_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
