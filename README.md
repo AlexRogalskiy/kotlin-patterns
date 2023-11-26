@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I compile Kotlin to WASM?](https://www.reddit.com/r/Kotlin/comments/183oxmo/how_do_i_compile_kotlin_to_wasm/)
+- [Deserializing Polymorphic Lists with Kotlin, Jackson, and Spring Boot](https://www.reddit.com/r/Kotlin/comments/183dxgd/deserializing_polymorphic_lists_with_kotlin/)
 - [Shopify app development using Kotlin](https://www.reddit.com/r/Kotlin/comments/1834snb/shopify_app_development_using_kotlin/)
 - [learn kotlin](https://www.reddit.com/r/Kotlin/comments/182z085/learn_kotlin/)
 - [What do you think about removing checked exceptions in kotlin?](https://www.reddit.com/r/Kotlin/comments/182t52c/what_do_you_think_about_removing_checked/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [New to mobile development advice and resources](https://www.reddit.com/r/Kotlin/comments/182dpht/new_to_mobile_development_advice_and_resources/)
 - [Personal Website Development log # 3](https://www.reddit.com/r/Kotlin/comments/18235bw/personal_website_development_log_3/)
 - [Sigbla, a framework for working with data in tables](https://www.reddit.com/r/Kotlin/comments/1821lwg/sigbla_a_framework_for_working_with_data_in_tables/)
-- [Database decimal datatype, how to represent in my DAO with Kotlin](https://www.reddit.com/r/Kotlin/comments/181f5h3/database_decimal_datatype_how_to_represent_in_my/)
-- [🌦️ Building a Weather App Live: Kotlin Multiplatform Adventure!](https://www.reddit.com/r/Kotlin/comments/181d6oc/building_a_weather_app_live_kotlin_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
