@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Eine App mit Kotlin und Firebase ne gute Idee?](https://www.reddit.com/r/Kotlin/comments/184i71b/eine_app_mit_kotlin_und_firebase_ne_gute_idee/)
+- [Android development with kotlin, short-ish books?](https://www.reddit.com/r/Kotlin/comments/184azic/android_development_with_kotlin_shortish_books/)
+- [How it looped over all persons without a loop?](https://www.reddit.com/r/Kotlin/comments/184au23/how_it_looped_over_all_persons_without_a_loop/)
+- [Is Kotlin good to learn as a non-programmer?](https://www.reddit.com/r/Kotlin/comments/1843aev/is_kotlin_good_to_learn_as_a_nonprogrammer/)
 - [How do I compile Kotlin to WASM?](https://www.reddit.com/r/Kotlin/comments/183oxmo/how_do_i_compile_kotlin_to_wasm/)
 - [Deserializing Polymorphic Lists with Kotlin, Jackson, and Spring Boot](https://www.reddit.com/r/Kotlin/comments/183dxgd/deserializing_polymorphic_lists_with_kotlin/)
 - [Shopify app development using Kotlin](https://www.reddit.com/r/Kotlin/comments/1834snb/shopify_app_development_using_kotlin/)
 - [learn kotlin](https://www.reddit.com/r/Kotlin/comments/182z085/learn_kotlin/)
 - [What do you think about removing checked exceptions in kotlin?](https://www.reddit.com/r/Kotlin/comments/182t52c/what_do_you_think_about_removing_checked/)
 - [Extracting Data from Maps - More Data-Oriented Programming in Kotlin](https://www.reddit.com/r/Kotlin/comments/182qzbo/extracting_data_from_maps_more_dataoriented/)
-- [🌟 Ksoup 0.0.5 Released: Key Bug Fixes for Enhanced Web Scraping in Kotlin Multiplatform 🚀](https://www.reddit.com/r/Kotlin/comments/182dzl7/ksoup_005_released_key_bug_fixes_for_enhanced_web/)
-- [New to mobile development advice and resources](https://www.reddit.com/r/Kotlin/comments/182dpht/new_to_mobile_development_advice_and_resources/)
-- [Personal Website Development log # 3](https://www.reddit.com/r/Kotlin/comments/18235bw/personal_website_development_log_3/)
-- [Sigbla, a framework for working with data in tables](https://www.reddit.com/r/Kotlin/comments/1821lwg/sigbla_a_framework_for_working_with_data_in_tables/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
