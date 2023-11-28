@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktor + PostgreSQL and Exposed Confusion](https://www.reddit.com/r/Kotlin/comments/185gjn5/ktor_postgresql_and_exposed_confusion/)
+- [[ktor] Is it possible to change config at runtime?](https://www.reddit.com/r/Kotlin/comments/185d4q1/ktor_is_it_possible_to_change_config_at_runtime/)
+- [AocKt: Test-driven Advent of Code in Kotlin](https://www.reddit.com/r/Kotlin/comments/185aeo9/aockt_testdriven_advent_of_code_in_kotlin/)
+- [Tackle Advent of Code 2023 With Kotlin and Win Prizes!](https://www.reddit.com/r/Kotlin/comments/18595zr/tackle_advent_of_code_2023_with_kotlin_and_win/)
+- [Compose Multiplatform: Supported target platform versions](https://www.reddit.com/r/Kotlin/comments/1855as1/compose_multiplatform_supported_target_platform/)
+- [Trying to understand licenses and rights when using GitHub for a Kotlin mobile app project in school](https://www.reddit.com/r/Kotlin/comments/18527gb/trying_to_understand_licenses_and_rights_when/)
+- [Ktor / Exposed: Respond within a transaction](https://www.reddit.com/r/Kotlin/comments/1850z7w/ktor_exposed_respond_within_a_transaction/)
+- [Become a Koin Community Lead](https://www.reddit.com/r/Kotlin/comments/184ydu7/become_a_koin_community_lead/)
 - [Eine App mit Kotlin und Firebase ne gute Idee?](https://www.reddit.com/r/Kotlin/comments/184i71b/eine_app_mit_kotlin_und_firebase_ne_gute_idee/)
 - [Android development with kotlin, short-ish books?](https://www.reddit.com/r/Kotlin/comments/184azic/android_development_with_kotlin_shortish_books/)
-- [How it looped over all persons without a loop?](https://www.reddit.com/r/Kotlin/comments/184au23/how_it_looped_over_all_persons_without_a_loop/)
-- [Is Kotlin good to learn as a non-programmer?](https://www.reddit.com/r/Kotlin/comments/1843aev/is_kotlin_good_to_learn_as_a_nonprogrammer/)
-- [How do I compile Kotlin to WASM?](https://www.reddit.com/r/Kotlin/comments/183oxmo/how_do_i_compile_kotlin_to_wasm/)
-- [Deserializing Polymorphic Lists with Kotlin, Jackson, and Spring Boot](https://www.reddit.com/r/Kotlin/comments/183dxgd/deserializing_polymorphic_lists_with_kotlin/)
-- [Shopify app development using Kotlin](https://www.reddit.com/r/Kotlin/comments/1834snb/shopify_app_development_using_kotlin/)
-- [learn kotlin](https://www.reddit.com/r/Kotlin/comments/182z085/learn_kotlin/)
-- [What do you think about removing checked exceptions in kotlin?](https://www.reddit.com/r/Kotlin/comments/182t52c/what_do_you_think_about_removing_checked/)
-- [Extracting Data from Maps - More Data-Oriented Programming in Kotlin](https://www.reddit.com/r/Kotlin/comments/182qzbo/extracting_data_from_maps_more_dataoriented/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
