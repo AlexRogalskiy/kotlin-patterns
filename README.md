@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is your Opinion About KMP &lpar;Kotlin Multiplataform&rpar; Future now that is Stable and Production-Ready ?](https://www.reddit.com/r/Kotlin/comments/1865mvw/what_is_your_opinion_about_kmp_kotlin/)
+- [Unlocking the Power of Kotlin Coroutines: A Guide to IO, Default, and Unconfined Dispatchers for Seamless Async Programming!](https://www.reddit.com/r/Kotlin/comments/18617yh/unlocking_the_power_of_kotlin_coroutines_a_guide/)
+- [Flowing with Kotlin: Unraveling the Magic of Hot and Cold Flows](https://www.reddit.com/r/Kotlin/comments/1860mvk/flowing_with_kotlin_unraveling_the_magic_of_hot/)
+- [The AWS SDK for Kotlin is now generally available and ready for production workloads](https://www.reddit.com/r/Kotlin/comments/18609cm/the_aws_sdk_for_kotlin_is_now_generally_available/)
+- [The Kotlin Developer Survey #2 is Open: Share Your Opinions on the Language, IDEs, Libraries, and Build Tools to Help Prioritize Efforts in Enhancing Kotlin](https://www.reddit.com/r/Kotlin/comments/185y1j3/the_kotlin_developer_survey_2_is_open_share_your/)
+- [I combined Flutter and Kotlin Multiplatform in a fairly complex app since 2019](https://www.reddit.com/r/Kotlin/comments/185nl5i/i_combined_flutter_and_kotlin_multiplatform_in_a/)
+- [Interceptors Are Functions Too](https://www.reddit.com/r/Kotlin/comments/185n5rw/interceptors_are_functions_too/)
 - [Ktor + PostgreSQL and Exposed Confusion](https://www.reddit.com/r/Kotlin/comments/185gjn5/ktor_postgresql_and_exposed_confusion/)
 - [[ktor] Is it possible to change config at runtime?](https://www.reddit.com/r/Kotlin/comments/185d4q1/ktor_is_it_possible_to_change_config_at_runtime/)
 - [AocKt: Test-driven Advent of Code in Kotlin](https://www.reddit.com/r/Kotlin/comments/185aeo9/aockt_testdriven_advent_of_code_in_kotlin/)
-- [Tackle Advent of Code 2023 With Kotlin and Win Prizes!](https://www.reddit.com/r/Kotlin/comments/18595zr/tackle_advent_of_code_2023_with_kotlin_and_win/)
-- [Compose Multiplatform: Supported target platform versions](https://www.reddit.com/r/Kotlin/comments/1855as1/compose_multiplatform_supported_target_platform/)
-- [Trying to understand licenses and rights when using GitHub for a Kotlin mobile app project in school](https://www.reddit.com/r/Kotlin/comments/18527gb/trying_to_understand_licenses_and_rights_when/)
-- [Ktor / Exposed: Respond within a transaction](https://www.reddit.com/r/Kotlin/comments/1850z7w/ktor_exposed_respond_within_a_transaction/)
-- [Become a Koin Community Lead](https://www.reddit.com/r/Kotlin/comments/184ydu7/become_a_koin_community_lead/)
-- [Eine App mit Kotlin und Firebase ne gute Idee?](https://www.reddit.com/r/Kotlin/comments/184i71b/eine_app_mit_kotlin_und_firebase_ne_gute_idee/)
-- [Android development with kotlin, short-ish books?](https://www.reddit.com/r/Kotlin/comments/184azic/android_development_with_kotlin_shortish_books/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
