@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Function literal with a receiver invocation](https://www.reddit.com/r/Kotlin/comments/187ydag/function_literal_with_a_receiver_invocation/)
+- [What if we have an try catch operator? &lpar;!:&rpar;](https://www.reddit.com/r/Kotlin/comments/187ssvs/what_if_we_have_an_try_catch_operator/)
+- [Syntactic similarities to other programming languages](https://www.reddit.com/r/Kotlin/comments/187lrku/syntactic_similarities_to_other_programming/)
+- [HELP : multithreading in kotlin - running some part of a function concurrently](https://www.reddit.com/r/Kotlin/comments/187jf9l/help_multithreading_in_kotlin_running_some_part/)
+- [Getting a runtime error &quot;NoWhenBranchMatchedException&quot; - shouldn&#39;t it be caught by the compiler?](https://www.reddit.com/r/Kotlin/comments/187dhig/getting_a_runtime_error/)
+- [Stay in the Loop with Kotlin News!](https://www.reddit.com/r/Kotlin/comments/187d4dd/stay_in_the_loop_with_kotlin_news/)
 - [Is there a way to make a regular Java class work like a Kotlin sealed class when being used from Kotlin?](https://www.reddit.com/r/Kotlin/comments/18769gf/is_there_a_way_to_make_a_regular_java_class_work/)
 - [Arrays have Fixed Size Right?](https://www.reddit.com/r/Kotlin/comments/186y5gy/arrays_have_fixed_size_right/)
 - [What are Vim users using?](https://www.reddit.com/r/Kotlin/comments/186t5e6/what_are_vim_users_using/)
 - [Why does mapNotNull still need the ? operator](https://www.reddit.com/r/Kotlin/comments/186jfqb/why_does_mapnotnull_still_need_the_operator/)
-- [What is your Opinion About KMP &lpar;Kotlin Multiplataform&rpar; Future now that is Stable and Production-Ready ?](https://www.reddit.com/r/Kotlin/comments/1865mvw/what_is_your_opinion_about_kmp_kotlin/)
-- [Unlocking the Power of Kotlin Coroutines: A Guide to IO, Default, and Unconfined Dispatchers for Seamless Async Programming!](https://www.reddit.com/r/Kotlin/comments/18617yh/unlocking_the_power_of_kotlin_coroutines_a_guide/)
-- [Flowing with Kotlin: Unraveling the Magic of Hot and Cold Flows](https://www.reddit.com/r/Kotlin/comments/1860mvk/flowing_with_kotlin_unraveling_the_magic_of_hot/)
-- [The AWS SDK for Kotlin is now generally available and ready for production workloads](https://www.reddit.com/r/Kotlin/comments/18609cm/the_aws_sdk_for_kotlin_is_now_generally_available/)
-- [The Kotlin Developer Survey #2 is Open: Share Your Opinions on the Language, IDEs, Libraries, and Build Tools to Help Prioritize Efforts in Enhancing Kotlin](https://www.reddit.com/r/Kotlin/comments/185y1j3/the_kotlin_developer_survey_2_is_open_share_your/)
-- [I combined Flutter and Kotlin Multiplatform in a fairly complex app since 2019](https://www.reddit.com/r/Kotlin/comments/185nl5i/i_combined_flutter_and_kotlin_multiplatform_in_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
