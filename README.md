@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Function literal with a receiver invocation](https://www.reddit.com/r/Kotlin/comments/187ydag/function_literal_with_a_receiver_invocation/)
-- [What if we have an try catch operator? &lpar;!:&rpar;](https://www.reddit.com/r/Kotlin/comments/187ssvs/what_if_we_have_an_try_catch_operator/)
-- [Syntactic similarities to other programming languages](https://www.reddit.com/r/Kotlin/comments/187lrku/syntactic_similarities_to_other_programming/)
-- [HELP : multithreading in kotlin - running some part of a function concurrently](https://www.reddit.com/r/Kotlin/comments/187jf9l/help_multithreading_in_kotlin_running_some_part/)
-- [Getting a runtime error &quot;NoWhenBranchMatchedException&quot; - shouldn&#39;t it be caught by the compiler?](https://www.reddit.com/r/Kotlin/comments/187dhig/getting_a_runtime_error/)
-- [Stay in the Loop with Kotlin News!](https://www.reddit.com/r/Kotlin/comments/187d4dd/stay_in_the_loop_with_kotlin_news/)
-- [Is there a way to make a regular Java class work like a Kotlin sealed class when being used from Kotlin?](https://www.reddit.com/r/Kotlin/comments/18769gf/is_there_a_way_to_make_a_regular_java_class_work/)
-- [Arrays have Fixed Size Right?](https://www.reddit.com/r/Kotlin/comments/186y5gy/arrays_have_fixed_size_right/)
-- [What are Vim users using?](https://www.reddit.com/r/Kotlin/comments/186t5e6/what_are_vim_users_using/)
-- [Why does mapNotNull still need the ? operator](https://www.reddit.com/r/Kotlin/comments/186jfqb/why_does_mapnotnull_still_need_the_operator/)
+- [How is Fleet better/different than IntelliJ? I don&#39;t get it.](https://www.reddit.com/r/Kotlin/comments/188l74i/how_is_fleet_betterdifferent_than_intellij_i_dont/)
+- [Can Spring be potentially replaced by Ktor?](https://www.reddit.com/r/Kotlin/comments/188kssi/can_spring_be_potentially_replaced_by_ktor/)
+- [Advent of Immutable Code 2023](https://www.reddit.com/r/Kotlin/comments/188gtwt/advent_of_immutable_code_2023/)
+- [start.ktor.io generates a Ktor project full of errors](https://www.reddit.com/r/Kotlin/comments/188g02u/startktorio_generates_a_ktor_project_full_of/)
+- [Kotlin Spring Boot 3.2 says Gradle 8.5 incompatible with Java 21](https://www.reddit.com/r/Kotlin/comments/188elkx/kotlin_spring_boot_32_says_gradle_85_incompatible/)
+- [Tackle Advent of Code 2023 With Kotlin and Win Prizes!](https://www.reddit.com/r/Kotlin/comments/188cp19/tackle_advent_of_code_2023_with_kotlin_and_win/)
+- [How to deal with exceptions in kotlin?](https://www.reddit.com/r/Kotlin/comments/188b5vg/how_to_deal_with_exceptions_in_kotlin/)
+- [Advent of code in Kotlin](https://www.reddit.com/r/Kotlin/comments/188azkw/advent_of_code_in_kotlin/)
+- [Kotlin Data Classes - Lenses and AI Assistant](https://www.reddit.com/r/Kotlin/comments/1889th8/kotlin_data_classes_lenses_and_ai_assistant/)
+- [KTOR API httpsredirect plugin does not redirect correct headers when behind reverse proxy &lpar;Apache&rpar;](https://www.reddit.com/r/Kotlin/comments/1889km4/ktor_api_httpsredirect_plugin_does_not_redirect/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
