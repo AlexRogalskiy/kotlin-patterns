@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Multiplatform codesign error on iOS after updating to Sonoma](https://www.reddit.com/r/Kotlin/comments/189cwxa/kotlin_multiplatform_codesign_error_on_ios_after/)
+- [[Unit] Testing Supabase in Kotlin using Test Containers](https://www.reddit.com/r/Kotlin/comments/189bl9d/unit_testing_supabase_in_kotlin_using_test/)
+- [Is it possible to use/infer a generic type based on some enum?](https://www.reddit.com/r/Kotlin/comments/189b2cs/is_it_possible_to_useinfer_a_generic_type_based/)
+- [How to make it more functional?](https://www.reddit.com/r/Kotlin/comments/1893dz5/how_to_make_it_more_functional/)
+- [HOW TO FIX THE WARNINGS](https://www.reddit.com/r/Kotlin/comments/18922pi/how_to_fix_the_warnings/)
+- [Seeking advice for developing a UI library](https://www.reddit.com/r/Kotlin/comments/1891x64/seeking_advice_for_developing_a_ui_library/)
+- [Kotlin for begginers](https://www.reddit.com/r/Kotlin/comments/189176l/kotlin_for_begginers/)
+- [Using Koin in extensions. Is this a good idea?](https://www.reddit.com/r/Kotlin/comments/188xv3f/using_koin_in_extensions_is_this_a_good_idea/)
 - [How is Fleet better/different than IntelliJ? I don&#39;t get it.](https://www.reddit.com/r/Kotlin/comments/188l74i/how_is_fleet_betterdifferent_than_intellij_i_dont/)
 - [Can Spring be potentially replaced by Ktor?](https://www.reddit.com/r/Kotlin/comments/188kssi/can_spring_be_potentially_replaced_by_ktor/)
-- [Advent of Immutable Code 2023](https://www.reddit.com/r/Kotlin/comments/188gtwt/advent_of_immutable_code_2023/)
-- [start.ktor.io generates a Ktor project full of errors](https://www.reddit.com/r/Kotlin/comments/188g02u/startktorio_generates_a_ktor_project_full_of/)
-- [Kotlin Spring Boot 3.2 says Gradle 8.5 incompatible with Java 21](https://www.reddit.com/r/Kotlin/comments/188elkx/kotlin_spring_boot_32_says_gradle_85_incompatible/)
-- [Tackle Advent of Code 2023 With Kotlin and Win Prizes!](https://www.reddit.com/r/Kotlin/comments/188cp19/tackle_advent_of_code_2023_with_kotlin_and_win/)
-- [How to deal with exceptions in kotlin?](https://www.reddit.com/r/Kotlin/comments/188b5vg/how_to_deal_with_exceptions_in_kotlin/)
-- [Advent of code in Kotlin](https://www.reddit.com/r/Kotlin/comments/188azkw/advent_of_code_in_kotlin/)
-- [Kotlin Data Classes - Lenses and AI Assistant](https://www.reddit.com/r/Kotlin/comments/1889th8/kotlin_data_classes_lenses_and_ai_assistant/)
-- [KTOR API httpsredirect plugin does not redirect correct headers when behind reverse proxy &lpar;Apache&rpar;](https://www.reddit.com/r/Kotlin/comments/1889km4/ktor_api_httpsredirect_plugin_does_not_redirect/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
