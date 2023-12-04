@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do you need to know groovy to learn &amp; use gradle?](https://www.reddit.com/r/Kotlin/comments/18a3bse/do_you_need_to_know_groovy_to_learn_use_gradle/)
+- [Trying to reach immutability without success](https://www.reddit.com/r/Kotlin/comments/189w5am/trying_to_reach_immutability_without_success/)
 - [Kotlin Multiplatform codesign error on iOS after updating to Sonoma](https://www.reddit.com/r/Kotlin/comments/189cwxa/kotlin_multiplatform_codesign_error_on_ios_after/)
 - [[Unit] Testing Supabase in Kotlin using Test Containers](https://www.reddit.com/r/Kotlin/comments/189bl9d/unit_testing_supabase_in_kotlin_using_test/)
 - [Is it possible to use/infer a generic type based on some enum?](https://www.reddit.com/r/Kotlin/comments/189b2cs/is_it_possible_to_useinfer_a_generic_type_based/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Seeking advice for developing a UI library](https://www.reddit.com/r/Kotlin/comments/1891x64/seeking_advice_for_developing_a_ui_library/)
 - [Kotlin for begginers](https://www.reddit.com/r/Kotlin/comments/189176l/kotlin_for_begginers/)
 - [Using Koin in extensions. Is this a good idea?](https://www.reddit.com/r/Kotlin/comments/188xv3f/using_koin_in_extensions_is_this_a_good_idea/)
-- [How is Fleet better/different than IntelliJ? I don&#39;t get it.](https://www.reddit.com/r/Kotlin/comments/188l74i/how_is_fleet_betterdifferent_than_intellij_i_dont/)
-- [Can Spring be potentially replaced by Ktor?](https://www.reddit.com/r/Kotlin/comments/188kssi/can_spring_be_potentially_replaced_by_ktor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
