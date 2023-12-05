@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Oferta Laboral Ciudad De México - Kotlin, Android DEVELOPER](https://www.reddit.com/r/Kotlin/comments/18axkf6/oferta_laboral_ciudad_de_méxico_kotlin_android/)
+- [Getting Started with Compose for Web](https://www.reddit.com/r/Kotlin/comments/18aug6y/getting_started_with_compose_for_web/)
+- [Webview in compose](https://www.reddit.com/r/Kotlin/comments/18at4dp/webview_in_compose/)
+- [Generating Hibernate entity static models with kapt](https://www.reddit.com/r/Kotlin/comments/18amahp/generating_hibernate_entity_static_models_with/)
+- [Explore a new debugging approach for your Kotlin applications in IntelliJ](https://www.reddit.com/r/Kotlin/comments/18aklr1/explore_a_new_debugging_approach_for_your_kotlin/)
 - [Do you need to know groovy to learn &amp; use gradle?](https://www.reddit.com/r/Kotlin/comments/18a3bse/do_you_need_to_know_groovy_to_learn_use_gradle/)
 - [Trying to reach immutability without success](https://www.reddit.com/r/Kotlin/comments/189w5am/trying_to_reach_immutability_without_success/)
 - [Kotlin Multiplatform codesign error on iOS after updating to Sonoma](https://www.reddit.com/r/Kotlin/comments/189cwxa/kotlin_multiplatform_codesign_error_on_ios_after/)
 - [[Unit] Testing Supabase in Kotlin using Test Containers](https://www.reddit.com/r/Kotlin/comments/189bl9d/unit_testing_supabase_in_kotlin_using_test/)
 - [Is it possible to use/infer a generic type based on some enum?](https://www.reddit.com/r/Kotlin/comments/189b2cs/is_it_possible_to_useinfer_a_generic_type_based/)
-- [How to make it more functional?](https://www.reddit.com/r/Kotlin/comments/1893dz5/how_to_make_it_more_functional/)
-- [HOW TO FIX THE WARNINGS](https://www.reddit.com/r/Kotlin/comments/18922pi/how_to_fix_the_warnings/)
-- [Seeking advice for developing a UI library](https://www.reddit.com/r/Kotlin/comments/1891x64/seeking_advice_for_developing_a_ui_library/)
-- [Kotlin for begginers](https://www.reddit.com/r/Kotlin/comments/189176l/kotlin_for_begginers/)
-- [Using Koin in extensions. Is this a good idea?](https://www.reddit.com/r/Kotlin/comments/188xv3f/using_koin_in_extensions_is_this_a_good_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
