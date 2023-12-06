@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Xioami pad 6 battery charging time increased drastically in past few days from 1.5 hours to 6 hours...What should be the problem??](https://www.reddit.com/r/Kotlin/comments/18bmhhq/xioami_pad_6_battery_charging_time_increased/)
+- [one more easy on for yall](https://www.reddit.com/r/Kotlin/comments/18blx6p/one_more_easy_on_for_yall/)
+- [new guy here](https://www.reddit.com/r/Kotlin/comments/18biz1v/new_guy_here/)
+- [I know there are some Koin enthusiasts here](https://www.reddit.com/r/Kotlin/comments/18bd8ez/i_know_there_are_some_koin_enthusiasts_here/)
+- [Javalin 6 nearing release - last chance for community feedback](https://www.reddit.com/r/Kotlin/comments/18bagny/javalin_6_nearing_release_last_chance_for/)
+- [[Compose Multiplatform] Disable a button according to a list of flow values](https://www.reddit.com/r/Kotlin/comments/18b7erg/compose_multiplatform_disable_a_button_according/)
+- [An interesting idea for a Christmas gift for a Kotlin developer. A card game](https://www.reddit.com/r/Kotlin/comments/18b62nx/an_interesting_idea_for_a_christmas_gift_for_a/)
+- [Inserting into a map of lists](https://www.reddit.com/r/Kotlin/comments/18b1rr6/inserting_into_a_map_of_lists/)
 - [Oferta Laboral Ciudad De México - Kotlin, Android DEVELOPER](https://www.reddit.com/r/Kotlin/comments/18axkf6/oferta_laboral_ciudad_de_méxico_kotlin_android/)
 - [Getting Started with Compose for Web](https://www.reddit.com/r/Kotlin/comments/18aug6y/getting_started_with_compose_for_web/)
-- [Webview in compose](https://www.reddit.com/r/Kotlin/comments/18at4dp/webview_in_compose/)
-- [Generating Hibernate entity static models with kapt](https://www.reddit.com/r/Kotlin/comments/18amahp/generating_hibernate_entity_static_models_with/)
-- [Explore a new debugging approach for your Kotlin applications in IntelliJ](https://www.reddit.com/r/Kotlin/comments/18aklr1/explore_a_new_debugging_approach_for_your_kotlin/)
-- [Do you need to know groovy to learn &amp; use gradle?](https://www.reddit.com/r/Kotlin/comments/18a3bse/do_you_need_to_know_groovy_to_learn_use_gradle/)
-- [Trying to reach immutability without success](https://www.reddit.com/r/Kotlin/comments/189w5am/trying_to_reach_immutability_without_success/)
-- [Kotlin Multiplatform codesign error on iOS after updating to Sonoma](https://www.reddit.com/r/Kotlin/comments/189cwxa/kotlin_multiplatform_codesign_error_on_ios_after/)
-- [[Unit] Testing Supabase in Kotlin using Test Containers](https://www.reddit.com/r/Kotlin/comments/189bl9d/unit_testing_supabase_in_kotlin_using_test/)
-- [Is it possible to use/infer a generic type based on some enum?](https://www.reddit.com/r/Kotlin/comments/189b2cs/is_it_possible_to_useinfer_a_generic_type_based/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
