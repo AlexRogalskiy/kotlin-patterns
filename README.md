@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Xioami pad 6 battery charging time increased drastically in past few days from 1.5 hours to 6 hours...What should be the problem??](https://www.reddit.com/r/Kotlin/comments/18bmhhq/xioami_pad_6_battery_charging_time_increased/)
+- [Dokka with multi-level multi-module projects &lpar;using multiplatform&rpar;, how?](https://www.reddit.com/r/Kotlin/comments/18cjcbj/dokka_with_multilevel_multimodule_projects_using/)
+- [Webinar Recap: iOS Development with Kotlin Multiplatform - Tips, Tricks, and Team Triumphs!](https://www.reddit.com/r/Kotlin/comments/18ccdcy/webinar_recap_ios_development_with_kotlin/)
+- [Do you think we need an Automatic Code Documentation Generator, especially after Github Co-pilot?](https://www.reddit.com/r/Kotlin/comments/18cbygl/do_you_think_we_need_an_automatic_code/)
+- [Google&#39;s &quot;Android Basics with Compose&quot;](https://www.reddit.com/r/Kotlin/comments/18cb3eo/googles_android_basics_with_compose/)
+- [Kotlin version manager](https://www.reddit.com/r/Kotlin/comments/18c6yfp/kotlin_version_manager/)
+- [Kotest problems with DI](https://www.reddit.com/r/Kotlin/comments/18c3vk9/kotest_problems_with_di/)
+- [Is Kotlin Multiplatform the right answer ?](https://www.reddit.com/r/Kotlin/comments/18c3lp2/is_kotlin_multiplatform_the_right_answer/)
+- [doing Advent of Code hardcore Kotlin mode](https://www.reddit.com/r/Kotlin/comments/18bxzjf/doing_advent_of_code_hardcore_kotlin_mode/)
+- [ComposePreference - Preference implementation for Jetpack Compose Material 3](https://www.reddit.com/r/Kotlin/comments/18bxvx8/composepreference_preference_implementation_for/)
 - [one more easy on for yall](https://www.reddit.com/r/Kotlin/comments/18blx6p/one_more_easy_on_for_yall/)
-- [new guy here](https://www.reddit.com/r/Kotlin/comments/18biz1v/new_guy_here/)
-- [I know there are some Koin enthusiasts here](https://www.reddit.com/r/Kotlin/comments/18bd8ez/i_know_there_are_some_koin_enthusiasts_here/)
-- [Javalin 6 nearing release - last chance for community feedback](https://www.reddit.com/r/Kotlin/comments/18bagny/javalin_6_nearing_release_last_chance_for/)
-- [[Compose Multiplatform] Disable a button according to a list of flow values](https://www.reddit.com/r/Kotlin/comments/18b7erg/compose_multiplatform_disable_a_button_according/)
-- [An interesting idea for a Christmas gift for a Kotlin developer. A card game](https://www.reddit.com/r/Kotlin/comments/18b62nx/an_interesting_idea_for_a_christmas_gift_for_a/)
-- [Inserting into a map of lists](https://www.reddit.com/r/Kotlin/comments/18b1rr6/inserting_into_a_map_of_lists/)
-- [Oferta Laboral Ciudad De México - Kotlin, Android DEVELOPER](https://www.reddit.com/r/Kotlin/comments/18axkf6/oferta_laboral_ciudad_de_méxico_kotlin_android/)
-- [Getting Started with Compose for Web](https://www.reddit.com/r/Kotlin/comments/18aug6y/getting_started_with_compose_for_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
