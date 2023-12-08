@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Serious bug in Kotlin Native 1.9](https://www.reddit.com/r/Kotlin/comments/18cxi41/serious_bug_in_kotlin_native_19/)
+- [Want to use Kotlin to build web applications?](https://www.reddit.com/r/Kotlin/comments/18cw02d/want_to_use_kotlin_to_build_web_applications/)
+- [For god&#39;s sake, how can I properly implement distributed tracing with multiple underlying providers?](https://www.reddit.com/r/Kotlin/comments/18cv3zw/for_gods_sake_how_can_i_properly_implement/)
 - [Dokka with multi-level multi-module projects &lpar;using multiplatform&rpar;, how?](https://www.reddit.com/r/Kotlin/comments/18cjcbj/dokka_with_multilevel_multimodule_projects_using/)
 - [Webinar Recap: iOS Development with Kotlin Multiplatform - Tips, Tricks, and Team Triumphs!](https://www.reddit.com/r/Kotlin/comments/18ccdcy/webinar_recap_ios_development_with_kotlin/)
 - [Do you think we need an Automatic Code Documentation Generator, especially after Github Co-pilot?](https://www.reddit.com/r/Kotlin/comments/18cbygl/do_you_think_we_need_an_automatic_code/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin version manager](https://www.reddit.com/r/Kotlin/comments/18c6yfp/kotlin_version_manager/)
 - [Kotest problems with DI](https://www.reddit.com/r/Kotlin/comments/18c3vk9/kotest_problems_with_di/)
 - [Is Kotlin Multiplatform the right answer ?](https://www.reddit.com/r/Kotlin/comments/18c3lp2/is_kotlin_multiplatform_the_right_answer/)
-- [doing Advent of Code hardcore Kotlin mode](https://www.reddit.com/r/Kotlin/comments/18bxzjf/doing_advent_of_code_hardcore_kotlin_mode/)
-- [ComposePreference - Preference implementation for Jetpack Compose Material 3](https://www.reddit.com/r/Kotlin/comments/18bxvx8/composepreference_preference_implementation_for/)
-- [one more easy on for yall](https://www.reddit.com/r/Kotlin/comments/18blx6p/one_more_easy_on_for_yall/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
