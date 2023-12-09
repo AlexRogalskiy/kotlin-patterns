@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Serious bug in Kotlin Native 1.9](https://www.reddit.com/r/Kotlin/comments/18cxi41/serious_bug_in_kotlin_native_19/)
-- [Want to use Kotlin to build web applications?](https://www.reddit.com/r/Kotlin/comments/18cw02d/want_to_use_kotlin_to_build_web_applications/)
-- [For god&#39;s sake, how can I properly implement distributed tracing with multiple underlying providers?](https://www.reddit.com/r/Kotlin/comments/18cv3zw/for_gods_sake_how_can_i_properly_implement/)
-- [Dokka with multi-level multi-module projects &lpar;using multiplatform&rpar;, how?](https://www.reddit.com/r/Kotlin/comments/18cjcbj/dokka_with_multilevel_multimodule_projects_using/)
-- [Webinar Recap: iOS Development with Kotlin Multiplatform - Tips, Tricks, and Team Triumphs!](https://www.reddit.com/r/Kotlin/comments/18ccdcy/webinar_recap_ios_development_with_kotlin/)
-- [Do you think we need an Automatic Code Documentation Generator, especially after Github Co-pilot?](https://www.reddit.com/r/Kotlin/comments/18cbygl/do_you_think_we_need_an_automatic_code/)
-- [Google&#39;s &quot;Android Basics with Compose&quot;](https://www.reddit.com/r/Kotlin/comments/18cb3eo/googles_android_basics_with_compose/)
-- [Kotlin version manager](https://www.reddit.com/r/Kotlin/comments/18c6yfp/kotlin_version_manager/)
-- [Kotest problems with DI](https://www.reddit.com/r/Kotlin/comments/18c3vk9/kotest_problems_with_di/)
-- [Is Kotlin Multiplatform the right answer ?](https://www.reddit.com/r/Kotlin/comments/18c3lp2/is_kotlin_multiplatform_the_right_answer/)
+- [Threads vs coroutines for IO extensive task?](https://www.reddit.com/r/Kotlin/comments/18dz463/threads_vs_coroutines_for_io_extensive_task/)
+- [Compose Multiplatform Project Structure](https://www.reddit.com/r/Kotlin/comments/18dtqjp/compose_multiplatform_project_structure/)
+- [What are the real use cases that led you to use Kotlin extension functions or properties in your projects?](https://www.reddit.com/r/Kotlin/comments/18drvtr/what_are_the_real_use_cases_that_led_you_to_use/)
+- [Have any solution to developing Kotiln android app with vs2022 or vscode?](https://www.reddit.com/r/Kotlin/comments/18dny63/have_any_solution_to_developing_kotiln_android/)
+- [Minimal neural network implementation](https://www.reddit.com/r/Kotlin/comments/18dnn2z/minimal_neural_network_implementation/)
+- [Lenses and Reflection make light work of Kotlin Data Classes](https://www.reddit.com/r/Kotlin/comments/18dmep8/lenses_and_reflection_make_light_work_of_kotlin/)
+- [&#39;removeLast&lpar;&rpar;: E!&#39; is deprecated. Overrides deprecated member in &#39;java.util.AbstractList&#39;.](https://www.reddit.com/r/Kotlin/comments/18dlxnl/removelast_e_is_deprecated_overrides_deprecated/)
+- [What does `launch` exactly do?](https://www.reddit.com/r/Kotlin/comments/18denkk/what_does_launch_exactly_do/)
+- [Implementing a Zero-Cost Random Picker in Kotlin Sequences](https://www.reddit.com/r/Kotlin/comments/18de3bh/implementing_a_zerocost_random_picker_in_kotlin/)
+- [New Kotlin developer trying Advent of Code Day One, Part Two.](https://www.reddit.com/r/Kotlin/comments/18ddllk/new_kotlin_developer_trying_advent_of_code_day/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
