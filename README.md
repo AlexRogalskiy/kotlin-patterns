@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Laptop help](https://www.reddit.com/r/Kotlin/comments/18f5c8k/laptop_help/)
+- [Inaccuracy in the Kotlin Coroutines DEEP DIVE book regarding `async` or am I missing something here?](https://www.reddit.com/r/Kotlin/comments/18etbs5/inaccuracy_in_the_kotlin_coroutines_deep_dive/)
 - [How to run kotlin scripts inside docker?](https://www.reddit.com/r/Kotlin/comments/18erapk/how_to_run_kotlin_scripts_inside_docker/)
 - [Converting csv to xlsx](https://www.reddit.com/r/Kotlin/comments/18encvx/converting_csv_to_xlsx/)
 - [Kotlin 1.9.20 Improves Object Swarm Garbage Collection](https://www.reddit.com/r/Kotlin/comments/18ebsqg/kotlin_1920_improves_object_swarm_garbage/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Compose Multiplatform Project Structure](https://www.reddit.com/r/Kotlin/comments/18dtqjp/compose_multiplatform_project_structure/)
 - [What are the real use cases that led you to use Kotlin extension functions or properties in your projects?](https://www.reddit.com/r/Kotlin/comments/18drvtr/what_are_the_real_use_cases_that_led_you_to_use/)
 - [Have any solution to developing Kotiln android app with vs2022 or vscode?](https://www.reddit.com/r/Kotlin/comments/18dny63/have_any_solution_to_developing_kotiln_android/)
-- [Minimal neural network implementation](https://www.reddit.com/r/Kotlin/comments/18dnn2z/minimal_neural_network_implementation/)
-- [Lenses and Reflection make light work of Kotlin Data Classes](https://www.reddit.com/r/Kotlin/comments/18dmep8/lenses_and_reflection_make_light_work_of_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
