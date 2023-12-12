@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Exploring Compose Web](https://www.reddit.com/r/Kotlin/comments/18g2407/exploring_compose_web/)
+- [Web Scraping Yelp Business Listings in Kotlin](https://www.reddit.com/r/Kotlin/comments/18fywh6/web_scraping_yelp_business_listings_in_kotlin/)
+- [Trying to understand delegates](https://www.reddit.com/r/Kotlin/comments/18fwrus/trying_to_understand_delegates/)
+- [Compose cannot be used for large amount of text](https://www.reddit.com/r/Kotlin/comments/18fvj45/compose_cannot_be_used_for_large_amount_of_text/)
+- [ICYMI: There&#39;s a KotlinConf 2024 ticket giveaway in Android Weekly this week.](https://www.reddit.com/r/Kotlin/comments/18frv27/icymi_theres_a_kotlinconf_2024_ticket_giveaway_in/)
+- [PDF rendering server-side &lpar;JVM&rpar;](https://www.reddit.com/r/Kotlin/comments/18fr6p8/pdf_rendering_serverside_jvm/)
+- [Kotlin is a much better language than Java even with all the new stuff Java has added.](https://www.reddit.com/r/Kotlin/comments/18fqjon/kotlin_is_a_much_better_language_than_java_even/)
+- [Chromebook recommendation](https://www.reddit.com/r/Kotlin/comments/18fp2dx/chromebook_recommendation/)
 - [Laptop help](https://www.reddit.com/r/Kotlin/comments/18f5c8k/laptop_help/)
 - [Inaccuracy in the Kotlin Coroutines DEEP DIVE book regarding `async` or am I missing something here?](https://www.reddit.com/r/Kotlin/comments/18etbs5/inaccuracy_in_the_kotlin_coroutines_deep_dive/)
-- [How to run kotlin scripts inside docker?](https://www.reddit.com/r/Kotlin/comments/18erapk/how_to_run_kotlin_scripts_inside_docker/)
-- [Converting csv to xlsx](https://www.reddit.com/r/Kotlin/comments/18encvx/converting_csv_to_xlsx/)
-- [Kotlin 1.9.20 Improves Object Swarm Garbage Collection](https://www.reddit.com/r/Kotlin/comments/18ebsqg/kotlin_1920_improves_object_swarm_garbage/)
-- [Is there a way to atomically add to a list and return its index?](https://www.reddit.com/r/Kotlin/comments/18e2muv/is_there_a_way_to_atomically_add_to_a_list_and/)
-- [Threads vs coroutines for IO extensive task?](https://www.reddit.com/r/Kotlin/comments/18dz463/threads_vs_coroutines_for_io_extensive_task/)
-- [Compose Multiplatform Project Structure](https://www.reddit.com/r/Kotlin/comments/18dtqjp/compose_multiplatform_project_structure/)
-- [What are the real use cases that led you to use Kotlin extension functions or properties in your projects?](https://www.reddit.com/r/Kotlin/comments/18drvtr/what_are_the_real_use_cases_that_led_you_to_use/)
-- [Have any solution to developing Kotiln android app with vs2022 or vscode?](https://www.reddit.com/r/Kotlin/comments/18dny63/have_any_solution_to_developing_kotiln_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
