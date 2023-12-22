@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Exploring Compose Web](https://www.reddit.com/r/Kotlin/comments/18g2407/exploring_compose_web/)
-- [Web Scraping Yelp Business Listings in Kotlin](https://www.reddit.com/r/Kotlin/comments/18fywh6/web_scraping_yelp_business_listings_in_kotlin/)
-- [Trying to understand delegates](https://www.reddit.com/r/Kotlin/comments/18fwrus/trying_to_understand_delegates/)
-- [Compose cannot be used for large amount of text](https://www.reddit.com/r/Kotlin/comments/18fvj45/compose_cannot_be_used_for_large_amount_of_text/)
-- [ICYMI: There&#39;s a KotlinConf 2024 ticket giveaway in Android Weekly this week.](https://www.reddit.com/r/Kotlin/comments/18frv27/icymi_theres_a_kotlinconf_2024_ticket_giveaway_in/)
-- [PDF rendering server-side &lpar;JVM&rpar;](https://www.reddit.com/r/Kotlin/comments/18fr6p8/pdf_rendering_serverside_jvm/)
-- [Kotlin is a much better language than Java even with all the new stuff Java has added.](https://www.reddit.com/r/Kotlin/comments/18fqjon/kotlin_is_a_much_better_language_than_java_even/)
-- [Chromebook recommendation](https://www.reddit.com/r/Kotlin/comments/18fp2dx/chromebook_recommendation/)
-- [Laptop help](https://www.reddit.com/r/Kotlin/comments/18f5c8k/laptop_help/)
-- [Inaccuracy in the Kotlin Coroutines DEEP DIVE book regarding `async` or am I missing something here?](https://www.reddit.com/r/Kotlin/comments/18etbs5/inaccuracy_in_the_kotlin_coroutines_deep_dive/)
+- [Tried connecting my app to firebase ,](https://www.reddit.com/r/Kotlin/comments/18nxcov/tried_connecting_my_app_to_firebase/)
+- [KMM &lpar;android |ios |shared&rpar; - xcframework not working](https://www.reddit.com/r/Kotlin/comments/18ntfbq/kmm_android_ios_shared_xcframework_not_working/)
+- [Strange interaction between comparable data class and HashMap](https://www.reddit.com/r/Kotlin/comments/18njebs/strange_interaction_between_comparable_data_class/)
+- [Help with changing the app theme](https://www.reddit.com/r/Kotlin/comments/18n87xk/help_with_changing_the_app_theme/)
+- [How would I dynamically compile Kotlin source files as part of a test suite?](https://www.reddit.com/r/Kotlin/comments/18n4ls0/how_would_i_dynamically_compile_kotlin_source/)
+- [I finished learning jet pack compose what is next ?!](https://www.reddit.com/r/Kotlin/comments/18n2xw0/i_finished_learning_jet_pack_compose_what_is_next/)
+- [Best way to override toString method for &quot;Sensitive&quot; classes](https://www.reddit.com/r/Kotlin/comments/18n04gk/best_way_to_override_tostring_method_for/)
+- [Diktat 2.0.0 released 🥳️️️️️️](https://www.reddit.com/r/Kotlin/comments/18mzut1/diktat_200_released/)
+- [Beginner to coding. Plz help what&#39;s wrong with this code.](https://www.reddit.com/r/Kotlin/comments/18mswc5/beginner_to_coding_plz_help_whats_wrong_with_this/)
+- [Kotlin library for Bluetooth on macOS](https://www.reddit.com/r/Kotlin/comments/18mshjb/kotlin_library_for_bluetooth_on_macos/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
