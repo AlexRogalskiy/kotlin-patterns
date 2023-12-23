@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bulk request processing Kotlin](https://www.reddit.com/r/Kotlin/comments/18opo09/bulk_request_processing_kotlin/)
+- [Using CSS libraries with Compose for Web](https://www.reddit.com/r/Kotlin/comments/18ooyi7/using_css_libraries_with_compose_for_web/)
+- [Developer Experience and Kotlin Lenses](https://www.reddit.com/r/Kotlin/comments/18ocren/developer_experience_and_kotlin_lenses/)
+- [Koin 3.5.3 is now out!](https://www.reddit.com/r/Kotlin/comments/18obgjs/koin_353_is_now_out/)
 - [Tried connecting my app to firebase ,](https://www.reddit.com/r/Kotlin/comments/18nxcov/tried_connecting_my_app_to_firebase/)
 - [KMM &lpar;android |ios |shared&rpar; - xcframework not working](https://www.reddit.com/r/Kotlin/comments/18ntfbq/kmm_android_ios_shared_xcframework_not_working/)
 - [Strange interaction between comparable data class and HashMap](https://www.reddit.com/r/Kotlin/comments/18njebs/strange_interaction_between_comparable_data_class/)
 - [Help with changing the app theme](https://www.reddit.com/r/Kotlin/comments/18n87xk/help_with_changing_the_app_theme/)
 - [How would I dynamically compile Kotlin source files as part of a test suite?](https://www.reddit.com/r/Kotlin/comments/18n4ls0/how_would_i_dynamically_compile_kotlin_source/)
 - [I finished learning jet pack compose what is next ?!](https://www.reddit.com/r/Kotlin/comments/18n2xw0/i_finished_learning_jet_pack_compose_what_is_next/)
-- [Best way to override toString method for &quot;Sensitive&quot; classes](https://www.reddit.com/r/Kotlin/comments/18n04gk/best_way_to_override_tostring_method_for/)
-- [Diktat 2.0.0 released 🥳️️️️️️](https://www.reddit.com/r/Kotlin/comments/18mzut1/diktat_200_released/)
-- [Beginner to coding. Plz help what&#39;s wrong with this code.](https://www.reddit.com/r/Kotlin/comments/18mswc5/beginner_to_coding_plz_help_whats_wrong_with_this/)
-- [Kotlin library for Bluetooth on macOS](https://www.reddit.com/r/Kotlin/comments/18mshjb/kotlin_library_for_bluetooth_on_macos/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
