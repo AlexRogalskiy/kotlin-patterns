@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need help with adding a delay in sensors.](https://www.reddit.com/r/Kotlin/comments/18p4eck/i_need_help_with_adding_a_delay_in_sensors/)
+- [Help required with interface and Kotlin generics](https://www.reddit.com/r/Kotlin/comments/18p35ja/help_required_with_interface_and_kotlin_generics/)
 - [Bulk request processing Kotlin](https://www.reddit.com/r/Kotlin/comments/18opo09/bulk_request_processing_kotlin/)
 - [Using CSS libraries with Compose for Web](https://www.reddit.com/r/Kotlin/comments/18ooyi7/using_css_libraries_with_compose_for_web/)
 - [Developer Experience and Kotlin Lenses](https://www.reddit.com/r/Kotlin/comments/18ocren/developer_experience_and_kotlin_lenses/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [KMM &lpar;android |ios |shared&rpar; - xcframework not working](https://www.reddit.com/r/Kotlin/comments/18ntfbq/kmm_android_ios_shared_xcframework_not_working/)
 - [Strange interaction between comparable data class and HashMap](https://www.reddit.com/r/Kotlin/comments/18njebs/strange_interaction_between_comparable_data_class/)
 - [Help with changing the app theme](https://www.reddit.com/r/Kotlin/comments/18n87xk/help_with_changing_the_app_theme/)
-- [How would I dynamically compile Kotlin source files as part of a test suite?](https://www.reddit.com/r/Kotlin/comments/18n4ls0/how_would_i_dynamically_compile_kotlin_source/)
-- [I finished learning jet pack compose what is next ?!](https://www.reddit.com/r/Kotlin/comments/18n2xw0/i_finished_learning_jet_pack_compose_what_is_next/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
