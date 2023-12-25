@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Good Kotlin API resources?](https://www.reddit.com/r/Kotlin/comments/18q5fcv/good_kotlin_api_resources/)
+- [Help for this](https://www.reddit.com/r/Kotlin/comments/18q1t89/help_for_this/)
+- [How can i learn kotlin? Please share me best resources......](https://www.reddit.com/r/Kotlin/comments/18pxte0/how_can_i_learn_kotlin_please_share_me_best/)
+- [Plz assist on this Kotlin query. Newbie here.](https://www.reddit.com/r/Kotlin/comments/18puis2/plz_assist_on_this_kotlin_query_newbie_here/)
 - [I need help with adding a delay in sensors.](https://www.reddit.com/r/Kotlin/comments/18p4eck/i_need_help_with_adding_a_delay_in_sensors/)
 - [Help required with interface and Kotlin generics](https://www.reddit.com/r/Kotlin/comments/18p35ja/help_required_with_interface_and_kotlin_generics/)
 - [Bulk request processing Kotlin](https://www.reddit.com/r/Kotlin/comments/18opo09/bulk_request_processing_kotlin/)
 - [Using CSS libraries with Compose for Web](https://www.reddit.com/r/Kotlin/comments/18ooyi7/using_css_libraries_with_compose_for_web/)
 - [Developer Experience and Kotlin Lenses](https://www.reddit.com/r/Kotlin/comments/18ocren/developer_experience_and_kotlin_lenses/)
 - [Koin 3.5.3 is now out!](https://www.reddit.com/r/Kotlin/comments/18obgjs/koin_353_is_now_out/)
-- [Tried connecting my app to firebase ,](https://www.reddit.com/r/Kotlin/comments/18nxcov/tried_connecting_my_app_to_firebase/)
-- [KMM &lpar;android |ios |shared&rpar; - xcframework not working](https://www.reddit.com/r/Kotlin/comments/18ntfbq/kmm_android_ios_shared_xcframework_not_working/)
-- [Strange interaction between comparable data class and HashMap](https://www.reddit.com/r/Kotlin/comments/18njebs/strange_interaction_between_comparable_data_class/)
-- [Help with changing the app theme](https://www.reddit.com/r/Kotlin/comments/18n87xk/help_with_changing_the_app_theme/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
