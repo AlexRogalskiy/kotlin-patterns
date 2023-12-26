@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is android development a senior only field?](https://www.reddit.com/r/Kotlin/comments/18qvk1z/is_android_development_a_senior_only_field/)
+- [Create a standalone executable file](https://www.reddit.com/r/Kotlin/comments/18qszlp/create_a_standalone_executable_file/)
+- [Help with this post request](https://www.reddit.com/r/Kotlin/comments/18qrhks/help_with_this_post_request/)
+- [What is the best way to ensure that `kotlinx.coroutines.flow.retryWhen` only retries when the button is clicked?](https://www.reddit.com/r/Kotlin/comments/18qqbc4/what_is_the_best_way_to_ensure_that/)
+- [annoying errors in Android studio](https://www.reddit.com/r/Kotlin/comments/18qq86n/annoying_errors_in_android_studio/)
+- [Is Kotlin the right language?](https://www.reddit.com/r/Kotlin/comments/18qo972/is_kotlin_the_right_language/)
+- [Ktor Jvm &amp; Android](https://www.reddit.com/r/Kotlin/comments/18qnlfg/ktor_jvm_android/)
+- [Accessing &amp; Sending Incoming Phone Call Stream To The Server](https://www.reddit.com/r/Kotlin/comments/18qfpl7/accessing_sending_incoming_phone_call_stream_to/)
 - [Good Kotlin API resources?](https://www.reddit.com/r/Kotlin/comments/18q5fcv/good_kotlin_api_resources/)
 - [Help for this](https://www.reddit.com/r/Kotlin/comments/18q1t89/help_for_this/)
-- [How can i learn kotlin? Please share me best resources......](https://www.reddit.com/r/Kotlin/comments/18pxte0/how_can_i_learn_kotlin_please_share_me_best/)
-- [Plz assist on this Kotlin query. Newbie here.](https://www.reddit.com/r/Kotlin/comments/18puis2/plz_assist_on_this_kotlin_query_newbie_here/)
-- [I need help with adding a delay in sensors.](https://www.reddit.com/r/Kotlin/comments/18p4eck/i_need_help_with_adding_a_delay_in_sensors/)
-- [Help required with interface and Kotlin generics](https://www.reddit.com/r/Kotlin/comments/18p35ja/help_required_with_interface_and_kotlin_generics/)
-- [Bulk request processing Kotlin](https://www.reddit.com/r/Kotlin/comments/18opo09/bulk_request_processing_kotlin/)
-- [Using CSS libraries with Compose for Web](https://www.reddit.com/r/Kotlin/comments/18ooyi7/using_css_libraries_with_compose_for_web/)
-- [Developer Experience and Kotlin Lenses](https://www.reddit.com/r/Kotlin/comments/18ocren/developer_experience_and_kotlin_lenses/)
-- [Koin 3.5.3 is now out!](https://www.reddit.com/r/Kotlin/comments/18obgjs/koin_353_is_now_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
