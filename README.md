@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is android development a senior only field?](https://www.reddit.com/r/Kotlin/comments/18qvk1z/is_android_development_a_senior_only_field/)
+- [How can I make a CompletableDeferred incomplete again after completing it?](https://www.reddit.com/r/Kotlin/comments/18rhsu2/how_can_i_make_a_completabledeferred_incomplete/)
+- [Exposed Table and Result to Row function](https://www.reddit.com/r/Kotlin/comments/18ra3cc/exposed_table_and_result_to_row_function/)
+- [JVM to AndroidStudio Kotlin Multiplatform Project](https://www.reddit.com/r/Kotlin/comments/18r8wrp/jvm_to_androidstudio_kotlin_multiplatform_project/)
+- [Can you use kotlin for raspberry pi?](https://www.reddit.com/r/Kotlin/comments/18r643p/can_you_use_kotlin_for_raspberry_pi/)
+- [Digma now supports Kotlin versions 1.9.0 and earlier](https://www.reddit.com/r/Kotlin/comments/18r4w4w/digma_now_supports_kotlin_versions_190_and_earlier/)
 - [Create a standalone executable file](https://www.reddit.com/r/Kotlin/comments/18qszlp/create_a_standalone_executable_file/)
 - [Help with this post request](https://www.reddit.com/r/Kotlin/comments/18qrhks/help_with_this_post_request/)
 - [What is the best way to ensure that `kotlinx.coroutines.flow.retryWhen` only retries when the button is clicked?](https://www.reddit.com/r/Kotlin/comments/18qqbc4/what_is_the_best_way_to_ensure_that/)
 - [annoying errors in Android studio](https://www.reddit.com/r/Kotlin/comments/18qq86n/annoying_errors_in_android_studio/)
 - [Is Kotlin the right language?](https://www.reddit.com/r/Kotlin/comments/18qo972/is_kotlin_the_right_language/)
-- [Ktor Jvm &amp; Android](https://www.reddit.com/r/Kotlin/comments/18qnlfg/ktor_jvm_android/)
-- [Accessing &amp; Sending Incoming Phone Call Stream To The Server](https://www.reddit.com/r/Kotlin/comments/18qfpl7/accessing_sending_incoming_phone_call_stream_to/)
-- [Good Kotlin API resources?](https://www.reddit.com/r/Kotlin/comments/18q5fcv/good_kotlin_api_resources/)
-- [Help for this](https://www.reddit.com/r/Kotlin/comments/18q1t89/help_for_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
