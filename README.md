@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Inlining is seemingly not transitive, please help explain](https://www.reddit.com/r/Kotlin/comments/18sa1nu/inlining_is_seemingly_not_transitive_please_help/)
+- [Collections extension functions without generating lists?](https://www.reddit.com/r/Kotlin/comments/18s7vpj/collections_extension_functions_without/)
+- [Kotlin abilities](https://www.reddit.com/r/Kotlin/comments/18rz8p7/kotlin_abilities/)
+- [Compose Multiplatform &amp; Gemini REST API](https://www.reddit.com/r/Kotlin/comments/18ryndk/compose_multiplatform_gemini_rest_api/)
+- [AnyPass v0.1.0](https://www.reddit.com/r/Kotlin/comments/18rwa17/anypass_v010/)
+- [Newbie question: learn Kotlin using Android Studio without writing an Android app?](https://www.reddit.com/r/Kotlin/comments/18rpug3/newbie_question_learn_kotlin_using_android_studio/)
 - [How can I make a CompletableDeferred incomplete again after completing it?](https://www.reddit.com/r/Kotlin/comments/18rhsu2/how_can_i_make_a_completabledeferred_incomplete/)
 - [Exposed Table and Result to Row function](https://www.reddit.com/r/Kotlin/comments/18ra3cc/exposed_table_and_result_to_row_function/)
 - [JVM to AndroidStudio Kotlin Multiplatform Project](https://www.reddit.com/r/Kotlin/comments/18r8wrp/jvm_to_androidstudio_kotlin_multiplatform_project/)
 - [Can you use kotlin for raspberry pi?](https://www.reddit.com/r/Kotlin/comments/18r643p/can_you_use_kotlin_for_raspberry_pi/)
-- [Digma now supports Kotlin versions 1.9.0 and earlier](https://www.reddit.com/r/Kotlin/comments/18r4w4w/digma_now_supports_kotlin_versions_190_and_earlier/)
-- [Create a standalone executable file](https://www.reddit.com/r/Kotlin/comments/18qszlp/create_a_standalone_executable_file/)
-- [Help with this post request](https://www.reddit.com/r/Kotlin/comments/18qrhks/help_with_this_post_request/)
-- [What is the best way to ensure that `kotlinx.coroutines.flow.retryWhen` only retries when the button is clicked?](https://www.reddit.com/r/Kotlin/comments/18qqbc4/what_is_the_best_way_to_ensure_that/)
-- [annoying errors in Android studio](https://www.reddit.com/r/Kotlin/comments/18qq86n/annoying_errors_in_android_studio/)
-- [Is Kotlin the right language?](https://www.reddit.com/r/Kotlin/comments/18qo972/is_kotlin_the_right_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
