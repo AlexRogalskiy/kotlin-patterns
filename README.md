@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Alert Dialog one after one](https://www.reddit.com/r/Kotlin/comments/18sw4qu/alert_dialog_one_after_one/)
+- [Is Kotlin more fun to use than Golang?](https://www.reddit.com/r/Kotlin/comments/18svj1d/is_kotlin_more_fun_to_use_than_golang/)
+- [I published a new article about using comments effectively and I wonder what do you think about it especially the 4th item](https://www.reddit.com/r/Kotlin/comments/18stn3z/i_published_a_new_article_about_using_comments/)
+- [What&#39;s the easiest way to add hyperlinks using only Kotlin?](https://www.reddit.com/r/Kotlin/comments/18ss1bv/whats_the_easiest_way_to_add_hyperlinks_using/)
+- [Built a small library to get platform-specific app data/cache directories for kotlin multiplatform.](https://www.reddit.com/r/Kotlin/comments/18sly3h/built_a_small_library_to_get_platformspecific_app/)
 - [Inlining is seemingly not transitive, please help explain](https://www.reddit.com/r/Kotlin/comments/18sa1nu/inlining_is_seemingly_not_transitive_please_help/)
 - [Collections extension functions without generating lists?](https://www.reddit.com/r/Kotlin/comments/18s7vpj/collections_extension_functions_without/)
 - [Kotlin abilities](https://www.reddit.com/r/Kotlin/comments/18rz8p7/kotlin_abilities/)
 - [Compose Multiplatform &amp; Gemini REST API](https://www.reddit.com/r/Kotlin/comments/18ryndk/compose_multiplatform_gemini_rest_api/)
 - [AnyPass v0.1.0](https://www.reddit.com/r/Kotlin/comments/18rwa17/anypass_v010/)
-- [Newbie question: learn Kotlin using Android Studio without writing an Android app?](https://www.reddit.com/r/Kotlin/comments/18rpug3/newbie_question_learn_kotlin_using_android_studio/)
-- [How can I make a CompletableDeferred incomplete again after completing it?](https://www.reddit.com/r/Kotlin/comments/18rhsu2/how_can_i_make_a_completabledeferred_incomplete/)
-- [Exposed Table and Result to Row function](https://www.reddit.com/r/Kotlin/comments/18ra3cc/exposed_table_and_result_to_row_function/)
-- [JVM to AndroidStudio Kotlin Multiplatform Project](https://www.reddit.com/r/Kotlin/comments/18r8wrp/jvm_to_androidstudio_kotlin_multiplatform_project/)
-- [Can you use kotlin for raspberry pi?](https://www.reddit.com/r/Kotlin/comments/18r643p/can_you_use_kotlin_for_raspberry_pi/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
