@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The golden age of Kotlin and its uncertain future](https://www.reddit.com/r/Kotlin/comments/18tz48a/the_golden_age_of_kotlin_and_its_uncertain_future/)
+- [Optional Lenses for Kotlin Maps](https://www.reddit.com/r/Kotlin/comments/18tm7mp/optional_lenses_for_kotlin_maps/)
+- [GitHub - y9san9/aoc23: Solving Advent of Code in pure Kotlin without use of mutability](https://www.reddit.com/r/Kotlin/comments/18tjrci/github_y9san9aoc23_solving_advent_of_code_in_pure/)
+- [Kotlin-Algorithms-and-Design-Patterns repository](https://www.reddit.com/r/Kotlin/comments/18tfoe3/kotlinalgorithmsanddesignpatterns_repository/)
+- [Understanding Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/18tbb1g/understanding_compose_multiplatform/)
 - [Alert Dialog one after one](https://www.reddit.com/r/Kotlin/comments/18sw4qu/alert_dialog_one_after_one/)
 - [Is Kotlin more fun to use than Golang?](https://www.reddit.com/r/Kotlin/comments/18svj1d/is_kotlin_more_fun_to_use_than_golang/)
 - [I published a new article about using comments effectively and I wonder what do you think about it especially the 4th item](https://www.reddit.com/r/Kotlin/comments/18stn3z/i_published_a_new_article_about_using_comments/)
 - [What&#39;s the easiest way to add hyperlinks using only Kotlin?](https://www.reddit.com/r/Kotlin/comments/18ss1bv/whats_the_easiest_way_to_add_hyperlinks_using/)
 - [Built a small library to get platform-specific app data/cache directories for kotlin multiplatform.](https://www.reddit.com/r/Kotlin/comments/18sly3h/built_a_small_library_to_get_platformspecific_app/)
-- [Inlining is seemingly not transitive, please help explain](https://www.reddit.com/r/Kotlin/comments/18sa1nu/inlining_is_seemingly_not_transitive_please_help/)
-- [Collections extension functions without generating lists?](https://www.reddit.com/r/Kotlin/comments/18s7vpj/collections_extension_functions_without/)
-- [Kotlin abilities](https://www.reddit.com/r/Kotlin/comments/18rz8p7/kotlin_abilities/)
-- [Compose Multiplatform &amp; Gemini REST API](https://www.reddit.com/r/Kotlin/comments/18ryndk/compose_multiplatform_gemini_rest_api/)
-- [AnyPass v0.1.0](https://www.reddit.com/r/Kotlin/comments/18rwa17/anypass_v010/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
