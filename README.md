@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Property Accessor Behaviour](https://www.reddit.com/r/Kotlin/comments/18ugfh8/property_accessor_behaviour/)
+- [Beginner at Kotlin. Need help using Gradle.](https://www.reddit.com/r/Kotlin/comments/18ubasx/beginner_at_kotlin_need_help_using_gradle/)
 - [The golden age of Kotlin and its uncertain future](https://www.reddit.com/r/Kotlin/comments/18tz48a/the_golden_age_of_kotlin_and_its_uncertain_future/)
 - [Optional Lenses for Kotlin Maps](https://www.reddit.com/r/Kotlin/comments/18tm7mp/optional_lenses_for_kotlin_maps/)
 - [GitHub - y9san9/aoc23: Solving Advent of Code in pure Kotlin without use of mutability](https://www.reddit.com/r/Kotlin/comments/18tjrci/github_y9san9aoc23_solving_advent_of_code_in_pure/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Alert Dialog one after one](https://www.reddit.com/r/Kotlin/comments/18sw4qu/alert_dialog_one_after_one/)
 - [Is Kotlin more fun to use than Golang?](https://www.reddit.com/r/Kotlin/comments/18svj1d/is_kotlin_more_fun_to_use_than_golang/)
 - [I published a new article about using comments effectively and I wonder what do you think about it especially the 4th item](https://www.reddit.com/r/Kotlin/comments/18stn3z/i_published_a_new_article_about_using_comments/)
-- [What&#39;s the easiest way to add hyperlinks using only Kotlin?](https://www.reddit.com/r/Kotlin/comments/18ss1bv/whats_the_easiest_way_to_add_hyperlinks_using/)
-- [Built a small library to get platform-specific app data/cache directories for kotlin multiplatform.](https://www.reddit.com/r/Kotlin/comments/18sly3h/built_a_small_library_to_get_platformspecific_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
