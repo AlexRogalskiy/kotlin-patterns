@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Background Noise Removal in realtime](https://www.reddit.com/r/Kotlin/comments/18vj5t4/background_noise_removal_in_realtime/)
+- [Experienced beginner syntax/scope confusion overloading constructor](https://www.reddit.com/r/Kotlin/comments/18vfddr/experienced_beginner_syntaxscope_confusion/)
+- [Variable with ateing](https://www.reddit.com/r/Kotlin/comments/18v8sup/variable_with_ateing/)
+- [[Kotlin Multiplatform, JVM, Android] Sharing Json Resrouces - how?](https://www.reddit.com/r/Kotlin/comments/18v6bh3/kotlin_multiplatform_jvm_android_sharing_json/)
 - [Property Accessor Behaviour](https://www.reddit.com/r/Kotlin/comments/18ugfh8/property_accessor_behaviour/)
 - [Beginner at Kotlin. Need help using Gradle.](https://www.reddit.com/r/Kotlin/comments/18ubasx/beginner_at_kotlin_need_help_using_gradle/)
 - [The golden age of Kotlin and its uncertain future](https://www.reddit.com/r/Kotlin/comments/18tz48a/the_golden_age_of_kotlin_and_its_uncertain_future/)
 - [Optional Lenses for Kotlin Maps](https://www.reddit.com/r/Kotlin/comments/18tm7mp/optional_lenses_for_kotlin_maps/)
 - [GitHub - y9san9/aoc23: Solving Advent of Code in pure Kotlin without use of mutability](https://www.reddit.com/r/Kotlin/comments/18tjrci/github_y9san9aoc23_solving_advent_of_code_in_pure/)
 - [Kotlin-Algorithms-and-Design-Patterns repository](https://www.reddit.com/r/Kotlin/comments/18tfoe3/kotlinalgorithmsanddesignpatterns_repository/)
-- [Understanding Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/18tbb1g/understanding_compose_multiplatform/)
-- [Alert Dialog one after one](https://www.reddit.com/r/Kotlin/comments/18sw4qu/alert_dialog_one_after_one/)
-- [Is Kotlin more fun to use than Golang?](https://www.reddit.com/r/Kotlin/comments/18svj1d/is_kotlin_more_fun_to_use_than_golang/)
-- [I published a new article about using comments effectively and I wonder what do you think about it especially the 4th item](https://www.reddit.com/r/Kotlin/comments/18stn3z/i_published_a_new_article_about_using_comments/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
