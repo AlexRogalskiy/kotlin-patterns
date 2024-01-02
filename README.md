@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Inflating xml and show it from Service](https://www.reddit.com/r/Kotlin/comments/18vt7yc/inflating_xml_and_show_it_from_service/)
+- [I just ported the best Scala pretty-printing library into Kotlin](https://www.reddit.com/r/Kotlin/comments/18vqiwi/i_just_ported_the_best_scala_prettyprinting/)
 - [Background Noise Removal in realtime](https://www.reddit.com/r/Kotlin/comments/18vj5t4/background_noise_removal_in_realtime/)
 - [Experienced beginner syntax/scope confusion overloading constructor](https://www.reddit.com/r/Kotlin/comments/18vfddr/experienced_beginner_syntaxscope_confusion/)
 - [Variable with ateing](https://www.reddit.com/r/Kotlin/comments/18v8sup/variable_with_ateing/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Beginner at Kotlin. Need help using Gradle.](https://www.reddit.com/r/Kotlin/comments/18ubasx/beginner_at_kotlin_need_help_using_gradle/)
 - [The golden age of Kotlin and its uncertain future](https://www.reddit.com/r/Kotlin/comments/18tz48a/the_golden_age_of_kotlin_and_its_uncertain_future/)
 - [Optional Lenses for Kotlin Maps](https://www.reddit.com/r/Kotlin/comments/18tm7mp/optional_lenses_for_kotlin_maps/)
-- [GitHub - y9san9/aoc23: Solving Advent of Code in pure Kotlin without use of mutability](https://www.reddit.com/r/Kotlin/comments/18tjrci/github_y9san9aoc23_solving_advent_of_code_in_pure/)
-- [Kotlin-Algorithms-and-Design-Patterns repository](https://www.reddit.com/r/Kotlin/comments/18tfoe3/kotlinalgorithmsanddesignpatterns_repository/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
