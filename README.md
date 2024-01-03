@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Enabling Virtual Thread in Kotlin + Spring Boot](https://www.reddit.com/r/Kotlin/comments/18x3xa8/enabling_virtual_thread_in_kotlin_spring_boot/)
+- [Java vs Kotlin](https://www.reddit.com/r/Kotlin/comments/18wwxiu/java_vs_kotlin/)
+- [Newbieee](https://www.reddit.com/r/Kotlin/comments/18wte56/newbieee/)
+- [Why functions for standard library behavior instead of methods?](https://www.reddit.com/r/Kotlin/comments/18wt7vh/why_functions_for_standard_library_behavior/)
+- [i created my first app using jetpack compose](https://www.reddit.com/r/Kotlin/comments/18wmxg2/i_created_my_first_app_using_jetpack_compose/)
 - [Inflating xml and show it from Service](https://www.reddit.com/r/Kotlin/comments/18vt7yc/inflating_xml_and_show_it_from_service/)
 - [I just ported the best Scala pretty-printing library into Kotlin](https://www.reddit.com/r/Kotlin/comments/18vqiwi/i_just_ported_the_best_scala_prettyprinting/)
 - [Background Noise Removal in realtime](https://www.reddit.com/r/Kotlin/comments/18vj5t4/background_noise_removal_in_realtime/)
 - [Experienced beginner syntax/scope confusion overloading constructor](https://www.reddit.com/r/Kotlin/comments/18vfddr/experienced_beginner_syntaxscope_confusion/)
 - [Variable with ateing](https://www.reddit.com/r/Kotlin/comments/18v8sup/variable_with_ateing/)
-- [[Kotlin Multiplatform, JVM, Android] Sharing Json Resrouces - how?](https://www.reddit.com/r/Kotlin/comments/18v6bh3/kotlin_multiplatform_jvm_android_sharing_json/)
-- [Property Accessor Behaviour](https://www.reddit.com/r/Kotlin/comments/18ugfh8/property_accessor_behaviour/)
-- [Beginner at Kotlin. Need help using Gradle.](https://www.reddit.com/r/Kotlin/comments/18ubasx/beginner_at_kotlin_need_help_using_gradle/)
-- [The golden age of Kotlin and its uncertain future](https://www.reddit.com/r/Kotlin/comments/18tz48a/the_golden_age_of_kotlin_and_its_uncertain_future/)
-- [Optional Lenses for Kotlin Maps](https://www.reddit.com/r/Kotlin/comments/18tm7mp/optional_lenses_for_kotlin_maps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
