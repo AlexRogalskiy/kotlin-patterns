@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beginner need help](https://www.reddit.com/r/Kotlin/comments/18xguw8/beginner_need_help/)
+- [Open Source Kotlin Projects](https://www.reddit.com/r/Kotlin/comments/18x7axk/open_source_kotlin_projects/)
 - [Enabling Virtual Thread in Kotlin + Spring Boot](https://www.reddit.com/r/Kotlin/comments/18x3xa8/enabling_virtual_thread_in_kotlin_spring_boot/)
 - [Java vs Kotlin](https://www.reddit.com/r/Kotlin/comments/18wwxiu/java_vs_kotlin/)
 - [Newbieee](https://www.reddit.com/r/Kotlin/comments/18wte56/newbieee/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Inflating xml and show it from Service](https://www.reddit.com/r/Kotlin/comments/18vt7yc/inflating_xml_and_show_it_from_service/)
 - [I just ported the best Scala pretty-printing library into Kotlin](https://www.reddit.com/r/Kotlin/comments/18vqiwi/i_just_ported_the_best_scala_prettyprinting/)
 - [Background Noise Removal in realtime](https://www.reddit.com/r/Kotlin/comments/18vj5t4/background_noise_removal_in_realtime/)
-- [Experienced beginner syntax/scope confusion overloading constructor](https://www.reddit.com/r/Kotlin/comments/18vfddr/experienced_beginner_syntaxscope_confusion/)
-- [Variable with ateing](https://www.reddit.com/r/Kotlin/comments/18v8sup/variable_with_ateing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
