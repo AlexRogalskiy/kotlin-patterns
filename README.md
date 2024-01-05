@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beginner Help for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/18yu211/beginner_help_for_compose_multiplatform/)
+- [Kotlin App Rooms database migrations](https://www.reddit.com/r/Kotlin/comments/18ylb4x/kotlin_app_rooms_database_migrations/)
+- [Seeking Google Professionals and Community Members Experienced with Kotlin for Documentary Project](https://www.reddit.com/r/Kotlin/comments/18ygq3l/seeking_google_professionals_and_community/)
+- [What are your thoughts on Decompose in KMP?](https://www.reddit.com/r/Kotlin/comments/18ycsk7/what_are_your_thoughts_on_decompose_in_kmp/)
+- [Comparing data class vs packed representation using a value class. Why is my benchmark so slow for packed representation?](https://www.reddit.com/r/Kotlin/comments/18y5mhw/comparing_data_class_vs_packed_representation/)
+- [Is kotlin multiplatform great for connecting backend to fronted on both web and mobile simultaneously?](https://www.reddit.com/r/Kotlin/comments/18y5mgv/is_kotlin_multiplatform_great_for_connecting/)
+- [Where to find good tutorials? Kotlin + gRPC + Gradle using Intellij](https://www.reddit.com/r/Kotlin/comments/18y2ei1/where_to_find_good_tutorials_kotlin_grpc_gradle/)
 - [Beginner need help](https://www.reddit.com/r/Kotlin/comments/18xguw8/beginner_need_help/)
 - [Open Source Kotlin Projects](https://www.reddit.com/r/Kotlin/comments/18x7axk/open_source_kotlin_projects/)
 - [Enabling Virtual Thread in Kotlin + Spring Boot](https://www.reddit.com/r/Kotlin/comments/18x3xa8/enabling_virtual_thread_in_kotlin_spring_boot/)
-- [Java vs Kotlin](https://www.reddit.com/r/Kotlin/comments/18wwxiu/java_vs_kotlin/)
-- [Newbieee](https://www.reddit.com/r/Kotlin/comments/18wte56/newbieee/)
-- [Why functions for standard library behavior instead of methods?](https://www.reddit.com/r/Kotlin/comments/18wt7vh/why_functions_for_standard_library_behavior/)
-- [i created my first app using jetpack compose](https://www.reddit.com/r/Kotlin/comments/18wmxg2/i_created_my_first_app_using_jetpack_compose/)
-- [Inflating xml and show it from Service](https://www.reddit.com/r/Kotlin/comments/18vt7yc/inflating_xml_and_show_it_from_service/)
-- [I just ported the best Scala pretty-printing library into Kotlin](https://www.reddit.com/r/Kotlin/comments/18vqiwi/i_just_ported_the_best_scala_prettyprinting/)
-- [Background Noise Removal in realtime](https://www.reddit.com/r/Kotlin/comments/18vj5t4/background_noise_removal_in_realtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
