@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone use non-IDEA for Kotlin development?](https://www.reddit.com/r/Kotlin/comments/18zbve4/does_anyone_use_nonidea_for_kotlin_development/)
+- [Passwordless account verification with SMS Jetpack Compose App](https://www.reddit.com/r/Kotlin/comments/18zapi3/passwordless_account_verification_with_sms/)
+- [the future of kotlin](https://www.reddit.com/r/Kotlin/comments/18zaefk/the_future_of_kotlin/)
+- [Listening to the Types](https://www.reddit.com/r/Kotlin/comments/18z72r2/listening_to_the_types/)
+- [Anyone is using anything other than IntelliJ IDEA for Kotlin development?](https://www.reddit.com/r/Kotlin/comments/18z53or/anyone_is_using_anything_other_than_intellij_idea/)
+- [Does there exist a compose multiplatform library for drawing node graphs?](https://www.reddit.com/r/Kotlin/comments/18yynap/does_there_exist_a_compose_multiplatform_library/)
 - [Beginner Help for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/18yu211/beginner_help_for_compose_multiplatform/)
 - [Kotlin App Rooms database migrations](https://www.reddit.com/r/Kotlin/comments/18ylb4x/kotlin_app_rooms_database_migrations/)
 - [Seeking Google Professionals and Community Members Experienced with Kotlin for Documentary Project](https://www.reddit.com/r/Kotlin/comments/18ygq3l/seeking_google_professionals_and_community/)
 - [What are your thoughts on Decompose in KMP?](https://www.reddit.com/r/Kotlin/comments/18ycsk7/what_are_your_thoughts_on_decompose_in_kmp/)
-- [Comparing data class vs packed representation using a value class. Why is my benchmark so slow for packed representation?](https://www.reddit.com/r/Kotlin/comments/18y5mhw/comparing_data_class_vs_packed_representation/)
-- [Is kotlin multiplatform great for connecting backend to fronted on both web and mobile simultaneously?](https://www.reddit.com/r/Kotlin/comments/18y5mgv/is_kotlin_multiplatform_great_for_connecting/)
-- [Where to find good tutorials? Kotlin + gRPC + Gradle using Intellij](https://www.reddit.com/r/Kotlin/comments/18y2ei1/where_to_find_good_tutorials_kotlin_grpc_gradle/)
-- [Beginner need help](https://www.reddit.com/r/Kotlin/comments/18xguw8/beginner_need_help/)
-- [Open Source Kotlin Projects](https://www.reddit.com/r/Kotlin/comments/18x7axk/open_source_kotlin_projects/)
-- [Enabling Virtual Thread in Kotlin + Spring Boot](https://www.reddit.com/r/Kotlin/comments/18x3xa8/enabling_virtual_thread_in_kotlin_spring_boot/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
