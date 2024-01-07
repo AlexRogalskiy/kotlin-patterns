@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [can someone help me understand the &quot;correct&quot; way of using coroutines?](https://www.reddit.com/r/Kotlin/comments/1906o3i/can_someone_help_me_understand_the_correct_way_of/)
+- [Kotlin from Scala perspective: Advent Of Code 2023](https://www.reddit.com/r/Kotlin/comments/18zzec3/kotlin_from_scala_perspective_advent_of_code_2023/)
+- [How many years does it take to become a proffesional software engineer?](https://www.reddit.com/r/Kotlin/comments/18zwvgy/how_many_years_does_it_take_to_become_a/)
+- [anyone here use just neovim/helix &lpar;and no jetbrains&rpar; for server kotlin dev?](https://www.reddit.com/r/Kotlin/comments/18zvujp/anyone_here_use_just_neovimhelix_and_no_jetbrains/)
+- [In need of Help on code. I have been stuck on this for multiple days](https://www.reddit.com/r/Kotlin/comments/18zu06z/in_need_of_help_on_code_i_have_been_stuck_on_this/)
+- [[Help] Dealing with mutableStateOf in a class and serialization](https://www.reddit.com/r/Kotlin/comments/18zpmal/help_dealing_with_mutablestateof_in_a_class_and/)
 - [Does anyone use non-IDEA for Kotlin development?](https://www.reddit.com/r/Kotlin/comments/18zbve4/does_anyone_use_nonidea_for_kotlin_development/)
-- [Passwordless account verification with SMS Jetpack Compose App](https://www.reddit.com/r/Kotlin/comments/18zapi3/passwordless_account_verification_with_sms/)
 - [the future of kotlin](https://www.reddit.com/r/Kotlin/comments/18zaefk/the_future_of_kotlin/)
 - [Listening to the Types](https://www.reddit.com/r/Kotlin/comments/18z72r2/listening_to_the_types/)
 - [Anyone is using anything other than IntelliJ IDEA for Kotlin development?](https://www.reddit.com/r/Kotlin/comments/18z53or/anyone_is_using_anything_other_than_intellij_idea/)
-- [Does there exist a compose multiplatform library for drawing node graphs?](https://www.reddit.com/r/Kotlin/comments/18yynap/does_there_exist_a_compose_multiplatform_library/)
-- [Beginner Help for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/18yu211/beginner_help_for_compose_multiplatform/)
-- [Kotlin App Rooms database migrations](https://www.reddit.com/r/Kotlin/comments/18ylb4x/kotlin_app_rooms_database_migrations/)
-- [Seeking Google Professionals and Community Members Experienced with Kotlin for Documentary Project](https://www.reddit.com/r/Kotlin/comments/18ygq3l/seeking_google_professionals_and_community/)
-- [What are your thoughts on Decompose in KMP?](https://www.reddit.com/r/Kotlin/comments/18ycsk7/what_are_your_thoughts_on_decompose_in_kmp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
