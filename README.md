@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktoml 0.5.1 released](https://www.reddit.com/r/Kotlin/comments/1912r7h/ktoml_051_released/)
+- [JetBack Compose library](https://www.reddit.com/r/Kotlin/comments/1912fxu/jetback_compose_library/)
+- [Kotlin Newbie](https://www.reddit.com/r/Kotlin/comments/190m0bs/kotlin_newbie/)
+- [What is wrong with my code?](https://www.reddit.com/r/Kotlin/comments/190lknf/what_is_wrong_with_my_code/)
+- [brackets in the context of an interface](https://www.reddit.com/r/Kotlin/comments/190i37b/brackets_in_the_context_of_an_interface/)
 - [can someone help me understand the &quot;correct&quot; way of using coroutines?](https://www.reddit.com/r/Kotlin/comments/1906o3i/can_someone_help_me_understand_the_correct_way_of/)
 - [Kotlin from Scala perspective: Advent Of Code 2023](https://www.reddit.com/r/Kotlin/comments/18zzec3/kotlin_from_scala_perspective_advent_of_code_2023/)
 - [How many years does it take to become a proffesional software engineer?](https://www.reddit.com/r/Kotlin/comments/18zwvgy/how_many_years_does_it_take_to_become_a/)
 - [anyone here use just neovim/helix &lpar;and no jetbrains&rpar; for server kotlin dev?](https://www.reddit.com/r/Kotlin/comments/18zvujp/anyone_here_use_just_neovimhelix_and_no_jetbrains/)
 - [In need of Help on code. I have been stuck on this for multiple days](https://www.reddit.com/r/Kotlin/comments/18zu06z/in_need_of_help_on_code_i_have_been_stuck_on_this/)
-- [[Help] Dealing with mutableStateOf in a class and serialization](https://www.reddit.com/r/Kotlin/comments/18zpmal/help_dealing_with_mutablestateof_in_a_class_and/)
-- [Does anyone use non-IDEA for Kotlin development?](https://www.reddit.com/r/Kotlin/comments/18zbve4/does_anyone_use_nonidea_for_kotlin_development/)
-- [the future of kotlin](https://www.reddit.com/r/Kotlin/comments/18zaefk/the_future_of_kotlin/)
-- [Listening to the Types](https://www.reddit.com/r/Kotlin/comments/18z72r2/listening_to_the_types/)
-- [Anyone is using anything other than IntelliJ IDEA for Kotlin development?](https://www.reddit.com/r/Kotlin/comments/18z53or/anyone_is_using_anything_other_than_intellij_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
