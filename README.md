@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&#39;m having problems using tflite interpreter in Kotlin.](https://www.reddit.com/r/Kotlin/comments/1920war/im_having_problems_using_tflite_interpreter_in/)
+- [Can someone explain why is the value is different in the console from the assigned value? &lpar;I&#39;m very much a beginner in coding&rpar;](https://www.reddit.com/r/Kotlin/comments/191xmh8/can_someone_explain_why_is_the_value_is_different/)
+- [Apple in-app purchases](https://www.reddit.com/r/Kotlin/comments/191xc28/apple_inapp_purchases/)
+- [Adding custom metadata to video](https://www.reddit.com/r/Kotlin/comments/191nici/adding_custom_metadata_to_video/)
+- [Open Source Android App - Translate Screen and Comics.](https://www.reddit.com/r/Kotlin/comments/191n8p6/open_source_android_app_translate_screen_and/)
+- [How to Make a Clean Architecture App with Kotlin and Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/191mh1y/how_to_make_a_clean_architecture_app_with_kotlin/)
+- [Check out our updated Kotlin roadmap](https://www.reddit.com/r/Kotlin/comments/191l9xl/check_out_our_updated_kotlin_roadmap/)
+- [MVVM?](https://www.reddit.com/r/Kotlin/comments/191fmgz/mvvm/)
 - [Ktoml 0.5.1 released](https://www.reddit.com/r/Kotlin/comments/1912r7h/ktoml_051_released/)
 - [JetBack Compose library](https://www.reddit.com/r/Kotlin/comments/1912fxu/jetback_compose_library/)
-- [Kotlin Newbie](https://www.reddit.com/r/Kotlin/comments/190m0bs/kotlin_newbie/)
-- [What is wrong with my code?](https://www.reddit.com/r/Kotlin/comments/190lknf/what_is_wrong_with_my_code/)
-- [brackets in the context of an interface](https://www.reddit.com/r/Kotlin/comments/190i37b/brackets_in_the_context_of_an_interface/)
-- [can someone help me understand the &quot;correct&quot; way of using coroutines?](https://www.reddit.com/r/Kotlin/comments/1906o3i/can_someone_help_me_understand_the_correct_way_of/)
-- [Kotlin from Scala perspective: Advent Of Code 2023](https://www.reddit.com/r/Kotlin/comments/18zzec3/kotlin_from_scala_perspective_advent_of_code_2023/)
-- [How many years does it take to become a proffesional software engineer?](https://www.reddit.com/r/Kotlin/comments/18zwvgy/how_many_years_does_it_take_to_become_a/)
-- [anyone here use just neovim/helix &lpar;and no jetbrains&rpar; for server kotlin dev?](https://www.reddit.com/r/Kotlin/comments/18zvujp/anyone_here_use_just_neovimhelix_and_no_jetbrains/)
-- [In need of Help on code. I have been stuck on this for multiple days](https://www.reddit.com/r/Kotlin/comments/18zu06z/in_need_of_help_on_code_i_have_been_stuck_on_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
