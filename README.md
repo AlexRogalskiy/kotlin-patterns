@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I&#39;m having problems using tflite interpreter in Kotlin.](https://www.reddit.com/r/Kotlin/comments/1920war/im_having_problems_using_tflite_interpreter_in/)
+- [Using existing kotlin source code to export to ios](https://www.reddit.com/r/Kotlin/comments/192tldd/using_existing_kotlin_source_code_to_export_to_ios/)
+- [Beginner help AWS iot](https://www.reddit.com/r/Kotlin/comments/192m87t/beginner_help_aws_iot/)
+- [Kotlin + Spring Multi module Template&lpar;github&rpar;](https://www.reddit.com/r/Kotlin/comments/192axwq/kotlin_spring_multi_module_templategithub/)
+- [🚀 AnyPass v0.2.0](https://www.reddit.com/r/Kotlin/comments/1929sa5/anypass_v020/)
+- [Have you used Ktor for your web backend?](https://www.reddit.com/r/Kotlin/comments/19293s5/have_you_used_ktor_for_your_web_backend/)
+- [Hello Kotlin enjoyers , i am a noob JS Dev , and i have a doubt](https://www.reddit.com/r/Kotlin/comments/1928j40/hello_kotlin_enjoyers_i_am_a_noob_js_dev_and_i/)
+- [Can someone explain me the concept of delegations &lpar;interfaces and helping classes&rpar; in a friendly beiginner way please &lpar;I&#39;m learning kotlin&rpar;? I simply can&#39;t understand it 😅.](https://www.reddit.com/r/Kotlin/comments/1928bzd/can_someone_explain_me_the_concept_of_delegations/)
 - [Can someone explain why is the value is different in the console from the assigned value? &lpar;I&#39;m very much a beginner in coding&rpar;](https://www.reddit.com/r/Kotlin/comments/191xmh8/can_someone_explain_why_is_the_value_is_different/)
 - [Apple in-app purchases](https://www.reddit.com/r/Kotlin/comments/191xc28/apple_inapp_purchases/)
 - [Adding custom metadata to video](https://www.reddit.com/r/Kotlin/comments/191nici/adding_custom_metadata_to_video/)
-- [Open Source Android App - Translate Screen and Comics.](https://www.reddit.com/r/Kotlin/comments/191n8p6/open_source_android_app_translate_screen_and/)
-- [How to Make a Clean Architecture App with Kotlin and Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/191mh1y/how_to_make_a_clean_architecture_app_with_kotlin/)
-- [Check out our updated Kotlin roadmap](https://www.reddit.com/r/Kotlin/comments/191l9xl/check_out_our_updated_kotlin_roadmap/)
-- [MVVM?](https://www.reddit.com/r/Kotlin/comments/191fmgz/mvvm/)
-- [Ktoml 0.5.1 released](https://www.reddit.com/r/Kotlin/comments/1912r7h/ktoml_051_released/)
-- [JetBack Compose library](https://www.reddit.com/r/Kotlin/comments/1912fxu/jetback_compose_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
