@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Python in kotlin](https://www.reddit.com/r/Kotlin/comments/193kvzu/python_in_kotlin/)
+- [Expanding my mobile stack with Kotlin?](https://www.reddit.com/r/Kotlin/comments/193hwwo/expanding_my_mobile_stack_with_kotlin/)
+- [The Kotlin Primer has a new home](https://www.reddit.com/r/Kotlin/comments/193hkv4/the_kotlin_primer_has_a_new_home/)
+- [Problems With Finalizer](https://www.reddit.com/r/Kotlin/comments/1937r3b/problems_with_finalizer/)
+- [what backend tool would you recommend for app development?](https://www.reddit.com/r/Kotlin/comments/1936ryb/what_backend_tool_would_you_recommend_for_app/)
+- [Major update of first open-source Kotlin Multi-platform 3D globe engine WorldWindKotlin 1.4.0](https://www.reddit.com/r/Kotlin/comments/1936l24/major_update_of_first_opensource_kotlin/)
+- [MVI?](https://www.reddit.com/r/Kotlin/comments/1932jvs/mvi/)
 - [Using existing kotlin source code to export to ios](https://www.reddit.com/r/Kotlin/comments/192tldd/using_existing_kotlin_source_code_to_export_to_ios/)
 - [Beginner help AWS iot](https://www.reddit.com/r/Kotlin/comments/192m87t/beginner_help_aws_iot/)
 - [Kotlin + Spring Multi module Template&lpar;github&rpar;](https://www.reddit.com/r/Kotlin/comments/192axwq/kotlin_spring_multi_module_templategithub/)
-- [🚀 AnyPass v0.2.0](https://www.reddit.com/r/Kotlin/comments/1929sa5/anypass_v020/)
-- [Have you used Ktor for your web backend?](https://www.reddit.com/r/Kotlin/comments/19293s5/have_you_used_ktor_for_your_web_backend/)
-- [Hello Kotlin enjoyers , i am a noob JS Dev , and i have a doubt](https://www.reddit.com/r/Kotlin/comments/1928j40/hello_kotlin_enjoyers_i_am_a_noob_js_dev_and_i/)
-- [Can someone explain me the concept of delegations &lpar;interfaces and helping classes&rpar; in a friendly beiginner way please &lpar;I&#39;m learning kotlin&rpar;? I simply can&#39;t understand it 😅.](https://www.reddit.com/r/Kotlin/comments/1928bzd/can_someone_explain_me_the_concept_of_delegations/)
-- [Can someone explain why is the value is different in the console from the assigned value? &lpar;I&#39;m very much a beginner in coding&rpar;](https://www.reddit.com/r/Kotlin/comments/191xmh8/can_someone_explain_why_is_the_value_is_different/)
-- [Apple in-app purchases](https://www.reddit.com/r/Kotlin/comments/191xc28/apple_inapp_purchases/)
-- [Adding custom metadata to video](https://www.reddit.com/r/Kotlin/comments/191nici/adding_custom_metadata_to_video/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
