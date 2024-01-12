@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Take the Kotlin Documentation Survey!](https://www.reddit.com/r/Kotlin/comments/19403xc/take_the_kotlin_documentation_survey/)
+- [One git repo with multiple individual Gradle projects, how to build these projects individually?](https://www.reddit.com/r/Kotlin/comments/193zl32/one_git_repo_with_multiple_individual_gradle/)
+- [What are the best practices for writing AWS Lambda functions in Kotlin?](https://www.reddit.com/r/Kotlin/comments/193vf1q/what_are_the_best_practices_for_writing_aws/)
+- [I have experience with HTML/CSS but Kotlin is better suited for my end game goals.](https://www.reddit.com/r/Kotlin/comments/193v6ys/i_have_experience_with_htmlcss_but_kotlin_is/)
+- [Kotlin port of webcam-capture: A library for reading images from webcam devices.](https://www.reddit.com/r/Kotlin/comments/193tno6/kotlin_port_of_webcamcapture_a_library_for/)
 - [Python in kotlin](https://www.reddit.com/r/Kotlin/comments/193kvzu/python_in_kotlin/)
 - [Expanding my mobile stack with Kotlin?](https://www.reddit.com/r/Kotlin/comments/193hwwo/expanding_my_mobile_stack_with_kotlin/)
 - [The Kotlin Primer has a new home](https://www.reddit.com/r/Kotlin/comments/193hkv4/the_kotlin_primer_has_a_new_home/)
 - [Problems With Finalizer](https://www.reddit.com/r/Kotlin/comments/1937r3b/problems_with_finalizer/)
 - [what backend tool would you recommend for app development?](https://www.reddit.com/r/Kotlin/comments/1936ryb/what_backend_tool_would_you_recommend_for_app/)
-- [Major update of first open-source Kotlin Multi-platform 3D globe engine WorldWindKotlin 1.4.0](https://www.reddit.com/r/Kotlin/comments/1936l24/major_update_of_first_opensource_kotlin/)
-- [MVI?](https://www.reddit.com/r/Kotlin/comments/1932jvs/mvi/)
-- [Using existing kotlin source code to export to ios](https://www.reddit.com/r/Kotlin/comments/192tldd/using_existing_kotlin_source_code_to_export_to_ios/)
-- [Beginner help AWS iot](https://www.reddit.com/r/Kotlin/comments/192m87t/beginner_help_aws_iot/)
-- [Kotlin + Spring Multi module Template&lpar;github&rpar;](https://www.reddit.com/r/Kotlin/comments/192axwq/kotlin_spring_multi_module_templategithub/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
