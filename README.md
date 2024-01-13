@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SDK selection and Kotlin projects](https://www.reddit.com/r/Kotlin/comments/1951qwc/sdk_selection_and_kotlin_projects/)
+- [Extending date class with &#39;infinitely far future and past&#39;](https://www.reddit.com/r/Kotlin/comments/194z51n/extending_date_class_with_infinitely_far_future/)
+- [Type Driven Development in Kotlin - Extending the Bowling Kata](https://www.reddit.com/r/Kotlin/comments/194t8zr/type_driven_development_in_kotlin_extending_the/)
+- [Ssl pinning](https://www.reddit.com/r/Kotlin/comments/194o0pp/ssl_pinning/)
 - [Take the Kotlin Documentation Survey!](https://www.reddit.com/r/Kotlin/comments/19403xc/take_the_kotlin_documentation_survey/)
 - [One git repo with multiple individual Gradle projects, how to build these projects individually?](https://www.reddit.com/r/Kotlin/comments/193zl32/one_git_repo_with_multiple_individual_gradle/)
 - [What are the best practices for writing AWS Lambda functions in Kotlin?](https://www.reddit.com/r/Kotlin/comments/193vf1q/what_are_the_best_practices_for_writing_aws/)
 - [I have experience with HTML/CSS but Kotlin is better suited for my end game goals.](https://www.reddit.com/r/Kotlin/comments/193v6ys/i_have_experience_with_htmlcss_but_kotlin_is/)
 - [Kotlin port of webcam-capture: A library for reading images from webcam devices.](https://www.reddit.com/r/Kotlin/comments/193tno6/kotlin_port_of_webcamcapture_a_library_for/)
 - [Python in kotlin](https://www.reddit.com/r/Kotlin/comments/193kvzu/python_in_kotlin/)
-- [Expanding my mobile stack with Kotlin?](https://www.reddit.com/r/Kotlin/comments/193hwwo/expanding_my_mobile_stack_with_kotlin/)
-- [The Kotlin Primer has a new home](https://www.reddit.com/r/Kotlin/comments/193hkv4/the_kotlin_primer_has_a_new_home/)
-- [Problems With Finalizer](https://www.reddit.com/r/Kotlin/comments/1937r3b/problems_with_finalizer/)
-- [what backend tool would you recommend for app development?](https://www.reddit.com/r/Kotlin/comments/1936ryb/what_backend_tool_would_you_recommend_for_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
