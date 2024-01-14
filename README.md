@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anybody else like to make a companion object inside of a class for the main function because they&#39;re used to Java?](https://www.reddit.com/r/Kotlin/comments/195w776/does_anybody_else_like_to_make_a_companion_object/)
+- [lib for filtering ascii files ?](https://www.reddit.com/r/Kotlin/comments/195k46c/lib_for_filtering_ascii_files/)
 - [SDK selection and Kotlin projects](https://www.reddit.com/r/Kotlin/comments/1951qwc/sdk_selection_and_kotlin_projects/)
 - [Extending date class with &#39;infinitely far future and past&#39;](https://www.reddit.com/r/Kotlin/comments/194z51n/extending_date_class_with_infinitely_far_future/)
 - [Type Driven Development in Kotlin - Extending the Bowling Kata](https://www.reddit.com/r/Kotlin/comments/194t8zr/type_driven_development_in_kotlin_extending_the/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [One git repo with multiple individual Gradle projects, how to build these projects individually?](https://www.reddit.com/r/Kotlin/comments/193zl32/one_git_repo_with_multiple_individual_gradle/)
 - [What are the best practices for writing AWS Lambda functions in Kotlin?](https://www.reddit.com/r/Kotlin/comments/193vf1q/what_are_the_best_practices_for_writing_aws/)
 - [I have experience with HTML/CSS but Kotlin is better suited for my end game goals.](https://www.reddit.com/r/Kotlin/comments/193v6ys/i_have_experience_with_htmlcss_but_kotlin_is/)
-- [Kotlin port of webcam-capture: A library for reading images from webcam devices.](https://www.reddit.com/r/Kotlin/comments/193tno6/kotlin_port_of_webcamcapture_a_library_for/)
-- [Python in kotlin](https://www.reddit.com/r/Kotlin/comments/193kvzu/python_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
