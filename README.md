@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TimerTask will wait for return?](https://www.reddit.com/r/Kotlin/comments/196f07z/timertask_will_wait_for_return/)
 - [Does anybody else like to make a companion object inside of a class for the main function because they&#39;re used to Java?](https://www.reddit.com/r/Kotlin/comments/195w776/does_anybody_else_like_to_make_a_companion_object/)
 - [lib for filtering ascii files ?](https://www.reddit.com/r/Kotlin/comments/195k46c/lib_for_filtering_ascii_files/)
 - [SDK selection and Kotlin projects](https://www.reddit.com/r/Kotlin/comments/1951qwc/sdk_selection_and_kotlin_projects/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Take the Kotlin Documentation Survey!](https://www.reddit.com/r/Kotlin/comments/19403xc/take_the_kotlin_documentation_survey/)
 - [One git repo with multiple individual Gradle projects, how to build these projects individually?](https://www.reddit.com/r/Kotlin/comments/193zl32/one_git_repo_with_multiple_individual_gradle/)
 - [What are the best practices for writing AWS Lambda functions in Kotlin?](https://www.reddit.com/r/Kotlin/comments/193vf1q/what_are_the_best_practices_for_writing_aws/)
-- [I have experience with HTML/CSS but Kotlin is better suited for my end game goals.](https://www.reddit.com/r/Kotlin/comments/193v6ys/i_have_experience_with_htmlcss_but_kotlin_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
