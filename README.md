@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Micro-optimizations in Kotlin](https://www.reddit.com/r/Kotlin/comments/197nu9l/microoptimizations_in_kotlin/)
+- [What are some good books for advanced/expert level.](https://www.reddit.com/r/Kotlin/comments/197ftjv/what_are_some_good_books_for_advancedexpert_level/)
+- [Any idea about the imports or libraries or dependencies I need for this code to work](https://www.reddit.com/r/Kotlin/comments/1976er9/any_idea_about_the_imports_or_libraries_or/)
+- [[Reinvent the Wheel] A Custom Implementation of BigInteger in Kotlin](https://www.reddit.com/r/Kotlin/comments/1972nb9/reinvent_the_wheel_a_custom_implementation_of/)
+- [What&#39;s the scoop on Jimmer ORM?](https://www.reddit.com/r/Kotlin/comments/196yo3e/whats_the_scoop_on_jimmer_orm/)
 - [TimerTask will wait for return?](https://www.reddit.com/r/Kotlin/comments/196f07z/timertask_will_wait_for_return/)
 - [Does anybody else like to make a companion object inside of a class for the main function because they&#39;re used to Java?](https://www.reddit.com/r/Kotlin/comments/195w776/does_anybody_else_like_to_make_a_companion_object/)
 - [lib for filtering ascii files ?](https://www.reddit.com/r/Kotlin/comments/195k46c/lib_for_filtering_ascii_files/)
 - [SDK selection and Kotlin projects](https://www.reddit.com/r/Kotlin/comments/1951qwc/sdk_selection_and_kotlin_projects/)
 - [Extending date class with &#39;infinitely far future and past&#39;](https://www.reddit.com/r/Kotlin/comments/194z51n/extending_date_class_with_infinitely_far_future/)
-- [Type Driven Development in Kotlin - Extending the Bowling Kata](https://www.reddit.com/r/Kotlin/comments/194t8zr/type_driven_development_in_kotlin_extending_the/)
-- [Ssl pinning](https://www.reddit.com/r/Kotlin/comments/194o0pp/ssl_pinning/)
-- [Take the Kotlin Documentation Survey!](https://www.reddit.com/r/Kotlin/comments/19403xc/take_the_kotlin_documentation_survey/)
-- [One git repo with multiple individual Gradle projects, how to build these projects individually?](https://www.reddit.com/r/Kotlin/comments/193zl32/one_git_repo_with_multiple_individual_gradle/)
-- [What are the best practices for writing AWS Lambda functions in Kotlin?](https://www.reddit.com/r/Kotlin/comments/193vf1q/what_are_the_best_practices_for_writing_aws/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
