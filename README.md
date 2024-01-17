@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Micro-optimizations in Kotlin — 2](https://www.reddit.com/r/Kotlin/comments/198iy2z/microoptimizations_in_kotlin_2/)
+- [Looking for Ktor/Gradle modular monolith example](https://www.reddit.com/r/Kotlin/comments/198f4n3/looking_for_ktorgradle_modular_monolith_example/)
+- [Concurrent Server Problems](https://www.reddit.com/r/Kotlin/comments/198c2pn/concurrent_server_problems/)
+- [Default Hierarchy Template](https://www.reddit.com/r/Kotlin/comments/1985yfn/default_hierarchy_template/)
+- [Kotlin multiplatform courses or updated course on Kotlin in general that aren&#39;t paid?](https://www.reddit.com/r/Kotlin/comments/19839kc/kotlin_multiplatform_courses_or_updated_course_on/)
+- [How to capture and analyze Thread dumps in Android?](https://www.reddit.com/r/Kotlin/comments/1982o61/how_to_capture_and_analyze_thread_dumps_in_android/)
+- [Kotlin MeetUp in Amsterdam 24th January - Kotlin Flow + Arrow!](https://www.reddit.com/r/Kotlin/comments/1980gii/kotlin_meetup_in_amsterdam_24th_january_kotlin/)
+- [Implementing Automatic Retry for Database Deadlocks in Spring Boot using Spring Retry](https://www.reddit.com/r/Kotlin/comments/197wv0y/implementing_automatic_retry_for_database/)
 - [Micro-optimizations in Kotlin](https://www.reddit.com/r/Kotlin/comments/197nu9l/microoptimizations_in_kotlin/)
 - [What are some good books for advanced/expert level.](https://www.reddit.com/r/Kotlin/comments/197ftjv/what_are_some_good_books_for_advancedexpert_level/)
-- [Any idea about the imports or libraries or dependencies I need for this code to work](https://www.reddit.com/r/Kotlin/comments/1976er9/any_idea_about_the_imports_or_libraries_or/)
-- [[Reinvent the Wheel] A Custom Implementation of BigInteger in Kotlin](https://www.reddit.com/r/Kotlin/comments/1972nb9/reinvent_the_wheel_a_custom_implementation_of/)
-- [What&#39;s the scoop on Jimmer ORM?](https://www.reddit.com/r/Kotlin/comments/196yo3e/whats_the_scoop_on_jimmer_orm/)
-- [TimerTask will wait for return?](https://www.reddit.com/r/Kotlin/comments/196f07z/timertask_will_wait_for_return/)
-- [Does anybody else like to make a companion object inside of a class for the main function because they&#39;re used to Java?](https://www.reddit.com/r/Kotlin/comments/195w776/does_anybody_else_like_to_make_a_companion_object/)
-- [lib for filtering ascii files ?](https://www.reddit.com/r/Kotlin/comments/195k46c/lib_for_filtering_ascii_files/)
-- [SDK selection and Kotlin projects](https://www.reddit.com/r/Kotlin/comments/1951qwc/sdk_selection_and_kotlin_projects/)
-- [Extending date class with &#39;infinitely far future and past&#39;](https://www.reddit.com/r/Kotlin/comments/194z51n/extending_date_class_with_infinitely_far_future/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
