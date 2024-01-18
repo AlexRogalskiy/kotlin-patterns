@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMM: Write file to directory](https://www.reddit.com/r/Kotlin/comments/19932zk/kmm_write_file_to_directory/)
+- [Ktlint, rule that complains about data classes with more than N number of fields, and interfaces with more than N number of methods. Exists?](https://www.reddit.com/r/Kotlin/comments/19905g2/ktlint_rule_that_complains_about_data_classes/)
+- [Illustrated Guide - Sealed Types](https://www.reddit.com/r/Kotlin/comments/198yhyd/illustrated_guide_sealed_types/)
 - [Micro-optimizations in Kotlin — 2](https://www.reddit.com/r/Kotlin/comments/198iy2z/microoptimizations_in_kotlin_2/)
 - [Looking for Ktor/Gradle modular monolith example](https://www.reddit.com/r/Kotlin/comments/198f4n3/looking_for_ktorgradle_modular_monolith_example/)
 - [Concurrent Server Problems](https://www.reddit.com/r/Kotlin/comments/198c2pn/concurrent_server_problems/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin multiplatform courses or updated course on Kotlin in general that aren&#39;t paid?](https://www.reddit.com/r/Kotlin/comments/19839kc/kotlin_multiplatform_courses_or_updated_course_on/)
 - [How to capture and analyze Thread dumps in Android?](https://www.reddit.com/r/Kotlin/comments/1982o61/how_to_capture_and_analyze_thread_dumps_in_android/)
 - [Kotlin MeetUp in Amsterdam 24th January - Kotlin Flow + Arrow!](https://www.reddit.com/r/Kotlin/comments/1980gii/kotlin_meetup_in_amsterdam_24th_january_kotlin/)
-- [Implementing Automatic Retry for Database Deadlocks in Spring Boot using Spring Retry](https://www.reddit.com/r/Kotlin/comments/197wv0y/implementing_automatic_retry_for_database/)
-- [Micro-optimizations in Kotlin](https://www.reddit.com/r/Kotlin/comments/197nu9l/microoptimizations_in_kotlin/)
-- [What are some good books for advanced/expert level.](https://www.reddit.com/r/Kotlin/comments/197ftjv/what_are_some_good_books_for_advancedexpert_level/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
