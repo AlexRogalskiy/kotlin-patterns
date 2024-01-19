@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Guide to Super Fast Kotlin on AWS Lambda](https://www.reddit.com/r/Kotlin/comments/19a6utw/guide_to_super_fast_kotlin_on_aws_lambda/)
+- [Troubles with println&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/19a2i27/troubles_with_println/)
+- [For anyone interested in developing text adventures or visual novels in Kotlin...](https://www.reddit.com/r/Kotlin/comments/199w7t1/for_anyone_interested_in_developing_text/)
+- [I chose Kotlin to get away from Javascript. Did you?](https://www.reddit.com/r/Kotlin/comments/199tytn/i_chose_kotlin_to_get_away_from_javascript_did_you/)
+- [Unresolved reference: format](https://www.reddit.com/r/Kotlin/comments/199njyx/unresolved_reference_format/)
 - [KMM: Write file to directory](https://www.reddit.com/r/Kotlin/comments/19932zk/kmm_write_file_to_directory/)
 - [Ktlint, rule that complains about data classes with more than N number of fields, and interfaces with more than N number of methods. Exists?](https://www.reddit.com/r/Kotlin/comments/19905g2/ktlint_rule_that_complains_about_data_classes/)
 - [Illustrated Guide - Sealed Types](https://www.reddit.com/r/Kotlin/comments/198yhyd/illustrated_guide_sealed_types/)
 - [Micro-optimizations in Kotlin — 2](https://www.reddit.com/r/Kotlin/comments/198iy2z/microoptimizations_in_kotlin_2/)
 - [Looking for Ktor/Gradle modular monolith example](https://www.reddit.com/r/Kotlin/comments/198f4n3/looking_for_ktorgradle_modular_monolith_example/)
-- [Concurrent Server Problems](https://www.reddit.com/r/Kotlin/comments/198c2pn/concurrent_server_problems/)
-- [Default Hierarchy Template](https://www.reddit.com/r/Kotlin/comments/1985yfn/default_hierarchy_template/)
-- [Kotlin multiplatform courses or updated course on Kotlin in general that aren&#39;t paid?](https://www.reddit.com/r/Kotlin/comments/19839kc/kotlin_multiplatform_courses_or_updated_course_on/)
-- [How to capture and analyze Thread dumps in Android?](https://www.reddit.com/r/Kotlin/comments/1982o61/how_to_capture_and_analyze_thread_dumps_in_android/)
-- [Kotlin MeetUp in Amsterdam 24th January - Kotlin Flow + Arrow!](https://www.reddit.com/r/Kotlin/comments/1980gii/kotlin_meetup_in_amsterdam_24th_january_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
