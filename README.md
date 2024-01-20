@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Typesafe RPC?](https://www.reddit.com/r/Kotlin/comments/19avsbc/typesafe_rpc/)
+- [Selfie: a new kind of snapshot testing library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/19asyvd/selfie_a_new_kind_of_snapshot_testing_library_for/)
+- [Rest client API backwards compatibility](https://www.reddit.com/r/Kotlin/comments/19aqtrf/rest_client_api_backwards_compatibility/)
+- [Task commonTest not found in root project](https://www.reddit.com/r/Kotlin/comments/19aokxn/task_commontest_not_found_in_root_project/)
+- [Kotlin Android Book Recommendations?](https://www.reddit.com/r/Kotlin/comments/19aoh0l/kotlin_android_book_recommendations/)
+- [Type Driven Bowling Kata - Part 2](https://www.reddit.com/r/Kotlin/comments/19am4pc/type_driven_bowling_kata_part_2/)
+- [Kotlin Collection in Android Example](https://www.reddit.com/r/Kotlin/comments/19akmcv/kotlin_collection_in_android_example/)
+- [&#39;sealed&#39; sub-object can be converted to &#39;data object&#39;](https://www.reddit.com/r/Kotlin/comments/19ag4g8/sealed_subobject_can_be_converted_to_data_object/)
+- [Newbie, how do I progress?](https://www.reddit.com/r/Kotlin/comments/19acjom/newbie_how_do_i_progress/)
 - [Guide to Super Fast Kotlin on AWS Lambda](https://www.reddit.com/r/Kotlin/comments/19a6utw/guide_to_super_fast_kotlin_on_aws_lambda/)
-- [Troubles with println&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/19a2i27/troubles_with_println/)
-- [For anyone interested in developing text adventures or visual novels in Kotlin...](https://www.reddit.com/r/Kotlin/comments/199w7t1/for_anyone_interested_in_developing_text/)
-- [I chose Kotlin to get away from Javascript. Did you?](https://www.reddit.com/r/Kotlin/comments/199tytn/i_chose_kotlin_to_get_away_from_javascript_did_you/)
-- [Unresolved reference: format](https://www.reddit.com/r/Kotlin/comments/199njyx/unresolved_reference_format/)
-- [KMM: Write file to directory](https://www.reddit.com/r/Kotlin/comments/19932zk/kmm_write_file_to_directory/)
-- [Ktlint, rule that complains about data classes with more than N number of fields, and interfaces with more than N number of methods. Exists?](https://www.reddit.com/r/Kotlin/comments/19905g2/ktlint_rule_that_complains_about_data_classes/)
-- [Illustrated Guide - Sealed Types](https://www.reddit.com/r/Kotlin/comments/198yhyd/illustrated_guide_sealed_types/)
-- [Micro-optimizations in Kotlin — 2](https://www.reddit.com/r/Kotlin/comments/198iy2z/microoptimizations_in_kotlin_2/)
-- [Looking for Ktor/Gradle modular monolith example](https://www.reddit.com/r/Kotlin/comments/198f4n3/looking_for_ktorgradle_modular_monolith_example/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
