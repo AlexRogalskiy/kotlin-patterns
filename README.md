@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Better Hash Map — 1](https://www.reddit.com/r/Kotlin/comments/19bryak/a_better_hash_map_1/)
+- [Kotlinx DateTime seems to miss 0 minute?](https://www.reddit.com/r/Kotlin/comments/19bp67g/kotlinx_datetime_seems_to_miss_0_minute/)
+- [Webview in a widget](https://www.reddit.com/r/Kotlin/comments/19bn1cx/webview_in_a_widget/)
+- [Is there a way to specify the exact name of the Kotlin Native release executable?](https://www.reddit.com/r/Kotlin/comments/19blkpq/is_there_a_way_to_specify_the_exact_name_of_the/)
+- [🔒 Hide secrets with Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/19bcurx/hide_secrets_with_kotlin_multiplatform/)
+- [GitHub - urosjarc/db-analyser: Advance GUI for analysing complex dbs](https://www.reddit.com/r/Kotlin/comments/19b5oy2/github_urosjarcdbanalyser_advance_gui_for/)
+- [Any luck with Compose Multiplatform in the App App Store?](https://www.reddit.com/r/Kotlin/comments/19b2h5n/any_luck_with_compose_multiplatform_in_the_app/)
 - [Typesafe RPC?](https://www.reddit.com/r/Kotlin/comments/19avsbc/typesafe_rpc/)
 - [Selfie: a new kind of snapshot testing library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/19asyvd/selfie_a_new_kind_of_snapshot_testing_library_for/)
 - [Rest client API backwards compatibility](https://www.reddit.com/r/Kotlin/comments/19aqtrf/rest_client_api_backwards_compatibility/)
-- [Task commonTest not found in root project](https://www.reddit.com/r/Kotlin/comments/19aokxn/task_commontest_not_found_in_root_project/)
-- [Kotlin Android Book Recommendations?](https://www.reddit.com/r/Kotlin/comments/19aoh0l/kotlin_android_book_recommendations/)
-- [Type Driven Bowling Kata - Part 2](https://www.reddit.com/r/Kotlin/comments/19am4pc/type_driven_bowling_kata_part_2/)
-- [Kotlin Collection in Android Example](https://www.reddit.com/r/Kotlin/comments/19akmcv/kotlin_collection_in_android_example/)
-- [&#39;sealed&#39; sub-object can be converted to &#39;data object&#39;](https://www.reddit.com/r/Kotlin/comments/19ag4g8/sealed_subobject_can_be_converted_to_data_object/)
-- [Newbie, how do I progress?](https://www.reddit.com/r/Kotlin/comments/19acjom/newbie_how_do_i_progress/)
-- [Guide to Super Fast Kotlin on AWS Lambda](https://www.reddit.com/r/Kotlin/comments/19a6utw/guide_to_super_fast_kotlin_on_aws_lambda/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
