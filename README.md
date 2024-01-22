@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help to Newbie](https://www.reddit.com/r/Kotlin/comments/19bvwmc/help_to_newbie/)
 - [A Better Hash Map — 1](https://www.reddit.com/r/Kotlin/comments/19bryak/a_better_hash_map_1/)
 - [Kotlinx DateTime seems to miss 0 minute?](https://www.reddit.com/r/Kotlin/comments/19bp67g/kotlinx_datetime_seems_to_miss_0_minute/)
 - [Webview in a widget](https://www.reddit.com/r/Kotlin/comments/19bn1cx/webview_in_a_widget/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Any luck with Compose Multiplatform in the App App Store?](https://www.reddit.com/r/Kotlin/comments/19b2h5n/any_luck_with_compose_multiplatform_in_the_app/)
 - [Typesafe RPC?](https://www.reddit.com/r/Kotlin/comments/19avsbc/typesafe_rpc/)
 - [Selfie: a new kind of snapshot testing library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/19asyvd/selfie_a_new_kind_of_snapshot_testing_library_for/)
-- [Rest client API backwards compatibility](https://www.reddit.com/r/Kotlin/comments/19aqtrf/rest_client_api_backwards_compatibility/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
