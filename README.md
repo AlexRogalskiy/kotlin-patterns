@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any good Kotlin IRC libraries out there?](https://www.reddit.com/r/Kotlin/comments/19d8mta/any_good_kotlin_irc_libraries_out_there/)
+- [When I upgrade any implementation in dependencies in android studio I get errors in my activity with the imports](https://www.reddit.com/r/Kotlin/comments/19d4020/when_i_upgrade_any_implementation_in_dependencies/)
+- [Kotest Lifecycle Question](https://www.reddit.com/r/Kotlin/comments/19d186e/kotest_lifecycle_question/)
+- [In a good way, as a Kotlin dev. Asking seriously why I need Ktor if I can use Spring Boot which is popular worldwide. Ktor should be flexible and lightweight for building asynch server-side apps but I&#39;m used to spring, should I make the move?](https://www.reddit.com/r/Kotlin/comments/19crdfa/in_a_good_way_as_a_kotlin_dev_asking_seriously/)
+- [UNRESOLVED REFERENCE GET](https://www.reddit.com/r/Kotlin/comments/19cqwov/unresolved_reference_get/)
 - [Help to Newbie](https://www.reddit.com/r/Kotlin/comments/19bvwmc/help_to_newbie/)
 - [A Better Hash Map — 1](https://www.reddit.com/r/Kotlin/comments/19bryak/a_better_hash_map_1/)
 - [Kotlinx DateTime seems to miss 0 minute?](https://www.reddit.com/r/Kotlin/comments/19bp67g/kotlinx_datetime_seems_to_miss_0_minute/)
 - [Webview in a widget](https://www.reddit.com/r/Kotlin/comments/19bn1cx/webview_in_a_widget/)
 - [Is there a way to specify the exact name of the Kotlin Native release executable?](https://www.reddit.com/r/Kotlin/comments/19blkpq/is_there_a_way_to_specify_the_exact_name_of_the/)
-- [🔒 Hide secrets with Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/19bcurx/hide_secrets_with_kotlin_multiplatform/)
-- [GitHub - urosjarc/db-analyser: Advance GUI for analysing complex dbs](https://www.reddit.com/r/Kotlin/comments/19b5oy2/github_urosjarcdbanalyser_advance_gui_for/)
-- [Any luck with Compose Multiplatform in the App App Store?](https://www.reddit.com/r/Kotlin/comments/19b2h5n/any_luck_with_compose_multiplatform_in_the_app/)
-- [Typesafe RPC?](https://www.reddit.com/r/Kotlin/comments/19avsbc/typesafe_rpc/)
-- [Selfie: a new kind of snapshot testing library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/19asyvd/selfie_a_new_kind_of_snapshot_testing_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
