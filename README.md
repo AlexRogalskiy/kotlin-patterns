@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any good Kotlin IRC libraries out there?](https://www.reddit.com/r/Kotlin/comments/19d8mta/any_good_kotlin_irc_libraries_out_there/)
-- [When I upgrade any implementation in dependencies in android studio I get errors in my activity with the imports](https://www.reddit.com/r/Kotlin/comments/19d4020/when_i_upgrade_any_implementation_in_dependencies/)
-- [Kotest Lifecycle Question](https://www.reddit.com/r/Kotlin/comments/19d186e/kotest_lifecycle_question/)
-- [In a good way, as a Kotlin dev. Asking seriously why I need Ktor if I can use Spring Boot which is popular worldwide. Ktor should be flexible and lightweight for building asynch server-side apps but I&#39;m used to spring, should I make the move?](https://www.reddit.com/r/Kotlin/comments/19crdfa/in_a_good_way_as_a_kotlin_dev_asking_seriously/)
-- [UNRESOLVED REFERENCE GET](https://www.reddit.com/r/Kotlin/comments/19cqwov/unresolved_reference_get/)
-- [Help to Newbie](https://www.reddit.com/r/Kotlin/comments/19bvwmc/help_to_newbie/)
-- [A Better Hash Map — 1](https://www.reddit.com/r/Kotlin/comments/19bryak/a_better_hash_map_1/)
-- [Kotlinx DateTime seems to miss 0 minute?](https://www.reddit.com/r/Kotlin/comments/19bp67g/kotlinx_datetime_seems_to_miss_0_minute/)
-- [Webview in a widget](https://www.reddit.com/r/Kotlin/comments/19bn1cx/webview_in_a_widget/)
-- [Is there a way to specify the exact name of the Kotlin Native release executable?](https://www.reddit.com/r/Kotlin/comments/19blkpq/is_there_a_way_to_specify_the_exact_name_of_the/)
+- [Maven repository alternative for Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/19dxgvk/maven_repository_alternative_for_kotlinnative/)
+- [Codesignal/ Coderpad interviews](https://www.reddit.com/r/Kotlin/comments/19dwjdz/codesignal_coderpad_interviews/)
+- [Full screen with center crop](https://www.reddit.com/r/Kotlin/comments/19dwikl/full_screen_with_center_crop/)
+- [generative-ai-kmp: Generative AI SDK for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/19do8hc/generativeaikmp_generative_ai_sdk_for_kotlin/)
+- [Cannot inline bytecode built with JVM target 17 into bytecode that is being built with JVM target 1.8 compile error](https://www.reddit.com/r/Kotlin/comments/19dn8tt/cannot_inline_bytecode_built_with_jvm_target_17/)
+- [App doesn&#39;t open in second launch](https://www.reddit.com/r/Kotlin/comments/19dl2ck/app_doesnt_open_in_second_launch/)
+- [Most interesting thing in the Kotlin world from the last 12 month?](https://www.reddit.com/r/Kotlin/comments/19dkfqs/most_interesting_thing_in_the_kotlin_world_from/)
+- [Kotlin-Algorithms-and-Design-Patterns](https://www.reddit.com/r/Kotlin/comments/19dkapk/kotlinalgorithmsanddesignpatterns/)
+- [Looking to create a new KMM Module](https://www.reddit.com/r/Kotlin/comments/19dihb2/looking_to_create_a_new_kmm_module/)
+- [Lambda body as a sequence of function calls](https://www.reddit.com/r/Kotlin/comments/19dh10o/lambda_body_as_a_sequence_of_function_calls/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
