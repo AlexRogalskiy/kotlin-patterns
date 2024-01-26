@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do you think about using delegation to avoid repetitive implementation of interfaces?](https://www.reddit.com/r/Kotlin/comments/19fn7vl/what_do_you_think_about_using_delegation_to_avoid/)
+- [Do you use Kotlin for your AWS needs?](https://www.reddit.com/r/Kotlin/comments/19fn3ac/do_you_use_kotlin_for_your_aws_needs/)
+- [Publishing koltin multiplatform library: what am I doing wrong?](https://www.reddit.com/r/Kotlin/comments/19fmlbw/publishing_koltin_multiplatform_library_what_am_i/)
+- [Going Old School](https://www.reddit.com/r/Kotlin/comments/19fkfh8/going_old_school/)
+- [what is the best way to manage data with kotlin for wifi fingerprinting](https://www.reddit.com/r/Kotlin/comments/19fcywa/what_is_the_best_way_to_manage_data_with_kotlin/)
+- [What do you think of such thing?](https://www.reddit.com/r/Kotlin/comments/19f6d7n/what_do_you_think_of_such_thing/)
 - [Multiplatform Magic: One Codebase, Three Platforms](https://www.reddit.com/r/Kotlin/comments/19em0vp/multiplatform_magic_one_codebase_three_platforms/)
 - [Try-Catch, runCatching&lpar;&rpar;, and Developer Poll Results](https://www.reddit.com/r/Kotlin/comments/19ej2nw/trycatch_runcatching_and_developer_poll_results/)
 - [Service from Broadcast, less memory?](https://www.reddit.com/r/Kotlin/comments/19egp78/service_from_broadcast_less_memory/)
 - [🚀 Introducing RedPulsar: Lightning-Fast Distributed Systems Locks for Java and Kotlin](https://www.reddit.com/r/Kotlin/comments/19ed96a/introducing_redpulsar_lightningfast_distributed/)
-- [Maven repository alternative for Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/19dxgvk/maven_repository_alternative_for_kotlinnative/)
-- [Codesignal/ Coderpad interviews](https://www.reddit.com/r/Kotlin/comments/19dwjdz/codesignal_coderpad_interviews/)
-- [Full screen with center crop](https://www.reddit.com/r/Kotlin/comments/19dwikl/full_screen_with_center_crop/)
-- [generative-ai-kmp: Generative AI SDK for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/19do8hc/generativeaikmp_generative_ai_sdk_for_kotlin/)
-- [Cannot inline bytecode built with JVM target 17 into bytecode that is being built with JVM target 1.8 compile error](https://www.reddit.com/r/Kotlin/comments/19dn8tt/cannot_inline_bytecode_built_with_jvm_target_17/)
-- [App doesn&#39;t open in second launch](https://www.reddit.com/r/Kotlin/comments/19dl2ck/app_doesnt_open_in_second_launch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
