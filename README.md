@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Access user images and videos in Compose Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1acmr2u/access_user_images_and_videos_in_compose/)
+- [Using Proguard with Jetpack Compose Desktop: Getting down to a reasonable app size](https://www.reddit.com/r/Kotlin/comments/1acjy5h/using_proguard_with_jetpack_compose_desktop/)
+- [What is, technically, a val declaration?](https://www.reddit.com/r/Kotlin/comments/1acigyt/what_is_technically_a_val_declaration/)
+- [Kotools Types, a library providing explicit types for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1accxhl/kotools_types_a_library_providing_explicit_types/)
+- [kotlinize python](https://www.reddit.com/r/Kotlin/comments/1acak6q/kotlinize_python/)
+- [Kotlin Game development](https://www.reddit.com/r/Kotlin/comments/1ac7809/kotlin_game_development/)
 - [Best way to connect Spring Boot Kotlin backend to an external websocket server?](https://www.reddit.com/r/Kotlin/comments/1abvokp/best_way_to_connect_spring_boot_kotlin_backend_to/)
 - [Listening for element events with Compose for Web](https://www.reddit.com/r/Kotlin/comments/1abtskt/listening_for_element_events_with_compose_for_web/)
 - [Kotlin Methods vs Functions](https://www.reddit.com/r/Kotlin/comments/1abmr9q/kotlin_methods_vs_functions/)
 - [Multiplatform: Icons for Android and iOS](https://www.reddit.com/r/Kotlin/comments/1abfz49/multiplatform_icons_for_android_and_ios/)
-- [What do you think about using delegation to avoid repetitive implementation of interfaces?](https://www.reddit.com/r/Kotlin/comments/19fn7vl/what_do_you_think_about_using_delegation_to_avoid/)
-- [Do you use Kotlin for your AWS needs?](https://www.reddit.com/r/Kotlin/comments/19fn3ac/do_you_use_kotlin_for_your_aws_needs/)
-- [Publishing koltin multiplatform library: what am I doing wrong?](https://www.reddit.com/r/Kotlin/comments/19fmlbw/publishing_koltin_multiplatform_library_what_am_i/)
-- [Going Old School](https://www.reddit.com/r/Kotlin/comments/19fkfh8/going_old_school/)
-- [what is the best way to manage data with kotlin for wifi fingerprinting](https://www.reddit.com/r/Kotlin/comments/19fcywa/what_is_the_best_way_to_manage_data_with_kotlin/)
-- [What do you think of such thing?](https://www.reddit.com/r/Kotlin/comments/19f6d7n/what_do_you_think_of_such_thing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
