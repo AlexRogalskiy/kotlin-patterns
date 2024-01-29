@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How will I know what exceptions the library is going to throw?](https://www.reddit.com/r/Kotlin/comments/1adgt7u/how_will_i_know_what_exceptions_the_library_is/)
+- [Why is Kotlin syntax so similar to Typescript?](https://www.reddit.com/r/Kotlin/comments/1adg11t/why_is_kotlin_syntax_so_similar_to_typescript/)
+- [Hello World example for Kotlin Project with build.gradle.kts outside of Intellij IDE](https://www.reddit.com/r/Kotlin/comments/1adbafu/hello_world_example_for_kotlin_project_with/)
+- [Problem with Kotlin in vscode &lpar;Using Mac m1&rpar;](https://www.reddit.com/r/Kotlin/comments/1ad85r1/problem_with_kotlin_in_vscode_using_mac_m1/)
 - [Access user images and videos in Compose Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1acmr2u/access_user_images_and_videos_in_compose/)
 - [Using Proguard with Jetpack Compose Desktop: Getting down to a reasonable app size](https://www.reddit.com/r/Kotlin/comments/1acjy5h/using_proguard_with_jetpack_compose_desktop/)
 - [What is, technically, a val declaration?](https://www.reddit.com/r/Kotlin/comments/1acigyt/what_is_technically_a_val_declaration/)
 - [Kotools Types, a library providing explicit types for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1accxhl/kotools_types_a_library_providing_explicit_types/)
 - [kotlinize python](https://www.reddit.com/r/Kotlin/comments/1acak6q/kotlinize_python/)
 - [Kotlin Game development](https://www.reddit.com/r/Kotlin/comments/1ac7809/kotlin_game_development/)
-- [Best way to connect Spring Boot Kotlin backend to an external websocket server?](https://www.reddit.com/r/Kotlin/comments/1abvokp/best_way_to_connect_spring_boot_kotlin_backend_to/)
-- [Listening for element events with Compose for Web](https://www.reddit.com/r/Kotlin/comments/1abtskt/listening_for_element_events_with_compose_for_web/)
-- [Kotlin Methods vs Functions](https://www.reddit.com/r/Kotlin/comments/1abmr9q/kotlin_methods_vs_functions/)
-- [Multiplatform: Icons for Android and iOS](https://www.reddit.com/r/Kotlin/comments/1abfz49/multiplatform_icons_for_android_and_ios/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
