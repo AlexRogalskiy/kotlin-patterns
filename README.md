@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Upload Large Files up to 5TB to Amazon S3 with Multipart in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aebzo0/how_to_upload_large_files_up_to_5tb_to_amazon_s3/)
+- [How to solve this error?](https://www.reddit.com/r/Kotlin/comments/1aeag28/how_to_solve_this_error/)
+- [I added all needed dependencies?](https://www.reddit.com/r/Kotlin/comments/1adzr9h/i_added_all_needed_dependencies/)
+- [ChaKt - A multiplatform chat-prompt based app for Android, iOS, Desktop, Web. Powered by Google&#39;s Gemini API &lpar;with Generative AI Multiplatform SDK&rpar;](https://www.reddit.com/r/Kotlin/comments/1adx1yw/chakt_a_multiplatform_chatprompt_based_app_for/)
+- [Is this a good idea?](https://www.reddit.com/r/Kotlin/comments/1adtxsg/is_this_a_good_idea/)
+- [Copying files with Kotlin Native and Okio. Human intelligence review requested](https://www.reddit.com/r/Kotlin/comments/1adsk7o/copying_files_with_kotlin_native_and_okio_human/)
+- [Compose Dimens, Colors and More With CompositionProvider In Android/KMP](https://www.reddit.com/r/Kotlin/comments/1adphem/compose_dimens_colors_and_more_with/)
 - [How will I know what exceptions the library is going to throw?](https://www.reddit.com/r/Kotlin/comments/1adgt7u/how_will_i_know_what_exceptions_the_library_is/)
 - [Why is Kotlin syntax so similar to Typescript?](https://www.reddit.com/r/Kotlin/comments/1adg11t/why_is_kotlin_syntax_so_similar_to_typescript/)
 - [Hello World example for Kotlin Project with build.gradle.kts outside of Intellij IDE](https://www.reddit.com/r/Kotlin/comments/1adbafu/hello_world_example_for_kotlin_project_with/)
-- [Problem with Kotlin in vscode &lpar;Using Mac m1&rpar;](https://www.reddit.com/r/Kotlin/comments/1ad85r1/problem_with_kotlin_in_vscode_using_mac_m1/)
-- [Access user images and videos in Compose Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1acmr2u/access_user_images_and_videos_in_compose/)
-- [Using Proguard with Jetpack Compose Desktop: Getting down to a reasonable app size](https://www.reddit.com/r/Kotlin/comments/1acjy5h/using_proguard_with_jetpack_compose_desktop/)
-- [What is, technically, a val declaration?](https://www.reddit.com/r/Kotlin/comments/1acigyt/what_is_technically_a_val_declaration/)
-- [Kotools Types, a library providing explicit types for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1accxhl/kotools_types_a_library_providing_explicit_types/)
-- [kotlinize python](https://www.reddit.com/r/Kotlin/comments/1acak6q/kotlinize_python/)
-- [Kotlin Game development](https://www.reddit.com/r/Kotlin/comments/1ac7809/kotlin_game_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
