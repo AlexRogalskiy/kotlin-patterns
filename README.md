@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Confused about json de/serialization](https://www.reddit.com/r/Kotlin/comments/1aeywjx/confused_about_json_deserialization/)
+- [Compose Multiplatform 1.5.12 is now available, bringing compatibility with Kotlin 1.9.22](https://www.reddit.com/r/Kotlin/comments/1aeutzo/compose_multiplatform_1512_is_now_available/)
+- [Javalin v6 has been released &lpar;web framework&rpar;](https://www.reddit.com/r/Kotlin/comments/1aerobh/javalin_v6_has_been_released_web_framework/)
+- [why I can not make nested packages ?](https://www.reddit.com/r/Kotlin/comments/1aej57g/why_i_can_not_make_nested_packages/)
+- [Kotlin Desktop](https://www.reddit.com/r/Kotlin/comments/1aej0yi/kotlin_desktop/)
 - [How to Upload Large Files up to 5TB to Amazon S3 with Multipart in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aebzo0/how_to_upload_large_files_up_to_5tb_to_amazon_s3/)
 - [How to solve this error?](https://www.reddit.com/r/Kotlin/comments/1aeag28/how_to_solve_this_error/)
 - [I added all needed dependencies?](https://www.reddit.com/r/Kotlin/comments/1adzr9h/i_added_all_needed_dependencies/)
 - [ChaKt - A multiplatform chat-prompt based app for Android, iOS, Desktop, Web. Powered by Google&#39;s Gemini API &lpar;with Generative AI Multiplatform SDK&rpar;](https://www.reddit.com/r/Kotlin/comments/1adx1yw/chakt_a_multiplatform_chatprompt_based_app_for/)
 - [Is this a good idea?](https://www.reddit.com/r/Kotlin/comments/1adtxsg/is_this_a_good_idea/)
-- [Copying files with Kotlin Native and Okio. Human intelligence review requested](https://www.reddit.com/r/Kotlin/comments/1adsk7o/copying_files_with_kotlin_native_and_okio_human/)
-- [Compose Dimens, Colors and More With CompositionProvider In Android/KMP](https://www.reddit.com/r/Kotlin/comments/1adphem/compose_dimens_colors_and_more_with/)
-- [How will I know what exceptions the library is going to throw?](https://www.reddit.com/r/Kotlin/comments/1adgt7u/how_will_i_know_what_exceptions_the_library_is/)
-- [Why is Kotlin syntax so similar to Typescript?](https://www.reddit.com/r/Kotlin/comments/1adg11t/why_is_kotlin_syntax_so_similar_to_typescript/)
-- [Hello World example for Kotlin Project with build.gradle.kts outside of Intellij IDE](https://www.reddit.com/r/Kotlin/comments/1adbafu/hello_world_example_for_kotlin_project_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
