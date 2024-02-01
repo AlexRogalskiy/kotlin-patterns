@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does Kotlin/Native application have to run on jvm?](https://www.reddit.com/r/Kotlin/comments/1afx2f2/does_kotlinnative_application_have_to_run_on_jvm/)
+- [Micro-optimizations in Kotlin — 3](https://www.reddit.com/r/Kotlin/comments/1afr1xr/microoptimizations_in_kotlin_3/)
+- [Having compilation with generics in the iOS part of my Kotlin Multiplatform project](https://www.reddit.com/r/Kotlin/comments/1afimow/having_compilation_with_generics_in_the_ios_part/)
+- [How to catch an exception inside a Job?](https://www.reddit.com/r/Kotlin/comments/1afi5jm/how_to_catch_an_exception_inside_a_job/)
+- [An open source AI Search Engine](https://www.reddit.com/r/Kotlin/comments/1affsyh/an_open_source_ai_search_engine/)
+- [How do you handle String Resources in KMP?](https://www.reddit.com/r/Kotlin/comments/1afcei7/how_do_you_handle_string_resources_in_kmp/)
 - [Confused about json de/serialization](https://www.reddit.com/r/Kotlin/comments/1aeywjx/confused_about_json_deserialization/)
 - [Compose Multiplatform 1.5.12 is now available, bringing compatibility with Kotlin 1.9.22](https://www.reddit.com/r/Kotlin/comments/1aeutzo/compose_multiplatform_1512_is_now_available/)
 - [Javalin v6 has been released &lpar;web framework&rpar;](https://www.reddit.com/r/Kotlin/comments/1aerobh/javalin_v6_has_been_released_web_framework/)
 - [why I can not make nested packages ?](https://www.reddit.com/r/Kotlin/comments/1aej57g/why_i_can_not_make_nested_packages/)
-- [Kotlin Desktop](https://www.reddit.com/r/Kotlin/comments/1aej0yi/kotlin_desktop/)
-- [How to Upload Large Files up to 5TB to Amazon S3 with Multipart in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aebzo0/how_to_upload_large_files_up_to_5tb_to_amazon_s3/)
-- [How to solve this error?](https://www.reddit.com/r/Kotlin/comments/1aeag28/how_to_solve_this_error/)
-- [I added all needed dependencies?](https://www.reddit.com/r/Kotlin/comments/1adzr9h/i_added_all_needed_dependencies/)
-- [ChaKt - A multiplatform chat-prompt based app for Android, iOS, Desktop, Web. Powered by Google&#39;s Gemini API &lpar;with Generative AI Multiplatform SDK&rpar;](https://www.reddit.com/r/Kotlin/comments/1adx1yw/chakt_a_multiplatform_chatprompt_based_app_for/)
-- [Is this a good idea?](https://www.reddit.com/r/Kotlin/comments/1adtxsg/is_this_a_good_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
