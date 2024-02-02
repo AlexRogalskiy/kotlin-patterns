@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to take user input](https://www.reddit.com/r/Kotlin/comments/1agndtm/how_to_take_user_input/)
+- [Which way to open a menu with a button?](https://www.reddit.com/r/Kotlin/comments/1agbddk/which_way_to_open_a_menu_with_a_button/)
+- [How to test huge data sets](https://www.reddit.com/r/Kotlin/comments/1agaued/how_to_test_huge_data_sets/)
+- [NLKUG &lpar;Nov 30&rpar; - Get set for Advent of Code &lpar;with Kotlin&rpar; - Pim van Gurp](https://www.reddit.com/r/Kotlin/comments/1ag7ed7/nlkug_nov_30_get_set_for_advent_of_code_with/)
+- [The new Ktor 2.3.8 has arrived. Check out what&#39;s new in the changelog](https://www.reddit.com/r/Kotlin/comments/1ag6stl/the_new_ktor_238_has_arrived_check_out_whats_new/)
 - [Does Kotlin/Native application have to run on jvm?](https://www.reddit.com/r/Kotlin/comments/1afx2f2/does_kotlinnative_application_have_to_run_on_jvm/)
 - [Micro-optimizations in Kotlin — 3](https://www.reddit.com/r/Kotlin/comments/1afr1xr/microoptimizations_in_kotlin_3/)
 - [Having compilation with generics in the iOS part of my Kotlin Multiplatform project](https://www.reddit.com/r/Kotlin/comments/1afimow/having_compilation_with_generics_in_the_ios_part/)
 - [How to catch an exception inside a Job?](https://www.reddit.com/r/Kotlin/comments/1afi5jm/how_to_catch_an_exception_inside_a_job/)
 - [An open source AI Search Engine](https://www.reddit.com/r/Kotlin/comments/1affsyh/an_open_source_ai_search_engine/)
-- [How do you handle String Resources in KMP?](https://www.reddit.com/r/Kotlin/comments/1afcei7/how_do_you_handle_string_resources_in_kmp/)
-- [Confused about json de/serialization](https://www.reddit.com/r/Kotlin/comments/1aeywjx/confused_about_json_deserialization/)
-- [Compose Multiplatform 1.5.12 is now available, bringing compatibility with Kotlin 1.9.22](https://www.reddit.com/r/Kotlin/comments/1aeutzo/compose_multiplatform_1512_is_now_available/)
-- [Javalin v6 has been released &lpar;web framework&rpar;](https://www.reddit.com/r/Kotlin/comments/1aerobh/javalin_v6_has_been_released_web_framework/)
-- [why I can not make nested packages ?](https://www.reddit.com/r/Kotlin/comments/1aej57g/why_i_can_not_make_nested_packages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
