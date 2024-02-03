@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using UIKit elements in Compose Multiplatform: any luck with using MKMapView for iOS?](https://www.reddit.com/r/Kotlin/comments/1ahee34/using_uikit_elements_in_compose_multiplatform_any/)
+- [Kotlin Native, delete files and directories](https://www.reddit.com/r/Kotlin/comments/1ahc2io/kotlin_native_delete_files_and_directories/)
+- [Question on Flow](https://www.reddit.com/r/Kotlin/comments/1ahbi5o/question_on_flow/)
+- [Is using GlobalScope the only way to have a coroutine running independently within a class?](https://www.reddit.com/r/Kotlin/comments/1ahb1ae/is_using_globalscope_the_only_way_to_have_a/)
+- [Breaking News: Liber8 Proxy Creates A New cloud-based modified operating systems &lpar;Windows 11 &amp; Kali Linux&rpar; with Anti-Detect &amp; Unlimited Residential Proxies &lpar;Zip code Targeting&rpar; with RDP &amp; VNC Access Allows users to create multi users on the VPS with unique device fingerprints and Residential Proxy.](https://www.reddit.com/r/Kotlin/comments/1ah80xe/breaking_news_liber8_proxy_creates_a_new/)
+- [The Bowling Score Kata in &lpar;mainly&rpar; Functional Kotlin](https://www.reddit.com/r/Kotlin/comments/1ah2x1z/the_bowling_score_kata_in_mainly_functional_kotlin/)
+- [problem @Composable invocations can only happen from the context of a @Composable function](https://www.reddit.com/r/Kotlin/comments/1ah0erb/problem_composable_invocations_can_only_happen/)
+- [Abstract nested class with abstract inner class and generics: BackendException during IR lowering](https://www.reddit.com/r/Kotlin/comments/1agzgt2/abstract_nested_class_with_abstract_inner_class/)
 - [How to take user input](https://www.reddit.com/r/Kotlin/comments/1agndtm/how_to_take_user_input/)
 - [Which way to open a menu with a button?](https://www.reddit.com/r/Kotlin/comments/1agbddk/which_way_to_open_a_menu_with_a_button/)
-- [How to test huge data sets](https://www.reddit.com/r/Kotlin/comments/1agaued/how_to_test_huge_data_sets/)
-- [NLKUG &lpar;Nov 30&rpar; - Get set for Advent of Code &lpar;with Kotlin&rpar; - Pim van Gurp](https://www.reddit.com/r/Kotlin/comments/1ag7ed7/nlkug_nov_30_get_set_for_advent_of_code_with/)
-- [The new Ktor 2.3.8 has arrived. Check out what&#39;s new in the changelog](https://www.reddit.com/r/Kotlin/comments/1ag6stl/the_new_ktor_238_has_arrived_check_out_whats_new/)
-- [Does Kotlin/Native application have to run on jvm?](https://www.reddit.com/r/Kotlin/comments/1afx2f2/does_kotlinnative_application_have_to_run_on_jvm/)
-- [Micro-optimizations in Kotlin — 3](https://www.reddit.com/r/Kotlin/comments/1afr1xr/microoptimizations_in_kotlin_3/)
-- [Having compilation with generics in the iOS part of my Kotlin Multiplatform project](https://www.reddit.com/r/Kotlin/comments/1afimow/having_compilation_with_generics_in_the_ios_part/)
-- [How to catch an exception inside a Job?](https://www.reddit.com/r/Kotlin/comments/1afi5jm/how_to_catch_an_exception_inside_a_job/)
-- [An open source AI Search Engine](https://www.reddit.com/r/Kotlin/comments/1affsyh/an_open_source_ai_search_engine/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
