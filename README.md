@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [custom colors are overwritten with standard colors](https://www.reddit.com/r/Kotlin/comments/1ai6n5c/custom_colors_are_overwritten_with_standard_colors/)
+- [Who knows about building with android studio??](https://www.reddit.com/r/Kotlin/comments/1ai4dhc/who_knows_about_building_with_android_studio/)
+- [Kotlin in Action Second Edition available for pre-order on Amazon](https://www.reddit.com/r/Kotlin/comments/1ahx9sj/kotlin_in_action_second_edition_available_for/)
 - [Using UIKit elements in Compose Multiplatform: any luck with using MKMapView for iOS?](https://www.reddit.com/r/Kotlin/comments/1ahee34/using_uikit_elements_in_compose_multiplatform_any/)
 - [Kotlin Native, delete files and directories](https://www.reddit.com/r/Kotlin/comments/1ahc2io/kotlin_native_delete_files_and_directories/)
 - [Question on Flow](https://www.reddit.com/r/Kotlin/comments/1ahbi5o/question_on_flow/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Breaking News: Liber8 Proxy Creates A New cloud-based modified operating systems &lpar;Windows 11 &amp; Kali Linux&rpar; with Anti-Detect &amp; Unlimited Residential Proxies &lpar;Zip code Targeting&rpar; with RDP &amp; VNC Access Allows users to create multi users on the VPS with unique device fingerprints and Residential Proxy.](https://www.reddit.com/r/Kotlin/comments/1ah80xe/breaking_news_liber8_proxy_creates_a_new/)
 - [The Bowling Score Kata in &lpar;mainly&rpar; Functional Kotlin](https://www.reddit.com/r/Kotlin/comments/1ah2x1z/the_bowling_score_kata_in_mainly_functional_kotlin/)
 - [problem @Composable invocations can only happen from the context of a @Composable function](https://www.reddit.com/r/Kotlin/comments/1ah0erb/problem_composable_invocations_can_only_happen/)
-- [Abstract nested class with abstract inner class and generics: BackendException during IR lowering](https://www.reddit.com/r/Kotlin/comments/1agzgt2/abstract_nested_class_with_abstract_inner_class/)
-- [How to take user input](https://www.reddit.com/r/Kotlin/comments/1agndtm/how_to_take_user_input/)
-- [Which way to open a menu with a button?](https://www.reddit.com/r/Kotlin/comments/1agbddk/which_way_to_open_a_menu_with_a_button/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
