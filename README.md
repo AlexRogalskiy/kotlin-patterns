@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ktpg - the beginnings of a Kotlin/Native Postgres driver](https://www.reddit.com/r/Kotlin/comments/1ajvt0z/ktpg_the_beginnings_of_a_kotlinnative_postgres/)
+- [Brand new to Kotlin. Running sample code on Intellij Idea takes forever if it works at all.](https://www.reddit.com/r/Kotlin/comments/1ajs42l/brand_new_to_kotlin_running_sample_code_on/)
+- [Is it possible to do AR in kotlin multiplatform?](https://www.reddit.com/r/Kotlin/comments/1ajonat/is_it_possible_to_do_ar_in_kotlin_multiplatform/)
+- [Compose for desktop problem with shutting down processes](https://www.reddit.com/r/Kotlin/comments/1ajlojs/compose_for_desktop_problem_with_shutting_down/)
+- [Anyone using Kotlin and Android Jetpack with Vim and CLI? Any tips?](https://www.reddit.com/r/Kotlin/comments/1ajl8zw/anyone_using_kotlin_and_android_jetpack_with_vim/)
+- [Run code on server for Multiplatform App](https://www.reddit.com/r/Kotlin/comments/1aji9ta/run_code_on_server_for_multiplatform_app/)
+- [Making an entire object model visible in real-time without using a debugger?](https://www.reddit.com/r/Kotlin/comments/1ajf92l/making_an_entire_object_model_visible_in_realtime/)
+- [Why kotlin lacks comunities](https://www.reddit.com/r/Kotlin/comments/1aj62pm/why_kotlin_lacks_comunities/)
 - [Kotlin/Java synergy resources](https://www.reddit.com/r/Kotlin/comments/1aiwq39/kotlinjava_synergy_resources/)
 - [Startup App Idea. Use Framework or Native with AI?](https://www.reddit.com/r/Kotlin/comments/1aisf6l/startup_app_idea_use_framework_or_native_with_ai/)
-- [Star in AppDev](https://www.reddit.com/r/Kotlin/comments/1aipz03/star_in_appdev/)
-- [Sealed classes made easy](https://www.reddit.com/r/Kotlin/comments/1aip16b/sealed_classes_made_easy/)
-- [custom colors are overwritten with standard colors](https://www.reddit.com/r/Kotlin/comments/1ai6n5c/custom_colors_are_overwritten_with_standard_colors/)
-- [Who knows about building with android studio??](https://www.reddit.com/r/Kotlin/comments/1ai4dhc/who_knows_about_building_with_android_studio/)
-- [Kotlin in Action Second Edition available for pre-order on Amazon](https://www.reddit.com/r/Kotlin/comments/1ahx9sj/kotlin_in_action_second_edition_available_for/)
-- [Using UIKit elements in Compose Multiplatform: any luck with using MKMapView for iOS?](https://www.reddit.com/r/Kotlin/comments/1ahee34/using_uikit_elements_in_compose_multiplatform_any/)
-- [Kotlin Native, delete files and directories](https://www.reddit.com/r/Kotlin/comments/1ahc2io/kotlin_native_delete_files_and_directories/)
-- [Question on Flow](https://www.reddit.com/r/Kotlin/comments/1ahbi5o/question_on_flow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
