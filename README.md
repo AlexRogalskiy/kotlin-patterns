@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [For those of you who have KMM in a real world project, how has it been?](https://www.reddit.com/r/Kotlin/comments/1akqx59/for_those_of_you_who_have_kmm_in_a_real_world/)
+- [Kotlin elvis operator autoboxing optimization?](https://www.reddit.com/r/Kotlin/comments/1akn6wz/kotlin_elvis_operator_autoboxing_optimization/)
+- [Kotlin interview questions](https://www.reddit.com/r/Kotlin/comments/1akkmux/kotlin_interview_questions/)
+- [How should the `as?` operator evaluate?](https://www.reddit.com/r/Kotlin/comments/1akffhb/how_should_the_as_operator_evaluate/)
+- [How&#39;s the kotlin job market? Debating whether to learn React Native of Kotlin.](https://www.reddit.com/r/Kotlin/comments/1akeukj/hows_the_kotlin_job_market_debating_whether_to/)
+- [MediaPlayer, set to null when idle?](https://www.reddit.com/r/Kotlin/comments/1akbesp/mediaplayer_set_to_null_when_idle/)
+- [Here&#39;s a new Koin version, Koin 3.6.0-wasm-alpha2](https://www.reddit.com/r/Kotlin/comments/1ak70r3/heres_a_new_koin_version_koin_360wasmalpha2/)
+- [Speeding up isBlank&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1ak67kc/speeding_up_isblank/)
 - [ktpg - the beginnings of a Kotlin/Native Postgres driver](https://www.reddit.com/r/Kotlin/comments/1ajvt0z/ktpg_the_beginnings_of_a_kotlinnative_postgres/)
 - [Brand new to Kotlin. Running sample code on Intellij Idea takes forever if it works at all.](https://www.reddit.com/r/Kotlin/comments/1ajs42l/brand_new_to_kotlin_running_sample_code_on/)
-- [Is it possible to do AR in kotlin multiplatform?](https://www.reddit.com/r/Kotlin/comments/1ajonat/is_it_possible_to_do_ar_in_kotlin_multiplatform/)
-- [Compose for desktop problem with shutting down processes](https://www.reddit.com/r/Kotlin/comments/1ajlojs/compose_for_desktop_problem_with_shutting_down/)
-- [Anyone using Kotlin and Android Jetpack with Vim and CLI? Any tips?](https://www.reddit.com/r/Kotlin/comments/1ajl8zw/anyone_using_kotlin_and_android_jetpack_with_vim/)
-- [Run code on server for Multiplatform App](https://www.reddit.com/r/Kotlin/comments/1aji9ta/run_code_on_server_for_multiplatform_app/)
-- [Making an entire object model visible in real-time without using a debugger?](https://www.reddit.com/r/Kotlin/comments/1ajf92l/making_an_entire_object_model_visible_in_realtime/)
-- [Why kotlin lacks comunities](https://www.reddit.com/r/Kotlin/comments/1aj62pm/why_kotlin_lacks_comunities/)
-- [Kotlin/Java synergy resources](https://www.reddit.com/r/Kotlin/comments/1aiwq39/kotlinjava_synergy_resources/)
-- [Startup App Idea. Use Framework or Native with AI?](https://www.reddit.com/r/Kotlin/comments/1aisf6l/startup_app_idea_use_framework_or_native_with_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
