@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Intersection Types in Kotlin](https://www.reddit.com/r/Kotlin/comments/1al4obt/intersection_types_in_kotlin/)
+- [Top 5 Exciting Features Coming in Spring Boot 3.2 &lpar;part 2&rpar; - Project CRaC, Correlation IDs, SSL Bundle Reloading, and more](https://www.reddit.com/r/Kotlin/comments/1akzyi8/top_5_exciting_features_coming_in_spring_boot_32/)
+- [Kotlin Inline Functions Explained](https://www.reddit.com/r/Kotlin/comments/1akwknx/kotlin_inline_functions_explained/)
 - [For those of you who have KMM in a real world project, how has it been?](https://www.reddit.com/r/Kotlin/comments/1akqx59/for_those_of_you_who_have_kmm_in_a_real_world/)
 - [Kotlin elvis operator autoboxing optimization?](https://www.reddit.com/r/Kotlin/comments/1akn6wz/kotlin_elvis_operator_autoboxing_optimization/)
 - [Kotlin interview questions](https://www.reddit.com/r/Kotlin/comments/1akkmux/kotlin_interview_questions/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How&#39;s the kotlin job market? Debating whether to learn React Native of Kotlin.](https://www.reddit.com/r/Kotlin/comments/1akeukj/hows_the_kotlin_job_market_debating_whether_to/)
 - [MediaPlayer, set to null when idle?](https://www.reddit.com/r/Kotlin/comments/1akbesp/mediaplayer_set_to_null_when_idle/)
 - [Here&#39;s a new Koin version, Koin 3.6.0-wasm-alpha2](https://www.reddit.com/r/Kotlin/comments/1ak70r3/heres_a_new_koin_version_koin_360wasmalpha2/)
-- [Speeding up isBlank&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1ak67kc/speeding_up_isblank/)
-- [ktpg - the beginnings of a Kotlin/Native Postgres driver](https://www.reddit.com/r/Kotlin/comments/1ajvt0z/ktpg_the_beginnings_of_a_kotlinnative_postgres/)
-- [Brand new to Kotlin. Running sample code on Intellij Idea takes forever if it works at all.](https://www.reddit.com/r/Kotlin/comments/1ajs42l/brand_new_to_kotlin_running_sample_code_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
