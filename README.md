@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin is a ketchup](https://www.reddit.com/r/Kotlin/comments/1am6bhw/kotlin_is_a_ketchup/)
+- [Kotlin 1.9.20: Streamlining Source Sets in Multiplatform Project](https://www.reddit.com/r/Kotlin/comments/1am2qew/kotlin_1920_streamlining_source_sets_in/)
+- [Kotlin Native C interop and shared C libraries](https://www.reddit.com/r/Kotlin/comments/1am1iam/kotlin_native_c_interop_and_shared_c_libraries/)
+- [This image describes whole Kotlin philosophy to me](https://www.reddit.com/r/Kotlin/comments/1alyrly/this_image_describes_whole_kotlin_philosophy_to_me/)
+- [SymSpellKt A KMP SpellChecker library with O&lpar;1&rpar; lookup performance](https://www.reddit.com/r/Kotlin/comments/1allvym/symspellkt_a_kmp_spellchecker_library_with_o1/)
+- [What&#39;s the purpose of &quot;do...while&quot; loop? Can&#39;t the same result be achieved with just &quot;while&quot; loop?](https://www.reddit.com/r/Kotlin/comments/1aljxw4/whats_the_purpose_of_dowhile_loop_cant_the_same/)
 - [Intersection Types in Kotlin](https://www.reddit.com/r/Kotlin/comments/1al4obt/intersection_types_in_kotlin/)
 - [Top 5 Exciting Features Coming in Spring Boot 3.2 &lpar;part 2&rpar; - Project CRaC, Correlation IDs, SSL Bundle Reloading, and more](https://www.reddit.com/r/Kotlin/comments/1akzyi8/top_5_exciting_features_coming_in_spring_boot_32/)
 - [Kotlin Inline Functions Explained](https://www.reddit.com/r/Kotlin/comments/1akwknx/kotlin_inline_functions_explained/)
 - [For those of you who have KMM in a real world project, how has it been?](https://www.reddit.com/r/Kotlin/comments/1akqx59/for_those_of_you_who_have_kmm_in_a_real_world/)
-- [Kotlin elvis operator autoboxing optimization?](https://www.reddit.com/r/Kotlin/comments/1akn6wz/kotlin_elvis_operator_autoboxing_optimization/)
-- [Kotlin interview questions](https://www.reddit.com/r/Kotlin/comments/1akkmux/kotlin_interview_questions/)
-- [How should the `as?` operator evaluate?](https://www.reddit.com/r/Kotlin/comments/1akffhb/how_should_the_as_operator_evaluate/)
-- [How&#39;s the kotlin job market? Debating whether to learn React Native of Kotlin.](https://www.reddit.com/r/Kotlin/comments/1akeukj/hows_the_kotlin_job_market_debating_whether_to/)
-- [MediaPlayer, set to null when idle?](https://www.reddit.com/r/Kotlin/comments/1akbesp/mediaplayer_set_to_null_when_idle/)
-- [Here&#39;s a new Koin version, Koin 3.6.0-wasm-alpha2](https://www.reddit.com/r/Kotlin/comments/1ak70r3/heres_a_new_koin_version_koin_360wasmalpha2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
