@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin is a ketchup](https://www.reddit.com/r/Kotlin/comments/1am6bhw/kotlin_is_a_ketchup/)
-- [Kotlin 1.9.20: Streamlining Source Sets in Multiplatform Project](https://www.reddit.com/r/Kotlin/comments/1am2qew/kotlin_1920_streamlining_source_sets_in/)
-- [Kotlin Native C interop and shared C libraries](https://www.reddit.com/r/Kotlin/comments/1am1iam/kotlin_native_c_interop_and_shared_c_libraries/)
-- [This image describes whole Kotlin philosophy to me](https://www.reddit.com/r/Kotlin/comments/1alyrly/this_image_describes_whole_kotlin_philosophy_to_me/)
-- [SymSpellKt A KMP SpellChecker library with O&lpar;1&rpar; lookup performance](https://www.reddit.com/r/Kotlin/comments/1allvym/symspellkt_a_kmp_spellchecker_library_with_o1/)
-- [What&#39;s the purpose of &quot;do...while&quot; loop? Can&#39;t the same result be achieved with just &quot;while&quot; loop?](https://www.reddit.com/r/Kotlin/comments/1aljxw4/whats_the_purpose_of_dowhile_loop_cant_the_same/)
-- [Intersection Types in Kotlin](https://www.reddit.com/r/Kotlin/comments/1al4obt/intersection_types_in_kotlin/)
-- [Top 5 Exciting Features Coming in Spring Boot 3.2 &lpar;part 2&rpar; - Project CRaC, Correlation IDs, SSL Bundle Reloading, and more](https://www.reddit.com/r/Kotlin/comments/1akzyi8/top_5_exciting_features_coming_in_spring_boot_32/)
-- [Kotlin Inline Functions Explained](https://www.reddit.com/r/Kotlin/comments/1akwknx/kotlin_inline_functions_explained/)
-- [For those of you who have KMM in a real world project, how has it been?](https://www.reddit.com/r/Kotlin/comments/1akqx59/for_those_of_you_who_have_kmm_in_a_real_world/)
+- [How do you change the name of a file in Intellij?](https://www.reddit.com/r/Kotlin/comments/1amwx0l/how_do_you_change_the_name_of_a_file_in_intellij/)
+- [Tire-kicker Question about Kotlin](https://www.reddit.com/r/Kotlin/comments/1amwhgm/tirekicker_question_about_kotlin/)
+- [Is there a modern annotation-based method call logging library?](https://www.reddit.com/r/Kotlin/comments/1amuyb3/is_there_a_modern_annotationbased_method_call/)
+- [Avoiding Kotlin Generics with Extensions &lpar;Bowling Part 5&rpar;](https://www.reddit.com/r/Kotlin/comments/1amqdi4/avoiding_kotlin_generics_with_extensions_bowling/)
+- [Any experiences using KorGE?](https://www.reddit.com/r/Kotlin/comments/1amp7lv/any_experiences_using_korge/)
+- [Splunk and Ktor](https://www.reddit.com/r/Kotlin/comments/1amo54o/splunk_and_ktor/)
+- [Kotlin repository github](https://www.reddit.com/r/Kotlin/comments/1amm47k/kotlin_repository_github/)
+- [Kotlin Native Run/Debug configurations with Android Studio](https://www.reddit.com/r/Kotlin/comments/1amj8xq/kotlin_native_rundebug_configurations_with/)
+- [failed code review on line 143 for udacity course. Can someone please help?](https://www.reddit.com/r/Kotlin/comments/1amj82c/failed_code_review_on_line_143_for_udacity_course/)
+- [Kotlin Generic help](https://www.reddit.com/r/Kotlin/comments/1amde9b/kotlin_generic_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
