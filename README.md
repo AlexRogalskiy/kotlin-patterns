@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can anyone help me with a Kotlin projet on Android studio?](https://www.reddit.com/r/Kotlin/comments/1anvasj/can_anyone_help_me_with_a_kotlin_projet_on/)
+- [Building VS Code and browser extensions with Kotlin](https://www.reddit.com/r/Kotlin/comments/1anussk/building_vs_code_and_browser_extensions_with/)
+- [How to create a soundboard app in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ans3km/how_to_create_a_soundboard_app_in_kotlin/)
+- [Gradle Version Catalog Generator](https://www.reddit.com/r/Kotlin/comments/1anocl0/gradle_version_catalog_generator/)
+- [How to learn Kotlin as fast as possible from scratch?](https://www.reddit.com/r/Kotlin/comments/1and9zp/how_to_learn_kotlin_as_fast_as_possible_from/)
+- [Javalin or Ktor?](https://www.reddit.com/r/Kotlin/comments/1anbab7/javalin_or_ktor/)
+- [How to build my own crypto exchange&lpar;e.g. btceth&rpar;](https://www.reddit.com/r/Kotlin/comments/1an6qgk/how_to_build_my_own_crypto_exchangeeg_btceth/)
 - [How do you change the name of a file in Intellij?](https://www.reddit.com/r/Kotlin/comments/1amwx0l/how_do_you_change_the_name_of_a_file_in_intellij/)
 - [Tire-kicker Question about Kotlin](https://www.reddit.com/r/Kotlin/comments/1amwhgm/tirekicker_question_about_kotlin/)
 - [Is there a modern annotation-based method call logging library?](https://www.reddit.com/r/Kotlin/comments/1amuyb3/is_there_a_modern_annotationbased_method_call/)
-- [Avoiding Kotlin Generics with Extensions &lpar;Bowling Part 5&rpar;](https://www.reddit.com/r/Kotlin/comments/1amqdi4/avoiding_kotlin_generics_with_extensions_bowling/)
-- [Any experiences using KorGE?](https://www.reddit.com/r/Kotlin/comments/1amp7lv/any_experiences_using_korge/)
-- [Splunk and Ktor](https://www.reddit.com/r/Kotlin/comments/1amo54o/splunk_and_ktor/)
-- [Kotlin repository github](https://www.reddit.com/r/Kotlin/comments/1amm47k/kotlin_repository_github/)
-- [Kotlin Native Run/Debug configurations with Android Studio](https://www.reddit.com/r/Kotlin/comments/1amj8xq/kotlin_native_rundebug_configurations_with/)
-- [failed code review on line 143 for udacity course. Can someone please help?](https://www.reddit.com/r/Kotlin/comments/1amj82c/failed_code_review_on_line_143_for_udacity_course/)
-- [Kotlin Generic help](https://www.reddit.com/r/Kotlin/comments/1amde9b/kotlin_generic_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
