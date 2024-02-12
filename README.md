@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can anyone help me with a Kotlin projet on Android studio?](https://www.reddit.com/r/Kotlin/comments/1anvasj/can_anyone_help_me_with_a_kotlin_projet_on/)
+- [How to share my app on F-Droid?](https://www.reddit.com/r/Kotlin/comments/1aodsr5/how_to_share_my_app_on_fdroid/)
+- [Open sourcing the BaseMind.ai gateway](https://www.reddit.com/r/Kotlin/comments/1aod0we/open_sourcing_the_basemindai_gateway/)
+- [c-fraser/graph-guard: Extensible graph proxy server](https://www.reddit.com/r/Kotlin/comments/1ao9s5h/cfrasergraphguard_extensible_graph_proxy_server/)
+- [JDBCTemplate query params in kotlin](https://www.reddit.com/r/Kotlin/comments/1ao7e8w/jdbctemplate_query_params_in_kotlin/)
 - [Building VS Code and browser extensions with Kotlin](https://www.reddit.com/r/Kotlin/comments/1anussk/building_vs_code_and_browser_extensions_with/)
 - [How to create a soundboard app in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ans3km/how_to_create_a_soundboard_app_in_kotlin/)
 - [Gradle Version Catalog Generator](https://www.reddit.com/r/Kotlin/comments/1anocl0/gradle_version_catalog_generator/)
 - [How to learn Kotlin as fast as possible from scratch?](https://www.reddit.com/r/Kotlin/comments/1and9zp/how_to_learn_kotlin_as_fast_as_possible_from/)
 - [Javalin or Ktor?](https://www.reddit.com/r/Kotlin/comments/1anbab7/javalin_or_ktor/)
 - [How to build my own crypto exchange&lpar;e.g. btceth&rpar;](https://www.reddit.com/r/Kotlin/comments/1an6qgk/how_to_build_my_own_crypto_exchangeeg_btceth/)
-- [How do you change the name of a file in Intellij?](https://www.reddit.com/r/Kotlin/comments/1amwx0l/how_do_you_change_the_name_of_a_file_in_intellij/)
-- [Tire-kicker Question about Kotlin](https://www.reddit.com/r/Kotlin/comments/1amwhgm/tirekicker_question_about_kotlin/)
-- [Is there a modern annotation-based method call logging library?](https://www.reddit.com/r/Kotlin/comments/1amuyb3/is_there_a_modern_annotationbased_method_call/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
