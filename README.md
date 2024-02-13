@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Material3 - Window size class](https://www.reddit.com/r/Kotlin/comments/1ape5tu/material3_window_size_class/)
+- [Kotlin Certification](https://www.reddit.com/r/Kotlin/comments/1ap4rob/kotlin_certification/)
+- [[Reinvent the Wheel] Simple DI Container written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aoytqm/reinvent_the_wheel_simple_di_container_written_in/)
+- [Gradle Version Catalogs For KMP Explained](https://www.reddit.com/r/Kotlin/comments/1aougqr/gradle_version_catalogs_for_kmp_explained/)
+- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1aosuvs/new_to_kotlin/)
+- [Gradle is not a Build Tool. It is a Application Definition Framework with 2 SDK&#39;s and a CLI](https://www.reddit.com/r/Kotlin/comments/1aos1w4/gradle_is_not_a_build_tool_it_is_a_application/)
+- [Kotlin Algorithms and Design Patterns](https://www.reddit.com/r/Kotlin/comments/1aoqk4d/kotlin_algorithms_and_design_patterns/)
 - [How to share my app on F-Droid?](https://www.reddit.com/r/Kotlin/comments/1aodsr5/how_to_share_my_app_on_fdroid/)
 - [Open sourcing the BaseMind.ai gateway](https://www.reddit.com/r/Kotlin/comments/1aod0we/open_sourcing_the_basemindai_gateway/)
 - [c-fraser/graph-guard: Extensible graph proxy server](https://www.reddit.com/r/Kotlin/comments/1ao9s5h/cfrasergraphguard_extensible_graph_proxy_server/)
-- [JDBCTemplate query params in kotlin](https://www.reddit.com/r/Kotlin/comments/1ao7e8w/jdbctemplate_query_params_in_kotlin/)
-- [Building VS Code and browser extensions with Kotlin](https://www.reddit.com/r/Kotlin/comments/1anussk/building_vs_code_and_browser_extensions_with/)
-- [How to create a soundboard app in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ans3km/how_to_create_a_soundboard_app_in_kotlin/)
-- [Gradle Version Catalog Generator](https://www.reddit.com/r/Kotlin/comments/1anocl0/gradle_version_catalog_generator/)
-- [How to learn Kotlin as fast as possible from scratch?](https://www.reddit.com/r/Kotlin/comments/1and9zp/how_to_learn_kotlin_as_fast_as_possible_from/)
-- [Javalin or Ktor?](https://www.reddit.com/r/Kotlin/comments/1anbab7/javalin_or_ktor/)
-- [How to build my own crypto exchange&lpar;e.g. btceth&rpar;](https://www.reddit.com/r/Kotlin/comments/1an6qgk/how_to_build_my_own_crypto_exchangeeg_btceth/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
