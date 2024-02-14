@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Material3 - Window size class](https://www.reddit.com/r/Kotlin/comments/1ape5tu/material3_window_size_class/)
-- [Kotlin Certification](https://www.reddit.com/r/Kotlin/comments/1ap4rob/kotlin_certification/)
-- [[Reinvent the Wheel] Simple DI Container written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aoytqm/reinvent_the_wheel_simple_di_container_written_in/)
-- [Gradle Version Catalogs For KMP Explained](https://www.reddit.com/r/Kotlin/comments/1aougqr/gradle_version_catalogs_for_kmp_explained/)
-- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1aosuvs/new_to_kotlin/)
-- [Gradle is not a Build Tool. It is a Application Definition Framework with 2 SDK&#39;s and a CLI](https://www.reddit.com/r/Kotlin/comments/1aos1w4/gradle_is_not_a_build_tool_it_is_a_application/)
-- [Kotlin Algorithms and Design Patterns](https://www.reddit.com/r/Kotlin/comments/1aoqk4d/kotlin_algorithms_and_design_patterns/)
-- [How to share my app on F-Droid?](https://www.reddit.com/r/Kotlin/comments/1aodsr5/how_to_share_my_app_on_fdroid/)
-- [Open sourcing the BaseMind.ai gateway](https://www.reddit.com/r/Kotlin/comments/1aod0we/open_sourcing_the_basemindai_gateway/)
-- [c-fraser/graph-guard: Extensible graph proxy server](https://www.reddit.com/r/Kotlin/comments/1ao9s5h/cfrasergraphguard_extensible_graph_proxy_server/)
+- [Using Amper with Fleet in a Kotlin/Compose Multiplatform project](https://www.reddit.com/r/Kotlin/comments/1aq8y34/using_amper_with_fleet_in_a_kotlincompose/)
+- [How to notify backend connection worker threads of a change elsewhere in the system](https://www.reddit.com/r/Kotlin/comments/1aq82d8/how_to_notify_backend_connection_worker_threads/)
+- [Anyone want to help me understand this leetcode solution?](https://www.reddit.com/r/Kotlin/comments/1aq5l13/anyone_want_to_help_me_understand_this_leetcode/)
+- [Good compose tutorials for complete beginners](https://www.reddit.com/r/Kotlin/comments/1apwcjd/good_compose_tutorials_for_complete_beginners/)
+- [what am I doing wrong? or possible bug in 1.9.22 compiler](https://www.reddit.com/r/Kotlin/comments/1apvvkc/what_am_i_doing_wrong_or_possible_bug_in_1922/)
+- [Trying to learn AndroidDev](https://www.reddit.com/r/Kotlin/comments/1apv972/trying_to_learn_androiddev/)
+- [Is kotlin easier than native java development?](https://www.reddit.com/r/Kotlin/comments/1apqs30/is_kotlin_easier_than_native_java_development/)
+- [Should i cancel a coroutine scope?](https://www.reddit.com/r/Kotlin/comments/1appyo9/should_i_cancel_a_coroutine_scope/)
+- [&quot;Head First Kotlin&quot; or &quot;Atomic Kotlin&quot; ?](https://www.reddit.com/r/Kotlin/comments/1aphtvw/head_first_kotlin_or_atomic_kotlin/)
+- [Kotlin - Addition on Generic](https://www.reddit.com/r/Kotlin/comments/1aphjb9/kotlin_addition_on_generic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
