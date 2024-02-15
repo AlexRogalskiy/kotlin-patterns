@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using Amper with Fleet in a Kotlin/Compose Multiplatform project](https://www.reddit.com/r/Kotlin/comments/1aq8y34/using_amper_with_fleet_in_a_kotlincompose/)
-- [How to notify backend connection worker threads of a change elsewhere in the system](https://www.reddit.com/r/Kotlin/comments/1aq82d8/how_to_notify_backend_connection_worker_threads/)
-- [Anyone want to help me understand this leetcode solution?](https://www.reddit.com/r/Kotlin/comments/1aq5l13/anyone_want_to_help_me_understand_this_leetcode/)
-- [Good compose tutorials for complete beginners](https://www.reddit.com/r/Kotlin/comments/1apwcjd/good_compose_tutorials_for_complete_beginners/)
-- [what am I doing wrong? or possible bug in 1.9.22 compiler](https://www.reddit.com/r/Kotlin/comments/1apvvkc/what_am_i_doing_wrong_or_possible_bug_in_1922/)
-- [Trying to learn AndroidDev](https://www.reddit.com/r/Kotlin/comments/1apv972/trying_to_learn_androiddev/)
-- [Is kotlin easier than native java development?](https://www.reddit.com/r/Kotlin/comments/1apqs30/is_kotlin_easier_than_native_java_development/)
-- [Should i cancel a coroutine scope?](https://www.reddit.com/r/Kotlin/comments/1appyo9/should_i_cancel_a_coroutine_scope/)
-- [&quot;Head First Kotlin&quot; or &quot;Atomic Kotlin&quot; ?](https://www.reddit.com/r/Kotlin/comments/1aphtvw/head_first_kotlin_or_atomic_kotlin/)
-- [Kotlin - Addition on Generic](https://www.reddit.com/r/Kotlin/comments/1aphjb9/kotlin_addition_on_generic/)
+- [Ktor running on Loom virtual threads](https://www.reddit.com/r/Kotlin/comments/1aqwe3y/ktor_running_on_loom_virtual_threads/)
+- [Help with coroutines](https://www.reddit.com/r/Kotlin/comments/1aqu7mb/help_with_coroutines/)
+- [Problems Starting Spring Boot on Heroku](https://www.reddit.com/r/Kotlin/comments/1aqt3x4/problems_starting_spring_boot_on_heroku/)
+- [Exploring properties of function composition in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aqqzxq/exploring_properties_of_function_composition_in/)
+- [What is Object Keyword in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aqmic9/what_is_object_keyword_in_kotlin/)
+- [Host your own KotlinConf event!](https://www.reddit.com/r/Kotlin/comments/1aqkfsb/host_your_own_kotlinconf_event/)
+- [Does anyone have an example of cinterop with a 3rd party iOS library actually working, not just with names and types but with linking and everything?](https://www.reddit.com/r/Kotlin/comments/1aqj6h2/does_anyone_have_an_example_of_cinterop_with_a/)
+- [Kotlin Object declarations — Singleton, Data Objects and More](https://www.reddit.com/r/Kotlin/comments/1aqh0m1/kotlin_object_declarations_singleton_data_objects/)
+- [Kotlin dataframe in 100 examples](https://www.reddit.com/r/Kotlin/comments/1aqgg4k/kotlin_dataframe_in_100_examples/)
+- [Develop to Android and C++ + Cmake + SDL2](https://www.reddit.com/r/Kotlin/comments/1aqd94p/develop_to_android_and_c_cmake_sdl2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
