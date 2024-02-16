@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Notebooks Livestream, Feb 27, 16:00 UTC](https://www.reddit.com/r/Kotlin/comments/1arh0dl/kotlin_notebooks_livestream_feb_27_1600_utc/)
+- [I Need a little help as a beginner 😅](https://www.reddit.com/r/Kotlin/comments/1argifj/i_need_a_little_help_as_a_beginner/)
+- [Debugging Kotlin Compose Multiplatform Apps on Windows Emulator from MacOS?](https://www.reddit.com/r/Kotlin/comments/1ard6mm/debugging_kotlin_compose_multiplatform_apps_on/)
+- [KMM vs Native](https://www.reddit.com/r/Kotlin/comments/1ar7z30/kmm_vs_native/)
 - [Ktor running on Loom virtual threads](https://www.reddit.com/r/Kotlin/comments/1aqwe3y/ktor_running_on_loom_virtual_threads/)
 - [Help with coroutines](https://www.reddit.com/r/Kotlin/comments/1aqu7mb/help_with_coroutines/)
-- [Problems Starting Spring Boot on Heroku](https://www.reddit.com/r/Kotlin/comments/1aqt3x4/problems_starting_spring_boot_on_heroku/)
 - [Exploring properties of function composition in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aqqzxq/exploring_properties_of_function_composition_in/)
 - [What is Object Keyword in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aqmic9/what_is_object_keyword_in_kotlin/)
 - [Host your own KotlinConf event!](https://www.reddit.com/r/Kotlin/comments/1aqkfsb/host_your_own_kotlinconf_event/)
 - [Does anyone have an example of cinterop with a 3rd party iOS library actually working, not just with names and types but with linking and everything?](https://www.reddit.com/r/Kotlin/comments/1aqj6h2/does_anyone_have_an_example_of_cinterop_with_a/)
-- [Kotlin Object declarations — Singleton, Data Objects and More](https://www.reddit.com/r/Kotlin/comments/1aqh0m1/kotlin_object_declarations_singleton_data_objects/)
-- [Kotlin dataframe in 100 examples](https://www.reddit.com/r/Kotlin/comments/1aqgg4k/kotlin_dataframe_in_100_examples/)
-- [Develop to Android and C++ + Cmake + SDL2](https://www.reddit.com/r/Kotlin/comments/1aqd94p/develop_to_android_and_c_cmake_sdl2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
