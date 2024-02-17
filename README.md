@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Measuring and analyzing the KotlinJS bundle size](https://www.reddit.com/r/Kotlin/comments/1ask3fm/measuring_and_analyzing_the_kotlinjs_bundle_size/)
+- [Consistency vs Complexity - Going spare in the final bowling frame](https://www.reddit.com/r/Kotlin/comments/1aseat3/consistency_vs_complexity_going_spare_in_the/)
+- [Kotlin Builder Library](https://www.reddit.com/r/Kotlin/comments/1asd14b/kotlin_builder_library/)
+- [Android Dependency Hell](https://www.reddit.com/r/Kotlin/comments/1asbl48/android_dependency_hell/)
+- [Strict mode for concurrency](https://www.reddit.com/r/Kotlin/comments/1as3v1x/strict_mode_for_concurrency/)
+- [Having issues with compose Multiplatform state management](https://www.reddit.com/r/Kotlin/comments/1as085p/having_issues_with_compose_multiplatform_state/)
 - [Kotlin Notebooks Livestream, Feb 27, 16:00 UTC](https://www.reddit.com/r/Kotlin/comments/1arh0dl/kotlin_notebooks_livestream_feb_27_1600_utc/)
 - [I Need a little help as a beginner 😅](https://www.reddit.com/r/Kotlin/comments/1argifj/i_need_a_little_help_as_a_beginner/)
 - [Debugging Kotlin Compose Multiplatform Apps on Windows Emulator from MacOS?](https://www.reddit.com/r/Kotlin/comments/1ard6mm/debugging_kotlin_compose_multiplatform_apps_on/)
 - [KMM vs Native](https://www.reddit.com/r/Kotlin/comments/1ar7z30/kmm_vs_native/)
-- [Ktor running on Loom virtual threads](https://www.reddit.com/r/Kotlin/comments/1aqwe3y/ktor_running_on_loom_virtual_threads/)
-- [Help with coroutines](https://www.reddit.com/r/Kotlin/comments/1aqu7mb/help_with_coroutines/)
-- [Exploring properties of function composition in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aqqzxq/exploring_properties_of_function_composition_in/)
-- [What is Object Keyword in Kotlin](https://www.reddit.com/r/Kotlin/comments/1aqmic9/what_is_object_keyword_in_kotlin/)
-- [Host your own KotlinConf event!](https://www.reddit.com/r/Kotlin/comments/1aqkfsb/host_your_own_kotlinconf_event/)
-- [Does anyone have an example of cinterop with a 3rd party iOS library actually working, not just with names and types but with linking and everything?](https://www.reddit.com/r/Kotlin/comments/1aqj6h2/does_anyone_have_an_example_of_cinterop_with_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
