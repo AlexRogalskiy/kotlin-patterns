@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Confused](https://www.reddit.com/r/Kotlin/comments/1asxn5m/confused/)
+- [I want to start Android app development from the beginning, but I don&#39;t know where to study.](https://www.reddit.com/r/Kotlin/comments/1asw8ah/i_want_to_start_android_app_development_from_the/)
+- [Trying to figure out the best way to get a POC done for some JS code in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1asuboc/trying_to_figure_out_the_best_way_to_get_a_poc/)
 - [Measuring and analyzing the KotlinJS bundle size](https://www.reddit.com/r/Kotlin/comments/1ask3fm/measuring_and_analyzing_the_kotlinjs_bundle_size/)
 - [Consistency vs Complexity - Going spare in the final bowling frame](https://www.reddit.com/r/Kotlin/comments/1aseat3/consistency_vs_complexity_going_spare_in_the/)
 - [Kotlin Builder Library](https://www.reddit.com/r/Kotlin/comments/1asd14b/kotlin_builder_library/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Strict mode for concurrency](https://www.reddit.com/r/Kotlin/comments/1as3v1x/strict_mode_for_concurrency/)
 - [Having issues with compose Multiplatform state management](https://www.reddit.com/r/Kotlin/comments/1as085p/having_issues_with_compose_multiplatform_state/)
 - [Kotlin Notebooks Livestream, Feb 27, 16:00 UTC](https://www.reddit.com/r/Kotlin/comments/1arh0dl/kotlin_notebooks_livestream_feb_27_1600_utc/)
-- [I Need a little help as a beginner 😅](https://www.reddit.com/r/Kotlin/comments/1argifj/i_need_a_little_help_as_a_beginner/)
-- [Debugging Kotlin Compose Multiplatform Apps on Windows Emulator from MacOS?](https://www.reddit.com/r/Kotlin/comments/1ard6mm/debugging_kotlin_compose_multiplatform_apps_on/)
-- [KMM vs Native](https://www.reddit.com/r/Kotlin/comments/1ar7z30/kmm_vs_native/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
