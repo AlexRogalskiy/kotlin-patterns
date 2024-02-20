@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Custom Serialization](https://www.reddit.com/r/Kotlin/comments/1auz92h/custom_serialization/)
+- [Why Kotlin Is The Best Language &lpar;to use with htmx&rpar;](https://www.reddit.com/r/Kotlin/comments/1aut8hf/why_kotlin_is_the_best_language_to_use_with_htmx/)
+- [How prevalent is the Arrow library?](https://www.reddit.com/r/Kotlin/comments/1ausce4/how_prevalent_is_the_arrow_library/)
+- [I need app/website recommendation](https://www.reddit.com/r/Kotlin/comments/1auoek4/i_need_appwebsite_recommendation/)
+- [Kotlin Coroutines - courses](https://www.reddit.com/r/Kotlin/comments/1aulgnc/kotlin_coroutines_courses/)
+- [val peripheralScope = CoroutineScope&lpar;Job&lpar;&rpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1auktuu/val_peripheralscope_coroutinescopejob/)
+- [Kotlin code help](https://www.reddit.com/r/Kotlin/comments/1audok4/kotlin_code_help/)
 - [Best API testing library](https://www.reddit.com/r/Kotlin/comments/1atu45t/best_api_testing_library/)
 - [Confused](https://www.reddit.com/r/Kotlin/comments/1asxn5m/confused/)
 - [I want to start Android app development from the beginning, but I don&#39;t know where to study.](https://www.reddit.com/r/Kotlin/comments/1asw8ah/i_want_to_start_android_app_development_from_the/)
-- [Trying to figure out the best way to get a POC done for some JS code in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1asuboc/trying_to_figure_out_the_best_way_to_get_a_poc/)
-- [Measuring and analyzing the KotlinJS bundle size](https://www.reddit.com/r/Kotlin/comments/1ask3fm/measuring_and_analyzing_the_kotlinjs_bundle_size/)
-- [Consistency vs Complexity - Going spare in the final bowling frame](https://www.reddit.com/r/Kotlin/comments/1aseat3/consistency_vs_complexity_going_spare_in_the/)
-- [Kotlin Builder Library](https://www.reddit.com/r/Kotlin/comments/1asd14b/kotlin_builder_library/)
-- [Android Dependency Hell](https://www.reddit.com/r/Kotlin/comments/1asbl48/android_dependency_hell/)
-- [Strict mode for concurrency](https://www.reddit.com/r/Kotlin/comments/1as3v1x/strict_mode_for_concurrency/)
-- [Having issues with compose Multiplatform state management](https://www.reddit.com/r/Kotlin/comments/1as085p/having_issues_with_compose_multiplatform_state/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
