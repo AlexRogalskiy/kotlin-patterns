@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Sigbla release v1.24.2 - a framework for working with data in tables supporting various data types, reactive programming and events, user input, charts, and more](https://www.reddit.com/r/Kotlin/comments/1avlme0/new_sigbla_release_v1242_a_framework_for_working/)
+- [Doodle 0.10.0 can host React, supports WebAssembly and much more](https://www.reddit.com/r/Kotlin/comments/1avl6i5/doodle_0100_can_host_react_supports_webassembly/)
+- [Normalest way to install command-line Kotlin compiler?](https://www.reddit.com/r/Kotlin/comments/1aviebn/normalest_way_to_install_commandline_kotlin/)
+- [GraalVM vs OpenJDK GC Performance Comparison](https://www.reddit.com/r/Kotlin/comments/1avhfgo/graalvm_vs_openjdk_gc_performance_comparison/)
+- [You need to implement a function that accepts an operatingSystem parameter and an emailId parameter, constructs a message in the given format, and returns the message.](https://www.reddit.com/r/Kotlin/comments/1avgpq1/you_need_to_implement_a_function_that_accepts_an/)
+- [Android development with kotlin for beginner](https://www.reddit.com/r/Kotlin/comments/1avbk42/android_development_with_kotlin_for_beginner/)
 - [Custom Serialization](https://www.reddit.com/r/Kotlin/comments/1auz92h/custom_serialization/)
 - [Why Kotlin Is The Best Language &lpar;to use with htmx&rpar;](https://www.reddit.com/r/Kotlin/comments/1aut8hf/why_kotlin_is_the_best_language_to_use_with_htmx/)
 - [How prevalent is the Arrow library?](https://www.reddit.com/r/Kotlin/comments/1ausce4/how_prevalent_is_the_arrow_library/)
 - [I need app/website recommendation](https://www.reddit.com/r/Kotlin/comments/1auoek4/i_need_appwebsite_recommendation/)
-- [Kotlin Coroutines - courses](https://www.reddit.com/r/Kotlin/comments/1aulgnc/kotlin_coroutines_courses/)
-- [val peripheralScope = CoroutineScope&lpar;Job&lpar;&rpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1auktuu/val_peripheralscope_coroutinescopejob/)
-- [Kotlin code help](https://www.reddit.com/r/Kotlin/comments/1audok4/kotlin_code_help/)
-- [Best API testing library](https://www.reddit.com/r/Kotlin/comments/1atu45t/best_api_testing_library/)
-- [Confused](https://www.reddit.com/r/Kotlin/comments/1asxn5m/confused/)
-- [I want to start Android app development from the beginning, but I don&#39;t know where to study.](https://www.reddit.com/r/Kotlin/comments/1asw8ah/i_want_to_start_android_app_development_from_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
