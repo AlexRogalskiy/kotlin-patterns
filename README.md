@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best Kotlin Books for Beginners and Developers Must know](https://www.reddit.com/r/Kotlin/comments/1ayg1da/best_kotlin_books_for_beginners_and_developers/)
+- [Spring boot application with flyway in docker](https://www.reddit.com/r/Kotlin/comments/1ayfq7p/spring_boot_application_with_flyway_in_docker/)
+- [Problem with spring and MySQL](https://www.reddit.com/r/Kotlin/comments/1ayc1sl/problem_with_spring_and_mysql/)
+- [Simply your Kotlin by Refactoring Actions to Calculations &lpar;Bowling Part 7&rpar;](https://www.reddit.com/r/Kotlin/comments/1ay1wn9/simply_your_kotlin_by_refactoring_actions_to/)
+- [The Gradle Kotlin DSL Survey is out. Share your feedback!](https://www.reddit.com/r/Kotlin/comments/1axxqgw/the_gradle_kotlin_dsl_survey_is_out_share_your/)
+- [Tutorials for AWS Kotlin SDK](https://www.reddit.com/r/Kotlin/comments/1axwqb5/tutorials_for_aws_kotlin_sdk/)
+- [Notification system in app that uses Room as Offline data handling](https://www.reddit.com/r/Kotlin/comments/1axva8y/notification_system_in_app_that_uses_room_as/)
+- [KMP: Best practices mixing compose multiplatform with native UI?](https://www.reddit.com/r/Kotlin/comments/1axuvc6/kmp_best_practices_mixing_compose_multiplatform/)
+- [Kotlin vs. Swift](https://www.reddit.com/r/Kotlin/comments/1axupvy/kotlin_vs_swift/)
 - [KStateMachine v0.27.0 Release](https://www.reddit.com/r/Kotlin/comments/1ax98ca/kstatemachine_v0270_release/)
-- [Kotlin for back-end development?](https://www.reddit.com/r/Kotlin/comments/1ax551z/kotlin_for_backend_development/)
-- [Kotlin &amp; Modern Java: 17 Differences](https://www.reddit.com/r/Kotlin/comments/1ax3daz/kotlin_modern_java_17_differences/)
-- [Koin Users: Koin Annotations 1.3.1 is Out](https://www.reddit.com/r/Kotlin/comments/1ax1a3y/koin_users_koin_annotations_131_is_out/)
-- [Kotlin multiplatform library resources](https://www.reddit.com/r/Kotlin/comments/1awhgvn/kotlin_multiplatform_library_resources/)
-- [Introduction to HexFormat](https://www.reddit.com/r/Kotlin/comments/1awfyy8/introduction_to_hexformat/)
-- [Send it to your Java friends :&rpar;](https://www.reddit.com/r/Kotlin/comments/1awchp1/send_it_to_your_java_friends/)
-- [New Sigbla release v1.24.2 - a framework for working with data in tables supporting various data types, reactive programming and events, user input, charts, and more](https://www.reddit.com/r/Kotlin/comments/1avlme0/new_sigbla_release_v1242_a_framework_for_working/)
-- [Doodle 0.10.0 can host React, supports WebAssembly and much more](https://www.reddit.com/r/Kotlin/comments/1avl6i5/doodle_0100_can_host_react_supports_webassembly/)
-- [Normalest way to install command-line Kotlin compiler?](https://www.reddit.com/r/Kotlin/comments/1aviebn/normalest_way_to_install_commandline_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
