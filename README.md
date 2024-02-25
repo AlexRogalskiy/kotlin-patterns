@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Whitelist classes and functions for Kotlin custom scripting, is it possible?](https://www.reddit.com/r/Kotlin/comments/1az0yz4/whitelist_classes_and_functions_for_kotlin_custom/)
+- [Transfer native jetpack compose code on Compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1ayrtgq/transfer_native_jetpack_compose_code_on_compose/)
+- [Package naming and programmers without a domain name](https://www.reddit.com/r/Kotlin/comments/1ayootc/package_naming_and_programmers_without_a_domain/)
 - [Best Kotlin Books for Beginners and Developers Must know](https://www.reddit.com/r/Kotlin/comments/1ayg1da/best_kotlin_books_for_beginners_and_developers/)
 - [Spring boot application with flyway in docker](https://www.reddit.com/r/Kotlin/comments/1ayfq7p/spring_boot_application_with_flyway_in_docker/)
 - [Problem with spring and MySQL](https://www.reddit.com/r/Kotlin/comments/1ayc1sl/problem_with_spring_and_mysql/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [The Gradle Kotlin DSL Survey is out. Share your feedback!](https://www.reddit.com/r/Kotlin/comments/1axxqgw/the_gradle_kotlin_dsl_survey_is_out_share_your/)
 - [Tutorials for AWS Kotlin SDK](https://www.reddit.com/r/Kotlin/comments/1axwqb5/tutorials_for_aws_kotlin_sdk/)
 - [Notification system in app that uses Room as Offline data handling](https://www.reddit.com/r/Kotlin/comments/1axva8y/notification_system_in_app_that_uses_room_as/)
-- [KMP: Best practices mixing compose multiplatform with native UI?](https://www.reddit.com/r/Kotlin/comments/1axuvc6/kmp_best_practices_mixing_compose_multiplatform/)
-- [Kotlin vs. Swift](https://www.reddit.com/r/Kotlin/comments/1axupvy/kotlin_vs_swift/)
-- [KStateMachine v0.27.0 Release](https://www.reddit.com/r/Kotlin/comments/1ax98ca/kstatemachine_v0270_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
