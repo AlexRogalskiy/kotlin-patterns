@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Whitelist classes and functions for Kotlin custom scripting, is it possible?](https://www.reddit.com/r/Kotlin/comments/1az0yz4/whitelist_classes_and_functions_for_kotlin_custom/)
-- [Transfer native jetpack compose code on Compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1ayrtgq/transfer_native_jetpack_compose_code_on_compose/)
-- [Package naming and programmers without a domain name](https://www.reddit.com/r/Kotlin/comments/1ayootc/package_naming_and_programmers_without_a_domain/)
-- [Best Kotlin Books for Beginners and Developers Must know](https://www.reddit.com/r/Kotlin/comments/1ayg1da/best_kotlin_books_for_beginners_and_developers/)
-- [Spring boot application with flyway in docker](https://www.reddit.com/r/Kotlin/comments/1ayfq7p/spring_boot_application_with_flyway_in_docker/)
-- [Problem with spring and MySQL](https://www.reddit.com/r/Kotlin/comments/1ayc1sl/problem_with_spring_and_mysql/)
-- [Simply your Kotlin by Refactoring Actions to Calculations &lpar;Bowling Part 7&rpar;](https://www.reddit.com/r/Kotlin/comments/1ay1wn9/simply_your_kotlin_by_refactoring_actions_to/)
-- [The Gradle Kotlin DSL Survey is out. Share your feedback!](https://www.reddit.com/r/Kotlin/comments/1axxqgw/the_gradle_kotlin_dsl_survey_is_out_share_your/)
-- [Tutorials for AWS Kotlin SDK](https://www.reddit.com/r/Kotlin/comments/1axwqb5/tutorials_for_aws_kotlin_sdk/)
-- [Notification system in app that uses Room as Offline data handling](https://www.reddit.com/r/Kotlin/comments/1axva8y/notification_system_in_app_that_uses_room_as/)
+- [Android friends I’ve been tasked with Point of sale software. Would my stack be wise to build on? Thanks!](https://www.reddit.com/r/Kotlin/comments/1b03qji/android_friends_ive_been_tasked_with_point_of/)
+- [Good idea if the build.gradle.kts got smaller?](https://www.reddit.com/r/Kotlin/comments/1b03d9t/good_idea_if_the_buildgradlekts_got_smaller/)
+- [Problem with string encoding in application arguments](https://www.reddit.com/r/Kotlin/comments/1azzmmp/problem_with_string_encoding_in_application/)
+- [Planned new features of the type system beyond Kotlin 2.0?](https://www.reddit.com/r/Kotlin/comments/1azy2gn/planned_new_features_of_the_type_system_beyond/)
+- [Why do people still use java when there&#39;s kotlin ?](https://www.reddit.com/r/Kotlin/comments/1aztwhw/why_do_people_still_use_java_when_theres_kotlin/)
+- [Made the kotlin logo with a napkin](https://www.reddit.com/r/Kotlin/comments/1azstep/made_the_kotlin_logo_with_a_napkin/)
+- [Anyone uses Kotlin for HFT/Low Latency Trading?](https://www.reddit.com/r/Kotlin/comments/1azslyl/anyone_uses_kotlin_for_hftlow_latency_trading/)
+- [Suggestions for newbie’](https://www.reddit.com/r/Kotlin/comments/1azqo0l/suggestions_for_newbie/)
+- [Running KMP Desktop App in WSLg](https://www.reddit.com/r/Kotlin/comments/1azmo5l/running_kmp_desktop_app_in_wslg/)
+- [Ktor projects with &quot;batteries included&quot;](https://www.reddit.com/r/Kotlin/comments/1azkjpb/ktor_projects_with_batteries_included/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
