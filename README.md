@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android friends I’ve been tasked with Point of sale software. Would my stack be wise to build on? Thanks!](https://www.reddit.com/r/Kotlin/comments/1b03qji/android_friends_ive_been_tasked_with_point_of/)
-- [Good idea if the build.gradle.kts got smaller?](https://www.reddit.com/r/Kotlin/comments/1b03d9t/good_idea_if_the_buildgradlekts_got_smaller/)
-- [Problem with string encoding in application arguments](https://www.reddit.com/r/Kotlin/comments/1azzmmp/problem_with_string_encoding_in_application/)
-- [Planned new features of the type system beyond Kotlin 2.0?](https://www.reddit.com/r/Kotlin/comments/1azy2gn/planned_new_features_of_the_type_system_beyond/)
-- [Why do people still use java when there&#39;s kotlin ?](https://www.reddit.com/r/Kotlin/comments/1aztwhw/why_do_people_still_use_java_when_theres_kotlin/)
-- [Made the kotlin logo with a napkin](https://www.reddit.com/r/Kotlin/comments/1azstep/made_the_kotlin_logo_with_a_napkin/)
-- [Anyone uses Kotlin for HFT/Low Latency Trading?](https://www.reddit.com/r/Kotlin/comments/1azslyl/anyone_uses_kotlin_for_hftlow_latency_trading/)
-- [Suggestions for newbie’](https://www.reddit.com/r/Kotlin/comments/1azqo0l/suggestions_for_newbie/)
-- [Running KMP Desktop App in WSLg](https://www.reddit.com/r/Kotlin/comments/1azmo5l/running_kmp_desktop_app_in_wslg/)
-- [Ktor projects with &quot;batteries included&quot;](https://www.reddit.com/r/Kotlin/comments/1azkjpb/ktor_projects_with_batteries_included/)
+- [Learn Android](https://www.reddit.com/r/Kotlin/comments/1b0n9po/learn_android/)
+- [Live Edit with KMP](https://www.reddit.com/r/Kotlin/comments/1b0mllh/live_edit_with_kmp/)
+- [When using Google pay and Stripe have any of you had a problem with duplicate payment attempts being made?](https://www.reddit.com/r/Kotlin/comments/1b0j196/when_using_google_pay_and_stripe_have_any_of_you/)
+- [I am getting this Namespace undefined error when i have specified it.Help please](https://www.reddit.com/r/Kotlin/comments/1b0h65m/i_am_getting_this_namespace_undefined_error_when/)
+- [Could I start an app without knowing much about Kotlin?](https://www.reddit.com/r/Kotlin/comments/1b0gh99/could_i_start_an_app_without_knowing_much_about/)
+- [Good First Kotlin Project?](https://www.reddit.com/r/Kotlin/comments/1b0dkyw/good_first_kotlin_project/)
+- [How to publish your Kotlin Multiplatform library on Maven Central](https://www.reddit.com/r/Kotlin/comments/1b0d85j/how_to_publish_your_kotlin_multiplatform_library/)
+- [Is it possible to create Minecraft in Kotlin language?](https://www.reddit.com/r/Kotlin/comments/1b0c7ke/is_it_possible_to_create_minecraft_in_kotlin/)
+- [Stuck due to bad weather, give me interesting kotlin facts and features](https://www.reddit.com/r/Kotlin/comments/1b0bzfb/stuck_due_to_bad_weather_give_me_interesting/)
+- [Is Kotlin worth to learn in 2024?](https://www.reddit.com/r/Kotlin/comments/1b0bpru/is_kotlin_worth_to_learn_in_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
