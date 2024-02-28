@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin desktop application](https://www.reddit.com/r/Kotlin/comments/1b1qqa2/kotlin_desktop_application/)
+- [Need help understanding this test in Ktor](https://www.reddit.com/r/Kotlin/comments/1b1iyyx/need_help_understanding_this_test_in_ktor/)
+- [What are the main similarities to Java?](https://www.reddit.com/r/Kotlin/comments/1b1gj0w/what_are_the_main_similarities_to_java/)
+- [How do you deal with 💩 clients in software development?](https://www.reddit.com/r/Kotlin/comments/1b1dzvz/how_do_you_deal_with_clients_in_software/)
+- [Need help with respect to coroutines](https://www.reddit.com/r/Kotlin/comments/1b1079z/need_help_with_respect_to_coroutines/)
 - [Learn Android](https://www.reddit.com/r/Kotlin/comments/1b0n9po/learn_android/)
 - [Live Edit with KMP](https://www.reddit.com/r/Kotlin/comments/1b0mllh/live_edit_with_kmp/)
 - [When using Google pay and Stripe have any of you had a problem with duplicate payment attempts being made?](https://www.reddit.com/r/Kotlin/comments/1b0j196/when_using_google_pay_and_stripe_have_any_of_you/)
 - [I am getting this Namespace undefined error when i have specified it.Help please](https://www.reddit.com/r/Kotlin/comments/1b0h65m/i_am_getting_this_namespace_undefined_error_when/)
 - [Could I start an app without knowing much about Kotlin?](https://www.reddit.com/r/Kotlin/comments/1b0gh99/could_i_start_an_app_without_knowing_much_about/)
-- [Good First Kotlin Project?](https://www.reddit.com/r/Kotlin/comments/1b0dkyw/good_first_kotlin_project/)
-- [How to publish your Kotlin Multiplatform library on Maven Central](https://www.reddit.com/r/Kotlin/comments/1b0d85j/how_to_publish_your_kotlin_multiplatform_library/)
-- [Is it possible to create Minecraft in Kotlin language?](https://www.reddit.com/r/Kotlin/comments/1b0c7ke/is_it_possible_to_create_minecraft_in_kotlin/)
-- [Stuck due to bad weather, give me interesting kotlin facts and features](https://www.reddit.com/r/Kotlin/comments/1b0bzfb/stuck_due_to_bad_weather_give_me_interesting/)
-- [Is Kotlin worth to learn in 2024?](https://www.reddit.com/r/Kotlin/comments/1b0bpru/is_kotlin_worth_to_learn_in_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
