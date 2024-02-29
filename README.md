@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Keval, the math expression evaluator - 1.0.0](https://www.reddit.com/r/Kotlin/comments/1b2dzxz/keval_the_math_expression_evaluator_100/)
+- [API request with deserialization to generic data class](https://www.reddit.com/r/Kotlin/comments/1b255lp/api_request_with_deserialization_to_generic_data/)
+- [Kotlin inline value classes explained](https://www.reddit.com/r/Kotlin/comments/1b200ub/kotlin_inline_value_classes_explained/)
+- [Illustrated Guide Ch 17 - Handling Runtime Exceptions](https://www.reddit.com/r/Kotlin/comments/1b1w2xk/illustrated_guide_ch_17_handling_runtime/)
 - [Kotlin desktop application](https://www.reddit.com/r/Kotlin/comments/1b1qqa2/kotlin_desktop_application/)
 - [Need help understanding this test in Ktor](https://www.reddit.com/r/Kotlin/comments/1b1iyyx/need_help_understanding_this_test_in_ktor/)
 - [What are the main similarities to Java?](https://www.reddit.com/r/Kotlin/comments/1b1gj0w/what_are_the_main_similarities_to_java/)
 - [How do you deal with 💩 clients in software development?](https://www.reddit.com/r/Kotlin/comments/1b1dzvz/how_do_you_deal_with_clients_in_software/)
 - [Need help with respect to coroutines](https://www.reddit.com/r/Kotlin/comments/1b1079z/need_help_with_respect_to_coroutines/)
 - [Learn Android](https://www.reddit.com/r/Kotlin/comments/1b0n9po/learn_android/)
-- [Live Edit with KMP](https://www.reddit.com/r/Kotlin/comments/1b0mllh/live_edit_with_kmp/)
-- [When using Google pay and Stripe have any of you had a problem with duplicate payment attempts being made?](https://www.reddit.com/r/Kotlin/comments/1b0j196/when_using_google_pay_and_stripe_have_any_of_you/)
-- [I am getting this Namespace undefined error when i have specified it.Help please](https://www.reddit.com/r/Kotlin/comments/1b0h65m/i_am_getting_this_namespace_undefined_error_when/)
-- [Could I start an app without knowing much about Kotlin?](https://www.reddit.com/r/Kotlin/comments/1b0gh99/could_i_start_an_app_without_knowing_much_about/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
