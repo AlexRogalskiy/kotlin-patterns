@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone have experience with adding compose multiplatform modules to an existing iOS app?](https://www.reddit.com/r/Kotlin/comments/1b3f7r4/anyone_have_experience_with_adding_compose/)
+- [I read Kotlin is inspired by Scala? In which ways?](https://www.reddit.com/r/Kotlin/comments/1b3c6ru/i_read_kotlin_is_inspired_by_scala_in_which_ways/)
+- [Compose Multiplatform 1.6.0 – Resources, UI Testing, iOS Accessibility, and Preview Annotation](https://www.reddit.com/r/Kotlin/comments/1b37e5f/compose_multiplatform_160_resources_ui_testing/)
+- [Need some help 🙏](https://www.reddit.com/r/Kotlin/comments/1b36m5y/need_some_help/)
+- [Drawbacks of using Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/1b35zm6/drawbacks_of_using_kotlinjs/)
+- [Kotlin has a good integration with Arm and the future Risc-V?](https://www.reddit.com/r/Kotlin/comments/1b2sgdd/kotlin_has_a_good_integration_with_arm_and_the/)
 - [Keval, the math expression evaluator - 1.0.0](https://www.reddit.com/r/Kotlin/comments/1b2dzxz/keval_the_math_expression_evaluator_100/)
 - [API request with deserialization to generic data class](https://www.reddit.com/r/Kotlin/comments/1b255lp/api_request_with_deserialization_to_generic_data/)
 - [Kotlin inline value classes explained](https://www.reddit.com/r/Kotlin/comments/1b200ub/kotlin_inline_value_classes_explained/)
 - [Illustrated Guide Ch 17 - Handling Runtime Exceptions](https://www.reddit.com/r/Kotlin/comments/1b1w2xk/illustrated_guide_ch_17_handling_runtime/)
-- [Kotlin desktop application](https://www.reddit.com/r/Kotlin/comments/1b1qqa2/kotlin_desktop_application/)
-- [Need help understanding this test in Ktor](https://www.reddit.com/r/Kotlin/comments/1b1iyyx/need_help_understanding_this_test_in_ktor/)
-- [What are the main similarities to Java?](https://www.reddit.com/r/Kotlin/comments/1b1gj0w/what_are_the_main_similarities_to_java/)
-- [How do you deal with 💩 clients in software development?](https://www.reddit.com/r/Kotlin/comments/1b1dzvz/how_do_you_deal_with_clients_in_software/)
-- [Need help with respect to coroutines](https://www.reddit.com/r/Kotlin/comments/1b1079z/need_help_with_respect_to_coroutines/)
-- [Learn Android](https://www.reddit.com/r/Kotlin/comments/1b0n9po/learn_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
