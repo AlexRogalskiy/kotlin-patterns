@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Created my first app in kotlin](https://www.reddit.com/r/Kotlin/comments/1b48aur/created_my_first_app_in_kotlin/)
+- [What is coroutines?](https://www.reddit.com/r/Kotlin/comments/1b450w7/what_is_coroutines/)
+- [How to fix this error!?](https://www.reddit.com/r/Kotlin/comments/1b42qro/how_to_fix_this_error/)
+- [Why did you start coding in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1b41c4x/why_did_you_start_coding_in_kotlin/)
+- [🎉 The Kotlin Foundation is now a mentor org for Google Summer of Code 2024!](https://www.reddit.com/r/Kotlin/comments/1b3x04r/the_kotlin_foundation_is_now_a_mentor_org_for/)
+- [Refactor Mercilessly? - Bowling Part 8](https://www.reddit.com/r/Kotlin/comments/1b3sisd/refactor_mercilessly_bowling_part_8/)
 - [Anyone have experience with adding compose multiplatform modules to an existing iOS app?](https://www.reddit.com/r/Kotlin/comments/1b3f7r4/anyone_have_experience_with_adding_compose/)
 - [I read Kotlin is inspired by Scala? In which ways?](https://www.reddit.com/r/Kotlin/comments/1b3c6ru/i_read_kotlin_is_inspired_by_scala_in_which_ways/)
 - [Compose Multiplatform 1.6.0 – Resources, UI Testing, iOS Accessibility, and Preview Annotation](https://www.reddit.com/r/Kotlin/comments/1b37e5f/compose_multiplatform_160_resources_ui_testing/)
 - [Need some help 🙏](https://www.reddit.com/r/Kotlin/comments/1b36m5y/need_some_help/)
-- [Drawbacks of using Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/1b35zm6/drawbacks_of_using_kotlinjs/)
-- [Kotlin has a good integration with Arm and the future Risc-V?](https://www.reddit.com/r/Kotlin/comments/1b2sgdd/kotlin_has_a_good_integration_with_arm_and_the/)
-- [Keval, the math expression evaluator - 1.0.0](https://www.reddit.com/r/Kotlin/comments/1b2dzxz/keval_the_math_expression_evaluator_100/)
-- [API request with deserialization to generic data class](https://www.reddit.com/r/Kotlin/comments/1b255lp/api_request_with_deserialization_to_generic_data/)
-- [Kotlin inline value classes explained](https://www.reddit.com/r/Kotlin/comments/1b200ub/kotlin_inline_value_classes_explained/)
-- [Illustrated Guide Ch 17 - Handling Runtime Exceptions](https://www.reddit.com/r/Kotlin/comments/1b1w2xk/illustrated_guide_ch_17_handling_runtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
