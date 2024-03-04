@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about an app I want to build](https://www.reddit.com/r/Kotlin/comments/1b5jfd5/question_about_an_app_i_want_to_build/)
 - [Using Kotlin Multiplatform to build apps for cars](https://www.reddit.com/r/Kotlin/comments/1b52dza/using_kotlin_multiplatform_to_build_apps_for_cars/)
 - [What do you like about data classes in Kotlin vs Java data classes?](https://www.reddit.com/r/Kotlin/comments/1b508pu/what_do_you_like_about_data_classes_in_kotlin_vs/)
 - [Kotlin SDK develop for mobile android and ios apps](https://www.reddit.com/r/Kotlin/comments/1b4sfku/kotlin_sdk_develop_for_mobile_android_and_ios_apps/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin for game dev?](https://www.reddit.com/r/Kotlin/comments/1b4i6uf/kotlin_for_game_dev/)
 - [Created my first app in kotlin](https://www.reddit.com/r/Kotlin/comments/1b48aur/created_my_first_app_in_kotlin/)
 - [What is coroutines?](https://www.reddit.com/r/Kotlin/comments/1b450w7/what_is_coroutines/)
-- [How to fix this error!?](https://www.reddit.com/r/Kotlin/comments/1b42qro/how_to_fix_this_error/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
