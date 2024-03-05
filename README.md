@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Struggling with groupingBy a Generic List of items by an annotated field.](https://www.reddit.com/r/Kotlin/comments/1b6r7r0/struggling_with_groupingby_a_generic_list_of/)
+- [Kotlin/Java circular dependencies in maven project](https://www.reddit.com/r/Kotlin/comments/1b6lda8/kotlinjava_circular_dependencies_in_maven_project/)
+- [Kotlin for AI &lpar;Machine Learning&rpar; development?](https://www.reddit.com/r/Kotlin/comments/1b6kvg8/kotlin_for_ai_machine_learning_development/)
+- [What’s the digference between Array, IntArray, arrayOf and intArrayOf?](https://www.reddit.com/r/Kotlin/comments/1b6k3qu/whats_the_digference_between_array_intarray/)
+- [kotlin-itertools - Multiplatform combinatoric sequences for Kotlin, inspired by python-itertools](https://www.reddit.com/r/Kotlin/comments/1b6ds8n/kotlinitertools_multiplatform_combinatoric/)
+- [Help with an app which I want to build](https://www.reddit.com/r/Kotlin/comments/1b686yc/help_with_an_app_which_i_want_to_build/)
+- [Migrating to Koin Annotations in a Multiplatform Project](https://www.reddit.com/r/Kotlin/comments/1b67v5k/migrating_to_koin_annotations_in_a_multiplatform/)
+- [Kotlin Type Casts Explained](https://www.reddit.com/r/Kotlin/comments/1b64kxl/kotlin_type_casts_explained/)
 - [Question about an app I want to build](https://www.reddit.com/r/Kotlin/comments/1b5jfd5/question_about_an_app_i_want_to_build/)
 - [Using Kotlin Multiplatform to build apps for cars](https://www.reddit.com/r/Kotlin/comments/1b52dza/using_kotlin_multiplatform_to_build_apps_for_cars/)
-- [What do you like about data classes in Kotlin vs Java data classes?](https://www.reddit.com/r/Kotlin/comments/1b508pu/what_do_you_like_about_data_classes_in_kotlin_vs/)
-- [Kotlin SDK develop for mobile android and ios apps](https://www.reddit.com/r/Kotlin/comments/1b4sfku/kotlin_sdk_develop_for_mobile_android_and_ios_apps/)
-- [How to configure ktor server to use ssl certificate from certbot](https://www.reddit.com/r/Kotlin/comments/1b4pn3d/how_to_configure_ktor_server_to_use_ssl/)
-- [What should I do After Finished Head First Kotlin?](https://www.reddit.com/r/Kotlin/comments/1b4nugp/what_should_i_do_after_finished_head_first_kotlin/)
-- [Kotlin + SDL2](https://www.reddit.com/r/Kotlin/comments/1b4l0qv/kotlin_sdl2/)
-- [Kotlin for game dev?](https://www.reddit.com/r/Kotlin/comments/1b4i6uf/kotlin_for_game_dev/)
-- [Created my first app in kotlin](https://www.reddit.com/r/Kotlin/comments/1b48aur/created_my_first_app_in_kotlin/)
-- [What is coroutines?](https://www.reddit.com/r/Kotlin/comments/1b450w7/what_is_coroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
