@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help overriding methods in a fragment](https://www.reddit.com/r/Kotlin/comments/1b7defh/help_overriding_methods_in_a_fragment/)
+- [Building a macOS screen saver in Kotlin](https://www.reddit.com/r/Kotlin/comments/1b7amlx/building_a_macos_screen_saver_in_kotlin/)
+- [Java, Kotlin ecosystem: libs, packages, etc... ?](https://www.reddit.com/r/Kotlin/comments/1b6zo2j/java_kotlin_ecosystem_libs_packages_etc/)
+- [Install Kotlin on native Windows, no WSL required!](https://www.reddit.com/r/Kotlin/comments/1b6v5mu/install_kotlin_on_native_windows_no_wsl_required/)
 - [Struggling with groupingBy a Generic List of items by an annotated field.](https://www.reddit.com/r/Kotlin/comments/1b6r7r0/struggling_with_groupingby_a_generic_list_of/)
 - [Kotlin/Java circular dependencies in maven project](https://www.reddit.com/r/Kotlin/comments/1b6lda8/kotlinjava_circular_dependencies_in_maven_project/)
 - [Kotlin for AI &lpar;Machine Learning&rpar; development?](https://www.reddit.com/r/Kotlin/comments/1b6kvg8/kotlin_for_ai_machine_learning_development/)
 - [What’s the digference between Array, IntArray, arrayOf and intArrayOf?](https://www.reddit.com/r/Kotlin/comments/1b6k3qu/whats_the_digference_between_array_intarray/)
 - [kotlin-itertools - Multiplatform combinatoric sequences for Kotlin, inspired by python-itertools](https://www.reddit.com/r/Kotlin/comments/1b6ds8n/kotlinitertools_multiplatform_combinatoric/)
 - [Help with an app which I want to build](https://www.reddit.com/r/Kotlin/comments/1b686yc/help_with_an_app_which_i_want_to_build/)
-- [Migrating to Koin Annotations in a Multiplatform Project](https://www.reddit.com/r/Kotlin/comments/1b67v5k/migrating_to_koin_annotations_in_a_multiplatform/)
-- [Kotlin Type Casts Explained](https://www.reddit.com/r/Kotlin/comments/1b64kxl/kotlin_type_casts_explained/)
-- [Question about an app I want to build](https://www.reddit.com/r/Kotlin/comments/1b5jfd5/question_about_an_app_i_want_to_build/)
-- [Using Kotlin Multiplatform to build apps for cars](https://www.reddit.com/r/Kotlin/comments/1b52dza/using_kotlin_multiplatform_to_build_apps_for_cars/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
