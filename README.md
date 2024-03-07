@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help overriding methods in a fragment](https://www.reddit.com/r/Kotlin/comments/1b7defh/help_overriding_methods_in_a_fragment/)
-- [Building a macOS screen saver in Kotlin](https://www.reddit.com/r/Kotlin/comments/1b7amlx/building_a_macos_screen_saver_in_kotlin/)
-- [Java, Kotlin ecosystem: libs, packages, etc... ?](https://www.reddit.com/r/Kotlin/comments/1b6zo2j/java_kotlin_ecosystem_libs_packages_etc/)
-- [Install Kotlin on native Windows, no WSL required!](https://www.reddit.com/r/Kotlin/comments/1b6v5mu/install_kotlin_on_native_windows_no_wsl_required/)
-- [Struggling with groupingBy a Generic List of items by an annotated field.](https://www.reddit.com/r/Kotlin/comments/1b6r7r0/struggling_with_groupingby_a_generic_list_of/)
-- [Kotlin/Java circular dependencies in maven project](https://www.reddit.com/r/Kotlin/comments/1b6lda8/kotlinjava_circular_dependencies_in_maven_project/)
-- [Kotlin for AI &lpar;Machine Learning&rpar; development?](https://www.reddit.com/r/Kotlin/comments/1b6kvg8/kotlin_for_ai_machine_learning_development/)
-- [What’s the digference between Array, IntArray, arrayOf and intArrayOf?](https://www.reddit.com/r/Kotlin/comments/1b6k3qu/whats_the_digference_between_array_intarray/)
-- [kotlin-itertools - Multiplatform combinatoric sequences for Kotlin, inspired by python-itertools](https://www.reddit.com/r/Kotlin/comments/1b6ds8n/kotlinitertools_multiplatform_combinatoric/)
-- [Help with an app which I want to build](https://www.reddit.com/r/Kotlin/comments/1b686yc/help_with_an_app_which_i_want_to_build/)
+- [Compose Desktop App](https://www.reddit.com/r/Kotlin/comments/1b8bz4l/compose_desktop_app/)
+- [What has been your experience been with using gRPC and Spring/Spring Boot?](https://www.reddit.com/r/Kotlin/comments/1b8bjxl/what_has_been_your_experience_been_with_using/)
+- [Kotlin launcher, please help](https://www.reddit.com/r/Kotlin/comments/1b888si/kotlin_launcher_please_help/)
+- [Inheritance Usage](https://www.reddit.com/r/Kotlin/comments/1b85zn3/inheritance_usage/)
+- [Variance... without Generics!](https://www.reddit.com/r/Kotlin/comments/1b84oh0/variance_without_generics/)
+- [I developed the same iOS version of my android app in less than one day Kotlin + Compose Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1b83ngt/i_developed_the_same_ios_version_of_my_android/)
+- [Android App Error Bluetooth](https://www.reddit.com/r/Kotlin/comments/1b827vz/android_app_error_bluetooth/)
+- [Start Windows App from Kotlin App](https://www.reddit.com/r/Kotlin/comments/1b7zghx/start_windows_app_from_kotlin_app/)
+- [Bluetooth connection error](https://www.reddit.com/r/Kotlin/comments/1b7v908/bluetooth_connection_error/)
+- [A Deep Dive into Sealed Classes — Wednesday’s Kotlin Kuppa #3](https://www.reddit.com/r/Kotlin/comments/1b7v83o/a_deep_dive_into_sealed_classes_wednesdays_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
