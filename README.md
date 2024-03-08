@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [In user&#39;s location google maps api has a blue dot. How we can change that blue dot to our icon?](https://www.reddit.com/r/Kotlin/comments/1b998uo/in_users_location_google_maps_api_has_a_blue_dot/)
+- [How to run a simple Kotlin file in Fleet?](https://www.reddit.com/r/Kotlin/comments/1b93ha4/how_to_run_a_simple_kotlin_file_in_fleet/)
+- [React Components in Compose Multiplatform UI](https://www.reddit.com/r/Kotlin/comments/1b92dad/react_components_in_compose_multiplatform_ui/)
+- [Opensource Contribution](https://www.reddit.com/r/Kotlin/comments/1b8ybhl/opensource_contribution/)
 - [Compose Desktop App](https://www.reddit.com/r/Kotlin/comments/1b8bz4l/compose_desktop_app/)
 - [What has been your experience been with using gRPC and Spring/Spring Boot?](https://www.reddit.com/r/Kotlin/comments/1b8bjxl/what_has_been_your_experience_been_with_using/)
 - [Kotlin launcher, please help](https://www.reddit.com/r/Kotlin/comments/1b888si/kotlin_launcher_please_help/)
 - [Inheritance Usage](https://www.reddit.com/r/Kotlin/comments/1b85zn3/inheritance_usage/)
 - [Variance... without Generics!](https://www.reddit.com/r/Kotlin/comments/1b84oh0/variance_without_generics/)
 - [I developed the same iOS version of my android app in less than one day Kotlin + Compose Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1b83ngt/i_developed_the_same_ios_version_of_my_android/)
-- [Android App Error Bluetooth](https://www.reddit.com/r/Kotlin/comments/1b827vz/android_app_error_bluetooth/)
-- [Start Windows App from Kotlin App](https://www.reddit.com/r/Kotlin/comments/1b7zghx/start_windows_app_from_kotlin_app/)
-- [Bluetooth connection error](https://www.reddit.com/r/Kotlin/comments/1b7v908/bluetooth_connection_error/)
-- [A Deep Dive into Sealed Classes — Wednesday’s Kotlin Kuppa #3](https://www.reddit.com/r/Kotlin/comments/1b7v83o/a_deep_dive_into_sealed_classes_wednesdays_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
