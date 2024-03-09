@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functional Kotlin in 2024](https://www.reddit.com/r/Kotlin/comments/1ba1krz/functional_kotlin_in_2024/)
+- [Kotlin Multiplatform but keep the UI native for Desktop and Web?](https://www.reddit.com/r/Kotlin/comments/1b9qr8i/kotlin_multiplatform_but_keep_the_ui_native_for/)
+- [Property-based testing with jqwik and Kotlin](https://www.reddit.com/r/Kotlin/comments/1b9ohkf/propertybased_testing_with_jqwik_and_kotlin/)
+- [🤢 Life is too short for working with blank strings.](https://www.reddit.com/r/Kotlin/comments/1b9o5dq/life_is_too_short_for_working_with_blank_strings/)
+- [How to publish your own BoM &lpar;Billing of Materials&rpar; for Kotlin Multiplatform libraries on Maven Central](https://www.reddit.com/r/Kotlin/comments/1b9locl/how_to_publish_your_own_bom_billing_of_materials/)
+- [Code review request](https://www.reddit.com/r/Kotlin/comments/1b9lhcz/code_review_request/)
+- [How can I migrate projects from Android Studio to Visual studio?](https://www.reddit.com/r/Kotlin/comments/1b9kakn/how_can_i_migrate_projects_from_android_studio_to/)
+- [Getting started with Kotlin](https://www.reddit.com/r/Kotlin/comments/1b9k1dw/getting_started_with_kotlin/)
 - [In user&#39;s location google maps api has a blue dot. How we can change that blue dot to our icon?](https://www.reddit.com/r/Kotlin/comments/1b998uo/in_users_location_google_maps_api_has_a_blue_dot/)
 - [How to run a simple Kotlin file in Fleet?](https://www.reddit.com/r/Kotlin/comments/1b93ha4/how_to_run_a_simple_kotlin_file_in_fleet/)
-- [React Components in Compose Multiplatform UI](https://www.reddit.com/r/Kotlin/comments/1b92dad/react_components_in_compose_multiplatform_ui/)
-- [Opensource Contribution](https://www.reddit.com/r/Kotlin/comments/1b8ybhl/opensource_contribution/)
-- [Compose Desktop App](https://www.reddit.com/r/Kotlin/comments/1b8bz4l/compose_desktop_app/)
-- [What has been your experience been with using gRPC and Spring/Spring Boot?](https://www.reddit.com/r/Kotlin/comments/1b8bjxl/what_has_been_your_experience_been_with_using/)
-- [Kotlin launcher, please help](https://www.reddit.com/r/Kotlin/comments/1b888si/kotlin_launcher_please_help/)
-- [Inheritance Usage](https://www.reddit.com/r/Kotlin/comments/1b85zn3/inheritance_usage/)
-- [Variance... without Generics!](https://www.reddit.com/r/Kotlin/comments/1b84oh0/variance_without_generics/)
-- [I developed the same iOS version of my android app in less than one day Kotlin + Compose Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1b83ngt/i_developed_the_same_ios_version_of_my_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
