@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Realistic targets for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1bavd4q/realistic_targets_for_kotlin_multiplatform/)
+- [Deep dive into kotlin map: more readable approach of using kotlin map data structure](https://www.reddit.com/r/Kotlin/comments/1bamj9i/deep_dive_into_kotlin_map_more_readable_approach/)
+- [Kotlin at Light Speed Free Course](https://www.reddit.com/r/Kotlin/comments/1bamiby/kotlin_at_light_speed_free_course/)
 - [Functional Kotlin in 2024](https://www.reddit.com/r/Kotlin/comments/1ba1krz/functional_kotlin_in_2024/)
 - [Kotlin Multiplatform but keep the UI native for Desktop and Web?](https://www.reddit.com/r/Kotlin/comments/1b9qr8i/kotlin_multiplatform_but_keep_the_ui_native_for/)
 - [Property-based testing with jqwik and Kotlin](https://www.reddit.com/r/Kotlin/comments/1b9ohkf/propertybased_testing_with_jqwik_and_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to publish your own BoM &lpar;Billing of Materials&rpar; for Kotlin Multiplatform libraries on Maven Central](https://www.reddit.com/r/Kotlin/comments/1b9locl/how_to_publish_your_own_bom_billing_of_materials/)
 - [Code review request](https://www.reddit.com/r/Kotlin/comments/1b9lhcz/code_review_request/)
 - [How can I migrate projects from Android Studio to Visual studio?](https://www.reddit.com/r/Kotlin/comments/1b9kakn/how_can_i_migrate_projects_from_android_studio_to/)
-- [Getting started with Kotlin](https://www.reddit.com/r/Kotlin/comments/1b9k1dw/getting_started_with_kotlin/)
-- [In user&#39;s location google maps api has a blue dot. How we can change that blue dot to our icon?](https://www.reddit.com/r/Kotlin/comments/1b998uo/in_users_location_google_maps_api_has_a_blue_dot/)
-- [How to run a simple Kotlin file in Fleet?](https://www.reddit.com/r/Kotlin/comments/1b93ha4/how_to_run_a_simple_kotlin_file_in_fleet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
