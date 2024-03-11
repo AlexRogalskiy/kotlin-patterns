@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Change color of image by clicking on it.](https://www.reddit.com/r/Kotlin/comments/1bbjr0k/change_color_of_image_by_clicking_on_it/)
+- [Could not resolve all files for configuration &#39;:app:debugRuntimeClasspath&#39;](https://www.reddit.com/r/Kotlin/comments/1bbaf7u/could_not_resolve_all_files_for_configuration/)
+- [Is developer android com enough to learn Kotlin and Android?](https://www.reddit.com/r/Kotlin/comments/1bb6sc1/is_developer_android_com_enough_to_learn_kotlin/)
+- [Is developer android com enough to learn Kotlin and Android?](https://www.reddit.com/r/Kotlin/comments/1bb6sbi/is_developer_android_com_enough_to_learn_kotlin/)
+- [Kotlin Multiplatform Mobile: Is it possible to write shared libraries &lpar;XCFramework&rpar; for Kotlin only dependencies?](https://www.reddit.com/r/Kotlin/comments/1bb6fvf/kotlin_multiplatform_mobile_is_it_possible_to/)
+- [is it worth to buy license for INTELIJ IDEA jetbrains](https://www.reddit.com/r/Kotlin/comments/1bb5zcx/is_it_worth_to_buy_license_for_intelij_idea/)
 - [Realistic targets for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1bavd4q/realistic_targets_for_kotlin_multiplatform/)
 - [Deep dive into kotlin map: more readable approach of using kotlin map data structure](https://www.reddit.com/r/Kotlin/comments/1bamj9i/deep_dive_into_kotlin_map_more_readable_approach/)
 - [Kotlin at Light Speed Free Course](https://www.reddit.com/r/Kotlin/comments/1bamiby/kotlin_at_light_speed_free_course/)
 - [Functional Kotlin in 2024](https://www.reddit.com/r/Kotlin/comments/1ba1krz/functional_kotlin_in_2024/)
-- [Kotlin Multiplatform but keep the UI native for Desktop and Web?](https://www.reddit.com/r/Kotlin/comments/1b9qr8i/kotlin_multiplatform_but_keep_the_ui_native_for/)
-- [Property-based testing with jqwik and Kotlin](https://www.reddit.com/r/Kotlin/comments/1b9ohkf/propertybased_testing_with_jqwik_and_kotlin/)
-- [🤢 Life is too short for working with blank strings.](https://www.reddit.com/r/Kotlin/comments/1b9o5dq/life_is_too_short_for_working_with_blank_strings/)
-- [How to publish your own BoM &lpar;Billing of Materials&rpar; for Kotlin Multiplatform libraries on Maven Central](https://www.reddit.com/r/Kotlin/comments/1b9locl/how_to_publish_your_own_bom_billing_of_materials/)
-- [Code review request](https://www.reddit.com/r/Kotlin/comments/1b9lhcz/code_review_request/)
-- [How can I migrate projects from Android Studio to Visual studio?](https://www.reddit.com/r/Kotlin/comments/1b9kakn/how_can_i_migrate_projects_from_android_studio_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
