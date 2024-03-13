@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the salary ?](https://www.reddit.com/r/Kotlin/comments/1bdc61w/what_is_the_salary/)
+- [Stop Debating in Code Reviews. Start Enforcing with Lint Rules](https://www.reddit.com/r/Kotlin/comments/1bdb5wi/stop_debating_in_code_reviews_start_enforcing/)
+- [How not to code Kotlin like a Java dev?](https://www.reddit.com/r/Kotlin/comments/1bd5yl5/how_not_to_code_kotlin_like_a_java_dev/)
+- [Functions using postgrest not functioning](https://www.reddit.com/r/Kotlin/comments/1bcx7ad/functions_using_postgrest_not_functioning/)
+- [The Ktor Roadmap for 2024](https://www.reddit.com/r/Kotlin/comments/1bcwjhm/the_ktor_roadmap_for_2024/)
 - [Compose Plotting Libraries?](https://www.reddit.com/r/Kotlin/comments/1bcj9y9/compose_plotting_libraries/)
 - [Kotlin - how to fix image position and stop re-scaling.](https://www.reddit.com/r/Kotlin/comments/1bcgix4/kotlin_how_to_fix_image_position_and_stop/)
 - [Board Game Geek Ktor client](https://www.reddit.com/r/Kotlin/comments/1bcamyh/board_game_geek_ktor_client/)
 - [How to handle requesting unsafe Jsons with ktor](https://www.reddit.com/r/Kotlin/comments/1bc8h3i/how_to_handle_requesting_unsafe_jsons_with_ktor/)
 - [salary of a kotlin developer in india](https://www.reddit.com/r/Kotlin/comments/1bbrci4/salary_of_a_kotlin_developer_in_india/)
-- [Change color of image by clicking on it.](https://www.reddit.com/r/Kotlin/comments/1bbjr0k/change_color_of_image_by_clicking_on_it/)
-- [Could not resolve all files for configuration &#39;:app:debugRuntimeClasspath&#39;](https://www.reddit.com/r/Kotlin/comments/1bbaf7u/could_not_resolve_all_files_for_configuration/)
-- [Is developer android com enough to learn Kotlin and Android?](https://www.reddit.com/r/Kotlin/comments/1bb6sc1/is_developer_android_com_enough_to_learn_kotlin/)
-- [Is developer android com enough to learn Kotlin and Android?](https://www.reddit.com/r/Kotlin/comments/1bb6sbi/is_developer_android_com_enough_to_learn_kotlin/)
-- [Kotlin Multiplatform Mobile: Is it possible to write shared libraries &lpar;XCFramework&rpar; for Kotlin only dependencies?](https://www.reddit.com/r/Kotlin/comments/1bb6fvf/kotlin_multiplatform_mobile_is_it_possible_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
