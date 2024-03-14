@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to use Environment Variables in Kotlin + Spring Boot](https://www.reddit.com/r/Kotlin/comments/1be7n97/how_to_use_environment_variables_in_kotlin_spring/)
+- [Expense Splitter - Compose Multiplatform Web App](https://www.reddit.com/r/Kotlin/comments/1bdl7v9/expense_splitter_compose_multiplatform_web_app/)
 - [What is the salary ?](https://www.reddit.com/r/Kotlin/comments/1bdc61w/what_is_the_salary/)
 - [Stop Debating in Code Reviews. Start Enforcing with Lint Rules](https://www.reddit.com/r/Kotlin/comments/1bdb5wi/stop_debating_in_code_reviews_start_enforcing/)
 - [How not to code Kotlin like a Java dev?](https://www.reddit.com/r/Kotlin/comments/1bd5yl5/how_not_to_code_kotlin_like_a_java_dev/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Compose Plotting Libraries?](https://www.reddit.com/r/Kotlin/comments/1bcj9y9/compose_plotting_libraries/)
 - [Kotlin - how to fix image position and stop re-scaling.](https://www.reddit.com/r/Kotlin/comments/1bcgix4/kotlin_how_to_fix_image_position_and_stop/)
 - [Board Game Geek Ktor client](https://www.reddit.com/r/Kotlin/comments/1bcamyh/board_game_geek_ktor_client/)
-- [How to handle requesting unsafe Jsons with ktor](https://www.reddit.com/r/Kotlin/comments/1bc8h3i/how_to_handle_requesting_unsafe_jsons_with_ktor/)
-- [salary of a kotlin developer in india](https://www.reddit.com/r/Kotlin/comments/1bbrci4/salary_of_a_kotlin_developer_in_india/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
