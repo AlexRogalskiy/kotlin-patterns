@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin sdk multiplatform](https://www.reddit.com/r/Kotlin/comments/1bfikmz/kotlin_sdk_multiplatform/)
+- [How to generate event&#39;s ID in purely functional event sourcing?](https://www.reddit.com/r/Kotlin/comments/1bfhntb/how_to_generate_events_id_in_purely_functional/)
+- [🚀 Kotools Types 4.5.0 is available!](https://www.reddit.com/r/Kotlin/comments/1bfggf6/kotools_types_450_is_available/)
+- [Kotlin&#39;s JDK release compatibility flag](https://www.reddit.com/r/Kotlin/comments/1bffk2c/kotlins_jdk_release_compatibility_flag/)
+- [&#39;tools:replace=&quot;android:resource&quot; I don&#39;t know what to do](https://www.reddit.com/r/Kotlin/comments/1bffjmx/toolsreplaceandroidresource_i_dont_know_what_to_do/)
+- [Getting creative with jqwik generators - Advanced property-based testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/1bfa5s1/getting_creative_with_jqwik_generators_advanced/)
+- [Collect code coverage for commonMain](https://www.reddit.com/r/Kotlin/comments/1bf9ozx/collect_code_coverage_for_commonmain/)
 - [Using the macOS SDK with Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/1beseyy/using_the_macos_sdk_with_kotlinnative/)
 - [Online Database for Android dev](https://www.reddit.com/r/Kotlin/comments/1bep3w7/online_database_for_android_dev/)
 - [Learning resources for Javalin &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1bekcoy/learning_resources_for_javalin_kotlin/)
-- [Kotlin Roundup: Unveiling the New Compose Multiplatform Release, Amper Update, and More!](https://www.reddit.com/r/Kotlin/comments/1beji6l/kotlin_roundup_unveiling_the_new_compose/)
-- [OpenCV on kotlin](https://www.reddit.com/r/Kotlin/comments/1beami8/opencv_on_kotlin/)
-- [How to use Environment Variables in Kotlin + Spring Boot](https://www.reddit.com/r/Kotlin/comments/1be7n97/how_to_use_environment_variables_in_kotlin_spring/)
-- [Expense Splitter - Compose Multiplatform Web App](https://www.reddit.com/r/Kotlin/comments/1bdl7v9/expense_splitter_compose_multiplatform_web_app/)
-- [What is the salary ?](https://www.reddit.com/r/Kotlin/comments/1bdc61w/what_is_the_salary/)
-- [Stop Debating in Code Reviews. Start Enforcing with Lint Rules](https://www.reddit.com/r/Kotlin/comments/1bdb5wi/stop_debating_in_code_reviews_start_enforcing/)
-- [How not to code Kotlin like a Java dev?](https://www.reddit.com/r/Kotlin/comments/1bd5yl5/how_not_to_code_kotlin_like_a_java_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
