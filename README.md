@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MutableList.indexOf&lpar;&rpar; is not working correctly in Kotlin scratch file](https://www.reddit.com/r/Kotlin/comments/1bge76a/mutablelistindexof_is_not_working_correctly_in/)
+- [Aspiring Swift developer here, I need advice](https://www.reddit.com/r/Kotlin/comments/1bgaevi/aspiring_swift_developer_here_i_need_advice/)
 - [Kotlin sdk multiplatform](https://www.reddit.com/r/Kotlin/comments/1bfikmz/kotlin_sdk_multiplatform/)
 - [How to generate event&#39;s ID in purely functional event sourcing?](https://www.reddit.com/r/Kotlin/comments/1bfhntb/how_to_generate_events_id_in_purely_functional/)
 - [🚀 Kotools Types 4.5.0 is available!](https://www.reddit.com/r/Kotlin/comments/1bfggf6/kotools_types_450_is_available/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Getting creative with jqwik generators - Advanced property-based testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/1bfa5s1/getting_creative_with_jqwik_generators_advanced/)
 - [Collect code coverage for commonMain](https://www.reddit.com/r/Kotlin/comments/1bf9ozx/collect_code_coverage_for_commonmain/)
 - [Using the macOS SDK with Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/1beseyy/using_the_macos_sdk_with_kotlinnative/)
-- [Online Database for Android dev](https://www.reddit.com/r/Kotlin/comments/1bep3w7/online_database_for_android_dev/)
-- [Learning resources for Javalin &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1bekcoy/learning_resources_for_javalin_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
