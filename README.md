@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Prerequisites for learning Kotlin?](https://www.reddit.com/r/Kotlin/comments/1bhcw50/prerequisites_for_learning_kotlin/)
+- [Sort the Array by Descending](https://www.reddit.com/r/Kotlin/comments/1bh67pu/sort_the_array_by_descending/)
+- [Feedback Request: Implementing a mutableLazy Delegate in Kotlin for Thread-Safe Mutable Properties](https://www.reddit.com/r/Kotlin/comments/1bh4q5v/feedback_request_implementing_a_mutablelazy/)
+- [Feedback Request: Implementing a mutableLazy Delegate in Kotlin for Thread-Safe Mutable Properties](https://www.reddit.com/r/Kotlin/comments/1bh4q4w/feedback_request_implementing_a_mutablelazy/)
 - [MutableList.indexOf&lpar;&rpar; is not working correctly in Kotlin scratch file](https://www.reddit.com/r/Kotlin/comments/1bge76a/mutablelistindexof_is_not_working_correctly_in/)
 - [Aspiring Swift developer here, I need advice](https://www.reddit.com/r/Kotlin/comments/1bgaevi/aspiring_swift_developer_here_i_need_advice/)
 - [Kotlin sdk multiplatform](https://www.reddit.com/r/Kotlin/comments/1bfikmz/kotlin_sdk_multiplatform/)
 - [How to generate event&#39;s ID in purely functional event sourcing?](https://www.reddit.com/r/Kotlin/comments/1bfhntb/how_to_generate_events_id_in_purely_functional/)
 - [🚀 Kotools Types 4.5.0 is available!](https://www.reddit.com/r/Kotlin/comments/1bfggf6/kotools_types_450_is_available/)
 - [Kotlin&#39;s JDK release compatibility flag](https://www.reddit.com/r/Kotlin/comments/1bffk2c/kotlins_jdk_release_compatibility_flag/)
-- [&#39;tools:replace=&quot;android:resource&quot; I don&#39;t know what to do](https://www.reddit.com/r/Kotlin/comments/1bffjmx/toolsreplaceandroidresource_i_dont_know_what_to_do/)
-- [Getting creative with jqwik generators - Advanced property-based testing in Kotlin](https://www.reddit.com/r/Kotlin/comments/1bfa5s1/getting_creative_with_jqwik_generators_advanced/)
-- [Collect code coverage for commonMain](https://www.reddit.com/r/Kotlin/comments/1bf9ozx/collect_code_coverage_for_commonmain/)
-- [Using the macOS SDK with Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/1beseyy/using_the_macos_sdk_with_kotlinnative/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
