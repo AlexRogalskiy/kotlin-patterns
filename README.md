@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Prerequisites for learning Kotlin?](https://www.reddit.com/r/Kotlin/comments/1bhcw50/prerequisites_for_learning_kotlin/)
-- [Sort the Array by Descending](https://www.reddit.com/r/Kotlin/comments/1bh67pu/sort_the_array_by_descending/)
-- [Feedback Request: Implementing a mutableLazy Delegate in Kotlin for Thread-Safe Mutable Properties](https://www.reddit.com/r/Kotlin/comments/1bh4q5v/feedback_request_implementing_a_mutablelazy/)
-- [Feedback Request: Implementing a mutableLazy Delegate in Kotlin for Thread-Safe Mutable Properties](https://www.reddit.com/r/Kotlin/comments/1bh4q4w/feedback_request_implementing_a_mutablelazy/)
-- [MutableList.indexOf&lpar;&rpar; is not working correctly in Kotlin scratch file](https://www.reddit.com/r/Kotlin/comments/1bge76a/mutablelistindexof_is_not_working_correctly_in/)
-- [Aspiring Swift developer here, I need advice](https://www.reddit.com/r/Kotlin/comments/1bgaevi/aspiring_swift_developer_here_i_need_advice/)
-- [Kotlin sdk multiplatform](https://www.reddit.com/r/Kotlin/comments/1bfikmz/kotlin_sdk_multiplatform/)
-- [How to generate event&#39;s ID in purely functional event sourcing?](https://www.reddit.com/r/Kotlin/comments/1bfhntb/how_to_generate_events_id_in_purely_functional/)
-- [🚀 Kotools Types 4.5.0 is available!](https://www.reddit.com/r/Kotlin/comments/1bfggf6/kotools_types_450_is_available/)
-- [Kotlin&#39;s JDK release compatibility flag](https://www.reddit.com/r/Kotlin/comments/1bffk2c/kotlins_jdk_release_compatibility_flag/)
+- [Composition over Inheritance: My refactoring recipe](https://www.reddit.com/r/Kotlin/comments/1bi2gau/composition_over_inheritance_my_refactoring_recipe/)
+- [Ktor 2024 Roadmap DI Update](https://www.reddit.com/r/Kotlin/comments/1bi2eu5/ktor_2024_roadmap_di_update/)
+- [Simply code cleanups](https://www.reddit.com/r/Kotlin/comments/1bi1rsb/simply_code_cleanups/)
+- [Software Modelling: Perspective on the World](https://www.reddit.com/r/Kotlin/comments/1bhxa4v/software_modelling_perspective_on_the_world/)
+- [Dependency Injection In Compose Multiplatform App | Using Koin in Kotlin Multiplatform App](https://www.reddit.com/r/Kotlin/comments/1bhttfq/dependency_injection_in_compose_multiplatform_app/)
+- [What is your thought process to decide whether to use ?.let or ?.also](https://www.reddit.com/r/Kotlin/comments/1bhrlns/what_is_your_thought_process_to_decide_whether_to/)
+- [Kotlin Beginner - Help Needed](https://www.reddit.com/r/Kotlin/comments/1bhnay2/kotlin_beginner_help_needed/)
+- [How to Build a 1-to-1 Video Chat App in Kotlin for Android?](https://www.reddit.com/r/Kotlin/comments/1bhmflk/how_to_build_a_1to1_video_chat_app_in_kotlin_for/)
+- [Extending Kotlin&#39;s Null-Safety with Monad Comprehension](https://www.reddit.com/r/Kotlin/comments/1bhjvtt/extending_kotlins_nullsafety_with_monad/)
+- [Upload video file to pre-signed S3 URL with partial upload mechanism](https://www.reddit.com/r/Kotlin/comments/1bhhu6k/upload_video_file_to_presigned_s3_url_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
