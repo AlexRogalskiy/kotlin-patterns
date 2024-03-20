@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How would you check for typos in URL endpoints configured in YAML files?](https://www.reddit.com/r/Kotlin/comments/1biobpl/how_would_you_check_for_typos_in_url_endpoints/)
+- [Kotlin Native / Raspberry Pi: Has anyone read a pressure value from a BMP280 &lpar;Enviro pHAT&rpar; sensor successfully using Kotlin Native?](https://www.reddit.com/r/Kotlin/comments/1bigt9y/kotlin_native_raspberry_pi_has_anyone_read_a/)
+- [Introducing BotStacks for GenAI Chatbots using Kotlin Deployment SDKs](https://www.reddit.com/r/Kotlin/comments/1bib475/introducing_botstacks_for_genai_chatbots_using/)
 - [Composition over Inheritance: My refactoring recipe](https://www.reddit.com/r/Kotlin/comments/1bi2gau/composition_over_inheritance_my_refactoring_recipe/)
 - [Ktor 2024 Roadmap DI Update](https://www.reddit.com/r/Kotlin/comments/1bi2eu5/ktor_2024_roadmap_di_update/)
 - [Simply code cleanups](https://www.reddit.com/r/Kotlin/comments/1bi1rsb/simply_code_cleanups/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Dependency Injection In Compose Multiplatform App | Using Koin in Kotlin Multiplatform App](https://www.reddit.com/r/Kotlin/comments/1bhttfq/dependency_injection_in_compose_multiplatform_app/)
 - [What is your thought process to decide whether to use ?.let or ?.also](https://www.reddit.com/r/Kotlin/comments/1bhrlns/what_is_your_thought_process_to_decide_whether_to/)
 - [Kotlin Beginner - Help Needed](https://www.reddit.com/r/Kotlin/comments/1bhnay2/kotlin_beginner_help_needed/)
-- [How to Build a 1-to-1 Video Chat App in Kotlin for Android?](https://www.reddit.com/r/Kotlin/comments/1bhmflk/how_to_build_a_1to1_video_chat_app_in_kotlin_for/)
-- [Extending Kotlin&#39;s Null-Safety with Monad Comprehension](https://www.reddit.com/r/Kotlin/comments/1bhjvtt/extending_kotlins_nullsafety_with_monad/)
-- [Upload video file to pre-signed S3 URL with partial upload mechanism](https://www.reddit.com/r/Kotlin/comments/1bhhu6k/upload_video_file_to_presigned_s3_url_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
