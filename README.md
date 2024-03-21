@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sealed Class vs Sealed Interface vs Enum in Kotlin](https://www.reddit.com/r/Kotlin/comments/1bjky6h/sealed_class_vs_sealed_interface_vs_enum_in_kotlin/)
+- [How to increase performance in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1bjkeiq/how_to_increase_performance_in_kotlin/)
+- [Kotlin 2.0.0-Beta5 is released](https://www.reddit.com/r/Kotlin/comments/1bjjyce/kotlin_200beta5_is_released/)
+- [is panjuta&#39;s course worth it?](https://www.reddit.com/r/Kotlin/comments/1bjib4r/is_panjutas_course_worth_it/)
+- [Top 10 IntelliJ IDEA Keyboard Shortcuts to Boost Your Productivity](https://www.reddit.com/r/Kotlin/comments/1bjfu8f/top_10_intellij_idea_keyboard_shortcuts_to_boost/)
+- [Type Projections - and Why They Work](https://www.reddit.com/r/Kotlin/comments/1bjepli/type_projections_and_why_they_work/)
+- [KDateTime - a Kotlin Multiplatform Date Time Library](https://www.reddit.com/r/Kotlin/comments/1bjdwk5/kdatetime_a_kotlin_multiplatform_date_time_library/)
+- [Why I Replaced Java With Kotlin](https://www.reddit.com/r/Kotlin/comments/1bjd8je/why_i_replaced_java_with_kotlin/)
 - [How would you check for typos in URL endpoints configured in YAML files?](https://www.reddit.com/r/Kotlin/comments/1biobpl/how_would_you_check_for_typos_in_url_endpoints/)
 - [Kotlin Native / Raspberry Pi: Has anyone read a pressure value from a BMP280 &lpar;Enviro pHAT&rpar; sensor successfully using Kotlin Native?](https://www.reddit.com/r/Kotlin/comments/1bigt9y/kotlin_native_raspberry_pi_has_anyone_read_a/)
-- [Introducing BotStacks for GenAI Chatbots using Kotlin Deployment SDKs](https://www.reddit.com/r/Kotlin/comments/1bib475/introducing_botstacks_for_genai_chatbots_using/)
-- [Composition over Inheritance: My refactoring recipe](https://www.reddit.com/r/Kotlin/comments/1bi2gau/composition_over_inheritance_my_refactoring_recipe/)
-- [Ktor 2024 Roadmap DI Update](https://www.reddit.com/r/Kotlin/comments/1bi2eu5/ktor_2024_roadmap_di_update/)
-- [Simply code cleanups](https://www.reddit.com/r/Kotlin/comments/1bi1rsb/simply_code_cleanups/)
-- [Software Modelling: Perspective on the World](https://www.reddit.com/r/Kotlin/comments/1bhxa4v/software_modelling_perspective_on_the_world/)
-- [Dependency Injection In Compose Multiplatform App | Using Koin in Kotlin Multiplatform App](https://www.reddit.com/r/Kotlin/comments/1bhttfq/dependency_injection_in_compose_multiplatform_app/)
-- [What is your thought process to decide whether to use ?.let or ?.also](https://www.reddit.com/r/Kotlin/comments/1bhrlns/what_is_your_thought_process_to_decide_whether_to/)
-- [Kotlin Beginner - Help Needed](https://www.reddit.com/r/Kotlin/comments/1bhnay2/kotlin_beginner_help_needed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
