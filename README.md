@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Parallel Integration Tests With Ktor](https://www.reddit.com/r/Kotlin/comments/1bmt5ez/parallel_integration_tests_with_ktor/)
+- [Image Tagging: Tag images with AI models](https://www.reddit.com/r/Kotlin/comments/1bmjo6t/image_tagging_tag_images_with_ai_models/)
+- [Daily practice resource](https://www.reddit.com/r/Kotlin/comments/1bmc888/daily_practice_resource/)
+- [Daily practice resource](https://www.reddit.com/r/Kotlin/comments/1bmc87o/daily_practice_resource/)
 - [Rust heavy?](https://www.reddit.com/r/Kotlin/comments/1bm6v58/rust_heavy/)
 - [Is kotlin is easier to learn](https://www.reddit.com/r/Kotlin/comments/1bm3eco/is_kotlin_is_easier_to_learn/)
 - [Jetbrains Multi-Platform Compose - My Current Impression](https://www.reddit.com/r/Kotlin/comments/1bm2lcg/jetbrains_multiplatform_compose_my_current/)
 - [Conway&#39;s Game of Life in Sigbla](https://www.reddit.com/r/Kotlin/comments/1blt2ze/conways_game_of_life_in_sigbla/)
 - [Question on Doordash driver app&lpar;food delivery app&rpar;](https://www.reddit.com/r/Kotlin/comments/1blkiyh/question_on_doordash_driver_appfood_delivery_app/)
 - [Any reccomendations of online courses for learning android dev using kotlin](https://www.reddit.com/r/Kotlin/comments/1bljnew/any_reccomendations_of_online_courses_for/)
-- [When you just need a simple way to save an object as json to a human-readable file](https://www.reddit.com/r/Kotlin/comments/1bl58t5/when_you_just_need_a_simple_way_to_save_an_object/)
-- [AI Assistant vs Property-based Tests](https://www.reddit.com/r/Kotlin/comments/1bl141u/ai_assistant_vs_propertybased_tests/)
-- [I whipped up a Lottie animation using Lottielab&#39;s editor. It exported perfectly into my Framer site, and it also works seamlessly with Kotlin and other web/mobile platforms too!](https://www.reddit.com/r/Kotlin/comments/1bkwodv/i_whipped_up_a_lottie_animation_using_lottielabs/)
-- [Add OpenTelemetry Traces to http4k APIs](https://www.reddit.com/r/Kotlin/comments/1bkeywo/add_opentelemetry_traces_to_http4k_apis/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
