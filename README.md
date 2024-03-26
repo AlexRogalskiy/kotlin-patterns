@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [help with imagessssss](https://www.reddit.com/r/Kotlin/comments/1bnu60f/help_with_imagessssss/)
+- [New powerfull LTS release of first multi-platform 3D Globe engine](https://www.reddit.com/r/Kotlin/comments/1bnsapi/new_powerfull_lts_release_of_first_multiplatform/)
+- [Kotlin JS/ Kotlin react feels kind of dead atm...](https://www.reddit.com/r/Kotlin/comments/1bnm7v5/kotlin_js_kotlin_react_feels_kind_of_dead_atm/)
+- [How do you use sqlite3](https://www.reddit.com/r/Kotlin/comments/1bnkaqw/how_do_you_use_sqlite3/)
+- [MockK](https://www.reddit.com/r/Kotlin/comments/1bni2ip/mockk/)
+- [Multiplatform project with Maven](https://www.reddit.com/r/Kotlin/comments/1bncfq3/multiplatform_project_with_maven/)
+- [Why won&#39;t my lazyColumn scroll?](https://www.reddit.com/r/Kotlin/comments/1bn4p7f/why_wont_my_lazycolumn_scroll/)
+- [Kotlin Speech Recognition Without Google Api or any pop ups](https://www.reddit.com/r/Kotlin/comments/1bn33yu/kotlin_speech_recognition_without_google_api_or/)
 - [Parallel Integration Tests With Ktor](https://www.reddit.com/r/Kotlin/comments/1bmt5ez/parallel_integration_tests_with_ktor/)
 - [Image Tagging: Tag images with AI models](https://www.reddit.com/r/Kotlin/comments/1bmjo6t/image_tagging_tag_images_with_ai_models/)
-- [Daily practice resource](https://www.reddit.com/r/Kotlin/comments/1bmc888/daily_practice_resource/)
-- [Daily practice resource](https://www.reddit.com/r/Kotlin/comments/1bmc87o/daily_practice_resource/)
-- [Rust heavy?](https://www.reddit.com/r/Kotlin/comments/1bm6v58/rust_heavy/)
-- [Is kotlin is easier to learn](https://www.reddit.com/r/Kotlin/comments/1bm3eco/is_kotlin_is_easier_to_learn/)
-- [Jetbrains Multi-Platform Compose - My Current Impression](https://www.reddit.com/r/Kotlin/comments/1bm2lcg/jetbrains_multiplatform_compose_my_current/)
-- [Conway&#39;s Game of Life in Sigbla](https://www.reddit.com/r/Kotlin/comments/1blt2ze/conways_game_of_life_in_sigbla/)
-- [Question on Doordash driver app&lpar;food delivery app&rpar;](https://www.reddit.com/r/Kotlin/comments/1blkiyh/question_on_doordash_driver_appfood_delivery_app/)
-- [Any reccomendations of online courses for learning android dev using kotlin](https://www.reddit.com/r/Kotlin/comments/1bljnew/any_reccomendations_of_online_courses_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
