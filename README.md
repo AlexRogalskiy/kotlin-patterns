@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [android development with kotlin](https://www.reddit.com/r/Kotlin/comments/1boo5un/android_development_with_kotlin/)
+- [K2 Kotlin Mode &lpar;Alpha&rpar; in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1boily9/k2_kotlin_mode_alpha_in_intellij_idea/)
+- [Kotlin help](https://www.reddit.com/r/Kotlin/comments/1boggy6/kotlin_help/)
+- [Am I using Kotlin &quot;data class&quot; in a correct way?](https://www.reddit.com/r/Kotlin/comments/1boaese/am_i_using_kotlin_data_class_in_a_correct_way/)
+- [Is Kotlin similar to Typescript?](https://www.reddit.com/r/Kotlin/comments/1bo74ps/is_kotlin_similar_to_typescript/)
+- [Getting to Know Koin Annotations](https://www.reddit.com/r/Kotlin/comments/1bo2y81/getting_to_know_koin_annotations/)
+- [Confusion on co-routines and async](https://www.reddit.com/r/Kotlin/comments/1bnzk59/confusion_on_coroutines_and_async/)
+- [Spring RestTemplate to WebClient causes OutOfMemoryError](https://www.reddit.com/r/Kotlin/comments/1bnz5ev/spring_resttemplate_to_webclient_causes/)
+- [I really like kotlin](https://www.reddit.com/r/Kotlin/comments/1bnw7n5/i_really_like_kotlin/)
 - [help with imagessssss](https://www.reddit.com/r/Kotlin/comments/1bnu60f/help_with_imagessssss/)
-- [New powerfull LTS release of first multi-platform 3D Globe engine](https://www.reddit.com/r/Kotlin/comments/1bnsapi/new_powerfull_lts_release_of_first_multiplatform/)
-- [Kotlin JS/ Kotlin react feels kind of dead atm...](https://www.reddit.com/r/Kotlin/comments/1bnm7v5/kotlin_js_kotlin_react_feels_kind_of_dead_atm/)
-- [How do you use sqlite3](https://www.reddit.com/r/Kotlin/comments/1bnkaqw/how_do_you_use_sqlite3/)
-- [MockK](https://www.reddit.com/r/Kotlin/comments/1bni2ip/mockk/)
-- [Multiplatform project with Maven](https://www.reddit.com/r/Kotlin/comments/1bncfq3/multiplatform_project_with_maven/)
-- [Why won&#39;t my lazyColumn scroll?](https://www.reddit.com/r/Kotlin/comments/1bn4p7f/why_wont_my_lazycolumn_scroll/)
-- [Kotlin Speech Recognition Without Google Api or any pop ups](https://www.reddit.com/r/Kotlin/comments/1bn33yu/kotlin_speech_recognition_without_google_api_or/)
-- [Parallel Integration Tests With Ktor](https://www.reddit.com/r/Kotlin/comments/1bmt5ez/parallel_integration_tests_with_ktor/)
-- [Image Tagging: Tag images with AI models](https://www.reddit.com/r/Kotlin/comments/1bmjo6t/image_tagging_tag_images_with_ai_models/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
