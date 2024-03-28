@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP Calendar library](https://www.reddit.com/r/Kotlin/comments/1bpj6tw/kmp_calendar_library/)
+- [Overload resolution ambiguity for two methods that can take single nullable parameter](https://www.reddit.com/r/Kotlin/comments/1bpemnu/overload_resolution_ambiguity_for_two_methods/)
+- [App slow down because of this](https://www.reddit.com/r/Kotlin/comments/1bp6trs/app_slow_down_because_of_this/)
+- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1bp44zh/new_to_kotlin/)
+- [Kotlin Illustrated Guide - Generics](https://www.reddit.com/r/Kotlin/comments/1bp305f/kotlin_illustrated_guide_generics/)
+- [Kotlin Dev Day 2022 - Amsterdam](https://www.reddit.com/r/Kotlin/comments/1bosjj3/kotlin_dev_day_2022_amsterdam/)
 - [android development with kotlin](https://www.reddit.com/r/Kotlin/comments/1boo5un/android_development_with_kotlin/)
 - [K2 Kotlin Mode &lpar;Alpha&rpar; in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1boily9/k2_kotlin_mode_alpha_in_intellij_idea/)
 - [Kotlin help](https://www.reddit.com/r/Kotlin/comments/1boggy6/kotlin_help/)
 - [Am I using Kotlin &quot;data class&quot; in a correct way?](https://www.reddit.com/r/Kotlin/comments/1boaese/am_i_using_kotlin_data_class_in_a_correct_way/)
-- [Is Kotlin similar to Typescript?](https://www.reddit.com/r/Kotlin/comments/1bo74ps/is_kotlin_similar_to_typescript/)
-- [Getting to Know Koin Annotations](https://www.reddit.com/r/Kotlin/comments/1bo2y81/getting_to_know_koin_annotations/)
-- [Confusion on co-routines and async](https://www.reddit.com/r/Kotlin/comments/1bnzk59/confusion_on_coroutines_and_async/)
-- [Spring RestTemplate to WebClient causes OutOfMemoryError](https://www.reddit.com/r/Kotlin/comments/1bnz5ev/spring_resttemplate_to_webclient_causes/)
-- [I really like kotlin](https://www.reddit.com/r/Kotlin/comments/1bnw7n5/i_really_like_kotlin/)
-- [help with imagessssss](https://www.reddit.com/r/Kotlin/comments/1bnu60f/help_with_imagessssss/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
