@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I am curious about kotlin](https://www.reddit.com/r/Kotlin/comments/1bq7c34/i_am_curious_about_kotlin/)
+- [Function proxy?](https://www.reddit.com/r/Kotlin/comments/1bpzqj3/function_proxy/)
+- [Recommended courses for Kotlin+spring boot](https://www.reddit.com/r/Kotlin/comments/1bpydij/recommended_courses_for_kotlinspring_boot/)
+- [Kotlin 2.0 getting closer, IntelliJ Idea introduces K2 Mode](https://www.reddit.com/r/Kotlin/comments/1bpxlt4/kotlin_20_getting_closer_intellij_idea_introduces/)
+- [Choosing the Right Map Implementation in Kotlin: MutableMapOf, HashMap, and EnumMap](https://www.reddit.com/r/Kotlin/comments/1bpu5yy/choosing_the_right_map_implementation_in_kotlin/)
+- [problem with the edit dialog](https://www.reddit.com/r/Kotlin/comments/1bptq4z/problem_with_the_edit_dialog/)
+- [Which has more jobs in Indian market react native, flutter or kotlin ?](https://www.reddit.com/r/Kotlin/comments/1bprktv/which_has_more_jobs_in_indian_market_react_native/)
 - [KMP Calendar library](https://www.reddit.com/r/Kotlin/comments/1bpj6tw/kmp_calendar_library/)
 - [Overload resolution ambiguity for two methods that can take single nullable parameter](https://www.reddit.com/r/Kotlin/comments/1bpemnu/overload_resolution_ambiguity_for_two_methods/)
 - [App slow down because of this](https://www.reddit.com/r/Kotlin/comments/1bp6trs/app_slow_down_because_of_this/)
-- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1bp44zh/new_to_kotlin/)
-- [Kotlin Illustrated Guide - Generics](https://www.reddit.com/r/Kotlin/comments/1bp305f/kotlin_illustrated_guide_generics/)
-- [Kotlin Dev Day 2022 - Amsterdam](https://www.reddit.com/r/Kotlin/comments/1bosjj3/kotlin_dev_day_2022_amsterdam/)
-- [android development with kotlin](https://www.reddit.com/r/Kotlin/comments/1boo5un/android_development_with_kotlin/)
-- [K2 Kotlin Mode &lpar;Alpha&rpar; in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1boily9/k2_kotlin_mode_alpha_in_intellij_idea/)
-- [Kotlin help](https://www.reddit.com/r/Kotlin/comments/1boggy6/kotlin_help/)
-- [Am I using Kotlin &quot;data class&quot; in a correct way?](https://www.reddit.com/r/Kotlin/comments/1boaese/am_i_using_kotlin_data_class_in_a_correct_way/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
