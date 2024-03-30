@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I am curious about kotlin](https://www.reddit.com/r/Kotlin/comments/1bq7c34/i_am_curious_about_kotlin/)
-- [Function proxy?](https://www.reddit.com/r/Kotlin/comments/1bpzqj3/function_proxy/)
-- [Recommended courses for Kotlin+spring boot](https://www.reddit.com/r/Kotlin/comments/1bpydij/recommended_courses_for_kotlinspring_boot/)
-- [Kotlin 2.0 getting closer, IntelliJ Idea introduces K2 Mode](https://www.reddit.com/r/Kotlin/comments/1bpxlt4/kotlin_20_getting_closer_intellij_idea_introduces/)
-- [Choosing the Right Map Implementation in Kotlin: MutableMapOf, HashMap, and EnumMap](https://www.reddit.com/r/Kotlin/comments/1bpu5yy/choosing_the_right_map_implementation_in_kotlin/)
-- [problem with the edit dialog](https://www.reddit.com/r/Kotlin/comments/1bptq4z/problem_with_the_edit_dialog/)
-- [Which has more jobs in Indian market react native, flutter or kotlin ?](https://www.reddit.com/r/Kotlin/comments/1bprktv/which_has_more_jobs_in_indian_market_react_native/)
-- [KMP Calendar library](https://www.reddit.com/r/Kotlin/comments/1bpj6tw/kmp_calendar_library/)
-- [Overload resolution ambiguity for two methods that can take single nullable parameter](https://www.reddit.com/r/Kotlin/comments/1bpemnu/overload_resolution_ambiguity_for_two_methods/)
-- [App slow down because of this](https://www.reddit.com/r/Kotlin/comments/1bp6trs/app_slow_down_because_of_this/)
+- [Suppress Warning: Lombok Kotlin compiler plugin is an experimental feature](https://www.reddit.com/r/Kotlin/comments/1bqvy0x/suppress_warning_lombok_kotlin_compiler_plugin_is/)
+- [Toll-free Bridging in Kotlin Native](https://www.reddit.com/r/Kotlin/comments/1bque2x/tollfree_bridging_in_kotlin_native/)
+- [best kotlin web framework](https://www.reddit.com/r/Kotlin/comments/1bqrpxl/best_kotlin_web_framework/)
+- [Refactoring to Higher-Order Functions - Creating a declarative API for http4k](https://www.reddit.com/r/Kotlin/comments/1bqrcl9/refactoring_to_higherorder_functions_creating_a/)
+- [🛑 Stop using « Int » for positive indexes.](https://www.reddit.com/r/Kotlin/comments/1bqpjb3/stop_using_int_for_positive_indexes/)
+- [I have strange inquiry](https://www.reddit.com/r/Kotlin/comments/1bqnybs/i_have_strange_inquiry/)
+- [Looking for a specific Kotlin talk](https://www.reddit.com/r/Kotlin/comments/1bqnuw1/looking_for_a_specific_kotlin_talk/)
+- [speech to text 2024](https://www.reddit.com/r/Kotlin/comments/1bqmdvw/speech_to_text_2024/)
+- [What should be the proper approach to learn a language?](https://www.reddit.com/r/Kotlin/comments/1bqkr2b/what_should_be_the_proper_approach_to_learn_a/)
+- [Running Kotlin code on VSCode is slow](https://www.reddit.com/r/Kotlin/comments/1bqda9d/running_kotlin_code_on_vscode_is_slow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
