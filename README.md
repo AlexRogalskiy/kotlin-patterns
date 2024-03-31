@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Native ?](https://www.reddit.com/r/Kotlin/comments/1br81tv/kotlin_native/)
 - [Suppress Warning: Lombok Kotlin compiler plugin is an experimental feature](https://www.reddit.com/r/Kotlin/comments/1bqvy0x/suppress_warning_lombok_kotlin_compiler_plugin_is/)
 - [Toll-free Bridging in Kotlin Native](https://www.reddit.com/r/Kotlin/comments/1bque2x/tollfree_bridging_in_kotlin_native/)
 - [best kotlin web framework](https://www.reddit.com/r/Kotlin/comments/1bqrpxl/best_kotlin_web_framework/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Looking for a specific Kotlin talk](https://www.reddit.com/r/Kotlin/comments/1bqnuw1/looking_for_a_specific_kotlin_talk/)
 - [speech to text 2024](https://www.reddit.com/r/Kotlin/comments/1bqmdvw/speech_to_text_2024/)
 - [What should be the proper approach to learn a language?](https://www.reddit.com/r/Kotlin/comments/1bqkr2b/what_should_be_the_proper_approach_to_learn_a/)
-- [Running Kotlin code on VSCode is slow](https://www.reddit.com/r/Kotlin/comments/1bqda9d/running_kotlin_code_on_vscode_is_slow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
