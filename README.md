@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Interpreter Download Invalid Zip Windows 11](https://www.reddit.com/r/Kotlin/comments/1bsnfp1/kotlin_interpreter_download_invalid_zip_windows_11/)
+- [YASB - new library to work with databases](https://www.reddit.com/r/Kotlin/comments/1bsklv7/yasb_new_library_to_work_with_databases/)
+- [How to create this type of TextField in Jetpack Co pose](https://www.reddit.com/r/Kotlin/comments/1bse50b/how_to_create_this_type_of_textfield_in_jetpack/)
 - [Kotlin Native ?](https://www.reddit.com/r/Kotlin/comments/1br81tv/kotlin_native/)
 - [Suppress Warning: Lombok Kotlin compiler plugin is an experimental feature](https://www.reddit.com/r/Kotlin/comments/1bqvy0x/suppress_warning_lombok_kotlin_compiler_plugin_is/)
 - [Toll-free Bridging in Kotlin Native](https://www.reddit.com/r/Kotlin/comments/1bque2x/tollfree_bridging_in_kotlin_native/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Refactoring to Higher-Order Functions - Creating a declarative API for http4k](https://www.reddit.com/r/Kotlin/comments/1bqrcl9/refactoring_to_higherorder_functions_creating_a/)
 - [🛑 Stop using « Int » for positive indexes.](https://www.reddit.com/r/Kotlin/comments/1bqpjb3/stop_using_int_for_positive_indexes/)
 - [I have strange inquiry](https://www.reddit.com/r/Kotlin/comments/1bqnybs/i_have_strange_inquiry/)
-- [Looking for a specific Kotlin talk](https://www.reddit.com/r/Kotlin/comments/1bqnuw1/looking_for_a_specific_kotlin_talk/)
-- [speech to text 2024](https://www.reddit.com/r/Kotlin/comments/1bqmdvw/speech_to_text_2024/)
-- [What should be the proper approach to learn a language?](https://www.reddit.com/r/Kotlin/comments/1bqkr2b/what_should_be_the_proper_approach_to_learn_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
