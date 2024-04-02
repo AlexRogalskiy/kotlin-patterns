@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I want to ask about the Meta Android Developer Professional Certificate.](https://www.reddit.com/r/Kotlin/comments/1btkifc/i_want_to_ask_about_the_meta_android_developer/)
+- [passing an @Serializable object as a parameter instead of KSerializer&lt;T&gt;](https://www.reddit.com/r/Kotlin/comments/1btesoj/passing_an_serializable_object_as_a_parameter/)
+- [Kotlin Today magazine - first edition now available!](https://www.reddit.com/r/Kotlin/comments/1bt0sfx/kotlin_today_magazine_first_edition_now_available/)
+- [I&#39;ve created a small library for interactive CLI UI called &#39;kotlin-inquirer&#39;](https://www.reddit.com/r/Kotlin/comments/1bstm4k/ive_created_a_small_library_for_interactive_cli/)
 - [Kotlin Interpreter Download Invalid Zip Windows 11](https://www.reddit.com/r/Kotlin/comments/1bsnfp1/kotlin_interpreter_download_invalid_zip_windows_11/)
 - [YASB - new library to work with databases](https://www.reddit.com/r/Kotlin/comments/1bsklv7/yasb_new_library_to_work_with_databases/)
 - [How to create this type of TextField in Jetpack Co pose](https://www.reddit.com/r/Kotlin/comments/1bse50b/how_to_create_this_type_of_textfield_in_jetpack/)
 - [Kotlin Native ?](https://www.reddit.com/r/Kotlin/comments/1br81tv/kotlin_native/)
 - [Suppress Warning: Lombok Kotlin compiler plugin is an experimental feature](https://www.reddit.com/r/Kotlin/comments/1bqvy0x/suppress_warning_lombok_kotlin_compiler_plugin_is/)
 - [Toll-free Bridging in Kotlin Native](https://www.reddit.com/r/Kotlin/comments/1bque2x/tollfree_bridging_in_kotlin_native/)
-- [best kotlin web framework](https://www.reddit.com/r/Kotlin/comments/1bqrpxl/best_kotlin_web_framework/)
-- [Refactoring to Higher-Order Functions - Creating a declarative API for http4k](https://www.reddit.com/r/Kotlin/comments/1bqrcl9/refactoring_to_higherorder_functions_creating_a/)
-- [🛑 Stop using « Int » for positive indexes.](https://www.reddit.com/r/Kotlin/comments/1bqpjb3/stop_using_int_for_positive_indexes/)
-- [I have strange inquiry](https://www.reddit.com/r/Kotlin/comments/1bqnybs/i_have_strange_inquiry/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
