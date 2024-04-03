@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&lpar;First public release&rpar; GitHub - urosjarc/db-messiah: Lib. similar to JetBrains/Exposed, but without annotations, DSLs or DAOs... Lib. has a strong focus on clean architecture and simplicity.](https://www.reddit.com/r/Kotlin/comments/1buet5m/first_public_release_github_urosjarcdbmessiah_lib/)
+- [Looking for script/app](https://www.reddit.com/r/Kotlin/comments/1bu67cg/looking_for_scriptapp/)
+- [Kotlin Native and LLVM IR](https://www.reddit.com/r/Kotlin/comments/1bu641k/kotlin_native_and_llvm_ir/)
+- [Kotlin puzzlers](https://www.reddit.com/r/Kotlin/comments/1bu5n8e/kotlin_puzzlers/)
+- [Kotlin Scripting](https://www.reddit.com/r/Kotlin/comments/1bu2h22/kotlin_scripting/)
+- [How do I implement voice recording and voice notes feature in a chat app](https://www.reddit.com/r/Kotlin/comments/1btyqa5/how_do_i_implement_voice_recording_and_voice/)
+- [How to Integrate RTMP Livestream Feature in Android&lpar;Kotlin&rpar; Video Chat App?](https://www.reddit.com/r/Kotlin/comments/1btx1xe/how_to_integrate_rtmp_livestream_feature_in/)
+- [How to Integrate Chat Feature in Android&lpar;Kotlin&rpar; Video Call App?](https://www.reddit.com/r/Kotlin/comments/1btv88v/how_to_integrate_chat_feature_in_androidkotlin/)
 - [I want to ask about the Meta Android Developer Professional Certificate.](https://www.reddit.com/r/Kotlin/comments/1btkifc/i_want_to_ask_about_the_meta_android_developer/)
 - [passing an @Serializable object as a parameter instead of KSerializer&lt;T&gt;](https://www.reddit.com/r/Kotlin/comments/1btesoj/passing_an_serializable_object_as_a_parameter/)
-- [Kotlin Today magazine - first edition now available!](https://www.reddit.com/r/Kotlin/comments/1bt0sfx/kotlin_today_magazine_first_edition_now_available/)
-- [I&#39;ve created a small library for interactive CLI UI called &#39;kotlin-inquirer&#39;](https://www.reddit.com/r/Kotlin/comments/1bstm4k/ive_created_a_small_library_for_interactive_cli/)
-- [Kotlin Interpreter Download Invalid Zip Windows 11](https://www.reddit.com/r/Kotlin/comments/1bsnfp1/kotlin_interpreter_download_invalid_zip_windows_11/)
-- [YASB - new library to work with databases](https://www.reddit.com/r/Kotlin/comments/1bsklv7/yasb_new_library_to_work_with_databases/)
-- [How to create this type of TextField in Jetpack Co pose](https://www.reddit.com/r/Kotlin/comments/1bse50b/how_to_create_this_type_of_textfield_in_jetpack/)
-- [Kotlin Native ?](https://www.reddit.com/r/Kotlin/comments/1br81tv/kotlin_native/)
-- [Suppress Warning: Lombok Kotlin compiler plugin is an experimental feature](https://www.reddit.com/r/Kotlin/comments/1bqvy0x/suppress_warning_lombok_kotlin_compiler_plugin_is/)
-- [Toll-free Bridging in Kotlin Native](https://www.reddit.com/r/Kotlin/comments/1bque2x/tollfree_bridging_in_kotlin_native/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
