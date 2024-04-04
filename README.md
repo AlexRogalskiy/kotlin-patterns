@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin puzzlers 2](https://www.reddit.com/r/Kotlin/comments/1buxst8/kotlin_puzzlers_2/)
+- [Video: Every Kind of Class in Kotlin](https://www.reddit.com/r/Kotlin/comments/1buur94/video_every_kind_of_class_in_kotlin/)
+- [Kotlin/Wasm interop with Javascript](https://www.reddit.com/r/Kotlin/comments/1butp0a/kotlinwasm_interop_with_javascript/)
+- [Parameter order of CompletableFuture methods](https://www.reddit.com/r/Kotlin/comments/1buo6sc/parameter_order_of_completablefuture_methods/)
 - [&lpar;First public release&rpar; GitHub - urosjarc/db-messiah: Lib. similar to JetBrains/Exposed, but without annotations, DSLs or DAOs... Lib. has a strong focus on clean architecture and simplicity.](https://www.reddit.com/r/Kotlin/comments/1buet5m/first_public_release_github_urosjarcdbmessiah_lib/)
 - [Looking for script/app](https://www.reddit.com/r/Kotlin/comments/1bu67cg/looking_for_scriptapp/)
 - [Kotlin Native and LLVM IR](https://www.reddit.com/r/Kotlin/comments/1bu641k/kotlin_native_and_llvm_ir/)
 - [Kotlin puzzlers](https://www.reddit.com/r/Kotlin/comments/1bu5n8e/kotlin_puzzlers/)
 - [Kotlin Scripting](https://www.reddit.com/r/Kotlin/comments/1bu2h22/kotlin_scripting/)
 - [How do I implement voice recording and voice notes feature in a chat app](https://www.reddit.com/r/Kotlin/comments/1btyqa5/how_do_i_implement_voice_recording_and_voice/)
-- [How to Integrate RTMP Livestream Feature in Android&lpar;Kotlin&rpar; Video Chat App?](https://www.reddit.com/r/Kotlin/comments/1btx1xe/how_to_integrate_rtmp_livestream_feature_in/)
-- [How to Integrate Chat Feature in Android&lpar;Kotlin&rpar; Video Call App?](https://www.reddit.com/r/Kotlin/comments/1btv88v/how_to_integrate_chat_feature_in_androidkotlin/)
-- [I want to ask about the Meta Android Developer Professional Certificate.](https://www.reddit.com/r/Kotlin/comments/1btkifc/i_want_to_ask_about_the_meta_android_developer/)
-- [passing an @Serializable object as a parameter instead of KSerializer&lt;T&gt;](https://www.reddit.com/r/Kotlin/comments/1btesoj/passing_an_serializable_object_as_a_parameter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
