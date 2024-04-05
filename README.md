@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/Wasm — Compile Once Run Everywhere by Zalim Bashorov @ Wasm I/O 2024](https://www.reddit.com/r/Kotlin/comments/1bw541s/kotlinwasm_compile_once_run_everywhere_by_zalim/)
+- [can it be true that there are no tools to create a file shortcut &lpar;in windows&rpar;??](https://www.reddit.com/r/Kotlin/comments/1bvx0ge/can_it_be_true_that_there_are_no_tools_to_create/)
+- [Help with Kotlin distinctBy&lpar;&rpar; function](https://www.reddit.com/r/Kotlin/comments/1bvus10/help_with_kotlin_distinctby_function/)
+- [Kotlin Design Patterns: Proxy Explained](https://www.reddit.com/r/Kotlin/comments/1bvojv4/kotlin_design_patterns_proxy_explained/)
 - [Kotlin puzzlers 2](https://www.reddit.com/r/Kotlin/comments/1buxst8/kotlin_puzzlers_2/)
 - [Video: Every Kind of Class in Kotlin](https://www.reddit.com/r/Kotlin/comments/1buur94/video_every_kind_of_class_in_kotlin/)
 - [Kotlin/Wasm interop with Javascript](https://www.reddit.com/r/Kotlin/comments/1butp0a/kotlinwasm_interop_with_javascript/)
 - [Parameter order of CompletableFuture methods](https://www.reddit.com/r/Kotlin/comments/1buo6sc/parameter_order_of_completablefuture_methods/)
 - [&lpar;First public release&rpar; GitHub - urosjarc/db-messiah: Lib. similar to JetBrains/Exposed, but without annotations, DSLs or DAOs... Lib. has a strong focus on clean architecture and simplicity.](https://www.reddit.com/r/Kotlin/comments/1buet5m/first_public_release_github_urosjarcdbmessiah_lib/)
 - [Looking for script/app](https://www.reddit.com/r/Kotlin/comments/1bu67cg/looking_for_scriptapp/)
-- [Kotlin Native and LLVM IR](https://www.reddit.com/r/Kotlin/comments/1bu641k/kotlin_native_and_llvm_ir/)
-- [Kotlin puzzlers](https://www.reddit.com/r/Kotlin/comments/1bu5n8e/kotlin_puzzlers/)
-- [Kotlin Scripting](https://www.reddit.com/r/Kotlin/comments/1bu2h22/kotlin_scripting/)
-- [How do I implement voice recording and voice notes feature in a chat app](https://www.reddit.com/r/Kotlin/comments/1btyqa5/how_do_i_implement_voice_recording_and_voice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
