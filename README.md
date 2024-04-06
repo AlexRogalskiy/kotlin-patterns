@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Puzzlers 3. More puzzlers in profile](https://www.reddit.com/r/Kotlin/comments/1bwph8a/kotlin_puzzlers_3_more_puzzlers_in_profile/)
+- [How to safely update state in your Kotlin apps](https://www.reddit.com/r/Kotlin/comments/1bwnt4p/how_to_safely_update_state_in_your_kotlin_apps/)
+- [Composing Higher Order Functions to Create an http4k API](https://www.reddit.com/r/Kotlin/comments/1bwne2n/composing_higher_order_functions_to_create_an/)
 - [Kotlin/Wasm — Compile Once Run Everywhere by Zalim Bashorov @ Wasm I/O 2024](https://www.reddit.com/r/Kotlin/comments/1bw541s/kotlinwasm_compile_once_run_everywhere_by_zalim/)
 - [can it be true that there are no tools to create a file shortcut &lpar;in windows&rpar;??](https://www.reddit.com/r/Kotlin/comments/1bvx0ge/can_it_be_true_that_there_are_no_tools_to_create/)
 - [Help with Kotlin distinctBy&lpar;&rpar; function](https://www.reddit.com/r/Kotlin/comments/1bvus10/help_with_kotlin_distinctby_function/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin puzzlers 2](https://www.reddit.com/r/Kotlin/comments/1buxst8/kotlin_puzzlers_2/)
 - [Video: Every Kind of Class in Kotlin](https://www.reddit.com/r/Kotlin/comments/1buur94/video_every_kind_of_class_in_kotlin/)
 - [Kotlin/Wasm interop with Javascript](https://www.reddit.com/r/Kotlin/comments/1butp0a/kotlinwasm_interop_with_javascript/)
-- [Parameter order of CompletableFuture methods](https://www.reddit.com/r/Kotlin/comments/1buo6sc/parameter_order_of_completablefuture_methods/)
-- [&lpar;First public release&rpar; GitHub - urosjarc/db-messiah: Lib. similar to JetBrains/Exposed, but without annotations, DSLs or DAOs... Lib. has a strong focus on clean architecture and simplicity.](https://www.reddit.com/r/Kotlin/comments/1buet5m/first_public_release_github_urosjarcdbmessiah_lib/)
-- [Looking for script/app](https://www.reddit.com/r/Kotlin/comments/1bu67cg/looking_for_scriptapp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
