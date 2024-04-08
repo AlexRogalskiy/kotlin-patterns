@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should i go in java first or kotlin directly ?](https://www.reddit.com/r/Kotlin/comments/1bybc6o/should_i_go_in_java_first_or_kotlin_directly/)
+- [Are there any Kotlin backend jobs?](https://www.reddit.com/r/Kotlin/comments/1by8nwo/are_there_any_kotlin_backend_jobs/)
+- [[Showcase] - Spring boot scaffold project using Flyway, Jooq, and OpenAPI](https://www.reddit.com/r/Kotlin/comments/1bxzqrj/showcase_spring_boot_scaffold_project_using/)
+- [Why can&#39;t I omit `::` operator when I specify a function argument?](https://www.reddit.com/r/Kotlin/comments/1bxzduf/why_cant_i_omit_operator_when_i_specify_a/)
+- [Is it worth learning Kotlin just for Android development?](https://www.reddit.com/r/Kotlin/comments/1bxyx0n/is_it_worth_learning_kotlin_just_for_android/)
 - [Basecode - Full stack code generator &lpar;Kotlin / React&rpar;](https://www.reddit.com/r/Kotlin/comments/1bxil5a/basecode_full_stack_code_generator_kotlin_react/)
 - [Hi, sorry for the stupid question, but why onActivityResult does not respond?](https://www.reddit.com/r/Kotlin/comments/1bxc8r6/hi_sorry_for_the_stupid_question_but_why/)
 - [Best way to convert a List&lt;Pair&lt;T,T&gt;&gt; into a Map&lt;T,Set&lt;T&gt;&gt;](https://www.reddit.com/r/Kotlin/comments/1bxc3l6/best_way_to_convert_a_listpairtt_into_a_maptsett/)
 - [Kotlin Puzzlers 3. More puzzlers in profile](https://www.reddit.com/r/Kotlin/comments/1bwph8a/kotlin_puzzlers_3_more_puzzlers_in_profile/)
 - [How to safely update state in your Kotlin apps](https://www.reddit.com/r/Kotlin/comments/1bwnt4p/how_to_safely_update_state_in_your_kotlin_apps/)
-- [Composing Higher Order Functions to Create an http4k API](https://www.reddit.com/r/Kotlin/comments/1bwne2n/composing_higher_order_functions_to_create_an/)
-- [Kotlin/Wasm — Compile Once Run Everywhere by Zalim Bashorov @ Wasm I/O 2024](https://www.reddit.com/r/Kotlin/comments/1bw541s/kotlinwasm_compile_once_run_everywhere_by_zalim/)
-- [can it be true that there are no tools to create a file shortcut &lpar;in windows&rpar;??](https://www.reddit.com/r/Kotlin/comments/1bvx0ge/can_it_be_true_that_there_are_no_tools_to_create/)
-- [Help with Kotlin distinctBy&lpar;&rpar; function](https://www.reddit.com/r/Kotlin/comments/1bvus10/help_with_kotlin_distinctby_function/)
-- [Kotlin Design Patterns: Proxy Explained](https://www.reddit.com/r/Kotlin/comments/1bvojv4/kotlin_design_patterns_proxy_explained/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
