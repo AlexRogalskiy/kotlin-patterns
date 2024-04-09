@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Proposal for Collaboration on Developing Applications for African Countries](https://www.reddit.com/r/Kotlin/comments/1bzepro/proposal_for_collaboration_on_developing/)
+- [I am excited to introduce Gestalt a Java configuration project](https://www.reddit.com/r/Kotlin/comments/1bzd9k4/i_am_excited_to_introduce_gestalt_a_java/)
+- [Can I make a LazyColumn as wide as its parent in Compose for Desktop?](https://www.reddit.com/r/Kotlin/comments/1bz1uns/can_i_make_a_lazycolumn_as_wide_as_its_parent_in/)
+- [Improve performance of Mockk](https://www.reddit.com/r/Kotlin/comments/1bz0vtf/improve_performance_of_mockk/)
+- [I don&#39;t have experience of working with big organisation or big startup, so to prove my skills I want to contribute on open source projects, i don&#39;t know where to start looking for some android development open source projects please suggest.](https://www.reddit.com/r/Kotlin/comments/1byx2f7/i_dont_have_experience_of_working_with_big/)
+- [Help me understand Exposed&#39;s design choices](https://www.reddit.com/r/Kotlin/comments/1byw4rc/help_me_understand_exposeds_design_choices/)
 - [Should i go in java first or kotlin directly ?](https://www.reddit.com/r/Kotlin/comments/1bybc6o/should_i_go_in_java_first_or_kotlin_directly/)
 - [Are there any Kotlin backend jobs?](https://www.reddit.com/r/Kotlin/comments/1by8nwo/are_there_any_kotlin_backend_jobs/)
 - [[Showcase] - Spring boot scaffold project using Flyway, Jooq, and OpenAPI](https://www.reddit.com/r/Kotlin/comments/1bxzqrj/showcase_spring_boot_scaffold_project_using/)
 - [Why can&#39;t I omit `::` operator when I specify a function argument?](https://www.reddit.com/r/Kotlin/comments/1bxzduf/why_cant_i_omit_operator_when_i_specify_a/)
-- [Is it worth learning Kotlin just for Android development?](https://www.reddit.com/r/Kotlin/comments/1bxyx0n/is_it_worth_learning_kotlin_just_for_android/)
-- [Basecode - Full stack code generator &lpar;Kotlin / React&rpar;](https://www.reddit.com/r/Kotlin/comments/1bxil5a/basecode_full_stack_code_generator_kotlin_react/)
-- [Hi, sorry for the stupid question, but why onActivityResult does not respond?](https://www.reddit.com/r/Kotlin/comments/1bxc8r6/hi_sorry_for_the_stupid_question_but_why/)
-- [Best way to convert a List&lt;Pair&lt;T,T&gt;&gt; into a Map&lt;T,Set&lt;T&gt;&gt;](https://www.reddit.com/r/Kotlin/comments/1bxc3l6/best_way_to_convert_a_listpairtt_into_a_maptsett/)
-- [Kotlin Puzzlers 3. More puzzlers in profile](https://www.reddit.com/r/Kotlin/comments/1bwph8a/kotlin_puzzlers_3_more_puzzlers_in_profile/)
-- [How to safely update state in your Kotlin apps](https://www.reddit.com/r/Kotlin/comments/1bwnt4p/how_to_safely_update_state_in_your_kotlin_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
