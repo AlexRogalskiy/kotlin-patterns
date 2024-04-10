@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [138 Kotlin devs talk about the architectural headaches they face in 2024](https://www.reddit.com/r/Kotlin/comments/1bztm6l/138_kotlin_devs_talk_about_the_architectural/)
+- [Plotting Financial Data in Kotlin with Kandy &lpar;Kotlin plotting library&rpar;](https://www.reddit.com/r/Kotlin/comments/1bzqpxu/plotting_financial_data_in_kotlin_with_kandy/)
+- [What is the point of `!!.`?](https://www.reddit.com/r/Kotlin/comments/1bzqfa7/what_is_the_point_of/)
+- [Kotlin 2.0.0-RC1](https://www.reddit.com/r/Kotlin/comments/1bzoa0b/kotlin_200rc1/)
+- [How to parse programming-code in JSON?](https://www.reddit.com/r/Kotlin/comments/1bzmru4/how_to_parse_programmingcode_in_json/)
+- [Trying to implement caching in Ktor](https://www.reddit.com/r/Kotlin/comments/1bzjg9g/trying_to_implement_caching_in_ktor/)
+- [Me ajuda em Kotlin? Help me in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1bzhgkb/me_ajuda_em_kotlin_help_me_in_kotlin/)
 - [Proposal for Collaboration on Developing Applications for African Countries](https://www.reddit.com/r/Kotlin/comments/1bzepro/proposal_for_collaboration_on_developing/)
 - [I am excited to introduce Gestalt a Java configuration project](https://www.reddit.com/r/Kotlin/comments/1bzd9k4/i_am_excited_to_introduce_gestalt_a_java/)
 - [Can I make a LazyColumn as wide as its parent in Compose for Desktop?](https://www.reddit.com/r/Kotlin/comments/1bz1uns/can_i_make_a_lazycolumn_as_wide_as_its_parent_in/)
-- [Improve performance of Mockk](https://www.reddit.com/r/Kotlin/comments/1bz0vtf/improve_performance_of_mockk/)
-- [I don&#39;t have experience of working with big organisation or big startup, so to prove my skills I want to contribute on open source projects, i don&#39;t know where to start looking for some android development open source projects please suggest.](https://www.reddit.com/r/Kotlin/comments/1byx2f7/i_dont_have_experience_of_working_with_big/)
-- [Help me understand Exposed&#39;s design choices](https://www.reddit.com/r/Kotlin/comments/1byw4rc/help_me_understand_exposeds_design_choices/)
-- [Should i go in java first or kotlin directly ?](https://www.reddit.com/r/Kotlin/comments/1bybc6o/should_i_go_in_java_first_or_kotlin_directly/)
-- [Are there any Kotlin backend jobs?](https://www.reddit.com/r/Kotlin/comments/1by8nwo/are_there_any_kotlin_backend_jobs/)
-- [[Showcase] - Spring boot scaffold project using Flyway, Jooq, and OpenAPI](https://www.reddit.com/r/Kotlin/comments/1bxzqrj/showcase_spring_boot_scaffold_project_using/)
-- [Why can&#39;t I omit `::` operator when I specify a function argument?](https://www.reddit.com/r/Kotlin/comments/1bxzduf/why_cant_i_omit_operator_when_i_specify_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
