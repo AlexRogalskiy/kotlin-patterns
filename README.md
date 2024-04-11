@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Questionnaire for my Bachelor&#39;s degree](https://www.reddit.com/r/Kotlin/comments/1c0vavp/questionnaire_for_my_bachelors_degree/)
+- [anyone here doing kotlin at work altogether without intellij?](https://www.reddit.com/r/Kotlin/comments/1c0omre/anyone_here_doing_kotlin_at_work_altogether/)
+- [Free Review Copies of &quot;Kotlin Design Patterns and Best Practices- Third Edition&quot; against your unbiased review.](https://www.reddit.com/r/Kotlin/comments/1c0lacd/free_review_copies_of_kotlin_design_patterns_and/)
+- [Kotlin Flows - the Ultimate Guide](https://www.reddit.com/r/Kotlin/comments/1c0kj2u/kotlin_flows_the_ultimate_guide/)
+- [How can I build C++ code into .framework with cinterop?](https://www.reddit.com/r/Kotlin/comments/1c0j37k/how_can_i_build_c_code_into_framework_with/)
+- [Choosing Between Kotlin and JavaScript/TypeScript for Backend Development. Career Paths, Project Suitability, and Long-term Sustainability: Seeking Advice and Experiences](https://www.reddit.com/r/Kotlin/comments/1c0in0w/choosing_between_kotlin_and_javascripttypescript/)
+- [Tech stack recommendation/suggestions for creating android app](https://www.reddit.com/r/Kotlin/comments/1c0i9uq/tech_stack_recommendationsuggestions_for_creating/)
+- [Didn&#39;t expect this one. What do you think is the result?](https://www.reddit.com/r/Kotlin/comments/1c0hncz/didnt_expect_this_one_what_do_you_think_is_the/)
 - [138 Kotlin devs talk about the architectural headaches they face in 2024](https://www.reddit.com/r/Kotlin/comments/1bztm6l/138_kotlin_devs_talk_about_the_architectural/)
 - [Plotting Financial Data in Kotlin with Kandy &lpar;Kotlin plotting library&rpar;](https://www.reddit.com/r/Kotlin/comments/1bzqpxu/plotting_financial_data_in_kotlin_with_kandy/)
-- [What is the point of `!!.`?](https://www.reddit.com/r/Kotlin/comments/1bzqfa7/what_is_the_point_of/)
-- [Kotlin 2.0.0-RC1](https://www.reddit.com/r/Kotlin/comments/1bzoa0b/kotlin_200rc1/)
-- [How to parse programming-code in JSON?](https://www.reddit.com/r/Kotlin/comments/1bzmru4/how_to_parse_programmingcode_in_json/)
-- [Trying to implement caching in Ktor](https://www.reddit.com/r/Kotlin/comments/1bzjg9g/trying_to_implement_caching_in_ktor/)
-- [Me ajuda em Kotlin? Help me in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1bzhgkb/me_ajuda_em_kotlin_help_me_in_kotlin/)
-- [Proposal for Collaboration on Developing Applications for African Countries](https://www.reddit.com/r/Kotlin/comments/1bzepro/proposal_for_collaboration_on_developing/)
-- [I am excited to introduce Gestalt a Java configuration project](https://www.reddit.com/r/Kotlin/comments/1bzd9k4/i_am_excited_to_introduce_gestalt_a_java/)
-- [Can I make a LazyColumn as wide as its parent in Compose for Desktop?](https://www.reddit.com/r/Kotlin/comments/1bz1uns/can_i_make_a_lazycolumn_as_wide_as_its_parent_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
