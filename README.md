@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Questionnaire for my Bachelor&#39;s degree](https://www.reddit.com/r/Kotlin/comments/1c0vavp/questionnaire_for_my_bachelors_degree/)
+- [Brand New - Looking for a Tutorial](https://www.reddit.com/r/Kotlin/comments/1c1w7j3/brand_new_looking_for_a_tutorial/)
+- [What is better for gui Java’s or swing for gui development](https://www.reddit.com/r/Kotlin/comments/1c1thnc/what_is_better_for_gui_javas_or_swing_for_gui/)
+- [Which Copilot/AI Model for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1c1mtay/which_copilotai_model_for_kotlin/)
+- [What are the best Bad Things about being a Mobile app Developer](https://www.reddit.com/r/Kotlin/comments/1c1jobt/what_are_the_best_bad_things_about_being_a_mobile/)
+- [From Objects to Functions: Build Your Software Faster &amp; Safer with FP &amp; Kotlin • Uberto Barbini &amp; Duncan McGregor • GOTO 2024](https://www.reddit.com/r/Kotlin/comments/1c1di2h/from_objects_to_functions_build_your_software/)
 - [anyone here doing kotlin at work altogether without intellij?](https://www.reddit.com/r/Kotlin/comments/1c0omre/anyone_here_doing_kotlin_at_work_altogether/)
 - [Free Review Copies of &quot;Kotlin Design Patterns and Best Practices- Third Edition&quot; against your unbiased review.](https://www.reddit.com/r/Kotlin/comments/1c0lacd/free_review_copies_of_kotlin_design_patterns_and/)
 - [Kotlin Flows - the Ultimate Guide](https://www.reddit.com/r/Kotlin/comments/1c0kj2u/kotlin_flows_the_ultimate_guide/)
 - [How can I build C++ code into .framework with cinterop?](https://www.reddit.com/r/Kotlin/comments/1c0j37k/how_can_i_build_c_code_into_framework_with/)
 - [Choosing Between Kotlin and JavaScript/TypeScript for Backend Development. Career Paths, Project Suitability, and Long-term Sustainability: Seeking Advice and Experiences](https://www.reddit.com/r/Kotlin/comments/1c0in0w/choosing_between_kotlin_and_javascripttypescript/)
-- [Tech stack recommendation/suggestions for creating android app](https://www.reddit.com/r/Kotlin/comments/1c0i9uq/tech_stack_recommendationsuggestions_for_creating/)
-- [Didn&#39;t expect this one. What do you think is the result?](https://www.reddit.com/r/Kotlin/comments/1c0hncz/didnt_expect_this_one_what_do_you_think_is_the/)
-- [138 Kotlin devs talk about the architectural headaches they face in 2024](https://www.reddit.com/r/Kotlin/comments/1bztm6l/138_kotlin_devs_talk_about_the_architectural/)
-- [Plotting Financial Data in Kotlin with Kandy &lpar;Kotlin plotting library&rpar;](https://www.reddit.com/r/Kotlin/comments/1bzqpxu/plotting_financial_data_in_kotlin_with_kandy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
