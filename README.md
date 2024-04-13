@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Final Year Project](https://www.reddit.com/r/Kotlin/comments/1c2djt9/final_year_project/)
+- [Kotlin Coroutines and Loom](https://www.reddit.com/r/Kotlin/comments/1c28snh/kotlin_coroutines_and_loom/)
+- [How to make TUI with kotlin?](https://www.reddit.com/r/Kotlin/comments/1c2644x/how_to_make_tui_with_kotlin/)
 - [Brand New - Looking for a Tutorial](https://www.reddit.com/r/Kotlin/comments/1c1w7j3/brand_new_looking_for_a_tutorial/)
 - [What is better for gui Java’s or swing for gui development](https://www.reddit.com/r/Kotlin/comments/1c1thnc/what_is_better_for_gui_javas_or_swing_for_gui/)
 - [Which Copilot/AI Model for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1c1mtay/which_copilotai_model_for_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [From Objects to Functions: Build Your Software Faster &amp; Safer with FP &amp; Kotlin • Uberto Barbini &amp; Duncan McGregor • GOTO 2024](https://www.reddit.com/r/Kotlin/comments/1c1di2h/from_objects_to_functions_build_your_software/)
 - [anyone here doing kotlin at work altogether without intellij?](https://www.reddit.com/r/Kotlin/comments/1c0omre/anyone_here_doing_kotlin_at_work_altogether/)
 - [Free Review Copies of &quot;Kotlin Design Patterns and Best Practices- Third Edition&quot; against your unbiased review.](https://www.reddit.com/r/Kotlin/comments/1c0lacd/free_review_copies_of_kotlin_design_patterns_and/)
-- [Kotlin Flows - the Ultimate Guide](https://www.reddit.com/r/Kotlin/comments/1c0kj2u/kotlin_flows_the_ultimate_guide/)
-- [How can I build C++ code into .framework with cinterop?](https://www.reddit.com/r/Kotlin/comments/1c0j37k/how_can_i_build_c_code_into_framework_with/)
-- [Choosing Between Kotlin and JavaScript/TypeScript for Backend Development. Career Paths, Project Suitability, and Long-term Sustainability: Seeking Advice and Experiences](https://www.reddit.com/r/Kotlin/comments/1c0in0w/choosing_between_kotlin_and_javascripttypescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
