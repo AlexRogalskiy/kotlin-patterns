@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/Wasm and keyboard events](https://www.reddit.com/r/Kotlin/comments/1c3eggf/kotlinwasm_and_keyboard_events/)
+- [Why is this so complicated?](https://www.reddit.com/r/Kotlin/comments/1c30to9/why_is_this_so_complicated/)
+- [App Language &lpar;Localization&rpar;](https://www.reddit.com/r/Kotlin/comments/1c30e4o/app_language_localization/)
+- [Building KMP Library with resources for iOS](https://www.reddit.com/r/Kotlin/comments/1c2wxqv/building_kmp_library_with_resources_for_ios/)
+- [Need Help: Integrating Python with Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1c2qzst/need_help_integrating_python_with_kotlin/)
 - [Final Year Project](https://www.reddit.com/r/Kotlin/comments/1c2djt9/final_year_project/)
 - [Kotlin Coroutines and Loom](https://www.reddit.com/r/Kotlin/comments/1c28snh/kotlin_coroutines_and_loom/)
 - [How to make TUI with kotlin?](https://www.reddit.com/r/Kotlin/comments/1c2644x/how_to_make_tui_with_kotlin/)
 - [Brand New - Looking for a Tutorial](https://www.reddit.com/r/Kotlin/comments/1c1w7j3/brand_new_looking_for_a_tutorial/)
 - [What is better for gui Java’s or swing for gui development](https://www.reddit.com/r/Kotlin/comments/1c1thnc/what_is_better_for_gui_javas_or_swing_for_gui/)
-- [Which Copilot/AI Model for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1c1mtay/which_copilotai_model_for_kotlin/)
-- [What are the best Bad Things about being a Mobile app Developer](https://www.reddit.com/r/Kotlin/comments/1c1jobt/what_are_the_best_bad_things_about_being_a_mobile/)
-- [From Objects to Functions: Build Your Software Faster &amp; Safer with FP &amp; Kotlin • Uberto Barbini &amp; Duncan McGregor • GOTO 2024](https://www.reddit.com/r/Kotlin/comments/1c1di2h/from_objects_to_functions_build_your_software/)
-- [anyone here doing kotlin at work altogether without intellij?](https://www.reddit.com/r/Kotlin/comments/1c0omre/anyone_here_doing_kotlin_at_work_altogether/)
-- [Free Review Copies of &quot;Kotlin Design Patterns and Best Practices- Third Edition&quot; against your unbiased review.](https://www.reddit.com/r/Kotlin/comments/1c0lacd/free_review_copies_of_kotlin_design_patterns_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
