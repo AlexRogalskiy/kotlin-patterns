@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [We in Multiplatform](https://www.reddit.com/r/Kotlin/comments/1c45dq7/we_in_multiplatform/)
+- [Pub.Dev for kotlin](https://www.reddit.com/r/Kotlin/comments/1c3uxco/pubdev_for_kotlin/)
+- [Query on prototyping and interactions in Android using Kotlin.](https://www.reddit.com/r/Kotlin/comments/1c3lvwr/query_on_prototyping_and_interactions_in_android/)
 - [Kotlin/Wasm and keyboard events](https://www.reddit.com/r/Kotlin/comments/1c3eggf/kotlinwasm_and_keyboard_events/)
 - [Why is this so complicated?](https://www.reddit.com/r/Kotlin/comments/1c30to9/why_is_this_so_complicated/)
 - [App Language &lpar;Localization&rpar;](https://www.reddit.com/r/Kotlin/comments/1c30e4o/app_language_localization/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Need Help: Integrating Python with Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1c2qzst/need_help_integrating_python_with_kotlin/)
 - [Final Year Project](https://www.reddit.com/r/Kotlin/comments/1c2djt9/final_year_project/)
 - [Kotlin Coroutines and Loom](https://www.reddit.com/r/Kotlin/comments/1c28snh/kotlin_coroutines_and_loom/)
-- [How to make TUI with kotlin?](https://www.reddit.com/r/Kotlin/comments/1c2644x/how_to_make_tui_with_kotlin/)
-- [Brand New - Looking for a Tutorial](https://www.reddit.com/r/Kotlin/comments/1c1w7j3/brand_new_looking_for_a_tutorial/)
-- [What is better for gui Java’s or swing for gui development](https://www.reddit.com/r/Kotlin/comments/1c1thnc/what_is_better_for_gui_javas_or_swing_for_gui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
