@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Raspberry pi](https://www.reddit.com/r/Kotlin/comments/1c4xxwk/raspberry_pi/)
+- [Compiler-plugin that does Scala-like interpolation a.k.a. JEP-430 for Kotlin](https://www.reddit.com/r/Kotlin/comments/1c4qpqz/compilerplugin_that_does_scalalike_interpolation/)
+- [Beginner help](https://www.reddit.com/r/Kotlin/comments/1c4p26o/beginner_help/)
+- [Can someone explain what&#39;s going on here to a Kotlin noob?](https://www.reddit.com/r/Kotlin/comments/1c4o1a3/can_someone_explain_whats_going_on_here_to_a/)
+- [ICYMI for Koin User](https://www.reddit.com/r/Kotlin/comments/1c4nujn/icymi_for_koin_user/)
+- [Kilua 0.0.1 - composable web framework for Kotlin/Wasm and Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/1c4i2b5/kilua_001_composable_web_framework_for_kotlinwasm/)
+- [What&#39;s your take on &quot;Ninja&quot; developers 🥷🏽?](https://www.reddit.com/r/Kotlin/comments/1c4huos/whats_your_take_on_ninja_developers/)
+- [We cannot extend a final class, but we can extend its properities and functions, right?](https://www.reddit.com/r/Kotlin/comments/1c4ggrr/we_cannot_extend_a_final_class_but_we_can_extend/)
 - [We in Multiplatform](https://www.reddit.com/r/Kotlin/comments/1c45dq7/we_in_multiplatform/)
 - [Pub.Dev for kotlin](https://www.reddit.com/r/Kotlin/comments/1c3uxco/pubdev_for_kotlin/)
-- [Query on prototyping and interactions in Android using Kotlin.](https://www.reddit.com/r/Kotlin/comments/1c3lvwr/query_on_prototyping_and_interactions_in_android/)
-- [Kotlin/Wasm and keyboard events](https://www.reddit.com/r/Kotlin/comments/1c3eggf/kotlinwasm_and_keyboard_events/)
-- [Why is this so complicated?](https://www.reddit.com/r/Kotlin/comments/1c30to9/why_is_this_so_complicated/)
-- [App Language &lpar;Localization&rpar;](https://www.reddit.com/r/Kotlin/comments/1c30e4o/app_language_localization/)
-- [Building KMP Library with resources for iOS](https://www.reddit.com/r/Kotlin/comments/1c2wxqv/building_kmp_library_with_resources_for_ios/)
-- [Need Help: Integrating Python with Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1c2qzst/need_help_integrating_python_with_kotlin/)
-- [Final Year Project](https://www.reddit.com/r/Kotlin/comments/1c2djt9/final_year_project/)
-- [Kotlin Coroutines and Loom](https://www.reddit.com/r/Kotlin/comments/1c28snh/kotlin_coroutines_and_loom/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
