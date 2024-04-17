@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My first kotlin project](https://www.reddit.com/r/Kotlin/comments/1c5skay/my_first_kotlin_project/)
+- [please help me with catching this ktor-exception before I&#39;m going bananas...](https://www.reddit.com/r/Kotlin/comments/1c5opza/please_help_me_with_catching_this_ktorexception/)
+- [Java dev looking where to start with Kotlin](https://www.reddit.com/r/Kotlin/comments/1c5nroi/java_dev_looking_where_to_start_with_kotlin/)
+- [Is Kotlin Being Underrepresented in Job Listings?](https://www.reddit.com/r/Kotlin/comments/1c5l08z/is_kotlin_being_underrepresented_in_job_listings/)
+- [How do I get compose working on my raspberry pi?](https://www.reddit.com/r/Kotlin/comments/1c5jikl/how_do_i_get_compose_working_on_my_raspberry_pi/)
+- [Need Advice about mobile dev](https://www.reddit.com/r/Kotlin/comments/1c56dl8/need_advice_about_mobile_dev/)
 - [Raspberry pi](https://www.reddit.com/r/Kotlin/comments/1c4xxwk/raspberry_pi/)
 - [Compiler-plugin that does Scala-like interpolation a.k.a. JEP-430 for Kotlin](https://www.reddit.com/r/Kotlin/comments/1c4qpqz/compilerplugin_that_does_scalalike_interpolation/)
 - [Beginner help](https://www.reddit.com/r/Kotlin/comments/1c4p26o/beginner_help/)
 - [Can someone explain what&#39;s going on here to a Kotlin noob?](https://www.reddit.com/r/Kotlin/comments/1c4o1a3/can_someone_explain_whats_going_on_here_to_a/)
-- [ICYMI for Koin User](https://www.reddit.com/r/Kotlin/comments/1c4nujn/icymi_for_koin_user/)
-- [Kilua 0.0.1 - composable web framework for Kotlin/Wasm and Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/1c4i2b5/kilua_001_composable_web_framework_for_kotlinwasm/)
-- [What&#39;s your take on &quot;Ninja&quot; developers 🥷🏽?](https://www.reddit.com/r/Kotlin/comments/1c4huos/whats_your_take_on_ninja_developers/)
-- [We cannot extend a final class, but we can extend its properities and functions, right?](https://www.reddit.com/r/Kotlin/comments/1c4ggrr/we_cannot_extend_a_final_class_but_we_can_extend/)
-- [We in Multiplatform](https://www.reddit.com/r/Kotlin/comments/1c45dq7/we_in_multiplatform/)
-- [Pub.Dev for kotlin](https://www.reddit.com/r/Kotlin/comments/1c3uxco/pubdev_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
