@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Video: Inline, Crossinline, Noinline](https://www.reddit.com/r/Kotlin/comments/1c6c0tt/video_inline_crossinline_noinline/)
+- [Navigating Kotlin&#39;s Flexibility: Best Practices for Structured Code?](https://www.reddit.com/r/Kotlin/comments/1c62f8t/navigating_kotlins_flexibility_best_practices_for/)
+- [Gradle sourceSet Dependancy Mess - Am I going crazy?](https://www.reddit.com/r/Kotlin/comments/1c5yvjj/gradle_sourceset_dependancy_mess_am_i_going_crazy/)
 - [My first kotlin project](https://www.reddit.com/r/Kotlin/comments/1c5skay/my_first_kotlin_project/)
 - [please help me with catching this ktor-exception before I&#39;m going bananas...](https://www.reddit.com/r/Kotlin/comments/1c5opza/please_help_me_with_catching_this_ktorexception/)
 - [Java dev looking where to start with Kotlin](https://www.reddit.com/r/Kotlin/comments/1c5nroi/java_dev_looking_where_to_start_with_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How do I get compose working on my raspberry pi?](https://www.reddit.com/r/Kotlin/comments/1c5jikl/how_do_i_get_compose_working_on_my_raspberry_pi/)
 - [Need Advice about mobile dev](https://www.reddit.com/r/Kotlin/comments/1c56dl8/need_advice_about_mobile_dev/)
 - [Raspberry pi](https://www.reddit.com/r/Kotlin/comments/1c4xxwk/raspberry_pi/)
-- [Compiler-plugin that does Scala-like interpolation a.k.a. JEP-430 for Kotlin](https://www.reddit.com/r/Kotlin/comments/1c4qpqz/compilerplugin_that_does_scalalike_interpolation/)
-- [Beginner help](https://www.reddit.com/r/Kotlin/comments/1c4p26o/beginner_help/)
-- [Can someone explain what&#39;s going on here to a Kotlin noob?](https://www.reddit.com/r/Kotlin/comments/1c4o1a3/can_someone_explain_whats_going_on_here_to_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
