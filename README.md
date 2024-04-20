@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beware of Build Time Bloat](https://www.reddit.com/r/Kotlin/comments/1c87eoy/beware_of_build_time_bloat/)
+- [App dev in kotlin](https://www.reddit.com/r/Kotlin/comments/1c7x7eb/app_dev_in_kotlin/)
+- [Kotlin K2 Compiler Migration Guide Now Available](https://www.reddit.com/r/Kotlin/comments/1c7w40p/kotlin_k2_compiler_migration_guide_now_available/)
+- [Ktor and Dependency Injection](https://www.reddit.com/r/Kotlin/comments/1c7w2x8/ktor_and_dependency_injection/)
+- [My new setup](https://www.reddit.com/r/Kotlin/comments/1c7rduh/my_new_setup/)
+- [Need suggestion](https://www.reddit.com/r/Kotlin/comments/1c7nut9/need_suggestion/)
+- [Using Kotlin in algorithms interviews, do you take advantage of the nice Kotlin features?](https://www.reddit.com/r/Kotlin/comments/1c7mgms/using_kotlin_in_algorithms_interviews_do_you_take/)
 - [Kotlin Multiplatform library initializer?](https://www.reddit.com/r/Kotlin/comments/1c7dtoq/kotlin_multiplatform_library_initializer/)
 - [Teleport Android Developer Role](https://www.reddit.com/r/Kotlin/comments/1c7b1n9/teleport_android_developer_role/)
 - [Help with polymorphic deserialization](https://www.reddit.com/r/Kotlin/comments/1c72grs/help_with_polymorphic_deserialization/)
-- [Video: Inline, Crossinline, Noinline](https://www.reddit.com/r/Kotlin/comments/1c6c0tt/video_inline_crossinline_noinline/)
-- [Navigating Kotlin&#39;s Flexibility: Best Practices for Structured Code?](https://www.reddit.com/r/Kotlin/comments/1c62f8t/navigating_kotlins_flexibility_best_practices_for/)
-- [Gradle sourceSet Dependancy Mess - Am I going crazy?](https://www.reddit.com/r/Kotlin/comments/1c5yvjj/gradle_sourceset_dependancy_mess_am_i_going_crazy/)
-- [My first kotlin project](https://www.reddit.com/r/Kotlin/comments/1c5skay/my_first_kotlin_project/)
-- [please help me with catching this ktor-exception before I&#39;m going bananas...](https://www.reddit.com/r/Kotlin/comments/1c5opza/please_help_me_with_catching_this_ktorexception/)
-- [Java dev looking where to start with Kotlin](https://www.reddit.com/r/Kotlin/comments/1c5nroi/java_dev_looking_where_to_start_with_kotlin/)
-- [Is Kotlin Being Underrepresented in Job Listings?](https://www.reddit.com/r/Kotlin/comments/1c5l08z/is_kotlin_being_underrepresented_in_job_listings/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
