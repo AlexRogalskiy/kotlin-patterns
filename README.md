@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I want to create journal](https://www.reddit.com/r/Kotlin/comments/1c8zyec/i_want_to_create_journal/)
+- [How to save session of a Kotlin notebook?](https://www.reddit.com/r/Kotlin/comments/1c8z4q6/how_to_save_session_of_a_kotlin_notebook/)
+- [About DI frameworks](https://www.reddit.com/r/Kotlin/comments/1c8yoe3/about_di_frameworks/)
 - [Beware of Build Time Bloat](https://www.reddit.com/r/Kotlin/comments/1c87eoy/beware_of_build_time_bloat/)
 - [App dev in kotlin](https://www.reddit.com/r/Kotlin/comments/1c7x7eb/app_dev_in_kotlin/)
 - [Kotlin K2 Compiler Migration Guide Now Available](https://www.reddit.com/r/Kotlin/comments/1c7w40p/kotlin_k2_compiler_migration_guide_now_available/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [My new setup](https://www.reddit.com/r/Kotlin/comments/1c7rduh/my_new_setup/)
 - [Need suggestion](https://www.reddit.com/r/Kotlin/comments/1c7nut9/need_suggestion/)
 - [Using Kotlin in algorithms interviews, do you take advantage of the nice Kotlin features?](https://www.reddit.com/r/Kotlin/comments/1c7mgms/using_kotlin_in_algorithms_interviews_do_you_take/)
-- [Kotlin Multiplatform library initializer?](https://www.reddit.com/r/Kotlin/comments/1c7dtoq/kotlin_multiplatform_library_initializer/)
-- [Teleport Android Developer Role](https://www.reddit.com/r/Kotlin/comments/1c7b1n9/teleport_android_developer_role/)
-- [Help with polymorphic deserialization](https://www.reddit.com/r/Kotlin/comments/1c72grs/help_with_polymorphic_deserialization/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
