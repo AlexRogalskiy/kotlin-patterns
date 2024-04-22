@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I want to create journal](https://www.reddit.com/r/Kotlin/comments/1c8zyec/i_want_to_create_journal/)
+- [trying to use biometric prompt but getting back None of the following functions can be called with the arguments supplied](https://www.reddit.com/r/Kotlin/comments/1c9uk4x/trying_to_use_biometric_prompt_but_getting_back/)
+- [Would you consider this code style bad practice? I personally think that it makes the code very concise and neat.](https://www.reddit.com/r/Kotlin/comments/1c9om1p/would_you_consider_this_code_style_bad_practice_i/)
+- [Need help](https://www.reddit.com/r/Kotlin/comments/1c9mv4z/need_help/)
+- [A small library to get platform-specific app data and cache directory when working with KMP.](https://www.reddit.com/r/Kotlin/comments/1c9m3yr/a_small_library_to_get_platformspecific_app_data/)
+- [KMP generatePomFileForAndroidPublication fails](https://www.reddit.com/r/Kotlin/comments/1c9jbpl/kmp_generatepomfileforandroidpublication_fails/)
+- [KMP restart app](https://www.reddit.com/r/Kotlin/comments/1c9hel4/kmp_restart_app/)
+- [Need Help](https://www.reddit.com/r/Kotlin/comments/1c9966a/need_help/)
 - [How to save session of a Kotlin notebook?](https://www.reddit.com/r/Kotlin/comments/1c8z4q6/how_to_save_session_of_a_kotlin_notebook/)
 - [About DI frameworks](https://www.reddit.com/r/Kotlin/comments/1c8yoe3/about_di_frameworks/)
 - [Beware of Build Time Bloat](https://www.reddit.com/r/Kotlin/comments/1c87eoy/beware_of_build_time_bloat/)
-- [App dev in kotlin](https://www.reddit.com/r/Kotlin/comments/1c7x7eb/app_dev_in_kotlin/)
-- [Kotlin K2 Compiler Migration Guide Now Available](https://www.reddit.com/r/Kotlin/comments/1c7w40p/kotlin_k2_compiler_migration_guide_now_available/)
-- [Ktor and Dependency Injection](https://www.reddit.com/r/Kotlin/comments/1c7w2x8/ktor_and_dependency_injection/)
-- [My new setup](https://www.reddit.com/r/Kotlin/comments/1c7rduh/my_new_setup/)
-- [Need suggestion](https://www.reddit.com/r/Kotlin/comments/1c7nut9/need_suggestion/)
-- [Using Kotlin in algorithms interviews, do you take advantage of the nice Kotlin features?](https://www.reddit.com/r/Kotlin/comments/1c7mgms/using_kotlin_in_algorithms_interviews_do_you_take/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
