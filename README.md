@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [trying to use biometric prompt but getting back None of the following functions can be called with the arguments supplied](https://www.reddit.com/r/Kotlin/comments/1c9uk4x/trying_to_use_biometric_prompt_but_getting_back/)
-- [Would you consider this code style bad practice? I personally think that it makes the code very concise and neat.](https://www.reddit.com/r/Kotlin/comments/1c9om1p/would_you_consider_this_code_style_bad_practice_i/)
-- [Need help](https://www.reddit.com/r/Kotlin/comments/1c9mv4z/need_help/)
-- [A small library to get platform-specific app data and cache directory when working with KMP.](https://www.reddit.com/r/Kotlin/comments/1c9m3yr/a_small_library_to_get_platformspecific_app_data/)
-- [KMP generatePomFileForAndroidPublication fails](https://www.reddit.com/r/Kotlin/comments/1c9jbpl/kmp_generatepomfileforandroidpublication_fails/)
-- [KMP restart app](https://www.reddit.com/r/Kotlin/comments/1c9hel4/kmp_restart_app/)
-- [Need Help](https://www.reddit.com/r/Kotlin/comments/1c9966a/need_help/)
-- [How to save session of a Kotlin notebook?](https://www.reddit.com/r/Kotlin/comments/1c8z4q6/how_to_save_session_of_a_kotlin_notebook/)
-- [About DI frameworks](https://www.reddit.com/r/Kotlin/comments/1c8yoe3/about_di_frameworks/)
-- [Beware of Build Time Bloat](https://www.reddit.com/r/Kotlin/comments/1c87eoy/beware_of_build_time_bloat/)
+- [Would changing my language make a difference?](https://www.reddit.com/r/Kotlin/comments/1cap485/would_changing_my_language_make_a_difference/)
+- [Wtf there is so much magic!](https://www.reddit.com/r/Kotlin/comments/1cane7j/wtf_there_is_so_much_magic/)
+- [Kotlin scripting in Kotlin](https://www.reddit.com/r/Kotlin/comments/1cakydu/kotlin_scripting_in_kotlin/)
+- [How to integrate a Kotlin Multiplatform Mobile &lpar;KMM&rpar; library with a Flutter project as a complete beginner to KMM?](https://www.reddit.com/r/Kotlin/comments/1cajufh/how_to_integrate_a_kotlin_multiplatform_mobile/)
+- [Flow executeIfNotEmit](https://www.reddit.com/r/Kotlin/comments/1cadamq/flow_executeifnotemit/)
+- [Library to generate invoice PDF](https://www.reddit.com/r/Kotlin/comments/1cac5mu/library_to_generate_invoice_pdf/)
+- [trying to print LocalDateTime, after pressing a button using biometrics, but write seems to not want to work can anyone help?](https://www.reddit.com/r/Kotlin/comments/1cabgqb/trying_to_print_localdatetime_after_pressing_a/)
+- [🔒 Secure PDF Printing Question: 🔒](https://www.reddit.com/r/Kotlin/comments/1cabc2r/secure_pdf_printing_question/)
+- [Main function optional parameter](https://www.reddit.com/r/Kotlin/comments/1caarnu/main_function_optional_parameter/)
+- [Seeking Kotlin programming buddy](https://www.reddit.com/r/Kotlin/comments/1ca8wz0/seeking_kotlin_programming_buddy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
