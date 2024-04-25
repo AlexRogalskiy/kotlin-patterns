@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Multiplatform desktop app without using compose](https://www.reddit.com/r/Kotlin/comments/1cc61fn/kotlin_multiplatform_desktop_app_without_using/)
+- [Kotlin Android App Without Activity](https://www.reddit.com/r/Kotlin/comments/1cc2283/kotlin_android_app_without_activity/)
+- [Еnvironmental variables for my SDK tools](https://www.reddit.com/r/Kotlin/comments/1cc1bye/еnvironmental_variables_for_my_sdk_tools/)
+- [Kotlin Illustrated Ch 19 - Generic Variance](https://www.reddit.com/r/Kotlin/comments/1cc03v1/kotlin_illustrated_ch_19_generic_variance/)
+- [Kotlin or java for backend](https://www.reddit.com/r/Kotlin/comments/1cbt3yz/kotlin_or_java_for_backend/)
 - [Would changing my language make a difference?](https://www.reddit.com/r/Kotlin/comments/1cap485/would_changing_my_language_make_a_difference/)
 - [Wtf there is so much magic!](https://www.reddit.com/r/Kotlin/comments/1cane7j/wtf_there_is_so_much_magic/)
 - [Kotlin scripting in Kotlin](https://www.reddit.com/r/Kotlin/comments/1cakydu/kotlin_scripting_in_kotlin/)
 - [How to integrate a Kotlin Multiplatform Mobile &lpar;KMM&rpar; library with a Flutter project as a complete beginner to KMM?](https://www.reddit.com/r/Kotlin/comments/1cajufh/how_to_integrate_a_kotlin_multiplatform_mobile/)
 - [Flow executeIfNotEmit](https://www.reddit.com/r/Kotlin/comments/1cadamq/flow_executeifnotemit/)
-- [Library to generate invoice PDF](https://www.reddit.com/r/Kotlin/comments/1cac5mu/library_to_generate_invoice_pdf/)
-- [trying to print LocalDateTime, after pressing a button using biometrics, but write seems to not want to work can anyone help?](https://www.reddit.com/r/Kotlin/comments/1cabgqb/trying_to_print_localdatetime_after_pressing_a/)
-- [🔒 Secure PDF Printing Question: 🔒](https://www.reddit.com/r/Kotlin/comments/1cabc2r/secure_pdf_printing_question/)
-- [Main function optional parameter](https://www.reddit.com/r/Kotlin/comments/1caarnu/main_function_optional_parameter/)
-- [Seeking Kotlin programming buddy](https://www.reddit.com/r/Kotlin/comments/1ca8wz0/seeking_kotlin_programming_buddy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
