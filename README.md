@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where is the output of Kotlin Desktop App &lpar;or KMP&rpar; and how to publish ?](https://www.reddit.com/r/Kotlin/comments/1cd1jum/where_is_the_output_of_kotlin_desktop_app_or_kmp/)
+- [K2 Compiler Performance Benchmarks and How to Measure Them on Your Projects | The Kotlin Blog](https://www.reddit.com/r/Kotlin/comments/1ccy19e/k2_compiler_performance_benchmarks_and_how_to/)
+- [New book! Kotlin in Action, Second Edition](https://www.reddit.com/r/Kotlin/comments/1ccpro0/new_book_kotlin_in_action_second_edition/)
+- [Have you tried to generate Kotlin code using AI? Share your feedback with us!](https://www.reddit.com/r/Kotlin/comments/1cclkig/have_you_tried_to_generate_kotlin_code_using_ai/)
+- [Should I stay with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ccl026/should_i_stay_with_kotlin/)
 - [Kotlin Multiplatform desktop app without using compose](https://www.reddit.com/r/Kotlin/comments/1cc61fn/kotlin_multiplatform_desktop_app_without_using/)
 - [Kotlin Android App Without Activity](https://www.reddit.com/r/Kotlin/comments/1cc2283/kotlin_android_app_without_activity/)
 - [Еnvironmental variables for my SDK tools](https://www.reddit.com/r/Kotlin/comments/1cc1bye/еnvironmental_variables_for_my_sdk_tools/)
 - [Kotlin Illustrated Ch 19 - Generic Variance](https://www.reddit.com/r/Kotlin/comments/1cc03v1/kotlin_illustrated_ch_19_generic_variance/)
 - [Kotlin or java for backend](https://www.reddit.com/r/Kotlin/comments/1cbt3yz/kotlin_or_java_for_backend/)
-- [Would changing my language make a difference?](https://www.reddit.com/r/Kotlin/comments/1cap485/would_changing_my_language_make_a_difference/)
-- [Wtf there is so much magic!](https://www.reddit.com/r/Kotlin/comments/1cane7j/wtf_there_is_so_much_magic/)
-- [Kotlin scripting in Kotlin](https://www.reddit.com/r/Kotlin/comments/1cakydu/kotlin_scripting_in_kotlin/)
-- [How to integrate a Kotlin Multiplatform Mobile &lpar;KMM&rpar; library with a Flutter project as a complete beginner to KMM?](https://www.reddit.com/r/Kotlin/comments/1cajufh/how_to_integrate_a_kotlin_multiplatform_mobile/)
-- [Flow executeIfNotEmit](https://www.reddit.com/r/Kotlin/comments/1cadamq/flow_executeifnotemit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
