@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jetpack Compose for iOS: Interoping with native Components](https://www.reddit.com/r/Kotlin/comments/1cdvecq/jetpack_compose_for_ios_interoping_with_native/)
+- [db-messiah | SQL framework for Kotlin, built on top of JDBC and reflection. Focus on simplicity and smooth programming workflow.](https://www.reddit.com/r/Kotlin/comments/1cdsqng/dbmessiah_sql_framework_for_kotlin_built_on_top/)
+- [&lpar;re&rpar;Creating a Ktor DSL](https://www.reddit.com/r/Kotlin/comments/1cdmfm5/recreating_a_ktor_dsl/)
+- [Exploring Data Analysis with Kotlin, Part I](https://www.reddit.com/r/Kotlin/comments/1cdhb5g/exploring_data_analysis_with_kotlin_part_i/)
 - [Where is the output of Kotlin Desktop App &lpar;or KMP&rpar; and how to publish ?](https://www.reddit.com/r/Kotlin/comments/1cd1jum/where_is_the_output_of_kotlin_desktop_app_or_kmp/)
 - [K2 Compiler Performance Benchmarks and How to Measure Them on Your Projects | The Kotlin Blog](https://www.reddit.com/r/Kotlin/comments/1ccy19e/k2_compiler_performance_benchmarks_and_how_to/)
 - [New book! Kotlin in Action, Second Edition](https://www.reddit.com/r/Kotlin/comments/1ccpro0/new_book_kotlin_in_action_second_edition/)
 - [Have you tried to generate Kotlin code using AI? Share your feedback with us!](https://www.reddit.com/r/Kotlin/comments/1cclkig/have_you_tried_to_generate_kotlin_code_using_ai/)
 - [Should I stay with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ccl026/should_i_stay_with_kotlin/)
 - [Kotlin Multiplatform desktop app without using compose](https://www.reddit.com/r/Kotlin/comments/1cc61fn/kotlin_multiplatform_desktop_app_without_using/)
-- [Kotlin Android App Without Activity](https://www.reddit.com/r/Kotlin/comments/1cc2283/kotlin_android_app_without_activity/)
-- [Еnvironmental variables for my SDK tools](https://www.reddit.com/r/Kotlin/comments/1cc1bye/еnvironmental_variables_for_my_sdk_tools/)
-- [Kotlin Illustrated Ch 19 - Generic Variance](https://www.reddit.com/r/Kotlin/comments/1cc03v1/kotlin_illustrated_ch_19_generic_variance/)
-- [Kotlin or java for backend](https://www.reddit.com/r/Kotlin/comments/1cbt3yz/kotlin_or_java_for_backend/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
