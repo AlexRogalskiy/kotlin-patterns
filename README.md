@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a way to override Java getters and setters when the underlying field isn&#39;t visible and you can&#39;t inherit?](https://www.reddit.com/r/Kotlin/comments/1cemq5q/is_there_a_way_to_override_java_getters_and/)
+- [VR Pass-through camera in Kotlin](https://www.reddit.com/r/Kotlin/comments/1ceh9ur/vr_passthrough_camera_in_kotlin/)
+- [How to translate gradle config to kotlin ?](https://www.reddit.com/r/Kotlin/comments/1ce7lkz/how_to_translate_gradle_config_to_kotlin/)
+- [My First Kotlin App: PixaPencil - The perfect app for creating pixel art on the go](https://www.reddit.com/r/Kotlin/comments/1ce6g74/my_first_kotlin_app_pixapencil_the_perfect_app/)
+- [May I know, why using &quot;let&quot; is better than &quot;also&quot; for the following case? Can anyone explain to me like I were 5?](https://www.reddit.com/r/Kotlin/comments/1ce62d8/may_i_know_why_using_let_is_better_than_also_for/)
 - [Jetpack Compose for iOS: Interoping with native Components](https://www.reddit.com/r/Kotlin/comments/1cdvecq/jetpack_compose_for_ios_interoping_with_native/)
 - [db-messiah | SQL framework for Kotlin, built on top of JDBC and reflection. Focus on simplicity and smooth programming workflow.](https://www.reddit.com/r/Kotlin/comments/1cdsqng/dbmessiah_sql_framework_for_kotlin_built_on_top/)
 - [&lpar;re&rpar;Creating a Ktor DSL](https://www.reddit.com/r/Kotlin/comments/1cdmfm5/recreating_a_ktor_dsl/)
 - [Exploring Data Analysis with Kotlin, Part I](https://www.reddit.com/r/Kotlin/comments/1cdhb5g/exploring_data_analysis_with_kotlin_part_i/)
 - [Where is the output of Kotlin Desktop App &lpar;or KMP&rpar; and how to publish ?](https://www.reddit.com/r/Kotlin/comments/1cd1jum/where_is_the_output_of_kotlin_desktop_app_or_kmp/)
-- [K2 Compiler Performance Benchmarks and How to Measure Them on Your Projects | The Kotlin Blog](https://www.reddit.com/r/Kotlin/comments/1ccy19e/k2_compiler_performance_benchmarks_and_how_to/)
-- [New book! Kotlin in Action, Second Edition](https://www.reddit.com/r/Kotlin/comments/1ccpro0/new_book_kotlin_in_action_second_edition/)
-- [Have you tried to generate Kotlin code using AI? Share your feedback with us!](https://www.reddit.com/r/Kotlin/comments/1cclkig/have_you_tried_to_generate_kotlin_code_using_ai/)
-- [Should I stay with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ccl026/should_i_stay_with_kotlin/)
-- [Kotlin Multiplatform desktop app without using compose](https://www.reddit.com/r/Kotlin/comments/1cc61fn/kotlin_multiplatform_desktop_app_without_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
