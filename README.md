@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP News - Google Lays off Dart, Flutter &amp; Python Team Members](https://www.reddit.com/r/Kotlin/comments/1ch4d3l/kmp_news_google_lays_off_dart_flutter_python_team/)
+- [Kotlin Coroutines or Quarkus/Vert.x for Virtual Threads? Need Advice!](https://www.reddit.com/r/Kotlin/comments/1cgyxo8/kotlin_coroutines_or_quarkusvertx_for_virtual/)
+- [Kotlin library to work with Git](https://www.reddit.com/r/Kotlin/comments/1cgxf2p/kotlin_library_to_work_with_git/)
+- [K2 Compiler Performance Benchmarks and How to Measure Them on Your Projects](https://www.reddit.com/r/Kotlin/comments/1cgnhs0/k2_compiler_performance_benchmarks_and_how_to/)
 - [Kotlin frontend - Recommendations for beginner.](https://www.reddit.com/r/Kotlin/comments/1cgaf9q/kotlin_frontend_recommendations_for_beginner/)
 - [Jetpack Compose compiler moving to the Kotlin repository](https://www.reddit.com/r/Kotlin/comments/1cg4a5u/jetpack_compose_compiler_moving_to_the_kotlin/)
 - [Jetpack Compose Navigation, Ktor, and Koin DI Unlocking MAD Skills](https://www.reddit.com/r/Kotlin/comments/1cg1aet/jetpack_compose_navigation_ktor_and_koin_di/)
 - [Kotlin Design Patterns: Memento Explained](https://www.reddit.com/r/Kotlin/comments/1cg12tb/kotlin_design_patterns_memento_explained/)
 - [Can Work Output, Wellbeing, and Teamwork be the keys to a good Developer Experience?](https://www.reddit.com/r/Kotlin/comments/1cfygv2/can_work_output_wellbeing_and_teamwork_be_the/)
 - [theres a 50 dollar bug bounty in quillpad for implementing a save to markdown feature](https://www.reddit.com/r/Kotlin/comments/1cfii8d/theres_a_50_dollar_bug_bounty_in_quillpad_for/)
-- [Is there a way to have two data classes with the same name &lpar;for JSON parsing?&rpar;](https://www.reddit.com/r/Kotlin/comments/1cfevcn/is_there_a_way_to_have_two_data_classes_with_the/)
-- [Can I parse a JSON array directly to an Arrow NonEmptyList?](https://www.reddit.com/r/Kotlin/comments/1cf1no1/can_i_parse_a_json_array_directly_to_an_arrow/)
-- [Is there a way to override Java getters and setters when the underlying field isn&#39;t visible and you can&#39;t inherit?](https://www.reddit.com/r/Kotlin/comments/1cemq5q/is_there_a_way_to_override_java_getters_and/)
-- [VR Pass-through camera in Kotlin](https://www.reddit.com/r/Kotlin/comments/1ceh9ur/vr_passthrough_camera_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
