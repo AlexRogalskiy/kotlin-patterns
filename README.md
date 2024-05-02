@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [KMP News - Google Lays off Dart, Flutter &amp; Python Team Members](https://www.reddit.com/r/Kotlin/comments/1ch4d3l/kmp_news_google_lays_off_dart_flutter_python_team/)
-- [Kotlin Coroutines or Quarkus/Vert.x for Virtual Threads? Need Advice!](https://www.reddit.com/r/Kotlin/comments/1cgyxo8/kotlin_coroutines_or_quarkusvertx_for_virtual/)
-- [Kotlin library to work with Git](https://www.reddit.com/r/Kotlin/comments/1cgxf2p/kotlin_library_to_work_with_git/)
-- [K2 Compiler Performance Benchmarks and How to Measure Them on Your Projects](https://www.reddit.com/r/Kotlin/comments/1cgnhs0/k2_compiler_performance_benchmarks_and_how_to/)
-- [Kotlin frontend - Recommendations for beginner.](https://www.reddit.com/r/Kotlin/comments/1cgaf9q/kotlin_frontend_recommendations_for_beginner/)
-- [Jetpack Compose compiler moving to the Kotlin repository](https://www.reddit.com/r/Kotlin/comments/1cg4a5u/jetpack_compose_compiler_moving_to_the_kotlin/)
-- [Jetpack Compose Navigation, Ktor, and Koin DI Unlocking MAD Skills](https://www.reddit.com/r/Kotlin/comments/1cg1aet/jetpack_compose_navigation_ktor_and_koin_di/)
-- [Kotlin Design Patterns: Memento Explained](https://www.reddit.com/r/Kotlin/comments/1cg12tb/kotlin_design_patterns_memento_explained/)
-- [Can Work Output, Wellbeing, and Teamwork be the keys to a good Developer Experience?](https://www.reddit.com/r/Kotlin/comments/1cfygv2/can_work_output_wellbeing_and_teamwork_be_the/)
-- [theres a 50 dollar bug bounty in quillpad for implementing a save to markdown feature](https://www.reddit.com/r/Kotlin/comments/1cfii8d/theres_a_50_dollar_bug_bounty_in_quillpad_for/)
+- [JetBrains not making or supporting an editor agnostic LSP server is harming Kotlin&#39;s growth.](https://www.reddit.com/r/Kotlin/comments/1chxk38/jetbrains_not_making_or_supporting_an_editor/)
+- [Why is there no classic &#39;?:&#39; ternary operator in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1cht4tm/why_is_there_no_classic_ternary_operator_in_kotlin/)
+- [Room KMP is here!](https://www.reddit.com/r/Kotlin/comments/1chshj9/room_kmp_is_here/)
+- [New powerful update of first KMP 3D Globe engine WorldWind Kotlin v1.5.0](https://www.reddit.com/r/Kotlin/comments/1chr2z3/new_powerful_update_of_first_kmp_3d_globe_engine/)
+- [Those who switched from Java to Kotlin, how was it ? Where to start ?](https://www.reddit.com/r/Kotlin/comments/1chpa8c/those_who_switched_from_java_to_kotlin_how_was_it/)
+- [Video: Three Simple Rules for Subtypes in Kotlin](https://www.reddit.com/r/Kotlin/comments/1chobs5/video_three_simple_rules_for_subtypes_in_kotlin/)
+- [Seeking Kotlin Server-Side Project Template Recommendations](https://www.reddit.com/r/Kotlin/comments/1chm66t/seeking_kotlin_serverside_project_template/)
+- [Seperation to lib and logic in android studio application &lpar;kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1chm54t/seperation_to_lib_and_logic_in_android_studio/)
+- [Kotlin-Algorithms-and-Design-Patterns](https://www.reddit.com/r/Kotlin/comments/1chl3i5/kotlinalgorithmsanddesignpatterns/)
+- [10 Reasons to Try Kotlin Multiplatform • Pamela Hill](https://www.reddit.com/r/Kotlin/comments/1chg39b/10_reasons_to_try_kotlin_multiplatform_pamela_hill/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
