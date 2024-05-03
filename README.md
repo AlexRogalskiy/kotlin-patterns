@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JetBrains not making or supporting an editor agnostic LSP server is harming Kotlin&#39;s growth.](https://www.reddit.com/r/Kotlin/comments/1chxk38/jetbrains_not_making_or_supporting_an_editor/)
-- [Why is there no classic &#39;?:&#39; ternary operator in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1cht4tm/why_is_there_no_classic_ternary_operator_in_kotlin/)
-- [Room KMP is here!](https://www.reddit.com/r/Kotlin/comments/1chshj9/room_kmp_is_here/)
-- [New powerful update of first KMP 3D Globe engine WorldWind Kotlin v1.5.0](https://www.reddit.com/r/Kotlin/comments/1chr2z3/new_powerful_update_of_first_kmp_3d_globe_engine/)
-- [Those who switched from Java to Kotlin, how was it ? Where to start ?](https://www.reddit.com/r/Kotlin/comments/1chpa8c/those_who_switched_from_java_to_kotlin_how_was_it/)
-- [Video: Three Simple Rules for Subtypes in Kotlin](https://www.reddit.com/r/Kotlin/comments/1chobs5/video_three_simple_rules_for_subtypes_in_kotlin/)
-- [Seeking Kotlin Server-Side Project Template Recommendations](https://www.reddit.com/r/Kotlin/comments/1chm66t/seeking_kotlin_serverside_project_template/)
-- [Seperation to lib and logic in android studio application &lpar;kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1chm54t/seperation_to_lib_and_logic_in_android_studio/)
-- [Kotlin-Algorithms-and-Design-Patterns](https://www.reddit.com/r/Kotlin/comments/1chl3i5/kotlinalgorithmsanddesignpatterns/)
-- [10 Reasons to Try Kotlin Multiplatform • Pamela Hill](https://www.reddit.com/r/Kotlin/comments/1chg39b/10_reasons_to_try_kotlin_multiplatform_pamela_hill/)
+- [Code suggestions and help](https://www.reddit.com/r/Kotlin/comments/1citige/code_suggestions_and_help/)
+- [I’ve maintaining this playlist for over five years. I use it when coding to keep me focused. Hope you enjoy it as much as i do.](https://www.reddit.com/r/Kotlin/comments/1ciq67x/ive_maintaining_this_playlist_for_over_five_years/)
+- [I have a problem with the class Gson](https://www.reddit.com/r/Kotlin/comments/1cioqfp/i_have_a_problem_with_the_class_gson/)
+- [Anyone have a good moderately complex sample project using arrow-kt&#39;s result type for errors &lpar;like rust&rpar; along with coroutines?](https://www.reddit.com/r/Kotlin/comments/1cilrpw/anyone_have_a_good_moderately_complex_sample/)
+- [Can I use UIKit controls with Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1cika4e/can_i_use_uikit_controls_with_compose/)
+- [KMP with Ktor server + sqlite: recommendation for where to host and how to manage Database easily ?](https://www.reddit.com/r/Kotlin/comments/1ciidon/kmp_with_ktor_server_sqlite_recommendation_for/)
+- [Kotlin use cases other than Android development](https://www.reddit.com/r/Kotlin/comments/1cigy3r/kotlin_use_cases_other_than_android_development/)
+- [ML Kit text recognition date](https://www.reddit.com/r/Kotlin/comments/1cifh5g/ml_kit_text_recognition_date/)
+- [Release on new Kotlin resource: Kotlin Design Patterns and Best Practices](https://www.reddit.com/r/Kotlin/comments/1cif9c6/release_on_new_kotlin_resource_kotlin_design/)
+- [New to Kotlin. Please advice.](https://www.reddit.com/r/Kotlin/comments/1cielm6/new_to_kotlin_please_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
