@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Code suggestions and help](https://www.reddit.com/r/Kotlin/comments/1citige/code_suggestions_and_help/)
+- [Hey Kotlin devs, lambdas vs builder pattern: mind blown?](https://www.reddit.com/r/Kotlin/comments/1cjkqut/hey_kotlin_devs_lambdas_vs_builder_pattern_mind/)
+- [🫣 He Got Banned For Mentioning Kotlin](https://www.reddit.com/r/Kotlin/comments/1cjjl7c/he_got_banned_for_mentioning_kotlin/)
+- [Readability of optimized Kotlin code](https://www.reddit.com/r/Kotlin/comments/1cjjfmg/readability_of_optimized_kotlin_code/)
+- [Overridding Gradle Daemon jvmargs](https://www.reddit.com/r/Kotlin/comments/1cjhxhc/overridding_gradle_daemon_jvmargs/)
+- [Ktor vs http4k](https://www.reddit.com/r/Kotlin/comments/1cj8taf/ktor_vs_http4k/)
+- [Android basics problem.](https://www.reddit.com/r/Kotlin/comments/1cj59ix/android_basics_problem/)
+- [GitHub - filelize/filelize-java: Filelize is a lightweight library designed to simplify writing and reading data into human-readable files, requiring just one line of code](https://www.reddit.com/r/Kotlin/comments/1cj4sul/github_filelizefilelizejava_filelize_is_a/)
+- [Found An Amazing Opensource Kotlin App To Work On](https://www.reddit.com/r/Kotlin/comments/1cj1k3d/found_an_amazing_opensource_kotlin_app_to_work_on/)
+- [Help with my code?](https://www.reddit.com/r/Kotlin/comments/1cj0k1s/help_with_my_code/)
 - [I’ve maintaining this playlist for over five years. I use it when coding to keep me focused. Hope you enjoy it as much as i do.](https://www.reddit.com/r/Kotlin/comments/1ciq67x/ive_maintaining_this_playlist_for_over_five_years/)
-- [I have a problem with the class Gson](https://www.reddit.com/r/Kotlin/comments/1cioqfp/i_have_a_problem_with_the_class_gson/)
-- [Anyone have a good moderately complex sample project using arrow-kt&#39;s result type for errors &lpar;like rust&rpar; along with coroutines?](https://www.reddit.com/r/Kotlin/comments/1cilrpw/anyone_have_a_good_moderately_complex_sample/)
-- [Can I use UIKit controls with Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1cika4e/can_i_use_uikit_controls_with_compose/)
-- [KMP with Ktor server + sqlite: recommendation for where to host and how to manage Database easily ?](https://www.reddit.com/r/Kotlin/comments/1ciidon/kmp_with_ktor_server_sqlite_recommendation_for/)
-- [Kotlin use cases other than Android development](https://www.reddit.com/r/Kotlin/comments/1cigy3r/kotlin_use_cases_other_than_android_development/)
-- [ML Kit text recognition date](https://www.reddit.com/r/Kotlin/comments/1cifh5g/ml_kit_text_recognition_date/)
-- [Release on new Kotlin resource: Kotlin Design Patterns and Best Practices](https://www.reddit.com/r/Kotlin/comments/1cif9c6/release_on_new_kotlin_resource_kotlin_design/)
-- [New to Kotlin. Please advice.](https://www.reddit.com/r/Kotlin/comments/1cielm6/new_to_kotlin_please_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
