@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Channel UNLIMITED vs Flow](https://www.reddit.com/r/Kotlin/comments/1ck77ub/channel_unlimited_vs_flow/)
+- [Trying Kotlin Multiplatform Compose for Web &lpar;without wasm&rpar;](https://www.reddit.com/r/Kotlin/comments/1ck1d8d/trying_kotlin_multiplatform_compose_for_web/)
+- [Projectile motion simulation](https://www.reddit.com/r/Kotlin/comments/1cjz1x7/projectile_motion_simulation/)
+- [Health Services to WatchFaceService](https://www.reddit.com/r/Kotlin/comments/1cjv369/health_services_to_watchfaceservice/)
+- [A Question About Deserialization And RecyclerView in Android Studio](https://www.reddit.com/r/Kotlin/comments/1cjrtm9/a_question_about_deserialization_and_recyclerview/)
 - [Hey Kotlin devs, lambdas vs builder pattern: mind blown?](https://www.reddit.com/r/Kotlin/comments/1cjkqut/hey_kotlin_devs_lambdas_vs_builder_pattern_mind/)
 - [🫣 He Got Banned For Mentioning Kotlin](https://www.reddit.com/r/Kotlin/comments/1cjjl7c/he_got_banned_for_mentioning_kotlin/)
 - [Readability of optimized Kotlin code](https://www.reddit.com/r/Kotlin/comments/1cjjfmg/readability_of_optimized_kotlin_code/)
 - [Overridding Gradle Daemon jvmargs](https://www.reddit.com/r/Kotlin/comments/1cjhxhc/overridding_gradle_daemon_jvmargs/)
 - [Ktor vs http4k](https://www.reddit.com/r/Kotlin/comments/1cj8taf/ktor_vs_http4k/)
-- [Android basics problem.](https://www.reddit.com/r/Kotlin/comments/1cj59ix/android_basics_problem/)
-- [GitHub - filelize/filelize-java: Filelize is a lightweight library designed to simplify writing and reading data into human-readable files, requiring just one line of code](https://www.reddit.com/r/Kotlin/comments/1cj4sul/github_filelizefilelizejava_filelize_is_a/)
-- [Found An Amazing Opensource Kotlin App To Work On](https://www.reddit.com/r/Kotlin/comments/1cj1k3d/found_an_amazing_opensource_kotlin_app_to_work_on/)
-- [Help with my code?](https://www.reddit.com/r/Kotlin/comments/1cj0k1s/help_with_my_code/)
-- [I’ve maintaining this playlist for over five years. I use it when coding to keep me focused. Hope you enjoy it as much as i do.](https://www.reddit.com/r/Kotlin/comments/1ciq67x/ive_maintaining_this_playlist_for_over_five_years/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
