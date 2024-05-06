@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Problem with styling the text of TextField in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1ckonq8/problem_with_styling_the_text_of_textfield_in/)
+- [Number of Kotlin Jobs in Linkedin Per Country](https://www.reddit.com/r/Kotlin/comments/1cknl03/number_of_kotlin_jobs_in_linkedin_per_country/)
+- [tuto animated sticky header with scrollable body](https://www.reddit.com/r/Kotlin/comments/1cklvri/tuto_animated_sticky_header_with_scrollable_body/)
 - [Channel UNLIMITED vs Flow](https://www.reddit.com/r/Kotlin/comments/1ck77ub/channel_unlimited_vs_flow/)
 - [Trying Kotlin Multiplatform Compose for Web &lpar;without wasm&rpar;](https://www.reddit.com/r/Kotlin/comments/1ck1d8d/trying_kotlin_multiplatform_compose_for_web/)
 - [Projectile motion simulation](https://www.reddit.com/r/Kotlin/comments/1cjz1x7/projectile_motion_simulation/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [A Question About Deserialization And RecyclerView in Android Studio](https://www.reddit.com/r/Kotlin/comments/1cjrtm9/a_question_about_deserialization_and_recyclerview/)
 - [Hey Kotlin devs, lambdas vs builder pattern: mind blown?](https://www.reddit.com/r/Kotlin/comments/1cjkqut/hey_kotlin_devs_lambdas_vs_builder_pattern_mind/)
 - [🫣 He Got Banned For Mentioning Kotlin](https://www.reddit.com/r/Kotlin/comments/1cjjl7c/he_got_banned_for_mentioning_kotlin/)
-- [Readability of optimized Kotlin code](https://www.reddit.com/r/Kotlin/comments/1cjjfmg/readability_of_optimized_kotlin_code/)
-- [Overridding Gradle Daemon jvmargs](https://www.reddit.com/r/Kotlin/comments/1cjhxhc/overridding_gradle_daemon_jvmargs/)
-- [Ktor vs http4k](https://www.reddit.com/r/Kotlin/comments/1cj8taf/ktor_vs_http4k/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
