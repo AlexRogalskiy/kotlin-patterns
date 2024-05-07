@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Preparing for K2](https://www.reddit.com/r/Kotlin/comments/1clqpie/preparing_for_k2/)
+- [Asking for help!](https://www.reddit.com/r/Kotlin/comments/1clkw0b/asking_for_help/)
+- [Is it possible to use Kotlin Compose MultiPlatform in the Kotlin/native environment?](https://www.reddit.com/r/Kotlin/comments/1clia63/is_it_possible_to_use_kotlin_compose/)
+- [New to Kotlin, How do I make this Captured Image Better?](https://www.reddit.com/r/Kotlin/comments/1clgla9/new_to_kotlin_how_do_i_make_this_captured_image/)
+- [Putting Koin To Work in Android: Walk-through of how to use WorkerManager with Koin.](https://www.reddit.com/r/Kotlin/comments/1cldgv9/putting_koin_to_work_in_android_walkthrough_of/)
+- [Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1clcra6/kotlin_multiplatform/)
 - [Problem with styling the text of TextField in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1ckonq8/problem_with_styling_the_text_of_textfield_in/)
 - [Number of Kotlin Jobs in Linkedin Per Country](https://www.reddit.com/r/Kotlin/comments/1cknl03/number_of_kotlin_jobs_in_linkedin_per_country/)
 - [tuto animated sticky header with scrollable body](https://www.reddit.com/r/Kotlin/comments/1cklvri/tuto_animated_sticky_header_with_scrollable_body/)
 - [Channel UNLIMITED vs Flow](https://www.reddit.com/r/Kotlin/comments/1ck77ub/channel_unlimited_vs_flow/)
-- [Trying Kotlin Multiplatform Compose for Web &lpar;without wasm&rpar;](https://www.reddit.com/r/Kotlin/comments/1ck1d8d/trying_kotlin_multiplatform_compose_for_web/)
-- [Projectile motion simulation](https://www.reddit.com/r/Kotlin/comments/1cjz1x7/projectile_motion_simulation/)
-- [Health Services to WatchFaceService](https://www.reddit.com/r/Kotlin/comments/1cjv369/health_services_to_watchfaceservice/)
-- [A Question About Deserialization And RecyclerView in Android Studio](https://www.reddit.com/r/Kotlin/comments/1cjrtm9/a_question_about_deserialization_and_recyclerview/)
-- [Hey Kotlin devs, lambdas vs builder pattern: mind blown?](https://www.reddit.com/r/Kotlin/comments/1cjkqut/hey_kotlin_devs_lambdas_vs_builder_pattern_mind/)
-- [🫣 He Got Banned For Mentioning Kotlin](https://www.reddit.com/r/Kotlin/comments/1cjjl7c/he_got_banned_for_mentioning_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
