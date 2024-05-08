@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I add a subdirectory of the use home to the classpath in Gradle?](https://www.reddit.com/r/Kotlin/comments/1cmfsue/how_do_i_add_a_subdirectory_of_the_use_home_to/)
+- [ARC - A nimble framework for ai agent creation!](https://www.reddit.com/r/Kotlin/comments/1cmdqfe/arc_a_nimble_framework_for_ai_agent_creation/)
+- [What language is used to build the new Kotlin compiler?](https://www.reddit.com/r/Kotlin/comments/1cmc0ju/what_language_is_used_to_build_the_new_kotlin/)
+- [The Exposed Library Survey is out – share your feedback!](https://www.reddit.com/r/Kotlin/comments/1cmayp1/the_exposed_library_survey_is_out_share_your/)
+- [Pixel Game with Kotlin &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1cm7yxr/pixel_game_with_kotlin_jetpack_compose/)
+- [Awesome book on kotlin design patterns](https://www.reddit.com/r/Kotlin/comments/1cm57ho/awesome_book_on_kotlin_design_patterns/)
+- [Android app for learning sorting algorithms](https://www.reddit.com/r/Kotlin/comments/1cm3c4i/android_app_for_learning_sorting_algorithms/)
 - [Preparing for K2](https://www.reddit.com/r/Kotlin/comments/1clqpie/preparing_for_k2/)
 - [Asking for help!](https://www.reddit.com/r/Kotlin/comments/1clkw0b/asking_for_help/)
 - [Is it possible to use Kotlin Compose MultiPlatform in the Kotlin/native environment?](https://www.reddit.com/r/Kotlin/comments/1clia63/is_it_possible_to_use_kotlin_compose/)
-- [New to Kotlin, How do I make this Captured Image Better?](https://www.reddit.com/r/Kotlin/comments/1clgla9/new_to_kotlin_how_do_i_make_this_captured_image/)
-- [Putting Koin To Work in Android: Walk-through of how to use WorkerManager with Koin.](https://www.reddit.com/r/Kotlin/comments/1cldgv9/putting_koin_to_work_in_android_walkthrough_of/)
-- [Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1clcra6/kotlin_multiplatform/)
-- [Problem with styling the text of TextField in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1ckonq8/problem_with_styling_the_text_of_textfield_in/)
-- [Number of Kotlin Jobs in Linkedin Per Country](https://www.reddit.com/r/Kotlin/comments/1cknl03/number_of_kotlin_jobs_in_linkedin_per_country/)
-- [tuto animated sticky header with scrollable body](https://www.reddit.com/r/Kotlin/comments/1cklvri/tuto_animated_sticky_header_with_scrollable_body/)
-- [Channel UNLIMITED vs Flow](https://www.reddit.com/r/Kotlin/comments/1ck77ub/channel_unlimited_vs_flow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
