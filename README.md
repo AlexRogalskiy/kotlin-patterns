@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using the new Kotlin Multiplatform Resources &amp; jetbrains ViewModel in SwiftUI?](https://www.reddit.com/r/Kotlin/comments/1cne0nr/using_the_new_kotlin_multiplatform_resources/)
+- [Guía Ilustrada - Kotlin Illustrated Guide Chapter 1 is now available in Spanish](https://www.reddit.com/r/Kotlin/comments/1cnd8lk/guía_ilustrada_kotlin_illustrated_guide_chapter_1/)
+- [What is the best way to a complete beginner for learning](https://www.reddit.com/r/Kotlin/comments/1cnavxb/what_is_the_best_way_to_a_complete_beginner_for/)
+- [🚀 Kotools Types 4.5.1 is available!](https://www.reddit.com/r/Kotlin/comments/1cn8una/kotools_types_451_is_available/)
+- [Alternative to Kotlin Multiplatform ?](https://www.reddit.com/r/Kotlin/comments/1cn8u66/alternative_to_kotlin_multiplatform/)
+- [Conditional compose modifier](https://www.reddit.com/r/Kotlin/comments/1cn067m/conditional_compose_modifier/)
+- [Channel vs SharedFlow](https://www.reddit.com/r/Kotlin/comments/1cmy0dt/channel_vs_sharedflow/)
 - [How do I add a subdirectory of the use home to the classpath in Gradle?](https://www.reddit.com/r/Kotlin/comments/1cmfsue/how_do_i_add_a_subdirectory_of_the_use_home_to/)
 - [ARC - A nimble framework for ai agent creation!](https://www.reddit.com/r/Kotlin/comments/1cmdqfe/arc_a_nimble_framework_for_ai_agent_creation/)
 - [What language is used to build the new Kotlin compiler?](https://www.reddit.com/r/Kotlin/comments/1cmc0ju/what_language_is_used_to_build_the_new_kotlin/)
-- [The Exposed Library Survey is out – share your feedback!](https://www.reddit.com/r/Kotlin/comments/1cmayp1/the_exposed_library_survey_is_out_share_your/)
-- [Pixel Game with Kotlin &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1cm7yxr/pixel_game_with_kotlin_jetpack_compose/)
-- [Awesome book on kotlin design patterns](https://www.reddit.com/r/Kotlin/comments/1cm57ho/awesome_book_on_kotlin_design_patterns/)
-- [Android app for learning sorting algorithms](https://www.reddit.com/r/Kotlin/comments/1cm3c4i/android_app_for_learning_sorting_algorithms/)
-- [Preparing for K2](https://www.reddit.com/r/Kotlin/comments/1clqpie/preparing_for_k2/)
-- [Asking for help!](https://www.reddit.com/r/Kotlin/comments/1clkw0b/asking_for_help/)
-- [Is it possible to use Kotlin Compose MultiPlatform in the Kotlin/native environment?](https://www.reddit.com/r/Kotlin/comments/1clia63/is_it_possible_to_use_kotlin_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
