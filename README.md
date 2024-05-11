@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can kmm be used as a alternative to react native](https://www.reddit.com/r/Kotlin/comments/1codcw2/can_kmm_be_used_as_a_alternative_to_react_native/)
-- [i am learning java right now for android development](https://www.reddit.com/r/Kotlin/comments/1cny7ze/i_am_learning_java_right_now_for_android/)
-- [Compose custom layout with scoped modifier](https://www.reddit.com/r/Kotlin/comments/1cnxf43/compose_custom_layout_with_scoped_modifier/)
-- [Java in 2024, final touches before Kotlin 2.0, and a new ML-based static profiler for GraalVM](https://www.reddit.com/r/Kotlin/comments/1cnxded/java_in_2024_final_touches_before_kotlin_20_and_a/)
-- [intervals in kotlin](https://www.reddit.com/r/Kotlin/comments/1cnsrjc/intervals_in_kotlin/)
-- [I never had this error before, now i&#39;m getting this error even though i made no changes at all. What do i do?](https://www.reddit.com/r/Kotlin/comments/1cnrgxt/i_never_had_this_error_before_now_im_getting_this/)
-- [Kotlin Compose Desktop - How to request external File Permission on MacOS, Windows](https://www.reddit.com/r/Kotlin/comments/1cnq9ye/kotlin_compose_desktop_how_to_request_external/)
-- [Using the new Kotlin Multiplatform Resources &amp; jetbrains ViewModel in SwiftUI?](https://www.reddit.com/r/Kotlin/comments/1cne0nr/using_the_new_kotlin_multiplatform_resources/)
-- [Guía Ilustrada - Kotlin Illustrated Guide Chapter 1 is now available in Spanish](https://www.reddit.com/r/Kotlin/comments/1cnd8lk/guía_ilustrada_kotlin_illustrated_guide_chapter_1/)
-- [What is the best way to a complete beginner for learning](https://www.reddit.com/r/Kotlin/comments/1cnavxb/what_is_the_best_way_to_a_complete_beginner_for/)
+- [Server side rendering with Kotlin react?](https://www.reddit.com/r/Kotlin/comments/1cp3yl2/server_side_rendering_with_kotlin_react/)
+- [The app auto stops after a while](https://www.reddit.com/r/Kotlin/comments/1coz1k8/the_app_auto_stops_after_a_while/)
+- [Kotlin backend](https://www.reddit.com/r/Kotlin/comments/1cow0fi/kotlin_backend/)
+- [How do you split SQL table entities when performing code modularisation?](https://www.reddit.com/r/Kotlin/comments/1coq2l4/how_do_you_split_sql_table_entities_when/)
+- [Generalising all the things - Expert Kotlin Refactoring](https://www.reddit.com/r/Kotlin/comments/1coq0xr/generalising_all_the_things_expert_kotlin/)
+- [How do I run a kotlin program outside the IDE?](https://www.reddit.com/r/Kotlin/comments/1coolj7/how_do_i_run_a_kotlin_program_outside_the_ide/)
+- [Want to learn Android Development with Kotlin but all courses seem to be outdated](https://www.reddit.com/r/Kotlin/comments/1coo9aa/want_to_learn_android_development_with_kotlin_but/)
+- [Kotlin 2.0.0-RC3 was just released](https://www.reddit.com/r/Kotlin/comments/1cons5v/kotlin_200rc3_was_just_released/)
+- [Kotlin Multiplatform - direct Kotlin-to-Swift export](https://www.reddit.com/r/Kotlin/comments/1conqr2/kotlin_multiplatform_direct_kotlintoswift_export/)
+- [Want to learn kotlin for android development](https://www.reddit.com/r/Kotlin/comments/1com7dk/want_to_learn_kotlin_for_android_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
