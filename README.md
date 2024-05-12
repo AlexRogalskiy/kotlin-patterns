@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How can I store and retrieve an AnnotatedString with formatting from Firebase Firestore?](https://www.reddit.com/r/Kotlin/comments/1cpl1md/how_can_i_store_and_retrieve_an_annotatedstring/)
+- [[compose multiplatform] Is there a good example of master-detail implementation?](https://www.reddit.com/r/Kotlin/comments/1cpgtd0/compose_multiplatform_is_there_a_good_example_of/)
+- [Declaring Variables and Values](https://www.reddit.com/r/Kotlin/comments/1cp7v1p/declaring_variables_and_values/)
 - [Server side rendering with Kotlin react?](https://www.reddit.com/r/Kotlin/comments/1cp3yl2/server_side_rendering_with_kotlin_react/)
 - [The app auto stops after a while](https://www.reddit.com/r/Kotlin/comments/1coz1k8/the_app_auto_stops_after_a_while/)
 - [Kotlin backend](https://www.reddit.com/r/Kotlin/comments/1cow0fi/kotlin_backend/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Generalising all the things - Expert Kotlin Refactoring](https://www.reddit.com/r/Kotlin/comments/1coq0xr/generalising_all_the_things_expert_kotlin/)
 - [How do I run a kotlin program outside the IDE?](https://www.reddit.com/r/Kotlin/comments/1coolj7/how_do_i_run_a_kotlin_program_outside_the_ide/)
 - [Want to learn Android Development with Kotlin but all courses seem to be outdated](https://www.reddit.com/r/Kotlin/comments/1coo9aa/want_to_learn_android_development_with_kotlin_but/)
-- [Kotlin 2.0.0-RC3 was just released](https://www.reddit.com/r/Kotlin/comments/1cons5v/kotlin_200rc3_was_just_released/)
-- [Kotlin Multiplatform - direct Kotlin-to-Swift export](https://www.reddit.com/r/Kotlin/comments/1conqr2/kotlin_multiplatform_direct_kotlintoswift_export/)
-- [Want to learn kotlin for android development](https://www.reddit.com/r/Kotlin/comments/1com7dk/want_to_learn_kotlin_for_android_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
