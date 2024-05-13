@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which backend framework supporting Kotlin has the best job placement rate?](https://www.reddit.com/r/Kotlin/comments/1cq6s87/which_backend_framework_supporting_kotlin_has_the/)
+- [Can&#39;t figure out why Intent is being shown as an error](https://www.reddit.com/r/Kotlin/comments/1cq5yeu/cant_figure_out_why_intent_is_being_shown_as_an/)
+- [Please help](https://www.reddit.com/r/Kotlin/comments/1cq5mie/please_help/)
+- [How do I run a Kotlin gradle project created in IntelliJ using the command line?](https://www.reddit.com/r/Kotlin/comments/1cpxm3m/how_do_i_run_a_kotlin_gradle_project_created_in/)
 - [How can I store and retrieve an AnnotatedString with formatting from Firebase Firestore?](https://www.reddit.com/r/Kotlin/comments/1cpl1md/how_can_i_store_and_retrieve_an_annotatedstring/)
 - [[compose multiplatform] Is there a good example of master-detail implementation?](https://www.reddit.com/r/Kotlin/comments/1cpgtd0/compose_multiplatform_is_there_a_good_example_of/)
 - [Declaring Variables and Values](https://www.reddit.com/r/Kotlin/comments/1cp7v1p/declaring_variables_and_values/)
 - [Server side rendering with Kotlin react?](https://www.reddit.com/r/Kotlin/comments/1cp3yl2/server_side_rendering_with_kotlin_react/)
 - [The app auto stops after a while](https://www.reddit.com/r/Kotlin/comments/1coz1k8/the_app_auto_stops_after_a_while/)
 - [Kotlin backend](https://www.reddit.com/r/Kotlin/comments/1cow0fi/kotlin_backend/)
-- [How do you split SQL table entities when performing code modularisation?](https://www.reddit.com/r/Kotlin/comments/1coq2l4/how_do_you_split_sql_table_entities_when/)
-- [Generalising all the things - Expert Kotlin Refactoring](https://www.reddit.com/r/Kotlin/comments/1coq0xr/generalising_all_the_things_expert_kotlin/)
-- [How do I run a kotlin program outside the IDE?](https://www.reddit.com/r/Kotlin/comments/1coolj7/how_do_i_run_a_kotlin_program_outside_the_ide/)
-- [Want to learn Android Development with Kotlin but all courses seem to be outdated](https://www.reddit.com/r/Kotlin/comments/1coo9aa/want_to_learn_android_development_with_kotlin_but/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
