@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A simple VSCode clone in Compose Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1crdzqx/a_simple_vscode_clone_in_compose_multiplatform/)
+- [Can you explain higher order/level functions to me like I&#39;m 5?](https://www.reddit.com/r/Kotlin/comments/1crby6x/can_you_explain_higher_orderlevel_functions_to_me/)
+- [Suggest backend framework](https://www.reddit.com/r/Kotlin/comments/1cr7r03/suggest_backend_framework/)
+- [Helpp](https://www.reddit.com/r/Kotlin/comments/1cr6s93/helpp/)
+- [What is the naming convention for files with functions](https://www.reddit.com/r/Kotlin/comments/1cr4ai2/what_is_the_naming_convention_for_files_with/)
+- [Need help with JNA on Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1cr3329/need_help_with_jna_on_kotlin_multiplatform/)
+- [How to Share ViewModels in Compose Multiplatform &lpar;with Dependency Injection!&rpar; - using Koin](https://www.reddit.com/r/Kotlin/comments/1cqu6ka/how_to_share_viewmodels_in_compose_multiplatform/)
+- [Functions as First Class Citizens - Currying and Closures](https://www.reddit.com/r/Kotlin/comments/1cqq2js/functions_as_first_class_citizens_currying_and/)
+- [Ktor: SSLHandshake exception when trying to connect websocket with wss only in browsers](https://www.reddit.com/r/Kotlin/comments/1cqpn5m/ktor_sslhandshake_exception_when_trying_to/)
 - [Which backend framework supporting Kotlin has the best job placement rate?](https://www.reddit.com/r/Kotlin/comments/1cq6s87/which_backend_framework_supporting_kotlin_has_the/)
-- [Can&#39;t figure out why Intent is being shown as an error](https://www.reddit.com/r/Kotlin/comments/1cq5yeu/cant_figure_out_why_intent_is_being_shown_as_an/)
-- [Please help](https://www.reddit.com/r/Kotlin/comments/1cq5mie/please_help/)
-- [How do I run a Kotlin gradle project created in IntelliJ using the command line?](https://www.reddit.com/r/Kotlin/comments/1cpxm3m/how_do_i_run_a_kotlin_gradle_project_created_in/)
-- [How can I store and retrieve an AnnotatedString with formatting from Firebase Firestore?](https://www.reddit.com/r/Kotlin/comments/1cpl1md/how_can_i_store_and_retrieve_an_annotatedstring/)
-- [[compose multiplatform] Is there a good example of master-detail implementation?](https://www.reddit.com/r/Kotlin/comments/1cpgtd0/compose_multiplatform_is_there_a_good_example_of/)
-- [Declaring Variables and Values](https://www.reddit.com/r/Kotlin/comments/1cp7v1p/declaring_variables_and_values/)
-- [Server side rendering with Kotlin react?](https://www.reddit.com/r/Kotlin/comments/1cp3yl2/server_side_rendering_with_kotlin_react/)
-- [The app auto stops after a while](https://www.reddit.com/r/Kotlin/comments/1coz1k8/the_app_auto_stops_after_a_while/)
-- [Kotlin backend](https://www.reddit.com/r/Kotlin/comments/1cow0fi/kotlin_backend/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
