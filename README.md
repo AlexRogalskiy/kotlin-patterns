@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A simple VSCode clone in Compose Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1crdzqx/a_simple_vscode_clone_in_compose_multiplatform/)
-- [Can you explain higher order/level functions to me like I&#39;m 5?](https://www.reddit.com/r/Kotlin/comments/1crby6x/can_you_explain_higher_orderlevel_functions_to_me/)
-- [Suggest backend framework](https://www.reddit.com/r/Kotlin/comments/1cr7r03/suggest_backend_framework/)
-- [Helpp](https://www.reddit.com/r/Kotlin/comments/1cr6s93/helpp/)
-- [What is the naming convention for files with functions](https://www.reddit.com/r/Kotlin/comments/1cr4ai2/what_is_the_naming_convention_for_files_with/)
-- [Need help with JNA on Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1cr3329/need_help_with_jna_on_kotlin_multiplatform/)
-- [How to Share ViewModels in Compose Multiplatform &lpar;with Dependency Injection!&rpar; - using Koin](https://www.reddit.com/r/Kotlin/comments/1cqu6ka/how_to_share_viewmodels_in_compose_multiplatform/)
-- [Functions as First Class Citizens - Currying and Closures](https://www.reddit.com/r/Kotlin/comments/1cqq2js/functions_as_first_class_citizens_currying_and/)
-- [Ktor: SSLHandshake exception when trying to connect websocket with wss only in browsers](https://www.reddit.com/r/Kotlin/comments/1cqpn5m/ktor_sslhandshake_exception_when_trying_to/)
-- [Which backend framework supporting Kotlin has the best job placement rate?](https://www.reddit.com/r/Kotlin/comments/1cq6s87/which_backend_framework_supporting_kotlin_has_the/)
+- [Extension functions are a bug not a feature](https://www.reddit.com/r/Kotlin/comments/1cs7kri/extension_functions_are_a_bug_not_a_feature/)
+- [Ktor request serialization error](https://www.reddit.com/r/Kotlin/comments/1cs5z25/ktor_request_serialization_error/)
+- [Need Help learning functional programming with arrow kt in Kotlin](https://www.reddit.com/r/Kotlin/comments/1cs5fva/need_help_learning_functional_programming_with/)
+- [How do you deal with deferred objects?](https://www.reddit.com/r/Kotlin/comments/1cs3z7y/how_do_you_deal_with_deferred_objects/)
+- [Need Help Setting Up Desktop App Icon in Kotlin Multiplatform Project](https://www.reddit.com/r/Kotlin/comments/1cs3q2n/need_help_setting_up_desktop_app_icon_in_kotlin/)
+- [Google I/O 2024: Kotlin Multiplatform at Google Scale!](https://www.reddit.com/r/Kotlin/comments/1cs3apn/google_io_2024_kotlin_multiplatform_at_google/)
+- [Android Support for Kotlin Multiplatform to Share Business Logic Across Mobile, Web, Server, and Desktop Platforms](https://www.reddit.com/r/Kotlin/comments/1cs376q/android_support_for_kotlin_multiplatform_to_share/)
+- [Kotlin Reflection. is there a way to check if a KType extends another KType](https://www.reddit.com/r/Kotlin/comments/1crwgb0/kotlin_reflection_is_there_a_way_to_check_if_a/)
+- [Creating a Well-Structured Kotlin Application: Need Advice](https://www.reddit.com/r/Kotlin/comments/1crwae4/creating_a_wellstructured_kotlin_application_need/)
+- [What was your most awful experience while using Kotlin?](https://www.reddit.com/r/Kotlin/comments/1crlz8e/what_was_your_most_awful_experience_while_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
