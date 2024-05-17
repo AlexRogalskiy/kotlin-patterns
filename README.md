@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help! Error on debug](https://www.reddit.com/r/Kotlin/comments/1ctmgqy/help_error_on_debug/)
 - [I just wanted to ask the difference between suppose getData: NoteDatabase and getData: NoteDatabase&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1csu91l/i_just_wanted_to_ask_the_difference_between/)
 - [Type Erasure in Kotlin: Simplifying the Complex](https://www.reddit.com/r/Kotlin/comments/1csqwoh/type_erasure_in_kotlin_simplifying_the_complex/)
 - [Kotlin Multiplat and/or native android](https://www.reddit.com/r/Kotlin/comments/1cspodo/kotlin_multiplat_andor_native_android/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Extension functions are a bug not a feature](https://www.reddit.com/r/Kotlin/comments/1cs7kri/extension_functions_are_a_bug_not_a_feature/)
 - [Ktor request serialization error](https://www.reddit.com/r/Kotlin/comments/1cs5z25/ktor_request_serialization_error/)
 - [Need Help learning functional programming with arrow kt in Kotlin](https://www.reddit.com/r/Kotlin/comments/1cs5fva/need_help_learning_functional_programming_with/)
-- [How do you deal with deferred objects?](https://www.reddit.com/r/Kotlin/comments/1cs3z7y/how_do_you_deal_with_deferred_objects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
