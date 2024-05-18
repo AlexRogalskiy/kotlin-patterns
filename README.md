@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sample code in Kotlin Getting Basic Syntax doc does not work](https://www.reddit.com/r/Kotlin/comments/1cuj6nh/sample_code_in_kotlin_getting_basic_syntax_doc/)
+- [The Next Big JVM Language - Java Strikes Back! by STEPHEN COLEBOURNE](https://www.reddit.com/r/Kotlin/comments/1cuhnvu/the_next_big_jvm_language_java_strikes_back_by/)
+- [What&#39;s the Best Way to Handle Init {} in an Interface?](https://www.reddit.com/r/Kotlin/comments/1cueeiu/whats_the_best_way_to_handle_init_in_an_interface/)
+- [We need to talk about Gradle](https://www.reddit.com/r/Kotlin/comments/1cu539a/we_need_to_talk_about_gradle/)
+- [Kotlin vs Java](https://www.reddit.com/r/Kotlin/comments/1cu3tro/kotlin_vs_java/)
+- [Problems with API requests in Kotlin](https://www.reddit.com/r/Kotlin/comments/1cu17ra/problems_with_api_requests_in_kotlin/)
+- [Which is a better design of data class in the following case - using val or var?](https://www.reddit.com/r/Kotlin/comments/1ctx4yc/which_is_a_better_design_of_data_class_in_the/)
 - [Help! Error on debug](https://www.reddit.com/r/Kotlin/comments/1ctmgqy/help_error_on_debug/)
 - [I just wanted to ask the difference between suppose getData: NoteDatabase and getData: NoteDatabase&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1csu91l/i_just_wanted_to_ask_the_difference_between/)
 - [Type Erasure in Kotlin: Simplifying the Complex](https://www.reddit.com/r/Kotlin/comments/1csqwoh/type_erasure_in_kotlin_simplifying_the_complex/)
-- [Kotlin Multiplat and/or native android](https://www.reddit.com/r/Kotlin/comments/1cspodo/kotlin_multiplat_andor_native_android/)
-- [Video: Looking Forward to Kotlin 2.0](https://www.reddit.com/r/Kotlin/comments/1csmv8w/video_looking_forward_to_kotlin_20/)
-- [Senior Developer learning Kotlin hoping to understand professional standards](https://www.reddit.com/r/Kotlin/comments/1cshdki/senior_developer_learning_kotlin_hoping_to/)
-- [Is this a good usecase for `runCatching`?](https://www.reddit.com/r/Kotlin/comments/1csh9s0/is_this_a_good_usecase_for_runcatching/)
-- [Extension functions are a bug not a feature](https://www.reddit.com/r/Kotlin/comments/1cs7kri/extension_functions_are_a_bug_not_a_feature/)
-- [Ktor request serialization error](https://www.reddit.com/r/Kotlin/comments/1cs5z25/ktor_request_serialization_error/)
-- [Need Help learning functional programming with arrow kt in Kotlin](https://www.reddit.com/r/Kotlin/comments/1cs5fva/need_help_learning_functional_programming_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
