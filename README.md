@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Down a Rabbit Hole](https://www.reddit.com/r/Kotlin/comments/1cvpsca/down_a_rabbit_hole/)
+- [Upskilling in kotlin](https://www.reddit.com/r/Kotlin/comments/1cvnx1v/upskilling_in_kotlin/)
+- [Kotlin compose multiplatform issues](https://www.reddit.com/r/Kotlin/comments/1cvgldh/kotlin_compose_multiplatform_issues/)
 - [Sample code in Kotlin Getting Basic Syntax doc does not work](https://www.reddit.com/r/Kotlin/comments/1cuj6nh/sample_code_in_kotlin_getting_basic_syntax_doc/)
 - [The Next Big JVM Language - Java Strikes Back! by STEPHEN COLEBOURNE](https://www.reddit.com/r/Kotlin/comments/1cuhnvu/the_next_big_jvm_language_java_strikes_back_by/)
 - [What&#39;s the Best Way to Handle Init {} in an Interface?](https://www.reddit.com/r/Kotlin/comments/1cueeiu/whats_the_best_way_to_handle_init_in_an_interface/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin vs Java](https://www.reddit.com/r/Kotlin/comments/1cu3tro/kotlin_vs_java/)
 - [Problems with API requests in Kotlin](https://www.reddit.com/r/Kotlin/comments/1cu17ra/problems_with_api_requests_in_kotlin/)
 - [Which is a better design of data class in the following case - using val or var?](https://www.reddit.com/r/Kotlin/comments/1ctx4yc/which_is_a_better_design_of_data_class_in_the/)
-- [Help! Error on debug](https://www.reddit.com/r/Kotlin/comments/1ctmgqy/help_error_on_debug/)
-- [I just wanted to ask the difference between suppose getData: NoteDatabase and getData: NoteDatabase&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1csu91l/i_just_wanted_to_ask_the_difference_between/)
-- [Type Erasure in Kotlin: Simplifying the Complex](https://www.reddit.com/r/Kotlin/comments/1csqwoh/type_erasure_in_kotlin_simplifying_the_complex/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
