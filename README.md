@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Recently accepted a Senior engineering role for a Kotlin shop. I don’t know Kotlin. Best resources?](https://www.reddit.com/r/Kotlin/comments/1cwosl3/recently_accepted_a_senior_engineering_role_for_a/)
+- [Can anyone guide me with Ktor??](https://www.reddit.com/r/Kotlin/comments/1cwnq47/can_anyone_guide_me_with_ktor/)
+- [Can large apps with extensive UI and logic be easily deployed on iOS and Android without much modification?](https://www.reddit.com/r/Kotlin/comments/1cwnms5/can_large_apps_with_extensive_ui_and_logic_be/)
+- [Dokka &gt; Include a markdown file when generating documentation.](https://www.reddit.com/r/Kotlin/comments/1cwmfyt/dokka_include_a_markdown_file_when_generating/)
+- [Is there hope for new android kotlin/java devs?](https://www.reddit.com/r/Kotlin/comments/1cwj5hl/is_there_hope_for_new_android_kotlinjava_devs/)
+- [Open-source, Kotlin based console app for openai assistants](https://www.reddit.com/r/Kotlin/comments/1cwaryj/opensource_kotlin_based_console_app_for_openai/)
 - [Down a Rabbit Hole](https://www.reddit.com/r/Kotlin/comments/1cvpsca/down_a_rabbit_hole/)
 - [Upskilling in kotlin](https://www.reddit.com/r/Kotlin/comments/1cvnx1v/upskilling_in_kotlin/)
 - [Kotlin compose multiplatform issues](https://www.reddit.com/r/Kotlin/comments/1cvgldh/kotlin_compose_multiplatform_issues/)
 - [Sample code in Kotlin Getting Basic Syntax doc does not work](https://www.reddit.com/r/Kotlin/comments/1cuj6nh/sample_code_in_kotlin_getting_basic_syntax_doc/)
-- [The Next Big JVM Language - Java Strikes Back! by STEPHEN COLEBOURNE](https://www.reddit.com/r/Kotlin/comments/1cuhnvu/the_next_big_jvm_language_java_strikes_back_by/)
-- [What&#39;s the Best Way to Handle Init {} in an Interface?](https://www.reddit.com/r/Kotlin/comments/1cueeiu/whats_the_best_way_to_handle_init_in_an_interface/)
-- [We need to talk about Gradle](https://www.reddit.com/r/Kotlin/comments/1cu539a/we_need_to_talk_about_gradle/)
-- [Kotlin vs Java](https://www.reddit.com/r/Kotlin/comments/1cu3tro/kotlin_vs_java/)
-- [Problems with API requests in Kotlin](https://www.reddit.com/r/Kotlin/comments/1cu17ra/problems_with_api_requests_in_kotlin/)
-- [Which is a better design of data class in the following case - using val or var?](https://www.reddit.com/r/Kotlin/comments/1ctx4yc/which_is_a_better_design_of_data_class_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
