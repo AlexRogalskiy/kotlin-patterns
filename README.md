@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help me understand this coroutine behaviour](https://www.reddit.com/r/Kotlin/comments/1cxjt0t/help_me_understand_this_coroutine_behaviour/)
+- [Kotlin Multiplatform VS Flutter](https://www.reddit.com/r/Kotlin/comments/1cxfv1g/kotlin_multiplatform_vs_flutter/)
+- [Migrating UI-oriented Android library to Compose Multiplatform &lpar;Android/iOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1cxb3v1/migrating_uioriented_android_library_to_compose/)
+- [How to add a View directly to the main activity?](https://www.reddit.com/r/Kotlin/comments/1cxa7qc/how_to_add_a_view_directly_to_the_main_activity/)
+- [Camera in app](https://www.reddit.com/r/Kotlin/comments/1cxa3y6/camera_in_app/)
+- [Firebird SQL Client Library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1cx4xnp/firebird_sql_client_library_for_kotlin/)
+- [Super unofficial Kotlin 2.0.0 release hype post](https://www.reddit.com/r/Kotlin/comments/1cx3rhf/super_unofficial_kotlin_200_release_hype_post/)
 - [Recently accepted a Senior engineering role for a Kotlin shop. I don’t know Kotlin. Best resources?](https://www.reddit.com/r/Kotlin/comments/1cwosl3/recently_accepted_a_senior_engineering_role_for_a/)
 - [Can anyone guide me with Ktor??](https://www.reddit.com/r/Kotlin/comments/1cwnq47/can_anyone_guide_me_with_ktor/)
 - [Can large apps with extensive UI and logic be easily deployed on iOS and Android without much modification?](https://www.reddit.com/r/Kotlin/comments/1cwnms5/can_large_apps_with_extensive_ui_and_logic_be/)
-- [Dokka &gt; Include a markdown file when generating documentation.](https://www.reddit.com/r/Kotlin/comments/1cwmfyt/dokka_include_a_markdown_file_when_generating/)
-- [Is there hope for new android kotlin/java devs?](https://www.reddit.com/r/Kotlin/comments/1cwj5hl/is_there_hope_for_new_android_kotlinjava_devs/)
-- [Open-source, Kotlin based console app for openai assistants](https://www.reddit.com/r/Kotlin/comments/1cwaryj/opensource_kotlin_based_console_app_for_openai/)
-- [Down a Rabbit Hole](https://www.reddit.com/r/Kotlin/comments/1cvpsca/down_a_rabbit_hole/)
-- [Upskilling in kotlin](https://www.reddit.com/r/Kotlin/comments/1cvnx1v/upskilling_in_kotlin/)
-- [Kotlin compose multiplatform issues](https://www.reddit.com/r/Kotlin/comments/1cvgldh/kotlin_compose_multiplatform_issues/)
-- [Sample code in Kotlin Getting Basic Syntax doc does not work](https://www.reddit.com/r/Kotlin/comments/1cuj6nh/sample_code_in_kotlin_getting_basic_syntax_doc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
