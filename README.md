@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to link to an external Kotlin variable &lpar;using Kotlin/JS&rpar;?](https://www.reddit.com/r/Kotlin/comments/1cyfix6/how_to_link_to_an_external_kotlin_variable_using/)
+- [Kotlin 2.0 Relesed: Faster And More Reliable](https://www.reddit.com/r/Kotlin/comments/1cyc9vv/kotlin_20_relesed_faster_and_more_reliable/)
+- [🤔 Creating an object...](https://www.reddit.com/r/Kotlin/comments/1cybvmi/creating_an_object/)
+- [Recommend best CLI project I can build that can challenge my knowledge on a progrming language](https://www.reddit.com/r/Kotlin/comments/1cy30pm/recommend_best_cli_project_i_can_build_that_can/)
+- [How to update build.gradle to use media3 packages?](https://www.reddit.com/r/Kotlin/comments/1cy16t2/how_to_update_buildgradle_to_use_media3_packages/)
+- [Common mistakes and bad practices](https://www.reddit.com/r/Kotlin/comments/1cxu8yr/common_mistakes_and_bad_practices/)
+- [Need Guidance on Integrating Payment Gateway in Kotlin App &lpar;Similar to Uber&rpar;](https://www.reddit.com/r/Kotlin/comments/1cxqtfc/need_guidance_on_integrating_payment_gateway_in/)
 - [Help me understand this coroutine behaviour](https://www.reddit.com/r/Kotlin/comments/1cxjt0t/help_me_understand_this_coroutine_behaviour/)
 - [Kotlin Multiplatform VS Flutter](https://www.reddit.com/r/Kotlin/comments/1cxfv1g/kotlin_multiplatform_vs_flutter/)
 - [Migrating UI-oriented Android library to Compose Multiplatform &lpar;Android/iOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1cxb3v1/migrating_uioriented_android_library_to_compose/)
-- [How to add a View directly to the main activity?](https://www.reddit.com/r/Kotlin/comments/1cxa7qc/how_to_add_a_view_directly_to_the_main_activity/)
-- [Camera in app](https://www.reddit.com/r/Kotlin/comments/1cxa3y6/camera_in_app/)
-- [Firebird SQL Client Library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1cx4xnp/firebird_sql_client_library_for_kotlin/)
-- [Super unofficial Kotlin 2.0.0 release hype post](https://www.reddit.com/r/Kotlin/comments/1cx3rhf/super_unofficial_kotlin_200_release_hype_post/)
-- [Recently accepted a Senior engineering role for a Kotlin shop. I don’t know Kotlin. Best resources?](https://www.reddit.com/r/Kotlin/comments/1cwosl3/recently_accepted_a_senior_engineering_role_for_a/)
-- [Can anyone guide me with Ktor??](https://www.reddit.com/r/Kotlin/comments/1cwnq47/can_anyone_guide_me_with_ktor/)
-- [Can large apps with extensive UI and logic be easily deployed on iOS and Android without much modification?](https://www.reddit.com/r/Kotlin/comments/1cwnms5/can_large_apps_with_extensive_ui_and_logic_be/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
