@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to link to an external Kotlin variable &lpar;using Kotlin/JS&rpar;?](https://www.reddit.com/r/Kotlin/comments/1cyfix6/how_to_link_to_an_external_kotlin_variable_using/)
-- [Kotlin 2.0 Relesed: Faster And More Reliable](https://www.reddit.com/r/Kotlin/comments/1cyc9vv/kotlin_20_relesed_faster_and_more_reliable/)
-- [🤔 Creating an object...](https://www.reddit.com/r/Kotlin/comments/1cybvmi/creating_an_object/)
-- [Recommend best CLI project I can build that can challenge my knowledge on a progrming language](https://www.reddit.com/r/Kotlin/comments/1cy30pm/recommend_best_cli_project_i_can_build_that_can/)
-- [How to update build.gradle to use media3 packages?](https://www.reddit.com/r/Kotlin/comments/1cy16t2/how_to_update_buildgradle_to_use_media3_packages/)
-- [Common mistakes and bad practices](https://www.reddit.com/r/Kotlin/comments/1cxu8yr/common_mistakes_and_bad_practices/)
-- [Need Guidance on Integrating Payment Gateway in Kotlin App &lpar;Similar to Uber&rpar;](https://www.reddit.com/r/Kotlin/comments/1cxqtfc/need_guidance_on_integrating_payment_gateway_in/)
-- [Help me understand this coroutine behaviour](https://www.reddit.com/r/Kotlin/comments/1cxjt0t/help_me_understand_this_coroutine_behaviour/)
-- [Kotlin Multiplatform VS Flutter](https://www.reddit.com/r/Kotlin/comments/1cxfv1g/kotlin_multiplatform_vs_flutter/)
-- [Migrating UI-oriented Android library to Compose Multiplatform &lpar;Android/iOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1cxb3v1/migrating_uioriented_android_library_to_compose/)
+- [Kotlin library for Keepass](https://www.reddit.com/r/Kotlin/comments/1cz7hb7/kotlin_library_for_keepass/)
+- [Data replay from DDB to SQS using Kotlin Coroutines.](https://www.reddit.com/r/Kotlin/comments/1cz4udf/data_replay_from_ddb_to_sqs_using_kotlin/)
+- [Ktor: unit tests and mocking Exposed](https://www.reddit.com/r/Kotlin/comments/1cz2snl/ktor_unit_tests_and_mocking_exposed/)
+- [Everything announced at Kotlin Conf in 8 minutes](https://www.reddit.com/r/Kotlin/comments/1cyyt9f/everything_announced_at_kotlin_conf_in_8_minutes/)
+- [When I see a Java dev write Kotlin in a Java-esque way](https://www.reddit.com/r/Kotlin/comments/1cyv6ex/when_i_see_a_java_dev_write_kotlin_in_a_javaesque/)
+- [Composition Over Inheritance In Kotlin Explained](https://www.reddit.com/r/Kotlin/comments/1cyty58/composition_over_inheritance_in_kotlin_explained/)
+- [fun code&lpar;&rpar; Magazine released!](https://www.reddit.com/r/Kotlin/comments/1cytkye/fun_code_magazine_released/)
+- [Kotlinconf interrupted: Building evacuated](https://www.reddit.com/r/Kotlin/comments/1cyqn1t/kotlinconf_interrupted_building_evacuated/)
+- [How to improve a team member&#39;s Kotlin skills?](https://www.reddit.com/r/Kotlin/comments/1cypd12/how_to_improve_a_team_members_kotlin_skills/)
+- [Kotlin Native support in Fleet](https://www.reddit.com/r/Kotlin/comments/1cyp50f/kotlin_native_support_in_fleet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
