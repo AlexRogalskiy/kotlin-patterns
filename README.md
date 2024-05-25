@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin 2.0 &amp; opinionated Wrap-up of KotlinConf 2024 – JVM Weekly vol. 84](https://www.reddit.com/r/Kotlin/comments/1czojff/kotlin_20_opinionated_wrapup_of_kotlinconf_2024/)
+- [What to learn in kotlin?&lpar;I am switching from flutter&rpar;](https://www.reddit.com/r/Kotlin/comments/1czmwl3/what_to_learn_in_kotlini_am_switching_from_flutter/)
+- [Anyone &lpar;else&rpar; put off by the youtrack.jetbrains.com agreement?](https://www.reddit.com/r/Kotlin/comments/1czlscz/anyone_else_put_off_by_the_youtrackjetbrainscom/)
 - [Kotlin library for Keepass](https://www.reddit.com/r/Kotlin/comments/1cz7hb7/kotlin_library_for_keepass/)
 - [Data replay from DDB to SQS using Kotlin Coroutines.](https://www.reddit.com/r/Kotlin/comments/1cz4udf/data_replay_from_ddb_to_sqs_using_kotlin/)
 - [Ktor: unit tests and mocking Exposed](https://www.reddit.com/r/Kotlin/comments/1cz2snl/ktor_unit_tests_and_mocking_exposed/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [When I see a Java dev write Kotlin in a Java-esque way](https://www.reddit.com/r/Kotlin/comments/1cyv6ex/when_i_see_a_java_dev_write_kotlin_in_a_javaesque/)
 - [Composition Over Inheritance In Kotlin Explained](https://www.reddit.com/r/Kotlin/comments/1cyty58/composition_over_inheritance_in_kotlin_explained/)
 - [fun code&lpar;&rpar; Magazine released!](https://www.reddit.com/r/Kotlin/comments/1cytkye/fun_code_magazine_released/)
-- [Kotlinconf interrupted: Building evacuated](https://www.reddit.com/r/Kotlin/comments/1cyqn1t/kotlinconf_interrupted_building_evacuated/)
-- [How to improve a team member&#39;s Kotlin skills?](https://www.reddit.com/r/Kotlin/comments/1cypd12/how_to_improve_a_team_members_kotlin_skills/)
-- [Kotlin Native support in Fleet](https://www.reddit.com/r/Kotlin/comments/1cyp50f/kotlin_native_support_in_fleet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
