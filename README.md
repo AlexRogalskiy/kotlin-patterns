@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Snake Game with Compose Multiplatform 🐍🕹️](https://www.reddit.com/r/Kotlin/comments/1d0n77z/snake_game_with_compose_multiplatform/)
+- [Kotlin over Java for beginners when creating an android application?](https://www.reddit.com/r/Kotlin/comments/1d0ctcx/kotlin_over_java_for_beginners_when_creating_an/)
+- [Is it possible to watch the recordings of the talks presented at the Kotlin conf 2024?](https://www.reddit.com/r/Kotlin/comments/1d08rv8/is_it_possible_to_watch_the_recordings_of_the/)
+- [Convert HTML to PDF with Kotlin/JVM](https://www.reddit.com/r/Kotlin/comments/1d088wy/convert_html_to_pdf_with_kotlinjvm/)
+- [React native SDK in Kotlin app](https://www.reddit.com/r/Kotlin/comments/1d0482g/react_native_sdk_in_kotlin_app/)
+- [Simulating &amp; troubleshooting OOMError in Kotlin](https://www.reddit.com/r/Kotlin/comments/1d03erk/simulating_troubleshooting_oomerror_in_kotlin/)
 - [Kotlin 2.0 &amp; opinionated Wrap-up of KotlinConf 2024 – JVM Weekly vol. 84](https://www.reddit.com/r/Kotlin/comments/1czojff/kotlin_20_opinionated_wrapup_of_kotlinconf_2024/)
 - [What to learn in kotlin?&lpar;I am switching from flutter&rpar;](https://www.reddit.com/r/Kotlin/comments/1czmwl3/what_to_learn_in_kotlini_am_switching_from_flutter/)
 - [Anyone &lpar;else&rpar; put off by the youtrack.jetbrains.com agreement?](https://www.reddit.com/r/Kotlin/comments/1czlscz/anyone_else_put_off_by_the_youtrackjetbrainscom/)
 - [Kotlin library for Keepass](https://www.reddit.com/r/Kotlin/comments/1cz7hb7/kotlin_library_for_keepass/)
-- [Data replay from DDB to SQS using Kotlin Coroutines.](https://www.reddit.com/r/Kotlin/comments/1cz4udf/data_replay_from_ddb_to_sqs_using_kotlin/)
-- [Ktor: unit tests and mocking Exposed](https://www.reddit.com/r/Kotlin/comments/1cz2snl/ktor_unit_tests_and_mocking_exposed/)
-- [Everything announced at Kotlin Conf in 8 minutes](https://www.reddit.com/r/Kotlin/comments/1cyyt9f/everything_announced_at_kotlin_conf_in_8_minutes/)
-- [When I see a Java dev write Kotlin in a Java-esque way](https://www.reddit.com/r/Kotlin/comments/1cyv6ex/when_i_see_a_java_dev_write_kotlin_in_a_javaesque/)
-- [Composition Over Inheritance In Kotlin Explained](https://www.reddit.com/r/Kotlin/comments/1cyty58/composition_over_inheritance_in_kotlin_explained/)
-- [fun code&lpar;&rpar; Magazine released!](https://www.reddit.com/r/Kotlin/comments/1cytkye/fun_code_magazine_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
