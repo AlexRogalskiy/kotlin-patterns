@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Route handling implementation, asking for feedback](https://www.reddit.com/r/Kotlin/comments/1d16u0e/route_handling_implementation_asking_for_feedback/)
+- [To celebrate the 2.0 release and bring Kotlin to the real life: Kodee as 3D model](https://www.reddit.com/r/Kotlin/comments/1d0ziy1/to_celebrate_the_20_release_and_bring_kotlin_to/)
+- [Yet another amazing 3D KMP map engine update - WorldWindKotlin](https://www.reddit.com/r/Kotlin/comments/1d0ybc4/yet_another_amazing_3d_kmp_map_engine_update/)
+- [From Native to React Native to Flutter - Zerodha Tech Blog](https://www.reddit.com/r/Kotlin/comments/1d0w28m/from_native_to_react_native_to_flutter_zerodha/)
 - [Snake Game with Compose Multiplatform 🐍🕹️](https://www.reddit.com/r/Kotlin/comments/1d0n77z/snake_game_with_compose_multiplatform/)
 - [Kotlin over Java for beginners when creating an android application?](https://www.reddit.com/r/Kotlin/comments/1d0ctcx/kotlin_over_java_for_beginners_when_creating_an/)
 - [Is it possible to watch the recordings of the talks presented at the Kotlin conf 2024?](https://www.reddit.com/r/Kotlin/comments/1d08rv8/is_it_possible_to_watch_the_recordings_of_the/)
 - [Convert HTML to PDF with Kotlin/JVM](https://www.reddit.com/r/Kotlin/comments/1d088wy/convert_html_to_pdf_with_kotlinjvm/)
 - [React native SDK in Kotlin app](https://www.reddit.com/r/Kotlin/comments/1d0482g/react_native_sdk_in_kotlin_app/)
 - [Simulating &amp; troubleshooting OOMError in Kotlin](https://www.reddit.com/r/Kotlin/comments/1d03erk/simulating_troubleshooting_oomerror_in_kotlin/)
-- [Kotlin 2.0 &amp; opinionated Wrap-up of KotlinConf 2024 – JVM Weekly vol. 84](https://www.reddit.com/r/Kotlin/comments/1czojff/kotlin_20_opinionated_wrapup_of_kotlinconf_2024/)
-- [What to learn in kotlin?&lpar;I am switching from flutter&rpar;](https://www.reddit.com/r/Kotlin/comments/1czmwl3/what_to_learn_in_kotlini_am_switching_from_flutter/)
-- [Anyone &lpar;else&rpar; put off by the youtrack.jetbrains.com agreement?](https://www.reddit.com/r/Kotlin/comments/1czlscz/anyone_else_put_off_by_the_youtrackjetbrainscom/)
-- [Kotlin library for Keepass](https://www.reddit.com/r/Kotlin/comments/1cz7hb7/kotlin_library_for_keepass/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
