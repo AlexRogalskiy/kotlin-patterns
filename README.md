@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Route handling implementation, asking for feedback](https://www.reddit.com/r/Kotlin/comments/1d16u0e/route_handling_implementation_asking_for_feedback/)
-- [To celebrate the 2.0 release and bring Kotlin to the real life: Kodee as 3D model](https://www.reddit.com/r/Kotlin/comments/1d0ziy1/to_celebrate_the_20_release_and_bring_kotlin_to/)
-- [Yet another amazing 3D KMP map engine update - WorldWindKotlin](https://www.reddit.com/r/Kotlin/comments/1d0ybc4/yet_another_amazing_3d_kmp_map_engine_update/)
-- [From Native to React Native to Flutter - Zerodha Tech Blog](https://www.reddit.com/r/Kotlin/comments/1d0w28m/from_native_to_react_native_to_flutter_zerodha/)
-- [Snake Game with Compose Multiplatform 🐍🕹️](https://www.reddit.com/r/Kotlin/comments/1d0n77z/snake_game_with_compose_multiplatform/)
-- [Kotlin over Java for beginners when creating an android application?](https://www.reddit.com/r/Kotlin/comments/1d0ctcx/kotlin_over_java_for_beginners_when_creating_an/)
-- [Is it possible to watch the recordings of the talks presented at the Kotlin conf 2024?](https://www.reddit.com/r/Kotlin/comments/1d08rv8/is_it_possible_to_watch_the_recordings_of_the/)
-- [Convert HTML to PDF with Kotlin/JVM](https://www.reddit.com/r/Kotlin/comments/1d088wy/convert_html_to_pdf_with_kotlinjvm/)
-- [React native SDK in Kotlin app](https://www.reddit.com/r/Kotlin/comments/1d0482g/react_native_sdk_in_kotlin_app/)
-- [Simulating &amp; troubleshooting OOMError in Kotlin](https://www.reddit.com/r/Kotlin/comments/1d03erk/simulating_troubleshooting_oomerror_in_kotlin/)
+- [Ktor database beginners guide](https://www.reddit.com/r/Kotlin/comments/1d21tjq/ktor_database_beginners_guide/)
+- [Down Another Rabbit Hole](https://www.reddit.com/r/Kotlin/comments/1d20cc1/down_another_rabbit_hole/)
+- [Postcat Kodee: A KotlinConf&#39;24 game made with Kotlin, powered by Godot](https://www.reddit.com/r/Kotlin/comments/1d1w2w5/postcat_kodee_a_kotlinconf24_game_made_with/)
+- [what do you think of Baeldung kotlin courses &lpar;articles&rpar;, is it good to learn from?](https://www.reddit.com/r/Kotlin/comments/1d1ordu/what_do_you_think_of_baeldung_kotlin_courses/)
+- [Missed KotlinConf 2024?](https://www.reddit.com/r/Kotlin/comments/1d1o70m/missed_kotlinconf_2024/)
+- [KStateMachine library v0.30.0 Released](https://www.reddit.com/r/Kotlin/comments/1d1mq72/kstatemachine_library_v0300_released/)
+- [[DOUBT] Recomposition of App only happens once](https://www.reddit.com/r/Kotlin/comments/1d1mo74/doubt_recomposition_of_app_only_happens_once/)
+- [How can I get blurred background on a Widget made with Glance?](https://www.reddit.com/r/Kotlin/comments/1d1l1wl/how_can_i_get_blurred_background_on_a_widget_made/)
+- [Beginner&#39;s roadmap](https://www.reddit.com/r/Kotlin/comments/1d1l1b6/beginners_roadmap/)
+- [Is &#39;Kotlin&#39; a language that isn&#39;t used much outside of Android development?](https://www.reddit.com/r/Kotlin/comments/1d1i5nk/is_kotlin_a_language_that_isnt_used_much_outside/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
