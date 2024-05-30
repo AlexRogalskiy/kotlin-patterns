@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Console logging utility](https://www.reddit.com/r/Kotlin/comments/1d3r1sh/console_logging_utility/)
+- [Exciting news: Gradle launches new free courses on gradle, maven build tools](https://www.reddit.com/r/Kotlin/comments/1d3pijl/exciting_news_gradle_launches_new_free_courses_on/)
+- [importing my library](https://www.reddit.com/r/Kotlin/comments/1d3ktvd/importing_my_library/)
+- [updating IntelliJ leads to class loading issue - Exception java.lang.RuntimeException: Failed to load driver class org.mariadb.jdbc.Driver in either of HikariConfig class loader or Thread context classloader](https://www.reddit.com/r/Kotlin/comments/1d3ip01/updating_intellij_leads_to_class_loading_issue/)
+- [Video: Essence of Coroutines](https://www.reddit.com/r/Kotlin/comments/1d3e9in/video_essence_of_coroutines/)
+- [Kotlin advanced topics](https://www.reddit.com/r/Kotlin/comments/1d3czxo/kotlin_advanced_topics/)
+- [BottomSheetScaffold use](https://www.reddit.com/r/Kotlin/comments/1d38c1s/bottomsheetscaffold_use/)
+- [Help me decide between Kotlin and Rust for my project](https://www.reddit.com/r/Kotlin/comments/1d36ier/help_me_decide_between_kotlin_and_rust_for_my/)
 - [I made a protoc compiler plugin that generates useful extension code for Kotlin/JVM](https://www.reddit.com/r/Kotlin/comments/1d30ohe/i_made_a_protoc_compiler_plugin_that_generates/)
 - [Functions.kt:24:8: error: type mismatch: inferred type is Int but Unit was expected](https://www.reddit.com/r/Kotlin/comments/1d2wz0m/functionskt248_error_type_mismatch_inferred_type/)
-- [POPOVER CONTEXT ERROR](https://www.reddit.com/r/Kotlin/comments/1d2vl52/popover_context_error/)
-- [Kotlin Assignment](https://www.reddit.com/r/Kotlin/comments/1d2tpc9/kotlin_assignment/)
-- [Choosing a game engine](https://www.reddit.com/r/Kotlin/comments/1d2qddx/choosing_a_game_engine/)
-- [Collecion literals](https://www.reddit.com/r/Kotlin/comments/1d2o6pt/collecion_literals/)
-- [I made a KMP library for setting a system media session](https://www.reddit.com/r/Kotlin/comments/1d2jkzh/i_made_a_kmp_library_for_setting_a_system_media/)
-- [Korge maths](https://www.reddit.com/r/Kotlin/comments/1d2j3fu/korge_maths/)
-- [I am trying to install Kotlin Compiler 2.0.0 but it doesn&#39;t work](https://www.reddit.com/r/Kotlin/comments/1d2fk75/i_am_trying_to_install_kotlin_compiler_200_but_it/)
-- [Ktor database beginners guide](https://www.reddit.com/r/Kotlin/comments/1d21tjq/ktor_database_beginners_guide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
