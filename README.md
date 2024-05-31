@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Console logging utility](https://www.reddit.com/r/Kotlin/comments/1d3r1sh/console_logging_utility/)
-- [Exciting news: Gradle launches new free courses on gradle, maven build tools](https://www.reddit.com/r/Kotlin/comments/1d3pijl/exciting_news_gradle_launches_new_free_courses_on/)
-- [importing my library](https://www.reddit.com/r/Kotlin/comments/1d3ktvd/importing_my_library/)
-- [updating IntelliJ leads to class loading issue - Exception java.lang.RuntimeException: Failed to load driver class org.mariadb.jdbc.Driver in either of HikariConfig class loader or Thread context classloader](https://www.reddit.com/r/Kotlin/comments/1d3ip01/updating_intellij_leads_to_class_loading_issue/)
-- [Video: Essence of Coroutines](https://www.reddit.com/r/Kotlin/comments/1d3e9in/video_essence_of_coroutines/)
-- [Kotlin advanced topics](https://www.reddit.com/r/Kotlin/comments/1d3czxo/kotlin_advanced_topics/)
-- [BottomSheetScaffold use](https://www.reddit.com/r/Kotlin/comments/1d38c1s/bottomsheetscaffold_use/)
-- [Help me decide between Kotlin and Rust for my project](https://www.reddit.com/r/Kotlin/comments/1d36ier/help_me_decide_between_kotlin_and_rust_for_my/)
-- [I made a protoc compiler plugin that generates useful extension code for Kotlin/JVM](https://www.reddit.com/r/Kotlin/comments/1d30ohe/i_made_a_protoc_compiler_plugin_that_generates/)
-- [Functions.kt:24:8: error: type mismatch: inferred type is Int but Unit was expected](https://www.reddit.com/r/Kotlin/comments/1d2wz0m/functionskt248_error_type_mismatch_inferred_type/)
+- [My Pull Refresh not functioning in WebView Compose](https://www.reddit.com/r/Kotlin/comments/1d4fw21/my_pull_refresh_not_functioning_in_webview_compose/)
+- [How to add app permissions for Android app](https://www.reddit.com/r/Kotlin/comments/1d4furp/how_to_add_app_permissions_for_android_app/)
+- [Golang integration](https://www.reddit.com/r/Kotlin/comments/1d4e02e/golang_integration/)
+- [Using Java Collections Framework vs. Kotlin&#39;s API in Kotlin Development,is it ok?](https://www.reddit.com/r/Kotlin/comments/1d496uj/using_java_collections_framework_vs_kotlins_api/)
+- [AI-Friendly Programming Languages: the Kotlin Story](https://www.reddit.com/r/Kotlin/comments/1d47jlo/aifriendly_programming_languages_the_kotlin_story/)
+- [Kotlin Mobile Monorepo Migration](https://www.reddit.com/r/Kotlin/comments/1d3ymy7/kotlin_mobile_monorepo_migration/)
+- [How to use Pull To Refresh in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1d3ybru/how_to_use_pull_to_refresh_in_jetpack_compose/)
+- [What are your thoughts about AI? It will replace SWE?](https://www.reddit.com/r/Kotlin/comments/1d3y55m/what_are_your_thoughts_about_ai_it_will_replace/)
+- [From `for` to `onEach`: Guide to choosing the right loop!](https://www.reddit.com/r/Kotlin/comments/1d3xy6b/from_for_to_oneach_guide_to_choosing_the_right/)
+- [Questionnaire for Developers on Java and Kotlin Usage and Sentiment](https://www.reddit.com/r/Kotlin/comments/1d3xivm/questionnaire_for_developers_on_java_and_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
