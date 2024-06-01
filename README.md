@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/kotlinx-rpc: Add asynchronous RPC services to your multiplatform applications. &lpar;Official Library by JetBrains&rpar;](https://www.reddit.com/r/Kotlin/comments/1d528rr/kotlinkotlinxrpc_add_asynchronous_rpc_services_to/)
+- [New library: Assertainty. For creating data quality tests.](https://www.reddit.com/r/Kotlin/comments/1d51v8b/new_library_assertainty_for_creating_data_quality/)
+- [Was I Wrong About Gradle?](https://www.reddit.com/r/Kotlin/comments/1d4zn6r/was_i_wrong_about_gradle/)
+- [How to get the exo players current position?](https://www.reddit.com/r/Kotlin/comments/1d4xmbc/how_to_get_the_exo_players_current_position/)
+- [What&#39;s the simpler way to fetch remote api calls with authentication ?](https://www.reddit.com/r/Kotlin/comments/1d4v3af/whats_the_simpler_way_to_fetch_remote_api_calls/)
 - [My Pull Refresh not functioning in WebView Compose](https://www.reddit.com/r/Kotlin/comments/1d4fw21/my_pull_refresh_not_functioning_in_webview_compose/)
 - [How to add app permissions for Android app](https://www.reddit.com/r/Kotlin/comments/1d4furp/how_to_add_app_permissions_for_android_app/)
 - [Golang integration](https://www.reddit.com/r/Kotlin/comments/1d4e02e/golang_integration/)
 - [Using Java Collections Framework vs. Kotlin&#39;s API in Kotlin Development,is it ok?](https://www.reddit.com/r/Kotlin/comments/1d496uj/using_java_collections_framework_vs_kotlins_api/)
 - [AI-Friendly Programming Languages: the Kotlin Story](https://www.reddit.com/r/Kotlin/comments/1d47jlo/aifriendly_programming_languages_the_kotlin_story/)
-- [Kotlin Mobile Monorepo Migration](https://www.reddit.com/r/Kotlin/comments/1d3ymy7/kotlin_mobile_monorepo_migration/)
-- [How to use Pull To Refresh in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1d3ybru/how_to_use_pull_to_refresh_in_jetpack_compose/)
-- [What are your thoughts about AI? It will replace SWE?](https://www.reddit.com/r/Kotlin/comments/1d3y55m/what_are_your_thoughts_about_ai_it_will_replace/)
-- [From `for` to `onEach`: Guide to choosing the right loop!](https://www.reddit.com/r/Kotlin/comments/1d3xy6b/from_for_to_oneach_guide_to_choosing_the_right/)
-- [Questionnaire for Developers on Java and Kotlin Usage and Sentiment](https://www.reddit.com/r/Kotlin/comments/1d3xivm/questionnaire_for_developers_on_java_and_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
