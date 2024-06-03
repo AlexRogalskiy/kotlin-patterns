@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Dependency Injection in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1d6kdip/dependency_injection_in_compose_multiplatform/)
+- [Should I worry about using StringBuilder rather than String, or the compiler uses already?](https://www.reddit.com/r/Kotlin/comments/1d6gvd4/should_i_worry_about_using_stringbuilder_rather/)
+- [Music Recommender System](https://www.reddit.com/r/Kotlin/comments/1d6cceb/music_recommender_system/)
 - [Clarification on Invoking a Function vs. Referencing a Function?](https://www.reddit.com/r/Kotlin/comments/1d5ygpy/clarification_on_invoking_a_function_vs/)
 - [Kotlin beyond 2.0: what&#39;s coming to the language](https://www.reddit.com/r/Kotlin/comments/1d5smcm/kotlin_beyond_20_whats_coming_to_the_language/)
 - [How to show toast message after adding pinned shortcut on Kotlin/Android?](https://www.reddit.com/r/Kotlin/comments/1d5sin6/how_to_show_toast_message_after_adding_pinned/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin/kotlinx-rpc: Add asynchronous RPC services to your multiplatform applications. &lpar;Official Library by JetBrains&rpar;](https://www.reddit.com/r/Kotlin/comments/1d528rr/kotlinkotlinxrpc_add_asynchronous_rpc_services_to/)
 - [New library: Assertainty. For creating data quality tests.](https://www.reddit.com/r/Kotlin/comments/1d51v8b/new_library_assertainty_for_creating_data_quality/)
 - [Was I Wrong About Gradle?](https://www.reddit.com/r/Kotlin/comments/1d4zn6r/was_i_wrong_about_gradle/)
-- [How to get the exo players current position?](https://www.reddit.com/r/Kotlin/comments/1d4xmbc/how_to_get_the_exo_players_current_position/)
-- [What&#39;s the simpler way to fetch remote api calls with authentication ?](https://www.reddit.com/r/Kotlin/comments/1d4v3af/whats_the_simpler_way_to_fetch_remote_api_calls/)
-- [My Pull Refresh not functioning in WebView Compose](https://www.reddit.com/r/Kotlin/comments/1d4fw21/my_pull_refresh_not_functioning_in_webview_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
