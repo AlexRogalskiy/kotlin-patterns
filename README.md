@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gradle Dependencies &lpar;&rpar; vs. &#39;&#39;](https://www.reddit.com/r/Kotlin/comments/1d7k8cq/gradle_dependencies_vs/)
 - [Dependency Injection in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1d6kdip/dependency_injection_in_compose_multiplatform/)
 - [Should I worry about using StringBuilder rather than String, or the compiler uses already?](https://www.reddit.com/r/Kotlin/comments/1d6gvd4/should_i_worry_about_using_stringbuilder_rather/)
 - [Music Recommender System](https://www.reddit.com/r/Kotlin/comments/1d6cceb/music_recommender_system/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Developing Windows app in Mac](https://www.reddit.com/r/Kotlin/comments/1d5lx0p/developing_windows_app_in_mac/)
 - [Kotlin/kotlinx-rpc: Add asynchronous RPC services to your multiplatform applications. &lpar;Official Library by JetBrains&rpar;](https://www.reddit.com/r/Kotlin/comments/1d528rr/kotlinkotlinxrpc_add_asynchronous_rpc_services_to/)
 - [New library: Assertainty. For creating data quality tests.](https://www.reddit.com/r/Kotlin/comments/1d51v8b/new_library_assertainty_for_creating_data_quality/)
-- [Was I Wrong About Gradle?](https://www.reddit.com/r/Kotlin/comments/1d4zn6r/was_i_wrong_about_gradle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
