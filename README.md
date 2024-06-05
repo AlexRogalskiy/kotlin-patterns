@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do you keep an eye on the codebase of any open-source project?](https://www.reddit.com/r/Kotlin/comments/1d871nk/do_you_keep_an_eye_on_the_codebase_of_any/)
+- [spring-boot + sqlite dependencies](https://www.reddit.com/r/Kotlin/comments/1d85hm5/springboot_sqlite_dependencies/)
+- [Exposed: querying a property on a relation](https://www.reddit.com/r/Kotlin/comments/1d7ri05/exposed_querying_a_property_on_a_relation/)
 - [Gradle Dependencies &lpar;&rpar; vs. &#39;&#39;](https://www.reddit.com/r/Kotlin/comments/1d7k8cq/gradle_dependencies_vs/)
 - [Dependency Injection in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1d6kdip/dependency_injection_in_compose_multiplatform/)
 - [Should I worry about using StringBuilder rather than String, or the compiler uses already?](https://www.reddit.com/r/Kotlin/comments/1d6gvd4/should_i_worry_about_using_stringbuilder_rather/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Clarification on Invoking a Function vs. Referencing a Function?](https://www.reddit.com/r/Kotlin/comments/1d5ygpy/clarification_on_invoking_a_function_vs/)
 - [Kotlin beyond 2.0: what&#39;s coming to the language](https://www.reddit.com/r/Kotlin/comments/1d5smcm/kotlin_beyond_20_whats_coming_to_the_language/)
 - [How to show toast message after adding pinned shortcut on Kotlin/Android?](https://www.reddit.com/r/Kotlin/comments/1d5sin6/how_to_show_toast_message_after_adding_pinned/)
-- [Developing Windows app in Mac](https://www.reddit.com/r/Kotlin/comments/1d5lx0p/developing_windows_app_in_mac/)
-- [Kotlin/kotlinx-rpc: Add asynchronous RPC services to your multiplatform applications. &lpar;Official Library by JetBrains&rpar;](https://www.reddit.com/r/Kotlin/comments/1d528rr/kotlinkotlinxrpc_add_asynchronous_rpc_services_to/)
-- [New library: Assertainty. For creating data quality tests.](https://www.reddit.com/r/Kotlin/comments/1d51v8b/new_library_assertainty_for_creating_data_quality/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
