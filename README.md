@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin or golang for backend](https://www.reddit.com/r/Kotlin/comments/1d911kq/kotlin_or_golang_for_backend/)
+- [How to change the size of image icons?](https://www.reddit.com/r/Kotlin/comments/1d8zkp6/how_to_change_the_size_of_image_icons/)
+- [Can I develop in KMP &lpar;Kotlin MultiPlatform&rpar; using linux?](https://www.reddit.com/r/Kotlin/comments/1d8yxv9/can_i_develop_in_kmp_kotlin_multiplatform_using/)
+- [I want to allow a blank space after each property in class header. How to achieve it?](https://www.reddit.com/r/Kotlin/comments/1d8ywra/i_want_to_allow_a_blank_space_after_each_property/)
+- [Compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1d8ni0j/compose_multiplatform/)
+- [I want to know pitfalls in this article. Critical feedback](https://www.reddit.com/r/Kotlin/comments/1d8lnfu/i_want_to_know_pitfalls_in_this_article_critical/)
+- [Flashbang Websites in 2024: Seriously, What the Hell?](https://www.reddit.com/r/Kotlin/comments/1d8lhzx/flashbang_websites_in_2024_seriously_what_the_hell/)
 - [Do you keep an eye on the codebase of any open-source project?](https://www.reddit.com/r/Kotlin/comments/1d871nk/do_you_keep_an_eye_on_the_codebase_of_any/)
 - [spring-boot + sqlite dependencies](https://www.reddit.com/r/Kotlin/comments/1d85hm5/springboot_sqlite_dependencies/)
 - [Exposed: querying a property on a relation](https://www.reddit.com/r/Kotlin/comments/1d7ri05/exposed_querying_a_property_on_a_relation/)
-- [Gradle Dependencies &lpar;&rpar; vs. &#39;&#39;](https://www.reddit.com/r/Kotlin/comments/1d7k8cq/gradle_dependencies_vs/)
-- [Dependency Injection in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1d6kdip/dependency_injection_in_compose_multiplatform/)
-- [Should I worry about using StringBuilder rather than String, or the compiler uses already?](https://www.reddit.com/r/Kotlin/comments/1d6gvd4/should_i_worry_about_using_stringbuilder_rather/)
-- [Music Recommender System](https://www.reddit.com/r/Kotlin/comments/1d6cceb/music_recommender_system/)
-- [Clarification on Invoking a Function vs. Referencing a Function?](https://www.reddit.com/r/Kotlin/comments/1d5ygpy/clarification_on_invoking_a_function_vs/)
-- [Kotlin beyond 2.0: what&#39;s coming to the language](https://www.reddit.com/r/Kotlin/comments/1d5smcm/kotlin_beyond_20_whats_coming_to_the_language/)
-- [How to show toast message after adding pinned shortcut on Kotlin/Android?](https://www.reddit.com/r/Kotlin/comments/1d5sin6/how_to_show_toast_message_after_adding_pinned/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
