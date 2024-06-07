@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Interviews](https://www.reddit.com/r/Kotlin/comments/1d9wkk8/kotlin_interviews/)
+- [Is it possible for Compose multiplatform to ever succeed?](https://www.reddit.com/r/Kotlin/comments/1d9r6rj/is_it_possible_for_compose_multiplatform_to_ever/)
+- [Application that takes csv files via drag and drop](https://www.reddit.com/r/Kotlin/comments/1d9paxg/application_that_takes_csv_files_via_drag_and_drop/)
+- [How to Create an URL Translation and Summarization Shell Script Using Kotlin and LangChain4j](https://www.reddit.com/r/Kotlin/comments/1d9l8wb/how_to_create_an_url_translation_and/)
+- [Low Latency Sensors &amp; Measures](https://www.reddit.com/r/Kotlin/comments/1d9iaml/low_latency_sensors_measures/)
+- [Has anyone successfully shared a kotlin-native/kmp library across multiple ios projects?](https://www.reddit.com/r/Kotlin/comments/1d9f8xs/has_anyone_successfully_shared_a_kotlinnativekmp/)
+- [BM25+ ranking algorithm implemented in Kotlin](https://www.reddit.com/r/Kotlin/comments/1d9d7to/bm25_ranking_algorithm_implemented_in_kotlin/)
+- [Image Processing for AI vision model different for portrait mode and landscape mode](https://www.reddit.com/r/Kotlin/comments/1d9a56a/image_processing_for_ai_vision_model_different/)
 - [Kotlin or golang for backend](https://www.reddit.com/r/Kotlin/comments/1d911kq/kotlin_or_golang_for_backend/)
 - [How to change the size of image icons?](https://www.reddit.com/r/Kotlin/comments/1d8zkp6/how_to_change_the_size_of_image_icons/)
-- [Can I develop in KMP &lpar;Kotlin MultiPlatform&rpar; using linux?](https://www.reddit.com/r/Kotlin/comments/1d8yxv9/can_i_develop_in_kmp_kotlin_multiplatform_using/)
-- [I want to allow a blank space after each property in class header. How to achieve it?](https://www.reddit.com/r/Kotlin/comments/1d8ywra/i_want_to_allow_a_blank_space_after_each_property/)
-- [Compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1d8ni0j/compose_multiplatform/)
-- [I want to know pitfalls in this article. Critical feedback](https://www.reddit.com/r/Kotlin/comments/1d8lnfu/i_want_to_know_pitfalls_in_this_article_critical/)
-- [Flashbang Websites in 2024: Seriously, What the Hell?](https://www.reddit.com/r/Kotlin/comments/1d8lhzx/flashbang_websites_in_2024_seriously_what_the_hell/)
-- [Do you keep an eye on the codebase of any open-source project?](https://www.reddit.com/r/Kotlin/comments/1d871nk/do_you_keep_an_eye_on_the_codebase_of_any/)
-- [spring-boot + sqlite dependencies](https://www.reddit.com/r/Kotlin/comments/1d85hm5/springboot_sqlite_dependencies/)
-- [Exposed: querying a property on a relation](https://www.reddit.com/r/Kotlin/comments/1d7ri05/exposed_querying_a_property_on_a_relation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
