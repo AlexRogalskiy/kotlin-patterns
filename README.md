@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Issues with KMM](https://www.reddit.com/r/Kotlin/comments/1daq40p/issues_with_kmm/)
+- [Help needed for tinder-like swiping function on Android studio jellyfish 2023.3.1 - confused undergrad student](https://www.reddit.com/r/Kotlin/comments/1dah1uz/help_needed_for_tinderlike_swiping_function_on/)
+- [kotlin property from the dependency](https://www.reddit.com/r/Kotlin/comments/1dah1n7/kotlin_property_from_the_dependency/)
+- [Kotlin Power Assert](https://www.reddit.com/r/Kotlin/comments/1da91kc/kotlin_power_assert/)
 - [Kotlin Interviews](https://www.reddit.com/r/Kotlin/comments/1d9wkk8/kotlin_interviews/)
 - [Is it possible for Compose multiplatform to ever succeed?](https://www.reddit.com/r/Kotlin/comments/1d9r6rj/is_it_possible_for_compose_multiplatform_to_ever/)
 - [Application that takes csv files via drag and drop](https://www.reddit.com/r/Kotlin/comments/1d9paxg/application_that_takes_csv_files_via_drag_and_drop/)
 - [How to Create an URL Translation and Summarization Shell Script Using Kotlin and LangChain4j](https://www.reddit.com/r/Kotlin/comments/1d9l8wb/how_to_create_an_url_translation_and/)
 - [Low Latency Sensors &amp; Measures](https://www.reddit.com/r/Kotlin/comments/1d9iaml/low_latency_sensors_measures/)
 - [Has anyone successfully shared a kotlin-native/kmp library across multiple ios projects?](https://www.reddit.com/r/Kotlin/comments/1d9f8xs/has_anyone_successfully_shared_a_kotlinnativekmp/)
-- [BM25+ ranking algorithm implemented in Kotlin](https://www.reddit.com/r/Kotlin/comments/1d9d7to/bm25_ranking_algorithm_implemented_in_kotlin/)
-- [Image Processing for AI vision model different for portrait mode and landscape mode](https://www.reddit.com/r/Kotlin/comments/1d9a56a/image_processing_for_ai_vision_model_different/)
-- [Kotlin or golang for backend](https://www.reddit.com/r/Kotlin/comments/1d911kq/kotlin_or_golang_for_backend/)
-- [How to change the size of image icons?](https://www.reddit.com/r/Kotlin/comments/1d8zkp6/how_to_change_the_size_of_image_icons/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
