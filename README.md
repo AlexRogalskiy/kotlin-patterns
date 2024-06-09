@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Examples for why Kotlin is Better](https://www.reddit.com/r/Kotlin/comments/1dbgn6t/examples_for_why_kotlin_is_better/)
+- [Looking for online class](https://www.reddit.com/r/Kotlin/comments/1db4ksm/looking_for_online_class/)
+- [Using expect/actual outside of multiplatform?](https://www.reddit.com/r/Kotlin/comments/1daywd5/using_expectactual_outside_of_multiplatform/)
+- [Jetpack compose](https://www.reddit.com/r/Kotlin/comments/1day3gx/jetpack_compose/)
 - [Issues with KMM](https://www.reddit.com/r/Kotlin/comments/1daq40p/issues_with_kmm/)
 - [Help needed for tinder-like swiping function on Android studio jellyfish 2023.3.1 - confused undergrad student](https://www.reddit.com/r/Kotlin/comments/1dah1uz/help_needed_for_tinderlike_swiping_function_on/)
 - [kotlin property from the dependency](https://www.reddit.com/r/Kotlin/comments/1dah1n7/kotlin_property_from_the_dependency/)
 - [Kotlin Power Assert](https://www.reddit.com/r/Kotlin/comments/1da91kc/kotlin_power_assert/)
 - [Kotlin Interviews](https://www.reddit.com/r/Kotlin/comments/1d9wkk8/kotlin_interviews/)
 - [Is it possible for Compose multiplatform to ever succeed?](https://www.reddit.com/r/Kotlin/comments/1d9r6rj/is_it_possible_for_compose_multiplatform_to_ever/)
-- [Application that takes csv files via drag and drop](https://www.reddit.com/r/Kotlin/comments/1d9paxg/application_that_takes_csv_files_via_drag_and_drop/)
-- [How to Create an URL Translation and Summarization Shell Script Using Kotlin and LangChain4j](https://www.reddit.com/r/Kotlin/comments/1d9l8wb/how_to_create_an_url_translation_and/)
-- [Low Latency Sensors &amp; Measures](https://www.reddit.com/r/Kotlin/comments/1d9iaml/low_latency_sensors_measures/)
-- [Has anyone successfully shared a kotlin-native/kmp library across multiple ios projects?](https://www.reddit.com/r/Kotlin/comments/1d9f8xs/has_anyone_successfully_shared_a_kotlinnativekmp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
