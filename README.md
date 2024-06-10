@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New To Kotlin, need advice](https://www.reddit.com/r/Kotlin/comments/1dbsmku/new_to_kotlin_need_advice/)
+- [Developing a Large App in Kotlin and Exploring iOS Deployment Options](https://www.reddit.com/r/Kotlin/comments/1dbsdsr/developing_a_large_app_in_kotlin_and_exploring/)
+- [Idiomatic null checks and indentation levels](https://www.reddit.com/r/Kotlin/comments/1dbq4fi/idiomatic_null_checks_and_indentation_levels/)
+- [help beginner with Kotlin code](https://www.reddit.com/r/Kotlin/comments/1dboofi/help_beginner_with_kotlin_code/)
+- [Best CLI Framework?](https://www.reddit.com/r/Kotlin/comments/1dbob37/best_cli_framework/)
 - [Examples for why Kotlin is Better](https://www.reddit.com/r/Kotlin/comments/1dbgn6t/examples_for_why_kotlin_is_better/)
 - [Looking for online class](https://www.reddit.com/r/Kotlin/comments/1db4ksm/looking_for_online_class/)
 - [Using expect/actual outside of multiplatform?](https://www.reddit.com/r/Kotlin/comments/1daywd5/using_expectactual_outside_of_multiplatform/)
 - [Jetpack compose](https://www.reddit.com/r/Kotlin/comments/1day3gx/jetpack_compose/)
 - [Issues with KMM](https://www.reddit.com/r/Kotlin/comments/1daq40p/issues_with_kmm/)
-- [Help needed for tinder-like swiping function on Android studio jellyfish 2023.3.1 - confused undergrad student](https://www.reddit.com/r/Kotlin/comments/1dah1uz/help_needed_for_tinderlike_swiping_function_on/)
-- [kotlin property from the dependency](https://www.reddit.com/r/Kotlin/comments/1dah1n7/kotlin_property_from_the_dependency/)
-- [Kotlin Power Assert](https://www.reddit.com/r/Kotlin/comments/1da91kc/kotlin_power_assert/)
-- [Kotlin Interviews](https://www.reddit.com/r/Kotlin/comments/1d9wkk8/kotlin_interviews/)
-- [Is it possible for Compose multiplatform to ever succeed?](https://www.reddit.com/r/Kotlin/comments/1d9r6rj/is_it_possible_for_compose_multiplatform_to_ever/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
