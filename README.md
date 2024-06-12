@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how do YOU, personally, format if-else variable assignments like this? Or do you just avoid them entirely?](https://www.reddit.com/r/Kotlin/comments/1ddtsvo/how_do_you_personally_format_ifelse_variable/)
+- [Using Virtual threads as a Kotlin coroutine dispatcher, is it a good idea?](https://www.reddit.com/r/Kotlin/comments/1ddmf1o/using_virtual_threads_as_a_kotlin_coroutine/)
+- [How can I add a loading state before signing in ?](https://www.reddit.com/r/Kotlin/comments/1ddjgh9/how_can_i_add_a_loading_state_before_signing_in/)
+- [Kotlin: Functions as First Class Citizens — Currying &amp; Closures](https://www.reddit.com/r/Kotlin/comments/1ddianq/kotlin_functions_as_first_class_citizens_currying/)
 - [Hot Take on Ktlint: Wildcard Imports are actually okay. The concept that they are bad should die with Java.](https://www.reddit.com/r/Kotlin/comments/1dd2fz2/hot_take_on_ktlint_wildcard_imports_are_actually/)
 - [Migrating our Android apps to Kotlin: Sharing the journey! ️](https://www.reddit.com/r/Kotlin/comments/1dcxea3/migrating_our_android_apps_to_kotlin_sharing_the/)
 - [How do Kotlin versions map to Java versions? Will gradle and Kotlin make my bytecode compiled from Kotlin magically work in JVM version matching the Kotlin version?](https://www.reddit.com/r/Kotlin/comments/1dcvmlb/how_do_kotlin_versions_map_to_java_versions_will/)
 - [Why is Exception not going UP](https://www.reddit.com/r/Kotlin/comments/1dcnknm/why_is_exception_not_going_up/)
 - [Does a Compose application need to be installed to function?](https://www.reddit.com/r/Kotlin/comments/1dcjaaz/does_a_compose_application_need_to_be_installed/)
 - [Stove 0.10.0 has been released!](https://www.reddit.com/r/Kotlin/comments/1dch7a8/stove_0100_has_been_released/)
-- [Developing a Large App in Kotlin and Exploring iOS Deployment Options](https://www.reddit.com/r/Kotlin/comments/1dbsdsr/developing_a_large_app_in_kotlin_and_exploring/)
-- [Idiomatic null checks and indentation levels](https://www.reddit.com/r/Kotlin/comments/1dbq4fi/idiomatic_null_checks_and_indentation_levels/)
-- [help beginner with Kotlin code](https://www.reddit.com/r/Kotlin/comments/1dboofi/help_beginner_with_kotlin_code/)
-- [Best CLI Framework?](https://www.reddit.com/r/Kotlin/comments/1dbob37/best_cli_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
