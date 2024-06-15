@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Multiplatform with SwiftUI](https://www.reddit.com/r/Kotlin/comments/1dg29mf/kotlin_multiplatform_with_swiftui/)
+- [Simple calculator with cross reference datasheet](https://www.reddit.com/r/Kotlin/comments/1dfyv1v/simple_calculator_with_cross_reference_datasheet/)
+- [Kotlin Multi Platform](https://www.reddit.com/r/Kotlin/comments/1dfvp05/kotlin_multi_platform/)
+- [Validation](https://www.reddit.com/r/Kotlin/comments/1dfv239/validation/)
+- [Is using api reflection `::` operator for member references considered bad practice?](https://www.reddit.com/r/Kotlin/comments/1dfrw1s/is_using_api_reflection_operator_for_member/)
+- [Hacking Kotlin Power Assert](https://www.reddit.com/r/Kotlin/comments/1dfq7uc/hacking_kotlin_power_assert/)
+- [Track microphone usage using Kotlin with Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1dfhz2g/track_microphone_usage_using_kotlin_with_jetpack/)
 - [Memory Issues with KMM on iOS](https://www.reddit.com/r/Kotlin/comments/1dfbaws/memory_issues_with_kmm_on_ios/)
 - [error kotlin](https://www.reddit.com/r/Kotlin/comments/1df0ctq/error_kotlin/)
 - [KTOR - Post request with multipart form data is always failing while the same request works in Postman](https://www.reddit.com/r/Kotlin/comments/1devv90/ktor_post_request_with_multipart_form_data_is/)
-- [KTOR - Post request with multipart form data is always failing while the same request works in Postman](https://www.reddit.com/r/Kotlin/comments/1devuu8/ktor_post_request_with_multipart_form_data_is/)
-- [The Grants Program for Kotlin Multiplatform Libraries is open again!](https://www.reddit.com/r/Kotlin/comments/1dea4pg/the_grants_program_for_kotlin_multiplatform/)
-- [Video: Reified Type Parameters](https://www.reddit.com/r/Kotlin/comments/1de9iin/video_reified_type_parameters/)
-- [Overview of JVM Threads: Understanding Multithreading in Java](https://www.reddit.com/r/Kotlin/comments/1de691e/overview_of_jvm_threads_understanding/)
-- [Weekly Tech Tidbits #2: Disagree and Commit, Spotless, and Error Handling in Kotlin.](https://www.reddit.com/r/Kotlin/comments/1de4xyt/weekly_tech_tidbits_2_disagree_and_commit/)
-- [10 Reasons to Try Kotlin Multiplatform in 1 Minute](https://www.reddit.com/r/Kotlin/comments/1de3v69/10_reasons_to_try_kotlin_multiplatform_in_1_minute/)
-- [how do YOU, personally, format if-else variable assignments like this? Or do you just avoid them entirely?](https://www.reddit.com/r/Kotlin/comments/1ddtsvo/how_do_you_personally_format_ifelse_variable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
