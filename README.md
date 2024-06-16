@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Don&#39;t know where to learn from, stuck in tutorial hell. HELP ME PLEASE !](https://www.reddit.com/r/Kotlin/comments/1dgqxx4/dont_know_where_to_learn_from_stuck_in_tutorial/)
+- [fastAPI&lpar;Python&rpar; alternative for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1dgqc60/fastapipython_alternative_for_kotlin/)
+- [Getters and Setters in Kotlin](https://www.reddit.com/r/Kotlin/comments/1dglzuk/getters_and_setters_in_kotlin/)
+- [KMP desktop executable size](https://www.reddit.com/r/Kotlin/comments/1dgbcmf/kmp_desktop_executable_size/)
 - [Kotlin Multiplatform with SwiftUI](https://www.reddit.com/r/Kotlin/comments/1dg29mf/kotlin_multiplatform_with_swiftui/)
 - [Simple calculator with cross reference datasheet](https://www.reddit.com/r/Kotlin/comments/1dfyv1v/simple_calculator_with_cross_reference_datasheet/)
 - [Kotlin Multi Platform](https://www.reddit.com/r/Kotlin/comments/1dfvp05/kotlin_multi_platform/)
 - [Validation](https://www.reddit.com/r/Kotlin/comments/1dfv239/validation/)
 - [Is using api reflection `::` operator for member references considered bad practice?](https://www.reddit.com/r/Kotlin/comments/1dfrw1s/is_using_api_reflection_operator_for_member/)
 - [Hacking Kotlin Power Assert](https://www.reddit.com/r/Kotlin/comments/1dfq7uc/hacking_kotlin_power_assert/)
-- [Track microphone usage using Kotlin with Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1dfhz2g/track_microphone_usage_using_kotlin_with_jetpack/)
-- [Memory Issues with KMM on iOS](https://www.reddit.com/r/Kotlin/comments/1dfbaws/memory_issues_with_kmm_on_ios/)
-- [error kotlin](https://www.reddit.com/r/Kotlin/comments/1df0ctq/error_kotlin/)
-- [KTOR - Post request with multipart form data is always failing while the same request works in Postman](https://www.reddit.com/r/Kotlin/comments/1devv90/ktor_post_request_with_multipart_form_data_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
