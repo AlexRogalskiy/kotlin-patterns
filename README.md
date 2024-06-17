@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [i made simple todo app using compose and springboot](https://www.reddit.com/r/Kotlin/comments/1dhjs6y/i_made_simple_todo_app_using_compose_and/)
+- [Help needed for app](https://www.reddit.com/r/Kotlin/comments/1dhfukl/help_needed_for_app/)
+- [Easy way to implement an Persistent cache ?](https://www.reddit.com/r/Kotlin/comments/1dhcbsb/easy_way_to_implement_an_persistent_cache/)
+- [Beginner Kotlin question - why should I put quotation marks around return statement? Asking because so far I learned that quotation marks should only be used around string literals. But this return statement consists of a variable name?](https://www.reddit.com/r/Kotlin/comments/1dh3kz8/beginner_kotlin_question_why_should_i_put/)
 - [Don&#39;t know where to learn from, stuck in tutorial hell. HELP ME PLEASE !](https://www.reddit.com/r/Kotlin/comments/1dgqxx4/dont_know_where_to_learn_from_stuck_in_tutorial/)
 - [fastAPI&lpar;Python&rpar; alternative for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1dgqc60/fastapipython_alternative_for_kotlin/)
 - [Getters and Setters in Kotlin](https://www.reddit.com/r/Kotlin/comments/1dglzuk/getters_and_setters_in_kotlin/)
 - [KMP desktop executable size](https://www.reddit.com/r/Kotlin/comments/1dgbcmf/kmp_desktop_executable_size/)
 - [Kotlin Multiplatform with SwiftUI](https://www.reddit.com/r/Kotlin/comments/1dg29mf/kotlin_multiplatform_with_swiftui/)
 - [Simple calculator with cross reference datasheet](https://www.reddit.com/r/Kotlin/comments/1dfyv1v/simple_calculator_with_cross_reference_datasheet/)
-- [Kotlin Multi Platform](https://www.reddit.com/r/Kotlin/comments/1dfvp05/kotlin_multi_platform/)
-- [Validation](https://www.reddit.com/r/Kotlin/comments/1dfv239/validation/)
-- [Is using api reflection `::` operator for member references considered bad practice?](https://www.reddit.com/r/Kotlin/comments/1dfrw1s/is_using_api_reflection_operator_for_member/)
-- [Hacking Kotlin Power Assert](https://www.reddit.com/r/Kotlin/comments/1dfq7uc/hacking_kotlin_power_assert/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
