@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about Kotlin for Kotlin Devs](https://www.reddit.com/r/Kotlin/comments/1dizhbq/question_about_kotlin_for_kotlin_devs/)
+- [Kotlin Multiplatform Job Market: Will it Improve in the Future?](https://www.reddit.com/r/Kotlin/comments/1div6zq/kotlin_multiplatform_job_market_will_it_improve/)
+- [Take the survey to improve Kotlin test coverage tools](https://www.reddit.com/r/Kotlin/comments/1diu1wx/take_the_survey_to_improve_kotlin_test_coverage/)
+- [Create a tone when button pressed](https://www.reddit.com/r/Kotlin/comments/1ditw62/create_a_tone_when_button_pressed/)
+- [Scratching a surface of Kotlin&#39;s power-assert](https://www.reddit.com/r/Kotlin/comments/1diqzf1/scratching_a_surface_of_kotlins_powerassert/)
+- [AR Indoor Navigation](https://www.reddit.com/r/Kotlin/comments/1diq9zw/ar_indoor_navigation/)
+- [Talks at KotlinConf 2024](https://www.reddit.com/r/Kotlin/comments/1dip78u/talks_at_kotlinconf_2024/)
 - [Coroutines and okhhtp massive -almost impossible to solve - problem](https://www.reddit.com/r/Kotlin/comments/1dic7i4/coroutines_and_okhhtp_massive_almost_impossible/)
 - [Where can I find Like-minded people to work on some open-source ideas together?](https://www.reddit.com/r/Kotlin/comments/1di42ux/where_can_i_find_likeminded_people_to_work_on/)
 - [Kotlin CLI compiler options](https://www.reddit.com/r/Kotlin/comments/1di2otu/kotlin_cli_compiler_options/)
-- [Compose Multiplatform over React native?](https://www.reddit.com/r/Kotlin/comments/1dhzmae/compose_multiplatform_over_react_native/)
-- [KtScheduler: LIghtweight task/job scheduling library for Kotlin, powered by Kotlin coroutines!](https://www.reddit.com/r/Kotlin/comments/1dhvmbz/ktscheduler_lightweight_taskjob_scheduling/)
-- [Android OutOfMemoryError](https://www.reddit.com/r/Kotlin/comments/1dhsjrz/android_outofmemoryerror/)
-- [KMM database library that supports macOS](https://www.reddit.com/r/Kotlin/comments/1dhr30y/kmm_database_library_that_supports_macos/)
-- [Convert Java to Kotlin| intellij. What difference does it make if I click yes or no?](https://www.reddit.com/r/Kotlin/comments/1dhpxn7/convert_java_to_kotlin_intellij_what_difference/)
-- [i made simple todo app using compose and springboot](https://www.reddit.com/r/Kotlin/comments/1dhjs6y/i_made_simple_todo_app_using_compose_and/)
-- [Help needed for app](https://www.reddit.com/r/Kotlin/comments/1dhfukl/help_needed_for_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
