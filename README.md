@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [compose desktop app gives error when converted to .exe](https://www.reddit.com/r/Kotlin/comments/1djjegj/compose_desktop_app_gives_error_when_converted_to/)
+- [[HELP] Disable Keyboard but Allow Text Pasting in TextField - Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1djiqo3/help_disable_keyboard_but_allow_text_pasting_in/)
+- [Using database relations to control code paths](https://www.reddit.com/r/Kotlin/comments/1djgjte/using_database_relations_to_control_code_paths/)
+- [A new technique to manage internal state of object, happened as embedding one language into Kotlin, shown to be easily integrated with Spring IoC and the Cake pattern, featuring a new style of programming](https://www.reddit.com/r/Kotlin/comments/1djfu9f/a_new_technique_to_manage_internal_state_of/)
+- [How to advocate that Kotlin is more than android development?](https://www.reddit.com/r/Kotlin/comments/1djaz2w/how_to_advocate_that_kotlin_is_more_than_android/)
+- [Measured now supports your favorite platform](https://www.reddit.com/r/Kotlin/comments/1dj8nkc/measured_now_supports_your_favorite_platform/)
 - [Question about Kotlin for Kotlin Devs](https://www.reddit.com/r/Kotlin/comments/1dizhbq/question_about_kotlin_for_kotlin_devs/)
 - [Kotlin Multiplatform Job Market: Will it Improve in the Future?](https://www.reddit.com/r/Kotlin/comments/1div6zq/kotlin_multiplatform_job_market_will_it_improve/)
 - [Take the survey to improve Kotlin test coverage tools](https://www.reddit.com/r/Kotlin/comments/1diu1wx/take_the_survey_to_improve_kotlin_test_coverage/)
 - [Create a tone when button pressed](https://www.reddit.com/r/Kotlin/comments/1ditw62/create_a_tone_when_button_pressed/)
-- [Scratching a surface of Kotlin&#39;s power-assert](https://www.reddit.com/r/Kotlin/comments/1diqzf1/scratching_a_surface_of_kotlins_powerassert/)
-- [AR Indoor Navigation](https://www.reddit.com/r/Kotlin/comments/1diq9zw/ar_indoor_navigation/)
-- [Talks at KotlinConf 2024](https://www.reddit.com/r/Kotlin/comments/1dip78u/talks_at_kotlinconf_2024/)
-- [Coroutines and okhhtp massive -almost impossible to solve - problem](https://www.reddit.com/r/Kotlin/comments/1dic7i4/coroutines_and_okhhtp_massive_almost_impossible/)
-- [Where can I find Like-minded people to work on some open-source ideas together?](https://www.reddit.com/r/Kotlin/comments/1di42ux/where_can_i_find_likeminded_people_to_work_on/)
-- [Kotlin CLI compiler options](https://www.reddit.com/r/Kotlin/comments/1di2otu/kotlin_cli_compiler_options/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
