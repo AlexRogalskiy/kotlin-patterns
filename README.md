@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Super Features: Null Safety](https://www.reddit.com/r/Kotlin/comments/1dk89ad/kotlin_super_features_null_safety/)
+- [Is there any code challenge platform specialized in Kotlin only?](https://www.reddit.com/r/Kotlin/comments/1dk88cx/is_there_any_code_challenge_platform_specialized/)
 - [compose desktop app gives error when converted to .exe](https://www.reddit.com/r/Kotlin/comments/1djjegj/compose_desktop_app_gives_error_when_converted_to/)
 - [[HELP] Disable Keyboard but Allow Text Pasting in TextField - Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1djiqo3/help_disable_keyboard_but_allow_text_pasting_in/)
 - [Using database relations to control code paths](https://www.reddit.com/r/Kotlin/comments/1djgjte/using_database_relations_to_control_code_paths/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Measured now supports your favorite platform](https://www.reddit.com/r/Kotlin/comments/1dj8nkc/measured_now_supports_your_favorite_platform/)
 - [Question about Kotlin for Kotlin Devs](https://www.reddit.com/r/Kotlin/comments/1dizhbq/question_about_kotlin_for_kotlin_devs/)
 - [Kotlin Multiplatform Job Market: Will it Improve in the Future?](https://www.reddit.com/r/Kotlin/comments/1div6zq/kotlin_multiplatform_job_market_will_it_improve/)
-- [Take the survey to improve Kotlin test coverage tools](https://www.reddit.com/r/Kotlin/comments/1diu1wx/take_the_survey_to_improve_kotlin_test_coverage/)
-- [Create a tone when button pressed](https://www.reddit.com/r/Kotlin/comments/1ditw62/create_a_tone_when_button_pressed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
