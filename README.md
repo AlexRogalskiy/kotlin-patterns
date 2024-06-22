@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin Super Features: Null Safety](https://www.reddit.com/r/Kotlin/comments/1dk89ad/kotlin_super_features_null_safety/)
-- [Is there any code challenge platform specialized in Kotlin only?](https://www.reddit.com/r/Kotlin/comments/1dk88cx/is_there_any_code_challenge_platform_specialized/)
-- [compose desktop app gives error when converted to .exe](https://www.reddit.com/r/Kotlin/comments/1djjegj/compose_desktop_app_gives_error_when_converted_to/)
-- [[HELP] Disable Keyboard but Allow Text Pasting in TextField - Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1djiqo3/help_disable_keyboard_but_allow_text_pasting_in/)
-- [Using database relations to control code paths](https://www.reddit.com/r/Kotlin/comments/1djgjte/using_database_relations_to_control_code_paths/)
-- [A new technique to manage internal state of object, happened as embedding one language into Kotlin, shown to be easily integrated with Spring IoC and the Cake pattern, featuring a new style of programming](https://www.reddit.com/r/Kotlin/comments/1djfu9f/a_new_technique_to_manage_internal_state_of/)
-- [How to advocate that Kotlin is more than android development?](https://www.reddit.com/r/Kotlin/comments/1djaz2w/how_to_advocate_that_kotlin_is_more_than_android/)
-- [Measured now supports your favorite platform](https://www.reddit.com/r/Kotlin/comments/1dj8nkc/measured_now_supports_your_favorite_platform/)
-- [Question about Kotlin for Kotlin Devs](https://www.reddit.com/r/Kotlin/comments/1dizhbq/question_about_kotlin_for_kotlin_devs/)
-- [Kotlin Multiplatform Job Market: Will it Improve in the Future?](https://www.reddit.com/r/Kotlin/comments/1div6zq/kotlin_multiplatform_job_market_will_it_improve/)
+- [Add dependency to Kotlin Compose app](https://www.reddit.com/r/Kotlin/comments/1dlf4pv/add_dependency_to_kotlin_compose_app/)
+- [What AI do you use? Copilot or something else?](https://www.reddit.com/r/Kotlin/comments/1dl9tf4/what_ai_do_you_use_copilot_or_something_else/)
+- [Introducing iCore: Simplify Your Android Development! Provides base classes, extension functions, and various utility classes to reduce code duplication and speed up the development process.](https://www.reddit.com/r/Kotlin/comments/1dl8ar9/introducing_icore_simplify_your_android/)
+- [HTTP Benchmarking](https://www.reddit.com/r/Kotlin/comments/1dl80gy/http_benchmarking/)
+- [Introducing iCore: Simplify Your Android Development!](https://www.reddit.com/r/Kotlin/comments/1dl7xpa/introducing_icore_simplify_your_android/)
+- [how do i make my compose desktop app work on a pc that doesn&#39;t have a JDK?](https://www.reddit.com/r/Kotlin/comments/1dl0upc/how_do_i_make_my_compose_desktop_app_work_on_a_pc/)
+- [Is it possible to capture text from clipboard using bubbles API bubble that is floating on other apps?](https://www.reddit.com/r/Kotlin/comments/1dl0tm2/is_it_possible_to_capture_text_from_clipboard/)
+- [Kotlin Fundamentals: Null Safety](https://www.reddit.com/r/Kotlin/comments/1dky0ih/kotlin_fundamentals_null_safety/)
+- [Kotlin App Development Company](https://www.reddit.com/r/Kotlin/comments/1dkwj1f/kotlin_app_development_company/)
+- [Must kotlin forever depend on JVM?](https://www.reddit.com/r/Kotlin/comments/1dkwi2e/must_kotlin_forever_depend_on_jvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
