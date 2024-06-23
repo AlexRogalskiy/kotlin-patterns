@@ -272,9 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Very large image processing with Kotlin](https://www.reddit.com/r/Kotlin/comments/1dm0f5m/very_large_image_processing_with_kotlin/)
 - [Add dependency to Kotlin Compose app](https://www.reddit.com/r/Kotlin/comments/1dlf4pv/add_dependency_to_kotlin_compose_app/)
 - [What AI do you use? Copilot or something else?](https://www.reddit.com/r/Kotlin/comments/1dl9tf4/what_ai_do_you_use_copilot_or_something_else/)
-- [Introducing iCore: Simplify Your Android Development! Provides base classes, extension functions, and various utility classes to reduce code duplication and speed up the development process.](https://www.reddit.com/r/Kotlin/comments/1dl8ar9/introducing_icore_simplify_your_android/)
 - [HTTP Benchmarking](https://www.reddit.com/r/Kotlin/comments/1dl80gy/http_benchmarking/)
 - [Introducing iCore: Simplify Your Android Development!](https://www.reddit.com/r/Kotlin/comments/1dl7xpa/introducing_icore_simplify_your_android/)
 - [how do i make my compose desktop app work on a pc that doesn&#39;t have a JDK?](https://www.reddit.com/r/Kotlin/comments/1dl0upc/how_do_i_make_my_compose_desktop_app_work_on_a_pc/)
