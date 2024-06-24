@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Very large image processing with Kotlin](https://www.reddit.com/r/Kotlin/comments/1dm0f5m/very_large_image_processing_with_kotlin/)
-- [Add dependency to Kotlin Compose app](https://www.reddit.com/r/Kotlin/comments/1dlf4pv/add_dependency_to_kotlin_compose_app/)
-- [What AI do you use? Copilot or something else?](https://www.reddit.com/r/Kotlin/comments/1dl9tf4/what_ai_do_you_use_copilot_or_something_else/)
-- [HTTP Benchmarking](https://www.reddit.com/r/Kotlin/comments/1dl80gy/http_benchmarking/)
-- [Introducing iCore: Simplify Your Android Development!](https://www.reddit.com/r/Kotlin/comments/1dl7xpa/introducing_icore_simplify_your_android/)
-- [how do i make my compose desktop app work on a pc that doesn&#39;t have a JDK?](https://www.reddit.com/r/Kotlin/comments/1dl0upc/how_do_i_make_my_compose_desktop_app_work_on_a_pc/)
-- [Is it possible to capture text from clipboard using bubbles API bubble that is floating on other apps?](https://www.reddit.com/r/Kotlin/comments/1dl0tm2/is_it_possible_to_capture_text_from_clipboard/)
-- [Kotlin Fundamentals: Null Safety](https://www.reddit.com/r/Kotlin/comments/1dky0ih/kotlin_fundamentals_null_safety/)
-- [Kotlin App Development Company](https://www.reddit.com/r/Kotlin/comments/1dkwj1f/kotlin_app_development_company/)
-- [Must kotlin forever depend on JVM?](https://www.reddit.com/r/Kotlin/comments/1dkwi2e/must_kotlin_forever_depend_on_jvm/)
+- [I made a public playlist with all the talks from KotlinConf&#39;24](https://www.reddit.com/r/Kotlin/comments/1dn0y34/i_made_a_public_playlist_with_all_the_talks_from/)
+- [Any non-algo Kotlin exercises?](https://www.reddit.com/r/Kotlin/comments/1dn0hlg/any_nonalgo_kotlin_exercises/)
+- [Is &#39;Kotlin in Action&#39; 1st Edition still worth reading?](https://www.reddit.com/r/Kotlin/comments/1dmungo/is_kotlin_in_action_1st_edition_still_worth/)
+- [Is Kotlin a good choice to make compilers?](https://www.reddit.com/r/Kotlin/comments/1dmtb0k/is_kotlin_a_good_choice_to_make_compilers/)
+- [Learning Coroutines](https://www.reddit.com/r/Kotlin/comments/1dmqv1v/learning_coroutines/)
+- [Android audio error Is killing my Will to use kotlin](https://www.reddit.com/r/Kotlin/comments/1dmnyns/android_audio_error_is_killing_my_will_to_use/)
+- [Kotlin Coroutine mechanisms: launch v. async](https://www.reddit.com/r/Kotlin/comments/1dmjf2u/kotlin_coroutine_mechanisms_launch_v_async/)
+- [DTOs - Rest APIs](https://www.reddit.com/r/Kotlin/comments/1dmjd9o/dtos_rest_apis/)
+- [Exposed: How to get max&lpar;&rpar; value?](https://www.reddit.com/r/Kotlin/comments/1dmh0z8/exposed_how_to_get_max_value/)
+- [New to kotlin](https://www.reddit.com/r/Kotlin/comments/1dmeugs/new_to_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
