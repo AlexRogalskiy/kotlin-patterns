@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Fundamentals: Explicit Mutability](https://www.reddit.com/r/Kotlin/comments/1do33jj/kotlin_fundamentals_explicit_mutability/)
 - [KotlinConf24 talk - Free the world from wasteful scheduling with Timefold AI](https://www.reddit.com/r/Kotlin/comments/1dn9u34/kotlinconf24_talk_free_the_world_from_wasteful/)
 - [Seeking Feedback for a New App Designed for Programmers! 🚀](https://www.reddit.com/r/Kotlin/comments/1dn6erc/seeking_feedback_for_a_new_app_designed_for/)
 - [Is it a good idea to make a SAAS project with Kotlin Multiplatform compose including mobile, web, desktop and backend?](https://www.reddit.com/r/Kotlin/comments/1dn5ns2/is_it_a_good_idea_to_make_a_saas_project_with/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Is &#39;Kotlin in Action&#39; 1st Edition still worth reading?](https://www.reddit.com/r/Kotlin/comments/1dmungo/is_kotlin_in_action_1st_edition_still_worth/)
 - [Is Kotlin a good choice to make compilers?](https://www.reddit.com/r/Kotlin/comments/1dmtb0k/is_kotlin_a_good_choice_to_make_compilers/)
 - [Learning Coroutines](https://www.reddit.com/r/Kotlin/comments/1dmqv1v/learning_coroutines/)
-- [Android audio error Is killing my Will to use kotlin](https://www.reddit.com/r/Kotlin/comments/1dmnyns/android_audio_error_is_killing_my_will_to_use/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
