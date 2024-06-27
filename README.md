@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help JetBrains improve SPM &amp; KMP integration – get rewarded!](https://www.reddit.com/r/Kotlin/comments/1dp79hs/help_jetbrains_improve_spm_kmp_integration_get/)
+- [Video: 7 Standard Library Features You Might Have Overlooked](https://www.reddit.com/r/Kotlin/comments/1dp0pin/video_7_standard_library_features_you_might_have/)
+- [Kotlin Multiplatform Review?](https://www.reddit.com/r/Kotlin/comments/1dozitq/kotlin_multiplatform_review/)
+- [The Future of Kotlin and Hidden Gems - Weekly Tech Tidbits #4 - Kotlin Special](https://www.reddit.com/r/Kotlin/comments/1dovu1k/the_future_of_kotlin_and_hidden_gems_weekly_tech/)
+- [My first app on Google Play Market. Could really use a feedback](https://www.reddit.com/r/Kotlin/comments/1dopjjn/my_first_app_on_google_play_market_could_really/)
 - [Kotlin Fundamentals: Explicit Mutability](https://www.reddit.com/r/Kotlin/comments/1do33jj/kotlin_fundamentals_explicit_mutability/)
 - [KotlinConf24 talk - Free the world from wasteful scheduling with Timefold AI](https://www.reddit.com/r/Kotlin/comments/1dn9u34/kotlinconf24_talk_free_the_world_from_wasteful/)
 - [Seeking Feedback for a New App Designed for Programmers! 🚀](https://www.reddit.com/r/Kotlin/comments/1dn6erc/seeking_feedback_for_a_new_app_designed_for/)
 - [Is it a good idea to make a SAAS project with Kotlin Multiplatform compose including mobile, web, desktop and backend?](https://www.reddit.com/r/Kotlin/comments/1dn5ns2/is_it_a_good_idea_to_make_a_saas_project_with/)
 - [Extending Spring ResponseEntityExceptionHandler and overriding Method with Different Return Type](https://www.reddit.com/r/Kotlin/comments/1dn30pz/extending_spring_responseentityexceptionhandler/)
-- [I made a public playlist with all the talks from KotlinConf&#39;24](https://www.reddit.com/r/Kotlin/comments/1dn0y34/i_made_a_public_playlist_with_all_the_talks_from/)
-- [Any non-algo Kotlin exercises?](https://www.reddit.com/r/Kotlin/comments/1dn0hlg/any_nonalgo_kotlin_exercises/)
-- [Is &#39;Kotlin in Action&#39; 1st Edition still worth reading?](https://www.reddit.com/r/Kotlin/comments/1dmungo/is_kotlin_in_action_1st_edition_still_worth/)
-- [Is Kotlin a good choice to make compilers?](https://www.reddit.com/r/Kotlin/comments/1dmtb0k/is_kotlin_a_good_choice_to_make_compilers/)
-- [Learning Coroutines](https://www.reddit.com/r/Kotlin/comments/1dmqv1v/learning_coroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
