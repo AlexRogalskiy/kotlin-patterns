@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gradle Properties](https://www.reddit.com/r/Kotlin/comments/1dq05f2/gradle_properties/)
+- [Open-Sourced My Kotlin Multiplatform Project - FlickFusion! 🚀](https://www.reddit.com/r/Kotlin/comments/1dpq1of/opensourced_my_kotlin_multiplatform_project/)
+- [Message in a bottle](https://www.reddit.com/r/Kotlin/comments/1dplu8j/message_in_a_bottle/)
+- [Compose Multiplatform WASM/Desktop](https://www.reddit.com/r/Kotlin/comments/1dpl6u7/compose_multiplatform_wasmdesktop/)
+- [Online IDE and Compiler for Kotlin](https://www.reddit.com/r/Kotlin/comments/1dpj6pu/online_ide_and_compiler_for_kotlin/)
+- [How to properly set up MongoDb realm for Android kotlin using libs.versions ?](https://www.reddit.com/r/Kotlin/comments/1dpiw5b/how_to_properly_set_up_mongodb_realm_for_android/)
+- [Need help getting user input for text analysis](https://www.reddit.com/r/Kotlin/comments/1dpi2zl/need_help_getting_user_input_for_text_analysis/)
 - [Help JetBrains improve SPM &amp; KMP integration – get rewarded!](https://www.reddit.com/r/Kotlin/comments/1dp79hs/help_jetbrains_improve_spm_kmp_integration_get/)
 - [Video: 7 Standard Library Features You Might Have Overlooked](https://www.reddit.com/r/Kotlin/comments/1dp0pin/video_7_standard_library_features_you_might_have/)
 - [Kotlin Multiplatform Review?](https://www.reddit.com/r/Kotlin/comments/1dozitq/kotlin_multiplatform_review/)
-- [The Future of Kotlin and Hidden Gems - Weekly Tech Tidbits #4 - Kotlin Special](https://www.reddit.com/r/Kotlin/comments/1dovu1k/the_future_of_kotlin_and_hidden_gems_weekly_tech/)
-- [My first app on Google Play Market. Could really use a feedback](https://www.reddit.com/r/Kotlin/comments/1dopjjn/my_first_app_on_google_play_market_could_really/)
-- [Kotlin Fundamentals: Explicit Mutability](https://www.reddit.com/r/Kotlin/comments/1do33jj/kotlin_fundamentals_explicit_mutability/)
-- [KotlinConf24 talk - Free the world from wasteful scheduling with Timefold AI](https://www.reddit.com/r/Kotlin/comments/1dn9u34/kotlinconf24_talk_free_the_world_from_wasteful/)
-- [Seeking Feedback for a New App Designed for Programmers! 🚀](https://www.reddit.com/r/Kotlin/comments/1dn6erc/seeking_feedback_for_a_new_app_designed_for/)
-- [Is it a good idea to make a SAAS project with Kotlin Multiplatform compose including mobile, web, desktop and backend?](https://www.reddit.com/r/Kotlin/comments/1dn5ns2/is_it_a_good_idea_to_make_a_saas_project_with/)
-- [Extending Spring ResponseEntityExceptionHandler and overriding Method with Different Return Type](https://www.reddit.com/r/Kotlin/comments/1dn30pz/extending_spring_responseentityexceptionhandler/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
