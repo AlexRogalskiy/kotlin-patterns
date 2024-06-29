@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktor: How to send email in a separate &quot;thread&quot;](https://www.reddit.com/r/Kotlin/comments/1dqvlj7/ktor_how_to_send_email_in_a_separate_thread/)
+- [How Coroutines Know When to Resume or Suspend: A Deep Dive with Examples](https://www.reddit.com/r/Kotlin/comments/1dqtyfo/how_coroutines_know_when_to_resume_or_suspend_a/)
+- [Resources on coroutines](https://www.reddit.com/r/Kotlin/comments/1dqnmcl/resources_on_coroutines/)
+- [Kotlin Multiplatform Multipart file upload using Ktor &lpar;streaming&rpar;](https://www.reddit.com/r/Kotlin/comments/1dqmvps/kotlin_multiplatform_multipart_file_upload_using/)
+- [Animation Chaining with Doodle](https://www.reddit.com/r/Kotlin/comments/1dqmt84/animation_chaining_with_doodle/)
+- [Coroutines without runBlocking](https://www.reddit.com/r/Kotlin/comments/1dqmqx9/coroutines_without_runblocking/)
+- [Rekwire](https://www.reddit.com/r/Kotlin/comments/1dqlad1/rekwire/)
+- [Refactoring to the Repository Pattern](https://www.reddit.com/r/Kotlin/comments/1dqjnpa/refactoring_to_the_repository_pattern/)
+- [Kotlin Multiplattform read Config File](https://www.reddit.com/r/Kotlin/comments/1dqemuy/kotlin_multiplattform_read_config_file/)
 - [Gradle Properties](https://www.reddit.com/r/Kotlin/comments/1dq05f2/gradle_properties/)
-- [Open-Sourced My Kotlin Multiplatform Project - FlickFusion! 🚀](https://www.reddit.com/r/Kotlin/comments/1dpq1of/opensourced_my_kotlin_multiplatform_project/)
-- [Message in a bottle](https://www.reddit.com/r/Kotlin/comments/1dplu8j/message_in_a_bottle/)
-- [Compose Multiplatform WASM/Desktop](https://www.reddit.com/r/Kotlin/comments/1dpl6u7/compose_multiplatform_wasmdesktop/)
-- [Online IDE and Compiler for Kotlin](https://www.reddit.com/r/Kotlin/comments/1dpj6pu/online_ide_and_compiler_for_kotlin/)
-- [How to properly set up MongoDb realm for Android kotlin using libs.versions ?](https://www.reddit.com/r/Kotlin/comments/1dpiw5b/how_to_properly_set_up_mongodb_realm_for_android/)
-- [Need help getting user input for text analysis](https://www.reddit.com/r/Kotlin/comments/1dpi2zl/need_help_getting_user_input_for_text_analysis/)
-- [Help JetBrains improve SPM &amp; KMP integration – get rewarded!](https://www.reddit.com/r/Kotlin/comments/1dp79hs/help_jetbrains_improve_spm_kmp_integration_get/)
-- [Video: 7 Standard Library Features You Might Have Overlooked](https://www.reddit.com/r/Kotlin/comments/1dp0pin/video_7_standard_library_features_you_might_have/)
-- [Kotlin Multiplatform Review?](https://www.reddit.com/r/Kotlin/comments/1dozitq/kotlin_multiplatform_review/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
