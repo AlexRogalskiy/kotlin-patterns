@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are some recommended approaches for managing API requests/response objects in a KMP project?](https://www.reddit.com/r/Kotlin/comments/1drnvl5/what_are_some_recommended_approaches_for_managing/)
+- [Best practices for Kotlin generated classes with protobuf + grpc?](https://www.reddit.com/r/Kotlin/comments/1drl0zw/best_practices_for_kotlin_generated_classes_with/)
+- [Any good open-source android projects?](https://www.reddit.com/r/Kotlin/comments/1drj3mg/any_good_opensource_android_projects/)
+- [Anyone try out Kotlin RPC yet?](https://www.reddit.com/r/Kotlin/comments/1drh5vg/anyone_try_out_kotlin_rpc_yet/)
+- [What is the difference between listOf&lpar;key to value&rpar; and mapOf&lpar;key to value&rpar;](https://www.reddit.com/r/Kotlin/comments/1dr3mg1/what_is_the_difference_between_listofkey_to_value/)
 - [Ktor: How to send email in a separate &quot;thread&quot;](https://www.reddit.com/r/Kotlin/comments/1dqvlj7/ktor_how_to_send_email_in_a_separate_thread/)
-- [How Coroutines Know When to Resume or Suspend: A Deep Dive with Examples](https://www.reddit.com/r/Kotlin/comments/1dqtyfo/how_coroutines_know_when_to_resume_or_suspend_a/)
 - [Resources on coroutines](https://www.reddit.com/r/Kotlin/comments/1dqnmcl/resources_on_coroutines/)
 - [Kotlin Multiplatform Multipart file upload using Ktor &lpar;streaming&rpar;](https://www.reddit.com/r/Kotlin/comments/1dqmvps/kotlin_multiplatform_multipart_file_upload_using/)
 - [Animation Chaining with Doodle](https://www.reddit.com/r/Kotlin/comments/1dqmt84/animation_chaining_with_doodle/)
 - [Coroutines without runBlocking](https://www.reddit.com/r/Kotlin/comments/1dqmqx9/coroutines_without_runblocking/)
-- [Rekwire](https://www.reddit.com/r/Kotlin/comments/1dqlad1/rekwire/)
-- [Refactoring to the Repository Pattern](https://www.reddit.com/r/Kotlin/comments/1dqjnpa/refactoring_to_the_repository_pattern/)
-- [Kotlin Multiplattform read Config File](https://www.reddit.com/r/Kotlin/comments/1dqemuy/kotlin_multiplattform_read_config_file/)
-- [Gradle Properties](https://www.reddit.com/r/Kotlin/comments/1dq05f2/gradle_properties/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
