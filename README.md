@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with Code Static/Behavior Analysis](https://www.reddit.com/r/Kotlin/comments/1ds5hor/help_with_code_staticbehavior_analysis/)
+- [Android Support for Kotlin Multiplatform to Share Business Logic Across Mobile, Web, Server, and Desktop Platforms](https://www.reddit.com/r/Kotlin/comments/1ds5981/android_support_for_kotlin_multiplatform_to_share/)
+- [compose muliplatform output for deskop](https://www.reddit.com/r/Kotlin/comments/1ds42kb/compose_muliplatform_output_for_deskop/)
 - [What are some recommended approaches for managing API requests/response objects in a KMP project?](https://www.reddit.com/r/Kotlin/comments/1drnvl5/what_are_some_recommended_approaches_for_managing/)
 - [Best practices for Kotlin generated classes with protobuf + grpc?](https://www.reddit.com/r/Kotlin/comments/1drl0zw/best_practices_for_kotlin_generated_classes_with/)
 - [Any good open-source android projects?](https://www.reddit.com/r/Kotlin/comments/1drj3mg/any_good_opensource_android_projects/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between listOf&lpar;key to value&rpar; and mapOf&lpar;key to value&rpar;](https://www.reddit.com/r/Kotlin/comments/1dr3mg1/what_is_the_difference_between_listofkey_to_value/)
 - [Ktor: How to send email in a separate &quot;thread&quot;](https://www.reddit.com/r/Kotlin/comments/1dqvlj7/ktor_how_to_send_email_in_a_separate_thread/)
 - [Resources on coroutines](https://www.reddit.com/r/Kotlin/comments/1dqnmcl/resources_on_coroutines/)
-- [Kotlin Multiplatform Multipart file upload using Ktor &lpar;streaming&rpar;](https://www.reddit.com/r/Kotlin/comments/1dqmvps/kotlin_multiplatform_multipart_file_upload_using/)
-- [Animation Chaining with Doodle](https://www.reddit.com/r/Kotlin/comments/1dqmt84/animation_chaining_with_doodle/)
-- [Coroutines without runBlocking](https://www.reddit.com/r/Kotlin/comments/1dqmqx9/coroutines_without_runblocking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
