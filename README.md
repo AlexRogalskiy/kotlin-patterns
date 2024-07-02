@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Unresolved Refference: kord when importing the library](https://www.reddit.com/r/Kotlin/comments/1dt1bph/unresolved_refference_kord_when_importing_the/)
+- [Introducing Mutant-Kraken! A Mutation Testing Tool For Kotlin 🐙](https://www.reddit.com/r/Kotlin/comments/1dsyzlg/introducing_mutantkraken_a_mutation_testing_tool/)
+- [Coroutine Essentials - Kotlin Illustrated Guide, Chapter 20](https://www.reddit.com/r/Kotlin/comments/1dstxqk/coroutine_essentials_kotlin_illustrated_guide/)
+- [Grab a view using a string](https://www.reddit.com/r/Kotlin/comments/1dstmg2/grab_a_view_using_a_string/)
+- [Learning Kotlin - Web Requests Help](https://www.reddit.com/r/Kotlin/comments/1dssp9h/learning_kotlin_web_requests_help/)
+- [Event-driven architecture on the modern stack of Java technologies](https://www.reddit.com/r/Kotlin/comments/1dspra7/eventdriven_architecture_on_the_modern_stack_of/)
+- [Concurrency : dart-lang. vs. kotlin-lang. vs go-lang.](https://www.reddit.com/r/Kotlin/comments/1dsnkmp/concurrency_dartlang_vs_kotlinlang_vs_golang/)
 - [Help with Code Static/Behavior Analysis](https://www.reddit.com/r/Kotlin/comments/1ds5hor/help_with_code_staticbehavior_analysis/)
 - [Android Support for Kotlin Multiplatform to Share Business Logic Across Mobile, Web, Server, and Desktop Platforms](https://www.reddit.com/r/Kotlin/comments/1ds5981/android_support_for_kotlin_multiplatform_to_share/)
 - [compose muliplatform output for deskop](https://www.reddit.com/r/Kotlin/comments/1ds42kb/compose_muliplatform_output_for_deskop/)
-- [What are some recommended approaches for managing API requests/response objects in a KMP project?](https://www.reddit.com/r/Kotlin/comments/1drnvl5/what_are_some_recommended_approaches_for_managing/)
-- [Best practices for Kotlin generated classes with protobuf + grpc?](https://www.reddit.com/r/Kotlin/comments/1drl0zw/best_practices_for_kotlin_generated_classes_with/)
-- [Any good open-source android projects?](https://www.reddit.com/r/Kotlin/comments/1drj3mg/any_good_opensource_android_projects/)
-- [Anyone try out Kotlin RPC yet?](https://www.reddit.com/r/Kotlin/comments/1drh5vg/anyone_try_out_kotlin_rpc_yet/)
-- [What is the difference between listOf&lpar;key to value&rpar; and mapOf&lpar;key to value&rpar;](https://www.reddit.com/r/Kotlin/comments/1dr3mg1/what_is_the_difference_between_listofkey_to_value/)
-- [Ktor: How to send email in a separate &quot;thread&quot;](https://www.reddit.com/r/Kotlin/comments/1dqvlj7/ktor_how_to_send_email_in_a_separate_thread/)
-- [Resources on coroutines](https://www.reddit.com/r/Kotlin/comments/1dqnmcl/resources_on_coroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
