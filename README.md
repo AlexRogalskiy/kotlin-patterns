@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kotlinpoet alternatives with ksp?](https://www.reddit.com/r/Kotlin/comments/1dtz68v/kotlinpoet_alternatives_with_ksp/)
+- [Need help understanding why notification isn&#39;t showing up for media player and why play/pause buttons aren&#39;t working with exoplayer](https://www.reddit.com/r/Kotlin/comments/1dtwyte/need_help_understanding_why_notification_isnt/)
+- [How to Configure Nginx to Serve a Kotlin Multiplatform Project Wasm Website Built with Gradle?](https://www.reddit.com/r/Kotlin/comments/1dtvql1/how_to_configure_nginx_to_serve_a_kotlin/)
+- [Best tutorials to learn the basics asap?](https://www.reddit.com/r/Kotlin/comments/1dtsdsm/best_tutorials_to_learn_the_basics_asap/)
+- [need suggestions for choosing backend framework](https://www.reddit.com/r/Kotlin/comments/1dts9me/need_suggestions_for_choosing_backend_framework/)
+- [About a swing-window game](https://www.reddit.com/r/Kotlin/comments/1dtpgd5/about_a_swingwindow_game/)
 - [Unresolved Refference: kord when importing the library](https://www.reddit.com/r/Kotlin/comments/1dt1bph/unresolved_refference_kord_when_importing_the/)
 - [Introducing Mutant-Kraken! A Mutation Testing Tool For Kotlin 🐙](https://www.reddit.com/r/Kotlin/comments/1dsyzlg/introducing_mutantkraken_a_mutation_testing_tool/)
 - [Coroutine Essentials - Kotlin Illustrated Guide, Chapter 20](https://www.reddit.com/r/Kotlin/comments/1dstxqk/coroutine_essentials_kotlin_illustrated_guide/)
 - [Grab a view using a string](https://www.reddit.com/r/Kotlin/comments/1dstmg2/grab_a_view_using_a_string/)
-- [Learning Kotlin - Web Requests Help](https://www.reddit.com/r/Kotlin/comments/1dssp9h/learning_kotlin_web_requests_help/)
-- [Event-driven architecture on the modern stack of Java technologies](https://www.reddit.com/r/Kotlin/comments/1dspra7/eventdriven_architecture_on_the_modern_stack_of/)
-- [Concurrency : dart-lang. vs. kotlin-lang. vs go-lang.](https://www.reddit.com/r/Kotlin/comments/1dsnkmp/concurrency_dartlang_vs_kotlinlang_vs_golang/)
-- [Help with Code Static/Behavior Analysis](https://www.reddit.com/r/Kotlin/comments/1ds5hor/help_with_code_staticbehavior_analysis/)
-- [Android Support for Kotlin Multiplatform to Share Business Logic Across Mobile, Web, Server, and Desktop Platforms](https://www.reddit.com/r/Kotlin/comments/1ds5981/android_support_for_kotlin_multiplatform_to_share/)
-- [compose muliplatform output for deskop](https://www.reddit.com/r/Kotlin/comments/1ds42kb/compose_muliplatform_output_for_deskop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
