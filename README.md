@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [kotlinpoet alternatives with ksp?](https://www.reddit.com/r/Kotlin/comments/1dtz68v/kotlinpoet_alternatives_with_ksp/)
-- [Need help understanding why notification isn&#39;t showing up for media player and why play/pause buttons aren&#39;t working with exoplayer](https://www.reddit.com/r/Kotlin/comments/1dtwyte/need_help_understanding_why_notification_isnt/)
-- [How to Configure Nginx to Serve a Kotlin Multiplatform Project Wasm Website Built with Gradle?](https://www.reddit.com/r/Kotlin/comments/1dtvql1/how_to_configure_nginx_to_serve_a_kotlin/)
-- [Best tutorials to learn the basics asap?](https://www.reddit.com/r/Kotlin/comments/1dtsdsm/best_tutorials_to_learn_the_basics_asap/)
-- [need suggestions for choosing backend framework](https://www.reddit.com/r/Kotlin/comments/1dts9me/need_suggestions_for_choosing_backend_framework/)
-- [About a swing-window game](https://www.reddit.com/r/Kotlin/comments/1dtpgd5/about_a_swingwindow_game/)
-- [Unresolved Refference: kord when importing the library](https://www.reddit.com/r/Kotlin/comments/1dt1bph/unresolved_refference_kord_when_importing_the/)
-- [Introducing Mutant-Kraken! A Mutation Testing Tool For Kotlin 🐙](https://www.reddit.com/r/Kotlin/comments/1dsyzlg/introducing_mutantkraken_a_mutation_testing_tool/)
-- [Coroutine Essentials - Kotlin Illustrated Guide, Chapter 20](https://www.reddit.com/r/Kotlin/comments/1dstxqk/coroutine_essentials_kotlin_illustrated_guide/)
-- [Grab a view using a string](https://www.reddit.com/r/Kotlin/comments/1dstmg2/grab_a_view_using_a_string/)
+- [Android Studio](https://www.reddit.com/r/Kotlin/comments/1dupr3d/android_studio/)
+- [Kweb is discontinued](https://www.reddit.com/r/Kotlin/comments/1dupa4l/kweb_is_discontinued/)
+- [Fleet 1.37 Is Out! Introducing AI Code Completion for Java, Folding Imports by Default, Soft Wraps for Markdown and Asciidoc, and Other Enhancements](https://www.reddit.com/r/Kotlin/comments/1dugsi5/fleet_137_is_out_introducing_ai_code_completion/)
+- [Kotlin Fundamentals : Extension Functions](https://www.reddit.com/r/Kotlin/comments/1dugkvv/kotlin_fundamentals_extension_functions/)
+- [Android Crypto Samples - bunch of crypto samples for crypto-curious Android developers](https://www.reddit.com/r/Kotlin/comments/1dufi8m/android_crypto_samples_bunch_of_crypto_samples/)
+- [Anyone want to be my startup co-founder?](https://www.reddit.com/r/Kotlin/comments/1duc8mw/anyone_want_to_be_my_startup_cofounder/)
+- [Need advice regarding best practices for a new project](https://www.reddit.com/r/Kotlin/comments/1dubnwv/need_advice_regarding_best_practices_for_a_new/)
+- [Kotlin&#39;s Scan Function, Fantastic Learning Paths, And More - Weekly Tech Tidbits #5](https://www.reddit.com/r/Kotlin/comments/1dubd4t/kotlins_scan_function_fantastic_learning_paths/)
+- [What is this type signature called?](https://www.reddit.com/r/Kotlin/comments/1du7gbd/what_is_this_type_signature_called/)
+- [What should i learn next to be better at app dev](https://www.reddit.com/r/Kotlin/comments/1du4znq/what_should_i_learn_next_to_be_better_at_app_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
