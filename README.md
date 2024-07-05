@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Struggling with Android Development: Seeking Advice and Resources](https://www.reddit.com/r/Kotlin/comments/1dvh497/struggling_with_android_development_seeking/)
+- [KVision and Doodle](https://www.reddit.com/r/Kotlin/comments/1dvdx95/kvision_and_doodle/)
+- [Advertising opportunity](https://www.reddit.com/r/Kotlin/comments/1dv9vlz/advertising_opportunity/)
+- [i have problem with kotlin code](https://www.reddit.com/r/Kotlin/comments/1dv8y8z/i_have_problem_with_kotlin_code/)
+- [Maven Central introduces Rate Limits to prevent Tragedy of the Commons](https://www.reddit.com/r/Kotlin/comments/1dv6xlt/maven_central_introduces_rate_limits_to_prevent/)
+- [Double number showing different values after decimal point in different views](https://www.reddit.com/r/Kotlin/comments/1dv3qo7/double_number_showing_different_values_after/)
+- [Exposed: Get foreign key ID without query](https://www.reddit.com/r/Kotlin/comments/1dv1n6v/exposed_get_foreign_key_id_without_query/)
+- [Looking for a learning partner](https://www.reddit.com/r/Kotlin/comments/1duyg7q/looking_for_a_learning_partner/)
 - [Android Studio](https://www.reddit.com/r/Kotlin/comments/1dupr3d/android_studio/)
 - [Kweb is discontinued](https://www.reddit.com/r/Kotlin/comments/1dupa4l/kweb_is_discontinued/)
-- [Fleet 1.37 Is Out! Introducing AI Code Completion for Java, Folding Imports by Default, Soft Wraps for Markdown and Asciidoc, and Other Enhancements](https://www.reddit.com/r/Kotlin/comments/1dugsi5/fleet_137_is_out_introducing_ai_code_completion/)
-- [Kotlin Fundamentals : Extension Functions](https://www.reddit.com/r/Kotlin/comments/1dugkvv/kotlin_fundamentals_extension_functions/)
-- [Android Crypto Samples - bunch of crypto samples for crypto-curious Android developers](https://www.reddit.com/r/Kotlin/comments/1dufi8m/android_crypto_samples_bunch_of_crypto_samples/)
-- [Anyone want to be my startup co-founder?](https://www.reddit.com/r/Kotlin/comments/1duc8mw/anyone_want_to_be_my_startup_cofounder/)
-- [Need advice regarding best practices for a new project](https://www.reddit.com/r/Kotlin/comments/1dubnwv/need_advice_regarding_best_practices_for_a_new/)
-- [Kotlin&#39;s Scan Function, Fantastic Learning Paths, And More - Weekly Tech Tidbits #5](https://www.reddit.com/r/Kotlin/comments/1dubd4t/kotlins_scan_function_fantastic_learning_paths/)
-- [What is this type signature called?](https://www.reddit.com/r/Kotlin/comments/1du7gbd/what_is_this_type_signature_called/)
-- [What should i learn next to be better at app dev](https://www.reddit.com/r/Kotlin/comments/1du4znq/what_should_i_learn_next_to_be_better_at_app_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
