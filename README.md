@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How Can I Improve My Android Coding Skills? Seeking Tips from Experienced Developers](https://www.reddit.com/r/Kotlin/comments/1dw0x0y/how_can_i_improve_my_android_coding_skills/)
+- [Can I develop Kotlin with other IDEs that are not Jetbrains?](https://www.reddit.com/r/Kotlin/comments/1dvx5lq/can_i_develop_kotlin_with_other_ides_that_are_not/)
+- [Kotlin and Java Dynamic Proxies](https://www.reddit.com/r/Kotlin/comments/1dvv971/kotlin_and_java_dynamic_proxies/)
 - [Struggling with Android Development: Seeking Advice and Resources](https://www.reddit.com/r/Kotlin/comments/1dvh497/struggling_with_android_development_seeking/)
 - [KVision and Doodle](https://www.reddit.com/r/Kotlin/comments/1dvdx95/kvision_and_doodle/)
 - [Advertising opportunity](https://www.reddit.com/r/Kotlin/comments/1dv9vlz/advertising_opportunity/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Maven Central introduces Rate Limits to prevent Tragedy of the Commons](https://www.reddit.com/r/Kotlin/comments/1dv6xlt/maven_central_introduces_rate_limits_to_prevent/)
 - [Double number showing different values after decimal point in different views](https://www.reddit.com/r/Kotlin/comments/1dv3qo7/double_number_showing_different_values_after/)
 - [Exposed: Get foreign key ID without query](https://www.reddit.com/r/Kotlin/comments/1dv1n6v/exposed_get_foreign_key_id_without_query/)
-- [Looking for a learning partner](https://www.reddit.com/r/Kotlin/comments/1duyg7q/looking_for_a_learning_partner/)
-- [Android Studio](https://www.reddit.com/r/Kotlin/comments/1dupr3d/android_studio/)
-- [Kweb is discontinued](https://www.reddit.com/r/Kotlin/comments/1dupa4l/kweb_is_discontinued/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
