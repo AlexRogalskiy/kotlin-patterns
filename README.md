@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Source to learn kotlin android studio](https://www.reddit.com/r/Kotlin/comments/1dx1hua/source_to_learn_kotlin_android_studio/)
+- [I think Ive been using the wrong Kotlin](https://www.reddit.com/r/Kotlin/comments/1dwty8h/i_think_ive_been_using_the_wrong_kotlin/)
+- [Have you ever head about Domain-Driven Tests &lpar;or pesticide lib&rpar;?](https://www.reddit.com/r/Kotlin/comments/1dwtdbm/have_you_ever_head_about_domaindriven_tests_or/)
+- [Starter in android development](https://www.reddit.com/r/Kotlin/comments/1dwrxi3/starter_in_android_development/)
+- [Build.gradle import error, path is right.](https://www.reddit.com/r/Kotlin/comments/1dwrf8z/buildgradle_import_error_path_is_right/)
 - [How Can I Improve My Android Coding Skills? Seeking Tips from Experienced Developers](https://www.reddit.com/r/Kotlin/comments/1dw0x0y/how_can_i_improve_my_android_coding_skills/)
 - [Can I develop Kotlin with other IDEs that are not Jetbrains?](https://www.reddit.com/r/Kotlin/comments/1dvx5lq/can_i_develop_kotlin_with_other_ides_that_are_not/)
 - [Kotlin and Java Dynamic Proxies](https://www.reddit.com/r/Kotlin/comments/1dvv971/kotlin_and_java_dynamic_proxies/)
 - [Struggling with Android Development: Seeking Advice and Resources](https://www.reddit.com/r/Kotlin/comments/1dvh497/struggling_with_android_development_seeking/)
 - [KVision and Doodle](https://www.reddit.com/r/Kotlin/comments/1dvdx95/kvision_and_doodle/)
-- [Advertising opportunity](https://www.reddit.com/r/Kotlin/comments/1dv9vlz/advertising_opportunity/)
-- [i have problem with kotlin code](https://www.reddit.com/r/Kotlin/comments/1dv8y8z/i_have_problem_with_kotlin_code/)
-- [Maven Central introduces Rate Limits to prevent Tragedy of the Commons](https://www.reddit.com/r/Kotlin/comments/1dv6xlt/maven_central_introduces_rate_limits_to_prevent/)
-- [Double number showing different values after decimal point in different views](https://www.reddit.com/r/Kotlin/comments/1dv3qo7/double_number_showing_different_values_after/)
-- [Exposed: Get foreign key ID without query](https://www.reddit.com/r/Kotlin/comments/1dv1n6v/exposed_get_foreign_key_id_without_query/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
