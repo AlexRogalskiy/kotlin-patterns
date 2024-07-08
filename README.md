@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [HELP ME I NEW](https://www.reddit.com/r/Kotlin/comments/1dxrdz0/help_me_i_new/)
+- [RxJava to Kotlin Coroutines: The Ultimate Migration Guide](https://www.reddit.com/r/Kotlin/comments/1dxq5ew/rxjava_to_kotlin_coroutines_the_ultimate/)
+- [Can I build a TUI Application using Kotlin?](https://www.reddit.com/r/Kotlin/comments/1dxnkgv/can_i_build_a_tui_application_using_kotlin/)
+- [implement foreground services](https://www.reddit.com/r/Kotlin/comments/1dxm3xa/implement_foreground_services/)
 - [Source to learn kotlin android studio](https://www.reddit.com/r/Kotlin/comments/1dx1hua/source_to_learn_kotlin_android_studio/)
-- [I think Ive been using the wrong Kotlin](https://www.reddit.com/r/Kotlin/comments/1dwty8h/i_think_ive_been_using_the_wrong_kotlin/)
 - [Have you ever head about Domain-Driven Tests &lpar;or pesticide lib&rpar;?](https://www.reddit.com/r/Kotlin/comments/1dwtdbm/have_you_ever_head_about_domaindriven_tests_or/)
 - [Starter in android development](https://www.reddit.com/r/Kotlin/comments/1dwrxi3/starter_in_android_development/)
 - [Build.gradle import error, path is right.](https://www.reddit.com/r/Kotlin/comments/1dwrf8z/buildgradle_import_error_path_is_right/)
 - [How Can I Improve My Android Coding Skills? Seeking Tips from Experienced Developers](https://www.reddit.com/r/Kotlin/comments/1dw0x0y/how_can_i_improve_my_android_coding_skills/)
 - [Can I develop Kotlin with other IDEs that are not Jetbrains?](https://www.reddit.com/r/Kotlin/comments/1dvx5lq/can_i_develop_kotlin_with_other_ides_that_are_not/)
-- [Kotlin and Java Dynamic Proxies](https://www.reddit.com/r/Kotlin/comments/1dvv971/kotlin_and_java_dynamic_proxies/)
-- [Struggling with Android Development: Seeking Advice and Resources](https://www.reddit.com/r/Kotlin/comments/1dvh497/struggling_with_android_development_seeking/)
-- [KVision and Doodle](https://www.reddit.com/r/Kotlin/comments/1dvdx95/kvision_and_doodle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
