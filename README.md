@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thinking of building a service using Spring Boot. Should I use Kotlin or Java?](https://www.reddit.com/r/Kotlin/comments/1e0apwe/thinking_of_building_a_service_using_spring_boot/)
+- [New blog post: Enhanced Column Selection DSL in Kotlin DataFrame.](https://www.reddit.com/r/Kotlin/comments/1e01uvk/new_blog_post_enhanced_column_selection_dsl_in/)
+- [Video: Kotlin Code Reuse - Composing like you&#39;re Inheriting](https://www.reddit.com/r/Kotlin/comments/1dzxz3p/video_kotlin_code_reuse_composing_like_youre/)
+- [Is there a gap between Channels and Flows?](https://www.reddit.com/r/Kotlin/comments/1dzuur6/is_there_a_gap_between_channels_and_flows/)
 - [Anyway to use tika in kotlkn native](https://www.reddit.com/r/Kotlin/comments/1dzh4t2/anyway_to_use_tika_in_kotlkn_native/)
 - [Copy Text to clipboard WASM](https://www.reddit.com/r/Kotlin/comments/1dzdl82/copy_text_to_clipboard_wasm/)
 - [Scaffold problem](https://www.reddit.com/r/Kotlin/comments/1dzb3em/scaffold_problem/)
 - [why 1 doesn&#39;t work?](https://www.reddit.com/r/Kotlin/comments/1dzaqb0/why_1_doesnt_work/)
 - [need some help with ktor plug-ins](https://www.reddit.com/r/Kotlin/comments/1dz2jy4/need_some_help_with_ktor_plugins/)
 - [Draw a divider between each row in a flow row](https://www.reddit.com/r/Kotlin/comments/1dyofpt/draw_a_divider_between_each_row_in_a_flow_row/)
-- [Can the Kotlin compiler optimize out unnecessary allocations?](https://www.reddit.com/r/Kotlin/comments/1dydlip/can_the_kotlin_compiler_optimize_out_unnecessary/)
-- [Kotlin Fundamentals : Data Classes](https://www.reddit.com/r/Kotlin/comments/1dy9q8r/kotlin_fundamentals_data_classes/)
-- [Am I able to learn MongoDb for Kotlin with a Java course?](https://www.reddit.com/r/Kotlin/comments/1dy92nl/am_i_able_to_learn_mongodb_for_kotlin_with_a_java/)
-- [Help with IPTV player](https://www.reddit.com/r/Kotlin/comments/1dy0gjn/help_with_iptv_player/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
