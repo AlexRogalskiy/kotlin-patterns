@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where to learn Native Kotlin](https://www.reddit.com/r/Kotlin/comments/1e1xqng/where_to_learn_native_kotlin/)
+- [Does Kotlin have these features?](https://www.reddit.com/r/Kotlin/comments/1e1s7ub/does_kotlin_have_these_features/)
+- [GitHub - BandKit: A Kotlin Multiplatform library to interface with Bandcamp&#39;s API](https://www.reddit.com/r/Kotlin/comments/1e1omty/github_bandkit_a_kotlin_multiplatform_library_to/)
+- [Java Reflection for Kotlin Magic](https://www.reddit.com/r/Kotlin/comments/1e1n7x3/java_reflection_for_kotlin_magic/)
+- [Mappie: an object mapping compiler plugin for Kotlin](https://www.reddit.com/r/Kotlin/comments/1e1l5qp/mappie_an_object_mapping_compiler_plugin_for/)
+- [Kotlin Fundamentals : Sealed Classes](https://www.reddit.com/r/Kotlin/comments/1e1dux8/kotlin_fundamentals_sealed_classes/)
 - [How long did it take you to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/1e10uek/how_long_did_it_take_you_to_learn_kotlin/)
 - [Managing configurations for different environments &lpar;eg. prod, staging&rpar; with BuildKonfig flavours in Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1e0u1w9/managing_configurations_for_different/)
 - [Non Compliant interstitial ad issue](https://www.reddit.com/r/Kotlin/comments/1e0nqr3/non_compliant_interstitial_ad_issue/)
 - [c-fraser/graph-guard: Graph query validation proxy server](https://www.reddit.com/r/Kotlin/comments/1e0muyi/cfrasergraphguard_graph_query_validation_proxy/)
-- [How can I post image on HTML HttpServer](https://www.reddit.com/r/Kotlin/comments/1e0m5gt/how_can_i_post_image_on_html_httpserver/)
-- [Help us improve notebook experience with Kotlin](https://www.reddit.com/r/Kotlin/comments/1e0jbqa/help_us_improve_notebook_experience_with_kotlin/)
-- [A Guide to Front-End vs. Back-End vs. Full-Stack Development](https://www.reddit.com/r/Kotlin/comments/1e0hpbp/a_guide_to_frontend_vs_backend_vs_fullstack/)
-- [Thinking of building a service using Spring Boot. Should I use Kotlin or Java?](https://www.reddit.com/r/Kotlin/comments/1e0apwe/thinking_of_building_a_service_using_spring_boot/)
-- [New blog post: Enhanced Column Selection DSL in Kotlin DataFrame.](https://www.reddit.com/r/Kotlin/comments/1e01uvk/new_blog_post_enhanced_column_selection_dsl_in/)
-- [Video: Kotlin Code Reuse - Composing like you&#39;re Inheriting](https://www.reddit.com/r/Kotlin/comments/1dzxz3p/video_kotlin_code_reuse_composing_like_youre/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
