@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [operators](https://www.reddit.com/r/Kotlin/comments/1e1zauu/operators/)
 - [Where to learn Native Kotlin](https://www.reddit.com/r/Kotlin/comments/1e1xqng/where_to_learn_native_kotlin/)
 - [Does Kotlin have these features?](https://www.reddit.com/r/Kotlin/comments/1e1s7ub/does_kotlin_have_these_features/)
 - [GitHub - BandKit: A Kotlin Multiplatform library to interface with Bandcamp&#39;s API](https://www.reddit.com/r/Kotlin/comments/1e1omty/github_bandkit_a_kotlin_multiplatform_library_to/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How long did it take you to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/1e10uek/how_long_did_it_take_you_to_learn_kotlin/)
 - [Managing configurations for different environments &lpar;eg. prod, staging&rpar; with BuildKonfig flavours in Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1e0u1w9/managing_configurations_for_different/)
 - [Non Compliant interstitial ad issue](https://www.reddit.com/r/Kotlin/comments/1e0nqr3/non_compliant_interstitial_ad_issue/)
-- [c-fraser/graph-guard: Graph query validation proxy server](https://www.reddit.com/r/Kotlin/comments/1e0muyi/cfrasergraphguard_graph_query_validation_proxy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
