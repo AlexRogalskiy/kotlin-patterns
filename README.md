@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using VS Code to program with Kotlin](https://www.reddit.com/r/Kotlin/comments/1e35513/using_vs_code_to_program_with_kotlin/)
+- [Free Alternative to JRebel - HotSwap Agent, Hotswap and reload classes &lpar;JVM Debug Tool&rpar;](https://www.reddit.com/r/Kotlin/comments/1e2xrxv/free_alternative_to_jrebel_hotswap_agent_hotswap/)
+- [Kotlin for Science Initiative](https://www.reddit.com/r/Kotlin/comments/1e2x3wc/kotlin_for_science_initiative/)
 - [operators](https://www.reddit.com/r/Kotlin/comments/1e1zauu/operators/)
 - [Where to learn Native Kotlin](https://www.reddit.com/r/Kotlin/comments/1e1xqng/where_to_learn_native_kotlin/)
 - [Does Kotlin have these features?](https://www.reddit.com/r/Kotlin/comments/1e1s7ub/does_kotlin_have_these_features/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Java Reflection for Kotlin Magic](https://www.reddit.com/r/Kotlin/comments/1e1n7x3/java_reflection_for_kotlin_magic/)
 - [Mappie: an object mapping compiler plugin for Kotlin](https://www.reddit.com/r/Kotlin/comments/1e1l5qp/mappie_an_object_mapping_compiler_plugin_for/)
 - [Kotlin Fundamentals : Sealed Classes](https://www.reddit.com/r/Kotlin/comments/1e1dux8/kotlin_fundamentals_sealed_classes/)
-- [How long did it take you to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/1e10uek/how_long_did_it_take_you_to_learn_kotlin/)
-- [Managing configurations for different environments &lpar;eg. prod, staging&rpar; with BuildKonfig flavours in Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1e0u1w9/managing_configurations_for_different/)
-- [Non Compliant interstitial ad issue](https://www.reddit.com/r/Kotlin/comments/1e0nqr3/non_compliant_interstitial_ad_issue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
