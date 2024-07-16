@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin slow build time](https://www.reddit.com/r/Kotlin/comments/1e45dat/kotlin_slow_build_time/)
+- [Which Kotlin blogs are your favorite?](https://www.reddit.com/r/Kotlin/comments/1e433kf/which_kotlin_blogs_are_your_favorite/)
+- [Ktor vs. Spring Boot: 5 Key Differences for Kotlin Devs](https://www.reddit.com/r/Kotlin/comments/1e3p0jt/ktor_vs_spring_boot_5_key_differences_for_kotlin/)
+- [Koin users, here&#39;s the updated Koin Roadmap for 2024](https://www.reddit.com/r/Kotlin/comments/1e3owva/koin_users_heres_the_updated_koin_roadmap_for_2024/)
+- [As a new student to Android app development this fall, can i use a Motorola G34 phone?](https://www.reddit.com/r/Kotlin/comments/1e3oovd/as_a_new_student_to_android_app_development_this/)
 - [Using VS Code to program with Kotlin](https://www.reddit.com/r/Kotlin/comments/1e35513/using_vs_code_to_program_with_kotlin/)
 - [Free Alternative to JRebel - HotSwap Agent, Hotswap and reload classes &lpar;JVM Debug Tool&rpar;](https://www.reddit.com/r/Kotlin/comments/1e2xrxv/free_alternative_to_jrebel_hotswap_agent_hotswap/)
 - [Kotlin for Science Initiative](https://www.reddit.com/r/Kotlin/comments/1e2x3wc/kotlin_for_science_initiative/)
 - [operators](https://www.reddit.com/r/Kotlin/comments/1e1zauu/operators/)
 - [Where to learn Native Kotlin](https://www.reddit.com/r/Kotlin/comments/1e1xqng/where_to_learn_native_kotlin/)
-- [Does Kotlin have these features?](https://www.reddit.com/r/Kotlin/comments/1e1s7ub/does_kotlin_have_these_features/)
-- [GitHub - BandKit: A Kotlin Multiplatform library to interface with Bandcamp&#39;s API](https://www.reddit.com/r/Kotlin/comments/1e1omty/github_bandkit_a_kotlin_multiplatform_library_to/)
-- [Java Reflection for Kotlin Magic](https://www.reddit.com/r/Kotlin/comments/1e1n7x3/java_reflection_for_kotlin_magic/)
-- [Mappie: an object mapping compiler plugin for Kotlin](https://www.reddit.com/r/Kotlin/comments/1e1l5qp/mappie_an_object_mapping_compiler_plugin_for/)
-- [Kotlin Fundamentals : Sealed Classes](https://www.reddit.com/r/Kotlin/comments/1e1dux8/kotlin_fundamentals_sealed_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
