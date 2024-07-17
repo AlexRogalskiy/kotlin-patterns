@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/Spring RestClient testing](https://www.reddit.com/r/Kotlin/comments/1e4x1i3/kotlinspring_restclient_testing/)
+- [Map Transformations for Kotlin](https://www.reddit.com/r/Kotlin/comments/1e4mwr2/map_transformations_for_kotlin/)
+- [Best way to achieve low latency for processing data?](https://www.reddit.com/r/Kotlin/comments/1e4exx9/best_way_to_achieve_low_latency_for_processing/)
 - [Kotlin slow build time](https://www.reddit.com/r/Kotlin/comments/1e45dat/kotlin_slow_build_time/)
 - [Which Kotlin blogs are your favorite?](https://www.reddit.com/r/Kotlin/comments/1e433kf/which_kotlin_blogs_are_your_favorite/)
 - [Ktor vs. Spring Boot: 5 Key Differences for Kotlin Devs](https://www.reddit.com/r/Kotlin/comments/1e3p0jt/ktor_vs_spring_boot_5_key_differences_for_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [As a new student to Android app development this fall, can i use a Motorola G34 phone?](https://www.reddit.com/r/Kotlin/comments/1e3oovd/as_a_new_student_to_android_app_development_this/)
 - [Using VS Code to program with Kotlin](https://www.reddit.com/r/Kotlin/comments/1e35513/using_vs_code_to_program_with_kotlin/)
 - [Free Alternative to JRebel - HotSwap Agent, Hotswap and reload classes &lpar;JVM Debug Tool&rpar;](https://www.reddit.com/r/Kotlin/comments/1e2xrxv/free_alternative_to_jrebel_hotswap_agent_hotswap/)
-- [Kotlin for Science Initiative](https://www.reddit.com/r/Kotlin/comments/1e2x3wc/kotlin_for_science_initiative/)
-- [operators](https://www.reddit.com/r/Kotlin/comments/1e1zauu/operators/)
-- [Where to learn Native Kotlin](https://www.reddit.com/r/Kotlin/comments/1e1xqng/where_to_learn_native_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
