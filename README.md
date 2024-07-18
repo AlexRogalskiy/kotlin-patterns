@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin/Spring RestClient testing](https://www.reddit.com/r/Kotlin/comments/1e4x1i3/kotlinspring_restclient_testing/)
-- [Map Transformations for Kotlin](https://www.reddit.com/r/Kotlin/comments/1e4mwr2/map_transformations_for_kotlin/)
-- [Best way to achieve low latency for processing data?](https://www.reddit.com/r/Kotlin/comments/1e4exx9/best_way_to_achieve_low_latency_for_processing/)
-- [Kotlin slow build time](https://www.reddit.com/r/Kotlin/comments/1e45dat/kotlin_slow_build_time/)
-- [Which Kotlin blogs are your favorite?](https://www.reddit.com/r/Kotlin/comments/1e433kf/which_kotlin_blogs_are_your_favorite/)
-- [Ktor vs. Spring Boot: 5 Key Differences for Kotlin Devs](https://www.reddit.com/r/Kotlin/comments/1e3p0jt/ktor_vs_spring_boot_5_key_differences_for_kotlin/)
-- [Koin users, here&#39;s the updated Koin Roadmap for 2024](https://www.reddit.com/r/Kotlin/comments/1e3owva/koin_users_heres_the_updated_koin_roadmap_for_2024/)
-- [As a new student to Android app development this fall, can i use a Motorola G34 phone?](https://www.reddit.com/r/Kotlin/comments/1e3oovd/as_a_new_student_to_android_app_development_this/)
-- [Using VS Code to program with Kotlin](https://www.reddit.com/r/Kotlin/comments/1e35513/using_vs_code_to_program_with_kotlin/)
-- [Free Alternative to JRebel - HotSwap Agent, Hotswap and reload classes &lpar;JVM Debug Tool&rpar;](https://www.reddit.com/r/Kotlin/comments/1e2xrxv/free_alternative_to_jrebel_hotswap_agent_hotswap/)
+- [Xcode-Kotlin 2.0 Release](https://www.reddit.com/r/Kotlin/comments/1e5tnj2/xcodekotlin_20_release/)
+- [Is it possible to make a decent multi-platform web browser with GeckoView that works on Android, Windows and macOS?](https://www.reddit.com/r/Kotlin/comments/1e5s21z/is_it_possible_to_make_a_decent_multiplatform_web/)
+- [Deeplinking in Kotlin &amp; Compose multiplatform; how?](https://www.reddit.com/r/Kotlin/comments/1e5o89c/deeplinking_in_kotlin_compose_multiplatform_how/)
+- [Kotlin for Flutter Dev](https://www.reddit.com/r/Kotlin/comments/1e5nahp/kotlin_for_flutter_dev/)
+- [What&#39;s the point of KMP/Compose if you have to write Swift for iOS UI?](https://www.reddit.com/r/Kotlin/comments/1e5kgjf/whats_the_point_of_kmpcompose_if_you_have_to/)
+- [Use Kotlin multi platform mainly on a windows PC](https://www.reddit.com/r/Kotlin/comments/1e5kdze/use_kotlin_multi_platform_mainly_on_a_windows_pc/)
+- [My ide is showing internal error](https://www.reddit.com/r/Kotlin/comments/1e5kdjs/my_ide_is_showing_internal_error/)
+- [KMP without installing Android Studio?](https://www.reddit.com/r/Kotlin/comments/1e5kcwx/kmp_without_installing_android_studio/)
+- [DSA vs Design Pattern](https://www.reddit.com/r/Kotlin/comments/1e5i6sj/dsa_vs_design_pattern/)
+- [KMP for iOS without installing XCode?](https://www.reddit.com/r/Kotlin/comments/1e5hptr/kmp_for_ios_without_installing_xcode/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
