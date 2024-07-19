@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My career future](https://www.reddit.com/r/Kotlin/comments/1e6n9cs/my_career_future/)
+- [🎉 Ktor 3.0.0 Beta-2 is here!](https://www.reddit.com/r/Kotlin/comments/1e69q03/ktor_300_beta2_is_here/)
+- [Kotlin for web apps](https://www.reddit.com/r/Kotlin/comments/1e68dgy/kotlin_for_web_apps/)
+- [Threat Modeling Workshop: How to hack and protect mobile Apps. Practical knowledge sharing.](https://www.reddit.com/r/Kotlin/comments/1e68bal/threat_modeling_workshop_how_to_hack_and_protect/)
+- [Understanding Kotlin - At ground level](https://www.reddit.com/r/Kotlin/comments/1e63mq7/understanding_kotlin_at_ground_level/)
 - [Xcode-Kotlin 2.0 Release](https://www.reddit.com/r/Kotlin/comments/1e5tnj2/xcodekotlin_20_release/)
 - [Is it possible to make a decent multi-platform web browser with GeckoView that works on Android, Windows and macOS?](https://www.reddit.com/r/Kotlin/comments/1e5s21z/is_it_possible_to_make_a_decent_multiplatform_web/)
 - [Deeplinking in Kotlin &amp; Compose multiplatform; how?](https://www.reddit.com/r/Kotlin/comments/1e5o89c/deeplinking_in_kotlin_compose_multiplatform_how/)
 - [Kotlin for Flutter Dev](https://www.reddit.com/r/Kotlin/comments/1e5nahp/kotlin_for_flutter_dev/)
 - [What&#39;s the point of KMP/Compose if you have to write Swift for iOS UI?](https://www.reddit.com/r/Kotlin/comments/1e5kgjf/whats_the_point_of_kmpcompose_if_you_have_to/)
-- [Use Kotlin multi platform mainly on a windows PC](https://www.reddit.com/r/Kotlin/comments/1e5kdze/use_kotlin_multi_platform_mainly_on_a_windows_pc/)
-- [My ide is showing internal error](https://www.reddit.com/r/Kotlin/comments/1e5kdjs/my_ide_is_showing_internal_error/)
-- [KMP without installing Android Studio?](https://www.reddit.com/r/Kotlin/comments/1e5kcwx/kmp_without_installing_android_studio/)
-- [DSA vs Design Pattern](https://www.reddit.com/r/Kotlin/comments/1e5i6sj/dsa_vs_design_pattern/)
-- [KMP for iOS without installing XCode?](https://www.reddit.com/r/Kotlin/comments/1e5hptr/kmp_for_ios_without_installing_xcode/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
