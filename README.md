@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP For Native Mobile Teams](https://www.reddit.com/r/Kotlin/comments/1e7dzes/kmp_for_native_mobile_teams/)
+- [Implementing Interfaces with Method Maps](https://www.reddit.com/r/Kotlin/comments/1e71504/implementing_interfaces_with_method_maps/)
+- [How to Solve OutOfMemoryError: Direct buffer memory](https://www.reddit.com/r/Kotlin/comments/1e70rlg/how_to_solve_outofmemoryerror_direct_buffer_memory/)
 - [My career future](https://www.reddit.com/r/Kotlin/comments/1e6n9cs/my_career_future/)
 - [🎉 Ktor 3.0.0 Beta-2 is here!](https://www.reddit.com/r/Kotlin/comments/1e69q03/ktor_300_beta2_is_here/)
 - [Kotlin for web apps](https://www.reddit.com/r/Kotlin/comments/1e68dgy/kotlin_for_web_apps/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Understanding Kotlin - At ground level](https://www.reddit.com/r/Kotlin/comments/1e63mq7/understanding_kotlin_at_ground_level/)
 - [Xcode-Kotlin 2.0 Release](https://www.reddit.com/r/Kotlin/comments/1e5tnj2/xcodekotlin_20_release/)
 - [Is it possible to make a decent multi-platform web browser with GeckoView that works on Android, Windows and macOS?](https://www.reddit.com/r/Kotlin/comments/1e5s21z/is_it_possible_to_make_a_decent_multiplatform_web/)
-- [Deeplinking in Kotlin &amp; Compose multiplatform; how?](https://www.reddit.com/r/Kotlin/comments/1e5o89c/deeplinking_in_kotlin_compose_multiplatform_how/)
-- [Kotlin for Flutter Dev](https://www.reddit.com/r/Kotlin/comments/1e5nahp/kotlin_for_flutter_dev/)
-- [What&#39;s the point of KMP/Compose if you have to write Swift for iOS UI?](https://www.reddit.com/r/Kotlin/comments/1e5kgjf/whats_the_point_of_kmpcompose_if_you_have_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
