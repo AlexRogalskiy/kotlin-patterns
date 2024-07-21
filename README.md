@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Customizing data class methods](https://www.reddit.com/r/Kotlin/comments/1e8awv9/customizing_data_class_methods/)
+- [How to start a Kotlin/Native project](https://www.reddit.com/r/Kotlin/comments/1e82stk/how_to_start_a_kotlinnative_project/)
+- [How can I put this two functions together in the same file](https://www.reddit.com/r/Kotlin/comments/1e7xrpy/how_can_i_put_this_two_functions_together_in_the/)
+- [Kotlin Quiz: what would this code print?](https://www.reddit.com/r/Kotlin/comments/1e7wfl1/kotlin_quiz_what_would_this_code_print/)
+- [Starting Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/1e7s91u/starting_kotlinnative/)
+- [Can someone explain how async exceptions that are in a try catch block work.](https://www.reddit.com/r/Kotlin/comments/1e7lpaz/can_someone_explain_how_async_exceptions_that_are/)
+- [I leave you my app in case you want to try it &lpar;It is not the best app&rpar;](https://www.reddit.com/r/Kotlin/comments/1e7laav/i_leave_you_my_app_in_case_you_want_to_try_it_it/)
+- [ndarray.simd: A high-performance Multiplatform NDArray implementation](https://www.reddit.com/r/Kotlin/comments/1e7ks67/ndarraysimd_a_highperformance_multiplatform/)
 - [KMP For Native Mobile Teams](https://www.reddit.com/r/Kotlin/comments/1e7dzes/kmp_for_native_mobile_teams/)
 - [Implementing Interfaces with Method Maps](https://www.reddit.com/r/Kotlin/comments/1e71504/implementing_interfaces_with_method_maps/)
-- [How to Solve OutOfMemoryError: Direct buffer memory](https://www.reddit.com/r/Kotlin/comments/1e70rlg/how_to_solve_outofmemoryerror_direct_buffer_memory/)
-- [My career future](https://www.reddit.com/r/Kotlin/comments/1e6n9cs/my_career_future/)
-- [🎉 Ktor 3.0.0 Beta-2 is here!](https://www.reddit.com/r/Kotlin/comments/1e69q03/ktor_300_beta2_is_here/)
-- [Kotlin for web apps](https://www.reddit.com/r/Kotlin/comments/1e68dgy/kotlin_for_web_apps/)
-- [Threat Modeling Workshop: How to hack and protect mobile Apps. Practical knowledge sharing.](https://www.reddit.com/r/Kotlin/comments/1e68bal/threat_modeling_workshop_how_to_hack_and_protect/)
-- [Understanding Kotlin - At ground level](https://www.reddit.com/r/Kotlin/comments/1e63mq7/understanding_kotlin_at_ground_level/)
-- [Xcode-Kotlin 2.0 Release](https://www.reddit.com/r/Kotlin/comments/1e5tnj2/xcodekotlin_20_release/)
-- [Is it possible to make a decent multi-platform web browser with GeckoView that works on Android, Windows and macOS?](https://www.reddit.com/r/Kotlin/comments/1e5s21z/is_it_possible_to_make_a_decent_multiplatform_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
