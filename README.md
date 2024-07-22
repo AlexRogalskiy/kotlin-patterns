@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Run foreground service without ui](https://www.reddit.com/r/Kotlin/comments/1e8p569/run_foreground_service_without_ui/)
+- [What is best IDE for Android mobile dev in 2024?](https://www.reddit.com/r/Kotlin/comments/1e8o8uq/what_is_best_ide_for_android_mobile_dev_in_2024/)
+- [Sqlx4k: a Kotlin Native PostgreSQL driver](https://www.reddit.com/r/Kotlin/comments/1e8hjky/sqlx4k_a_kotlin_native_postgresql_driver/)
+- [Debugging](https://www.reddit.com/r/Kotlin/comments/1e8fqaj/debugging/)
 - [Customizing data class methods](https://www.reddit.com/r/Kotlin/comments/1e8awv9/customizing_data_class_methods/)
 - [How to start a Kotlin/Native project](https://www.reddit.com/r/Kotlin/comments/1e82stk/how_to_start_a_kotlinnative_project/)
 - [How can I put this two functions together in the same file](https://www.reddit.com/r/Kotlin/comments/1e7xrpy/how_can_i_put_this_two_functions_together_in_the/)
 - [Kotlin Quiz: what would this code print?](https://www.reddit.com/r/Kotlin/comments/1e7wfl1/kotlin_quiz_what_would_this_code_print/)
 - [Starting Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/1e7s91u/starting_kotlinnative/)
 - [Can someone explain how async exceptions that are in a try catch block work.](https://www.reddit.com/r/Kotlin/comments/1e7lpaz/can_someone_explain_how_async_exceptions_that_are/)
-- [I leave you my app in case you want to try it &lpar;It is not the best app&rpar;](https://www.reddit.com/r/Kotlin/comments/1e7laav/i_leave_you_my_app_in_case_you_want_to_try_it_it/)
-- [ndarray.simd: A high-performance Multiplatform NDArray implementation](https://www.reddit.com/r/Kotlin/comments/1e7ks67/ndarraysimd_a_highperformance_multiplatform/)
-- [KMP For Native Mobile Teams](https://www.reddit.com/r/Kotlin/comments/1e7dzes/kmp_for_native_mobile_teams/)
-- [Implementing Interfaces with Method Maps](https://www.reddit.com/r/Kotlin/comments/1e71504/implementing_interfaces_with_method_maps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
