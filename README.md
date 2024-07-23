@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Run foreground service without ui](https://www.reddit.com/r/Kotlin/comments/1e8p569/run_foreground_service_without_ui/)
-- [What is best IDE for Android mobile dev in 2024?](https://www.reddit.com/r/Kotlin/comments/1e8o8uq/what_is_best_ide_for_android_mobile_dev_in_2024/)
-- [Sqlx4k: a Kotlin Native PostgreSQL driver](https://www.reddit.com/r/Kotlin/comments/1e8hjky/sqlx4k_a_kotlin_native_postgresql_driver/)
-- [Debugging](https://www.reddit.com/r/Kotlin/comments/1e8fqaj/debugging/)
-- [Customizing data class methods](https://www.reddit.com/r/Kotlin/comments/1e8awv9/customizing_data_class_methods/)
-- [How to start a Kotlin/Native project](https://www.reddit.com/r/Kotlin/comments/1e82stk/how_to_start_a_kotlinnative_project/)
-- [How can I put this two functions together in the same file](https://www.reddit.com/r/Kotlin/comments/1e7xrpy/how_can_i_put_this_two_functions_together_in_the/)
-- [Kotlin Quiz: what would this code print?](https://www.reddit.com/r/Kotlin/comments/1e7wfl1/kotlin_quiz_what_would_this_code_print/)
-- [Starting Kotlin/Native](https://www.reddit.com/r/Kotlin/comments/1e7s91u/starting_kotlinnative/)
-- [Can someone explain how async exceptions that are in a try catch block work.](https://www.reddit.com/r/Kotlin/comments/1e7lpaz/can_someone_explain_how_async_exceptions_that_are/)
+- [A learning path?](https://www.reddit.com/r/Kotlin/comments/1e9ub34/a_learning_path/)
+- [This is my new project](https://www.reddit.com/r/Kotlin/comments/1e9t9s4/this_is_my_new_project/)
+- [Hiring](https://www.reddit.com/r/Kotlin/comments/1e9prlw/hiring/)
+- [Modifier.pointerInput triggers on a Composable that wasn&#39;t clicked](https://www.reddit.com/r/Kotlin/comments/1e9m3hp/modifierpointerinput_triggers_on_a_composable/)
+- [Stratify: Optimize Your KSP Plugin Development - Beta Testers Request!](https://www.reddit.com/r/Kotlin/comments/1e9hp64/stratify_optimize_your_ksp_plugin_development/)
+- [Setting up Kotlin Multiplatform &lpar;+Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1e9gge7/setting_up_kotlin_multiplatform_compose/)
+- [Scott Stanchfield best kotlin instructor.](https://www.reddit.com/r/Kotlin/comments/1e9gf57/scott_stanchfield_best_kotlin_instructor/)
+- [Why do I get &quot;Unresolved reference &#39;coroutines&#39;&quot; though coroutines has been added as a dependency in Gradle](https://www.reddit.com/r/Kotlin/comments/1e9g4pj/why_do_i_get_unresolved_reference_coroutines/)
+- [how to make the Kotlin Android mobile app responsive](https://www.reddit.com/r/Kotlin/comments/1e9cfz7/how_to_make_the_kotlin_android_mobile_app/)
+- [Effective Kotlin Item 31: Respect abstraction contracts](https://www.reddit.com/r/Kotlin/comments/1e99f5e/effective_kotlin_item_31_respect_abstraction/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
