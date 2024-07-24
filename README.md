@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Close the KMP Platform Gap - Livestream this Friday](https://www.reddit.com/r/Kotlin/comments/1eafylo/close_the_kmp_platform_gap_livestream_this_friday/)
+- [JavaFX with Kotlin in IntelliJ](https://www.reddit.com/r/Kotlin/comments/1eacmlq/javafx_with_kotlin_in_intellij/)
+- [I started with Java as my first programming knowledge , would it kotlin any easier to learn in future.](https://www.reddit.com/r/Kotlin/comments/1ea4opm/i_started_with_java_as_my_first_programming/)
 - [A learning path?](https://www.reddit.com/r/Kotlin/comments/1e9ub34/a_learning_path/)
 - [This is my new project](https://www.reddit.com/r/Kotlin/comments/1e9t9s4/this_is_my_new_project/)
 - [Hiring](https://www.reddit.com/r/Kotlin/comments/1e9prlw/hiring/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Stratify: Optimize Your KSP Plugin Development - Beta Testers Request!](https://www.reddit.com/r/Kotlin/comments/1e9hp64/stratify_optimize_your_ksp_plugin_development/)
 - [Setting up Kotlin Multiplatform &lpar;+Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1e9gge7/setting_up_kotlin_multiplatform_compose/)
 - [Scott Stanchfield best kotlin instructor.](https://www.reddit.com/r/Kotlin/comments/1e9gf57/scott_stanchfield_best_kotlin_instructor/)
-- [Why do I get &quot;Unresolved reference &#39;coroutines&#39;&quot; though coroutines has been added as a dependency in Gradle](https://www.reddit.com/r/Kotlin/comments/1e9g4pj/why_do_i_get_unresolved_reference_coroutines/)
-- [how to make the Kotlin Android mobile app responsive](https://www.reddit.com/r/Kotlin/comments/1e9cfz7/how_to_make_the_kotlin_android_mobile_app/)
-- [Effective Kotlin Item 31: Respect abstraction contracts](https://www.reddit.com/r/Kotlin/comments/1e99f5e/effective_kotlin_item_31_respect_abstraction/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
