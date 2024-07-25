@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🚀 Kotools Types 4.5.2 is available!](https://www.reddit.com/r/Kotlin/comments/1eba1ze/kotools_types_452_is_available/)
+- [Let&#39;s try out kotlinx.rpc - TypeAlias Show Livestream](https://www.reddit.com/r/Kotlin/comments/1eb3lnt/lets_try_out_kotlinxrpc_typealias_show_livestream/)
+- [Making overrides mandatory](https://www.reddit.com/r/Kotlin/comments/1eb30he/making_overrides_mandatory/)
+- [KotlinOptions is deprecated](https://www.reddit.com/r/Kotlin/comments/1eb2utz/kotlinoptions_is_deprecated/)
+- [Suggestions for AI on Edge](https://www.reddit.com/r/Kotlin/comments/1eavoql/suggestions_for_ai_on_edge/)
+- [Ktor Testing in KMP – HttpClient with MockEngine](https://www.reddit.com/r/Kotlin/comments/1eat0vm/ktor_testing_in_kmp_httpclient_with_mockengine/)
 - [Close the KMP Platform Gap - Livestream this Friday](https://www.reddit.com/r/Kotlin/comments/1eafylo/close_the_kmp_platform_gap_livestream_this_friday/)
 - [JavaFX with Kotlin in IntelliJ](https://www.reddit.com/r/Kotlin/comments/1eacmlq/javafx_with_kotlin_in_intellij/)
 - [I started with Java as my first programming knowledge , would it kotlin any easier to learn in future.](https://www.reddit.com/r/Kotlin/comments/1ea4opm/i_started_with_java_as_my_first_programming/)
 - [A learning path?](https://www.reddit.com/r/Kotlin/comments/1e9ub34/a_learning_path/)
-- [This is my new project](https://www.reddit.com/r/Kotlin/comments/1e9t9s4/this_is_my_new_project/)
-- [Hiring](https://www.reddit.com/r/Kotlin/comments/1e9prlw/hiring/)
-- [Modifier.pointerInput triggers on a Composable that wasn&#39;t clicked](https://www.reddit.com/r/Kotlin/comments/1e9m3hp/modifierpointerinput_triggers_on_a_composable/)
-- [Stratify: Optimize Your KSP Plugin Development - Beta Testers Request!](https://www.reddit.com/r/Kotlin/comments/1e9hp64/stratify_optimize_your_ksp_plugin_development/)
-- [Setting up Kotlin Multiplatform &lpar;+Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1e9gge7/setting_up_kotlin_multiplatform_compose/)
-- [Scott Stanchfield best kotlin instructor.](https://www.reddit.com/r/Kotlin/comments/1e9gf57/scott_stanchfield_best_kotlin_instructor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
