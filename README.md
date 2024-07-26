@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [🚀 Kotools Types 4.5.2 is available!](https://www.reddit.com/r/Kotlin/comments/1eba1ze/kotools_types_452_is_available/)
-- [Let&#39;s try out kotlinx.rpc - TypeAlias Show Livestream](https://www.reddit.com/r/Kotlin/comments/1eb3lnt/lets_try_out_kotlinxrpc_typealias_show_livestream/)
-- [Making overrides mandatory](https://www.reddit.com/r/Kotlin/comments/1eb30he/making_overrides_mandatory/)
-- [KotlinOptions is deprecated](https://www.reddit.com/r/Kotlin/comments/1eb2utz/kotlinoptions_is_deprecated/)
-- [Suggestions for AI on Edge](https://www.reddit.com/r/Kotlin/comments/1eavoql/suggestions_for_ai_on_edge/)
-- [Ktor Testing in KMP – HttpClient with MockEngine](https://www.reddit.com/r/Kotlin/comments/1eat0vm/ktor_testing_in_kmp_httpclient_with_mockengine/)
-- [Close the KMP Platform Gap - Livestream this Friday](https://www.reddit.com/r/Kotlin/comments/1eafylo/close_the_kmp_platform_gap_livestream_this_friday/)
-- [JavaFX with Kotlin in IntelliJ](https://www.reddit.com/r/Kotlin/comments/1eacmlq/javafx_with_kotlin_in_intellij/)
-- [I started with Java as my first programming knowledge , would it kotlin any easier to learn in future.](https://www.reddit.com/r/Kotlin/comments/1ea4opm/i_started_with_java_as_my_first_programming/)
-- [A learning path?](https://www.reddit.com/r/Kotlin/comments/1e9ub34/a_learning_path/)
+- [If you like to have &lpar;different&rpar; music on the background while coding, here’s a playlist I’ve been maintaining for over five years now &lpar;actually inspired by his work&rpar;.](https://www.reddit.com/r/Kotlin/comments/1eca94f/if_you_like_to_have_different_music_on_the/)
+- [Anyone needs a remote Software intern?](https://www.reddit.com/r/Kotlin/comments/1ec8h6h/anyone_needs_a_remote_software_intern/)
+- [Kotlin for Science update!](https://www.reddit.com/r/Kotlin/comments/1ec5x15/kotlin_for_science_update/)
+- [From Swift to Kotlin: A Complete Guide to Cinterop in a KMP Project](https://www.reddit.com/r/Kotlin/comments/1ec1gng/from_swift_to_kotlin_a_complete_guide_to_cinterop/)
+- [Tips for taking ownership of Android codebase/team](https://www.reddit.com/r/Kotlin/comments/1ec16lj/tips_for_taking_ownership_of_android_codebaseteam/)
+- [The pitfall of Kotlin - Java interoperability](https://www.reddit.com/r/Kotlin/comments/1ec06oo/the_pitfall_of_kotlin_java_interoperability/)
+- [Seeking Guidance for Kotlin Multiplatform Project: Resources, Tutorials, and Best Practices](https://www.reddit.com/r/Kotlin/comments/1ebwa11/seeking_guidance_for_kotlin_multiplatform_project/)
+- [Koin Annotations 1.4 — Better Multimodule &amp; KMP](https://www.reddit.com/r/Kotlin/comments/1ebuc5u/koin_annotations_14_better_multimodule_kmp/)
+- [A first look at declarative Gradle](https://www.reddit.com/r/Kotlin/comments/1ebpzoh/a_first_look_at_declarative_gradle/)
+- [Power of C#/CSharp in Modern Software Development](https://www.reddit.com/r/Kotlin/comments/1ebofuj/power_of_ccsharp_in_modern_software_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
