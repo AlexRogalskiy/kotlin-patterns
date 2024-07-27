@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [If you like to have &lpar;different&rpar; music on the background while coding, here’s a playlist I’ve been maintaining for over five years now &lpar;actually inspired by his work&rpar;.](https://www.reddit.com/r/Kotlin/comments/1eca94f/if_you_like_to_have_different_music_on_the/)
-- [Anyone needs a remote Software intern?](https://www.reddit.com/r/Kotlin/comments/1ec8h6h/anyone_needs_a_remote_software_intern/)
-- [Kotlin for Science update!](https://www.reddit.com/r/Kotlin/comments/1ec5x15/kotlin_for_science_update/)
-- [From Swift to Kotlin: A Complete Guide to Cinterop in a KMP Project](https://www.reddit.com/r/Kotlin/comments/1ec1gng/from_swift_to_kotlin_a_complete_guide_to_cinterop/)
-- [Tips for taking ownership of Android codebase/team](https://www.reddit.com/r/Kotlin/comments/1ec16lj/tips_for_taking_ownership_of_android_codebaseteam/)
-- [The pitfall of Kotlin - Java interoperability](https://www.reddit.com/r/Kotlin/comments/1ec06oo/the_pitfall_of_kotlin_java_interoperability/)
-- [Seeking Guidance for Kotlin Multiplatform Project: Resources, Tutorials, and Best Practices](https://www.reddit.com/r/Kotlin/comments/1ebwa11/seeking_guidance_for_kotlin_multiplatform_project/)
-- [Koin Annotations 1.4 — Better Multimodule &amp; KMP](https://www.reddit.com/r/Kotlin/comments/1ebuc5u/koin_annotations_14_better_multimodule_kmp/)
-- [A first look at declarative Gradle](https://www.reddit.com/r/Kotlin/comments/1ebpzoh/a_first_look_at_declarative_gradle/)
-- [Power of C#/CSharp in Modern Software Development](https://www.reddit.com/r/Kotlin/comments/1ebofuj/power_of_ccsharp_in_modern_software_development/)
+- [What is an “error object”?](https://www.reddit.com/r/Kotlin/comments/1ed4hcv/what_is_an_error_object/)
+- [actor4k: A small actor system written in kotlin using Coroutines.](https://www.reddit.com/r/Kotlin/comments/1ecyzi0/actor4k_a_small_actor_system_written_in_kotlin/)
+- [Making a Simple Kotlin Dependency Injection Library](https://www.reddit.com/r/Kotlin/comments/1ecy42o/making_a_simple_kotlin_dependency_injection/)
+- [Looking to write fancy xode](https://www.reddit.com/r/Kotlin/comments/1ecxhuc/looking_to_write_fancy_xode/)
+- [Why Kotlin Multiplatform Teams Should Share Source, not Binaries](https://www.reddit.com/r/Kotlin/comments/1ecu4jz/why_kotlin_multiplatform_teams_should_share/)
+- [I know SwiftUI, but want to learn Kotlin from scratch. Any recommendations?](https://www.reddit.com/r/Kotlin/comments/1ectsyi/i_know_swiftui_but_want_to_learn_kotlin_from/)
+- [Close The Platform Gap With The “Bad Swift Simulation”](https://www.reddit.com/r/Kotlin/comments/1ecrm3p/close_the_platform_gap_with_the_bad_swift/)
+- [Introducing TraDeep: A Kotlin Parser Library with Parser Combinators and Auto-Generated ASTs!](https://www.reddit.com/r/Kotlin/comments/1ecqly7/introducing_tradeep_a_kotlin_parser_library_with/)
+- [sdbus-kotlin: Kotlin/native dbus support](https://www.reddit.com/r/Kotlin/comments/1ecqc20/sdbuskotlin_kotlinnative_dbus_support/)
+- [Kotlin Quiz: what would this code print?](https://www.reddit.com/r/Kotlin/comments/1ecl9e2/kotlin_quiz_what_would_this_code_print/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
