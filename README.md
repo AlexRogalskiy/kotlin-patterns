@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why does data class generate component for decomposition?](https://www.reddit.com/r/Kotlin/comments/1edvw2g/why_does_data_class_generate_component_for/)
+- [Difference between the parent of Kotlin](https://www.reddit.com/r/Kotlin/comments/1edr2aj/difference_between_the_parent_of_kotlin/)
+- [Volunteers](https://www.reddit.com/r/Kotlin/comments/1edr0wr/volunteers/)
+- [How do I opt into &quot;Explicit Backing Fields&quot;?](https://www.reddit.com/r/Kotlin/comments/1edqq33/how_do_i_opt_into_explicit_backing_fields/)
+- [Get Kotlin code from a server that runs at runtime in android app](https://www.reddit.com/r/Kotlin/comments/1edhik8/get_kotlin_code_from_a_server_that_runs_at/)
+- [Thoughts on Replacing `when` with `HashMap` in Kotlin Event Handling ?](https://www.reddit.com/r/Kotlin/comments/1edg54g/thoughts_on_replacing_when_with_hashmap_in_kotlin/)
+- [How long did it take you to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ed71ns/how_long_did_it_take_you_to_learn_kotlin/)
+- [Stratify: Possibly the EASIEST way to develop KSP plugins](https://www.reddit.com/r/Kotlin/comments/1ed58s4/stratify_possibly_the_easiest_way_to_develop_ksp/)
 - [What is an “error object”?](https://www.reddit.com/r/Kotlin/comments/1ed4hcv/what_is_an_error_object/)
 - [actor4k: A small actor system written in kotlin using Coroutines.](https://www.reddit.com/r/Kotlin/comments/1ecyzi0/actor4k_a_small_actor_system_written_in_kotlin/)
-- [Making a Simple Kotlin Dependency Injection Library](https://www.reddit.com/r/Kotlin/comments/1ecy42o/making_a_simple_kotlin_dependency_injection/)
-- [Looking to write fancy xode](https://www.reddit.com/r/Kotlin/comments/1ecxhuc/looking_to_write_fancy_xode/)
-- [Why Kotlin Multiplatform Teams Should Share Source, not Binaries](https://www.reddit.com/r/Kotlin/comments/1ecu4jz/why_kotlin_multiplatform_teams_should_share/)
-- [I know SwiftUI, but want to learn Kotlin from scratch. Any recommendations?](https://www.reddit.com/r/Kotlin/comments/1ectsyi/i_know_swiftui_but_want_to_learn_kotlin_from/)
-- [Close The Platform Gap With The “Bad Swift Simulation”](https://www.reddit.com/r/Kotlin/comments/1ecrm3p/close_the_platform_gap_with_the_bad_swift/)
-- [Introducing TraDeep: A Kotlin Parser Library with Parser Combinators and Auto-Generated ASTs!](https://www.reddit.com/r/Kotlin/comments/1ecqly7/introducing_tradeep_a_kotlin_parser_library_with/)
-- [sdbus-kotlin: Kotlin/native dbus support](https://www.reddit.com/r/Kotlin/comments/1ecqc20/sdbuskotlin_kotlinnative_dbus_support/)
-- [Kotlin Quiz: what would this code print?](https://www.reddit.com/r/Kotlin/comments/1ecl9e2/kotlin_quiz_what_would_this_code_print/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
