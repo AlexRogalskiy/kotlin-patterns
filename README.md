@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [When to use the inline keyword?](https://www.reddit.com/r/Kotlin/comments/1eemcqx/when_to_use_the_inline_keyword/)
+- [How can Kotlin-like pull up and pull down constraints be implemented using off-the-shelf constraint solvers?](https://www.reddit.com/r/Kotlin/comments/1ee84nd/how_can_kotlinlike_pull_up_and_pull_down/)
+- [What is the difference between .forEach&lpar;&rpar; and .forEach{}](https://www.reddit.com/r/Kotlin/comments/1ee31rq/what_is_the_difference_between_foreach_and_foreach/)
+- [Seeing some strange behavior with apply&lpar;&rpar; scope function.](https://www.reddit.com/r/Kotlin/comments/1edxill/seeing_some_strange_behavior_with_apply_scope/)
 - [Why does data class generate component for decomposition?](https://www.reddit.com/r/Kotlin/comments/1edvw2g/why_does_data_class_generate_component_for/)
 - [Difference between the parent of Kotlin](https://www.reddit.com/r/Kotlin/comments/1edr2aj/difference_between_the_parent_of_kotlin/)
-- [Volunteers](https://www.reddit.com/r/Kotlin/comments/1edr0wr/volunteers/)
 - [How do I opt into &quot;Explicit Backing Fields&quot;?](https://www.reddit.com/r/Kotlin/comments/1edqq33/how_do_i_opt_into_explicit_backing_fields/)
 - [Get Kotlin code from a server that runs at runtime in android app](https://www.reddit.com/r/Kotlin/comments/1edhik8/get_kotlin_code_from_a_server_that_runs_at/)
 - [Thoughts on Replacing `when` with `HashMap` in Kotlin Event Handling ?](https://www.reddit.com/r/Kotlin/comments/1edg54g/thoughts_on_replacing_when_with_hashmap_in_kotlin/)
 - [How long did it take you to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ed71ns/how_long_did_it_take_you_to_learn_kotlin/)
-- [Stratify: Possibly the EASIEST way to develop KSP plugins](https://www.reddit.com/r/Kotlin/comments/1ed58s4/stratify_possibly_the_easiest_way_to_develop_ksp/)
-- [What is an “error object”?](https://www.reddit.com/r/Kotlin/comments/1ed4hcv/what_is_an_error_object/)
-- [actor4k: A small actor system written in kotlin using Coroutines.](https://www.reddit.com/r/Kotlin/comments/1ecyzi0/actor4k_a_small_actor_system_written_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
