@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [good, up to date Android Studio tutorial?](https://www.reddit.com/r/Kotlin/comments/1efe8ao/good_up_to_date_android_studio_tutorial/)
+- [Livestream: Close the Swift/Kotlin Platform Gap](https://www.reddit.com/r/Kotlin/comments/1ef7n3e/livestream_close_the_swiftkotlin_platform_gap/)
+- [Companies that use Kotlin and pay the most](https://www.reddit.com/r/Kotlin/comments/1ef307a/companies_that_use_kotlin_and_pay_the_most/)
+- [Lazy delegate, but without caching the value](https://www.reddit.com/r/Kotlin/comments/1ef1u2t/lazy_delegate_but_without_caching_the_value/)
+- [Need help setting up a run configuration in IntelliJ &lpar;non-Android project&rpar;](https://www.reddit.com/r/Kotlin/comments/1eevlfx/need_help_setting_up_a_run_configuration_in/)
+- [Go is more attractive than Kotlin for Java developers](https://www.reddit.com/r/Kotlin/comments/1eevjx7/go_is_more_attractive_than_kotlin_for_java/)
 - [When to use the inline keyword?](https://www.reddit.com/r/Kotlin/comments/1eemcqx/when_to_use_the_inline_keyword/)
 - [How can Kotlin-like pull up and pull down constraints be implemented using off-the-shelf constraint solvers?](https://www.reddit.com/r/Kotlin/comments/1ee84nd/how_can_kotlinlike_pull_up_and_pull_down/)
 - [What is the difference between .forEach&lpar;&rpar; and .forEach{}](https://www.reddit.com/r/Kotlin/comments/1ee31rq/what_is_the_difference_between_foreach_and_foreach/)
 - [Seeing some strange behavior with apply&lpar;&rpar; scope function.](https://www.reddit.com/r/Kotlin/comments/1edxill/seeing_some_strange_behavior_with_apply_scope/)
-- [Why does data class generate component for decomposition?](https://www.reddit.com/r/Kotlin/comments/1edvw2g/why_does_data_class_generate_component_for/)
-- [Difference between the parent of Kotlin](https://www.reddit.com/r/Kotlin/comments/1edr2aj/difference_between_the_parent_of_kotlin/)
-- [How do I opt into &quot;Explicit Backing Fields&quot;?](https://www.reddit.com/r/Kotlin/comments/1edqq33/how_do_i_opt_into_explicit_backing_fields/)
-- [Get Kotlin code from a server that runs at runtime in android app](https://www.reddit.com/r/Kotlin/comments/1edhik8/get_kotlin_code_from_a_server_that_runs_at/)
-- [Thoughts on Replacing `when` with `HashMap` in Kotlin Event Handling ?](https://www.reddit.com/r/Kotlin/comments/1edg54g/thoughts_on_replacing_when_with_hashmap_in_kotlin/)
-- [How long did it take you to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ed71ns/how_long_did_it_take_you_to_learn_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
