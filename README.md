@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a new guards clause in kotlin when?](https://www.reddit.com/r/Kotlin/comments/1eg9h73/is_there_a_new_guards_clause_in_kotlin_when/)
+- [Kotlin multiplatform administrator mode](https://www.reddit.com/r/Kotlin/comments/1efxayf/kotlin_multiplatform_administrator_mode/)
+- [[OPEN-SOURCE] I built a fully customizable Bottom Sheet for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1efsfx1/opensource_i_built_a_fully_customizable_bottom/)
+- [Advanced Kotlin Coroutine Cheat sheet &lpar;for Android Engineer&rpar;](https://www.reddit.com/r/Kotlin/comments/1efow17/advanced_kotlin_coroutine_cheat_sheet_for_android/)
+- [Koin Annotations 1.4 is out](https://www.reddit.com/r/Kotlin/comments/1efnt8s/koin_annotations_14_is_out/)
+- [Help Needed: Capturing the Video ID of the Currently Playing YouTube Video on Android](https://www.reddit.com/r/Kotlin/comments/1efjf94/help_needed_capturing_the_video_id_of_the/)
 - [good, up to date Android Studio tutorial?](https://www.reddit.com/r/Kotlin/comments/1efe8ao/good_up_to_date_android_studio_tutorial/)
 - [Livestream: Close the Swift/Kotlin Platform Gap](https://www.reddit.com/r/Kotlin/comments/1ef7n3e/livestream_close_the_swiftkotlin_platform_gap/)
 - [Companies that use Kotlin and pay the most](https://www.reddit.com/r/Kotlin/comments/1ef307a/companies_that_use_kotlin_and_pay_the_most/)
 - [Lazy delegate, but without caching the value](https://www.reddit.com/r/Kotlin/comments/1ef1u2t/lazy_delegate_but_without_caching_the_value/)
-- [Need help setting up a run configuration in IntelliJ &lpar;non-Android project&rpar;](https://www.reddit.com/r/Kotlin/comments/1eevlfx/need_help_setting_up_a_run_configuration_in/)
-- [Go is more attractive than Kotlin for Java developers](https://www.reddit.com/r/Kotlin/comments/1eevjx7/go_is_more_attractive_than_kotlin_for_java/)
-- [When to use the inline keyword?](https://www.reddit.com/r/Kotlin/comments/1eemcqx/when_to_use_the_inline_keyword/)
-- [How can Kotlin-like pull up and pull down constraints be implemented using off-the-shelf constraint solvers?](https://www.reddit.com/r/Kotlin/comments/1ee84nd/how_can_kotlinlike_pull_up_and_pull_down/)
-- [What is the difference between .forEach&lpar;&rpar; and .forEach{}](https://www.reddit.com/r/Kotlin/comments/1ee31rq/what_is_the_difference_between_foreach_and_foreach/)
-- [Seeing some strange behavior with apply&lpar;&rpar; scope function.](https://www.reddit.com/r/Kotlin/comments/1edxill/seeing_some_strange_behavior_with_apply_scope/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
