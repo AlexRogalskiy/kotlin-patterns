@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose Multiplatform + Lottie Animations](https://www.reddit.com/r/Kotlin/comments/1egtx16/compose_multiplatform_lottie_animations/)
+- [Android App Using Kotlin](https://www.reddit.com/r/Kotlin/comments/1egrzj8/android_app_using_kotlin/)
+- [Gradle frustrations](https://www.reddit.com/r/Kotlin/comments/1egr90x/gradle_frustrations/)
+- [Coroutines: Concurrency in Kotlin - Presentation](https://www.reddit.com/r/Kotlin/comments/1egprjg/coroutines_concurrency_in_kotlin_presentation/)
+- [How to include only those Kotlin classes that are truly required when building a self-contained .jar file with the Kotlin command line compiler?](https://www.reddit.com/r/Kotlin/comments/1egki8s/how_to_include_only_those_kotlin_classes_that_are/)
+- [KotlinConf 2025 tickets are now on sale!](https://www.reddit.com/r/Kotlin/comments/1egjtgs/kotlinconf_2025_tickets_are_now_on_sale/)
+- [📣 Final call: Help us improve the notebook experience in Kotlin](https://www.reddit.com/r/Kotlin/comments/1egji3i/final_call_help_us_improve_the_notebook/)
+- [Where to use Arrow lib?](https://www.reddit.com/r/Kotlin/comments/1egfjry/where_to_use_arrow_lib/)
 - [Is there a new guards clause in kotlin when?](https://www.reddit.com/r/Kotlin/comments/1eg9h73/is_there_a_new_guards_clause_in_kotlin_when/)
 - [Kotlin multiplatform administrator mode](https://www.reddit.com/r/Kotlin/comments/1efxayf/kotlin_multiplatform_administrator_mode/)
-- [[OPEN-SOURCE] I built a fully customizable Bottom Sheet for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1efsfx1/opensource_i_built_a_fully_customizable_bottom/)
-- [Advanced Kotlin Coroutine Cheat sheet &lpar;for Android Engineer&rpar;](https://www.reddit.com/r/Kotlin/comments/1efow17/advanced_kotlin_coroutine_cheat_sheet_for_android/)
-- [Koin Annotations 1.4 is out](https://www.reddit.com/r/Kotlin/comments/1efnt8s/koin_annotations_14_is_out/)
-- [Help Needed: Capturing the Video ID of the Currently Playing YouTube Video on Android](https://www.reddit.com/r/Kotlin/comments/1efjf94/help_needed_capturing_the_video_id_of_the/)
-- [good, up to date Android Studio tutorial?](https://www.reddit.com/r/Kotlin/comments/1efe8ao/good_up_to_date_android_studio_tutorial/)
-- [Livestream: Close the Swift/Kotlin Platform Gap](https://www.reddit.com/r/Kotlin/comments/1ef7n3e/livestream_close_the_swiftkotlin_platform_gap/)
-- [Companies that use Kotlin and pay the most](https://www.reddit.com/r/Kotlin/comments/1ef307a/companies_that_use_kotlin_and_pay_the_most/)
-- [Lazy delegate, but without caching the value](https://www.reddit.com/r/Kotlin/comments/1ef1u2t/lazy_delegate_but_without_caching_the_value/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
