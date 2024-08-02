@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [So what are the benefits of learning Kotlin over Java?](https://www.reddit.com/r/Kotlin/comments/1ehrq8x/so_what_are_the_benefits_of_learning_kotlin_over/)
+- [Where&#39;s the best place to get help with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ehgil1/wheres_the_best_place_to_get_help_with_kotlin/)
+- [KMP beginner IOS error](https://www.reddit.com/r/Kotlin/comments/1ehahbd/kmp_beginner_ios_error/)
 - [Compose Multiplatform + Lottie Animations](https://www.reddit.com/r/Kotlin/comments/1egtx16/compose_multiplatform_lottie_animations/)
 - [Android App Using Kotlin](https://www.reddit.com/r/Kotlin/comments/1egrzj8/android_app_using_kotlin/)
 - [Gradle frustrations](https://www.reddit.com/r/Kotlin/comments/1egr90x/gradle_frustrations/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to include only those Kotlin classes that are truly required when building a self-contained .jar file with the Kotlin command line compiler?](https://www.reddit.com/r/Kotlin/comments/1egki8s/how_to_include_only_those_kotlin_classes_that_are/)
 - [KotlinConf 2025 tickets are now on sale!](https://www.reddit.com/r/Kotlin/comments/1egjtgs/kotlinconf_2025_tickets_are_now_on_sale/)
 - [📣 Final call: Help us improve the notebook experience in Kotlin](https://www.reddit.com/r/Kotlin/comments/1egji3i/final_call_help_us_improve_the_notebook/)
-- [Where to use Arrow lib?](https://www.reddit.com/r/Kotlin/comments/1egfjry/where_to_use_arrow_lib/)
-- [Is there a new guards clause in kotlin when?](https://www.reddit.com/r/Kotlin/comments/1eg9h73/is_there_a_new_guards_clause_in_kotlin_when/)
-- [Kotlin multiplatform administrator mode](https://www.reddit.com/r/Kotlin/comments/1efxayf/kotlin_multiplatform_administrator_mode/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
