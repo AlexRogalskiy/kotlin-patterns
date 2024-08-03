@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Would you guys use this?](https://www.reddit.com/r/Kotlin/comments/1eing37/would_you_guys_use_this/)
+- [Can Kotlin be a good language to explore Math and Statistics?](https://www.reddit.com/r/Kotlin/comments/1eifzed/can_kotlin_be_a_good_language_to_explore_math_and/)
+- [[Ktor] SSL Authentication for KMP project](https://www.reddit.com/r/Kotlin/comments/1eieydh/ktor_ssl_authentication_for_kmp_project/)
+- [Ultimate Kotlin TDD FizzBuzz](https://www.reddit.com/r/Kotlin/comments/1eib3z8/ultimate_kotlin_tdd_fizzbuzz/)
+- [Can&#39;t change Common Attributes of TextView](https://www.reddit.com/r/Kotlin/comments/1ei4spu/cant_change_common_attributes_of_textview/)
+- [Introduction to the Kotlin native and FFI &lpar;Part 1&rpar;](https://www.reddit.com/r/Kotlin/comments/1ei0c7i/introduction_to_the_kotlin_native_and_ffi_part_1/)
 - [So what are the benefits of learning Kotlin over Java?](https://www.reddit.com/r/Kotlin/comments/1ehrq8x/so_what_are_the_benefits_of_learning_kotlin_over/)
 - [Where&#39;s the best place to get help with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ehgil1/wheres_the_best_place_to_get_help_with_kotlin/)
 - [KMP beginner IOS error](https://www.reddit.com/r/Kotlin/comments/1ehahbd/kmp_beginner_ios_error/)
 - [Compose Multiplatform + Lottie Animations](https://www.reddit.com/r/Kotlin/comments/1egtx16/compose_multiplatform_lottie_animations/)
-- [Android App Using Kotlin](https://www.reddit.com/r/Kotlin/comments/1egrzj8/android_app_using_kotlin/)
-- [Gradle frustrations](https://www.reddit.com/r/Kotlin/comments/1egr90x/gradle_frustrations/)
-- [Coroutines: Concurrency in Kotlin - Presentation](https://www.reddit.com/r/Kotlin/comments/1egprjg/coroutines_concurrency_in_kotlin_presentation/)
-- [How to include only those Kotlin classes that are truly required when building a self-contained .jar file with the Kotlin command line compiler?](https://www.reddit.com/r/Kotlin/comments/1egki8s/how_to_include_only_those_kotlin_classes_that_are/)
-- [KotlinConf 2025 tickets are now on sale!](https://www.reddit.com/r/Kotlin/comments/1egjtgs/kotlinconf_2025_tickets_are_now_on_sale/)
-- [📣 Final call: Help us improve the notebook experience in Kotlin](https://www.reddit.com/r/Kotlin/comments/1egji3i/final_call_help_us_improve_the_notebook/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
