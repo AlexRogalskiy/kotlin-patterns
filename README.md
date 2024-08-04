@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Discover the Best NordVPN Discount: 75% Off Through Reddit!](https://www.reddit.com/r/Kotlin/comments/1ejh53w/discover_the_best_nordvpn_discount_75_off_through/)
+- [Update: Is this worthwhile?](https://www.reddit.com/r/Kotlin/comments/1ejgl32/update_is_this_worthwhile/)
+- [ImageToolbox - Image Color Transfer](https://www.reddit.com/r/Kotlin/comments/1eiyrsc/imagetoolbox_image_color_transfer/)
+- [With using KMP &amp; Compose Multiplatform do Swift and SwiftUI required to know ?](https://www.reddit.com/r/Kotlin/comments/1eiuas5/with_using_kmp_compose_multiplatform_do_swift_and/)
 - [Would you guys use this?](https://www.reddit.com/r/Kotlin/comments/1eing37/would_you_guys_use_this/)
 - [Can Kotlin be a good language to explore Math and Statistics?](https://www.reddit.com/r/Kotlin/comments/1eifzed/can_kotlin_be_a_good_language_to_explore_math_and/)
 - [[Ktor] SSL Authentication for KMP project](https://www.reddit.com/r/Kotlin/comments/1eieydh/ktor_ssl_authentication_for_kmp_project/)
 - [Ultimate Kotlin TDD FizzBuzz](https://www.reddit.com/r/Kotlin/comments/1eib3z8/ultimate_kotlin_tdd_fizzbuzz/)
 - [Can&#39;t change Common Attributes of TextView](https://www.reddit.com/r/Kotlin/comments/1ei4spu/cant_change_common_attributes_of_textview/)
 - [Introduction to the Kotlin native and FFI &lpar;Part 1&rpar;](https://www.reddit.com/r/Kotlin/comments/1ei0c7i/introduction_to_the_kotlin_native_and_ffi_part_1/)
-- [So what are the benefits of learning Kotlin over Java?](https://www.reddit.com/r/Kotlin/comments/1ehrq8x/so_what_are_the_benefits_of_learning_kotlin_over/)
-- [Where&#39;s the best place to get help with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ehgil1/wheres_the_best_place_to_get_help_with_kotlin/)
-- [KMP beginner IOS error](https://www.reddit.com/r/Kotlin/comments/1ehahbd/kmp_beginner_ios_error/)
-- [Compose Multiplatform + Lottie Animations](https://www.reddit.com/r/Kotlin/comments/1egtx16/compose_multiplatform_lottie_animations/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
