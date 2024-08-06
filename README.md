@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ksoup is a Kotlin Multiplatform library for working with HTML and XML](https://www.reddit.com/r/Kotlin/comments/1el53ch/ksoup_is_a_kotlin_multiplatform_library_for/)
+- [Do you care for a Kotlin LSP?](https://www.reddit.com/r/Kotlin/comments/1el2p97/do_you_care_for_a_kotlin_lsp/)
+- [Beginner Kotlin question](https://www.reddit.com/r/Kotlin/comments/1ekxdnn/beginner_kotlin_question/)
+- [Weather app for Android, iOS &amp; Desktop with Compose Mutliplatform](https://www.reddit.com/r/Kotlin/comments/1ekqzt6/weather_app_for_android_ios_desktop_with_compose/)
+- [How to Migrate from Hilt to Koin](https://www.reddit.com/r/Kotlin/comments/1eklofo/how_to_migrate_from_hilt_to_koin/)
+- [Introduction to the Kotlin native and FFI &lpar;Part 2&rpar;](https://www.reddit.com/r/Kotlin/comments/1ekgdfp/introduction_to_the_kotlin_native_and_ffi_part_2/)
 - [kotlin not configured](https://www.reddit.com/r/Kotlin/comments/1ek9xsl/kotlin_not_configured/)
 - [Introducing My New Cocktail App! &lpar;Now in Beta Testing&rpar;](https://www.reddit.com/r/Kotlin/comments/1ek6i7l/introducing_my_new_cocktail_app_now_in_beta/)
 - [Is pendo integration available for android?](https://www.reddit.com/r/Kotlin/comments/1ejtjwr/is_pendo_integration_available_for_android/)
 - [Want to learn android dev for a specific app idea I have in mind](https://www.reddit.com/r/Kotlin/comments/1ejpngv/want_to_learn_android_dev_for_a_specific_app_idea/)
-- [I need help for maiking an audio app in kotlin](https://www.reddit.com/r/Kotlin/comments/1ejobc0/i_need_help_for_maiking_an_audio_app_in_kotlin/)
-- [Discover the Best NordVPN Discount: 75% Off Through Reddit!](https://www.reddit.com/r/Kotlin/comments/1ejh53w/discover_the_best_nordvpn_discount_75_off_through/)
-- [Update: Is this worthwhile?](https://www.reddit.com/r/Kotlin/comments/1ejgl32/update_is_this_worthwhile/)
-- [ImageToolbox - Image Color Transfer](https://www.reddit.com/r/Kotlin/comments/1eiyrsc/imagetoolbox_image_color_transfer/)
-- [With using KMP &amp; Compose Multiplatform do Swift and SwiftUI required to know ?](https://www.reddit.com/r/Kotlin/comments/1eiuas5/with_using_kmp_compose_multiplatform_do_swift_and/)
-- [Would you guys use this?](https://www.reddit.com/r/Kotlin/comments/1eing37/would_you_guys_use_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
