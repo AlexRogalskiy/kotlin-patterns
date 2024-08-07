@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Having trouble applying fonts globally.](https://www.reddit.com/r/Kotlin/comments/1elyvnc/having_trouble_applying_fonts_globally/)
+- [When I see a Java dev write Kotlin in a Java-esque way](https://www.reddit.com/r/Kotlin/comments/1elsus4/when_i_see_a_java_dev_write_kotlin_in_a_javaesque/)
+- [I made a beginner Kotlin developer discord group](https://www.reddit.com/r/Kotlin/comments/1elo5j3/i_made_a_beginner_kotlin_developer_discord_group/)
+- [Building a Kotlin Spring Boot + MongoDB Atlas Search](https://www.reddit.com/r/Kotlin/comments/1elmb9f/building_a_kotlin_spring_boot_mongodb_atlas_search/)
+- [Central Ohio Developers](https://www.reddit.com/r/Kotlin/comments/1elgfw2/central_ohio_developers/)
+- [Autocomplete in Android Studio Obnoxious? Or just me?](https://www.reddit.com/r/Kotlin/comments/1elflfn/autocomplete_in_android_studio_obnoxious_or_just/)
+- [Need a study buddy](https://www.reddit.com/r/Kotlin/comments/1elfg6y/need_a_study_buddy/)
+- [Kotlin Compose and Web Frontend Stack... Is it possible?](https://www.reddit.com/r/Kotlin/comments/1elcw5e/kotlin_compose_and_web_frontend_stack_is_it/)
 - [Ksoup is a Kotlin Multiplatform library for working with HTML and XML](https://www.reddit.com/r/Kotlin/comments/1el53ch/ksoup_is_a_kotlin_multiplatform_library_for/)
 - [Do you care for a Kotlin LSP?](https://www.reddit.com/r/Kotlin/comments/1el2p97/do_you_care_for_a_kotlin_lsp/)
-- [Beginner Kotlin question](https://www.reddit.com/r/Kotlin/comments/1ekxdnn/beginner_kotlin_question/)
-- [Weather app for Android, iOS &amp; Desktop with Compose Mutliplatform](https://www.reddit.com/r/Kotlin/comments/1ekqzt6/weather_app_for_android_ios_desktop_with_compose/)
-- [How to Migrate from Hilt to Koin](https://www.reddit.com/r/Kotlin/comments/1eklofo/how_to_migrate_from_hilt_to_koin/)
-- [Introduction to the Kotlin native and FFI &lpar;Part 2&rpar;](https://www.reddit.com/r/Kotlin/comments/1ekgdfp/introduction_to_the_kotlin_native_and_ffi_part_2/)
-- [kotlin not configured](https://www.reddit.com/r/Kotlin/comments/1ek9xsl/kotlin_not_configured/)
-- [Introducing My New Cocktail App! &lpar;Now in Beta Testing&rpar;](https://www.reddit.com/r/Kotlin/comments/1ek6i7l/introducing_my_new_cocktail_app_now_in_beta/)
-- [Is pendo integration available for android?](https://www.reddit.com/r/Kotlin/comments/1ejtjwr/is_pendo_integration_available_for_android/)
-- [Want to learn android dev for a specific app idea I have in mind](https://www.reddit.com/r/Kotlin/comments/1ejpngv/want_to_learn_android_dev_for_a_specific_app_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
