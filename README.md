@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about concurrent reads](https://www.reddit.com/r/Kotlin/comments/1ems96z/question_about_concurrent_reads/)
+- [Applying the Strategy Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1eme1i7/applying_the_strategy_pattern_in_kotlin/)
+- [Good book on webdev in Kotlin without Android or Java background?](https://www.reddit.com/r/Kotlin/comments/1em0acd/good_book_on_webdev_in_kotlin_without_android_or/)
 - [Having trouble applying fonts globally.](https://www.reddit.com/r/Kotlin/comments/1elyvnc/having_trouble_applying_fonts_globally/)
 - [When I see a Java dev write Kotlin in a Java-esque way](https://www.reddit.com/r/Kotlin/comments/1elsus4/when_i_see_a_java_dev_write_kotlin_in_a_javaesque/)
 - [I made a beginner Kotlin developer discord group](https://www.reddit.com/r/Kotlin/comments/1elo5j3/i_made_a_beginner_kotlin_developer_discord_group/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Central Ohio Developers](https://www.reddit.com/r/Kotlin/comments/1elgfw2/central_ohio_developers/)
 - [Autocomplete in Android Studio Obnoxious? Or just me?](https://www.reddit.com/r/Kotlin/comments/1elflfn/autocomplete_in_android_studio_obnoxious_or_just/)
 - [Need a study buddy](https://www.reddit.com/r/Kotlin/comments/1elfg6y/need_a_study_buddy/)
-- [Kotlin Compose and Web Frontend Stack... Is it possible?](https://www.reddit.com/r/Kotlin/comments/1elcw5e/kotlin_compose_and_web_frontend_stack_is_it/)
-- [Ksoup is a Kotlin Multiplatform library for working with HTML and XML](https://www.reddit.com/r/Kotlin/comments/1el53ch/ksoup_is_a_kotlin_multiplatform_library_for/)
-- [Do you care for a Kotlin LSP?](https://www.reddit.com/r/Kotlin/comments/1el2p97/do_you_care_for_a_kotlin_lsp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
