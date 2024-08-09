@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lifecycle Path to Multiplatform](https://www.reddit.com/r/Kotlin/comments/1enlpkf/lifecycle_path_to_multiplatform/)
+- [Any Koin users up for a casual meetup ahead of Droidcon NYC ?](https://www.reddit.com/r/Kotlin/comments/1eni2pp/any_koin_users_up_for_a_casual_meetup_ahead_of/)
+- [Is there a place where I can find data on MAU of Kotlin code transplation to other programming languages &lpar;e.g. Javascript&rpar;?](https://www.reddit.com/r/Kotlin/comments/1enekx6/is_there_a_place_where_i_can_find_data_on_mau_of/)
+- [Kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/1encj7n/kotlin_coroutines/)
 - [Question about concurrent reads](https://www.reddit.com/r/Kotlin/comments/1ems96z/question_about_concurrent_reads/)
 - [Applying the Strategy Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1eme1i7/applying_the_strategy_pattern_in_kotlin/)
 - [Good book on webdev in Kotlin without Android or Java background?](https://www.reddit.com/r/Kotlin/comments/1em0acd/good_book_on_webdev_in_kotlin_without_android_or/)
 - [Having trouble applying fonts globally.](https://www.reddit.com/r/Kotlin/comments/1elyvnc/having_trouble_applying_fonts_globally/)
 - [When I see a Java dev write Kotlin in a Java-esque way](https://www.reddit.com/r/Kotlin/comments/1elsus4/when_i_see_a_java_dev_write_kotlin_in_a_javaesque/)
 - [I made a beginner Kotlin developer discord group](https://www.reddit.com/r/Kotlin/comments/1elo5j3/i_made_a_beginner_kotlin_developer_discord_group/)
-- [Building a Kotlin Spring Boot + MongoDB Atlas Search](https://www.reddit.com/r/Kotlin/comments/1elmb9f/building_a_kotlin_spring_boot_mongodb_atlas_search/)
-- [Central Ohio Developers](https://www.reddit.com/r/Kotlin/comments/1elgfw2/central_ohio_developers/)
-- [Autocomplete in Android Studio Obnoxious? Or just me?](https://www.reddit.com/r/Kotlin/comments/1elflfn/autocomplete_in_android_studio_obnoxious_or_just/)
-- [Need a study buddy](https://www.reddit.com/r/Kotlin/comments/1elfg6y/need_a_study_buddy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
