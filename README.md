@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Lifecycle Path to Multiplatform](https://www.reddit.com/r/Kotlin/comments/1enlpkf/lifecycle_path_to_multiplatform/)
-- [Any Koin users up for a casual meetup ahead of Droidcon NYC ?](https://www.reddit.com/r/Kotlin/comments/1eni2pp/any_koin_users_up_for_a_casual_meetup_ahead_of/)
-- [Is there a place where I can find data on MAU of Kotlin code transplation to other programming languages &lpar;e.g. Javascript&rpar;?](https://www.reddit.com/r/Kotlin/comments/1enekx6/is_there_a_place_where_i_can_find_data_on_mau_of/)
-- [Kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/1encj7n/kotlin_coroutines/)
-- [Question about concurrent reads](https://www.reddit.com/r/Kotlin/comments/1ems96z/question_about_concurrent_reads/)
-- [Applying the Strategy Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1eme1i7/applying_the_strategy_pattern_in_kotlin/)
-- [Good book on webdev in Kotlin without Android or Java background?](https://www.reddit.com/r/Kotlin/comments/1em0acd/good_book_on_webdev_in_kotlin_without_android_or/)
-- [Having trouble applying fonts globally.](https://www.reddit.com/r/Kotlin/comments/1elyvnc/having_trouble_applying_fonts_globally/)
-- [When I see a Java dev write Kotlin in a Java-esque way](https://www.reddit.com/r/Kotlin/comments/1elsus4/when_i_see_a_java_dev_write_kotlin_in_a_javaesque/)
-- [I made a beginner Kotlin developer discord group](https://www.reddit.com/r/Kotlin/comments/1elo5j3/i_made_a_beginner_kotlin_developer_discord_group/)
+- [Issue with material3 in compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1eof4of/issue_with_material3_in_compose_multiplatform/)
+- [Question: Cannot access &#39;&lt;init&gt;&#39;: it is private in &#39;Auth0&#39;](https://www.reddit.com/r/Kotlin/comments/1eoei5p/question_cannot_access_init_it_is_private_in_auth0/)
+- [Kotlin, Ktor, and MongoDB Example](https://www.reddit.com/r/Kotlin/comments/1eo6rnq/kotlin_ktor_and_mongodb_example/)
+- [Compose for web?](https://www.reddit.com/r/Kotlin/comments/1eo58n9/compose_for_web/)
+- [I really need help with Kotlin.](https://www.reddit.com/r/Kotlin/comments/1eo4igs/i_really_need_help_with_kotlin/)
+- [What do you think about Kotlin JS, what do you feel JetBrains should do with it in the future?](https://www.reddit.com/r/Kotlin/comments/1eo2ps1/what_do_you_think_about_kotlin_js_what_do_you/)
+- [Looking for usage metrics around JetBrains and their products &lpar;e.g. IDEs, etc.&rpar;?](https://www.reddit.com/r/Kotlin/comments/1eo1pkr/looking_for_usage_metrics_around_jetbrains_and/)
+- [CoroutineScope](https://www.reddit.com/r/Kotlin/comments/1eo0uu7/coroutinescope/)
+- [Refactoring to Functional Kotlin - Actions, Calculations and Sequences](https://www.reddit.com/r/Kotlin/comments/1envjva/refactoring_to_functional_kotlin_actions/)
+- [Progressive Web Apps vs. Native Apps: Which Works Best for Your Business?](https://www.reddit.com/r/Kotlin/comments/1entwtt/progressive_web_apps_vs_native_apps_which_works/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
