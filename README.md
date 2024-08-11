@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP slower than non-native?](https://www.reddit.com/r/Kotlin/comments/1ep3l59/kmp_slower_than_nonnative/)
+- [Build compose desktop from source?](https://www.reddit.com/r/Kotlin/comments/1ep1mma/build_compose_desktop_from_source/)
+- [Recommend a spring boot course in udemy?](https://www.reddit.com/r/Kotlin/comments/1eoztxc/recommend_a_spring_boot_course_in_udemy/)
+- [Laggy Search](https://www.reddit.com/r/Kotlin/comments/1eoxzo1/laggy_search/)
+- [Doubt about thread safety in kotlin &lpar;in-memory cache of a data layer repository&rpar;](https://www.reddit.com/r/Kotlin/comments/1eop776/doubt_about_thread_safety_in_kotlin_inmemory/)
+- [Edge cannot open Compose Multiplatform web project](https://www.reddit.com/r/Kotlin/comments/1eokqlv/edge_cannot_open_compose_multiplatform_web_project/)
 - [Issue with material3 in compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1eof4of/issue_with_material3_in_compose_multiplatform/)
 - [Question: Cannot access &#39;&lt;init&gt;&#39;: it is private in &#39;Auth0&#39;](https://www.reddit.com/r/Kotlin/comments/1eoei5p/question_cannot_access_init_it_is_private_in_auth0/)
 - [Kotlin, Ktor, and MongoDB Example](https://www.reddit.com/r/Kotlin/comments/1eo6rnq/kotlin_ktor_and_mongodb_example/)
 - [Compose for web?](https://www.reddit.com/r/Kotlin/comments/1eo58n9/compose_for_web/)
-- [I really need help with Kotlin.](https://www.reddit.com/r/Kotlin/comments/1eo4igs/i_really_need_help_with_kotlin/)
-- [What do you think about Kotlin JS, what do you feel JetBrains should do with it in the future?](https://www.reddit.com/r/Kotlin/comments/1eo2ps1/what_do_you_think_about_kotlin_js_what_do_you/)
-- [Looking for usage metrics around JetBrains and their products &lpar;e.g. IDEs, etc.&rpar;?](https://www.reddit.com/r/Kotlin/comments/1eo1pkr/looking_for_usage_metrics_around_jetbrains_and/)
-- [CoroutineScope](https://www.reddit.com/r/Kotlin/comments/1eo0uu7/coroutinescope/)
-- [Refactoring to Functional Kotlin - Actions, Calculations and Sequences](https://www.reddit.com/r/Kotlin/comments/1envjva/refactoring_to_functional_kotlin_actions/)
-- [Progressive Web Apps vs. Native Apps: Which Works Best for Your Business?](https://www.reddit.com/r/Kotlin/comments/1entwtt/progressive_web_apps_vs_native_apps_which_works/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
