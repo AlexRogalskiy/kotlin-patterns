@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Flow](https://www.reddit.com/r/Kotlin/comments/1epqowv/flow/)
+- [Ways to compile and run a Kotlin app](https://www.reddit.com/r/Kotlin/comments/1epomzv/ways_to_compile_and_run_a_kotlin_app/)
 - [KMP slower than non-native?](https://www.reddit.com/r/Kotlin/comments/1ep3l59/kmp_slower_than_nonnative/)
 - [Build compose desktop from source?](https://www.reddit.com/r/Kotlin/comments/1ep1mma/build_compose_desktop_from_source/)
 - [Recommend a spring boot course in udemy?](https://www.reddit.com/r/Kotlin/comments/1eoztxc/recommend_a_spring_boot_course_in_udemy/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Edge cannot open Compose Multiplatform web project](https://www.reddit.com/r/Kotlin/comments/1eokqlv/edge_cannot_open_compose_multiplatform_web_project/)
 - [Issue with material3 in compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1eof4of/issue_with_material3_in_compose_multiplatform/)
 - [Question: Cannot access &#39;&lt;init&gt;&#39;: it is private in &#39;Auth0&#39;](https://www.reddit.com/r/Kotlin/comments/1eoei5p/question_cannot_access_init_it_is_private_in_auth0/)
-- [Kotlin, Ktor, and MongoDB Example](https://www.reddit.com/r/Kotlin/comments/1eo6rnq/kotlin_ktor_and_mongodb_example/)
-- [Compose for web?](https://www.reddit.com/r/Kotlin/comments/1eo58n9/compose_for_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
