@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What the easiest way to parse xml in kotlin jvm](https://www.reddit.com/r/Kotlin/comments/1eqls5b/what_the_easiest_way_to_parse_xml_in_kotlin_jvm/)
+- [🔊 Webinar Alert: How to Migrate from Hilt to Koin for KMP](https://www.reddit.com/r/Kotlin/comments/1eqkkuo/webinar_alert_how_to_migrate_from_hilt_to_koin/)
+- [So sell me on KMM](https://www.reddit.com/r/Kotlin/comments/1eqgwpr/so_sell_me_on_kmm/)
+- [How frequently is the &#39;compile&#39; option in KAPT&#39;s aptMode used for Kotlin compiler annotation processing?](https://www.reddit.com/r/Kotlin/comments/1eqcqm9/how_frequently_is_the_compile_option_in_kapts/)
+- [😵 Your email address is not a string.](https://www.reddit.com/r/Kotlin/comments/1eq9uz1/your_email_address_is_not_a_string/)
+- [Testing freaky level generation](https://www.reddit.com/r/Kotlin/comments/1eq987y/testing_freaky_level_generation/)
+- [Interoperability between Kotlin and Rust, using FFI &lpar;Part 1&rpar;](https://www.reddit.com/r/Kotlin/comments/1eq80x2/interoperability_between_kotlin_and_rust_using/)
+- [When i click on the upload file button the image is not being selected, can you please review my code.](https://www.reddit.com/r/Kotlin/comments/1eq7xhc/when_i_click_on_the_upload_file_button_the_image/)
 - [Flow](https://www.reddit.com/r/Kotlin/comments/1epqowv/flow/)
 - [Ways to compile and run a Kotlin app](https://www.reddit.com/r/Kotlin/comments/1epomzv/ways_to_compile_and_run_a_kotlin_app/)
-- [KMP slower than non-native?](https://www.reddit.com/r/Kotlin/comments/1ep3l59/kmp_slower_than_nonnative/)
-- [Build compose desktop from source?](https://www.reddit.com/r/Kotlin/comments/1ep1mma/build_compose_desktop_from_source/)
-- [Recommend a spring boot course in udemy?](https://www.reddit.com/r/Kotlin/comments/1eoztxc/recommend_a_spring_boot_course_in_udemy/)
-- [Laggy Search](https://www.reddit.com/r/Kotlin/comments/1eoxzo1/laggy_search/)
-- [Doubt about thread safety in kotlin &lpar;in-memory cache of a data layer repository&rpar;](https://www.reddit.com/r/Kotlin/comments/1eop776/doubt_about_thread_safety_in_kotlin_inmemory/)
-- [Edge cannot open Compose Multiplatform web project](https://www.reddit.com/r/Kotlin/comments/1eokqlv/edge_cannot_open_compose_multiplatform_web_project/)
-- [Issue with material3 in compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1eof4of/issue_with_material3_in_compose_multiplatform/)
-- [Question: Cannot access &#39;&lt;init&gt;&#39;: it is private in &#39;Auth0&#39;](https://www.reddit.com/r/Kotlin/comments/1eoei5p/question_cannot_access_init_it_is_private_in_auth0/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
