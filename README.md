@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Freshly generated kotlin multi platform app has errors relating the kotlin_multiplatform package not existing](https://www.reddit.com/r/Kotlin/comments/1erir5a/freshly_generated_kotlin_multi_platform_app_has/)
+- [Writing plugin in Kotlin for both IntelliJ and VS Code](https://www.reddit.com/r/Kotlin/comments/1erhdrz/writing_plugin_in_kotlin_for_both_intellij_and_vs/)
+- [What to do with publishing logic &lpar;in Gradle&rpar; of your open source project when uploading to GitHub?](https://www.reddit.com/r/Kotlin/comments/1er8efx/what_to_do_with_publishing_logic_in_gradle_of/)
+- [Compilation help request - kotlin compose &quot;withLink&quot; giving me &#39;unresolved reference&#39; error](https://www.reddit.com/r/Kotlin/comments/1er1lkf/compilation_help_request_kotlin_compose_withlink/)
+- [Carbon design system Compose Multiplatform library](https://www.reddit.com/r/Kotlin/comments/1er0bbx/carbon_design_system_compose_multiplatform_library/)
+- [Wish there was such a thing as &quot;lateinit val&quot;](https://www.reddit.com/r/Kotlin/comments/1eqzs9f/wish_there_was_such_a_thing_as_lateinit_val/)
+- [A question on the usage of delegated properties by Gradle&#39;s Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1eqxb23/a_question_on_the_usage_of_delegated_properties/)
 - [What the easiest way to parse xml in kotlin jvm](https://www.reddit.com/r/Kotlin/comments/1eqls5b/what_the_easiest_way_to_parse_xml_in_kotlin_jvm/)
 - [🔊 Webinar Alert: How to Migrate from Hilt to Koin for KMP](https://www.reddit.com/r/Kotlin/comments/1eqkkuo/webinar_alert_how_to_migrate_from_hilt_to_koin/)
 - [So sell me on KMM](https://www.reddit.com/r/Kotlin/comments/1eqgwpr/so_sell_me_on_kmm/)
-- [How frequently is the &#39;compile&#39; option in KAPT&#39;s aptMode used for Kotlin compiler annotation processing?](https://www.reddit.com/r/Kotlin/comments/1eqcqm9/how_frequently_is_the_compile_option_in_kapts/)
-- [😵 Your email address is not a string.](https://www.reddit.com/r/Kotlin/comments/1eq9uz1/your_email_address_is_not_a_string/)
-- [Testing freaky level generation](https://www.reddit.com/r/Kotlin/comments/1eq987y/testing_freaky_level_generation/)
-- [Interoperability between Kotlin and Rust, using FFI &lpar;Part 1&rpar;](https://www.reddit.com/r/Kotlin/comments/1eq80x2/interoperability_between_kotlin_and_rust_using/)
-- [When i click on the upload file button the image is not being selected, can you please review my code.](https://www.reddit.com/r/Kotlin/comments/1eq7xhc/when_i_click_on_the_upload_file_button_the_image/)
-- [Flow](https://www.reddit.com/r/Kotlin/comments/1epqowv/flow/)
-- [Ways to compile and run a Kotlin app](https://www.reddit.com/r/Kotlin/comments/1epomzv/ways_to_compile_and_run_a_kotlin_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
