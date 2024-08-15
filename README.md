@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin is so much more than an &quot;Android aplication development language&quot;](https://www.reddit.com/r/Kotlin/comments/1es6reo/kotlin_is_so_much_more_than_an_android_aplication/)
+- [Using Ktor 3.0 with All the Shiny Things • Garth Gilmour](https://www.reddit.com/r/Kotlin/comments/1es544p/using_ktor_30_with_all_the_shiny_things_garth/)
+- [Worried if Kotlin is a good language to learn](https://www.reddit.com/r/Kotlin/comments/1es4a5o/worried_if_kotlin_is_a_good_language_to_learn/)
+- [Finding Kotlin tutorials](https://www.reddit.com/r/Kotlin/comments/1erze9o/finding_kotlin_tutorials/)
+- [Kotlin Roundup: Ktor in Focus](https://www.reddit.com/r/Kotlin/comments/1erxih2/kotlin_roundup_ktor_in_focus/)
 - [Freshly generated kotlin multi platform app has errors relating the kotlin_multiplatform package not existing](https://www.reddit.com/r/Kotlin/comments/1erir5a/freshly_generated_kotlin_multi_platform_app_has/)
 - [Writing plugin in Kotlin for both IntelliJ and VS Code](https://www.reddit.com/r/Kotlin/comments/1erhdrz/writing_plugin_in_kotlin_for_both_intellij_and_vs/)
 - [What to do with publishing logic &lpar;in Gradle&rpar; of your open source project when uploading to GitHub?](https://www.reddit.com/r/Kotlin/comments/1er8efx/what_to_do_with_publishing_logic_in_gradle_of/)
 - [Compilation help request - kotlin compose &quot;withLink&quot; giving me &#39;unresolved reference&#39; error](https://www.reddit.com/r/Kotlin/comments/1er1lkf/compilation_help_request_kotlin_compose_withlink/)
 - [Carbon design system Compose Multiplatform library](https://www.reddit.com/r/Kotlin/comments/1er0bbx/carbon_design_system_compose_multiplatform_library/)
-- [Wish there was such a thing as &quot;lateinit val&quot;](https://www.reddit.com/r/Kotlin/comments/1eqzs9f/wish_there_was_such_a_thing_as_lateinit_val/)
-- [A question on the usage of delegated properties by Gradle&#39;s Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1eqxb23/a_question_on_the_usage_of_delegated_properties/)
-- [What the easiest way to parse xml in kotlin jvm](https://www.reddit.com/r/Kotlin/comments/1eqls5b/what_the_easiest_way_to_parse_xml_in_kotlin_jvm/)
-- [🔊 Webinar Alert: How to Migrate from Hilt to Koin for KMP](https://www.reddit.com/r/Kotlin/comments/1eqkkuo/webinar_alert_how_to_migrate_from_hilt_to_koin/)
-- [So sell me on KMM](https://www.reddit.com/r/Kotlin/comments/1eqgwpr/so_sell_me_on_kmm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
