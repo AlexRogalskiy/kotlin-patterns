@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Chicago job market](https://www.reddit.com/r/Kotlin/comments/1et3yvv/chicago_job_market/)
+- [Trying to add UI to Kotlin project with Compose](https://www.reddit.com/r/Kotlin/comments/1et259j/trying_to_add_ui_to_kotlin_project_with_compose/)
+- [I&#39;ve learnt kotlin and app development from a udemy course &lpar;this one: https://www.udemy.com/course/kotlin-masterclass-learn-kotlin-from-zero-to-advanced&rpar; now can some one tell me what course should I do to become expert in android development using kotlin](https://www.reddit.com/r/Kotlin/comments/1et1gnt/ive_learnt_kotlin_and_app_development_from_a/)
+- [Composition over Inheritance in Kotlin](https://www.reddit.com/r/Kotlin/comments/1esux4q/composition_over_inheritance_in_kotlin/)
+- [y9san9/calkt: Kotlin library that supports parsing and calculating various expressions](https://www.reddit.com/r/Kotlin/comments/1esseak/y9san9calkt_kotlin_library_that_supports_parsing/)
+- [A website fully with kotlin?](https://www.reddit.com/r/Kotlin/comments/1esnna8/a_website_fully_with_kotlin/)
 - [Kotlin is so much more than an &quot;Android aplication development language&quot;](https://www.reddit.com/r/Kotlin/comments/1es6reo/kotlin_is_so_much_more_than_an_android_aplication/)
 - [Using Ktor 3.0 with All the Shiny Things • Garth Gilmour](https://www.reddit.com/r/Kotlin/comments/1es544p/using_ktor_30_with_all_the_shiny_things_garth/)
 - [Worried if Kotlin is a good language to learn](https://www.reddit.com/r/Kotlin/comments/1es4a5o/worried_if_kotlin_is_a_good_language_to_learn/)
 - [Finding Kotlin tutorials](https://www.reddit.com/r/Kotlin/comments/1erze9o/finding_kotlin_tutorials/)
-- [Kotlin Roundup: Ktor in Focus](https://www.reddit.com/r/Kotlin/comments/1erxih2/kotlin_roundup_ktor_in_focus/)
-- [Freshly generated kotlin multi platform app has errors relating the kotlin_multiplatform package not existing](https://www.reddit.com/r/Kotlin/comments/1erir5a/freshly_generated_kotlin_multi_platform_app_has/)
-- [Writing plugin in Kotlin for both IntelliJ and VS Code](https://www.reddit.com/r/Kotlin/comments/1erhdrz/writing_plugin_in_kotlin_for_both_intellij_and_vs/)
-- [What to do with publishing logic &lpar;in Gradle&rpar; of your open source project when uploading to GitHub?](https://www.reddit.com/r/Kotlin/comments/1er8efx/what_to_do_with_publishing_logic_in_gradle_of/)
-- [Compilation help request - kotlin compose &quot;withLink&quot; giving me &#39;unresolved reference&#39; error](https://www.reddit.com/r/Kotlin/comments/1er1lkf/compilation_help_request_kotlin_compose_withlink/)
-- [Carbon design system Compose Multiplatform library](https://www.reddit.com/r/Kotlin/comments/1er0bbx/carbon_design_system_compose_multiplatform_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
