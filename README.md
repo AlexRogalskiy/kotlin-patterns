@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pet Projects Ideas for Android Devs](https://www.reddit.com/r/Kotlin/comments/1etv8za/pet_projects_ideas_for_android_devs/)
+- [AI-Generated Property-Based Fizz-BuzzWords - Now with Dark Mode](https://www.reddit.com/r/Kotlin/comments/1etpe9t/aigenerated_propertybased_fizzbuzzwords_now_with/)
+- [HotReload Compose ?](https://www.reddit.com/r/Kotlin/comments/1etkp5x/hotreload_compose/)
+- [What is the time and space complexity of the `.copy&lpar;&rpar;` method for data classes in Kotlin? Is it possible to access the source code implementation of this method to verify the complexity analysis?](https://www.reddit.com/r/Kotlin/comments/1etkke4/what_is_the_time_and_space_complexity_of_the_copy/)
+- [Where did you learn Kotlin, and what do you recommend for me?](https://www.reddit.com/r/Kotlin/comments/1etiuor/where_did_you_learn_kotlin_and_what_do_you/)
 - [Chicago job market](https://www.reddit.com/r/Kotlin/comments/1et3yvv/chicago_job_market/)
 - [Trying to add UI to Kotlin project with Compose](https://www.reddit.com/r/Kotlin/comments/1et259j/trying_to_add_ui_to_kotlin_project_with_compose/)
 - [I&#39;ve learnt kotlin and app development from a udemy course &lpar;this one: https://www.udemy.com/course/kotlin-masterclass-learn-kotlin-from-zero-to-advanced&rpar; now can some one tell me what course should I do to become expert in android development using kotlin](https://www.reddit.com/r/Kotlin/comments/1et1gnt/ive_learnt_kotlin_and_app_development_from_a/)
 - [Composition over Inheritance in Kotlin](https://www.reddit.com/r/Kotlin/comments/1esux4q/composition_over_inheritance_in_kotlin/)
 - [y9san9/calkt: Kotlin library that supports parsing and calculating various expressions](https://www.reddit.com/r/Kotlin/comments/1esseak/y9san9calkt_kotlin_library_that_supports_parsing/)
-- [A website fully with kotlin?](https://www.reddit.com/r/Kotlin/comments/1esnna8/a_website_fully_with_kotlin/)
-- [Kotlin is so much more than an &quot;Android aplication development language&quot;](https://www.reddit.com/r/Kotlin/comments/1es6reo/kotlin_is_so_much_more_than_an_android_aplication/)
-- [Using Ktor 3.0 with All the Shiny Things • Garth Gilmour](https://www.reddit.com/r/Kotlin/comments/1es544p/using_ktor_30_with_all_the_shiny_things_garth/)
-- [Worried if Kotlin is a good language to learn](https://www.reddit.com/r/Kotlin/comments/1es4a5o/worried_if_kotlin_is_a_good_language_to_learn/)
-- [Finding Kotlin tutorials](https://www.reddit.com/r/Kotlin/comments/1erze9o/finding_kotlin_tutorials/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
