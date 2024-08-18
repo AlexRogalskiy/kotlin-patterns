@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Pet Projects Ideas for Android Devs](https://www.reddit.com/r/Kotlin/comments/1etv8za/pet_projects_ideas_for_android_devs/)
+- [Cost savings with KMP?](https://www.reddit.com/r/Kotlin/comments/1euwoyv/cost_savings_with_kmp/)
+- [Is KMM viable for a full desktop app?](https://www.reddit.com/r/Kotlin/comments/1eutbs6/is_kmm_viable_for_a_full_desktop_app/)
+- [Composition over Inheritance in Kotlin](https://www.reddit.com/r/Kotlin/comments/1eupgt4/composition_over_inheritance_in_kotlin/)
+- [Simplifying folder structure?](https://www.reddit.com/r/Kotlin/comments/1eug983/simplifying_folder_structure/)
 - [AI-Generated Property-Based Fizz-BuzzWords - Now with Dark Mode](https://www.reddit.com/r/Kotlin/comments/1etpe9t/aigenerated_propertybased_fizzbuzzwords_now_with/)
 - [HotReload Compose ?](https://www.reddit.com/r/Kotlin/comments/1etkp5x/hotreload_compose/)
 - [What is the time and space complexity of the `.copy&lpar;&rpar;` method for data classes in Kotlin? Is it possible to access the source code implementation of this method to verify the complexity analysis?](https://www.reddit.com/r/Kotlin/comments/1etkke4/what_is_the_time_and_space_complexity_of_the_copy/)
 - [Where did you learn Kotlin, and what do you recommend for me?](https://www.reddit.com/r/Kotlin/comments/1etiuor/where_did_you_learn_kotlin_and_what_do_you/)
 - [Chicago job market](https://www.reddit.com/r/Kotlin/comments/1et3yvv/chicago_job_market/)
 - [Trying to add UI to Kotlin project with Compose](https://www.reddit.com/r/Kotlin/comments/1et259j/trying_to_add_ui_to_kotlin_project_with_compose/)
-- [I&#39;ve learnt kotlin and app development from a udemy course &lpar;this one: https://www.udemy.com/course/kotlin-masterclass-learn-kotlin-from-zero-to-advanced&rpar; now can some one tell me what course should I do to become expert in android development using kotlin](https://www.reddit.com/r/Kotlin/comments/1et1gnt/ive_learnt_kotlin_and_app_development_from_a/)
-- [Composition over Inheritance in Kotlin](https://www.reddit.com/r/Kotlin/comments/1esux4q/composition_over_inheritance_in_kotlin/)
-- [y9san9/calkt: Kotlin library that supports parsing and calculating various expressions](https://www.reddit.com/r/Kotlin/comments/1esseak/y9san9calkt_kotlin_library_that_supports_parsing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
