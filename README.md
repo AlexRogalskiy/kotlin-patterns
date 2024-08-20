@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best practices for handling multiple completableFutures](https://www.reddit.com/r/Kotlin/comments/1ewjgsp/best_practices_for_handling_multiple/)
+- [Recommend a spring boot course/guide for jwt and docker integration?](https://www.reddit.com/r/Kotlin/comments/1ewe92w/recommend_a_spring_boot_courseguide_for_jwt_and/)
+- [Application code generator tool like JHipster](https://www.reddit.com/r/Kotlin/comments/1ewcdon/application_code_generator_tool_like_jhipster/)
+- [burnoo/compose-remember-setting: Compose Multiplatform library for remembering state persistently](https://www.reddit.com/r/Kotlin/comments/1ewa283/burnoocomposeremembersetting_compose/)
+- [Searching for Android App Testers for my Cooking React Native App &lpar;as a reward you will be granted a 1 year app subscription&rpar;](https://www.reddit.com/r/Kotlin/comments/1ew95lf/searching_for_android_app_testers_for_my_cooking/)
+- [Spring Data - JPA vs JDBC](https://www.reddit.com/r/Kotlin/comments/1ew7d1o/spring_data_jpa_vs_jdbc/)
+- [What are some good analogies for what CoroutineScope does?](https://www.reddit.com/r/Kotlin/comments/1evys5a/what_are_some_good_analogies_for_what/)
+- [Live Q&amp;A - Coroutines Strengths and Dangers, wt., 27 sie 2024, 15:00](https://www.reddit.com/r/Kotlin/comments/1evx2hg/live_qa_coroutines_strengths_and_dangers_wt_27/)
 - [What are the &quot;go to&quot; features that only Kotlin can do as opposed to modern Java?](https://www.reddit.com/r/Kotlin/comments/1evivse/what_are_the_go_to_features_that_only_kotlin_can/)
 - [Has anyone tried the new ViewModel and Navigation API in compose multiplatform?](https://www.reddit.com/r/Kotlin/comments/1evevu6/has_anyone_tried_the_new_viewmodel_and_navigation/)
-- [Asynchronous Queue with fine-grained control over concurrency](https://www.reddit.com/r/Kotlin/comments/1evefvy/asynchronous_queue_with_finegrained_control_over/)
-- [Data binding not updating](https://www.reddit.com/r/Kotlin/comments/1ev7tpy/data_binding_not_updating/)
-- [Looking for a Kotlin parser to replace Java Antlr parser](https://www.reddit.com/r/Kotlin/comments/1ev5xns/looking_for_a_kotlin_parser_to_replace_java_antlr/)
-- [AB Download Manager - An open-source alternative to IDM, built on Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1ev467y/ab_download_manager_an_opensource_alternative_to/)
-- [why output shows &quot;next level&quot;?](https://www.reddit.com/r/Kotlin/comments/1ev3sfr/why_output_shows_next_level/)
-- [How to share font Styles in a KMP proyect?](https://www.reddit.com/r/Kotlin/comments/1euzyri/how_to_share_font_styles_in_a_kmp_proyect/)
-- [Cost savings with KMP?](https://www.reddit.com/r/Kotlin/comments/1euwoyv/cost_savings_with_kmp/)
-- [Is KMM viable for a full desktop app?](https://www.reddit.com/r/Kotlin/comments/1eutbs6/is_kmm_viable_for_a_full_desktop_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
