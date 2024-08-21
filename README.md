@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best practices for handling multiple completableFutures](https://www.reddit.com/r/Kotlin/comments/1ewjgsp/best_practices_for_handling_multiple/)
+- [Does building functional DSL help?](https://www.reddit.com/r/Kotlin/comments/1ewze9n/does_building_functional_dsl_help/)
+- [Is it good to use Kotlin for backend in a react js web app ?](https://www.reddit.com/r/Kotlin/comments/1ewu8ga/is_it_good_to_use_kotlin_for_backend_in_a_react/)
+- [I can&#39;t change my Logcat to UTF-8](https://www.reddit.com/r/Kotlin/comments/1ewrlia/i_cant_change_my_logcat_to_utf8/)
+- [Where is Kotlin native linuxX64/linuxArm64 most lacking that prevents it from competing with Go?](https://www.reddit.com/r/Kotlin/comments/1ewl7hq/where_is_kotlin_native_linuxx64linuxarm64_most/)
 - [Recommend a spring boot course/guide for jwt and docker integration?](https://www.reddit.com/r/Kotlin/comments/1ewe92w/recommend_a_spring_boot_courseguide_for_jwt_and/)
 - [Application code generator tool like JHipster](https://www.reddit.com/r/Kotlin/comments/1ewcdon/application_code_generator_tool_like_jhipster/)
 - [burnoo/compose-remember-setting: Compose Multiplatform library for remembering state persistently](https://www.reddit.com/r/Kotlin/comments/1ewa283/burnoocomposeremembersetting_compose/)
 - [Searching for Android App Testers for my Cooking React Native App &lpar;as a reward you will be granted a 1 year app subscription&rpar;](https://www.reddit.com/r/Kotlin/comments/1ew95lf/searching_for_android_app_testers_for_my_cooking/)
 - [Spring Data - JPA vs JDBC](https://www.reddit.com/r/Kotlin/comments/1ew7d1o/spring_data_jpa_vs_jdbc/)
 - [What are some good analogies for what CoroutineScope does?](https://www.reddit.com/r/Kotlin/comments/1evys5a/what_are_some_good_analogies_for_what/)
-- [Live Q&amp;A - Coroutines Strengths and Dangers, wt., 27 sie 2024, 15:00](https://www.reddit.com/r/Kotlin/comments/1evx2hg/live_qa_coroutines_strengths_and_dangers_wt_27/)
-- [What are the &quot;go to&quot; features that only Kotlin can do as opposed to modern Java?](https://www.reddit.com/r/Kotlin/comments/1evivse/what_are_the_go_to_features_that_only_kotlin_can/)
-- [Has anyone tried the new ViewModel and Navigation API in compose multiplatform?](https://www.reddit.com/r/Kotlin/comments/1evevu6/has_anyone_tried_the_new_viewmodel_and_navigation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
