@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fleet 1.39 Is Out](https://www.reddit.com/r/Kotlin/comments/1extp00/fleet_139_is_out/)
+- [Writing Swing in Kotlin-idiomatic DSL](https://www.reddit.com/r/Kotlin/comments/1exsffe/writing_swing_in_kotlinidiomatic_dsl/)
+- [Applying the Decorator Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1exruy3/applying_the_decorator_pattern_in_kotlin/)
+- [Handle permissions in Compose Multiplatform projects using Calf](https://www.reddit.com/r/Kotlin/comments/1exlqpr/handle_permissions_in_compose_multiplatform/)
+- [Newbie question: Do I have to learn Java before learning Kotlin for Android development? Is it gonna be a big disadvantage if I skip Java?](https://www.reddit.com/r/Kotlin/comments/1exjp50/newbie_question_do_i_have_to_learn_java_before/)
+- [Korlibs 6.0.0 released](https://www.reddit.com/r/Kotlin/comments/1exizz7/korlibs_600_released/)
 - [Does building functional DSL help?](https://www.reddit.com/r/Kotlin/comments/1ewze9n/does_building_functional_dsl_help/)
 - [Is it good to use Kotlin for backend in a react js web app ?](https://www.reddit.com/r/Kotlin/comments/1ewu8ga/is_it_good_to_use_kotlin_for_backend_in_a_react/)
 - [I can&#39;t change my Logcat to UTF-8](https://www.reddit.com/r/Kotlin/comments/1ewrlia/i_cant_change_my_logcat_to_utf8/)
 - [Where is Kotlin native linuxX64/linuxArm64 most lacking that prevents it from competing with Go?](https://www.reddit.com/r/Kotlin/comments/1ewl7hq/where_is_kotlin_native_linuxx64linuxarm64_most/)
-- [Recommend a spring boot course/guide for jwt and docker integration?](https://www.reddit.com/r/Kotlin/comments/1ewe92w/recommend_a_spring_boot_courseguide_for_jwt_and/)
-- [Application code generator tool like JHipster](https://www.reddit.com/r/Kotlin/comments/1ewcdon/application_code_generator_tool_like_jhipster/)
-- [burnoo/compose-remember-setting: Compose Multiplatform library for remembering state persistently](https://www.reddit.com/r/Kotlin/comments/1ewa283/burnoocomposeremembersetting_compose/)
-- [Searching for Android App Testers for my Cooking React Native App &lpar;as a reward you will be granted a 1 year app subscription&rpar;](https://www.reddit.com/r/Kotlin/comments/1ew95lf/searching_for_android_app_testers_for_my_cooking/)
-- [Spring Data - JPA vs JDBC](https://www.reddit.com/r/Kotlin/comments/1ew7d1o/spring_data_jpa_vs_jdbc/)
-- [What are some good analogies for what CoroutineScope does?](https://www.reddit.com/r/Kotlin/comments/1evys5a/what_are_some_good_analogies_for_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
