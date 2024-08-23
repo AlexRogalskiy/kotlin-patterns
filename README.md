@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fleet 1.39 Is Out](https://www.reddit.com/r/Kotlin/comments/1extp00/fleet_139_is_out/)
-- [Writing Swing in Kotlin-idiomatic DSL](https://www.reddit.com/r/Kotlin/comments/1exsffe/writing_swing_in_kotlinidiomatic_dsl/)
-- [Applying the Decorator Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1exruy3/applying_the_decorator_pattern_in_kotlin/)
-- [Handle permissions in Compose Multiplatform projects using Calf](https://www.reddit.com/r/Kotlin/comments/1exlqpr/handle_permissions_in_compose_multiplatform/)
-- [Newbie question: Do I have to learn Java before learning Kotlin for Android development? Is it gonna be a big disadvantage if I skip Java?](https://www.reddit.com/r/Kotlin/comments/1exjp50/newbie_question_do_i_have_to_learn_java_before/)
-- [Korlibs 6.0.0 released](https://www.reddit.com/r/Kotlin/comments/1exizz7/korlibs_600_released/)
-- [Does building functional DSL help?](https://www.reddit.com/r/Kotlin/comments/1ewze9n/does_building_functional_dsl_help/)
-- [Is it good to use Kotlin for backend in a react js web app ?](https://www.reddit.com/r/Kotlin/comments/1ewu8ga/is_it_good_to_use_kotlin_for_backend_in_a_react/)
-- [I can&#39;t change my Logcat to UTF-8](https://www.reddit.com/r/Kotlin/comments/1ewrlia/i_cant_change_my_logcat_to_utf8/)
-- [Where is Kotlin native linuxX64/linuxArm64 most lacking that prevents it from competing with Go?](https://www.reddit.com/r/Kotlin/comments/1ewl7hq/where_is_kotlin_native_linuxx64linuxarm64_most/)
+- [Coroutines and channels or the Java Blocking Thread Queue way?](https://www.reddit.com/r/Kotlin/comments/1ez0pml/coroutines_and_channels_or_the_java_blocking/)
+- [Is Kotlin Compatible with a Java Web Application Using JDK 1.7?](https://www.reddit.com/r/Kotlin/comments/1eyy5i3/is_kotlin_compatible_with_a_java_web_application/)
+- [Guys need help with kotlin c-interop](https://www.reddit.com/r/Kotlin/comments/1eytxdo/guys_need_help_with_kotlin_cinterop/)
+- [Jetpack compose course?](https://www.reddit.com/r/Kotlin/comments/1eysuqe/jetpack_compose_course/)
+- [Coroutines and Java interop](https://www.reddit.com/r/Kotlin/comments/1eyo2f1/coroutines_and_java_interop/)
+- [Order to call a function from inside another function](https://www.reddit.com/r/Kotlin/comments/1eyn8za/order_to_call_a_function_from_inside_another/)
+- [protogen4k: A small and simple .proto file generator. Generates a protobuf schema from the given kotlin classes.](https://www.reddit.com/r/Kotlin/comments/1eylux2/protogen4k_a_small_and_simple_proto_file/)
+- [Updates about Leyden, Loom, and Valhalla](https://www.reddit.com/r/Kotlin/comments/1eylqyj/updates_about_leyden_loom_and_valhalla/)
+- [Should Id field of JPA Entity be val or var ?](https://www.reddit.com/r/Kotlin/comments/1eyjj39/should_id_field_of_jpa_entity_be_val_or_var/)
+- [How to find usages of an upcasted object?](https://www.reddit.com/r/Kotlin/comments/1eygyfy/how_to_find_usages_of_an_upcasted_object/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
