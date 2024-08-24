@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Coroutines and channels or the Java Blocking Thread Queue way?](https://www.reddit.com/r/Kotlin/comments/1ez0pml/coroutines_and_channels_or_the_java_blocking/)
-- [Is Kotlin Compatible with a Java Web Application Using JDK 1.7?](https://www.reddit.com/r/Kotlin/comments/1eyy5i3/is_kotlin_compatible_with_a_java_web_application/)
-- [Guys need help with kotlin c-interop](https://www.reddit.com/r/Kotlin/comments/1eytxdo/guys_need_help_with_kotlin_cinterop/)
-- [Jetpack compose course?](https://www.reddit.com/r/Kotlin/comments/1eysuqe/jetpack_compose_course/)
-- [Coroutines and Java interop](https://www.reddit.com/r/Kotlin/comments/1eyo2f1/coroutines_and_java_interop/)
-- [Order to call a function from inside another function](https://www.reddit.com/r/Kotlin/comments/1eyn8za/order_to_call_a_function_from_inside_another/)
-- [protogen4k: A small and simple .proto file generator. Generates a protobuf schema from the given kotlin classes.](https://www.reddit.com/r/Kotlin/comments/1eylux2/protogen4k_a_small_and_simple_proto_file/)
-- [Updates about Leyden, Loom, and Valhalla](https://www.reddit.com/r/Kotlin/comments/1eylqyj/updates_about_leyden_loom_and_valhalla/)
-- [Should Id field of JPA Entity be val or var ?](https://www.reddit.com/r/Kotlin/comments/1eyjj39/should_id_field_of_jpa_entity_be_val_or_var/)
-- [How to find usages of an upcasted object?](https://www.reddit.com/r/Kotlin/comments/1eygyfy/how_to_find_usages_of_an_upcasted_object/)
+- [Why does this Coroutine example fail to get anything from the channels](https://www.reddit.com/r/Kotlin/comments/1eztp2u/why_does_this_coroutine_example_fail_to_get/)
+- [New telegram bot API Kotlin library - KittyBot](https://www.reddit.com/r/Kotlin/comments/1ezqxev/new_telegram_bot_api_kotlin_library_kittybot/)
+- [🎉 Ksoup 0.1.5 Released: Improved Performance and New Variants! 🚀](https://www.reddit.com/r/Kotlin/comments/1ezob1p/ksoup_015_released_improved_performance_and_new/)
+- [Kotlin 2.0.20 was just released with Strong Skipping by default for Composer. It means more lambdas get memoized leading to faster apps](https://www.reddit.com/r/Kotlin/comments/1ezk4gi/kotlin_2020_was_just_released_with_strong/)
+- [Re-Implementing kotlinx.coroutines](https://www.reddit.com/r/Kotlin/comments/1ezf4jo/reimplementing_kotlinxcoroutines/)
+- [Kotlin Programming Tutorial for Beginners](https://www.reddit.com/r/Kotlin/comments/1ezbprt/kotlin_programming_tutorial_for_beginners/)
+- [Using C++ Library in Kotlin Multiplatform for Android and iOS](https://www.reddit.com/r/Kotlin/comments/1ezb4w0/using_c_library_in_kotlin_multiplatform_for/)
+- [How bigger heaps might slow down an application](https://www.reddit.com/r/Kotlin/comments/1ezatz9/how_bigger_heaps_might_slow_down_an_application/)
+- [Kotlin for newbie](https://www.reddit.com/r/Kotlin/comments/1ez7fp3/kotlin_for_newbie/)
+- [New version of sqlx4k adds support for MySQL.](https://www.reddit.com/r/Kotlin/comments/1ez75ad/new_version_of_sqlx4k_adds_support_for_mysql/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
