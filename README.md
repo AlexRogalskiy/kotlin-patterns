@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I finally wish to get rid from IntelliJ IDEA &amp; replace it with ZED editor.](https://www.reddit.com/r/Kotlin/comments/1f0kwdr/i_finally_wish_to_get_rid_from_intellij_idea/)
+- [Why Coroutines are Actually No Magic in Kotlin](https://www.reddit.com/r/Kotlin/comments/1f0921e/why_coroutines_are_actually_no_magic_in_kotlin/)
+- [Evas vs Greenrobot EventBus: I am looking for a &#39;fairness&#39; reviewer](https://www.reddit.com/r/Kotlin/comments/1f05w7s/evas_vs_greenrobot_eventbus_i_am_looking_for_a/)
+- [Pairing with Duncan - the rebrand](https://www.reddit.com/r/Kotlin/comments/1f010lx/pairing_with_duncan_the_rebrand/)
+- [KmpEssentials &lpar;v0.4.4&rpar; Announcement](https://www.reddit.com/r/Kotlin/comments/1f00ams/kmpessentials_v044_announcement/)
+- [Kotlin learning through reading material.Suggestions?](https://www.reddit.com/r/Kotlin/comments/1f004ci/kotlin_learning_through_reading/)
+- [Forget the logic of Code after sometime.](https://www.reddit.com/r/Kotlin/comments/1ezxkmb/forget_the_logic_of_code_after_sometime/)
 - [Why does this Coroutine example fail to get anything from the channels](https://www.reddit.com/r/Kotlin/comments/1eztp2u/why_does_this_coroutine_example_fail_to_get/)
 - [New telegram bot API Kotlin library - KittyBot](https://www.reddit.com/r/Kotlin/comments/1ezqxev/new_telegram_bot_api_kotlin_library_kittybot/)
 - [🎉 Ksoup 0.1.5 Released: Improved Performance and New Variants! 🚀](https://www.reddit.com/r/Kotlin/comments/1ezob1p/ksoup_015_released_improved_performance_and_new/)
-- [Kotlin 2.0.20 was just released with Strong Skipping by default for Composer. It means more lambdas get memoized leading to faster apps](https://www.reddit.com/r/Kotlin/comments/1ezk4gi/kotlin_2020_was_just_released_with_strong/)
-- [Re-Implementing kotlinx.coroutines](https://www.reddit.com/r/Kotlin/comments/1ezf4jo/reimplementing_kotlinxcoroutines/)
-- [Kotlin Programming Tutorial for Beginners](https://www.reddit.com/r/Kotlin/comments/1ezbprt/kotlin_programming_tutorial_for_beginners/)
-- [Using C++ Library in Kotlin Multiplatform for Android and iOS](https://www.reddit.com/r/Kotlin/comments/1ezb4w0/using_c_library_in_kotlin_multiplatform_for/)
-- [How bigger heaps might slow down an application](https://www.reddit.com/r/Kotlin/comments/1ezatz9/how_bigger_heaps_might_slow_down_an_application/)
-- [Kotlin for newbie](https://www.reddit.com/r/Kotlin/comments/1ez7fp3/kotlin_for_newbie/)
-- [New version of sqlx4k adds support for MySQL.](https://www.reddit.com/r/Kotlin/comments/1ez75ad/new_version_of_sqlx4k_adds_support_for_mysql/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
