@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Coroutine Testing](https://www.reddit.com/r/Kotlin/comments/1f19c4j/coroutine_testing/)
+- [Writing a Kotlin Multiplatform App from Start to Store](https://www.reddit.com/r/Kotlin/comments/1f17asp/writing_a_kotlin_multiplatform_app_from_start_to/)
+- [How can I create a shortcut for a new shortcut in Key Promoter X?](https://www.reddit.com/r/Kotlin/comments/1f12y62/how_can_i_create_a_shortcut_for_a_new_shortcut_in/)
+- [First timer woes](https://www.reddit.com/r/Kotlin/comments/1f12qw1/first_timer_woes/)
+- [Can someone explain to me what Markdown Editor is for and how to use it?](https://www.reddit.com/r/Kotlin/comments/1f12q67/can_someone_explain_to_me_what_markdown_editor_is/)
+- [Your preferred approach for null-checking](https://www.reddit.com/r/Kotlin/comments/1f0u00f/your_preferred_approach_for_nullchecking/)
+- [sqlx4k: A non-blocking database driver for PostgreSQL, MySQL and SQLite, written in Kotlin for the Native platform.](https://www.reddit.com/r/Kotlin/comments/1f0rtsq/sqlx4k_a_nonblocking_database_driver_for/)
+- [Why would anyone choose Java over Kotlin?](https://www.reddit.com/r/Kotlin/comments/1f0npko/why_would_anyone_choose_java_over_kotlin/)
 - [I finally wish to get rid from IntelliJ IDEA &amp; replace it with ZED editor.](https://www.reddit.com/r/Kotlin/comments/1f0kwdr/i_finally_wish_to_get_rid_from_intellij_idea/)
 - [Why Coroutines are Actually No Magic in Kotlin](https://www.reddit.com/r/Kotlin/comments/1f0921e/why_coroutines_are_actually_no_magic_in_kotlin/)
-- [Evas vs Greenrobot EventBus: I am looking for a &#39;fairness&#39; reviewer](https://www.reddit.com/r/Kotlin/comments/1f05w7s/evas_vs_greenrobot_eventbus_i_am_looking_for_a/)
-- [Pairing with Duncan - the rebrand](https://www.reddit.com/r/Kotlin/comments/1f010lx/pairing_with_duncan_the_rebrand/)
-- [KmpEssentials &lpar;v0.4.4&rpar; Announcement](https://www.reddit.com/r/Kotlin/comments/1f00ams/kmpessentials_v044_announcement/)
-- [Kotlin learning through reading material.Suggestions?](https://www.reddit.com/r/Kotlin/comments/1f004ci/kotlin_learning_through_reading/)
-- [Forget the logic of Code after sometime.](https://www.reddit.com/r/Kotlin/comments/1ezxkmb/forget_the_logic_of_code_after_sometime/)
-- [Why does this Coroutine example fail to get anything from the channels](https://www.reddit.com/r/Kotlin/comments/1eztp2u/why_does_this_coroutine_example_fail_to_get/)
-- [New telegram bot API Kotlin library - KittyBot](https://www.reddit.com/r/Kotlin/comments/1ezqxev/new_telegram_bot_api_kotlin_library_kittybot/)
-- [🎉 Ksoup 0.1.5 Released: Improved Performance and New Variants! 🚀](https://www.reddit.com/r/Kotlin/comments/1ezob1p/ksoup_015_released_improved_performance_and_new/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
