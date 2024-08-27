@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Prevent multiple identical requests](https://www.reddit.com/r/Kotlin/comments/1f1my48/prevent_multiple_identical_requests/)
+- [How do I add my own packages in a project to a Kotlin Notebook? &lpar;The packages are in the same project as the notebook&rpar;](https://www.reddit.com/r/Kotlin/comments/1f1j85y/how_do_i_add_my_own_packages_in_a_project_to_a/)
+- [KMP DI library?](https://www.reddit.com/r/Kotlin/comments/1f1iw92/kmp_di_library/)
 - [Coroutine Testing](https://www.reddit.com/r/Kotlin/comments/1f19c4j/coroutine_testing/)
 - [Writing a Kotlin Multiplatform App from Start to Store](https://www.reddit.com/r/Kotlin/comments/1f17asp/writing_a_kotlin_multiplatform_app_from_start_to/)
 - [How can I create a shortcut for a new shortcut in Key Promoter X?](https://www.reddit.com/r/Kotlin/comments/1f12y62/how_can_i_create_a_shortcut_for_a_new_shortcut_in/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Can someone explain to me what Markdown Editor is for and how to use it?](https://www.reddit.com/r/Kotlin/comments/1f12q67/can_someone_explain_to_me_what_markdown_editor_is/)
 - [Your preferred approach for null-checking](https://www.reddit.com/r/Kotlin/comments/1f0u00f/your_preferred_approach_for_nullchecking/)
 - [sqlx4k: A non-blocking database driver for PostgreSQL, MySQL and SQLite, written in Kotlin for the Native platform.](https://www.reddit.com/r/Kotlin/comments/1f0rtsq/sqlx4k_a_nonblocking_database_driver_for/)
-- [Why would anyone choose Java over Kotlin?](https://www.reddit.com/r/Kotlin/comments/1f0npko/why_would_anyone_choose_java_over_kotlin/)
-- [I finally wish to get rid from IntelliJ IDEA &amp; replace it with ZED editor.](https://www.reddit.com/r/Kotlin/comments/1f0kwdr/i_finally_wish_to_get_rid_from_intellij_idea/)
-- [Why Coroutines are Actually No Magic in Kotlin](https://www.reddit.com/r/Kotlin/comments/1f0921e/why_coroutines_are_actually_no_magic_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
