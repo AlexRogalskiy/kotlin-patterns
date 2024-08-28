@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Consulta please, respuestas serias](https://www.reddit.com/r/Kotlin/comments/1f2rk77/consulta_please_respuestas_serias/)
+- [Best resource to understood and write thread safe efficient code in Kotlin using concurrent data structure](https://www.reddit.com/r/Kotlin/comments/1f2ray3/best_resource_to_understood_and_write_thread_safe/)
+- [KMM Run ios simulator in Ubuntu](https://www.reddit.com/r/Kotlin/comments/1f2g001/kmm_run_ios_simulator_in_ubuntu/)
+- [Kotlin devs couldn&#39;t &quot;get&quot; the joke](https://www.reddit.com/r/Kotlin/comments/1f2fot2/kotlin_devs_couldnt_get_the_joke/)
+- [Composition over Inheritance tutorial with practical examples](https://www.reddit.com/r/Kotlin/comments/1f2eike/composition_over_inheritance_tutorial_with/)
+- [Navigation in Bottom Nav Bar is very choppy](https://www.reddit.com/r/Kotlin/comments/1f2du52/navigation_in_bottom_nav_bar_is_very_choppy/)
+- [Polymorphic JSON Parsing with Kotlin and Jackson](https://www.reddit.com/r/Kotlin/comments/1f2d9m2/polymorphic_json_parsing_with_kotlin_and_jackson/)
+- [Looking for Passionate Developers to Collaborate on Exciting Projects &lpar;Websites, Mobile Apps, Games&rpar;!](https://www.reddit.com/r/Kotlin/comments/1f2ci25/looking_for_passionate_developers_to_collaborate/)
 - [Prevent multiple identical requests](https://www.reddit.com/r/Kotlin/comments/1f1my48/prevent_multiple_identical_requests/)
 - [How do I add my own packages in a project to a Kotlin Notebook? &lpar;The packages are in the same project as the notebook&rpar;](https://www.reddit.com/r/Kotlin/comments/1f1j85y/how_do_i_add_my_own_packages_in_a_project_to_a/)
-- [KMP DI library?](https://www.reddit.com/r/Kotlin/comments/1f1iw92/kmp_di_library/)
-- [Coroutine Testing](https://www.reddit.com/r/Kotlin/comments/1f19c4j/coroutine_testing/)
-- [Writing a Kotlin Multiplatform App from Start to Store](https://www.reddit.com/r/Kotlin/comments/1f17asp/writing_a_kotlin_multiplatform_app_from_start_to/)
-- [How can I create a shortcut for a new shortcut in Key Promoter X?](https://www.reddit.com/r/Kotlin/comments/1f12y62/how_can_i_create_a_shortcut_for_a_new_shortcut_in/)
-- [First timer woes](https://www.reddit.com/r/Kotlin/comments/1f12qw1/first_timer_woes/)
-- [Can someone explain to me what Markdown Editor is for and how to use it?](https://www.reddit.com/r/Kotlin/comments/1f12q67/can_someone_explain_to_me_what_markdown_editor_is/)
-- [Your preferred approach for null-checking](https://www.reddit.com/r/Kotlin/comments/1f0u00f/your_preferred_approach_for_nullchecking/)
-- [sqlx4k: A non-blocking database driver for PostgreSQL, MySQL and SQLite, written in Kotlin for the Native platform.](https://www.reddit.com/r/Kotlin/comments/1f0rtsq/sqlx4k_a_nonblocking_database_driver_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
