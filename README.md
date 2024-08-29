@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Consulta please, respuestas serias](https://www.reddit.com/r/Kotlin/comments/1f2rk77/consulta_please_respuestas_serias/)
-- [Best resource to understood and write thread safe efficient code in Kotlin using concurrent data structure](https://www.reddit.com/r/Kotlin/comments/1f2ray3/best_resource_to_understood_and_write_thread_safe/)
-- [KMM Run ios simulator in Ubuntu](https://www.reddit.com/r/Kotlin/comments/1f2g001/kmm_run_ios_simulator_in_ubuntu/)
-- [Kotlin devs couldn&#39;t &quot;get&quot; the joke](https://www.reddit.com/r/Kotlin/comments/1f2fot2/kotlin_devs_couldnt_get_the_joke/)
-- [Composition over Inheritance tutorial with practical examples](https://www.reddit.com/r/Kotlin/comments/1f2eike/composition_over_inheritance_tutorial_with/)
-- [Navigation in Bottom Nav Bar is very choppy](https://www.reddit.com/r/Kotlin/comments/1f2du52/navigation_in_bottom_nav_bar_is_very_choppy/)
-- [Polymorphic JSON Parsing with Kotlin and Jackson](https://www.reddit.com/r/Kotlin/comments/1f2d9m2/polymorphic_json_parsing_with_kotlin_and_jackson/)
-- [Looking for Passionate Developers to Collaborate on Exciting Projects &lpar;Websites, Mobile Apps, Games&rpar;!](https://www.reddit.com/r/Kotlin/comments/1f2ci25/looking_for_passionate_developers_to_collaborate/)
-- [Prevent multiple identical requests](https://www.reddit.com/r/Kotlin/comments/1f1my48/prevent_multiple_identical_requests/)
-- [How do I add my own packages in a project to a Kotlin Notebook? &lpar;The packages are in the same project as the notebook&rpar;](https://www.reddit.com/r/Kotlin/comments/1f1j85y/how_do_i_add_my_own_packages_in_a_project_to_a/)
+- [Kotlin HTML as SSR View Engine](https://www.reddit.com/r/Kotlin/comments/1f3mwhg/kotlin_html_as_ssr_view_engine/)
+- [GoogleMapView](https://www.reddit.com/r/Kotlin/comments/1f3isvu/googlemapview/)
+- [How do I effectively design a Kotlin library?](https://www.reddit.com/r/Kotlin/comments/1f3fsmf/how_do_i_effectively_design_a_kotlin_library/)
+- [Can not import dataframe in project](https://www.reddit.com/r/Kotlin/comments/1f3dwwm/can_not_import_dataframe_in_project/)
+- [Kotlin Developer Survey – Your feedback is crucial!](https://www.reddit.com/r/Kotlin/comments/1f3bywh/kotlin_developer_survey_your_feedback_is_crucial/)
+- [Kotlin SQL DSL](https://www.reddit.com/r/Kotlin/comments/1f3b798/kotlin_sql_dsl/)
+- [Q: is possible to create simple library/SDK in Kotlin Multiplatform for web &lpar;JS&rpar;, Android and iOS?](https://www.reddit.com/r/Kotlin/comments/1f3awho/q_is_possible_to_create_simple_librarysdk_in/)
+- [5 Free Online Courses to Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1f39vyy/5_free_online_courses_to_learn_kotlin/)
+- [Build Adaptive UI with Compose Multiplatform using Calf](https://www.reddit.com/r/Kotlin/comments/1f34qmu/build_adaptive_ui_with_compose_multiplatform/)
+- [mpv android , video player](https://www.reddit.com/r/Kotlin/comments/1f344rt/mpv_android_video_player/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
