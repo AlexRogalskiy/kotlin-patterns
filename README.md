@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Spring boot to Ktor resources?](https://www.reddit.com/r/Kotlin/comments/1f4gr28/spring_boot_to_ktor_resources/)
+- [Kotlin After 2.0 - Talking Kotlin #133](https://www.reddit.com/r/Kotlin/comments/1f483r7/kotlin_after_20_talking_kotlin_133/)
+- [KMMBridge version 1.0 Released](https://www.reddit.com/r/Kotlin/comments/1f47rqj/kmmbridge_version_10_released/)
+- [ANDROID STUDIO HELP](https://www.reddit.com/r/Kotlin/comments/1f3xiry/android_studio_help/)
+- [Kotlin open-source projects](https://www.reddit.com/r/Kotlin/comments/1f3xeep/kotlin_opensource_projects/)
+- [Hello I need help!!](https://www.reddit.com/r/Kotlin/comments/1f3wpi8/hello_i_need_help/)
+- [Kotlin for Desktop, how do you handle updates?](https://www.reddit.com/r/Kotlin/comments/1f3wb1j/kotlin_for_desktop_how_do_you_handle_updates/)
 - [Kotlin HTML as SSR View Engine](https://www.reddit.com/r/Kotlin/comments/1f3mwhg/kotlin_html_as_ssr_view_engine/)
 - [GoogleMapView](https://www.reddit.com/r/Kotlin/comments/1f3isvu/googlemapview/)
 - [How do I effectively design a Kotlin library?](https://www.reddit.com/r/Kotlin/comments/1f3fsmf/how_do_i_effectively_design_a_kotlin_library/)
-- [Can not import dataframe in project](https://www.reddit.com/r/Kotlin/comments/1f3dwwm/can_not_import_dataframe_in_project/)
-- [Kotlin Developer Survey – Your feedback is crucial!](https://www.reddit.com/r/Kotlin/comments/1f3bywh/kotlin_developer_survey_your_feedback_is_crucial/)
-- [Kotlin SQL DSL](https://www.reddit.com/r/Kotlin/comments/1f3b798/kotlin_sql_dsl/)
-- [Q: is possible to create simple library/SDK in Kotlin Multiplatform for web &lpar;JS&rpar;, Android and iOS?](https://www.reddit.com/r/Kotlin/comments/1f3awho/q_is_possible_to_create_simple_librarysdk_in/)
-- [5 Free Online Courses to Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1f39vyy/5_free_online_courses_to_learn_kotlin/)
-- [Build Adaptive UI with Compose Multiplatform using Calf](https://www.reddit.com/r/Kotlin/comments/1f34qmu/build_adaptive_ui_with_compose_multiplatform/)
-- [mpv android , video player](https://www.reddit.com/r/Kotlin/comments/1f344rt/mpv_android_video_player/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
