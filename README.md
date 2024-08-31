@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Spring boot to Ktor resources?](https://www.reddit.com/r/Kotlin/comments/1f4gr28/spring_boot_to_ktor_resources/)
-- [Kotlin After 2.0 - Talking Kotlin #133](https://www.reddit.com/r/Kotlin/comments/1f483r7/kotlin_after_20_talking_kotlin_133/)
-- [KMMBridge version 1.0 Released](https://www.reddit.com/r/Kotlin/comments/1f47rqj/kmmbridge_version_10_released/)
-- [ANDROID STUDIO HELP](https://www.reddit.com/r/Kotlin/comments/1f3xiry/android_studio_help/)
-- [Kotlin open-source projects](https://www.reddit.com/r/Kotlin/comments/1f3xeep/kotlin_opensource_projects/)
-- [Hello I need help!!](https://www.reddit.com/r/Kotlin/comments/1f3wpi8/hello_i_need_help/)
-- [Kotlin for Desktop, how do you handle updates?](https://www.reddit.com/r/Kotlin/comments/1f3wb1j/kotlin_for_desktop_how_do_you_handle_updates/)
-- [Kotlin HTML as SSR View Engine](https://www.reddit.com/r/Kotlin/comments/1f3mwhg/kotlin_html_as_ssr_view_engine/)
-- [GoogleMapView](https://www.reddit.com/r/Kotlin/comments/1f3isvu/googlemapview/)
-- [How do I effectively design a Kotlin library?](https://www.reddit.com/r/Kotlin/comments/1f3fsmf/how_do_i_effectively_design_a_kotlin_library/)
+- [Encapsulation](https://www.reddit.com/r/Kotlin/comments/1f5bz1r/encapsulation/)
+- [Compose Multiplatform App Examples Thread](https://www.reddit.com/r/Kotlin/comments/1f5b7if/compose_multiplatform_app_examples_thread/)
+- [What is the proper way to evaluate kts from a JVM host?](https://www.reddit.com/r/Kotlin/comments/1f5b6d6/what_is_the_proper_way_to_evaluate_kts_from_a_jvm/)
+- [For session management in Ktor, how does the framework know which session retrieve?](https://www.reddit.com/r/Kotlin/comments/1f56wx8/for_session_management_in_ktor_how_does_the/)
+- [Kotlin/Gradle - Can&#39;t generate a compiled JAR even by following the official guide](https://www.reddit.com/r/Kotlin/comments/1f53jrf/kotlingradle_cant_generate_a_compiled_jar_even_by/)
+- [Discovering the Devoxx Genie AI Plugin for IntelliJ](https://www.reddit.com/r/Kotlin/comments/1f4uyeg/discovering_the_devoxx_genie_ai_plugin_for/)
+- [Using KMP to generate a simple library - cannot use classes in generated .aar!](https://www.reddit.com/r/Kotlin/comments/1f4uguh/using_kmp_to_generate_a_simple_library_cannot_use/)
+- [The Risks of Google Play Store Displaying Developers&#39; Real Names and Addresses: Time to Speak Up!](https://www.reddit.com/r/Kotlin/comments/1f4nngf/the_risks_of_google_play_store_displaying/)
+- [KmpEssentials v0.6.4 Announcement &lpar;TextToSpeech Services&rpar;](https://www.reddit.com/r/Kotlin/comments/1f4mfpg/kmpessentials_v064_announcement_texttospeech/)
+- [KmpEssentials v0.6.3 is Live!](https://www.reddit.com/r/Kotlin/comments/1f4ld2v/kmpessentials_v063_is_live/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
