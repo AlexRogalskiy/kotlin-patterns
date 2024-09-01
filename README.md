@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin multiplatform development on windows?](https://www.reddit.com/r/Kotlin/comments/1f5k7ry/kotlin_multiplatform_development_on_windows/)
+- [Kotlin for game development?](https://www.reddit.com/r/Kotlin/comments/1f5jx6k/kotlin_for_game_development/)
+- [When to apply for open-source project](https://www.reddit.com/r/Kotlin/comments/1f5jlgn/when_to_apply_for_opensource_project/)
+- [C++ to and fro Kotlin Interop using Java&#39;s FFM API](https://www.reddit.com/r/Kotlin/comments/1f5j78m/c_to_and_fro_kotlin_interop_using_javas_ffm_api/)
+- [Compose Multiplatform and UI development on iOS done in Swift](https://www.reddit.com/r/Kotlin/comments/1f5htj3/compose_multiplatform_and_ui_development_on_ios/)
+- [Design or XML?](https://www.reddit.com/r/Kotlin/comments/1f5elto/design_or_xml/)
 - [Encapsulation](https://www.reddit.com/r/Kotlin/comments/1f5bz1r/encapsulation/)
 - [Compose Multiplatform App Examples Thread](https://www.reddit.com/r/Kotlin/comments/1f5b7if/compose_multiplatform_app_examples_thread/)
 - [What is the proper way to evaluate kts from a JVM host?](https://www.reddit.com/r/Kotlin/comments/1f5b6d6/what_is_the_proper_way_to_evaluate_kts_from_a_jvm/)
 - [For session management in Ktor, how does the framework know which session retrieve?](https://www.reddit.com/r/Kotlin/comments/1f56wx8/for_session_management_in_ktor_how_does_the/)
-- [Kotlin/Gradle - Can&#39;t generate a compiled JAR even by following the official guide](https://www.reddit.com/r/Kotlin/comments/1f53jrf/kotlingradle_cant_generate_a_compiled_jar_even_by/)
-- [Discovering the Devoxx Genie AI Plugin for IntelliJ](https://www.reddit.com/r/Kotlin/comments/1f4uyeg/discovering_the_devoxx_genie_ai_plugin_for/)
-- [Using KMP to generate a simple library - cannot use classes in generated .aar!](https://www.reddit.com/r/Kotlin/comments/1f4uguh/using_kmp_to_generate_a_simple_library_cannot_use/)
-- [The Risks of Google Play Store Displaying Developers&#39; Real Names and Addresses: Time to Speak Up!](https://www.reddit.com/r/Kotlin/comments/1f4nngf/the_risks_of_google_play_store_displaying/)
-- [KmpEssentials v0.6.4 Announcement &lpar;TextToSpeech Services&rpar;](https://www.reddit.com/r/Kotlin/comments/1f4mfpg/kmpessentials_v064_announcement_texttospeech/)
-- [KmpEssentials v0.6.3 is Live!](https://www.reddit.com/r/Kotlin/comments/1f4ld2v/kmpessentials_v063_is_live/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
