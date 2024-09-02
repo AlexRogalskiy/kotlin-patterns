@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why do we still call Koin dependency injection?](https://www.reddit.com/r/Kotlin/comments/1f6u9ak/why_do_we_still_call_koin_dependency_injection/)
+- [TitanSocket &lpar;v0.2.7&rpar;, WebSocket Library For Kotlin Multiplatform is Live!!](https://www.reddit.com/r/Kotlin/comments/1f6o01n/titansocket_v027_websocket_library_for_kotlin/)
+- [Experiences with kvision?](https://www.reddit.com/r/Kotlin/comments/1f6kso9/experiences_with_kvision/)
+- [Glide](https://www.reddit.com/r/Kotlin/comments/1f6kd3y/glide/)
 - [Kotlin multiplatform development on windows?](https://www.reddit.com/r/Kotlin/comments/1f5k7ry/kotlin_multiplatform_development_on_windows/)
 - [Kotlin for game development?](https://www.reddit.com/r/Kotlin/comments/1f5jx6k/kotlin_for_game_development/)
 - [When to apply for open-source project](https://www.reddit.com/r/Kotlin/comments/1f5jlgn/when_to_apply_for_opensource_project/)
 - [C++ to and fro Kotlin Interop using Java&#39;s FFM API](https://www.reddit.com/r/Kotlin/comments/1f5j78m/c_to_and_fro_kotlin_interop_using_javas_ffm_api/)
 - [Compose Multiplatform and UI development on iOS done in Swift](https://www.reddit.com/r/Kotlin/comments/1f5htj3/compose_multiplatform_and_ui_development_on_ios/)
 - [Design or XML?](https://www.reddit.com/r/Kotlin/comments/1f5elto/design_or_xml/)
-- [Encapsulation](https://www.reddit.com/r/Kotlin/comments/1f5bz1r/encapsulation/)
-- [Compose Multiplatform App Examples Thread](https://www.reddit.com/r/Kotlin/comments/1f5b7if/compose_multiplatform_app_examples_thread/)
-- [What is the proper way to evaluate kts from a JVM host?](https://www.reddit.com/r/Kotlin/comments/1f5b6d6/what_is_the_proper_way_to_evaluate_kts_from_a_jvm/)
-- [For session management in Ktor, how does the framework know which session retrieve?](https://www.reddit.com/r/Kotlin/comments/1f56wx8/for_session_management_in_ktor_how_does_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
