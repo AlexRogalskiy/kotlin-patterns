@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the correct way to share ViewModel classes within a common ViewModel?](https://www.reddit.com/r/Kotlin/comments/1f8clvv/what_is_the_correct_way_to_share_viewmodel/)
+- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1f88d23/new_to_kotlin/)
+- [Unresolved Reference: Osmdroid. In import](https://www.reddit.com/r/Kotlin/comments/1f7xwxr/unresolved_reference_osmdroid_in_import/)
+- [Coroutine Scheduler to run on the caller thread if on the target executor has no capacity](https://www.reddit.com/r/Kotlin/comments/1f7tgcd/coroutine_scheduler_to_run_on_the_caller_thread/)
+- [Any implementation cheat sheet for the gradle?](https://www.reddit.com/r/Kotlin/comments/1f7qolh/any_implementation_cheat_sheet_for_the_gradle/)
 - [What kind of projects can I use Kotlin for other than android development?](https://www.reddit.com/r/Kotlin/comments/1f7kyld/what_kind_of_projects_can_i_use_kotlin_for_other/)
 - [I finally get it, “Why Kotlin?”](https://www.reddit.com/r/Kotlin/comments/1f7gfgp/i_finally_get_it_why_kotlin/)
 - [Subscriptions in your Apps](https://www.reddit.com/r/Kotlin/comments/1f7g13t/subscriptions_in_your_apps/)
 - [KMP - Separate commonMain for client / server side code](https://www.reddit.com/r/Kotlin/comments/1f7d23c/kmp_separate_commonmain_for_client_server_side/)
 - [Kotlin Multiplatform should have a .NET target](https://www.reddit.com/r/Kotlin/comments/1f6xzpm/kotlin_multiplatform_should_have_a_net_target/)
-- [Why do we still call Koin dependency injection?](https://www.reddit.com/r/Kotlin/comments/1f6u9ak/why_do_we_still_call_koin_dependency_injection/)
-- [TitanSocket &lpar;v0.2.7&rpar;, WebSocket Library For Kotlin Multiplatform is Live!!](https://www.reddit.com/r/Kotlin/comments/1f6o01n/titansocket_v027_websocket_library_for_kotlin/)
-- [Experiences with kvision?](https://www.reddit.com/r/Kotlin/comments/1f6kso9/experiences_with_kvision/)
-- [Glide](https://www.reddit.com/r/Kotlin/comments/1f6kd3y/glide/)
-- [Kotlin multiplatform development on windows?](https://www.reddit.com/r/Kotlin/comments/1f5k7ry/kotlin_multiplatform_development_on_windows/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
