@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need a job](https://www.reddit.com/r/Kotlin/comments/1f9am0a/i_need_a_job/)
+- [WebUI API docs for older versions of kotlin APIs](https://www.reddit.com/r/Kotlin/comments/1f96mpe/webui_api_docs_for_older_versions_of_kotlin_apis/)
+- [For String.equals, the docs say &quot;if ignoreCase is true, the result of Char.uppercaseChar&lpar;&rpar;.lowercaseChar&lpar;&rpar; on each character is compared&quot; - what&#39;s the reason for calling both uppercaseChar&lpar;&rpar; AND lowercaseChar&lpar;&rpar;? Are there certain characters which wouldn&#39;t be equal if only one was called?](https://www.reddit.com/r/Kotlin/comments/1f93ok3/for_stringequals_the_docs_say_if_ignorecase_is/)
+- [Applying the State Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1f8vj9l/applying_the_state_pattern_in_kotlin/)
+- [🎉 Kotlin Multiplatform Ksoup 0.1.6 Released 🚀](https://www.reddit.com/r/Kotlin/comments/1f8v0ym/kotlin_multiplatform_ksoup_016_released/)
+- [Commonly used data structures in Android development](https://www.reddit.com/r/Kotlin/comments/1f8soem/commonly_used_data_structures_in_android/)
+- [Track and Analyze GitHub Star Growth With Kandy and Kotlin DataFrame](https://www.reddit.com/r/Kotlin/comments/1f8q41q/track_and_analyze_github_star_growth_with_kandy/)
+- [Ktor is Better Than Spring Boot &lpar;Kotlin&rpar; for New Developers Learning Web Frameworks](https://www.reddit.com/r/Kotlin/comments/1f8oa2z/ktor_is_better_than_spring_boot_kotlin_for_new/)
 - [What is the correct way to share ViewModel classes within a common ViewModel?](https://www.reddit.com/r/Kotlin/comments/1f8clvv/what_is_the_correct_way_to_share_viewmodel/)
 - [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1f88d23/new_to_kotlin/)
-- [Unresolved Reference: Osmdroid. In import](https://www.reddit.com/r/Kotlin/comments/1f7xwxr/unresolved_reference_osmdroid_in_import/)
-- [Coroutine Scheduler to run on the caller thread if on the target executor has no capacity](https://www.reddit.com/r/Kotlin/comments/1f7tgcd/coroutine_scheduler_to_run_on_the_caller_thread/)
-- [Any implementation cheat sheet for the gradle?](https://www.reddit.com/r/Kotlin/comments/1f7qolh/any_implementation_cheat_sheet_for_the_gradle/)
-- [What kind of projects can I use Kotlin for other than android development?](https://www.reddit.com/r/Kotlin/comments/1f7kyld/what_kind_of_projects_can_i_use_kotlin_for_other/)
-- [I finally get it, “Why Kotlin?”](https://www.reddit.com/r/Kotlin/comments/1f7gfgp/i_finally_get_it_why_kotlin/)
-- [Subscriptions in your Apps](https://www.reddit.com/r/Kotlin/comments/1f7g13t/subscriptions_in_your_apps/)
-- [KMP - Separate commonMain for client / server side code](https://www.reddit.com/r/Kotlin/comments/1f7d23c/kmp_separate_commonmain_for_client_server_side/)
-- [Kotlin Multiplatform should have a .NET target](https://www.reddit.com/r/Kotlin/comments/1f6xzpm/kotlin_multiplatform_should_have_a_net_target/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
