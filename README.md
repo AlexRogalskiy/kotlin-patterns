@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This is what I know about kotlin](https://www.reddit.com/r/Kotlin/comments/1fa0dru/this_is_what_i_know_about_kotlin/)
+- [Whenever I Try to Make a Compose for Desktop Project, I Get This Error Message, Does Anyone Know What&#39;s Going Wrong?](https://www.reddit.com/r/Kotlin/comments/1f9tggw/whenever_i_try_to_make_a_compose_for_desktop/)
+- [Help with Incorporating a music recommender model using Kotlin](https://www.reddit.com/r/Kotlin/comments/1f9qn46/help_with_incorporating_a_music_recommender_model/)
+- [Is using Kotlin Flow in this way a huge mistake and wrong? &lpar;Code Example by Philipp Lackner&rpar;](https://www.reddit.com/r/Kotlin/comments/1f9q8aa/is_using_kotlin_flow_in_this_way_a_huge_mistake/)
+- [http4k Project Wizard IntelliJ plugin released](https://www.reddit.com/r/Kotlin/comments/1f9q1fg/http4k_project_wizard_intellij_plugin_released/)
+- [Compose Multiplatform and the Native App Future](https://www.reddit.com/r/Kotlin/comments/1f9nbx7/compose_multiplatform_and_the_native_app_future/)
+- [Is Form rendering library crazy idea?](https://www.reddit.com/r/Kotlin/comments/1f9jark/is_form_rendering_library_crazy_idea/)
 - [I need a job](https://www.reddit.com/r/Kotlin/comments/1f9am0a/i_need_a_job/)
 - [WebUI API docs for older versions of kotlin APIs](https://www.reddit.com/r/Kotlin/comments/1f96mpe/webui_api_docs_for_older_versions_of_kotlin_apis/)
 - [For String.equals, the docs say &quot;if ignoreCase is true, the result of Char.uppercaseChar&lpar;&rpar;.lowercaseChar&lpar;&rpar; on each character is compared&quot; - what&#39;s the reason for calling both uppercaseChar&lpar;&rpar; AND lowercaseChar&lpar;&rpar;? Are there certain characters which wouldn&#39;t be equal if only one was called?](https://www.reddit.com/r/Kotlin/comments/1f93ok3/for_stringequals_the_docs_say_if_ignorecase_is/)
-- [Applying the State Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1f8vj9l/applying_the_state_pattern_in_kotlin/)
-- [🎉 Kotlin Multiplatform Ksoup 0.1.6 Released 🚀](https://www.reddit.com/r/Kotlin/comments/1f8v0ym/kotlin_multiplatform_ksoup_016_released/)
-- [Commonly used data structures in Android development](https://www.reddit.com/r/Kotlin/comments/1f8soem/commonly_used_data_structures_in_android/)
-- [Track and Analyze GitHub Star Growth With Kandy and Kotlin DataFrame](https://www.reddit.com/r/Kotlin/comments/1f8q41q/track_and_analyze_github_star_growth_with_kandy/)
-- [Ktor is Better Than Spring Boot &lpar;Kotlin&rpar; for New Developers Learning Web Frameworks](https://www.reddit.com/r/Kotlin/comments/1f8oa2z/ktor_is_better_than_spring_boot_kotlin_for_new/)
-- [What is the correct way to share ViewModel classes within a common ViewModel?](https://www.reddit.com/r/Kotlin/comments/1f8clvv/what_is_the_correct_way_to_share_viewmodel/)
-- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1f88d23/new_to_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
