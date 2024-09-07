@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a Kotlin DSL-based typesafe config system for my voxel game engine](https://www.reddit.com/r/Kotlin/comments/1favf5f/i_made_a_kotlin_dslbased_typesafe_config_system/)
+- [Looking for a Certification Equivalent to Google&#39;s Associate Android Developer with a Kotlin Focus](https://www.reddit.com/r/Kotlin/comments/1fankyl/looking_for_a_certification_equivalent_to_googles/)
+- [Kotlin language server couldn&#39;t create connection to server in vscode](https://www.reddit.com/r/Kotlin/comments/1fancgq/kotlin_language_server_couldnt_create_connection/)
+- [Ollama client for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1falwu3/ollama_client_for_kotlin_multiplatform/)
+- [Devoxx Genie AI Deep Dive with Stephan Jansen](https://www.reddit.com/r/Kotlin/comments/1faend0/devoxx_genie_ai_deep_dive_with_stephan_jansen/)
+- [Kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/1fadoue/kotlin_coroutines/)
+- [Hey awesome Koin Community](https://www.reddit.com/r/Kotlin/comments/1faaksj/hey_awesome_koin_community/)
+- [Want to know more about Kotlin in, out, where Generics and reified under the hood in Java CHECKOUT: Java Garbage collector under the hood](https://www.reddit.com/r/Kotlin/comments/1fa9iux/want_to_know_more_about_kotlin_in_out_where/)
+- [Please help me!!](https://www.reddit.com/r/Kotlin/comments/1fa7eqs/please_help_me/)
 - [This is what I know about kotlin](https://www.reddit.com/r/Kotlin/comments/1fa0dru/this_is_what_i_know_about_kotlin/)
-- [Whenever I Try to Make a Compose for Desktop Project, I Get This Error Message, Does Anyone Know What&#39;s Going Wrong?](https://www.reddit.com/r/Kotlin/comments/1f9tggw/whenever_i_try_to_make_a_compose_for_desktop/)
-- [Help with Incorporating a music recommender model using Kotlin](https://www.reddit.com/r/Kotlin/comments/1f9qn46/help_with_incorporating_a_music_recommender_model/)
-- [Is using Kotlin Flow in this way a huge mistake and wrong? &lpar;Code Example by Philipp Lackner&rpar;](https://www.reddit.com/r/Kotlin/comments/1f9q8aa/is_using_kotlin_flow_in_this_way_a_huge_mistake/)
-- [http4k Project Wizard IntelliJ plugin released](https://www.reddit.com/r/Kotlin/comments/1f9q1fg/http4k_project_wizard_intellij_plugin_released/)
-- [Compose Multiplatform and the Native App Future](https://www.reddit.com/r/Kotlin/comments/1f9nbx7/compose_multiplatform_and_the_native_app_future/)
-- [Is Form rendering library crazy idea?](https://www.reddit.com/r/Kotlin/comments/1f9jark/is_form_rendering_library_crazy_idea/)
-- [I need a job](https://www.reddit.com/r/Kotlin/comments/1f9am0a/i_need_a_job/)
-- [WebUI API docs for older versions of kotlin APIs](https://www.reddit.com/r/Kotlin/comments/1f96mpe/webui_api_docs_for_older_versions_of_kotlin_apis/)
-- [For String.equals, the docs say &quot;if ignoreCase is true, the result of Char.uppercaseChar&lpar;&rpar;.lowercaseChar&lpar;&rpar; on each character is compared&quot; - what&#39;s the reason for calling both uppercaseChar&lpar;&rpar; AND lowercaseChar&lpar;&rpar;? Are there certain characters which wouldn&#39;t be equal if only one was called?](https://www.reddit.com/r/Kotlin/comments/1f93ok3/for_stringequals_the_docs_say_if_ignorecase_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
