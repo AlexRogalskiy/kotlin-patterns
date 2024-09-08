@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone with experience deploying apps on the Google Play Store have time to join me for a short call to talk about tools I am developing?](https://www.reddit.com/r/Kotlin/comments/1fbmknp/does_anyone_with_experience_deploying_apps_on_the/)
+- [Best &quot;full stack&quot; solution](https://www.reddit.com/r/Kotlin/comments/1fbl7rm/best_full_stack_solution/)
+- [Is there a good code quality tool like eslint for JS/TS?](https://www.reddit.com/r/Kotlin/comments/1fbjpfp/is_there_a_good_code_quality_tool_like_eslint_for/)
+- [Lambdas vs objects as parameters](https://www.reddit.com/r/Kotlin/comments/1fbdagz/lambdas_vs_objects_as_parameters/)
+- [How to Use Kotlin Notebook for Free](https://www.reddit.com/r/Kotlin/comments/1fb8p4k/how_to_use_kotlin_notebook_for_free/)
+- [KVision 8.0.0 is released](https://www.reddit.com/r/Kotlin/comments/1fb754u/kvision_800_is_released/)
+- [i need help to make a gps that shows me the location from the users and a image of their car](https://www.reddit.com/r/Kotlin/comments/1fayzv3/i_need_help_to_make_a_gps_that_shows_me_the/)
 - [I made a Kotlin DSL-based typesafe config system for my voxel game engine](https://www.reddit.com/r/Kotlin/comments/1favf5f/i_made_a_kotlin_dslbased_typesafe_config_system/)
 - [Looking for a Certification Equivalent to Google&#39;s Associate Android Developer with a Kotlin Focus](https://www.reddit.com/r/Kotlin/comments/1fankyl/looking_for_a_certification_equivalent_to_googles/)
 - [Kotlin language server couldn&#39;t create connection to server in vscode](https://www.reddit.com/r/Kotlin/comments/1fancgq/kotlin_language_server_couldnt_create_connection/)
-- [Ollama client for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1falwu3/ollama_client_for_kotlin_multiplatform/)
-- [Devoxx Genie AI Deep Dive with Stephan Jansen](https://www.reddit.com/r/Kotlin/comments/1faend0/devoxx_genie_ai_deep_dive_with_stephan_jansen/)
-- [Kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/1fadoue/kotlin_coroutines/)
-- [Hey awesome Koin Community](https://www.reddit.com/r/Kotlin/comments/1faaksj/hey_awesome_koin_community/)
-- [Want to know more about Kotlin in, out, where Generics and reified under the hood in Java CHECKOUT: Java Garbage collector under the hood](https://www.reddit.com/r/Kotlin/comments/1fa9iux/want_to_know_more_about_kotlin_in_out_where/)
-- [Please help me!!](https://www.reddit.com/r/Kotlin/comments/1fa7eqs/please_help_me/)
-- [This is what I know about kotlin](https://www.reddit.com/r/Kotlin/comments/1fa0dru/this_is_what_i_know_about_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
