@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The History of Object-Oriented Programming - Uncle Bob](https://www.reddit.com/r/Kotlin/comments/1fc9x6q/the_history_of_objectoriented_programming_uncle/)
+- [A boilerplate Ktor project providing common APIs integrations. Feel free to use and contribute with your own integrations.](https://www.reddit.com/r/Kotlin/comments/1fc2wrs/a_boilerplate_ktor_project_providing_common_apis/)
+- [Beginner Site to Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1fbu6a5/beginner_site_to_learn_kotlin/)
+- [I&#39;m facing a weird problem with Kotlin Native. The problem arises while compiling for linux &lpar;also android&rpar; targets, but succeeds for apple. Can anybody take a look?](https://www.reddit.com/r/Kotlin/comments/1fbtqux/im_facing_a_weird_problem_with_kotlin_native_the/)
+- [Best web app framework](https://www.reddit.com/r/Kotlin/comments/1fbqet4/best_web_app_framework/)
+- [KmpEssentials &lpar;v0.7.7&rpar; is now Live! Apple WatchOS support is coming up soon!](https://www.reddit.com/r/Kotlin/comments/1fbnz6z/kmpessentials_v077_is_now_live_apple_watchos/)
 - [Does anyone with experience deploying apps on the Google Play Store have time to join me for a short call to talk about tools I am developing?](https://www.reddit.com/r/Kotlin/comments/1fbmknp/does_anyone_with_experience_deploying_apps_on_the/)
 - [Best &quot;full stack&quot; solution](https://www.reddit.com/r/Kotlin/comments/1fbl7rm/best_full_stack_solution/)
 - [Is there a good code quality tool like eslint for JS/TS?](https://www.reddit.com/r/Kotlin/comments/1fbjpfp/is_there_a_good_code_quality_tool_like_eslint_for/)
 - [Lambdas vs objects as parameters](https://www.reddit.com/r/Kotlin/comments/1fbdagz/lambdas_vs_objects_as_parameters/)
-- [How to Use Kotlin Notebook for Free](https://www.reddit.com/r/Kotlin/comments/1fb8p4k/how_to_use_kotlin_notebook_for_free/)
-- [KVision 8.0.0 is released](https://www.reddit.com/r/Kotlin/comments/1fb754u/kvision_800_is_released/)
-- [i need help to make a gps that shows me the location from the users and a image of their car](https://www.reddit.com/r/Kotlin/comments/1fayzv3/i_need_help_to_make_a_gps_that_shows_me_the/)
-- [I made a Kotlin DSL-based typesafe config system for my voxel game engine](https://www.reddit.com/r/Kotlin/comments/1favf5f/i_made_a_kotlin_dslbased_typesafe_config_system/)
-- [Looking for a Certification Equivalent to Google&#39;s Associate Android Developer with a Kotlin Focus](https://www.reddit.com/r/Kotlin/comments/1fankyl/looking_for_a_certification_equivalent_to_googles/)
-- [Kotlin language server couldn&#39;t create connection to server in vscode](https://www.reddit.com/r/Kotlin/comments/1fancgq/kotlin_language_server_couldnt_create_connection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
