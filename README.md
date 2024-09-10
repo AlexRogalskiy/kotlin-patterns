@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin project with a Python server](https://www.reddit.com/r/Kotlin/comments/1fcuwh3/kotlin_project_with_a_python_server/)
+- [Learning kotlin before Java](https://www.reddit.com/r/Kotlin/comments/1fcsaml/learning_kotlin_before_java/)
+- [New Libraries Coming Up](https://www.reddit.com/r/Kotlin/comments/1fcpy4v/new_libraries_coming_up/)
+- [Join my Community of Developers &lpar;KMP, Flutter, React Native, or anything&rpar;](https://www.reddit.com/r/Kotlin/comments/1fcpp07/join_my_community_of_developers_kmp_flutter_react/)
+- [ELI5 - How does Kotlin work on top of Java runtime and distribution &lpar;especially re. licensing&rpar;?](https://www.reddit.com/r/Kotlin/comments/1fcir6z/eli5_how_does_kotlin_work_on_top_of_java_runtime/)
 - [The History of Object-Oriented Programming - Uncle Bob](https://www.reddit.com/r/Kotlin/comments/1fc9x6q/the_history_of_objectoriented_programming_uncle/)
 - [A boilerplate Ktor project providing common APIs integrations. Feel free to use and contribute with your own integrations.](https://www.reddit.com/r/Kotlin/comments/1fc2wrs/a_boilerplate_ktor_project_providing_common_apis/)
 - [Beginner Site to Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1fbu6a5/beginner_site_to_learn_kotlin/)
 - [I&#39;m facing a weird problem with Kotlin Native. The problem arises while compiling for linux &lpar;also android&rpar; targets, but succeeds for apple. Can anybody take a look?](https://www.reddit.com/r/Kotlin/comments/1fbtqux/im_facing_a_weird_problem_with_kotlin_native_the/)
 - [Best web app framework](https://www.reddit.com/r/Kotlin/comments/1fbqet4/best_web_app_framework/)
-- [KmpEssentials &lpar;v0.7.7&rpar; is now Live! Apple WatchOS support is coming up soon!](https://www.reddit.com/r/Kotlin/comments/1fbnz6z/kmpessentials_v077_is_now_live_apple_watchos/)
-- [Does anyone with experience deploying apps on the Google Play Store have time to join me for a short call to talk about tools I am developing?](https://www.reddit.com/r/Kotlin/comments/1fbmknp/does_anyone_with_experience_deploying_apps_on_the/)
-- [Best &quot;full stack&quot; solution](https://www.reddit.com/r/Kotlin/comments/1fbl7rm/best_full_stack_solution/)
-- [Is there a good code quality tool like eslint for JS/TS?](https://www.reddit.com/r/Kotlin/comments/1fbjpfp/is_there_a_good_code_quality_tool_like_eslint_for/)
-- [Lambdas vs objects as parameters](https://www.reddit.com/r/Kotlin/comments/1fbdagz/lambdas_vs_objects_as_parameters/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
