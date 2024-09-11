@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktor or jsoup client html not returning all of the html of the site](https://www.reddit.com/r/Kotlin/comments/1fdsazr/ktor_or_jsoup_client_html_not_returning_all_of/)
+- [Create with Kotlin Multiplatform and win a trip to KotlinConf](https://www.reddit.com/r/Kotlin/comments/1fdlb33/create_with_kotlin_multiplatform_and_win_a_trip/)
+- [Is Maven Central down right now?](https://www.reddit.com/r/Kotlin/comments/1fddq7t/is_maven_central_down_right_now/)
+- [Build a Compose Multiplatform App &lpar;iOS and Android&rpar; on WINDOWS](https://www.reddit.com/r/Kotlin/comments/1fdbopb/build_a_compose_multiplatform_app_ios_and_android/)
 - [Kotlin project with a Python server](https://www.reddit.com/r/Kotlin/comments/1fcuwh3/kotlin_project_with_a_python_server/)
 - [Learning kotlin before Java](https://www.reddit.com/r/Kotlin/comments/1fcsaml/learning_kotlin_before_java/)
 - [New Libraries Coming Up](https://www.reddit.com/r/Kotlin/comments/1fcpy4v/new_libraries_coming_up/)
 - [Join my Community of Developers &lpar;KMP, Flutter, React Native, or anything&rpar;](https://www.reddit.com/r/Kotlin/comments/1fcpp07/join_my_community_of_developers_kmp_flutter_react/)
 - [ELI5 - How does Kotlin work on top of Java runtime and distribution &lpar;especially re. licensing&rpar;?](https://www.reddit.com/r/Kotlin/comments/1fcir6z/eli5_how_does_kotlin_work_on_top_of_java_runtime/)
 - [The History of Object-Oriented Programming - Uncle Bob](https://www.reddit.com/r/Kotlin/comments/1fc9x6q/the_history_of_objectoriented_programming_uncle/)
-- [A boilerplate Ktor project providing common APIs integrations. Feel free to use and contribute with your own integrations.](https://www.reddit.com/r/Kotlin/comments/1fc2wrs/a_boilerplate_ktor_project_providing_common_apis/)
-- [Beginner Site to Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1fbu6a5/beginner_site_to_learn_kotlin/)
-- [I&#39;m facing a weird problem with Kotlin Native. The problem arises while compiling for linux &lpar;also android&rpar; targets, but succeeds for apple. Can anybody take a look?](https://www.reddit.com/r/Kotlin/comments/1fbtqux/im_facing_a_weird_problem_with_kotlin_native_the/)
-- [Best web app framework](https://www.reddit.com/r/Kotlin/comments/1fbqet4/best_web_app_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
