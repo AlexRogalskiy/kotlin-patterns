@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🚀 Announcing Ksoup 0.1.7: The Latest Kotlin Multiplatform HTML/XML Parser Update! 🚀](https://www.reddit.com/r/Kotlin/comments/1fefb2g/announcing_ksoup_017_the_latest_kotlin/)
+- [Java Platform Module System &lpar;JPMS&rpar; with Kotlin](https://www.reddit.com/r/Kotlin/comments/1feey89/java_platform_module_system_jpms_with_kotlin/)
+- [👨‍💻 KVision 8 Released: Build Web Apps in Kotlin, Ditch the JavaScript](https://www.reddit.com/r/Kotlin/comments/1febu36/kvision_8_released_build_web_apps_in_kotlin_ditch/)
+- [Sqlx4k: A non-blocking database driver for PostgreSQL, MySQL and SQLite, written in Kotlin for the Native Platform. I just published the new version that adds support for windows.](https://www.reddit.com/r/Kotlin/comments/1fe7mux/sqlx4k_a_nonblocking_database_driver_for/)
+- [Function/Modules : Kotlin](https://www.reddit.com/r/Kotlin/comments/1fe2cqg/functionmodules_kotlin/)
 - [Ktor or jsoup client html not returning all of the html of the site](https://www.reddit.com/r/Kotlin/comments/1fdsazr/ktor_or_jsoup_client_html_not_returning_all_of/)
 - [Create with Kotlin Multiplatform and win a trip to KotlinConf](https://www.reddit.com/r/Kotlin/comments/1fdlb33/create_with_kotlin_multiplatform_and_win_a_trip/)
 - [Is Maven Central down right now?](https://www.reddit.com/r/Kotlin/comments/1fddq7t/is_maven_central_down_right_now/)
 - [Build a Compose Multiplatform App &lpar;iOS and Android&rpar; on WINDOWS](https://www.reddit.com/r/Kotlin/comments/1fdbopb/build_a_compose_multiplatform_app_ios_and_android/)
 - [Kotlin project with a Python server](https://www.reddit.com/r/Kotlin/comments/1fcuwh3/kotlin_project_with_a_python_server/)
-- [Learning kotlin before Java](https://www.reddit.com/r/Kotlin/comments/1fcsaml/learning_kotlin_before_java/)
-- [New Libraries Coming Up](https://www.reddit.com/r/Kotlin/comments/1fcpy4v/new_libraries_coming_up/)
-- [Join my Community of Developers &lpar;KMP, Flutter, React Native, or anything&rpar;](https://www.reddit.com/r/Kotlin/comments/1fcpp07/join_my_community_of_developers_kmp_flutter_react/)
-- [ELI5 - How does Kotlin work on top of Java runtime and distribution &lpar;especially re. licensing&rpar;?](https://www.reddit.com/r/Kotlin/comments/1fcir6z/eli5_how_does_kotlin_work_on_top_of_java_runtime/)
-- [The History of Object-Oriented Programming - Uncle Bob](https://www.reddit.com/r/Kotlin/comments/1fc9x6q/the_history_of_objectoriented_programming_uncle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
