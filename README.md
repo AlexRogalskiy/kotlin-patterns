@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [🚀 Announcing Ksoup 0.1.7: The Latest Kotlin Multiplatform HTML/XML Parser Update! 🚀](https://www.reddit.com/r/Kotlin/comments/1fefb2g/announcing_ksoup_017_the_latest_kotlin/)
-- [Java Platform Module System &lpar;JPMS&rpar; with Kotlin](https://www.reddit.com/r/Kotlin/comments/1feey89/java_platform_module_system_jpms_with_kotlin/)
-- [👨‍💻 KVision 8 Released: Build Web Apps in Kotlin, Ditch the JavaScript](https://www.reddit.com/r/Kotlin/comments/1febu36/kvision_8_released_build_web_apps_in_kotlin_ditch/)
-- [Sqlx4k: A non-blocking database driver for PostgreSQL, MySQL and SQLite, written in Kotlin for the Native Platform. I just published the new version that adds support for windows.](https://www.reddit.com/r/Kotlin/comments/1fe7mux/sqlx4k_a_nonblocking_database_driver_for/)
-- [Function/Modules : Kotlin](https://www.reddit.com/r/Kotlin/comments/1fe2cqg/functionmodules_kotlin/)
-- [Ktor or jsoup client html not returning all of the html of the site](https://www.reddit.com/r/Kotlin/comments/1fdsazr/ktor_or_jsoup_client_html_not_returning_all_of/)
-- [Create with Kotlin Multiplatform and win a trip to KotlinConf](https://www.reddit.com/r/Kotlin/comments/1fdlb33/create_with_kotlin_multiplatform_and_win_a_trip/)
-- [Is Maven Central down right now?](https://www.reddit.com/r/Kotlin/comments/1fddq7t/is_maven_central_down_right_now/)
-- [Build a Compose Multiplatform App &lpar;iOS and Android&rpar; on WINDOWS](https://www.reddit.com/r/Kotlin/comments/1fdbopb/build_a_compose_multiplatform_app_ios_and_android/)
-- [Kotlin project with a Python server](https://www.reddit.com/r/Kotlin/comments/1fcuwh3/kotlin_project_with_a_python_server/)
+- [KmpEssentials &lpar;v0.8.4&rpar; is now Live &lpar;WatchOS now Supported!!!&rpar;](https://www.reddit.com/r/Kotlin/comments/1fff5xf/kmpessentials_v084_is_now_live_watchos_now/)
+- [Kotlin Or Java](https://www.reddit.com/r/Kotlin/comments/1ffe06a/kotlin_or_java/)
+- [Beyond The Success Of Kotlin / The Documentary by EngX](https://www.reddit.com/r/Kotlin/comments/1ff9gl3/beyond_the_success_of_kotlin_the_documentary_by/)
+- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1ff6g1x/new_to_kotlin/)
+- [List that is swippable where results get stored](https://www.reddit.com/r/Kotlin/comments/1ff4d6p/list_that_is_swippable_where_results_get_stored/)
+- [heeyy!! What is means that? I&#39;m not sure](https://www.reddit.com/r/Kotlin/comments/1ff0o5k/heeyy_what_is_means_that_im_not_sure/)
+- [New Stacktrace Decoroutinator release with Gradle plugin](https://www.reddit.com/r/Kotlin/comments/1ff07gv/new_stacktrace_decoroutinator_release_with_gradle/)
+- [Arabic TTS](https://www.reddit.com/r/Kotlin/comments/1few458/arabic_tts/)
+- [jOOQ - code examples handling nullability](https://www.reddit.com/r/Kotlin/comments/1feu6sz/jooq_code_examples_handling_nullability/)
+- [How can I observe SMS on android?](https://www.reddit.com/r/Kotlin/comments/1fet74z/how_can_i_observe_sms_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
