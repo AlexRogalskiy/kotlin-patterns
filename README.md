@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Failed to resolve: com.droidninja:filepicker:2.2.5](https://www.reddit.com/r/Kotlin/comments/1ffwk59/failed_to_resolve_comdroidninjafilepicker225/)
+- [Preferred Naming Convention for Data Classes in Exposed](https://www.reddit.com/r/Kotlin/comments/1ffrank/preferred_naming_convention_for_data_classes_in/)
+- [Kotlin Bluetooth data read](https://www.reddit.com/r/Kotlin/comments/1ffqskt/kotlin_bluetooth_data_read/)
+- [Mastering Chat-Oriented Programming with Stephan Janssen](https://www.reddit.com/r/Kotlin/comments/1ffq9qu/mastering_chatoriented_programming_with_stephan/)
 - [KmpEssentials &lpar;v0.8.4&rpar; is now Live &lpar;WatchOS now Supported!!!&rpar;](https://www.reddit.com/r/Kotlin/comments/1fff5xf/kmpessentials_v084_is_now_live_watchos_now/)
 - [Kotlin Or Java](https://www.reddit.com/r/Kotlin/comments/1ffe06a/kotlin_or_java/)
 - [Beyond The Success Of Kotlin / The Documentary by EngX](https://www.reddit.com/r/Kotlin/comments/1ff9gl3/beyond_the_success_of_kotlin_the_documentary_by/)
 - [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1ff6g1x/new_to_kotlin/)
 - [List that is swippable where results get stored](https://www.reddit.com/r/Kotlin/comments/1ff4d6p/list_that_is_swippable_where_results_get_stored/)
 - [heeyy!! What is means that? I&#39;m not sure](https://www.reddit.com/r/Kotlin/comments/1ff0o5k/heeyy_what_is_means_that_im_not_sure/)
-- [New Stacktrace Decoroutinator release with Gradle plugin](https://www.reddit.com/r/Kotlin/comments/1ff07gv/new_stacktrace_decoroutinator_release_with_gradle/)
-- [Arabic TTS](https://www.reddit.com/r/Kotlin/comments/1few458/arabic_tts/)
-- [jOOQ - code examples handling nullability](https://www.reddit.com/r/Kotlin/comments/1feu6sz/jooq_code_examples_handling_nullability/)
-- [How can I observe SMS on android?](https://www.reddit.com/r/Kotlin/comments/1fet74z/how_can_i_observe_sms_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
