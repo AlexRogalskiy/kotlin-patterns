@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Modify Android System Image &lpar;system.img&rpar; &amp; Make Emulator Undetectable](https://www.reddit.com/r/Kotlin/comments/1fh1pia/modify_android_system_image_systemimg_make/)
+- [need notes](https://www.reddit.com/r/Kotlin/comments/1fgrz5v/need_notes/)
+- [How do Java programmers learn kotlin?](https://www.reddit.com/r/Kotlin/comments/1fgmaaf/how_do_java_programmers_learn_kotlin/)
+- [How to protect your Ktor based Slack bot](https://www.reddit.com/r/Kotlin/comments/1fglhgk/how_to_protect_your_ktor_based_slack_bot/)
+- [Best way to learn Kotlin? I could use some help!](https://www.reddit.com/r/Kotlin/comments/1fgiebb/best_way_to_learn_kotlin_i_could_use_some_help/)
+- [Does Polymorphism depend on Inheritance? - Uncle bob](https://www.reddit.com/r/Kotlin/comments/1fgdl99/does_polymorphism_depend_on_inheritance_uncle_bob/)
 - [Failed to resolve: com.droidninja:filepicker:2.2.5](https://www.reddit.com/r/Kotlin/comments/1ffwk59/failed_to_resolve_comdroidninjafilepicker225/)
 - [Preferred Naming Convention for Data Classes in Exposed](https://www.reddit.com/r/Kotlin/comments/1ffrank/preferred_naming_convention_for_data_classes_in/)
 - [Kotlin Bluetooth data read](https://www.reddit.com/r/Kotlin/comments/1ffqskt/kotlin_bluetooth_data_read/)
 - [Mastering Chat-Oriented Programming with Stephan Janssen](https://www.reddit.com/r/Kotlin/comments/1ffq9qu/mastering_chatoriented_programming_with_stephan/)
-- [KmpEssentials &lpar;v0.8.4&rpar; is now Live &lpar;WatchOS now Supported!!!&rpar;](https://www.reddit.com/r/Kotlin/comments/1fff5xf/kmpessentials_v084_is_now_live_watchos_now/)
-- [Kotlin Or Java](https://www.reddit.com/r/Kotlin/comments/1ffe06a/kotlin_or_java/)
-- [Beyond The Success Of Kotlin / The Documentary by EngX](https://www.reddit.com/r/Kotlin/comments/1ff9gl3/beyond_the_success_of_kotlin_the_documentary_by/)
-- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1ff6g1x/new_to_kotlin/)
-- [List that is swippable where results get stored](https://www.reddit.com/r/Kotlin/comments/1ff4d6p/list_that_is_swippable_where_results_get_stored/)
-- [heeyy!! What is means that? I&#39;m not sure](https://www.reddit.com/r/Kotlin/comments/1ff0o5k/heeyy_what_is_means_that_im_not_sure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
