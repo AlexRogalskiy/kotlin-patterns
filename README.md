@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can Not Input Chinese in IDEA Scanner](https://www.reddit.com/r/Kotlin/comments/1fhpn7b/can_not_input_chinese_in_idea_scanner/)
+- [Made our Kotlin mascot - Kodee into 3D](https://www.reddit.com/r/Kotlin/comments/1fhki5h/made_our_kotlin_mascot_kodee_into_3d/)
+- [Maven repository suddenly has ~empty JARs after version changes](https://www.reddit.com/r/Kotlin/comments/1fhkezl/maven_repository_suddenly_has_empty_jars_after/)
+- [Attention Kotlin Library Authors! 🚀](https://www.reddit.com/r/Kotlin/comments/1fhewj6/attention_kotlin_library_authors/)
+- [Question related to kotlin boxing](https://www.reddit.com/r/Kotlin/comments/1fhamhq/question_related_to_kotlin_boxing/)
+- [KMP -New one](https://www.reddit.com/r/Kotlin/comments/1fh7t4u/kmp_new_one/)
+- [Open Source projects writing in Kotlin you’re excited about?](https://www.reddit.com/r/Kotlin/comments/1fh5odh/open_source_projects_writing_in_kotlin_youre/)
 - [Modify Android System Image &lpar;system.img&rpar; &amp; Make Emulator Undetectable](https://www.reddit.com/r/Kotlin/comments/1fh1pia/modify_android_system_image_systemimg_make/)
 - [need notes](https://www.reddit.com/r/Kotlin/comments/1fgrz5v/need_notes/)
 - [How do Java programmers learn kotlin?](https://www.reddit.com/r/Kotlin/comments/1fgmaaf/how_do_java_programmers_learn_kotlin/)
-- [How to protect your Ktor based Slack bot](https://www.reddit.com/r/Kotlin/comments/1fglhgk/how_to_protect_your_ktor_based_slack_bot/)
-- [Best way to learn Kotlin? I could use some help!](https://www.reddit.com/r/Kotlin/comments/1fgiebb/best_way_to_learn_kotlin_i_could_use_some_help/)
-- [Does Polymorphism depend on Inheritance? - Uncle bob](https://www.reddit.com/r/Kotlin/comments/1fgdl99/does_polymorphism_depend_on_inheritance_uncle_bob/)
-- [Failed to resolve: com.droidninja:filepicker:2.2.5](https://www.reddit.com/r/Kotlin/comments/1ffwk59/failed_to_resolve_comdroidninjafilepicker225/)
-- [Preferred Naming Convention for Data Classes in Exposed](https://www.reddit.com/r/Kotlin/comments/1ffrank/preferred_naming_convention_for_data_classes_in/)
-- [Kotlin Bluetooth data read](https://www.reddit.com/r/Kotlin/comments/1ffqskt/kotlin_bluetooth_data_read/)
-- [Mastering Chat-Oriented Programming with Stephan Janssen](https://www.reddit.com/r/Kotlin/comments/1ffq9qu/mastering_chatoriented_programming_with_stephan/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
