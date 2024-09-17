@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Project Based Kotlin learning courses,books?](https://www.reddit.com/r/Kotlin/comments/1fid8ol/project_based_kotlin_learning_coursesbooks/)
+- [How do you share resources in KMP?](https://www.reddit.com/r/Kotlin/comments/1fi5eux/how_do_you_share_resources_in_kmp/)
+- [OpenAPI Spec Generation for Ktor: Seeking Community Insights](https://www.reddit.com/r/Kotlin/comments/1fi53rc/openapi_spec_generation_for_ktor_seeking/)
+- [Error : none of the following functions can be called with the arguments supplied](https://www.reddit.com/r/Kotlin/comments/1fhzc4x/error_none_of_the_following_functions_can_be/)
+- [Deep drive - Kotlin Coroutine Dispatchers](https://www.reddit.com/r/Kotlin/comments/1fhxmc1/deep_drive_kotlin_coroutine_dispatchers/)
 - [Can Not Input Chinese in IDEA Scanner](https://www.reddit.com/r/Kotlin/comments/1fhpn7b/can_not_input_chinese_in_idea_scanner/)
 - [Made our Kotlin mascot - Kodee into 3D](https://www.reddit.com/r/Kotlin/comments/1fhki5h/made_our_kotlin_mascot_kodee_into_3d/)
 - [Maven repository suddenly has ~empty JARs after version changes](https://www.reddit.com/r/Kotlin/comments/1fhkezl/maven_repository_suddenly_has_empty_jars_after/)
 - [Attention Kotlin Library Authors! 🚀](https://www.reddit.com/r/Kotlin/comments/1fhewj6/attention_kotlin_library_authors/)
 - [Question related to kotlin boxing](https://www.reddit.com/r/Kotlin/comments/1fhamhq/question_related_to_kotlin_boxing/)
-- [KMP -New one](https://www.reddit.com/r/Kotlin/comments/1fh7t4u/kmp_new_one/)
-- [Open Source projects writing in Kotlin you’re excited about?](https://www.reddit.com/r/Kotlin/comments/1fh5odh/open_source_projects_writing_in_kotlin_youre/)
-- [Modify Android System Image &lpar;system.img&rpar; &amp; Make Emulator Undetectable](https://www.reddit.com/r/Kotlin/comments/1fh1pia/modify_android_system_image_systemimg_make/)
-- [need notes](https://www.reddit.com/r/Kotlin/comments/1fgrz5v/need_notes/)
-- [How do Java programmers learn kotlin?](https://www.reddit.com/r/Kotlin/comments/1fgmaaf/how_do_java_programmers_learn_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
