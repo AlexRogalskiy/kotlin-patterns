@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What should I know If I want to learn micronaut framework?](https://www.reddit.com/r/Kotlin/comments/1fj515i/what_should_i_know_if_i_want_to_learn_micronaut/)
+- [Kotlin Roadmap Update: Find out what comes next for Kotlin](https://www.reddit.com/r/Kotlin/comments/1fiyrv8/kotlin_roadmap_update_find_out_what_comes_next/)
+- [starting a new compose desktop project is terrible](https://www.reddit.com/r/Kotlin/comments/1fixpvs/starting_a_new_compose_desktop_project_is_terrible/)
+- [Are any of you heading to Droidcon New York this week?](https://www.reddit.com/r/Kotlin/comments/1fitngh/are_any_of_you_heading_to_droidcon_new_york_this/)
 - [Project Based Kotlin learning courses,books?](https://www.reddit.com/r/Kotlin/comments/1fid8ol/project_based_kotlin_learning_coursesbooks/)
 - [How do you share resources in KMP?](https://www.reddit.com/r/Kotlin/comments/1fi5eux/how_do_you_share_resources_in_kmp/)
 - [OpenAPI Spec Generation for Ktor: Seeking Community Insights](https://www.reddit.com/r/Kotlin/comments/1fi53rc/openapi_spec_generation_for_ktor_seeking/)
 - [Error : none of the following functions can be called with the arguments supplied](https://www.reddit.com/r/Kotlin/comments/1fhzc4x/error_none_of_the_following_functions_can_be/)
 - [Deep drive - Kotlin Coroutine Dispatchers](https://www.reddit.com/r/Kotlin/comments/1fhxmc1/deep_drive_kotlin_coroutine_dispatchers/)
 - [Can Not Input Chinese in IDEA Scanner](https://www.reddit.com/r/Kotlin/comments/1fhpn7b/can_not_input_chinese_in_idea_scanner/)
-- [Made our Kotlin mascot - Kodee into 3D](https://www.reddit.com/r/Kotlin/comments/1fhki5h/made_our_kotlin_mascot_kodee_into_3d/)
-- [Maven repository suddenly has ~empty JARs after version changes](https://www.reddit.com/r/Kotlin/comments/1fhkezl/maven_repository_suddenly_has_empty_jars_after/)
-- [Attention Kotlin Library Authors! 🚀](https://www.reddit.com/r/Kotlin/comments/1fhewj6/attention_kotlin_library_authors/)
-- [Question related to kotlin boxing](https://www.reddit.com/r/Kotlin/comments/1fhamhq/question_related_to_kotlin_boxing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
