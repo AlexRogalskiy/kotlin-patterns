@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kotlin&#39;s location in the jvm language-iverse](https://www.reddit.com/r/Kotlin/comments/1fk86s2/kotlins_location_in_the_jvm_languageiverse/)
+- [Grid Layout + Animation?](https://www.reddit.com/r/Kotlin/comments/1fjzfq9/grid_layout_animation/)
+- [TypeAlias Show Livestream: Kotlin Roadmap, Multi-Cursors, and More](https://www.reddit.com/r/Kotlin/comments/1fjvtm9/typealias_show_livestream_kotlin_roadmap/)
+- [MacOS Support is coming soon for KmpEssentials](https://www.reddit.com/r/Kotlin/comments/1fjtopm/macos_support_is_coming_soon_for_kmpessentials/)
+- [Why Singleton &lpar;object&rpar; Exceptions are a bad idea](https://www.reddit.com/r/Kotlin/comments/1fjsbuq/why_singleton_object_exceptions_are_a_bad_idea/)
+- [In depth dive to const val](https://www.reddit.com/r/Kotlin/comments/1fjnw11/in_depth_dive_to_const_val/)
+- [New Release: Ksoup 0.18 - A Lighter, Faster Kotlin Multiplatform HTML &amp; XML Parser](https://www.reddit.com/r/Kotlin/comments/1fjn2fs/new_release_ksoup_018_a_lighter_faster_kotlin/)
+- [KmpEssentials &lpar;v0.8.7&rpar; now has full Android Compose Support!](https://www.reddit.com/r/Kotlin/comments/1fjiior/kmpessentials_v087_now_has_full_android_compose/)
 - [What should I know If I want to learn micronaut framework?](https://www.reddit.com/r/Kotlin/comments/1fj515i/what_should_i_know_if_i_want_to_learn_micronaut/)
 - [Kotlin Roadmap Update: Find out what comes next for Kotlin](https://www.reddit.com/r/Kotlin/comments/1fiyrv8/kotlin_roadmap_update_find_out_what_comes_next/)
-- [starting a new compose desktop project is terrible](https://www.reddit.com/r/Kotlin/comments/1fixpvs/starting_a_new_compose_desktop_project_is_terrible/)
-- [Are any of you heading to Droidcon New York this week?](https://www.reddit.com/r/Kotlin/comments/1fitngh/are_any_of_you_heading_to_droidcon_new_york_this/)
-- [Project Based Kotlin learning courses,books?](https://www.reddit.com/r/Kotlin/comments/1fid8ol/project_based_kotlin_learning_coursesbooks/)
-- [How do you share resources in KMP?](https://www.reddit.com/r/Kotlin/comments/1fi5eux/how_do_you_share_resources_in_kmp/)
-- [OpenAPI Spec Generation for Ktor: Seeking Community Insights](https://www.reddit.com/r/Kotlin/comments/1fi53rc/openapi_spec_generation_for_ktor_seeking/)
-- [Error : none of the following functions can be called with the arguments supplied](https://www.reddit.com/r/Kotlin/comments/1fhzc4x/error_none_of_the_following_functions_can_be/)
-- [Deep drive - Kotlin Coroutine Dispatchers](https://www.reddit.com/r/Kotlin/comments/1fhxmc1/deep_drive_kotlin_coroutine_dispatchers/)
-- [Can Not Input Chinese in IDEA Scanner](https://www.reddit.com/r/Kotlin/comments/1fhpn7b/can_not_input_chinese_in_idea_scanner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
