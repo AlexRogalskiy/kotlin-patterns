@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hear Me Out — Kdux: a better Redux for modern Kotlin](https://www.reddit.com/r/Kotlin/comments/1fkyj6u/hear_me_out_kdux_a_better_redux_for_modern_kotlin/)
+- [Sqlx4k: A high-performance Kotlin Native database driver for PostgreSQL, MySQL, and SQLite. Just released a new version! The new version adds support for prepared statements and more. Also, heavily refactored the code to add support for sqldelight in the next upcoming releases. Take a look 👀](https://www.reddit.com/r/Kotlin/comments/1fko3m3/sqlx4k_a_highperformance_kotlin_native_database/)
+- [Rename Kotlin to something else to distance from Russia](https://www.reddit.com/r/Kotlin/comments/1fkntpj/rename_kotlin_to_something_else_to_distance_from/)
+- [Alternatives to MongoDB Device Sync for Multiplatform Projects?](https://www.reddit.com/r/Kotlin/comments/1fknh6e/alternatives_to_mongodb_device_sync_for/)
+- [Check out my Telegram Captcha Bot](https://www.reddit.com/r/Kotlin/comments/1fkgobz/check_out_my_telegram_captcha_bot/)
+- [OpenJDK 23 and GraalVM for JDK 23 Released](https://www.reddit.com/r/Kotlin/comments/1fke9k0/openjdk_23_and_graalvm_for_jdk_23_released/)
+- [How to Solve OutOfMemoryError: Requested Array Size](https://www.reddit.com/r/Kotlin/comments/1fkd01x/how_to_solve_outofmemoryerror_requested_array_size/)
+- [Secrets Revealed: Java Records vs. Kotlin Data Classes](https://www.reddit.com/r/Kotlin/comments/1fkby7m/secrets_revealed_java_records_vs_kotlin_data/)
+- [Proper walkthrough of publishing and using a Kotlin library from Github Packages Registry](https://www.reddit.com/r/Kotlin/comments/1fkadye/proper_walkthrough_of_publishing_and_using_a/)
 - [kotlin&#39;s location in the jvm language-iverse](https://www.reddit.com/r/Kotlin/comments/1fk86s2/kotlins_location_in_the_jvm_languageiverse/)
-- [Grid Layout + Animation?](https://www.reddit.com/r/Kotlin/comments/1fjzfq9/grid_layout_animation/)
-- [TypeAlias Show Livestream: Kotlin Roadmap, Multi-Cursors, and More](https://www.reddit.com/r/Kotlin/comments/1fjvtm9/typealias_show_livestream_kotlin_roadmap/)
-- [MacOS Support is coming soon for KmpEssentials](https://www.reddit.com/r/Kotlin/comments/1fjtopm/macos_support_is_coming_soon_for_kmpessentials/)
-- [Why Singleton &lpar;object&rpar; Exceptions are a bad idea](https://www.reddit.com/r/Kotlin/comments/1fjsbuq/why_singleton_object_exceptions_are_a_bad_idea/)
-- [In depth dive to const val](https://www.reddit.com/r/Kotlin/comments/1fjnw11/in_depth_dive_to_const_val/)
-- [New Release: Ksoup 0.18 - A Lighter, Faster Kotlin Multiplatform HTML &amp; XML Parser](https://www.reddit.com/r/Kotlin/comments/1fjn2fs/new_release_ksoup_018_a_lighter_faster_kotlin/)
-- [KmpEssentials &lpar;v0.8.7&rpar; now has full Android Compose Support!](https://www.reddit.com/r/Kotlin/comments/1fjiior/kmpessentials_v087_now_has_full_android_compose/)
-- [What should I know If I want to learn micronaut framework?](https://www.reddit.com/r/Kotlin/comments/1fj515i/what_should_i_know_if_i_want_to_learn_micronaut/)
-- [Kotlin Roadmap Update: Find out what comes next for Kotlin](https://www.reddit.com/r/Kotlin/comments/1fiyrv8/kotlin_roadmap_update_find_out_what_comes_next/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
