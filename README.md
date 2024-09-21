@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Future of Source Code with Stephan Janssen](https://www.reddit.com/r/Kotlin/comments/1flbu0n/the_future_of_source_code_with_stephan_janssen/)
+- [Kotlin Unit Testing Survey: Tell us how you approach unit testing, share your challenges, and help shape future improvements to Kotlin for testing.](https://www.reddit.com/r/Kotlin/comments/1fl7ppx/kotlin_unit_testing_survey_tell_us_how_you/)
+- [Best Cost Effective Android Development Companies?](https://www.reddit.com/r/Kotlin/comments/1fl29yd/best_cost_effective_android_development_companies/)
+- [The History of Object-Oriented Programming - Uncle Bob](https://www.reddit.com/r/Kotlin/comments/1fl1emg/the_history_of_objectoriented_programming_uncle/)
 - [Hear Me Out — Kdux: a better Redux for modern Kotlin](https://www.reddit.com/r/Kotlin/comments/1fkyj6u/hear_me_out_kdux_a_better_redux_for_modern_kotlin/)
 - [Sqlx4k: A high-performance Kotlin Native database driver for PostgreSQL, MySQL, and SQLite. Just released a new version! The new version adds support for prepared statements and more. Also, heavily refactored the code to add support for sqldelight in the next upcoming releases. Take a look 👀](https://www.reddit.com/r/Kotlin/comments/1fko3m3/sqlx4k_a_highperformance_kotlin_native_database/)
 - [Rename Kotlin to something else to distance from Russia](https://www.reddit.com/r/Kotlin/comments/1fkntpj/rename_kotlin_to_something_else_to_distance_from/)
 - [Alternatives to MongoDB Device Sync for Multiplatform Projects?](https://www.reddit.com/r/Kotlin/comments/1fknh6e/alternatives_to_mongodb_device_sync_for/)
 - [Check out my Telegram Captcha Bot](https://www.reddit.com/r/Kotlin/comments/1fkgobz/check_out_my_telegram_captcha_bot/)
 - [OpenJDK 23 and GraalVM for JDK 23 Released](https://www.reddit.com/r/Kotlin/comments/1fke9k0/openjdk_23_and_graalvm_for_jdk_23_released/)
-- [How to Solve OutOfMemoryError: Requested Array Size](https://www.reddit.com/r/Kotlin/comments/1fkd01x/how_to_solve_outofmemoryerror_requested_array_size/)
-- [Secrets Revealed: Java Records vs. Kotlin Data Classes](https://www.reddit.com/r/Kotlin/comments/1fkby7m/secrets_revealed_java_records_vs_kotlin_data/)
-- [Proper walkthrough of publishing and using a Kotlin library from Github Packages Registry](https://www.reddit.com/r/Kotlin/comments/1fkadye/proper_walkthrough_of_publishing_and_using_a/)
-- [kotlin&#39;s location in the jvm language-iverse](https://www.reddit.com/r/Kotlin/comments/1fk86s2/kotlins_location_in_the_jvm_languageiverse/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
