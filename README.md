@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KmpEssentials has finally reached 100 stars!](https://www.reddit.com/r/Kotlin/comments/1fn96w5/kmpessentials_has_finally_reached_100_stars/)
+- [Laws of software evolution - Kevlin Henney](https://www.reddit.com/r/Kotlin/comments/1fn63fu/laws_of_software_evolution_kevlin_henney/)
+- [KmpEssentials Api Documentation Website is Live!!](https://www.reddit.com/r/Kotlin/comments/1fmrb1t/kmpessentials_api_documentation_website_is_live/)
+- [Detect YouTube shorts in app](https://www.reddit.com/r/Kotlin/comments/1fmo48m/detect_youtube_shorts_in_app/)
 - [Jetbrains is a Hindrance to the Growth of Kotlin - Intentionally or Not](https://www.reddit.com/r/Kotlin/comments/1fmfs2o/jetbrains_is_a_hindrance_to_the_growth_of_kotlin/)
 - [Worried about KMP, because I probably care way too much !](https://www.reddit.com/r/Kotlin/comments/1fm5z22/worried_about_kmp_because_i_probably_care_way_too/)
 - [Script Util in Kotlin 2](https://www.reddit.com/r/Kotlin/comments/1flxibm/script_util_in_kotlin_2/)
 - [Is building an app with Kotlin relevant for jobs that require Java?](https://www.reddit.com/r/Kotlin/comments/1flu5uj/is_building_an_app_with_kotlin_relevant_for_jobs/)
 - [The Future of Source Code with Stephan Janssen](https://www.reddit.com/r/Kotlin/comments/1flbu0n/the_future_of_source_code_with_stephan_janssen/)
 - [Kotlin Unit Testing Survey: Tell us how you approach unit testing, share your challenges, and help shape future improvements to Kotlin for testing.](https://www.reddit.com/r/Kotlin/comments/1fl7ppx/kotlin_unit_testing_survey_tell_us_how_you/)
-- [Best Cost Effective Android Development Companies?](https://www.reddit.com/r/Kotlin/comments/1fl29yd/best_cost_effective_android_development_companies/)
-- [The History of Object-Oriented Programming - Uncle Bob](https://www.reddit.com/r/Kotlin/comments/1fl1emg/the_history_of_objectoriented_programming_uncle/)
-- [Hear Me Out — Kdux: a better Redux for modern Kotlin](https://www.reddit.com/r/Kotlin/comments/1fkyj6u/hear_me_out_kdux_a_better_redux_for_modern_kotlin/)
-- [Sqlx4k: A high-performance Kotlin Native database driver for PostgreSQL, MySQL, and SQLite. Just released a new version! The new version adds support for prepared statements and more. Also, heavily refactored the code to add support for sqldelight in the next upcoming releases. Take a look 👀](https://www.reddit.com/r/Kotlin/comments/1fko3m3/sqlx4k_a_highperformance_kotlin_native_database/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
