@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can KMM be used to develop cross-platform libraries?](https://www.reddit.com/r/Kotlin/comments/1fnu4ce/can_kmm_be_used_to_develop_crossplatform_libraries/)
+- [Introducing PolicyEngine - A Kotlin-based Policy Evaluation Library](https://www.reddit.com/r/Kotlin/comments/1fnr5ot/introducing_policyengine_a_kotlinbased_policy/)
+- [License to distribute Stdlib jar?](https://www.reddit.com/r/Kotlin/comments/1fnp8te/license_to_distribute_stdlib_jar/)
+- [Have you been asked to showcase an app during Android Interviews?](https://www.reddit.com/r/Kotlin/comments/1fnldyr/have_you_been_asked_to_showcase_an_app_during/)
+- [🚀 MEET INSPEKTIFY: KMP network inspection library 🚀](https://www.reddit.com/r/Kotlin/comments/1fngyh4/meet_inspektify_kmp_network_inspection_library/)
+- [Sqlx4k: A high-performance Kotlin Native database driver for PostgreSQL, MySQL, and SQLite. Just released version 0.18.0 that adds support for SQLDelight.](https://www.reddit.com/r/Kotlin/comments/1fnfyhe/sqlx4k_a_highperformance_kotlin_native_database/)
+- [Performance of Kotlin](https://www.reddit.com/r/Kotlin/comments/1fnexng/performance_of_kotlin/)
+- [A kotlin-multiplatform library to help you stylize your application and services.](https://www.reddit.com/r/Kotlin/comments/1fne1m9/a_kotlinmultiplatform_library_to_help_you_stylize/)
 - [KmpEssentials has finally reached 100 stars!](https://www.reddit.com/r/Kotlin/comments/1fn96w5/kmpessentials_has_finally_reached_100_stars/)
 - [Laws of software evolution - Kevlin Henney](https://www.reddit.com/r/Kotlin/comments/1fn63fu/laws_of_software_evolution_kevlin_henney/)
-- [KmpEssentials Api Documentation Website is Live!!](https://www.reddit.com/r/Kotlin/comments/1fmrb1t/kmpessentials_api_documentation_website_is_live/)
-- [Detect YouTube shorts in app](https://www.reddit.com/r/Kotlin/comments/1fmo48m/detect_youtube_shorts_in_app/)
-- [Jetbrains is a Hindrance to the Growth of Kotlin - Intentionally or Not](https://www.reddit.com/r/Kotlin/comments/1fmfs2o/jetbrains_is_a_hindrance_to_the_growth_of_kotlin/)
-- [Worried about KMP, because I probably care way too much !](https://www.reddit.com/r/Kotlin/comments/1fm5z22/worried_about_kmp_because_i_probably_care_way_too/)
-- [Script Util in Kotlin 2](https://www.reddit.com/r/Kotlin/comments/1flxibm/script_util_in_kotlin_2/)
-- [Is building an app with Kotlin relevant for jobs that require Java?](https://www.reddit.com/r/Kotlin/comments/1flu5uj/is_building_an_app_with_kotlin_relevant_for_jobs/)
-- [The Future of Source Code with Stephan Janssen](https://www.reddit.com/r/Kotlin/comments/1flbu0n/the_future_of_source_code_with_stephan_janssen/)
-- [Kotlin Unit Testing Survey: Tell us how you approach unit testing, share your challenges, and help shape future improvements to Kotlin for testing.](https://www.reddit.com/r/Kotlin/comments/1fl7ppx/kotlin_unit_testing_survey_tell_us_how_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
