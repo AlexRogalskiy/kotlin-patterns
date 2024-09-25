@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What Ktor client engine to choose?](https://www.reddit.com/r/Kotlin/comments/1foorfq/what_ktor_client_engine_to_choose/)
+- [Ktor 101: Efficient JVM HTTP Toolkit](https://www.reddit.com/r/Kotlin/comments/1fojl13/ktor_101_efficient_jvm_http_toolkit/)
+- [Koin 4.0 released](https://www.reddit.com/r/Kotlin/comments/1foht59/koin_40_released/)
+- [Kotlin multi platform for webdev](https://www.reddit.com/r/Kotlin/comments/1foahrn/kotlin_multi_platform_for_webdev/)
+- [I have learned java 15years ago at university..how can I introduce my self into java world?](https://www.reddit.com/r/Kotlin/comments/1foaac2/i_have_learned_java_15years_ago_at_universityhow/)
+- [KmpEssentials v0.9.2 &lpar;Thanks to Everyone who&#39;s given me feedback&rpar;](https://www.reddit.com/r/Kotlin/comments/1fo9x0d/kmpessentials_v092_thanks_to_everyone_whos_given/)
+- [Why fullMode, the aggressive Android optimisation, hates Gson so much?](https://www.reddit.com/r/Kotlin/comments/1fo2w6t/why_fullmode_the_aggressive_android_optimisation/)
 - [Can KMM be used to develop cross-platform libraries?](https://www.reddit.com/r/Kotlin/comments/1fnu4ce/can_kmm_be_used_to_develop_crossplatform_libraries/)
 - [Introducing PolicyEngine - A Kotlin-based Policy Evaluation Library](https://www.reddit.com/r/Kotlin/comments/1fnr5ot/introducing_policyengine_a_kotlinbased_policy/)
 - [License to distribute Stdlib jar?](https://www.reddit.com/r/Kotlin/comments/1fnp8te/license_to_distribute_stdlib_jar/)
-- [Have you been asked to showcase an app during Android Interviews?](https://www.reddit.com/r/Kotlin/comments/1fnldyr/have_you_been_asked_to_showcase_an_app_during/)
-- [🚀 MEET INSPEKTIFY: KMP network inspection library 🚀](https://www.reddit.com/r/Kotlin/comments/1fngyh4/meet_inspektify_kmp_network_inspection_library/)
-- [Sqlx4k: A high-performance Kotlin Native database driver for PostgreSQL, MySQL, and SQLite. Just released version 0.18.0 that adds support for SQLDelight.](https://www.reddit.com/r/Kotlin/comments/1fnfyhe/sqlx4k_a_highperformance_kotlin_native_database/)
-- [Performance of Kotlin](https://www.reddit.com/r/Kotlin/comments/1fnexng/performance_of_kotlin/)
-- [A kotlin-multiplatform library to help you stylize your application and services.](https://www.reddit.com/r/Kotlin/comments/1fne1m9/a_kotlinmultiplatform_library_to_help_you_stylize/)
-- [KmpEssentials has finally reached 100 stars!](https://www.reddit.com/r/Kotlin/comments/1fn96w5/kmpessentials_has_finally_reached_100_stars/)
-- [Laws of software evolution - Kevlin Henney](https://www.reddit.com/r/Kotlin/comments/1fn63fu/laws_of_software_evolution_kevlin_henney/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
