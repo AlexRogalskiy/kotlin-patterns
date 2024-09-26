@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Access location without permission?](https://www.reddit.com/r/Kotlin/comments/1fplchv/access_location_without_permission/)
+- [KmpEssentials &lpar;v1.0.0&rpar; now has Printing!!](https://www.reddit.com/r/Kotlin/comments/1fpijms/kmpessentials_v100_now_has_printing/)
+- [Koin 4.0 Official Release Note](https://www.reddit.com/r/Kotlin/comments/1fpdaxl/koin_40_official_release_note/)
+- [Using Enum name as annotation argument](https://www.reddit.com/r/Kotlin/comments/1fp5qyz/using_enum_name_as_annotation_argument/)
+- [Can ObjectBox be used in Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1fp5crn/can_objectbox_be_used_in_kotlin_multiplatform/)
+- [Custom seekbar](https://www.reddit.com/r/Kotlin/comments/1fp57d3/custom_seekbar/)
+- [how to creat a program with KOTLIN where you can enter the serial number and it will tell you who printed the label .](https://www.reddit.com/r/Kotlin/comments/1fozv17/how_to_creat_a_program_with_kotlin_where_you_can/)
+- [How can I solve the compile daemon and gradle error?](https://www.reddit.com/r/Kotlin/comments/1foyq13/how_can_i_solve_the_compile_daemon_and_gradle/)
+- [Which library &lpar;kmp supported&rpar; do you prefer for persistence?](https://www.reddit.com/r/Kotlin/comments/1foxpsc/which_library_kmp_supported_do_you_prefer_for/)
 - [What Ktor client engine to choose?](https://www.reddit.com/r/Kotlin/comments/1foorfq/what_ktor_client_engine_to_choose/)
-- [Ktor 101: Efficient JVM HTTP Toolkit](https://www.reddit.com/r/Kotlin/comments/1fojl13/ktor_101_efficient_jvm_http_toolkit/)
-- [Koin 4.0 released](https://www.reddit.com/r/Kotlin/comments/1foht59/koin_40_released/)
-- [Kotlin multi platform for webdev](https://www.reddit.com/r/Kotlin/comments/1foahrn/kotlin_multi_platform_for_webdev/)
-- [I have learned java 15years ago at university..how can I introduce my self into java world?](https://www.reddit.com/r/Kotlin/comments/1foaac2/i_have_learned_java_15years_ago_at_universityhow/)
-- [KmpEssentials v0.9.2 &lpar;Thanks to Everyone who&#39;s given me feedback&rpar;](https://www.reddit.com/r/Kotlin/comments/1fo9x0d/kmpessentials_v092_thanks_to_everyone_whos_given/)
-- [Why fullMode, the aggressive Android optimisation, hates Gson so much?](https://www.reddit.com/r/Kotlin/comments/1fo2w6t/why_fullmode_the_aggressive_android_optimisation/)
-- [Can KMM be used to develop cross-platform libraries?](https://www.reddit.com/r/Kotlin/comments/1fnu4ce/can_kmm_be_used_to_develop_crossplatform_libraries/)
-- [Introducing PolicyEngine - A Kotlin-based Policy Evaluation Library](https://www.reddit.com/r/Kotlin/comments/1fnr5ot/introducing_policyengine_a_kotlinbased_policy/)
-- [License to distribute Stdlib jar?](https://www.reddit.com/r/Kotlin/comments/1fnp8te/license_to_distribute_stdlib_jar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
