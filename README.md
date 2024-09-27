@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio: How to extend RadioButton and make it detected by xml files?](https://www.reddit.com/r/Kotlin/comments/1fprcc7/android_studio_how_to_extend_radiobutton_and_make/)
+- [The #Ktor Channel on Slack](https://www.reddit.com/r/Kotlin/comments/1fppb4f/the_ktor_channel_on_slack/)
 - [Access location without permission?](https://www.reddit.com/r/Kotlin/comments/1fplchv/access_location_without_permission/)
 - [KmpEssentials &lpar;v1.0.0&rpar; now has Printing!!](https://www.reddit.com/r/Kotlin/comments/1fpijms/kmpessentials_v100_now_has_printing/)
 - [Koin 4.0 Official Release Note](https://www.reddit.com/r/Kotlin/comments/1fpdaxl/koin_40_official_release_note/)
 - [Using Enum name as annotation argument](https://www.reddit.com/r/Kotlin/comments/1fp5qyz/using_enum_name_as_annotation_argument/)
 - [Can ObjectBox be used in Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1fp5crn/can_objectbox_be_used_in_kotlin_multiplatform/)
-- [Custom seekbar](https://www.reddit.com/r/Kotlin/comments/1fp57d3/custom_seekbar/)
 - [how to creat a program with KOTLIN where you can enter the serial number and it will tell you who printed the label .](https://www.reddit.com/r/Kotlin/comments/1fozv17/how_to_creat_a_program_with_kotlin_where_you_can/)
 - [How can I solve the compile daemon and gradle error?](https://www.reddit.com/r/Kotlin/comments/1foyq13/how_can_i_solve_the_compile_daemon_and_gradle/)
 - [Which library &lpar;kmp supported&rpar; do you prefer for persistence?](https://www.reddit.com/r/Kotlin/comments/1foxpsc/which_library_kmp_supported_do_you_prefer_for/)
-- [What Ktor client engine to choose?](https://www.reddit.com/r/Kotlin/comments/1foorfq/what_ktor_client_engine_to_choose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
