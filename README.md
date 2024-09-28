@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&#39;m trying to develop android apps with permissions implemented but nothing is showing.](https://www.reddit.com/r/Kotlin/comments/1fr25ey/im_trying_to_develop_android_apps_with/)
+- [Back to Basics Kotlin Refactoring - Man vs Machine](https://www.reddit.com/r/Kotlin/comments/1fqoryl/back_to_basics_kotlin_refactoring_man_vs_machine/)
+- [Can anyone recomendate courses for Kotlin](https://www.reddit.com/r/Kotlin/comments/1fqo2od/can_anyone_recomendate_courses_for_kotlin/)
+- [Join Kotlin Heroes: Episode 11 – Win Cash Prizes and More](https://www.reddit.com/r/Kotlin/comments/1fqnbhw/join_kotlin_heroes_episode_11_win_cash_prizes_and/)
+- [🚀 Seeking Feedback from Developers using Kotlin Multiplatform &lpar;KMP&rpar; 🚀](https://www.reddit.com/r/Kotlin/comments/1fqmhpw/seeking_feedback_from_developers_using_kotlin/)
+- [Ktor Server in Compose Multiplatform. How?](https://www.reddit.com/r/Kotlin/comments/1fql7dp/ktor_server_in_compose_multiplatform_how/)
+- [KMP - Deserializar qualquer modelo](https://www.reddit.com/r/Kotlin/comments/1fqdjtt/kmp_deserializar_qualquer_modelo/)
 - [Android Studio: How to extend RadioButton and make it detected by xml files?](https://www.reddit.com/r/Kotlin/comments/1fprcc7/android_studio_how_to_extend_radiobutton_and_make/)
 - [The #Ktor Channel on Slack](https://www.reddit.com/r/Kotlin/comments/1fppb4f/the_ktor_channel_on_slack/)
 - [Access location without permission?](https://www.reddit.com/r/Kotlin/comments/1fplchv/access_location_without_permission/)
-- [KmpEssentials &lpar;v1.0.0&rpar; now has Printing!!](https://www.reddit.com/r/Kotlin/comments/1fpijms/kmpessentials_v100_now_has_printing/)
-- [Koin 4.0 Official Release Note](https://www.reddit.com/r/Kotlin/comments/1fpdaxl/koin_40_official_release_note/)
-- [Using Enum name as annotation argument](https://www.reddit.com/r/Kotlin/comments/1fp5qyz/using_enum_name_as_annotation_argument/)
-- [Can ObjectBox be used in Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1fp5crn/can_objectbox_be_used_in_kotlin_multiplatform/)
-- [how to creat a program with KOTLIN where you can enter the serial number and it will tell you who printed the label .](https://www.reddit.com/r/Kotlin/comments/1fozv17/how_to_creat_a_program_with_kotlin_where_you_can/)
-- [How can I solve the compile daemon and gradle error?](https://www.reddit.com/r/Kotlin/comments/1foyq13/how_can_i_solve_the_compile_daemon_and_gradle/)
-- [Which library &lpar;kmp supported&rpar; do you prefer for persistence?](https://www.reddit.com/r/Kotlin/comments/1foxpsc/which_library_kmp_supported_do_you_prefer_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
