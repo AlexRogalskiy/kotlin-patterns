@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does Computer Science Make Good programmers? - DHH](https://www.reddit.com/r/Kotlin/comments/1fsht15/does_computer_science_make_good_programmers_dhh/)
+- [I have a problem with jitpack.io](https://www.reddit.com/r/Kotlin/comments/1fsez9s/i_have_a_problem_with_jitpackio/)
+- [Kotlin Cheat Sheet](https://www.reddit.com/r/Kotlin/comments/1fs27on/kotlin_cheat_sheet/)
+- [JPA entity builder for integration tests](https://www.reddit.com/r/Kotlin/comments/1fs1jl6/jpa_entity_builder_for_integration_tests/)
+- [Choosing KMM for making a simple game. Is it viable?](https://www.reddit.com/r/Kotlin/comments/1frzra5/choosing_kmm_for_making_a_simple_game_is_it_viable/)
 - [got some questions on kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/1frk68p/got_some_questions_on_kotlin_coroutines/)
 - [I&#39;m trying to develop android apps with permissions implemented but nothing is showing.](https://www.reddit.com/r/Kotlin/comments/1fr25ey/im_trying_to_develop_android_apps_with/)
 - [Back to Basics Kotlin Refactoring - Man vs Machine](https://www.reddit.com/r/Kotlin/comments/1fqoryl/back_to_basics_kotlin_refactoring_man_vs_machine/)
 - [Can anyone recomendate courses for Kotlin](https://www.reddit.com/r/Kotlin/comments/1fqo2od/can_anyone_recomendate_courses_for_kotlin/)
 - [Join Kotlin Heroes: Episode 11 – Win Cash Prizes and More](https://www.reddit.com/r/Kotlin/comments/1fqnbhw/join_kotlin_heroes_episode_11_win_cash_prizes_and/)
-- [🚀 Seeking Feedback from Developers using Kotlin Multiplatform &lpar;KMP&rpar; 🚀](https://www.reddit.com/r/Kotlin/comments/1fqmhpw/seeking_feedback_from_developers_using_kotlin/)
-- [Ktor Server in Compose Multiplatform. How?](https://www.reddit.com/r/Kotlin/comments/1fql7dp/ktor_server_in_compose_multiplatform_how/)
-- [KMP - Deserializar qualquer modelo](https://www.reddit.com/r/Kotlin/comments/1fqdjtt/kmp_deserializar_qualquer_modelo/)
-- [Android Studio: How to extend RadioButton and make it detected by xml files?](https://www.reddit.com/r/Kotlin/comments/1fprcc7/android_studio_how_to_extend_radiobutton_and_make/)
-- [The #Ktor Channel on Slack](https://www.reddit.com/r/Kotlin/comments/1fppb4f/the_ktor_channel_on_slack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
