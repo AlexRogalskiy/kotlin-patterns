@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [anthropic-sdk-kotlin - I am lacking AI tools in Kotlin, so I just created one](https://www.reddit.com/r/Kotlin/comments/1ftc6tb/anthropicsdkkotlin_i_am_lacking_ai_tools_in/)
+- [Plugin system, and micro kernel architecture](https://www.reddit.com/r/Kotlin/comments/1ft3gto/plugin_system_and_micro_kernel_architecture/)
+- [question about name resolution](https://www.reddit.com/r/Kotlin/comments/1ft1evs/question_about_name_resolution/)
+- [I created Kotlin/JS wrappers for johnny-five](https://www.reddit.com/r/Kotlin/comments/1ft196u/i_created_kotlinjs_wrappers_for_johnnyfive/)
+- [how to create object of swift class made using @Obj for razorpayhamdler present in ios App from iosMain in shared in kmp](https://www.reddit.com/r/Kotlin/comments/1ft0ome/how_to_create_object_of_swift_class_made_using/)
+- [How to target plain old JavaScript/DOM using KMM?](https://www.reddit.com/r/Kotlin/comments/1fslqq2/how_to_target_plain_old_javascriptdom_using_kmm/)
 - [Does Computer Science Make Good programmers? - DHH](https://www.reddit.com/r/Kotlin/comments/1fsht15/does_computer_science_make_good_programmers_dhh/)
 - [I have a problem with jitpack.io](https://www.reddit.com/r/Kotlin/comments/1fsez9s/i_have_a_problem_with_jitpackio/)
-- [Kotlin Cheat Sheet](https://www.reddit.com/r/Kotlin/comments/1fs27on/kotlin_cheat_sheet/)
 - [JPA entity builder for integration tests](https://www.reddit.com/r/Kotlin/comments/1fs1jl6/jpa_entity_builder_for_integration_tests/)
 - [Choosing KMM for making a simple game. Is it viable?](https://www.reddit.com/r/Kotlin/comments/1frzra5/choosing_kmm_for_making_a_simple_game_is_it_viable/)
-- [got some questions on kotlin coroutines](https://www.reddit.com/r/Kotlin/comments/1frk68p/got_some_questions_on_kotlin_coroutines/)
-- [I&#39;m trying to develop android apps with permissions implemented but nothing is showing.](https://www.reddit.com/r/Kotlin/comments/1fr25ey/im_trying_to_develop_android_apps_with/)
-- [Back to Basics Kotlin Refactoring - Man vs Machine](https://www.reddit.com/r/Kotlin/comments/1fqoryl/back_to_basics_kotlin_refactoring_man_vs_machine/)
-- [Can anyone recomendate courses for Kotlin](https://www.reddit.com/r/Kotlin/comments/1fqo2od/can_anyone_recomendate_courses_for_kotlin/)
-- [Join Kotlin Heroes: Episode 11 – Win Cash Prizes and More](https://www.reddit.com/r/Kotlin/comments/1fqnbhw/join_kotlin_heroes_episode_11_win_cash_prizes_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
