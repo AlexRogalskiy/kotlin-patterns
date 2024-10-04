@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [App permissions!!?](https://www.reddit.com/r/Kotlin/comments/1fvn8x0/app_permissions/)
+- [My first blog ever](https://www.reddit.com/r/Kotlin/comments/1fvcox7/my_first_blog_ever/)
+- [Exclude a dependency for a platform common-main?](https://www.reddit.com/r/Kotlin/comments/1fvbklu/exclude_a_dependency_for_a_platform_commonmain/)
+- [New Community Android Developers Blog](https://www.reddit.com/r/Kotlin/comments/1fv1ocl/new_community_android_developers_blog/)
 - [Factory Method and Abstract Factory patterns in Kotlin](https://www.reddit.com/r/Kotlin/comments/1fui966/factory_method_and_abstract_factory_patterns_in/)
 - [Hard to understand behaviour in jetpack compose](https://www.reddit.com/r/Kotlin/comments/1fucd2z/hard_to_understand_behaviour_in_jetpack_compose/)
 - [A beginner here looking for guidance](https://www.reddit.com/r/Kotlin/comments/1fu0826/a_beginner_here_looking_for_guidance/)
 - [In case you missed this X post from the Kotlin team](https://www.reddit.com/r/Kotlin/comments/1fto9qu/in_case_you_missed_this_x_post_from_the_kotlin/)
 - [khipster kotlin spring backend and react native frontend](https://www.reddit.com/r/Kotlin/comments/1ftnggm/khipster_kotlin_spring_backend_and_react_native/)
 - [khipster kotlin backend and react native frontend](https://www.reddit.com/r/Kotlin/comments/1ftn1aj/khipster_kotlin_backend_and_react_native_frontend/)
-- [Pixel perfect](https://www.reddit.com/r/Kotlin/comments/1ftmv8v/pixel_perfect/)
-- [anthropic-sdk-kotlin - I am lacking AI tools in Kotlin, so I just created one](https://www.reddit.com/r/Kotlin/comments/1ftc6tb/anthropicsdkkotlin_i_am_lacking_ai_tools_in/)
-- [Plugin system, and micro kernel architecture](https://www.reddit.com/r/Kotlin/comments/1ft3gto/plugin_system_and_micro_kernel_architecture/)
-- [question about name resolution](https://www.reddit.com/r/Kotlin/comments/1ft1evs/question_about_name_resolution/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
