@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How are apps built using https://github.com/cashapp/zipline not violating Google play store policy?](https://www.reddit.com/r/Kotlin/comments/1fwcj03/how_are_apps_built_using/)
+- [How to handle functions that may fail](https://www.reddit.com/r/Kotlin/comments/1fwbfjn/how_to_handle_functions_that_may_fail/)
+- [Any kotlin devs in town who know how to run dji android sdk v5 codebase? Need help](https://www.reddit.com/r/Kotlin/comments/1fvzjbt/any_kotlin_devs_in_town_who_know_how_to_run_dji/)
+- [Abolishing Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/1fvzb2p/abolishing_kotlin_context_receivers/)
+- [Deciding between rewriting POC to Golang or Kotlin](https://www.reddit.com/r/Kotlin/comments/1fvyfyw/deciding_between_rewriting_poc_to_golang_or_kotlin/)
+- [KmpEssentials &lpar;v1.1.7&rpar; &lpar;Share Api&rpar;](https://www.reddit.com/r/Kotlin/comments/1fvsv6p/kmpessentials_v117_share_api/)
+- [Kotlin Serialization format for Form URL Encoded?](https://www.reddit.com/r/Kotlin/comments/1fvsfgl/kotlin_serialization_format_for_form_url_encoded/)
 - [App permissions!!?](https://www.reddit.com/r/Kotlin/comments/1fvn8x0/app_permissions/)
 - [My first blog ever](https://www.reddit.com/r/Kotlin/comments/1fvcox7/my_first_blog_ever/)
 - [Exclude a dependency for a platform common-main?](https://www.reddit.com/r/Kotlin/comments/1fvbklu/exclude_a_dependency_for_a_platform_commonmain/)
-- [New Community Android Developers Blog](https://www.reddit.com/r/Kotlin/comments/1fv1ocl/new_community_android_developers_blog/)
-- [Factory Method and Abstract Factory patterns in Kotlin](https://www.reddit.com/r/Kotlin/comments/1fui966/factory_method_and_abstract_factory_patterns_in/)
-- [Hard to understand behaviour in jetpack compose](https://www.reddit.com/r/Kotlin/comments/1fucd2z/hard_to_understand_behaviour_in_jetpack_compose/)
-- [A beginner here looking for guidance](https://www.reddit.com/r/Kotlin/comments/1fu0826/a_beginner_here_looking_for_guidance/)
-- [In case you missed this X post from the Kotlin team](https://www.reddit.com/r/Kotlin/comments/1fto9qu/in_case_you_missed_this_x_post_from_the_kotlin/)
-- [khipster kotlin spring backend and react native frontend](https://www.reddit.com/r/Kotlin/comments/1ftnggm/khipster_kotlin_spring_backend_and_react_native/)
-- [khipster kotlin backend and react native frontend](https://www.reddit.com/r/Kotlin/comments/1ftn1aj/khipster_kotlin_backend_and_react_native_frontend/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
