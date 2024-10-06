@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the best IDE for Kotlin on MacOS?](https://www.reddit.com/r/Kotlin/comments/1fwya1d/what_is_the_best_ide_for_kotlin_on_macos/)
+- [Finished getting started tutorial for Compose multiplatform, what now?](https://www.reddit.com/r/Kotlin/comments/1fwqd9l/finished_getting_started_tutorial_for_compose/)
 - [How are apps built using https://github.com/cashapp/zipline not violating Google play store policy?](https://www.reddit.com/r/Kotlin/comments/1fwcj03/how_are_apps_built_using/)
 - [How to handle functions that may fail](https://www.reddit.com/r/Kotlin/comments/1fwbfjn/how_to_handle_functions_that_may_fail/)
 - [Any kotlin devs in town who know how to run dji android sdk v5 codebase? Need help](https://www.reddit.com/r/Kotlin/comments/1fvzjbt/any_kotlin_devs_in_town_who_know_how_to_run_dji/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [KmpEssentials &lpar;v1.1.7&rpar; &lpar;Share Api&rpar;](https://www.reddit.com/r/Kotlin/comments/1fvsv6p/kmpessentials_v117_share_api/)
 - [Kotlin Serialization format for Form URL Encoded?](https://www.reddit.com/r/Kotlin/comments/1fvsfgl/kotlin_serialization_format_for_form_url_encoded/)
 - [App permissions!!?](https://www.reddit.com/r/Kotlin/comments/1fvn8x0/app_permissions/)
-- [My first blog ever](https://www.reddit.com/r/Kotlin/comments/1fvcox7/my_first_blog_ever/)
-- [Exclude a dependency for a platform common-main?](https://www.reddit.com/r/Kotlin/comments/1fvbklu/exclude_a_dependency_for_a_platform_commonmain/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
