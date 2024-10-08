@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Senior Android Developer](https://www.reddit.com/r/Kotlin/comments/1fyn8ob/senior_android_developer/)
+- [Is stackless coroutines could be stackful in the theory?](https://www.reddit.com/r/Kotlin/comments/1fyhng9/is_stackless_coroutines_could_be_stackful_in_the/)
+- [Just launched a Material Theme builder powered by my library MaterialKolor](https://www.reddit.com/r/Kotlin/comments/1fycux2/just_launched_a_material_theme_builder_powered_by/)
+- [Compose Multiplatform vs. Flutter](https://www.reddit.com/r/Kotlin/comments/1fyc0zg/compose_multiplatform_vs_flutter/)
+- [smyrgeorge/actor4k: A small actor system written in kotlin using Coroutines.](https://www.reddit.com/r/Kotlin/comments/1fy9tf8/smyrgeorgeactor4k_a_small_actor_system_written_in/)
+- [Looking for help with shapes?](https://www.reddit.com/r/Kotlin/comments/1fy9k09/looking_for_help_with_shapes/)
+- [📣 Ktor users, please fill out our annual survey](https://www.reddit.com/r/Kotlin/comments/1fy78vl/ktor_users_please_fill_out_our_annual_survey/)
+- [New Blog Post: The Evolution of Kotlin and How You Can Contribute](https://www.reddit.com/r/Kotlin/comments/1fy69lv/new_blog_post_the_evolution_of_kotlin_and_how_you/)
 - [I made a thing I&#39;m sure all Kotlin lovers will appreciate!](https://www.reddit.com/r/Kotlin/comments/1fxvmn5/i_made_a_thing_im_sure_all_kotlin_lovers_will/)
 - [New Developments About Kotlin](https://www.reddit.com/r/Kotlin/comments/1fxk1g7/new_developments_about_kotlin/)
-- [Abstract properties vs interface?](https://www.reddit.com/r/Kotlin/comments/1fxj0fr/abstract_properties_vs_interface/)
-- [Mastering Kotlin: How to Easily Remove Duplicates from Your Collections](https://www.reddit.com/r/Kotlin/comments/1fxfm51/mastering_kotlin_how_to_easily_remove_duplicates/)
-- [Atto – A cryptocurrency written in Kotlin looking for help](https://www.reddit.com/r/Kotlin/comments/1fxfkqu/atto_a_cryptocurrency_written_in_kotlin_looking/)
-- [Is it worth to learn XML nowadays](https://www.reddit.com/r/Kotlin/comments/1fxdss9/is_it_worth_to_learn_xml_nowadays/)
-- [Is compose multi platform good yet?](https://www.reddit.com/r/Kotlin/comments/1fx6qbt/is_compose_multi_platform_good_yet/)
-- [CSS DSL changed org recently? Using Ktor 3RC. Out of the loop.](https://www.reddit.com/r/Kotlin/comments/1fx6fhv/css_dsl_changed_org_recently_using_ktor_3rc_out/)
-- [What is the best IDE for Kotlin on MacOS?](https://www.reddit.com/r/Kotlin/comments/1fwya1d/what_is_the_best_ide_for_kotlin_on_macos/)
-- [Finished getting started tutorial for Compose multiplatform, what now?](https://www.reddit.com/r/Kotlin/comments/1fwqd9l/finished_getting_started_tutorial_for_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
