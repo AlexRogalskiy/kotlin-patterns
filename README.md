@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [When to Use Model in MVVM](https://www.reddit.com/r/Kotlin/comments/1fzxgp9/when_to_use_model_in_mvvm/)
+- [Introducing Kotlin Money](https://www.reddit.com/r/Kotlin/comments/1fzqe5f/introducing_kotlin_money/)
+- [Caveman Debugging in the Modern Age &lpar;2 mins read&rpar;](https://www.reddit.com/r/Kotlin/comments/1fzie6s/caveman_debugging_in_the_modern_age_2_mins_read/)
 - [jetbrains kotlin onboarding - trying to understand filterIndexed tutorial](https://www.reddit.com/r/Kotlin/comments/1fzghhc/jetbrains_kotlin_onboarding_trying_to_understand/)
 - [Proyecto free &quot; para desarrolladores&quot;para negocio a futuro.](https://www.reddit.com/r/Kotlin/comments/1fz9r3g/proyecto_free_para_desarrolladorespara_negocio_a/)
 - [Automatically destructuring to avoid name duplication](https://www.reddit.com/r/Kotlin/comments/1fz1pcv/automatically_destructuring_to_avoid_name/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Is stackless coroutines could be stackful in the theory?](https://www.reddit.com/r/Kotlin/comments/1fyhng9/is_stackless_coroutines_could_be_stackful_in_the/)
 - [Just launched a Material Theme builder powered by my library MaterialKolor](https://www.reddit.com/r/Kotlin/comments/1fycux2/just_launched_a_material_theme_builder_powered_by/)
 - [Compose Multiplatform vs. Flutter](https://www.reddit.com/r/Kotlin/comments/1fyc0zg/compose_multiplatform_vs_flutter/)
-- [smyrgeorge/actor4k: A small actor system written in kotlin using Coroutines.](https://www.reddit.com/r/Kotlin/comments/1fy9tf8/smyrgeorgeactor4k_a_small_actor_system_written_in/)
-- [Looking for help with shapes?](https://www.reddit.com/r/Kotlin/comments/1fy9k09/looking_for_help_with_shapes/)
-- [📣 Ktor users, please fill out our annual survey](https://www.reddit.com/r/Kotlin/comments/1fy78vl/ktor_users_please_fill_out_our_annual_survey/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
