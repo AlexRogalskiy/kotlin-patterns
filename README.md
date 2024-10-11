@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do you still make projects without JC &lpar;Jetpack Compose&rpar;?](https://www.reddit.com/r/Kotlin/comments/1g0jnvw/do_you_still_make_projects_without_jc_jetpack/)
+- [🚀 NEW FEATURES IN INSPEKTIFY 🚀](https://www.reddit.com/r/Kotlin/comments/1g0ev52/new_features_in_inspektify/)
+- [🚀 NEW FEATURES IN INSPEKTIFY 🚀](https://www.reddit.com/r/Kotlin/comments/1g0ev3g/new_features_in_inspektify/)
+- [How do I use a mask to format values with decimal places?](https://www.reddit.com/r/Kotlin/comments/1g08lux/how_do_i_use_a_mask_to_format_values_with_decimal/)
 - [When to Use Model in MVVM](https://www.reddit.com/r/Kotlin/comments/1fzxgp9/when_to_use_model_in_mvvm/)
 - [Introducing Kotlin Money](https://www.reddit.com/r/Kotlin/comments/1fzqe5f/introducing_kotlin_money/)
 - [Caveman Debugging in the Modern Age &lpar;2 mins read&rpar;](https://www.reddit.com/r/Kotlin/comments/1fzie6s/caveman_debugging_in_the_modern_age_2_mins_read/)
 - [jetbrains kotlin onboarding - trying to understand filterIndexed tutorial](https://www.reddit.com/r/Kotlin/comments/1fzghhc/jetbrains_kotlin_onboarding_trying_to_understand/)
 - [Proyecto free &quot; para desarrolladores&quot;para negocio a futuro.](https://www.reddit.com/r/Kotlin/comments/1fz9r3g/proyecto_free_para_desarrolladorespara_negocio_a/)
 - [Automatically destructuring to avoid name duplication](https://www.reddit.com/r/Kotlin/comments/1fz1pcv/automatically_destructuring_to_avoid_name/)
-- [Senior Android Developer](https://www.reddit.com/r/Kotlin/comments/1fyn8ob/senior_android_developer/)
-- [Is stackless coroutines could be stackful in the theory?](https://www.reddit.com/r/Kotlin/comments/1fyhng9/is_stackless_coroutines_could_be_stackful_in_the/)
-- [Just launched a Material Theme builder powered by my library MaterialKolor](https://www.reddit.com/r/Kotlin/comments/1fycux2/just_launched_a_material_theme_builder_powered_by/)
-- [Compose Multiplatform vs. Flutter](https://www.reddit.com/r/Kotlin/comments/1fyc0zg/compose_multiplatform_vs_flutter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
