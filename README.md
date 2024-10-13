@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beginner Android App Developer Seeking Guidance for Final High School Project](https://www.reddit.com/r/Kotlin/comments/1g1usjv/beginner_android_app_developer_seeking_guidance/)
+- [Migrating Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/1g1uj5m/migrating_kotlin_context_receivers/)
+- [5 Kotlin Online Courses for Java and Android Developers](https://www.reddit.com/r/Kotlin/comments/1g1qm6o/5_kotlin_online_courses_for_java_and_android/)
 - [Kotlin and music](https://www.reddit.com/r/Kotlin/comments/1g1jd61/kotlin_and_music/)
 - [Kotlin Multiplatform on Intel-based Macs](https://www.reddit.com/r/Kotlin/comments/1g1g23s/kotlin_multiplatform_on_intelbased_macs/)
 - [Which language is better for developing applications?](https://www.reddit.com/r/Kotlin/comments/1g1feri/which_language_is_better_for_developing/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Ktor 3.0 Is Now Available With New Features and Improved Performance](https://www.reddit.com/r/Kotlin/comments/1g17oyr/ktor_30_is_now_available_with_new_features_and/)
 - [understand coroutines-implementation in kotlin-compiler](https://www.reddit.com/r/Kotlin/comments/1g14ix1/understand_coroutinesimplementation_in/)
 - [Do you still make projects without JC &lpar;Jetpack Compose&rpar;?](https://www.reddit.com/r/Kotlin/comments/1g0jnvw/do_you_still_make_projects_without_jc_jetpack/)
-- [🚀 NEW FEATURES IN INSPEKTIFY 🚀](https://www.reddit.com/r/Kotlin/comments/1g0ev52/new_features_in_inspektify/)
-- [🚀 NEW FEATURES IN INSPEKTIFY 🚀](https://www.reddit.com/r/Kotlin/comments/1g0ev3g/new_features_in_inspektify/)
-- [How do I use a mask to format values with decimal places?](https://www.reddit.com/r/Kotlin/comments/1g08lux/how_do_i_use_a_mask_to_format_values_with_decimal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
