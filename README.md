@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [College Freshman Interested in Kotlin Development, Advice?](https://www.reddit.com/r/Kotlin/comments/1g2z5zp/college_freshman_interested_in_kotlin_development/)
+- [Kotlin WASM experiences](https://www.reddit.com/r/Kotlin/comments/1g2z12c/kotlin_wasm_experiences/)
+- [Issues in integrating pendo to native android app](https://www.reddit.com/r/Kotlin/comments/1g2rsqv/issues_in_integrating_pendo_to_native_android_app/)
 - [Beginner Android App Developer Seeking Guidance for Final High School Project](https://www.reddit.com/r/Kotlin/comments/1g1usjv/beginner_android_app_developer_seeking_guidance/)
 - [Migrating Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/1g1uj5m/migrating_kotlin_context_receivers/)
 - [5 Kotlin Online Courses for Java and Android Developers](https://www.reddit.com/r/Kotlin/comments/1g1qm6o/5_kotlin_online_courses_for_java_and_android/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Multiplatform on Intel-based Macs](https://www.reddit.com/r/Kotlin/comments/1g1g23s/kotlin_multiplatform_on_intelbased_macs/)
 - [Which language is better for developing applications?](https://www.reddit.com/r/Kotlin/comments/1g1feri/which_language_is_better_for_developing/)
 - [Compose Runtime Deep Dive](https://www.reddit.com/r/Kotlin/comments/1g1alk2/compose_runtime_deep_dive/)
-- [Ktor 3.0 Is Now Available With New Features and Improved Performance](https://www.reddit.com/r/Kotlin/comments/1g17oyr/ktor_30_is_now_available_with_new_features_and/)
-- [understand coroutines-implementation in kotlin-compiler](https://www.reddit.com/r/Kotlin/comments/1g14ix1/understand_coroutinesimplementation_in/)
-- [Do you still make projects without JC &lpar;Jetpack Compose&rpar;?](https://www.reddit.com/r/Kotlin/comments/1g0jnvw/do_you_still_make_projects_without_jc_jetpack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
