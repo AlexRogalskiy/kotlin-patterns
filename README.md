@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KDBC - an alternative database driver for Postgres](https://www.reddit.com/r/Kotlin/comments/1g3v0xt/kdbc_an_alternative_database_driver_for_postgres/)
+- [Guys I&#39;m planning to build my own landing page and I was thinking of using pure Kotlin Html or Kobweb - probably an overkill using this one? As I understood Kobweb is just a framework on top of Kotlin Html. Which one you guys would go for? Thanks](https://www.reddit.com/r/Kotlin/comments/1g3owew/guys_im_planning_to_build_my_own_landing_page_and/)
+- [runTest vs runBlocking — Simplified](https://www.reddit.com/r/Kotlin/comments/1g3hj5p/runtest_vs_runblocking_simplified/)
+- [Looking to connect your Kotlin Multiplatorm project to Microsoft AppInsights?](https://www.reddit.com/r/Kotlin/comments/1g3h39v/looking_to_connect_your_kotlin_multiplatorm/)
+- [Want to start writing android app. Should I learn Kotlin or Java?](https://www.reddit.com/r/Kotlin/comments/1g3bbnz/want_to_start_writing_android_app_should_i_learn/)
+- [KmpAppInsights is now available to all Kotlin Developers!!](https://www.reddit.com/r/Kotlin/comments/1g3856o/kmpappinsights_is_now_available_to_all_kotlin/)
 - [College Freshman Interested in Kotlin Development, Advice?](https://www.reddit.com/r/Kotlin/comments/1g2z5zp/college_freshman_interested_in_kotlin_development/)
 - [Kotlin WASM experiences](https://www.reddit.com/r/Kotlin/comments/1g2z12c/kotlin_wasm_experiences/)
 - [Issues in integrating pendo to native android app](https://www.reddit.com/r/Kotlin/comments/1g2rsqv/issues_in_integrating_pendo_to_native_android_app/)
 - [Beginner Android App Developer Seeking Guidance for Final High School Project](https://www.reddit.com/r/Kotlin/comments/1g1usjv/beginner_android_app_developer_seeking_guidance/)
-- [Migrating Kotlin Context Receivers](https://www.reddit.com/r/Kotlin/comments/1g1uj5m/migrating_kotlin_context_receivers/)
-- [5 Kotlin Online Courses for Java and Android Developers](https://www.reddit.com/r/Kotlin/comments/1g1qm6o/5_kotlin_online_courses_for_java_and_android/)
-- [Kotlin and music](https://www.reddit.com/r/Kotlin/comments/1g1jd61/kotlin_and_music/)
-- [Kotlin Multiplatform on Intel-based Macs](https://www.reddit.com/r/Kotlin/comments/1g1g23s/kotlin_multiplatform_on_intelbased_macs/)
-- [Which language is better for developing applications?](https://www.reddit.com/r/Kotlin/comments/1g1feri/which_language_is_better_for_developing/)
-- [Compose Runtime Deep Dive](https://www.reddit.com/r/Kotlin/comments/1g1alk2/compose_runtime_deep_dive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
