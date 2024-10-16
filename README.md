@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [jetbrains kotlin onboarding hangman - runs fine when manually testing but course test appears to run into infinite loop](https://www.reddit.com/r/Kotlin/comments/1g4ewv5/jetbrains_kotlin_onboarding_hangman_runs_fine/)
+- [Jentry - a command line tool to analyze Kotlin/Java public information inside the jar/aar files.](https://www.reddit.com/r/Kotlin/comments/1g4aay8/jentry_a_command_line_tool_to_analyze_kotlinjava/)
+- [WorkManager multiplatform](https://www.reddit.com/r/Kotlin/comments/1g49uvc/workmanager_multiplatform/)
+- [Webinar with the Kotlin team: &quot;But Java Has Pattern Matching!&quot;](https://www.reddit.com/r/Kotlin/comments/1g486p3/webinar_with_the_kotlin_team_but_java_has_pattern/)
+- [what is the best book to lear kotline TEST](https://www.reddit.com/r/Kotlin/comments/1g482b7/what_is_the_best_book_to_lear_kotline_test/)
+- [I need some feedback from the Kotlin Community](https://www.reddit.com/r/Kotlin/comments/1g44831/i_need_some_feedback_from_the_kotlin_community/)
+- [Measuring Code Execution Time with Kotlin&#39;s measureTimedValue](https://www.reddit.com/r/Kotlin/comments/1g40r1g/measuring_code_execution_time_with_kotlins/)
+- [Using Kotlin Flows for Exposing Observable Screen UI state](https://www.reddit.com/r/Kotlin/comments/1g4030s/using_kotlin_flows_for_exposing_observable_screen/)
 - [KDBC - an alternative database driver for Postgres](https://www.reddit.com/r/Kotlin/comments/1g3v0xt/kdbc_an_alternative_database_driver_for_postgres/)
 - [Guys I&#39;m planning to build my own landing page and I was thinking of using pure Kotlin Html or Kobweb - probably an overkill using this one? As I understood Kobweb is just a framework on top of Kotlin Html. Which one you guys would go for? Thanks](https://www.reddit.com/r/Kotlin/comments/1g3owew/guys_im_planning_to_build_my_own_landing_page_and/)
-- [runTest vs runBlocking — Simplified](https://www.reddit.com/r/Kotlin/comments/1g3hj5p/runtest_vs_runblocking_simplified/)
-- [Looking to connect your Kotlin Multiplatorm project to Microsoft AppInsights?](https://www.reddit.com/r/Kotlin/comments/1g3h39v/looking_to_connect_your_kotlin_multiplatorm/)
-- [Want to start writing android app. Should I learn Kotlin or Java?](https://www.reddit.com/r/Kotlin/comments/1g3bbnz/want_to_start_writing_android_app_should_i_learn/)
-- [KmpAppInsights is now available to all Kotlin Developers!!](https://www.reddit.com/r/Kotlin/comments/1g3856o/kmpappinsights_is_now_available_to_all_kotlin/)
-- [College Freshman Interested in Kotlin Development, Advice?](https://www.reddit.com/r/Kotlin/comments/1g2z5zp/college_freshman_interested_in_kotlin_development/)
-- [Kotlin WASM experiences](https://www.reddit.com/r/Kotlin/comments/1g2z12c/kotlin_wasm_experiences/)
-- [Issues in integrating pendo to native android app](https://www.reddit.com/r/Kotlin/comments/1g2rsqv/issues_in_integrating_pendo_to_native_android_app/)
-- [Beginner Android App Developer Seeking Guidance for Final High School Project](https://www.reddit.com/r/Kotlin/comments/1g1usjv/beginner_android_app_developer_seeking_guidance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
