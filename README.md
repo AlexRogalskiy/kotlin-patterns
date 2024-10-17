@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Has anyone attended workshops of Kt. Academy?](https://www.reddit.com/r/Kotlin/comments/1g58d96/has_anyone_attended_workshops_of_kt_academy/)
+- [Jetpack compose rendering activity twice](https://www.reddit.com/r/Kotlin/comments/1g53z5d/jetpack_compose_rendering_activity_twice/)
+- [Kotlin from Scratch - A Project-Based Introduction](https://www.reddit.com/r/Kotlin/comments/1g52pnq/kotlin_from_scratch_a_projectbased_introduction/)
+- [Modernizing the Builder Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1g51ge3/modernizing_the_builder_pattern_in_kotlin/)
+- [Looking for a handy reference website like this one](https://www.reddit.com/r/Kotlin/comments/1g4zs5y/looking_for_a_handy_reference_website_like_this/)
+- [reified and inline in Kotlin— explained](https://www.reddit.com/r/Kotlin/comments/1g4zlcn/reified_and_inline_in_kotlin_explained/)
+- [Compose Multiplatform 1.7.0 Released](https://www.reddit.com/r/Kotlin/comments/1g4z5jx/compose_multiplatform_170_released/)
 - [jetbrains kotlin onboarding hangman - runs fine when manually testing but course test appears to run into infinite loop](https://www.reddit.com/r/Kotlin/comments/1g4ewv5/jetbrains_kotlin_onboarding_hangman_runs_fine/)
 - [Jentry - a command line tool to analyze Kotlin/Java public information inside the jar/aar files.](https://www.reddit.com/r/Kotlin/comments/1g4aay8/jentry_a_command_line_tool_to_analyze_kotlinjava/)
 - [WorkManager multiplatform](https://www.reddit.com/r/Kotlin/comments/1g49uvc/workmanager_multiplatform/)
-- [Webinar with the Kotlin team: &quot;But Java Has Pattern Matching!&quot;](https://www.reddit.com/r/Kotlin/comments/1g486p3/webinar_with_the_kotlin_team_but_java_has_pattern/)
-- [what is the best book to lear kotline TEST](https://www.reddit.com/r/Kotlin/comments/1g482b7/what_is_the_best_book_to_lear_kotline_test/)
-- [I need some feedback from the Kotlin Community](https://www.reddit.com/r/Kotlin/comments/1g44831/i_need_some_feedback_from_the_kotlin_community/)
-- [Measuring Code Execution Time with Kotlin&#39;s measureTimedValue](https://www.reddit.com/r/Kotlin/comments/1g40r1g/measuring_code_execution_time_with_kotlins/)
-- [Using Kotlin Flows for Exposing Observable Screen UI state](https://www.reddit.com/r/Kotlin/comments/1g4030s/using_kotlin_flows_for_exposing_observable_screen/)
-- [KDBC - an alternative database driver for Postgres](https://www.reddit.com/r/Kotlin/comments/1g3v0xt/kdbc_an_alternative_database_driver_for_postgres/)
-- [Guys I&#39;m planning to build my own landing page and I was thinking of using pure Kotlin Html or Kobweb - probably an overkill using this one? As I understood Kobweb is just a framework on top of Kotlin Html. Which one you guys would go for? Thanks](https://www.reddit.com/r/Kotlin/comments/1g3owew/guys_im_planning_to_build_my_own_landing_page_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
