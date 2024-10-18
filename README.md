@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [RowKalendar: Scrollable Horizontal Calendar for Compose Multiplatform 📅](https://www.reddit.com/r/Kotlin/comments/1g62xr4/rowkalendar_scrollable_horizontal_calendar_for/)
+- [Trabajos en kotlin](https://www.reddit.com/r/Kotlin/comments/1g61xmn/trabajos_en_kotlin/)
+- [Kodee’s out in the wild! &lpar;Kodee is now available as a plush toy&rpar;](https://www.reddit.com/r/Kotlin/comments/1g5wlba/kodees_out_in_the_wild_kodee_is_now_available_as/)
+- [Is Koin a dependency injection framework or a service locator](https://www.reddit.com/r/Kotlin/comments/1g5q0ea/is_koin_a_dependency_injection_framework_or_a/)
+- [I&#39;ve created a small library for interactive CLI UI called &#39;kotlin-inquirer&#39;](https://www.reddit.com/r/Kotlin/comments/1g5jurn/ive_created_a_small_library_for_interactive_cli/)
+- [AutoUpdater: An Android library to update apps automatically without Play Store](https://www.reddit.com/r/Kotlin/comments/1g5jm6g/autoupdater_an_android_library_to_update_apps/)
 - [Has anyone attended workshops of Kt. Academy?](https://www.reddit.com/r/Kotlin/comments/1g58d96/has_anyone_attended_workshops_of_kt_academy/)
 - [Jetpack compose rendering activity twice](https://www.reddit.com/r/Kotlin/comments/1g53z5d/jetpack_compose_rendering_activity_twice/)
 - [Kotlin from Scratch - A Project-Based Introduction](https://www.reddit.com/r/Kotlin/comments/1g52pnq/kotlin_from_scratch_a_projectbased_introduction/)
 - [Modernizing the Builder Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1g51ge3/modernizing_the_builder_pattern_in_kotlin/)
-- [Looking for a handy reference website like this one](https://www.reddit.com/r/Kotlin/comments/1g4zs5y/looking_for_a_handy_reference_website_like_this/)
-- [reified and inline in Kotlin— explained](https://www.reddit.com/r/Kotlin/comments/1g4zlcn/reified_and_inline_in_kotlin_explained/)
-- [Compose Multiplatform 1.7.0 Released](https://www.reddit.com/r/Kotlin/comments/1g4z5jx/compose_multiplatform_170_released/)
-- [jetbrains kotlin onboarding hangman - runs fine when manually testing but course test appears to run into infinite loop](https://www.reddit.com/r/Kotlin/comments/1g4ewv5/jetbrains_kotlin_onboarding_hangman_runs_fine/)
-- [Jentry - a command line tool to analyze Kotlin/Java public information inside the jar/aar files.](https://www.reddit.com/r/Kotlin/comments/1g4aay8/jentry_a_command_line_tool_to_analyze_kotlinjava/)
-- [WorkManager multiplatform](https://www.reddit.com/r/Kotlin/comments/1g49uvc/workmanager_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
