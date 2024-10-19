@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Unchecked cast for Flow but why?](https://www.reddit.com/r/Kotlin/comments/1g6yof7/unchecked_cast_for_flow_but_why/)
+- [Replacing Handlebars - kotlinx.html for HTMX](https://www.reddit.com/r/Kotlin/comments/1g6jos0/replacing_handlebars_kotlinxhtml_for_htmx/)
+- [Been working for 9 years on my first Kotlin hobby project. As of yesterday, the source is finally public!](https://www.reddit.com/r/Kotlin/comments/1g6fdxt/been_working_for_9_years_on_my_first_kotlin_hobby/)
+- [New approach to kotlin](https://www.reddit.com/r/Kotlin/comments/1g6d3lx/new_approach_to_kotlin/)
+- [log4k: a new async logging/tracing platform build from the ground up utilizing coroutines and channels.](https://www.reddit.com/r/Kotlin/comments/1g6bksg/log4k_a_new_async_loggingtracing_platform_build/)
 - [RowKalendar: Scrollable Horizontal Calendar for Compose Multiplatform 📅](https://www.reddit.com/r/Kotlin/comments/1g62xr4/rowkalendar_scrollable_horizontal_calendar_for/)
 - [Trabajos en kotlin](https://www.reddit.com/r/Kotlin/comments/1g61xmn/trabajos_en_kotlin/)
 - [Kodee’s out in the wild! &lpar;Kodee is now available as a plush toy&rpar;](https://www.reddit.com/r/Kotlin/comments/1g5wlba/kodees_out_in_the_wild_kodee_is_now_available_as/)
 - [Is Koin a dependency injection framework or a service locator](https://www.reddit.com/r/Kotlin/comments/1g5q0ea/is_koin_a_dependency_injection_framework_or_a/)
 - [I&#39;ve created a small library for interactive CLI UI called &#39;kotlin-inquirer&#39;](https://www.reddit.com/r/Kotlin/comments/1g5jurn/ive_created_a_small_library_for_interactive_cli/)
-- [AutoUpdater: An Android library to update apps automatically without Play Store](https://www.reddit.com/r/Kotlin/comments/1g5jm6g/autoupdater_an_android_library_to_update_apps/)
-- [Has anyone attended workshops of Kt. Academy?](https://www.reddit.com/r/Kotlin/comments/1g58d96/has_anyone_attended_workshops_of_kt_academy/)
-- [Jetpack compose rendering activity twice](https://www.reddit.com/r/Kotlin/comments/1g53z5d/jetpack_compose_rendering_activity_twice/)
-- [Kotlin from Scratch - A Project-Based Introduction](https://www.reddit.com/r/Kotlin/comments/1g52pnq/kotlin_from_scratch_a_projectbased_introduction/)
-- [Modernizing the Builder Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1g51ge3/modernizing_the_builder_pattern_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
