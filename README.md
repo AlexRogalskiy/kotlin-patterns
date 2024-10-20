@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why did kotlinx serialization choose to use annotations?](https://www.reddit.com/r/Kotlin/comments/1g77pj0/why_did_kotlinx_serialization_choose_to_use/)
+- [Is possible share MP3 file between Python and Kotlin?](https://www.reddit.com/r/Kotlin/comments/1g74r6h/is_possible_share_mp3_file_between_python_and/)
+- [KMP Development Cycle](https://www.reddit.com/r/Kotlin/comments/1g730kf/kmp_development_cycle/)
+- [That Weird Compose Crash](https://www.reddit.com/r/Kotlin/comments/1g72yyf/that_weird_compose_crash/)
 - [Unchecked cast for Flow but why?](https://www.reddit.com/r/Kotlin/comments/1g6yof7/unchecked_cast_for_flow_but_why/)
 - [Replacing Handlebars - kotlinx.html for HTMX](https://www.reddit.com/r/Kotlin/comments/1g6jos0/replacing_handlebars_kotlinxhtml_for_htmx/)
 - [Been working for 9 years on my first Kotlin hobby project. As of yesterday, the source is finally public!](https://www.reddit.com/r/Kotlin/comments/1g6fdxt/been_working_for_9_years_on_my_first_kotlin_hobby/)
 - [New approach to kotlin](https://www.reddit.com/r/Kotlin/comments/1g6d3lx/new_approach_to_kotlin/)
 - [log4k: a new async logging/tracing platform build from the ground up utilizing coroutines and channels.](https://www.reddit.com/r/Kotlin/comments/1g6bksg/log4k_a_new_async_loggingtracing_platform_build/)
 - [RowKalendar: Scrollable Horizontal Calendar for Compose Multiplatform 📅](https://www.reddit.com/r/Kotlin/comments/1g62xr4/rowkalendar_scrollable_horizontal_calendar_for/)
-- [Trabajos en kotlin](https://www.reddit.com/r/Kotlin/comments/1g61xmn/trabajos_en_kotlin/)
-- [Kodee’s out in the wild! &lpar;Kodee is now available as a plush toy&rpar;](https://www.reddit.com/r/Kotlin/comments/1g5wlba/kodees_out_in_the_wild_kodee_is_now_available_as/)
-- [Is Koin a dependency injection framework or a service locator](https://www.reddit.com/r/Kotlin/comments/1g5q0ea/is_koin_a_dependency_injection_framework_or_a/)
-- [I&#39;ve created a small library for interactive CLI UI called &#39;kotlin-inquirer&#39;](https://www.reddit.com/r/Kotlin/comments/1g5jurn/ive_created_a_small_library_for_interactive_cli/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
