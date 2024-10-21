@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Autocomplete in IntelliJ IDE for Kotlin Compose](https://www.reddit.com/r/Kotlin/comments/1g85w5m/autocomplete_in_intellij_ide_for_kotlin_compose/)
+- [What&#39;s wrong with my bottom navigation view?](https://www.reddit.com/r/Kotlin/comments/1g7ygyq/whats_wrong_with_my_bottom_navigation_view/)
+- [🚀 Kotools Types 4.5.3 is available!](https://www.reddit.com/r/Kotlin/comments/1g7wffn/kotools_types_453_is_available/)
+- [Help optimizing mesh gen](https://www.reddit.com/r/Kotlin/comments/1g7qko1/help_optimizing_mesh_gen/)
 - [Why did kotlinx serialization choose to use annotations?](https://www.reddit.com/r/Kotlin/comments/1g77pj0/why_did_kotlinx_serialization_choose_to_use/)
 - [Is possible share MP3 file between Python and Kotlin?](https://www.reddit.com/r/Kotlin/comments/1g74r6h/is_possible_share_mp3_file_between_python_and/)
 - [KMP Development Cycle](https://www.reddit.com/r/Kotlin/comments/1g730kf/kmp_development_cycle/)
 - [That Weird Compose Crash](https://www.reddit.com/r/Kotlin/comments/1g72yyf/that_weird_compose_crash/)
 - [Unchecked cast for Flow but why?](https://www.reddit.com/r/Kotlin/comments/1g6yof7/unchecked_cast_for_flow_but_why/)
 - [Replacing Handlebars - kotlinx.html for HTMX](https://www.reddit.com/r/Kotlin/comments/1g6jos0/replacing_handlebars_kotlinxhtml_for_htmx/)
-- [Been working for 9 years on my first Kotlin hobby project. As of yesterday, the source is finally public!](https://www.reddit.com/r/Kotlin/comments/1g6fdxt/been_working_for_9_years_on_my_first_kotlin_hobby/)
-- [New approach to kotlin](https://www.reddit.com/r/Kotlin/comments/1g6d3lx/new_approach_to_kotlin/)
-- [log4k: a new async logging/tracing platform build from the ground up utilizing coroutines and channels.](https://www.reddit.com/r/Kotlin/comments/1g6bksg/log4k_a_new_async_loggingtracing_platform_build/)
-- [RowKalendar: Scrollable Horizontal Calendar for Compose Multiplatform 📅](https://www.reddit.com/r/Kotlin/comments/1g62xr4/rowkalendar_scrollable_horizontal_calendar_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
