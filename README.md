@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Issue with Java VM with LWJGL](https://www.reddit.com/r/Kotlin/comments/1g95dzh/issue_with_java_vm_with_lwjgl/)
+- [Is it bad practice to use companion objects specifically to make unit testing easier?](https://www.reddit.com/r/Kotlin/comments/1g945a6/is_it_bad_practice_to_use_companion_objects/)
+- [Data class, val vs var, getters/setters](https://www.reddit.com/r/Kotlin/comments/1g92p4o/data_class_val_vs_var_getterssetters/)
+- [Map Filter perfomance](https://www.reddit.com/r/Kotlin/comments/1g90zng/map_filter_perfomance/)
+- [Mobile Kotlin Multi Platform Components](https://www.reddit.com/r/Kotlin/comments/1g8y64g/mobile_kotlin_multi_platform_components/)
+- [Help with an Android app](https://www.reddit.com/r/Kotlin/comments/1g8svy6/help_with_an_android_app/)
+- [How to add a date picker to my app?](https://www.reddit.com/r/Kotlin/comments/1g8rz9a/how_to_add_a_date_picker_to_my_app/)
+- [I don&#39;t understand the build system](https://www.reddit.com/r/Kotlin/comments/1g8owpq/i_dont_understand_the_build_system/)
 - [Autocomplete in IntelliJ IDE for Kotlin Compose](https://www.reddit.com/r/Kotlin/comments/1g85w5m/autocomplete_in_intellij_ide_for_kotlin_compose/)
 - [What&#39;s wrong with my bottom navigation view?](https://www.reddit.com/r/Kotlin/comments/1g7ygyq/whats_wrong_with_my_bottom_navigation_view/)
-- [🚀 Kotools Types 4.5.3 is available!](https://www.reddit.com/r/Kotlin/comments/1g7wffn/kotools_types_453_is_available/)
-- [Help optimizing mesh gen](https://www.reddit.com/r/Kotlin/comments/1g7qko1/help_optimizing_mesh_gen/)
-- [Why did kotlinx serialization choose to use annotations?](https://www.reddit.com/r/Kotlin/comments/1g77pj0/why_did_kotlinx_serialization_choose_to_use/)
-- [Is possible share MP3 file between Python and Kotlin?](https://www.reddit.com/r/Kotlin/comments/1g74r6h/is_possible_share_mp3_file_between_python_and/)
-- [KMP Development Cycle](https://www.reddit.com/r/Kotlin/comments/1g730kf/kmp_development_cycle/)
-- [That Weird Compose Crash](https://www.reddit.com/r/Kotlin/comments/1g72yyf/that_weird_compose_crash/)
-- [Unchecked cast for Flow but why?](https://www.reddit.com/r/Kotlin/comments/1g6yof7/unchecked_cast_for_flow_but_why/)
-- [Replacing Handlebars - kotlinx.html for HTMX](https://www.reddit.com/r/Kotlin/comments/1g6jos0/replacing_handlebars_kotlinxhtml_for_htmx/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
