@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why are lambdas created as anonymous objects?](https://www.reddit.com/r/Kotlin/comments/1g9tykj/why_are_lambdas_created_as_anonymous_objects/)
+- [Honest thought. I feel dumb reading this sub.](https://www.reddit.com/r/Kotlin/comments/1g9pm4t/honest_thought_i_feel_dumb_reading_this_sub/)
+- [Need Realtime STT API](https://www.reddit.com/r/Kotlin/comments/1g9ks04/need_realtime_stt_api/)
+- [Mocking in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1g9f0de/mocking_in_kotlin_multiplatform/)
+- [Koin has just refreshed all Koin and Kotlin getting-started projects.](https://www.reddit.com/r/Kotlin/comments/1g9egpg/koin_has_just_refreshed_all_koin_and_kotlin/)
 - [Issue with Java VM with LWJGL](https://www.reddit.com/r/Kotlin/comments/1g95dzh/issue_with_java_vm_with_lwjgl/)
 - [Is it bad practice to use companion objects specifically to make unit testing easier?](https://www.reddit.com/r/Kotlin/comments/1g945a6/is_it_bad_practice_to_use_companion_objects/)
 - [Data class, val vs var, getters/setters](https://www.reddit.com/r/Kotlin/comments/1g92p4o/data_class_val_vs_var_getterssetters/)
 - [Map Filter perfomance](https://www.reddit.com/r/Kotlin/comments/1g90zng/map_filter_perfomance/)
 - [Mobile Kotlin Multi Platform Components](https://www.reddit.com/r/Kotlin/comments/1g8y64g/mobile_kotlin_multi_platform_components/)
-- [Help with an Android app](https://www.reddit.com/r/Kotlin/comments/1g8svy6/help_with_an_android_app/)
-- [How to add a date picker to my app?](https://www.reddit.com/r/Kotlin/comments/1g8rz9a/how_to_add_a_date_picker_to_my_app/)
-- [I don&#39;t understand the build system](https://www.reddit.com/r/Kotlin/comments/1g8owpq/i_dont_understand_the_build_system/)
-- [Autocomplete in IntelliJ IDE for Kotlin Compose](https://www.reddit.com/r/Kotlin/comments/1g85w5m/autocomplete_in_intellij_ide_for_kotlin_compose/)
-- [What&#39;s wrong with my bottom navigation view?](https://www.reddit.com/r/Kotlin/comments/1g7ygyq/whats_wrong_with_my_bottom_navigation_view/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
