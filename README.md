@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Serialization support in KStateMachine library](https://www.reddit.com/r/Kotlin/comments/1gal3i3/serialization_support_in_kstatemachine_library/)
+- [Navigate Early Development | Simplify Data Storage](https://www.reddit.com/r/Kotlin/comments/1gaiqu8/navigate_early_development_simplify_data_storage/)
+- [KmpEssentials &lpar;v1.3.7&rpar; Scheduling, Managing, Cancelling, Events &amp; Alarms Api](https://www.reddit.com/r/Kotlin/comments/1gabss8/kmpessentials_v137_scheduling_managing_cancelling/)
 - [Why are lambdas created as anonymous objects?](https://www.reddit.com/r/Kotlin/comments/1g9tykj/why_are_lambdas_created_as_anonymous_objects/)
 - [Honest thought. I feel dumb reading this sub.](https://www.reddit.com/r/Kotlin/comments/1g9pm4t/honest_thought_i_feel_dumb_reading_this_sub/)
 - [Need Realtime STT API](https://www.reddit.com/r/Kotlin/comments/1g9ks04/need_realtime_stt_api/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Koin has just refreshed all Koin and Kotlin getting-started projects.](https://www.reddit.com/r/Kotlin/comments/1g9egpg/koin_has_just_refreshed_all_koin_and_kotlin/)
 - [Issue with Java VM with LWJGL](https://www.reddit.com/r/Kotlin/comments/1g95dzh/issue_with_java_vm_with_lwjgl/)
 - [Is it bad practice to use companion objects specifically to make unit testing easier?](https://www.reddit.com/r/Kotlin/comments/1g945a6/is_it_bad_practice_to_use_companion_objects/)
-- [Data class, val vs var, getters/setters](https://www.reddit.com/r/Kotlin/comments/1g92p4o/data_class_val_vs_var_getterssetters/)
-- [Map Filter perfomance](https://www.reddit.com/r/Kotlin/comments/1g90zng/map_filter_perfomance/)
-- [Mobile Kotlin Multi Platform Components](https://www.reddit.com/r/Kotlin/comments/1g8y64g/mobile_kotlin_multi_platform_components/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
