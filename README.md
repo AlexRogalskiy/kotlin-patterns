@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Serialization support in KStateMachine library](https://www.reddit.com/r/Kotlin/comments/1gal3i3/serialization_support_in_kstatemachine_library/)
-- [Navigate Early Development | Simplify Data Storage](https://www.reddit.com/r/Kotlin/comments/1gaiqu8/navigate_early_development_simplify_data_storage/)
-- [KmpEssentials &lpar;v1.3.7&rpar; Scheduling, Managing, Cancelling, Events &amp; Alarms Api](https://www.reddit.com/r/Kotlin/comments/1gabss8/kmpessentials_v137_scheduling_managing_cancelling/)
-- [Why are lambdas created as anonymous objects?](https://www.reddit.com/r/Kotlin/comments/1g9tykj/why_are_lambdas_created_as_anonymous_objects/)
-- [Honest thought. I feel dumb reading this sub.](https://www.reddit.com/r/Kotlin/comments/1g9pm4t/honest_thought_i_feel_dumb_reading_this_sub/)
-- [Need Realtime STT API](https://www.reddit.com/r/Kotlin/comments/1g9ks04/need_realtime_stt_api/)
-- [Mocking in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1g9f0de/mocking_in_kotlin_multiplatform/)
-- [Koin has just refreshed all Koin and Kotlin getting-started projects.](https://www.reddit.com/r/Kotlin/comments/1g9egpg/koin_has_just_refreshed_all_koin_and_kotlin/)
-- [Issue with Java VM with LWJGL](https://www.reddit.com/r/Kotlin/comments/1g95dzh/issue_with_java_vm_with_lwjgl/)
-- [Is it bad practice to use companion objects specifically to make unit testing easier?](https://www.reddit.com/r/Kotlin/comments/1g945a6/is_it_bad_practice_to_use_companion_objects/)
+- [The buauty of Kotlin&#39;s type system](https://www.reddit.com/r/Kotlin/comments/1gbg9am/the_buauty_of_kotlins_type_system/)
+- [Code Golf now supports Kotlin!](https://www.reddit.com/r/Kotlin/comments/1gbetm5/code_golf_now_supports_kotlin/)
+- [Kotlin Course Recommendations](https://www.reddit.com/r/Kotlin/comments/1gbd4i6/kotlin_course_recommendations/)
+- [log4k: A Comprehensive Logging and Tracing Solution for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1gb9ezu/log4k_a_comprehensive_logging_and_tracing/)
+- [What to use to store data which won&#39;t be lost when Android app is closed or updated from Play Store?](https://www.reddit.com/r/Kotlin/comments/1gb9dsi/what_to_use_to_store_data_which_wont_be_lost_when/)
+- [Scoping and Initialisation order](https://www.reddit.com/r/Kotlin/comments/1gb8jqf/scoping_and_initialisation_order/)
+- [Need help understanding this code &lpar;Newbie in Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1gb7qtt/need_help_understanding_this_code_newbie_in_kotlin/)
+- [How do I make a function that counts empty slots?](https://www.reddit.com/r/Kotlin/comments/1gb70bg/how_do_i_make_a_function_that_counts_empty_slots/)
+- [Hi guys, is there anyone here who knows about Kotlin and is willing to help me with my project?](https://www.reddit.com/r/Kotlin/comments/1gb6kns/hi_guys_is_there_anyone_here_who_knows_about/)
+- [Koin is now updated to support the latest Kotlin version](https://www.reddit.com/r/Kotlin/comments/1gb319c/koin_is_now_updated_to_support_the_latest_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
