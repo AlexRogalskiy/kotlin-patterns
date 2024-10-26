@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ive made a library which allows you to serialize your kotlin exposed relationships](https://www.reddit.com/r/Kotlin/comments/1gc81ko/ive_made_a_library_which_allows_you_to_serialize/)
+- [Ktor: need help with performance](https://www.reddit.com/r/Kotlin/comments/1gc7nrd/ktor_need_help_with_performance/)
+- [Better Kotlin–Java Auto-Complete: How to Improve Code Completion Suggestions in Mixed Projects](https://www.reddit.com/r/Kotlin/comments/1gc1ovj/better_kotlinjava_autocomplete_how_to_improve/)
+- [The Future of Kotlin, Android, and Everything](https://www.reddit.com/r/Kotlin/comments/1gc1bwm/the_future_of_kotlin_android_and_everything/)
+- [The Future of Kotlin, Android, and Everything](https://www.reddit.com/r/Kotlin/comments/1gc11ep/the_future_of_kotlin_android_and_everything/)
+- [Upgrading Dependencies for No Fun and No Profit](https://www.reddit.com/r/Kotlin/comments/1gbvgt6/upgrading_dependencies_for_no_fun_and_no_profit/)
+- [Smooth migration from Dagger to Koin &lpar;if you&#39;d like to&rpar;](https://www.reddit.com/r/Kotlin/comments/1gbv83i/smooth_migration_from_dagger_to_koin_if_youd_like/)
+- [How to solve OutOfMemoryError: Unable to create new native threads](https://www.reddit.com/r/Kotlin/comments/1gbqxco/how_to_solve_outofmemoryerror_unable_to_create/)
+- [I need some assistance..](https://www.reddit.com/r/Kotlin/comments/1gbpfo5/i_need_some_assistance/)
 - [The buauty of Kotlin&#39;s type system](https://www.reddit.com/r/Kotlin/comments/1gbg9am/the_buauty_of_kotlins_type_system/)
-- [Code Golf now supports Kotlin!](https://www.reddit.com/r/Kotlin/comments/1gbetm5/code_golf_now_supports_kotlin/)
-- [Kotlin Course Recommendations](https://www.reddit.com/r/Kotlin/comments/1gbd4i6/kotlin_course_recommendations/)
-- [log4k: A Comprehensive Logging and Tracing Solution for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1gb9ezu/log4k_a_comprehensive_logging_and_tracing/)
-- [What to use to store data which won&#39;t be lost when Android app is closed or updated from Play Store?](https://www.reddit.com/r/Kotlin/comments/1gb9dsi/what_to_use_to_store_data_which_wont_be_lost_when/)
-- [Scoping and Initialisation order](https://www.reddit.com/r/Kotlin/comments/1gb8jqf/scoping_and_initialisation_order/)
-- [Need help understanding this code &lpar;Newbie in Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1gb7qtt/need_help_understanding_this_code_newbie_in_kotlin/)
-- [How do I make a function that counts empty slots?](https://www.reddit.com/r/Kotlin/comments/1gb70bg/how_do_i_make_a_function_that_counts_empty_slots/)
-- [Hi guys, is there anyone here who knows about Kotlin and is willing to help me with my project?](https://www.reddit.com/r/Kotlin/comments/1gb6kns/hi_guys_is_there_anyone_here_who_knows_about/)
-- [Koin is now updated to support the latest Kotlin version](https://www.reddit.com/r/Kotlin/comments/1gb319c/koin_is_now_updated_to_support_the_latest_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
