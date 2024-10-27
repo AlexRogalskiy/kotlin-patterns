@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any way to reference the extension instead of the member with the same name?](https://www.reddit.com/r/Kotlin/comments/1gczn1r/any_way_to_reference_the_extension_instead_of_the/)
+- [KMP library for enabling Do Not Disturb?](https://www.reddit.com/r/Kotlin/comments/1gcpwnr/kmp_library_for_enabling_do_not_disturb/)
+- [Hey Android Developers, Just an Important heads-up.](https://www.reddit.com/r/Kotlin/comments/1gcpulp/hey_android_developers_just_an_important_headsup/)
+- [To develop an abstraction layer for a stack framework supporting expanded &amp; collapsed state of the view. Using that abstraction layer you can create one sample stack view implementation shown in the videos below](https://www.reddit.com/r/Kotlin/comments/1gcnk7h/to_develop_an_abstraction_layer_for_a_stack/)
+- [How to make money as a developer?](https://www.reddit.com/r/Kotlin/comments/1gclge8/how_to_make_money_as_a_developer/)
+- [My Kodee arrived! I&#39;ll be directing all further questions I have about context receivers to him](https://www.reddit.com/r/Kotlin/comments/1gci478/my_kodee_arrived_ill_be_directing_all_further/)
 - [Ive made a library which allows you to serialize your kotlin exposed relationships](https://www.reddit.com/r/Kotlin/comments/1gc81ko/ive_made_a_library_which_allows_you_to_serialize/)
 - [Ktor: need help with performance](https://www.reddit.com/r/Kotlin/comments/1gc7nrd/ktor_need_help_with_performance/)
 - [Better Kotlin–Java Auto-Complete: How to Improve Code Completion Suggestions in Mixed Projects](https://www.reddit.com/r/Kotlin/comments/1gc1ovj/better_kotlinjava_autocomplete_how_to_improve/)
 - [The Future of Kotlin, Android, and Everything](https://www.reddit.com/r/Kotlin/comments/1gc1bwm/the_future_of_kotlin_android_and_everything/)
-- [The Future of Kotlin, Android, and Everything](https://www.reddit.com/r/Kotlin/comments/1gc11ep/the_future_of_kotlin_android_and_everything/)
-- [Upgrading Dependencies for No Fun and No Profit](https://www.reddit.com/r/Kotlin/comments/1gbvgt6/upgrading_dependencies_for_no_fun_and_no_profit/)
-- [Smooth migration from Dagger to Koin &lpar;if you&#39;d like to&rpar;](https://www.reddit.com/r/Kotlin/comments/1gbv83i/smooth_migration_from_dagger_to_koin_if_youd_like/)
-- [How to solve OutOfMemoryError: Unable to create new native threads](https://www.reddit.com/r/Kotlin/comments/1gbqxco/how_to_solve_outofmemoryerror_unable_to_create/)
-- [I need some assistance..](https://www.reddit.com/r/Kotlin/comments/1gbpfo5/i_need_some_assistance/)
-- [The buauty of Kotlin&#39;s type system](https://www.reddit.com/r/Kotlin/comments/1gbg9am/the_buauty_of_kotlins_type_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
