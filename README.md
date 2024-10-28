@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building Kotlin Projects with the Mill Build Tool](https://www.reddit.com/r/Kotlin/comments/1gdq2jv/building_kotlin_projects_with_the_mill_build_tool/)
+- [Any YT Tutorials like BroCode](https://www.reddit.com/r/Kotlin/comments/1gdmit4/any_yt_tutorials_like_brocode/)
+- [Just starting](https://www.reddit.com/r/Kotlin/comments/1gdlq8x/just_starting/)
+- [ktlint alternatives?](https://www.reddit.com/r/Kotlin/comments/1gdlc73/ktlint_alternatives/)
+- [How Compose Compiler Plugin Works](https://www.reddit.com/r/Kotlin/comments/1gdiuwc/how_compose_compiler_plugin_works/)
+- [Will Java ever become obsolete?](https://www.reddit.com/r/Kotlin/comments/1gdbu6s/will_java_ever_become_obsolete/)
+- [New version of sqlx4k](https://www.reddit.com/r/Kotlin/comments/1gd61ay/new_version_of_sqlx4k/)
 - [Any way to reference the extension instead of the member with the same name?](https://www.reddit.com/r/Kotlin/comments/1gczn1r/any_way_to_reference_the_extension_instead_of_the/)
 - [KMP library for enabling Do Not Disturb?](https://www.reddit.com/r/Kotlin/comments/1gcpwnr/kmp_library_for_enabling_do_not_disturb/)
 - [Hey Android Developers, Just an Important heads-up.](https://www.reddit.com/r/Kotlin/comments/1gcpulp/hey_android_developers_just_an_important_headsup/)
-- [To develop an abstraction layer for a stack framework supporting expanded &amp; collapsed state of the view. Using that abstraction layer you can create one sample stack view implementation shown in the videos below](https://www.reddit.com/r/Kotlin/comments/1gcnk7h/to_develop_an_abstraction_layer_for_a_stack/)
-- [How to make money as a developer?](https://www.reddit.com/r/Kotlin/comments/1gclge8/how_to_make_money_as_a_developer/)
-- [My Kodee arrived! I&#39;ll be directing all further questions I have about context receivers to him](https://www.reddit.com/r/Kotlin/comments/1gci478/my_kodee_arrived_ill_be_directing_all_further/)
-- [Ive made a library which allows you to serialize your kotlin exposed relationships](https://www.reddit.com/r/Kotlin/comments/1gc81ko/ive_made_a_library_which_allows_you_to_serialize/)
-- [Ktor: need help with performance](https://www.reddit.com/r/Kotlin/comments/1gc7nrd/ktor_need_help_with_performance/)
-- [Better Kotlin–Java Auto-Complete: How to Improve Code Completion Suggestions in Mixed Projects](https://www.reddit.com/r/Kotlin/comments/1gc1ovj/better_kotlinjava_autocomplete_how_to_improve/)
-- [The Future of Kotlin, Android, and Everything](https://www.reddit.com/r/Kotlin/comments/1gc1bwm/the_future_of_kotlin_android_and_everything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
