@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [When developing a Compose application](https://www.reddit.com/r/Kotlin/comments/1gevxvt/when_developing_a_compose_application/)
+- [3 Most essential skills for any developer](https://www.reddit.com/r/Kotlin/comments/1geqejk/3_most_essential_skills_for_any_developer/)
+- [Is Reddit appropriate for Publising Open Source Libraries you create?](https://www.reddit.com/r/Kotlin/comments/1gentr1/is_reddit_appropriate_for_publising_open_source/)
 - [Is it good idea to do DSA &amp; leetcode in kotlin? If yes, what are some good resources?](https://www.reddit.com/r/Kotlin/comments/1gebpm8/is_it_good_idea_to_do_dsa_leetcode_in_kotlin_if/)
 - [Kotlin Multiplatform Development Roadmap for 2025](https://www.reddit.com/r/Kotlin/comments/1geaza0/kotlin_multiplatform_development_roadmap_for_2025/)
 - [Kotlin Multiplatform - exclude targets from build?](https://www.reddit.com/r/Kotlin/comments/1ge3g3j/kotlin_multiplatform_exclude_targets_from_build/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [RxKmp &lpar;Reactive Extensions For Kotlin Multiplatform&rpar;](https://www.reddit.com/r/Kotlin/comments/1gdw2wa/rxkmp_reactive_extensions_for_kotlin_multiplatform/)
 - [RxJava, Flows or Live Data for Android?](https://www.reddit.com/r/Kotlin/comments/1gdrz7q/rxjava_flows_or_live_data_for_android/)
 - [Building Kotlin Projects with the Mill Build Tool](https://www.reddit.com/r/Kotlin/comments/1gdq2jv/building_kotlin_projects_with_the_mill_build_tool/)
-- [Any YT Tutorials like BroCode](https://www.reddit.com/r/Kotlin/comments/1gdmit4/any_yt_tutorials_like_brocode/)
-- [Just starting](https://www.reddit.com/r/Kotlin/comments/1gdlq8x/just_starting/)
-- [ktlint alternatives?](https://www.reddit.com/r/Kotlin/comments/1gdlc73/ktlint_alternatives/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
