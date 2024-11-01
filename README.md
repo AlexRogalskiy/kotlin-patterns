@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I beg for help, What are SDKs?](https://www.reddit.com/r/Kotlin/comments/1gg2xmw/i_beg_for_help_what_are_sdks/)
+- [[RELEASE] Ksoup 0.2.0 – Kotlin Multiplatform Library for HTML &amp; XML Parsing](https://www.reddit.com/r/Kotlin/comments/1ggsoff/release_ksoup_020_kotlin_multiplatform_library/)
+- [Circular References in DB with Ktorm](https://www.reddit.com/r/Kotlin/comments/1ggsjqc/circular_references_in_db_with_ktorm/)
+- [Share Coroutine Context](https://www.reddit.com/r/Kotlin/comments/1gglv69/share_coroutine_context/)
+- [Generating Dokka Docs for Dependencies](https://www.reddit.com/r/Kotlin/comments/1ggj2qn/generating_dokka_docs_for_dependencies/)
+- [Kotlin: Properties vs Variables](https://www.reddit.com/r/Kotlin/comments/1gghdzz/kotlin_properties_vs_variables/)
+- [Question: Constructors](https://www.reddit.com/r/Kotlin/comments/1ggbkdk/question_constructors/)
+- [Suggestion I need](https://www.reddit.com/r/Kotlin/comments/1gganou/suggestion_i_need/)
+- [My 6 essential tools as a mobile application developer](https://www.reddit.com/r/Kotlin/comments/1gga2av/my_6_essential_tools_as_a_mobile_application/)
+- [Can Kotlin Dethrone Python as the AI Language of Choice?](https://www.reddit.com/r/Kotlin/comments/1gg8tpv/can_kotlin_dethrone_python_as_the_ai_language_of/)
 - [Kotlin Multiplatform parameterized tests with Burst](https://www.reddit.com/r/Kotlin/comments/1gfzsrg/kotlin_multiplatform_parameterized_tests_with/)
-- [Question about a parameter in a function](https://www.reddit.com/r/Kotlin/comments/1gfxx0x/question_about_a_parameter_in_a_function/)
-- [What are some of the best resources to get started with Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1gfs6qb/what_are_some_of_the_best_resources_to_get/)
-- [TypeAlias Show - Immutable and Persistent Lists in Kotlin](https://www.reddit.com/r/Kotlin/comments/1gfokop/typealias_show_immutable_and_persistent_lists_in/)
-- [Need help regarding resources&lpar; beginner &rpar;](https://www.reddit.com/r/Kotlin/comments/1gfmheg/need_help_regarding_resources_beginner/)
-- [Step into transient dependency](https://www.reddit.com/r/Kotlin/comments/1gfm97x/step_into_transient_dependency/)
-- [Kotlin custom serialization - Linear json structure for nested data classes](https://www.reddit.com/r/Kotlin/comments/1gfk0uy/kotlin_custom_serialization_linear_json_structure/)
-- [When developing a Compose application](https://www.reddit.com/r/Kotlin/comments/1gevxvt/when_developing_a_compose_application/)
-- [3 Most essential skills for any developer](https://www.reddit.com/r/Kotlin/comments/1geqejk/3_most_essential_skills_for_any_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
