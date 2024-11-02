@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about Java Libraries](https://www.reddit.com/r/Kotlin/comments/1ghhdsl/question_about_java_libraries/)
+- [Choosing the right programming language](https://www.reddit.com/r/Kotlin/comments/1ghfrxz/choosing_the_right_programming_language/)
+- [Is this a good course to learn springboot dev with Kotlin](https://www.reddit.com/r/Kotlin/comments/1ghbi7f/is_this_a_good_course_to_learn_springboot_dev/)
+- [Groovy to Kotlin - Migrating a Gradle Build](https://www.reddit.com/r/Kotlin/comments/1gh5qe7/groovy_to_kotlin_migrating_a_gradle_build/)
+- [Fleet 1.42 with Compose Multiplatform - 16GB RAM/i7-10810U ...](https://www.reddit.com/r/Kotlin/comments/1gh00mg/fleet_142_with_compose_multiplatform_16gb/)
 - [[RELEASE] Ksoup 0.2.0 – Kotlin Multiplatform Library for HTML &amp; XML Parsing](https://www.reddit.com/r/Kotlin/comments/1ggsoff/release_ksoup_020_kotlin_multiplatform_library/)
 - [Circular References in DB with Ktorm](https://www.reddit.com/r/Kotlin/comments/1ggsjqc/circular_references_in_db_with_ktorm/)
 - [Share Coroutine Context](https://www.reddit.com/r/Kotlin/comments/1gglv69/share_coroutine_context/)
 - [Generating Dokka Docs for Dependencies](https://www.reddit.com/r/Kotlin/comments/1ggj2qn/generating_dokka_docs_for_dependencies/)
 - [Kotlin: Properties vs Variables](https://www.reddit.com/r/Kotlin/comments/1gghdzz/kotlin_properties_vs_variables/)
-- [Question: Constructors](https://www.reddit.com/r/Kotlin/comments/1ggbkdk/question_constructors/)
-- [Suggestion I need](https://www.reddit.com/r/Kotlin/comments/1gganou/suggestion_i_need/)
-- [My 6 essential tools as a mobile application developer](https://www.reddit.com/r/Kotlin/comments/1gga2av/my_6_essential_tools_as_a_mobile_application/)
-- [Can Kotlin Dethrone Python as the AI Language of Choice?](https://www.reddit.com/r/Kotlin/comments/1gg8tpv/can_kotlin_dethrone_python_as_the_ai_language_of/)
-- [Kotlin Multiplatform parameterized tests with Burst](https://www.reddit.com/r/Kotlin/comments/1gfzsrg/kotlin_multiplatform_parameterized_tests_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
