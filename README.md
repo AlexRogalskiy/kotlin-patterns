@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cronjob in Kotlin using Ktor](https://www.reddit.com/r/Kotlin/comments/1gibrlm/cronjob_in_kotlin_using_ktor/)
+- [Algebraic Data Types In Kotlin](https://www.reddit.com/r/Kotlin/comments/1gia66m/algebraic_data_types_in_kotlin/)
+- [KWeb is dead 😭 what framework should I switch to?](https://www.reddit.com/r/Kotlin/comments/1gi5g2g/kweb_is_dead_what_framework_should_i_switch_to/)
+- [🚀 [Announcement] FleekSoft IO: Lightweight JDK I/O Classes for Kotlin Multiplatform! 🌐](https://www.reddit.com/r/Kotlin/comments/1ghvzql/announcement_fleeksoft_io_lightweight_jdk_io/)
+- [Kotlin Multiplatform Charset v0.0.1 - A Pure Port of JDK Charset for Cross-Platform Encoding &amp; Decoding!](https://www.reddit.com/r/Kotlin/comments/1ghvwl7/kotlin_multiplatform_charset_v001_a_pure_port_of/)
+- [Suggest me a course for android developement and kotlin](https://www.reddit.com/r/Kotlin/comments/1ght38e/suggest_me_a_course_for_android_developement_and/)
 - [Question about Java Libraries](https://www.reddit.com/r/Kotlin/comments/1ghhdsl/question_about_java_libraries/)
 - [Choosing the right programming language](https://www.reddit.com/r/Kotlin/comments/1ghfrxz/choosing_the_right_programming_language/)
 - [Is this a good course to learn springboot dev with Kotlin](https://www.reddit.com/r/Kotlin/comments/1ghbi7f/is_this_a_good_course_to_learn_springboot_dev/)
 - [Groovy to Kotlin - Migrating a Gradle Build](https://www.reddit.com/r/Kotlin/comments/1gh5qe7/groovy_to_kotlin_migrating_a_gradle_build/)
-- [Fleet 1.42 with Compose Multiplatform - 16GB RAM/i7-10810U ...](https://www.reddit.com/r/Kotlin/comments/1gh00mg/fleet_142_with_compose_multiplatform_16gb/)
-- [[RELEASE] Ksoup 0.2.0 – Kotlin Multiplatform Library for HTML &amp; XML Parsing](https://www.reddit.com/r/Kotlin/comments/1ggsoff/release_ksoup_020_kotlin_multiplatform_library/)
-- [Circular References in DB with Ktorm](https://www.reddit.com/r/Kotlin/comments/1ggsjqc/circular_references_in_db_with_ktorm/)
-- [Share Coroutine Context](https://www.reddit.com/r/Kotlin/comments/1gglv69/share_coroutine_context/)
-- [Generating Dokka Docs for Dependencies](https://www.reddit.com/r/Kotlin/comments/1ggj2qn/generating_dokka_docs_for_dependencies/)
-- [Kotlin: Properties vs Variables](https://www.reddit.com/r/Kotlin/comments/1gghdzz/kotlin_properties_vs_variables/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
