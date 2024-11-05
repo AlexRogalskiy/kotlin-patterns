@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best way to learn Android development with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gjvjj9/best_way_to_learn_android_development_with_kotlin/)
+- [Correct way to collect from flows in a sequence?](https://www.reddit.com/r/Kotlin/comments/1gjv9ne/correct_way_to_collect_from_flows_in_a_sequence/)
+- [Coil 3.0: Image loading for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1gjss4l/coil_30_image_loading_for_compose_multiplatform/)
+- [Is this correct formatted?](https://www.reddit.com/r/Kotlin/comments/1gjkngl/is_this_correct_formatted/)
 - [Best AI tools for Kotlin code assist](https://www.reddit.com/r/Kotlin/comments/1giyy1y/best_ai_tools_for_kotlin_code_assist/)
 - [Kotlin poem](https://www.reddit.com/r/Kotlin/comments/1gijgr9/kotlin_poem/)
 - [Cronjob in Kotlin using Ktor](https://www.reddit.com/r/Kotlin/comments/1gibrlm/cronjob_in_kotlin_using_ktor/)
 - [Algebraic Data Types In Kotlin](https://www.reddit.com/r/Kotlin/comments/1gia66m/algebraic_data_types_in_kotlin/)
 - [KWeb is dead 😭 what framework should I switch to?](https://www.reddit.com/r/Kotlin/comments/1gi5g2g/kweb_is_dead_what_framework_should_i_switch_to/)
 - [🚀 [Announcement] FleekSoft IO: Lightweight JDK I/O Classes for Kotlin Multiplatform! 🌐](https://www.reddit.com/r/Kotlin/comments/1ghvzql/announcement_fleeksoft_io_lightweight_jdk_io/)
-- [Kotlin Multiplatform Charset v0.0.1 - A Pure Port of JDK Charset for Cross-Platform Encoding &amp; Decoding!](https://www.reddit.com/r/Kotlin/comments/1ghvwl7/kotlin_multiplatform_charset_v001_a_pure_port_of/)
-- [Suggest me a course for android developement and kotlin](https://www.reddit.com/r/Kotlin/comments/1ght38e/suggest_me_a_course_for_android_developement_and/)
-- [Question about Java Libraries](https://www.reddit.com/r/Kotlin/comments/1ghhdsl/question_about_java_libraries/)
-- [Choosing the right programming language](https://www.reddit.com/r/Kotlin/comments/1ghfrxz/choosing_the_right_programming_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
