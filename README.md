@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [log4k: A Comprehensive Logging and Tracing Solution for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1gkehwm/log4k_a_comprehensive_logging_and_tracing/)
+- [Amper Update November 2024 – Project File Tooling, Compose Resources, KSP2, and Android Release Builds](https://www.reddit.com/r/Kotlin/comments/1gkan81/amper_update_november_2024_project_file_tooling/)
+- [RestClient or WebClient for a Kotlin Spring Boot microservice](https://www.reddit.com/r/Kotlin/comments/1gk9xty/restclient_or_webclient_for_a_kotlin_spring_boot/)
+- [KMP compatibility with AGP and what do the gradle plugins actually do ?](https://www.reddit.com/r/Kotlin/comments/1gjz63c/kmp_compatibility_with_agp_and_what_do_the_gradle/)
 - [Best way to learn Android development with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gjvjj9/best_way_to_learn_android_development_with_kotlin/)
 - [Correct way to collect from flows in a sequence?](https://www.reddit.com/r/Kotlin/comments/1gjv9ne/correct_way_to_collect_from_flows_in_a_sequence/)
 - [Coil 3.0: Image loading for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1gjss4l/coil_30_image_loading_for_compose_multiplatform/)
 - [Is this correct formatted?](https://www.reddit.com/r/Kotlin/comments/1gjkngl/is_this_correct_formatted/)
 - [Best AI tools for Kotlin code assist](https://www.reddit.com/r/Kotlin/comments/1giyy1y/best_ai_tools_for_kotlin_code_assist/)
 - [Kotlin poem](https://www.reddit.com/r/Kotlin/comments/1gijgr9/kotlin_poem/)
-- [Cronjob in Kotlin using Ktor](https://www.reddit.com/r/Kotlin/comments/1gibrlm/cronjob_in_kotlin_using_ktor/)
-- [Algebraic Data Types In Kotlin](https://www.reddit.com/r/Kotlin/comments/1gia66m/algebraic_data_types_in_kotlin/)
-- [KWeb is dead 😭 what framework should I switch to?](https://www.reddit.com/r/Kotlin/comments/1gi5g2g/kweb_is_dead_what_framework_should_i_switch_to/)
-- [🚀 [Announcement] FleekSoft IO: Lightweight JDK I/O Classes for Kotlin Multiplatform! 🌐](https://www.reddit.com/r/Kotlin/comments/1ghvzql/announcement_fleeksoft_io_lightweight_jdk_io/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
