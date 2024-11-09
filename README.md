@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Added gradle to existing project, now can&#39;t run it.](https://www.reddit.com/r/Kotlin/comments/1gms25u/added_gradle_to_existing_project_now_cant_run_it/)
+- [Compiler plugin for K2](https://www.reddit.com/r/Kotlin/comments/1gmk2jz/compiler_plugin_for_k2/)
+- [Kotlin school assignment stuck](https://www.reddit.com/r/Kotlin/comments/1gmhqhl/kotlin_school_assignment_stuck/)
+- [is there a like server on discord for kotlin or android developers](https://www.reddit.com/r/Kotlin/comments/1gmhge3/is_there_a_like_server_on_discord_for_kotlin_or/)
+- [What&#39;s the best way of using external/jni functions in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gmfzd1/whats_the_best_way_of_using_externaljni_functions/)
+- [🔥 New features available in Inspektify 🔥](https://www.reddit.com/r/Kotlin/comments/1gmfct1/new_features_available_in_inspektify/)
 - [MichaelBull/Kotlin-Result - good idea or bad idea](https://www.reddit.com/r/Kotlin/comments/1gm03gj/michaelbullkotlinresult_good_idea_or_bad_idea/)
 - [Extension Shadowing for Actual Declarations in KMP](https://www.reddit.com/r/Kotlin/comments/1glueki/extension_shadowing_for_actual_declarations_in_kmp/)
 - [Haze 1.0](https://www.reddit.com/r/Kotlin/comments/1glp0v0/haze_10/)
 - [The Future of Kotlin, Android, and Everything](https://www.reddit.com/r/Kotlin/comments/1gl7ji9/the_future_of_kotlin_android_and_everything/)
-- [Subtyping Composables](https://www.reddit.com/r/Kotlin/comments/1gl1zxe/subtyping_composables/)
-- [Mix Native iOS Views in Compose Multiplatform With Touchlab&#39;s New Library!](https://www.reddit.com/r/Kotlin/comments/1gky90g/mix_native_ios_views_in_compose_multiplatform/)
-- [ConflatedBroadcastChannel is 2 times faster than MutableSharedFlow?](https://www.reddit.com/r/Kotlin/comments/1gkukmb/conflatedbroadcastchannel_is_2_times_faster_than/)
-- [log4k: A Comprehensive Logging and Tracing Solution for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1gkehwm/log4k_a_comprehensive_logging_and_tracing/)
-- [Amper Update November 2024 – Project File Tooling, Compose Resources, KSP2, and Android Release Builds](https://www.reddit.com/r/Kotlin/comments/1gkan81/amper_update_november_2024_project_file_tooling/)
-- [RestClient or WebClient for a Kotlin Spring Boot microservice](https://www.reddit.com/r/Kotlin/comments/1gk9xty/restclient_or_webclient_for_a_kotlin_spring_boot/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
