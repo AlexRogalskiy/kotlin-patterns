@@ -272,7 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Added gradle to existing project, now can&#39;t run it.](https://www.reddit.com/r/Kotlin/comments/1gms25u/added_gradle_to_existing_project_now_cant_run_it/)
+- [More idiomatic way to create randomly-sized chunks out a list of items?](https://www.reddit.com/r/Kotlin/comments/1gngneu/more_idiomatic_way_to_create_randomlysized_chunks/)
+- [How viable is Compose Multiplatform for web?](https://www.reddit.com/r/Kotlin/comments/1gnb3co/how_viable_is_compose_multiplatform_for_web/)
+- [Taming Dependencies with Gradle Version Catalogs](https://www.reddit.com/r/Kotlin/comments/1gn6bzd/taming_dependencies_with_gradle_version_catalogs/)
 - [Compiler plugin for K2](https://www.reddit.com/r/Kotlin/comments/1gmk2jz/compiler_plugin_for_k2/)
 - [Kotlin school assignment stuck](https://www.reddit.com/r/Kotlin/comments/1gmhqhl/kotlin_school_assignment_stuck/)
 - [is there a like server on discord for kotlin or android developers](https://www.reddit.com/r/Kotlin/comments/1gmhge3/is_there_a_like_server_on_discord_for_kotlin_or/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [🔥 New features available in Inspektify 🔥](https://www.reddit.com/r/Kotlin/comments/1gmfct1/new_features_available_in_inspektify/)
 - [MichaelBull/Kotlin-Result - good idea or bad idea](https://www.reddit.com/r/Kotlin/comments/1gm03gj/michaelbullkotlinresult_good_idea_or_bad_idea/)
 - [Extension Shadowing for Actual Declarations in KMP](https://www.reddit.com/r/Kotlin/comments/1glueki/extension_shadowing_for_actual_declarations_in_kmp/)
-- [Haze 1.0](https://www.reddit.com/r/Kotlin/comments/1glp0v0/haze_10/)
-- [The Future of Kotlin, Android, and Everything](https://www.reddit.com/r/Kotlin/comments/1gl7ji9/the_future_of_kotlin_android_and_everything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
