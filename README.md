@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [which one should I choose](https://www.reddit.com/r/Kotlin/comments/1goddr2/which_one_should_i_choose/)
 - [More idiomatic way to create randomly-sized chunks out a list of items?](https://www.reddit.com/r/Kotlin/comments/1gngneu/more_idiomatic_way_to_create_randomlysized_chunks/)
 - [How viable is Compose Multiplatform for web?](https://www.reddit.com/r/Kotlin/comments/1gnb3co/how_viable_is_compose_multiplatform_for_web/)
 - [Taming Dependencies with Gradle Version Catalogs](https://www.reddit.com/r/Kotlin/comments/1gn6bzd/taming_dependencies_with_gradle_version_catalogs/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What&#39;s the best way of using external/jni functions in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gmfzd1/whats_the_best_way_of_using_externaljni_functions/)
 - [🔥 New features available in Inspektify 🔥](https://www.reddit.com/r/Kotlin/comments/1gmfct1/new_features_available_in_inspektify/)
 - [MichaelBull/Kotlin-Result - good idea or bad idea](https://www.reddit.com/r/Kotlin/comments/1gm03gj/michaelbullkotlinresult_good_idea_or_bad_idea/)
-- [Extension Shadowing for Actual Declarations in KMP](https://www.reddit.com/r/Kotlin/comments/1glueki/extension_shadowing_for_actual_declarations_in_kmp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
