@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Ktor] Advice on Password Security Best Practices](https://www.reddit.com/r/Kotlin/comments/1gp7ds6/ktor_advice_on_password_security_best_practices/)
+- [Is Kotlin good to go?](https://www.reddit.com/r/Kotlin/comments/1gp68ml/is_kotlin_good_to_go/)
+- [I&#39;ve tried to make a game with Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/1gp4yz6/ive_tried_to_make_a_game_with_compose_for_desktop/)
+- [Master IntelliJ: Must-Know Shortcuts for Developers](https://www.reddit.com/r/Kotlin/comments/1goy909/master_intellij_mustknow_shortcuts_for_developers/)
+- [Compilation speed](https://www.reddit.com/r/Kotlin/comments/1gox8hq/compilation_speed/)
+- [HELP](https://www.reddit.com/r/Kotlin/comments/1goqum1/help/)
 - [which one should I choose](https://www.reddit.com/r/Kotlin/comments/1goddr2/which_one_should_i_choose/)
 - [More idiomatic way to create randomly-sized chunks out a list of items?](https://www.reddit.com/r/Kotlin/comments/1gngneu/more_idiomatic_way_to_create_randomlysized_chunks/)
 - [How viable is Compose Multiplatform for web?](https://www.reddit.com/r/Kotlin/comments/1gnb3co/how_viable_is_compose_multiplatform_for_web/)
 - [Taming Dependencies with Gradle Version Catalogs](https://www.reddit.com/r/Kotlin/comments/1gn6bzd/taming_dependencies_with_gradle_version_catalogs/)
-- [Compiler plugin for K2](https://www.reddit.com/r/Kotlin/comments/1gmk2jz/compiler_plugin_for_k2/)
-- [Kotlin school assignment stuck](https://www.reddit.com/r/Kotlin/comments/1gmhqhl/kotlin_school_assignment_stuck/)
-- [is there a like server on discord for kotlin or android developers](https://www.reddit.com/r/Kotlin/comments/1gmhge3/is_there_a_like_server_on_discord_for_kotlin_or/)
-- [What&#39;s the best way of using external/jni functions in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gmfzd1/whats_the_best_way_of_using_externaljni_functions/)
-- [🔥 New features available in Inspektify 🔥](https://www.reddit.com/r/Kotlin/comments/1gmfct1/new_features_available_in_inspektify/)
-- [MichaelBull/Kotlin-Result - good idea or bad idea](https://www.reddit.com/r/Kotlin/comments/1gm03gj/michaelbullkotlinresult_good_idea_or_bad_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
