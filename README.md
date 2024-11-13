@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JVM Library Compatability](https://www.reddit.com/r/Kotlin/comments/1gpr627/jvm_library_compatability/)
+- [any courses for building backend](https://www.reddit.com/r/Kotlin/comments/1gpqqgb/any_courses_for_building_backend/)
+- [How to setup Notifications through firebase ?](https://www.reddit.com/r/Kotlin/comments/1gpp9j2/how_to_setup_notifications_through_firebase/)
+- [The best dispatcher for a backend framework in Kotlin](https://www.reddit.com/r/Kotlin/comments/1gphkda/the_best_dispatcher_for_a_backend_framework_in/)
 - [[Ktor] Advice on Password Security Best Practices](https://www.reddit.com/r/Kotlin/comments/1gp7ds6/ktor_advice_on_password_security_best_practices/)
 - [Is Kotlin good to go?](https://www.reddit.com/r/Kotlin/comments/1gp68ml/is_kotlin_good_to_go/)
 - [I&#39;ve tried to make a game with Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/1gp4yz6/ive_tried_to_make_a_game_with_compose_for_desktop/)
 - [Master IntelliJ: Must-Know Shortcuts for Developers](https://www.reddit.com/r/Kotlin/comments/1goy909/master_intellij_mustknow_shortcuts_for_developers/)
 - [Compilation speed](https://www.reddit.com/r/Kotlin/comments/1gox8hq/compilation_speed/)
 - [HELP](https://www.reddit.com/r/Kotlin/comments/1goqum1/help/)
-- [which one should I choose](https://www.reddit.com/r/Kotlin/comments/1goddr2/which_one_should_i_choose/)
-- [More idiomatic way to create randomly-sized chunks out a list of items?](https://www.reddit.com/r/Kotlin/comments/1gngneu/more_idiomatic_way_to_create_randomlysized_chunks/)
-- [How viable is Compose Multiplatform for web?](https://www.reddit.com/r/Kotlin/comments/1gnb3co/how_viable_is_compose_multiplatform_for_web/)
-- [Taming Dependencies with Gradle Version Catalogs](https://www.reddit.com/r/Kotlin/comments/1gn6bzd/taming_dependencies_with_gradle_version_catalogs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
