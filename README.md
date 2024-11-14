@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [String Initialization: What is the difference between String&lpar;&rpar; and &quot;&quot; at a low level?](https://www.reddit.com/r/Kotlin/comments/1gqiktx/string_initialization_what_is_the_difference/)
+- [KotlinPoet 2.0 is here!](https://www.reddit.com/r/Kotlin/comments/1gqhecz/kotlinpoet_20_is_here/)
+- [A Micro-optimization You Will Never Need](https://www.reddit.com/r/Kotlin/comments/1gqhdj2/a_microoptimization_you_will_never_need/)
+- [Video - Fun with Function Types](https://www.reddit.com/r/Kotlin/comments/1gqg6h1/video_fun_with_function_types/)
+- [Kotlin Multi-platform &lpar;KMP&rpar; vs. Flutter? Help me choose the right framework for cross-platform development](https://www.reddit.com/r/Kotlin/comments/1gqevyy/kotlin_multiplatform_kmp_vs_flutter_help_me/)
+- [I&#39;m about to start my android app developer learning journey, but got really overwhelmed where shall I start. Can you recommend any resources, coursea or books?](https://www.reddit.com/r/Kotlin/comments/1gqeevx/im_about_to_start_my_android_app_developer/)
+- [Has Kotlin become boring for you?](https://www.reddit.com/r/Kotlin/comments/1gq7zwg/has_kotlin_become_boring_for_you/)
+- [Why can&#39;t I run this sample Kotlin file?](https://www.reddit.com/r/Kotlin/comments/1gq3ead/why_cant_i_run_this_sample_kotlin_file/)
+- [Functional Conf 2025 accepting Kotlin proposals - submission deadline 17 November](https://www.reddit.com/r/Kotlin/comments/1gq2psq/functional_conf_2025_accepting_kotlin_proposals/)
 - [JVM Library Compatability](https://www.reddit.com/r/Kotlin/comments/1gpr627/jvm_library_compatability/)
-- [any courses for building backend](https://www.reddit.com/r/Kotlin/comments/1gpqqgb/any_courses_for_building_backend/)
-- [How to setup Notifications through firebase ?](https://www.reddit.com/r/Kotlin/comments/1gpp9j2/how_to_setup_notifications_through_firebase/)
-- [The best dispatcher for a backend framework in Kotlin](https://www.reddit.com/r/Kotlin/comments/1gphkda/the_best_dispatcher_for_a_backend_framework_in/)
-- [[Ktor] Advice on Password Security Best Practices](https://www.reddit.com/r/Kotlin/comments/1gp7ds6/ktor_advice_on_password_security_best_practices/)
-- [Is Kotlin good to go?](https://www.reddit.com/r/Kotlin/comments/1gp68ml/is_kotlin_good_to_go/)
-- [I&#39;ve tried to make a game with Compose for Desktop](https://www.reddit.com/r/Kotlin/comments/1gp4yz6/ive_tried_to_make_a_game_with_compose_for_desktop/)
-- [Master IntelliJ: Must-Know Shortcuts for Developers](https://www.reddit.com/r/Kotlin/comments/1goy909/master_intellij_mustknow_shortcuts_for_developers/)
-- [Compilation speed](https://www.reddit.com/r/Kotlin/comments/1gox8hq/compilation_speed/)
-- [HELP](https://www.reddit.com/r/Kotlin/comments/1goqum1/help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
