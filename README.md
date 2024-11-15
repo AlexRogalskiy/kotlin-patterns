@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [???????](https://www.reddit.com/r/Kotlin/comments/1grhxsz/_/)
+- [Hardware Development with KMP and Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1grhx5n/hardware_development_with_kmp_and_compose/)
+- [Anyone interested in collaborating on Kotlin support for the Mill build tool?](https://www.reddit.com/r/Kotlin/comments/1greli9/anyone_interested_in_collaborating_on_kotlin/)
+- [How much Java knowledge needed](https://www.reddit.com/r/Kotlin/comments/1gr5nz8/how_much_java_knowledge_needed/)
+- [Very slow syntax highlighting](https://www.reddit.com/r/Kotlin/comments/1gr5c4z/very_slow_syntax_highlighting/)
+- [DTO and Entity pattern](https://www.reddit.com/r/Kotlin/comments/1gqvaz5/dto_and_entity_pattern/)
 - [String Initialization: What is the difference between String&lpar;&rpar; and &quot;&quot; at a low level?](https://www.reddit.com/r/Kotlin/comments/1gqiktx/string_initialization_what_is_the_difference/)
 - [KotlinPoet 2.0 is here!](https://www.reddit.com/r/Kotlin/comments/1gqhecz/kotlinpoet_20_is_here/)
 - [A Micro-optimization You Will Never Need](https://www.reddit.com/r/Kotlin/comments/1gqhdj2/a_microoptimization_you_will_never_need/)
 - [Video - Fun with Function Types](https://www.reddit.com/r/Kotlin/comments/1gqg6h1/video_fun_with_function_types/)
-- [Kotlin Multi-platform &lpar;KMP&rpar; vs. Flutter? Help me choose the right framework for cross-platform development](https://www.reddit.com/r/Kotlin/comments/1gqevyy/kotlin_multiplatform_kmp_vs_flutter_help_me/)
-- [I&#39;m about to start my android app developer learning journey, but got really overwhelmed where shall I start. Can you recommend any resources, coursea or books?](https://www.reddit.com/r/Kotlin/comments/1gqeevx/im_about_to_start_my_android_app_developer/)
-- [Has Kotlin become boring for you?](https://www.reddit.com/r/Kotlin/comments/1gq7zwg/has_kotlin_become_boring_for_you/)
-- [Why can&#39;t I run this sample Kotlin file?](https://www.reddit.com/r/Kotlin/comments/1gq3ead/why_cant_i_run_this_sample_kotlin_file/)
-- [Functional Conf 2025 accepting Kotlin proposals - submission deadline 17 November](https://www.reddit.com/r/Kotlin/comments/1gq2psq/functional_conf_2025_accepting_kotlin_proposals/)
-- [JVM Library Compatability](https://www.reddit.com/r/Kotlin/comments/1gpr627/jvm_library_compatability/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
