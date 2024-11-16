@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How can I make a fragment automatically pop up when starting an activity?](https://www.reddit.com/r/Kotlin/comments/1gsasrs/how_can_i_make_a_fragment_automatically_pop_up/)
+- [Wrote an article on how to implement user auth with Ktor, thought it might be useful](https://www.reddit.com/r/Kotlin/comments/1gs3u20/wrote_an_article_on_how_to_implement_user_auth/)
+- [Type widening on Collection generics](https://www.reddit.com/r/Kotlin/comments/1gs2wzr/type_widening_on_collection_generics/)
+- [Understanding Gradle](https://www.reddit.com/r/Kotlin/comments/1grtikf/understanding_gradle/)
+- [How to Quickly Heat Up an Android Device for a &quot;Defroster&quot; App?](https://www.reddit.com/r/Kotlin/comments/1grtcc7/how_to_quickly_heat_up_an_android_device_for_a/)
+- [&quot;ThinkPad + m4 Mac Mini or m3 MacBook Air for KMP](https://www.reddit.com/r/Kotlin/comments/1grs8n5/thinkpad_m4_mac_mini_or_m3_macbook_air_for_kmp/)
+- [Migrating a Spring Boot backend to Ktor](https://www.reddit.com/r/Kotlin/comments/1grrk89/migrating_a_spring_boot_backend_to_ktor/)
 - [???????](https://www.reddit.com/r/Kotlin/comments/1grhxsz/_/)
 - [Hardware Development with KMP and Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1grhx5n/hardware_development_with_kmp_and_compose/)
 - [Anyone interested in collaborating on Kotlin support for the Mill build tool?](https://www.reddit.com/r/Kotlin/comments/1greli9/anyone_interested_in_collaborating_on_kotlin/)
-- [How much Java knowledge needed](https://www.reddit.com/r/Kotlin/comments/1gr5nz8/how_much_java_knowledge_needed/)
-- [Very slow syntax highlighting](https://www.reddit.com/r/Kotlin/comments/1gr5c4z/very_slow_syntax_highlighting/)
-- [DTO and Entity pattern](https://www.reddit.com/r/Kotlin/comments/1gqvaz5/dto_and_entity_pattern/)
-- [String Initialization: What is the difference between String&lpar;&rpar; and &quot;&quot; at a low level?](https://www.reddit.com/r/Kotlin/comments/1gqiktx/string_initialization_what_is_the_difference/)
-- [KotlinPoet 2.0 is here!](https://www.reddit.com/r/Kotlin/comments/1gqhecz/kotlinpoet_20_is_here/)
-- [A Micro-optimization You Will Never Need](https://www.reddit.com/r/Kotlin/comments/1gqhdj2/a_microoptimization_you_will_never_need/)
-- [Video - Fun with Function Types](https://www.reddit.com/r/Kotlin/comments/1gqg6h1/video_fun_with_function_types/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
