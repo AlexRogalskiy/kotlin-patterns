@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [P100Y of ISO-litude: a Duration&#39;s tale of acceptance](https://www.reddit.com/r/Kotlin/comments/1gswydj/p100y_of_isolitude_a_durations_tale_of_acceptance/)
+- [Firework: Introducing Compose Hot Reload](https://www.reddit.com/r/Kotlin/comments/1gstke6/firework_introducing_compose_hot_reload/)
 - [How can I make a fragment automatically pop up when starting an activity?](https://www.reddit.com/r/Kotlin/comments/1gsasrs/how_can_i_make_a_fragment_automatically_pop_up/)
 - [Wrote an article on how to implement user auth with Ktor, thought it might be useful](https://www.reddit.com/r/Kotlin/comments/1gs3u20/wrote_an_article_on_how_to_implement_user_auth/)
 - [Type widening on Collection generics](https://www.reddit.com/r/Kotlin/comments/1gs2wzr/type_widening_on_collection_generics/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [&quot;ThinkPad + m4 Mac Mini or m3 MacBook Air for KMP](https://www.reddit.com/r/Kotlin/comments/1grs8n5/thinkpad_m4_mac_mini_or_m3_macbook_air_for_kmp/)
 - [Migrating a Spring Boot backend to Ktor](https://www.reddit.com/r/Kotlin/comments/1grrk89/migrating_a_spring_boot_backend_to_ktor/)
 - [???????](https://www.reddit.com/r/Kotlin/comments/1grhxsz/_/)
-- [Hardware Development with KMP and Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1grhx5n/hardware_development_with_kmp_and_compose/)
-- [Anyone interested in collaborating on Kotlin support for the Mill build tool?](https://www.reddit.com/r/Kotlin/comments/1greli9/anyone_interested_in_collaborating_on_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
