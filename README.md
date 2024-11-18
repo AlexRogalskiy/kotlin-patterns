@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need advice for my project architecture: personal health record for dog owners](https://www.reddit.com/r/Kotlin/comments/1gtrklf/need_advice_for_my_project_architecture_personal/)
+- [How to create a Kotlin audio book app](https://www.reddit.com/r/Kotlin/comments/1gtgp2y/how_to_create_a_kotlin_audio_book_app/)
+- [College student required for personal Kotlin project?](https://www.reddit.com/r/Kotlin/comments/1gtesvy/college_student_required_for_personal_kotlin/)
+- [Starting](https://www.reddit.com/r/Kotlin/comments/1gtb5zx/starting/)
+- [🚀 Kotools Samples 0.1.0 is available!](https://www.reddit.com/r/Kotlin/comments/1gtb1fp/kotools_samples_010_is_available/)
+- [Coroutine viable to escape transaction context?](https://www.reddit.com/r/Kotlin/comments/1gta7jn/coroutine_viable_to_escape_transaction_context/)
 - [P100Y of ISO-litude: a Duration&#39;s tale of acceptance](https://www.reddit.com/r/Kotlin/comments/1gswydj/p100y_of_isolitude_a_durations_tale_of_acceptance/)
 - [Firework: Introducing Compose Hot Reload](https://www.reddit.com/r/Kotlin/comments/1gstke6/firework_introducing_compose_hot_reload/)
 - [How can I make a fragment automatically pop up when starting an activity?](https://www.reddit.com/r/Kotlin/comments/1gsasrs/how_can_i_make_a_fragment_automatically_pop_up/)
 - [Wrote an article on how to implement user auth with Ktor, thought it might be useful](https://www.reddit.com/r/Kotlin/comments/1gs3u20/wrote_an_article_on_how_to_implement_user_auth/)
-- [Type widening on Collection generics](https://www.reddit.com/r/Kotlin/comments/1gs2wzr/type_widening_on_collection_generics/)
-- [Understanding Gradle](https://www.reddit.com/r/Kotlin/comments/1grtikf/understanding_gradle/)
-- [How to Quickly Heat Up an Android Device for a &quot;Defroster&quot; App?](https://www.reddit.com/r/Kotlin/comments/1grtcc7/how_to_quickly_heat_up_an_android_device_for_a/)
-- [&quot;ThinkPad + m4 Mac Mini or m3 MacBook Air for KMP](https://www.reddit.com/r/Kotlin/comments/1grs8n5/thinkpad_m4_mac_mini_or_m3_macbook_air_for_kmp/)
-- [Migrating a Spring Boot backend to Ktor](https://www.reddit.com/r/Kotlin/comments/1grrk89/migrating_a_spring_boot_backend_to_ktor/)
-- [???????](https://www.reddit.com/r/Kotlin/comments/1grhxsz/_/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
