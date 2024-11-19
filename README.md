@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Kotlin Multiplatform killing Flutter?! | Kotlin Multiplatform vs Flutter](https://www.reddit.com/r/Kotlin/comments/1guappk/is_kotlin_multiplatform_killing_flutter_kotlin/)
+- [writing a class is not recognize as a runnabe code](https://www.reddit.com/r/Kotlin/comments/1guafvx/writing_a_class_is_not_recognize_as_a_runnabe_code/)
+- [K2 Mode Becomes Stable](https://www.reddit.com/r/Kotlin/comments/1gu7jxr/k2_mode_becomes_stable/)
+- [KotlinConf is the world’s biggest Kotlin conference, happening in Copenhagen from May 21-23, 2025, and we want YOU to speak there 🎙️](https://www.reddit.com/r/Kotlin/comments/1gu7iz2/kotlinconf_is_the_worlds_biggest_kotlin/)
+- [5 Tips for Structured Logging in Spring Boot 3.4](https://www.reddit.com/r/Kotlin/comments/1gu3873/5_tips_for_structured_logging_in_spring_boot_34/)
+- [Evaluation language in kotlin](https://www.reddit.com/r/Kotlin/comments/1gtzdev/evaluation_language_in_kotlin/)
 - [Need advice for my project architecture: personal health record for dog owners](https://www.reddit.com/r/Kotlin/comments/1gtrklf/need_advice_for_my_project_architecture_personal/)
 - [How to create a Kotlin audio book app](https://www.reddit.com/r/Kotlin/comments/1gtgp2y/how_to_create_a_kotlin_audio_book_app/)
 - [College student required for personal Kotlin project?](https://www.reddit.com/r/Kotlin/comments/1gtesvy/college_student_required_for_personal_kotlin/)
 - [Starting](https://www.reddit.com/r/Kotlin/comments/1gtb5zx/starting/)
-- [🚀 Kotools Samples 0.1.0 is available!](https://www.reddit.com/r/Kotlin/comments/1gtb1fp/kotools_samples_010_is_available/)
-- [Coroutine viable to escape transaction context?](https://www.reddit.com/r/Kotlin/comments/1gta7jn/coroutine_viable_to_escape_transaction_context/)
-- [P100Y of ISO-litude: a Duration&#39;s tale of acceptance](https://www.reddit.com/r/Kotlin/comments/1gswydj/p100y_of_isolitude_a_durations_tale_of_acceptance/)
-- [Firework: Introducing Compose Hot Reload](https://www.reddit.com/r/Kotlin/comments/1gstke6/firework_introducing_compose_hot_reload/)
-- [How can I make a fragment automatically pop up when starting an activity?](https://www.reddit.com/r/Kotlin/comments/1gsasrs/how_can_i_make_a_fragment_automatically_pop_up/)
-- [Wrote an article on how to implement user auth with Ktor, thought it might be useful](https://www.reddit.com/r/Kotlin/comments/1gs3u20/wrote_an_article_on_how_to_implement_user_auth/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
