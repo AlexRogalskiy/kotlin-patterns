@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Purchasing power parity based pricing automation for app store and play store](https://www.reddit.com/r/Kotlin/comments/1gv86ij/purchasing_power_parity_based_pricing_automation/)
+- [State of Kotlin Scripting 2024](https://www.reddit.com/r/Kotlin/comments/1gv4j8j/state_of_kotlin_scripting_2024/)
+- [Kotlin Language](https://www.reddit.com/r/Kotlin/comments/1gv3wci/kotlin_language/)
+- [Representing ViewModel events with StateFlow vs. SharedFlow vs. Channel](https://www.reddit.com/r/Kotlin/comments/1gurx2v/representing_viewmodel_events_with_stateflow_vs/)
 - [Is Kotlin Multiplatform killing Flutter?! | Kotlin Multiplatform vs Flutter](https://www.reddit.com/r/Kotlin/comments/1guappk/is_kotlin_multiplatform_killing_flutter_kotlin/)
 - [writing a class is not recognize as a runnabe code](https://www.reddit.com/r/Kotlin/comments/1guafvx/writing_a_class_is_not_recognize_as_a_runnabe_code/)
 - [K2 Mode Becomes Stable](https://www.reddit.com/r/Kotlin/comments/1gu7jxr/k2_mode_becomes_stable/)
 - [KotlinConf is the world’s biggest Kotlin conference, happening in Copenhagen from May 21-23, 2025, and we want YOU to speak there 🎙️](https://www.reddit.com/r/Kotlin/comments/1gu7iz2/kotlinconf_is_the_worlds_biggest_kotlin/)
 - [5 Tips for Structured Logging in Spring Boot 3.4](https://www.reddit.com/r/Kotlin/comments/1gu3873/5_tips_for_structured_logging_in_spring_boot_34/)
 - [Evaluation language in kotlin](https://www.reddit.com/r/Kotlin/comments/1gtzdev/evaluation_language_in_kotlin/)
-- [Need advice for my project architecture: personal health record for dog owners](https://www.reddit.com/r/Kotlin/comments/1gtrklf/need_advice_for_my_project_architecture_personal/)
-- [How to create a Kotlin audio book app](https://www.reddit.com/r/Kotlin/comments/1gtgp2y/how_to_create_a_kotlin_audio_book_app/)
-- [College student required for personal Kotlin project?](https://www.reddit.com/r/Kotlin/comments/1gtesvy/college_student_required_for_personal_kotlin/)
-- [Starting](https://www.reddit.com/r/Kotlin/comments/1gtb5zx/starting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
