@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the state of Kotlin for data science/MLOps applications](https://www.reddit.com/r/Kotlin/comments/1gxkykp/what_is_the_state_of_kotlin_for_data_sciencemlops/)
+- [Tidy First Kotlin - Removing Redundant Code](https://www.reddit.com/r/Kotlin/comments/1gx9nj5/tidy_first_kotlin_removing_redundant_code/)
+- [Interview with Kotlin lead designer: How far will the language diverge from Java?](https://www.reddit.com/r/Kotlin/comments/1gx8jw8/interview_with_kotlin_lead_designer_how_far_will/)
+- [Latest Versions of Android Studio Unstable](https://www.reddit.com/r/Kotlin/comments/1gx6y8j/latest_versions_of_android_studio_unstable/)
+- [JS/Compose/KMP Kotlin Script editor?](https://www.reddit.com/r/Kotlin/comments/1gx6kap/jscomposekmp_kotlin_script_editor/)
 - [Maintain State and Pass Around Objects Between Activities](https://www.reddit.com/r/Kotlin/comments/1gwr7ym/maintain_state_and_pass_around_objects_between/)
 - [November 2024: the state of Kotlin scripting](https://www.reddit.com/r/Kotlin/comments/1gwip3t/november_2024_the_state_of_kotlin_scripting/)
 - [Another approach to Kotlin Scripting](https://www.reddit.com/r/Kotlin/comments/1gwfolj/another_approach_to_kotlin_scripting/)
 - [Kotlin 2.1 Livestream with the Language Evolution Team, Nov 28, 16:00 UTC](https://www.reddit.com/r/Kotlin/comments/1gwdq91/kotlin_21_livestream_with_the_language_evolution/)
 - [How Minekube launched 10 language SDKs within 1 day.](https://www.reddit.com/r/Kotlin/comments/1gvubdh/how_minekube_launched_10_language_sdks_within_1/)
-- [Functional Programming in Kotlin](https://www.reddit.com/r/Kotlin/comments/1gvu1l4/functional_programming_in_kotlin/)
-- [Anonymous Functions != Lambdas](https://www.reddit.com/r/Kotlin/comments/1gvstkl/anonymous_functions_lambdas/)
-- [I&#39;ve tried to make a small DSL for computational statistics](https://www.reddit.com/r/Kotlin/comments/1gvrzv7/ive_tried_to_make_a_small_dsl_for_computational/)
-- [Purchasing power parity based pricing automation for app store and play store](https://www.reddit.com/r/Kotlin/comments/1gv86ij/purchasing_power_parity_based_pricing_automation/)
-- [State of Kotlin Scripting 2024](https://www.reddit.com/r/Kotlin/comments/1gv4j8j/state_of_kotlin_scripting_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
