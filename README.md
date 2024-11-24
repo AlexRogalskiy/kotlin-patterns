@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Use SwiftUI for Mac with Kotlin Multiplatform instead of Compose](https://www.reddit.com/r/Kotlin/comments/1gyb997/use_swiftui_for_mac_with_kotlin_multiplatform/)
+- [Have you ever developed something scientific with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gy6rqn/have_you_ever_developed_something_scientific_with/)
 - [What is the state of Kotlin for data science/MLOps applications](https://www.reddit.com/r/Kotlin/comments/1gxkykp/what_is_the_state_of_kotlin_for_data_sciencemlops/)
 - [Tidy First Kotlin - Removing Redundant Code](https://www.reddit.com/r/Kotlin/comments/1gx9nj5/tidy_first_kotlin_removing_redundant_code/)
 - [Interview with Kotlin lead designer: How far will the language diverge from Java?](https://www.reddit.com/r/Kotlin/comments/1gx8jw8/interview_with_kotlin_lead_designer_how_far_will/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Maintain State and Pass Around Objects Between Activities](https://www.reddit.com/r/Kotlin/comments/1gwr7ym/maintain_state_and_pass_around_objects_between/)
 - [November 2024: the state of Kotlin scripting](https://www.reddit.com/r/Kotlin/comments/1gwip3t/november_2024_the_state_of_kotlin_scripting/)
 - [Another approach to Kotlin Scripting](https://www.reddit.com/r/Kotlin/comments/1gwfolj/another_approach_to_kotlin_scripting/)
-- [Kotlin 2.1 Livestream with the Language Evolution Team, Nov 28, 16:00 UTC](https://www.reddit.com/r/Kotlin/comments/1gwdq91/kotlin_21_livestream_with_the_language_evolution/)
-- [How Minekube launched 10 language SDKs within 1 day.](https://www.reddit.com/r/Kotlin/comments/1gvubdh/how_minekube_launched_10_language_sdks_within_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
