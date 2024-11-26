@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which Averaging Algorithm Below Do You Prefer And Why?](https://www.reddit.com/r/Kotlin/comments/1gzyviq/which_averaging_algorithm_below_do_you_prefer_and/)
+- [Learn Kotlin as an iOS Dev](https://www.reddit.com/r/Kotlin/comments/1gzsfcj/learn_kotlin_as_an_ios_dev/)
+- [US Department of Justice Possible Android Sale: What It Means for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gzps1z/us_department_of_justice_possible_android_sale/)
+- [Variable Expected on ThemeConfig](https://www.reddit.com/r/Kotlin/comments/1gzk6cl/variable_expected_on_themeconfig/)
+- [I made my own website using Kotlin/WASM](https://www.reddit.com/r/Kotlin/comments/1gzjxh1/i_made_my_own_website_using_kotlinwasm/)
+- [Let&#39;s Build a Game with Jetpack Compose! &lpar;Kotlin Multiplatform&rpar;](https://www.reddit.com/r/Kotlin/comments/1gziiz7/lets_build_a_game_with_jetpack_compose_kotlin/)
+- [Front end or Back end?](https://www.reddit.com/r/Kotlin/comments/1gzg5l6/front_end_or_back_end/)
+- [Have you guys used Pytorch model in Kotlin based Android app? Please suggest me how to do this. I couldn&#39;t understand whatever documentation is available.](https://www.reddit.com/r/Kotlin/comments/1gz9tdf/have_you_guys_used_pytorch_model_in_kotlin_based/)
 - [Kotlin Multiplatform Mobile: The Future of Cross-Platform Mobile Development](https://www.reddit.com/r/Kotlin/comments/1gz7tmk/kotlin_multiplatform_mobile_the_future_of/)
 - [How are Coroutines actually implemented in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gz2wgx/how_are_coroutines_actually_implemented_in_kotlin/)
-- [The Ultimate Gradle Kotlin Beginner’s Crash Course for 2025](https://www.reddit.com/r/Kotlin/comments/1gypkp7/the_ultimate_gradle_kotlin_beginners_crash_course/)
-- [Help please with this!](https://www.reddit.com/r/Kotlin/comments/1gyoyab/help_please_with_this/)
-- [sqlx4k: A high-performance, non-blocking database driver for PostgreSQL, MySQL, and SQLite, written for Kotlin Native.](https://www.reddit.com/r/Kotlin/comments/1gynita/sqlx4k_a_highperformance_nonblocking_database/)
-- [Use SwiftUI for Mac with Kotlin Multiplatform instead of Compose](https://www.reddit.com/r/Kotlin/comments/1gyb997/use_swiftui_for_mac_with_kotlin_multiplatform/)
-- [Have you ever developed something scientific with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gy6rqn/have_you_ever_developed_something_scientific_with/)
-- [What is the state of Kotlin for data science/MLOps applications](https://www.reddit.com/r/Kotlin/comments/1gxkykp/what_is_the_state_of_kotlin_for_data_sciencemlops/)
-- [Tidy First Kotlin - Removing Redundant Code](https://www.reddit.com/r/Kotlin/comments/1gx9nj5/tidy_first_kotlin_removing_redundant_code/)
-- [Interview with Kotlin lead designer: How far will the language diverge from Java?](https://www.reddit.com/r/Kotlin/comments/1gx8jw8/interview_with_kotlin_lead_designer_how_far_will/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
