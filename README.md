@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Syntax Highlighting Issue](https://www.reddit.com/r/Kotlin/comments/1h0kuww/syntax_highlighting_issue/)
+- [Kotlin api-wrapper for llm-inference chatllm.cpp](https://www.reddit.com/r/Kotlin/comments/1h0fz7d/kotlin_apiwrapper_for_llminference_chatllmcpp/)
+- [Kotlin Roundup: Kodee’s Top Picks](https://www.reddit.com/r/Kotlin/comments/1h0couy/kotlin_roundup_kodees_top_picks/)
+- [Using React Typescript with a Kotlin backend and shared modules](https://www.reddit.com/r/Kotlin/comments/1h092fx/using_react_typescript_with_a_kotlin_backend_and/)
+- [Optimization, Step by Step](https://www.reddit.com/r/Kotlin/comments/1h08xd2/optimization_step_by_step/)
+- [Is it a good idea to use kotlin as backend for an e-commerce shop website?](https://www.reddit.com/r/Kotlin/comments/1h07kom/is_it_a_good_idea_to_use_kotlin_as_backend_for_an/)
+- [How do you guys generate Kotlin clients out of an OpenAPI schema?](https://www.reddit.com/r/Kotlin/comments/1h07cos/how_do_you_guys_generate_kotlin_clients_out_of_an/)
 - [Which Averaging Algorithm Below Do You Prefer And Why?](https://www.reddit.com/r/Kotlin/comments/1gzyviq/which_averaging_algorithm_below_do_you_prefer_and/)
 - [Learn Kotlin as an iOS Dev](https://www.reddit.com/r/Kotlin/comments/1gzsfcj/learn_kotlin_as_an_ios_dev/)
 - [US Department of Justice Possible Android Sale: What It Means for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gzps1z/us_department_of_justice_possible_android_sale/)
-- [Variable Expected on ThemeConfig](https://www.reddit.com/r/Kotlin/comments/1gzk6cl/variable_expected_on_themeconfig/)
-- [I made my own website using Kotlin/WASM](https://www.reddit.com/r/Kotlin/comments/1gzjxh1/i_made_my_own_website_using_kotlinwasm/)
-- [Let&#39;s Build a Game with Jetpack Compose! &lpar;Kotlin Multiplatform&rpar;](https://www.reddit.com/r/Kotlin/comments/1gziiz7/lets_build_a_game_with_jetpack_compose_kotlin/)
-- [Front end or Back end?](https://www.reddit.com/r/Kotlin/comments/1gzg5l6/front_end_or_back_end/)
-- [Have you guys used Pytorch model in Kotlin based Android app? Please suggest me how to do this. I couldn&#39;t understand whatever documentation is available.](https://www.reddit.com/r/Kotlin/comments/1gz9tdf/have_you_guys_used_pytorch_model_in_kotlin_based/)
-- [Kotlin Multiplatform Mobile: The Future of Cross-Platform Mobile Development](https://www.reddit.com/r/Kotlin/comments/1gz7tmk/kotlin_multiplatform_mobile_the_future_of/)
-- [How are Coroutines actually implemented in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gz2wgx/how_are_coroutines_actually_implemented_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
