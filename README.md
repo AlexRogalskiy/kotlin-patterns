@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Languages speed comparison](https://www.reddit.com/r/Kotlin/comments/1h1d54o/languages_speed_comparison/)
+- [Excited to Share my updates for Gestalt - A Modular and Extensible Configuration Library for Java!](https://www.reddit.com/r/Kotlin/comments/1h1agu1/excited_to_share_my_updates_for_gestalt_a_modular/)
+- [Two-person audio conversation generated from Kotlin documentation](https://www.reddit.com/r/Kotlin/comments/1h19kxy/twoperson_audio_conversation_generated_from/)
+- [android studio UI not rendering an EXISTING WORKING XML](https://www.reddit.com/r/Kotlin/comments/1h18xb8/android_studio_ui_not_rendering_an_existing/)
+- [What Backend Skills in Kotlin Were Game-Changers for You?](https://www.reddit.com/r/Kotlin/comments/1h18vu9/what_backend_skills_in_kotlin_were_gamechangers/)
+- [Kotlin 2.1.0 Released](https://www.reddit.com/r/Kotlin/comments/1h18nzy/kotlin_210_released/)
+- [Ktor 3.0.1 is now available!](https://www.reddit.com/r/Kotlin/comments/1h12r9a/ktor_301_is_now_available/)
 - [Syntax Highlighting Issue](https://www.reddit.com/r/Kotlin/comments/1h0kuww/syntax_highlighting_issue/)
 - [Kotlin api-wrapper for llm-inference chatllm.cpp](https://www.reddit.com/r/Kotlin/comments/1h0fz7d/kotlin_apiwrapper_for_llminference_chatllmcpp/)
 - [Kotlin Roundup: Kodee’s Top Picks](https://www.reddit.com/r/Kotlin/comments/1h0couy/kotlin_roundup_kodees_top_picks/)
-- [Using React Typescript with a Kotlin backend and shared modules](https://www.reddit.com/r/Kotlin/comments/1h092fx/using_react_typescript_with_a_kotlin_backend_and/)
-- [Optimization, Step by Step](https://www.reddit.com/r/Kotlin/comments/1h08xd2/optimization_step_by_step/)
-- [Is it a good idea to use kotlin as backend for an e-commerce shop website?](https://www.reddit.com/r/Kotlin/comments/1h07kom/is_it_a_good_idea_to_use_kotlin_as_backend_for_an/)
-- [How do you guys generate Kotlin clients out of an OpenAPI schema?](https://www.reddit.com/r/Kotlin/comments/1h07cos/how_do_you_guys_generate_kotlin_clients_out_of_an/)
-- [Which Averaging Algorithm Below Do You Prefer And Why?](https://www.reddit.com/r/Kotlin/comments/1gzyviq/which_averaging_algorithm_below_do_you_prefer_and/)
-- [Learn Kotlin as an iOS Dev](https://www.reddit.com/r/Kotlin/comments/1gzsfcj/learn_kotlin_as_an_ios_dev/)
-- [US Department of Justice Possible Android Sale: What It Means for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1gzps1z/us_department_of_justice_possible_android_sale/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
