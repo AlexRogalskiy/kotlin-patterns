@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Robolectric in commonTest](https://www.reddit.com/r/Kotlin/comments/1h25ue2/robolectric_in_commontest/)
+- [Reference projects for ktor?](https://www.reddit.com/r/Kotlin/comments/1h1y7fj/reference_projects_for_ktor/)
+- [KotlinConf 2025 Black Friday Special](https://www.reddit.com/r/Kotlin/comments/1h1vqje/kotlinconf_2025_black_friday_special/)
+- [log4k: A Comprehensive Logging and Tracing Solution for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1h1qkrl/log4k_a_comprehensive_logging_and_tracing/)
 - [Languages speed comparison](https://www.reddit.com/r/Kotlin/comments/1h1d54o/languages_speed_comparison/)
 - [Excited to Share my updates for Gestalt - A Modular and Extensible Configuration Library for Java!](https://www.reddit.com/r/Kotlin/comments/1h1agu1/excited_to_share_my_updates_for_gestalt_a_modular/)
-- [Two-person audio conversation generated from Kotlin documentation](https://www.reddit.com/r/Kotlin/comments/1h19kxy/twoperson_audio_conversation_generated_from/)
 - [android studio UI not rendering an EXISTING WORKING XML](https://www.reddit.com/r/Kotlin/comments/1h18xb8/android_studio_ui_not_rendering_an_existing/)
 - [What Backend Skills in Kotlin Were Game-Changers for You?](https://www.reddit.com/r/Kotlin/comments/1h18vu9/what_backend_skills_in_kotlin_were_gamechangers/)
 - [Kotlin 2.1.0 Released](https://www.reddit.com/r/Kotlin/comments/1h18nzy/kotlin_210_released/)
 - [Ktor 3.0.1 is now available!](https://www.reddit.com/r/Kotlin/comments/1h12r9a/ktor_301_is_now_available/)
-- [Syntax Highlighting Issue](https://www.reddit.com/r/Kotlin/comments/1h0kuww/syntax_highlighting_issue/)
-- [Kotlin api-wrapper for llm-inference chatllm.cpp](https://www.reddit.com/r/Kotlin/comments/1h0fz7d/kotlin_apiwrapper_for_llminference_chatllmcpp/)
-- [Kotlin Roundup: Kodee’s Top Picks](https://www.reddit.com/r/Kotlin/comments/1h0couy/kotlin_roundup_kodees_top_picks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
