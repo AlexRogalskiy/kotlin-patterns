@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [When to start using coroutines &lpar;and threads&rpar;?](https://www.reddit.com/r/Kotlin/comments/1h2tb7a/when_to_start_using_coroutines_and_threads/)
+- [Function Properties in Data Classes are Code Smells](https://www.reddit.com/r/Kotlin/comments/1h2q1n6/function_properties_in_data_classes_are_code/)
+- [Testcontainers, Postgres, Kotlin](https://www.reddit.com/r/Kotlin/comments/1h2m8xg/testcontainers_postgres_kotlin/)
+- [Is there a way to run a node.js module with ktor?](https://www.reddit.com/r/Kotlin/comments/1h2kzyr/is_there_a_way_to_run_a_nodejs_module_with_ktor/)
+- [Migrating Multi-Module Android Project to KMP While Preserving Modularity?](https://www.reddit.com/r/Kotlin/comments/1h2jv26/migrating_multimodule_android_project_to_kmp/)
+- [Kotlin 2.1 Livestream with the Language Evolution Team](https://www.reddit.com/r/Kotlin/comments/1h2jfo9/kotlin_21_livestream_with_the_language_evolution/)
 - [Robolectric in commonTest](https://www.reddit.com/r/Kotlin/comments/1h25ue2/robolectric_in_commontest/)
 - [Reference projects for ktor?](https://www.reddit.com/r/Kotlin/comments/1h1y7fj/reference_projects_for_ktor/)
 - [KotlinConf 2025 Black Friday Special](https://www.reddit.com/r/Kotlin/comments/1h1vqje/kotlinconf_2025_black_friday_special/)
 - [log4k: A Comprehensive Logging and Tracing Solution for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1h1qkrl/log4k_a_comprehensive_logging_and_tracing/)
-- [Languages speed comparison](https://www.reddit.com/r/Kotlin/comments/1h1d54o/languages_speed_comparison/)
-- [Excited to Share my updates for Gestalt - A Modular and Extensible Configuration Library for Java!](https://www.reddit.com/r/Kotlin/comments/1h1agu1/excited_to_share_my_updates_for_gestalt_a_modular/)
-- [android studio UI not rendering an EXISTING WORKING XML](https://www.reddit.com/r/Kotlin/comments/1h18xb8/android_studio_ui_not_rendering_an_existing/)
-- [What Backend Skills in Kotlin Were Game-Changers for You?](https://www.reddit.com/r/Kotlin/comments/1h18vu9/what_backend_skills_in_kotlin_were_gamechangers/)
-- [Kotlin 2.1.0 Released](https://www.reddit.com/r/Kotlin/comments/1h18nzy/kotlin_210_released/)
-- [Ktor 3.0.1 is now available!](https://www.reddit.com/r/Kotlin/comments/1h12r9a/ktor_301_is_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
