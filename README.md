@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [When to start using coroutines &lpar;and threads&rpar;?](https://www.reddit.com/r/Kotlin/comments/1h2tb7a/when_to_start_using_coroutines_and_threads/)
-- [Function Properties in Data Classes are Code Smells](https://www.reddit.com/r/Kotlin/comments/1h2q1n6/function_properties_in_data_classes_are_code/)
-- [Testcontainers, Postgres, Kotlin](https://www.reddit.com/r/Kotlin/comments/1h2m8xg/testcontainers_postgres_kotlin/)
-- [Is there a way to run a node.js module with ktor?](https://www.reddit.com/r/Kotlin/comments/1h2kzyr/is_there_a_way_to_run_a_nodejs_module_with_ktor/)
-- [Migrating Multi-Module Android Project to KMP While Preserving Modularity?](https://www.reddit.com/r/Kotlin/comments/1h2jv26/migrating_multimodule_android_project_to_kmp/)
-- [Kotlin 2.1 Livestream with the Language Evolution Team](https://www.reddit.com/r/Kotlin/comments/1h2jfo9/kotlin_21_livestream_with_the_language_evolution/)
-- [Robolectric in commonTest](https://www.reddit.com/r/Kotlin/comments/1h25ue2/robolectric_in_commontest/)
-- [Reference projects for ktor?](https://www.reddit.com/r/Kotlin/comments/1h1y7fj/reference_projects_for_ktor/)
-- [KotlinConf 2025 Black Friday Special](https://www.reddit.com/r/Kotlin/comments/1h1vqje/kotlinconf_2025_black_friday_special/)
-- [log4k: A Comprehensive Logging and Tracing Solution for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1h1qkrl/log4k_a_comprehensive_logging_and_tracing/)
+- [Hey i have a graduation project this year I will build an app connected to obd 2 elm 327 bluetooth The app will send to the user notifications for preventive maintenance changing oil,filters,tires ... When he cross a number of kilometeres like oil when u cross 10000 km u must change the oil of the](https://www.reddit.com/r/Kotlin/comments/1h3pjl3/hey_i_have_a_graduation_project_this_year_i_will/)
+- [I created a game map browser using Compose for Web and Ktor 3](https://www.reddit.com/r/Kotlin/comments/1h3p02l/i_created_a_game_map_browser_using_compose_for/)
+- [[Release] Fleeksoft-io 0.0.2 – Kotlin Multiplatform I/O Library Update 🎉](https://www.reddit.com/r/Kotlin/comments/1h3kh22/release_fleeksoftio_002_kotlin_multiplatform_io/)
+- [what&#39;s wrong in this code?](https://www.reddit.com/r/Kotlin/comments/1h3jb4z/whats_wrong_in_this_code/)
+- [Hot Reloading Compose Apps with ClassLoaders &lpar;Firework Experiment&rpar;](https://www.reddit.com/r/Kotlin/comments/1h3j52r/hot_reloading_compose_apps_with_classloaders/)
+- [Solving Advent of Code with Kotlin Notebook!](https://www.reddit.com/r/Kotlin/comments/1h3hr60/solving_advent_of_code_with_kotlin_notebook/)
+- [Compile Kotlin to Macos executable without full Xcode?](https://www.reddit.com/r/Kotlin/comments/1h3haqe/compile_kotlin_to_macos_executable_without_full/)
+- [Android app real-time SMS detection](https://www.reddit.com/r/Kotlin/comments/1h3g9og/android_app_realtime_sms_detection/)
+- [AocKt v0.2.1: Testing library for Advent of Code Kotlin](https://www.reddit.com/r/Kotlin/comments/1h3dtdg/aockt_v021_testing_library_for_advent_of_code/)
+- [Is it worth it to transfer to learn kotlin or android dev if you already a java developer?](https://www.reddit.com/r/Kotlin/comments/1h3alli/is_it_worth_it_to_transfer_to_learn_kotlin_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
