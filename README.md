@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AndroidStudio asking to opt-in for @Serializable](https://www.reddit.com/r/Kotlin/comments/1h4dpuk/androidstudio_asking_to_optin_for_serializable/)
+- [when versus if/else](https://www.reddit.com/r/Kotlin/comments/1h44d8q/when_versus_ifelse/)
+- [Advices or any insights to beginners kicking off their Kotlin journey](https://www.reddit.com/r/Kotlin/comments/1h3xe9v/advices_or_any_insights_to_beginners_kicking_off/)
 - [Hey i have a graduation project this year I will build an app connected to obd 2 elm 327 bluetooth The app will send to the user notifications for preventive maintenance changing oil,filters,tires ... When he cross a number of kilometeres like oil when u cross 10000 km u must change the oil of the](https://www.reddit.com/r/Kotlin/comments/1h3pjl3/hey_i_have_a_graduation_project_this_year_i_will/)
 - [I created a game map browser using Compose for Web and Ktor 3](https://www.reddit.com/r/Kotlin/comments/1h3p02l/i_created_a_game_map_browser_using_compose_for/)
 - [[Release] Fleeksoft-io 0.0.2 – Kotlin Multiplatform I/O Library Update 🎉](https://www.reddit.com/r/Kotlin/comments/1h3kh22/release_fleeksoftio_002_kotlin_multiplatform_io/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Hot Reloading Compose Apps with ClassLoaders &lpar;Firework Experiment&rpar;](https://www.reddit.com/r/Kotlin/comments/1h3j52r/hot_reloading_compose_apps_with_classloaders/)
 - [Solving Advent of Code with Kotlin Notebook!](https://www.reddit.com/r/Kotlin/comments/1h3hr60/solving_advent_of_code_with_kotlin_notebook/)
 - [Compile Kotlin to Macos executable without full Xcode?](https://www.reddit.com/r/Kotlin/comments/1h3haqe/compile_kotlin_to_macos_executable_without_full/)
-- [Android app real-time SMS detection](https://www.reddit.com/r/Kotlin/comments/1h3g9og/android_app_realtime_sms_detection/)
-- [AocKt v0.2.1: Testing library for Advent of Code Kotlin](https://www.reddit.com/r/Kotlin/comments/1h3dtdg/aockt_v021_testing_library_for_advent_of_code/)
-- [Is it worth it to transfer to learn kotlin or android dev if you already a java developer?](https://www.reddit.com/r/Kotlin/comments/1h3alli/is_it_worth_it_to_transfer_to_learn_kotlin_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
