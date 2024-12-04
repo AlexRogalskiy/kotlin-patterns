@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin multiplatform AI/LLM tool use &lpar;function calling&rpar; JSON Schema generator](https://www.reddit.com/r/Kotlin/comments/1h5rdqj/kotlin_multiplatform_aillm_tool_use_function/)
+- [Async and await all with map operator](https://www.reddit.com/r/Kotlin/comments/1h5po8g/async_and_await_all_with_map_operator/)
+- [http4k v6 and beyond! Introducing Enterprise Edition and Long-Term Support](https://www.reddit.com/r/Kotlin/comments/1h5nkmg/http4k_v6_and_beyond_introducing_enterprise/)
+- [UUID in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1h5ne9a/uuid_in_kotlin_multiplatform/)
+- [[Release] ksoup v0.2.1 – Faster, Modular HTML Parsing for Kotlin Multiplatform 🚀](https://www.reddit.com/r/Kotlin/comments/1h5hzi8/release_ksoup_v021_faster_modular_html_parsing/)
 - [Help Needed: Building a BLE Remote App to Fetch Data from Hardware Storage](https://www.reddit.com/r/Kotlin/comments/1h59a28/help_needed_building_a_ble_remote_app_to_fetch/)
 - [How can I call Kotlin functions from a python script in the android app?](https://www.reddit.com/r/Kotlin/comments/1h553yu/how_can_i_call_kotlin_functions_from_a_python/)
 - [USSD app](https://www.reddit.com/r/Kotlin/comments/1h54lrj/ussd_app/)
 - [How to generate UML class or relationship diagram for my android studio jetpack compose project?](https://www.reddit.com/r/Kotlin/comments/1h5155b/how_to_generate_uml_class_or_relationship_diagram/)
 - [Is Kotlin Multiplatform the Right Choice for a Netflix-Like App?](https://www.reddit.com/r/Kotlin/comments/1h4zvdw/is_kotlin_multiplatform_the_right_choice_for_a/)
-- [AndroidStudio asking to opt-in for @Serializable](https://www.reddit.com/r/Kotlin/comments/1h4dpuk/androidstudio_asking_to_optin_for_serializable/)
-- [when versus if/else](https://www.reddit.com/r/Kotlin/comments/1h44d8q/when_versus_ifelse/)
-- [Advices or any insights to beginners kicking off their Kotlin journey](https://www.reddit.com/r/Kotlin/comments/1h3xe9v/advices_or_any_insights_to_beginners_kicking_off/)
-- [Hey i have a graduation project this year I will build an app connected to obd 2 elm 327 bluetooth The app will send to the user notifications for preventive maintenance changing oil,filters,tires ... When he cross a number of kilometeres like oil when u cross 10000 km u must change the oil of the](https://www.reddit.com/r/Kotlin/comments/1h3pjl3/hey_i_have_a_graduation_project_this_year_i_will/)
-- [I created a game map browser using Compose for Web and Ktor 3](https://www.reddit.com/r/Kotlin/comments/1h3p02l/i_created_a_game_map_browser_using_compose_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
