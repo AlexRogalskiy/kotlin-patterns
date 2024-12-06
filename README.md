@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Arrow 2.0 release highlights](https://www.reddit.com/r/Kotlin/comments/1h7pjo2/arrow_20_release_highlights/)
+- [beginner programmer for android with kotlin](https://www.reddit.com/r/Kotlin/comments/1h7iwsr/beginner_programmer_for_android_with_kotlin/)
+- [All 24 new JEPs for JDK 24: Quantum Cryptography, Garbage Collectors, and a lot of cleanups](https://www.reddit.com/r/Kotlin/comments/1h7bn80/all_24_new_jeps_for_jdk_24_quantum_cryptography/)
+- [Debugging Kotlin Apps with the Kotzilla Platform](https://www.reddit.com/r/Kotlin/comments/1h79kev/debugging_kotlin_apps_with_the_kotzilla_platform/)
+- [Dokka html output for Tests](https://www.reddit.com/r/Kotlin/comments/1h775c2/dokka_html_output_for_tests/)
+- [Did the kotlin immutable collection good to use to reduce recomposition count](https://www.reddit.com/r/Kotlin/comments/1h72xqs/did_the_kotlin_immutable_collection_good_to_use/)
 - [Loom and Coroutines](https://www.reddit.com/r/Kotlin/comments/1h6pihf/loom_and_coroutines/)
 - [Immutable and Persistent Lists &lpar;TypeAlias Show Clip&rpar;](https://www.reddit.com/r/Kotlin/comments/1h6njmw/immutable_and_persistent_lists_typealias_show_clip/)
 - [Dependency Injection Frameworks](https://www.reddit.com/r/Kotlin/comments/1h6migl/dependency_injection_frameworks/)
 - [Take the Kotlin Multiplatform Survey and make your opinion heard](https://www.reddit.com/r/Kotlin/comments/1h6aphp/take_the_kotlin_multiplatform_survey_and_make/)
-- [Kotlin multiplatform AI/LLM tool use &lpar;function calling&rpar; JSON Schema generator](https://www.reddit.com/r/Kotlin/comments/1h5rdqj/kotlin_multiplatform_aillm_tool_use_function/)
-- [Async and await all with map operator](https://www.reddit.com/r/Kotlin/comments/1h5po8g/async_and_await_all_with_map_operator/)
-- [http4k v6 and beyond! Introducing Enterprise Edition and Long-Term Support](https://www.reddit.com/r/Kotlin/comments/1h5nkmg/http4k_v6_and_beyond_introducing_enterprise/)
-- [UUID in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1h5ne9a/uuid_in_kotlin_multiplatform/)
-- [[Release] ksoup v0.2.1 – Faster, Modular HTML Parsing for Kotlin Multiplatform 🚀](https://www.reddit.com/r/Kotlin/comments/1h5hzi8/release_ksoup_v021_faster_modular_html_parsing/)
-- [Help Needed: Building a BLE Remote App to Fetch Data from Hardware Storage](https://www.reddit.com/r/Kotlin/comments/1h59a28/help_needed_building_a_ble_remote_app_to_fetch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
