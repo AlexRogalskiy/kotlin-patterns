@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need Guidance!](https://www.reddit.com/r/Kotlin/comments/1h8w86s/need_guidance/)
+- [Boundary Check vs Try Catch - Performance Comparison](https://www.reddit.com/r/Kotlin/comments/1h8utx4/boundary_check_vs_try_catch_performance_comparison/)
+- [Premium Not Activating after payment, firebase also not updating](https://www.reddit.com/r/Kotlin/comments/1h8p4qs/premium_not_activating_after_payment_firebase/)
+- [DialogWindow with custom background.](https://www.reddit.com/r/Kotlin/comments/1h8m5sh/dialogwindow_with_custom_background/)
 - [Embedded or external Database for me?](https://www.reddit.com/r/Kotlin/comments/1h8axx4/embedded_or_external_database_for_me/)
 - [Taming Tardy Tests - JUnit, Gradle, IntelliJ](https://www.reddit.com/r/Kotlin/comments/1h8614v/taming_tardy_tests_junit_gradle_intellij/)
 - [Android developers, are you all using low level for Android apps?](https://www.reddit.com/r/Kotlin/comments/1h7ynu5/android_developers_are_you_all_using_low_level/)
 - [Arrow 2.0 release highlights](https://www.reddit.com/r/Kotlin/comments/1h7pjo2/arrow_20_release_highlights/)
-- [beginner programmer for android with kotlin](https://www.reddit.com/r/Kotlin/comments/1h7iwsr/beginner_programmer_for_android_with_kotlin/)
 - [All 24 new JEPs for JDK 24: Quantum Cryptography, Garbage Collectors, and a lot of cleanups](https://www.reddit.com/r/Kotlin/comments/1h7bn80/all_24_new_jeps_for_jdk_24_quantum_cryptography/)
 - [Debugging Kotlin Apps with the Kotzilla Platform](https://www.reddit.com/r/Kotlin/comments/1h79kev/debugging_kotlin_apps_with_the_kotzilla_platform/)
-- [Dokka html output for Tests](https://www.reddit.com/r/Kotlin/comments/1h775c2/dokka_html_output_for_tests/)
-- [Did the kotlin immutable collection good to use to reduce recomposition count](https://www.reddit.com/r/Kotlin/comments/1h72xqs/did_the_kotlin_immutable_collection_good_to_use/)
-- [Loom and Coroutines](https://www.reddit.com/r/Kotlin/comments/1h6pihf/loom_and_coroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
