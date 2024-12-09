@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Recommendations for free Jetpack Compose courses](https://www.reddit.com/r/Kotlin/comments/1h9ol36/recommendations_for_free_jetpack_compose_courses/)
+- [can you help me choose between KMP and flutter](https://www.reddit.com/r/Kotlin/comments/1h9o9vy/can_you_help_me_choose_between_kmp_and_flutter/)
+- [Best linting and static quality analysis solution for kotlin?](https://www.reddit.com/r/Kotlin/comments/1h9m97k/best_linting_and_static_quality_analysis_solution/)
+- [how to serialize protobuf objects to JSON](https://www.reddit.com/r/Kotlin/comments/1h9kzjm/how_to_serialize_protobuf_objects_to_json/)
+- [Switching to Kotlin after RN to get a job &lpar;I know Java&rpar;](https://www.reddit.com/r/Kotlin/comments/1h9iwg0/switching_to_kotlin_after_rn_to_get_a_job_i_know/)
 - [Need Guidance!](https://www.reddit.com/r/Kotlin/comments/1h8w86s/need_guidance/)
 - [Boundary Check vs Try Catch - Performance Comparison](https://www.reddit.com/r/Kotlin/comments/1h8utx4/boundary_check_vs_try_catch_performance_comparison/)
-- [Premium Not Activating after payment, firebase also not updating](https://www.reddit.com/r/Kotlin/comments/1h8p4qs/premium_not_activating_after_payment_firebase/)
 - [DialogWindow with custom background.](https://www.reddit.com/r/Kotlin/comments/1h8m5sh/dialogwindow_with_custom_background/)
 - [Embedded or external Database for me?](https://www.reddit.com/r/Kotlin/comments/1h8axx4/embedded_or_external_database_for_me/)
 - [Taming Tardy Tests - JUnit, Gradle, IntelliJ](https://www.reddit.com/r/Kotlin/comments/1h8614v/taming_tardy_tests_junit_gradle_intellij/)
-- [Android developers, are you all using low level for Android apps?](https://www.reddit.com/r/Kotlin/comments/1h7ynu5/android_developers_are_you_all_using_low_level/)
-- [Arrow 2.0 release highlights](https://www.reddit.com/r/Kotlin/comments/1h7pjo2/arrow_20_release_highlights/)
-- [All 24 new JEPs for JDK 24: Quantum Cryptography, Garbage Collectors, and a lot of cleanups](https://www.reddit.com/r/Kotlin/comments/1h7bn80/all_24_new_jeps_for_jdk_24_quantum_cryptography/)
-- [Debugging Kotlin Apps with the Kotzilla Platform](https://www.reddit.com/r/Kotlin/comments/1h79kev/debugging_kotlin_apps_with_the_kotzilla_platform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
