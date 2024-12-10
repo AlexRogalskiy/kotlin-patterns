@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/CMP vs JavaScript/React Native vs Dart/Flutter](https://www.reddit.com/r/Kotlin/comments/1haitk9/kotlincmp_vs_javascriptreact_native_vs_dartflutter/)
+- [💡 StateFlow vs SharedFlow in Kotlin: Which One is Better for Reactive Programming?](https://www.reddit.com/r/Kotlin/comments/1hahzch/stateflow_vs_sharedflow_in_kotlin_which_one_is/)
+- [Going from Swift to Kotlin with Skip](https://www.reddit.com/r/Kotlin/comments/1hact6g/going_from_swift_to_kotlin_with_skip/)
+- [&quot;AtomicKotlinCourse&quot; takes ages to build a few lines of code.](https://www.reddit.com/r/Kotlin/comments/1hab2ns/atomickotlincourse_takes_ages_to_build_a_few/)
+- [Jetpack Compose Modifier Guessing Game!](https://www.reddit.com/r/Kotlin/comments/1ha4pxp/jetpack_compose_modifier_guessing_game/)
+- [What is going on in this line of code?](https://www.reddit.com/r/Kotlin/comments/1ha2hnf/what_is_going_on_in_this_line_of_code/)
 - [Recommendations for free Jetpack Compose courses](https://www.reddit.com/r/Kotlin/comments/1h9ol36/recommendations_for_free_jetpack_compose_courses/)
 - [can you help me choose between KMP and flutter](https://www.reddit.com/r/Kotlin/comments/1h9o9vy/can_you_help_me_choose_between_kmp_and_flutter/)
 - [Best linting and static quality analysis solution for kotlin?](https://www.reddit.com/r/Kotlin/comments/1h9m97k/best_linting_and_static_quality_analysis_solution/)
 - [how to serialize protobuf objects to JSON](https://www.reddit.com/r/Kotlin/comments/1h9kzjm/how_to_serialize_protobuf_objects_to_json/)
-- [Switching to Kotlin after RN to get a job &lpar;I know Java&rpar;](https://www.reddit.com/r/Kotlin/comments/1h9iwg0/switching_to_kotlin_after_rn_to_get_a_job_i_know/)
-- [Need Guidance!](https://www.reddit.com/r/Kotlin/comments/1h8w86s/need_guidance/)
-- [Boundary Check vs Try Catch - Performance Comparison](https://www.reddit.com/r/Kotlin/comments/1h8utx4/boundary_check_vs_try_catch_performance_comparison/)
-- [DialogWindow with custom background.](https://www.reddit.com/r/Kotlin/comments/1h8m5sh/dialogwindow_with_custom_background/)
-- [Embedded or external Database for me?](https://www.reddit.com/r/Kotlin/comments/1h8axx4/embedded_or_external_database_for_me/)
-- [Taming Tardy Tests - JUnit, Gradle, IntelliJ](https://www.reddit.com/r/Kotlin/comments/1h8614v/taming_tardy_tests_junit_gradle_intellij/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
