@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need Kotlin Gods! Help Me Architect the Next Tinder!](https://www.reddit.com/r/Kotlin/comments/1hbgu2o/need_kotlin_gods_help_me_architect_the_next_tinder/)
+- [Kotlin multiplatform testing library providing power-assert compatible DSL and assertions. Convenient for asserting against hierarchical data structures, e.g. parsed JSON payload.](https://www.reddit.com/r/Kotlin/comments/1hbcu75/kotlin_multiplatform_testing_library_providing/)
+- [EitherNet 2.0 is multiplatform](https://www.reddit.com/r/Kotlin/comments/1hbc10v/eithernet_20_is_multiplatform/)
+- [Using gradle from the command line doesn&#39;t work](https://www.reddit.com/r/Kotlin/comments/1hbb5q0/using_gradle_from_the_command_line_doesnt_work/)
+- [Announcing Immutable Arrays for Kotlin: A safer and more efficient alternative to lists](https://www.reddit.com/r/Kotlin/comments/1hb5ese/announcing_immutable_arrays_for_kotlin_a_safer/)
+- [How to improve in some skills](https://www.reddit.com/r/Kotlin/comments/1hb29n0/how_to_improve_in_some_skills/)
+- [Default number of retries in One time worker&lpar;Exponential&rpar;](https://www.reddit.com/r/Kotlin/comments/1haxuq9/default_number_of_retries_in_one_time/)
+- [JVM in the Age of AI: A Bird&#39;s-Eye View for the Mechanical Sympathizers](https://www.reddit.com/r/Kotlin/comments/1hawnfi/jvm_in_the_age_of_ai_a_birdseye_view_for_the/)
 - [Kotlin/CMP vs JavaScript/React Native vs Dart/Flutter](https://www.reddit.com/r/Kotlin/comments/1haitk9/kotlincmp_vs_javascriptreact_native_vs_dartflutter/)
 - [💡 StateFlow vs SharedFlow in Kotlin: Which One is Better for Reactive Programming?](https://www.reddit.com/r/Kotlin/comments/1hahzch/stateflow_vs_sharedflow_in_kotlin_which_one_is/)
-- [Going from Swift to Kotlin with Skip](https://www.reddit.com/r/Kotlin/comments/1hact6g/going_from_swift_to_kotlin_with_skip/)
-- [&quot;AtomicKotlinCourse&quot; takes ages to build a few lines of code.](https://www.reddit.com/r/Kotlin/comments/1hab2ns/atomickotlincourse_takes_ages_to_build_a_few/)
-- [Jetpack Compose Modifier Guessing Game!](https://www.reddit.com/r/Kotlin/comments/1ha4pxp/jetpack_compose_modifier_guessing_game/)
-- [What is going on in this line of code?](https://www.reddit.com/r/Kotlin/comments/1ha2hnf/what_is_going_on_in_this_line_of_code/)
-- [Recommendations for free Jetpack Compose courses](https://www.reddit.com/r/Kotlin/comments/1h9ol36/recommendations_for_free_jetpack_compose_courses/)
-- [can you help me choose between KMP and flutter](https://www.reddit.com/r/Kotlin/comments/1h9o9vy/can_you_help_me_choose_between_kmp_and_flutter/)
-- [Best linting and static quality analysis solution for kotlin?](https://www.reddit.com/r/Kotlin/comments/1h9m97k/best_linting_and_static_quality_analysis_solution/)
-- [how to serialize protobuf objects to JSON](https://www.reddit.com/r/Kotlin/comments/1h9kzjm/how_to_serialize_protobuf_objects_to_json/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
