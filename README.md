@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Changing my project to use Kotlin 2.1 instead of 2.0 gives circular dependency error](https://www.reddit.com/r/Kotlin/comments/1hc93hj/changing_my_project_to_use_kotlin_21_instead_of/)
+- [Stove 0.15.0 is released! &lpar;a component/e2e testing framework for JVM&rpar;](https://www.reddit.com/r/Kotlin/comments/1hbux8m/stove_0150_is_released_a_componente2e_testing/)
+- [[Open source demo] LLM thinks on graph schema in SpringAI and Kotlin.](https://www.reddit.com/r/Kotlin/comments/1hbkprv/open_source_demo_llm_thinks_on_graph_schema_in/)
 - [Need Kotlin Gods! Help Me Architect the Next Tinder!](https://www.reddit.com/r/Kotlin/comments/1hbgu2o/need_kotlin_gods_help_me_architect_the_next_tinder/)
 - [Kotlin multiplatform testing library providing power-assert compatible DSL and assertions. Convenient for asserting against hierarchical data structures, e.g. parsed JSON payload.](https://www.reddit.com/r/Kotlin/comments/1hbcu75/kotlin_multiplatform_testing_library_providing/)
 - [EitherNet 2.0 is multiplatform](https://www.reddit.com/r/Kotlin/comments/1hbc10v/eithernet_20_is_multiplatform/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Announcing Immutable Arrays for Kotlin: A safer and more efficient alternative to lists](https://www.reddit.com/r/Kotlin/comments/1hb5ese/announcing_immutable_arrays_for_kotlin_a_safer/)
 - [How to improve in some skills](https://www.reddit.com/r/Kotlin/comments/1hb29n0/how_to_improve_in_some_skills/)
 - [Default number of retries in One time worker&lpar;Exponential&rpar;](https://www.reddit.com/r/Kotlin/comments/1haxuq9/default_number_of_retries_in_one_time/)
-- [JVM in the Age of AI: A Bird&#39;s-Eye View for the Mechanical Sympathizers](https://www.reddit.com/r/Kotlin/comments/1hawnfi/jvm_in_the_age_of_ai_a_birdseye_view_for_the/)
-- [Kotlin/CMP vs JavaScript/React Native vs Dart/Flutter](https://www.reddit.com/r/Kotlin/comments/1haitk9/kotlincmp_vs_javascriptreact_native_vs_dartflutter/)
-- [💡 StateFlow vs SharedFlow in Kotlin: Which One is Better for Reactive Programming?](https://www.reddit.com/r/Kotlin/comments/1hahzch/stateflow_vs_sharedflow_in_kotlin_which_one_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
