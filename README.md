@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [You Are Going to Need It](https://www.reddit.com/r/Kotlin/comments/1hdrl8t/you_are_going_to_need_it/)
+- [Discover 15 Mind-Blowing Taboos in Japan You Never Expected - Watch Now Before It&#39;s Too Late](https://www.reddit.com/r/Kotlin/comments/1hdlkgs/discover_15_mindblowing_taboos_in_japan_you_never/)
+- [Compositional abstraction for Mutex?](https://www.reddit.com/r/Kotlin/comments/1hdkv2f/compositional_abstraction_for_mutex/)
+- [Debugging Kotlin in Xcode with SPM Builds](https://www.reddit.com/r/Kotlin/comments/1hdkcge/debugging_kotlin_in_xcode_with_spm_builds/)
+- [Why are my tests so slow? JUnit vs Gradle vs IntelliJ](https://www.reddit.com/r/Kotlin/comments/1hdfnhl/why_are_my_tests_so_slow_junit_vs_gradle_vs/)
+- [Help needed: SQLdelight in compose desktop](https://www.reddit.com/r/Kotlin/comments/1hdbxio/help_needed_sqldelight_in_compose_desktop/)
+- [Class](https://www.reddit.com/r/Kotlin/comments/1hd98ph/class/)
+- [Koin IDE Plugin &lpar;under development&rpar; now with a Koin configuration tree view](https://www.reddit.com/r/Kotlin/comments/1hd7mzd/koin_ide_plugin_under_development_now_with_a_koin/)
+- [Nebula - A Kotlin DSL around TestContainers, to build test ecosystems that do stuff](https://www.reddit.com/r/Kotlin/comments/1hd445i/nebula_a_kotlin_dsl_around_testcontainers_to/)
 - [A Comprehensive Logging and Tracing Solution for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1hcxpc9/a_comprehensive_logging_and_tracing_solution_for/)
-- [What do you think about this convention of asserts against hierarchical data structures?](https://www.reddit.com/r/Kotlin/comments/1hcr9b3/what_do_you_think_about_this_convention_of/)
-- [[AndroidStudio] Unable to bind ImageAnalysis to lifecyle](https://www.reddit.com/r/Kotlin/comments/1hcircf/androidstudio_unable_to_bind_imageanalysis_to/)
-- [We need your feedback on Kotlin 2.1 features](https://www.reddit.com/r/Kotlin/comments/1hciprc/we_need_your_feedback_on_kotlin_21_features/)
-- [Changing my project to use Kotlin 2.1 instead of 2.0 gives circular dependency error](https://www.reddit.com/r/Kotlin/comments/1hc93hj/changing_my_project_to_use_kotlin_21_instead_of/)
-- [Stove 0.15.0 is released! &lpar;a component/e2e testing framework for JVM&rpar;](https://www.reddit.com/r/Kotlin/comments/1hbux8m/stove_0150_is_released_a_componente2e_testing/)
-- [[Open source demo] LLM thinks on graph schema in SpringAI and Kotlin.](https://www.reddit.com/r/Kotlin/comments/1hbkprv/open_source_demo_llm_thinks_on_graph_schema_in/)
-- [Need Kotlin Gods! Help Me Architect the Next Tinder!](https://www.reddit.com/r/Kotlin/comments/1hbgu2o/need_kotlin_gods_help_me_architect_the_next_tinder/)
-- [Kotlin multiplatform testing library providing power-assert compatible DSL and assertions. Convenient for asserting against hierarchical data structures, e.g. parsed JSON payload.](https://www.reddit.com/r/Kotlin/comments/1hbcu75/kotlin_multiplatform_testing_library_providing/)
-- [EitherNet 2.0 is multiplatform](https://www.reddit.com/r/Kotlin/comments/1hbc10v/eithernet_20_is_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
