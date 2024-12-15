@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1heicab/compose_multiplatform/)
+- [Help with Room in KMP? Getting &#39;actual object AppDatabaseConstructor : RoomDatabaseConstructor&lt;AppDatabase&gt;&#39; has no corresponding expected declaration](https://www.reddit.com/r/Kotlin/comments/1heblua/help_with_room_in_kmp_getting_actual_object/)
+- [How do i use a *.klib for my iosMain](https://www.reddit.com/r/Kotlin/comments/1he4d1a/how_do_i_use_a_klib_for_my_iosmain/)
+- [Kotlin weird syntax design choices &lpar;again&rpar;](https://www.reddit.com/r/Kotlin/comments/1hdztif/kotlin_weird_syntax_design_choices_again/)
 - [You Are Going to Need It](https://www.reddit.com/r/Kotlin/comments/1hdrl8t/you_are_going_to_need_it/)
 - [Discover 15 Mind-Blowing Taboos in Japan You Never Expected - Watch Now Before It&#39;s Too Late](https://www.reddit.com/r/Kotlin/comments/1hdlkgs/discover_15_mindblowing_taboos_in_japan_you_never/)
 - [Compositional abstraction for Mutex?](https://www.reddit.com/r/Kotlin/comments/1hdkv2f/compositional_abstraction_for_mutex/)
 - [Debugging Kotlin in Xcode with SPM Builds](https://www.reddit.com/r/Kotlin/comments/1hdkcge/debugging_kotlin_in_xcode_with_spm_builds/)
 - [Why are my tests so slow? JUnit vs Gradle vs IntelliJ](https://www.reddit.com/r/Kotlin/comments/1hdfnhl/why_are_my_tests_so_slow_junit_vs_gradle_vs/)
-- [Help needed: SQLdelight in compose desktop](https://www.reddit.com/r/Kotlin/comments/1hdbxio/help_needed_sqldelight_in_compose_desktop/)
 - [Class](https://www.reddit.com/r/Kotlin/comments/1hd98ph/class/)
-- [Koin IDE Plugin &lpar;under development&rpar; now with a Koin configuration tree view](https://www.reddit.com/r/Kotlin/comments/1hd7mzd/koin_ide_plugin_under_development_now_with_a_koin/)
-- [Nebula - A Kotlin DSL around TestContainers, to build test ecosystems that do stuff](https://www.reddit.com/r/Kotlin/comments/1hd445i/nebula_a_kotlin_dsl_around_testcontainers_to/)
-- [A Comprehensive Logging and Tracing Solution for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1hcxpc9/a_comprehensive_logging_and_tracing_solution_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
