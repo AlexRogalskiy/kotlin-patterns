@@ -272,7 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1heicab/compose_multiplatform/)
+- [Ivy DI 0.0.7 released](https://www.reddit.com/r/Kotlin/comments/1hf0aow/ivy_di_007_released/)
+- [Kobweb, kotlin js or something else](https://www.reddit.com/r/Kotlin/comments/1hewyek/kobweb_kotlin_js_or_something_else/)
+- [Successfully converted my Python/Kivy AI app into Kotlin/Compose](https://www.reddit.com/r/Kotlin/comments/1heo06g/successfully_converted_my_pythonkivy_ai_app_into/)
 - [Help with Room in KMP? Getting &#39;actual object AppDatabaseConstructor : RoomDatabaseConstructor&lt;AppDatabase&gt;&#39; has no corresponding expected declaration](https://www.reddit.com/r/Kotlin/comments/1heblua/help_with_room_in_kmp_getting_actual_object/)
 - [How do i use a *.klib for my iosMain](https://www.reddit.com/r/Kotlin/comments/1he4d1a/how_do_i_use_a_klib_for_my_iosmain/)
 - [Kotlin weird syntax design choices &lpar;again&rpar;](https://www.reddit.com/r/Kotlin/comments/1hdztif/kotlin_weird_syntax_design_choices_again/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Discover 15 Mind-Blowing Taboos in Japan You Never Expected - Watch Now Before It&#39;s Too Late](https://www.reddit.com/r/Kotlin/comments/1hdlkgs/discover_15_mindblowing_taboos_in_japan_you_never/)
 - [Compositional abstraction for Mutex?](https://www.reddit.com/r/Kotlin/comments/1hdkv2f/compositional_abstraction_for_mutex/)
 - [Debugging Kotlin in Xcode with SPM Builds](https://www.reddit.com/r/Kotlin/comments/1hdkcge/debugging_kotlin_in_xcode_with_spm_builds/)
-- [Why are my tests so slow? JUnit vs Gradle vs IntelliJ](https://www.reddit.com/r/Kotlin/comments/1hdfnhl/why_are_my_tests_so_slow_junit_vs_gradle_vs/)
-- [Class](https://www.reddit.com/r/Kotlin/comments/1hd98ph/class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
