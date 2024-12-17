@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [When it comes to nullability, are ! and not&lpar;&rpar; evaluated differently?](https://www.reddit.com/r/Kotlin/comments/1hfxu7q/when_it_comes_to_nullability_are_and_not/)
+- [The Path Not Taken](https://www.reddit.com/r/Kotlin/comments/1hfxj1e/the_path_not_taken/)
+- [Learning kotlin and had a small doubt, if someone can hel me out, i will be grateful](https://www.reddit.com/r/Kotlin/comments/1hfjtco/learning_kotlin_and_had_a_small_doubt_if_someone/)
+- [Thinking about attending KotlinConf 2025 workshops? 🤔](https://www.reddit.com/r/Kotlin/comments/1hfji04/thinking_about_attending_kotlinconf_2025_workshops/)
+- [To Been Injected: Reflection/KSP free way to DI](https://www.reddit.com/r/Kotlin/comments/1hfgeri/to_been_injected_reflectionksp_free_way_to_di/)
 - [Ivy DI 0.0.7 released](https://www.reddit.com/r/Kotlin/comments/1hf0aow/ivy_di_007_released/)
 - [Kobweb, kotlin js or something else](https://www.reddit.com/r/Kotlin/comments/1hewyek/kobweb_kotlin_js_or_something_else/)
 - [Successfully converted my Python/Kivy AI app into Kotlin/Compose](https://www.reddit.com/r/Kotlin/comments/1heo06g/successfully_converted_my_pythonkivy_ai_app_into/)
 - [Help with Room in KMP? Getting &#39;actual object AppDatabaseConstructor : RoomDatabaseConstructor&lt;AppDatabase&gt;&#39; has no corresponding expected declaration](https://www.reddit.com/r/Kotlin/comments/1heblua/help_with_room_in_kmp_getting_actual_object/)
 - [How do i use a *.klib for my iosMain](https://www.reddit.com/r/Kotlin/comments/1he4d1a/how_do_i_use_a_klib_for_my_iosmain/)
-- [Kotlin weird syntax design choices &lpar;again&rpar;](https://www.reddit.com/r/Kotlin/comments/1hdztif/kotlin_weird_syntax_design_choices_again/)
-- [You Are Going to Need It](https://www.reddit.com/r/Kotlin/comments/1hdrl8t/you_are_going_to_need_it/)
-- [Discover 15 Mind-Blowing Taboos in Japan You Never Expected - Watch Now Before It&#39;s Too Late](https://www.reddit.com/r/Kotlin/comments/1hdlkgs/discover_15_mindblowing_taboos_in_japan_you_never/)
-- [Compositional abstraction for Mutex?](https://www.reddit.com/r/Kotlin/comments/1hdkv2f/compositional_abstraction_for_mutex/)
-- [Debugging Kotlin in Xcode with SPM Builds](https://www.reddit.com/r/Kotlin/comments/1hdkcge/debugging_kotlin_in_xcode_with_spm_builds/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
