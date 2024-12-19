@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [When it comes to nullability, are ! and not&lpar;&rpar; evaluated differently?](https://www.reddit.com/r/Kotlin/comments/1hfxu7q/when_it_comes_to_nullability_are_and_not/)
-- [The Path Not Taken](https://www.reddit.com/r/Kotlin/comments/1hfxj1e/the_path_not_taken/)
-- [Learning kotlin and had a small doubt, if someone can hel me out, i will be grateful](https://www.reddit.com/r/Kotlin/comments/1hfjtco/learning_kotlin_and_had_a_small_doubt_if_someone/)
-- [Thinking about attending KotlinConf 2025 workshops? 🤔](https://www.reddit.com/r/Kotlin/comments/1hfji04/thinking_about_attending_kotlinconf_2025_workshops/)
-- [To Been Injected: Reflection/KSP free way to DI](https://www.reddit.com/r/Kotlin/comments/1hfgeri/to_been_injected_reflectionksp_free_way_to_di/)
-- [Ivy DI 0.0.7 released](https://www.reddit.com/r/Kotlin/comments/1hf0aow/ivy_di_007_released/)
-- [Kobweb, kotlin js or something else](https://www.reddit.com/r/Kotlin/comments/1hewyek/kobweb_kotlin_js_or_something_else/)
-- [Successfully converted my Python/Kivy AI app into Kotlin/Compose](https://www.reddit.com/r/Kotlin/comments/1heo06g/successfully_converted_my_pythonkivy_ai_app_into/)
-- [Help with Room in KMP? Getting &#39;actual object AppDatabaseConstructor : RoomDatabaseConstructor&lt;AppDatabase&gt;&#39; has no corresponding expected declaration](https://www.reddit.com/r/Kotlin/comments/1heblua/help_with_room_in_kmp_getting_actual_object/)
-- [How do i use a *.klib for my iosMain](https://www.reddit.com/r/Kotlin/comments/1he4d1a/how_do_i_use_a_klib_for_my_iosmain/)
+- [Best BaaS for kotlin?](https://www.reddit.com/r/Kotlin/comments/1hh52ho/best_baas_for_kotlin/)
+- [TypeAlias Show - Direct Swift Export, Pattern Guards, and more](https://www.reddit.com/r/Kotlin/comments/1hh51f5/typealias_show_direct_swift_export_pattern_guards/)
+- [Sqlx4k: A high-performance, non-blocking database driver for PostgreSQL, MySQL, and SQLite, written for Kotlin Native.](https://www.reddit.com/r/Kotlin/comments/1hh0zpq/sqlx4k_a_highperformance_nonblocking_database/)
+- [packageManager silent APK install failed &lpar;&lpar;write failed: ebadf &lpar;bad file descriptor&rpar; &rpar;](https://www.reddit.com/r/Kotlin/comments/1hgztyk/packagemanager_silent_apk_install_failed_write/)
+- [All Kotlin talks of 2024 sorted by popularity](https://www.reddit.com/r/Kotlin/comments/1hgykcb/all_kotlin_talks_of_2024_sorted_by_popularity/)
+- [klibs.io – a new way to find Kotlin Multiplatform libraries](https://www.reddit.com/r/Kotlin/comments/1hgx1l8/klibsio_a_new_way_to_find_kotlin_multiplatform/)
+- [This code has the problem , that after payment premium does not get updated and shows &quot;no plan selected&quot; from onpaymentsuccess function, also firebase does not gets updated with the values of tier ,expirydate and email at user id](https://www.reddit.com/r/Kotlin/comments/1hgc0bv/this_code_has_the_problem_that_after_payment/)
+- [Cookie store always return null while requesting from the frontend](https://www.reddit.com/r/Kotlin/comments/1hgayfw/cookie_store_always_return_null_while_requesting/)
+- [Anybody who made game with Korge or with other Kotlin based solution?](https://www.reddit.com/r/Kotlin/comments/1hg7tw6/anybody_who_made_game_with_korge_or_with_other/)
+- [For Koin users: How to Fix Kotlin Startup Time Issues](https://www.reddit.com/r/Kotlin/comments/1hg73fp/for_koin_users_how_to_fix_kotlin_startup_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
