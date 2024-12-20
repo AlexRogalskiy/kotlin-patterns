@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Spotify Clone using Kotlin/WASM](https://www.reddit.com/r/Kotlin/comments/1hi0zmx/spotify_clone_using_kotlinwasm/)
+- [Say Hello to &#39;Compose Hot Reload&#39; &lpar;Firework&rpar;](https://www.reddit.com/r/Kotlin/comments/1hhtk5u/say_hello_to_compose_hot_reload_firework/)
+- [[Open-Source] NativeAppTemplate-Free-Android: Production-Ready Native Android App with User Authentication](https://www.reddit.com/r/Kotlin/comments/1hhqnq5/opensource_nativeapptemplatefreeandroid/)
 - [Best BaaS for kotlin?](https://www.reddit.com/r/Kotlin/comments/1hh52ho/best_baas_for_kotlin/)
 - [TypeAlias Show - Direct Swift Export, Pattern Guards, and more](https://www.reddit.com/r/Kotlin/comments/1hh51f5/typealias_show_direct_swift_export_pattern_guards/)
 - [Sqlx4k: A high-performance, non-blocking database driver for PostgreSQL, MySQL, and SQLite, written for Kotlin Native.](https://www.reddit.com/r/Kotlin/comments/1hh0zpq/sqlx4k_a_highperformance_nonblocking_database/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [All Kotlin talks of 2024 sorted by popularity](https://www.reddit.com/r/Kotlin/comments/1hgykcb/all_kotlin_talks_of_2024_sorted_by_popularity/)
 - [klibs.io – a new way to find Kotlin Multiplatform libraries](https://www.reddit.com/r/Kotlin/comments/1hgx1l8/klibsio_a_new_way_to_find_kotlin_multiplatform/)
 - [This code has the problem , that after payment premium does not get updated and shows &quot;no plan selected&quot; from onpaymentsuccess function, also firebase does not gets updated with the values of tier ,expirydate and email at user id](https://www.reddit.com/r/Kotlin/comments/1hgc0bv/this_code_has_the_problem_that_after_payment/)
-- [Cookie store always return null while requesting from the frontend](https://www.reddit.com/r/Kotlin/comments/1hgayfw/cookie_store_always_return_null_while_requesting/)
-- [Anybody who made game with Korge or with other Kotlin based solution?](https://www.reddit.com/r/Kotlin/comments/1hg7tw6/anybody_who_made_game_with_korge_or_with_other/)
-- [For Koin users: How to Fix Kotlin Startup Time Issues](https://www.reddit.com/r/Kotlin/comments/1hg73fp/for_koin_users_how_to_fix_kotlin_startup_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
