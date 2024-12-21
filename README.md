@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Spotify Clone using Kotlin/WASM](https://www.reddit.com/r/Kotlin/comments/1hi0zmx/spotify_clone_using_kotlinwasm/)
-- [Say Hello to &#39;Compose Hot Reload&#39; &lpar;Firework&rpar;](https://www.reddit.com/r/Kotlin/comments/1hhtk5u/say_hello_to_compose_hot_reload_firework/)
-- [[Open-Source] NativeAppTemplate-Free-Android: Production-Ready Native Android App with User Authentication](https://www.reddit.com/r/Kotlin/comments/1hhqnq5/opensource_nativeapptemplatefreeandroid/)
-- [Best BaaS for kotlin?](https://www.reddit.com/r/Kotlin/comments/1hh52ho/best_baas_for_kotlin/)
-- [TypeAlias Show - Direct Swift Export, Pattern Guards, and more](https://www.reddit.com/r/Kotlin/comments/1hh51f5/typealias_show_direct_swift_export_pattern_guards/)
-- [Sqlx4k: A high-performance, non-blocking database driver for PostgreSQL, MySQL, and SQLite, written for Kotlin Native.](https://www.reddit.com/r/Kotlin/comments/1hh0zpq/sqlx4k_a_highperformance_nonblocking_database/)
-- [packageManager silent APK install failed &lpar;&lpar;write failed: ebadf &lpar;bad file descriptor&rpar; &rpar;](https://www.reddit.com/r/Kotlin/comments/1hgztyk/packagemanager_silent_apk_install_failed_write/)
-- [All Kotlin talks of 2024 sorted by popularity](https://www.reddit.com/r/Kotlin/comments/1hgykcb/all_kotlin_talks_of_2024_sorted_by_popularity/)
-- [klibs.io – a new way to find Kotlin Multiplatform libraries](https://www.reddit.com/r/Kotlin/comments/1hgx1l8/klibsio_a_new_way_to_find_kotlin_multiplatform/)
-- [This code has the problem , that after payment premium does not get updated and shows &quot;no plan selected&quot; from onpaymentsuccess function, also firebase does not gets updated with the values of tier ,expirydate and email at user id](https://www.reddit.com/r/Kotlin/comments/1hgc0bv/this_code_has_the_problem_that_after_payment/)
+- [Why You Don’t Need a DI Framework: A Case for Manual Dependency Injection](https://www.reddit.com/r/Kotlin/comments/1hisoo6/why_you_dont_need_a_di_framework_a_case_for/)
+- [Native desktop GUI framework](https://www.reddit.com/r/Kotlin/comments/1his5qb/native_desktop_gui_framework/)
+- [What makes ktor great](https://www.reddit.com/r/Kotlin/comments/1hinsot/what_makes_ktor_great/)
+- [RETROFIT VIEWMODEL @Post @Get@Put @Delete https request and how to make Viewmodels with Jetpack Compose. where can i get this information to learn &amp;understand these concepts clearly , i am really not getting any document or video proper video .. please guide me .. thank you in advance](https://www.reddit.com/r/Kotlin/comments/1himezs/retrofit_viewmodel_post_getput_delete_https/)
+- [Unresolved reference](https://www.reddit.com/r/Kotlin/comments/1hiixti/unresolved_reference/)
+- [What IntelliJ isn&#39;t telling you - the Truth about Test Speed](https://www.reddit.com/r/Kotlin/comments/1hihezj/what_intellij_isnt_telling_you_the_truth_about/)
+- [Building a barcode scanner app with Jetpack Compose - Tutorial](https://www.reddit.com/r/Kotlin/comments/1hif8xg/building_a_barcode_scanner_app_with_jetpack/)
+- [[Article] An opinionated collection of learnings](https://www.reddit.com/r/Kotlin/comments/1hicgb0/article_an_opinionated_collection_of_learnings/)
+- [Guys, Anyone know any good resources to learn kotlin and jetpack compose?](https://www.reddit.com/r/Kotlin/comments/1hiavwl/guys_anyone_know_any_good_resources_to_learn/)
+- [Reverse-Engineering the Compose Compiler Plugin: Intercepting the Frontend](https://www.reddit.com/r/Kotlin/comments/1hia19f/reverseengineering_the_compose_compiler_plugin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
