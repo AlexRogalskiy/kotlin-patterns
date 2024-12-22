@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I didn&#39;t understand the code... until I made it my way](https://www.reddit.com/r/Kotlin/comments/1hjiqr7/i_didnt_understand_the_code_until_i_made_it_my_way/)
+- [Unable to run Kotlin courses in IntelliJ IDEA Community edition in Linux](https://www.reddit.com/r/Kotlin/comments/1hjgy1d/unable_to_run_kotlin_courses_in_intellij_idea/)
+- [JavaScript Developer](https://www.reddit.com/r/Kotlin/comments/1hjbnu7/javascript_developer/)
+- [Compose Multiplatform 1.7.3 is out](https://www.reddit.com/r/Kotlin/comments/1hj75ee/compose_multiplatform_173_is_out/)
 - [Why You Don’t Need a DI Framework: A Case for Manual Dependency Injection](https://www.reddit.com/r/Kotlin/comments/1hisoo6/why_you_dont_need_a_di_framework_a_case_for/)
 - [Native desktop GUI framework](https://www.reddit.com/r/Kotlin/comments/1his5qb/native_desktop_gui_framework/)
 - [What makes ktor great](https://www.reddit.com/r/Kotlin/comments/1hinsot/what_makes_ktor_great/)
 - [RETROFIT VIEWMODEL @Post @Get@Put @Delete https request and how to make Viewmodels with Jetpack Compose. where can i get this information to learn &amp;understand these concepts clearly , i am really not getting any document or video proper video .. please guide me .. thank you in advance](https://www.reddit.com/r/Kotlin/comments/1himezs/retrofit_viewmodel_post_getput_delete_https/)
 - [Unresolved reference](https://www.reddit.com/r/Kotlin/comments/1hiixti/unresolved_reference/)
 - [What IntelliJ isn&#39;t telling you - the Truth about Test Speed](https://www.reddit.com/r/Kotlin/comments/1hihezj/what_intellij_isnt_telling_you_the_truth_about/)
-- [Building a barcode scanner app with Jetpack Compose - Tutorial](https://www.reddit.com/r/Kotlin/comments/1hif8xg/building_a_barcode_scanner_app_with_jetpack/)
-- [[Article] An opinionated collection of learnings](https://www.reddit.com/r/Kotlin/comments/1hicgb0/article_an_opinionated_collection_of_learnings/)
-- [Guys, Anyone know any good resources to learn kotlin and jetpack compose?](https://www.reddit.com/r/Kotlin/comments/1hiavwl/guys_anyone_know_any_good_resources_to_learn/)
-- [Reverse-Engineering the Compose Compiler Plugin: Intercepting the Frontend](https://www.reddit.com/r/Kotlin/comments/1hia19f/reverseengineering_the_compose_compiler_plugin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
