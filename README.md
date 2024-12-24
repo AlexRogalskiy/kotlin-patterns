@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learning kotlin](https://www.reddit.com/r/Kotlin/comments/1hl1ojm/learning_kotlin/)
+- [Thumbnail Fixer, a tool to repair &amp; enhance embedded thumbnails!](https://www.reddit.com/r/Kotlin/comments/1hkthk4/thumbnail_fixer_a_tool_to_repair_enhance_embedded/)
+- [🌟 KStateMachine v0.33.0 Released!](https://www.reddit.com/r/Kotlin/comments/1hkljzg/kstatemachine_v0330_released/)
 - [Article: How I Made a Game Engine Using MVI in Kotlin](https://www.reddit.com/r/Kotlin/comments/1hkalqw/article_how_i_made_a_game_engine_using_mvi_in/)
 - [kotlin.document.store - Fast NoSql document store for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1hk3lio/kotlindocumentstore_fast_nosql_document_store_for/)
 - [kotlin Desktop learning](https://www.reddit.com/r/Kotlin/comments/1hk3koh/kotlin_desktop_learning/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Got my first software developer job as a junior, what to expect?](https://www.reddit.com/r/Kotlin/comments/1hjyuc0/got_my_first_software_developer_job_as_a_junior/)
 - [I didn&#39;t understand the code... until I made it my way](https://www.reddit.com/r/Kotlin/comments/1hjiqr7/i_didnt_understand_the_code_until_i_made_it_my_way/)
 - [Unable to run Kotlin courses in IntelliJ IDEA Community edition in Linux](https://www.reddit.com/r/Kotlin/comments/1hjgy1d/unable_to_run_kotlin_courses_in_intellij_idea/)
-- [JavaScript Developer](https://www.reddit.com/r/Kotlin/comments/1hjbnu7/javascript_developer/)
-- [Compose Multiplatform 1.7.3 is out](https://www.reddit.com/r/Kotlin/comments/1hj75ee/compose_multiplatform_173_is_out/)
-- [Why You Don’t Need a DI Framework: A Case for Manual Dependency Injection](https://www.reddit.com/r/Kotlin/comments/1hisoo6/why_you_dont_need_a_di_framework_a_case_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
