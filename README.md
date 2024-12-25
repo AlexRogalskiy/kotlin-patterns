@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[KMP] Confussion with plugins](https://www.reddit.com/r/Kotlin/comments/1hlmgly/kmp_confussion_with_plugins/)
+- [Making A Team: Building Kompute - A Modern Scientific Computing Library in Kotlin](https://www.reddit.com/r/Kotlin/comments/1hli2bj/making_a_team_building_kompute_a_modern/)
+- [Where to start with kotlin?](https://www.reddit.com/r/Kotlin/comments/1hlgjgp/where_to_start_with_kotlin/)
+- [I&#39;m looking for a proficient Kotlin developer to create a native-platform &lpar; Android&rpar; e-commerce app. The app should include: - A comprehensive product catalog - A user-friendly shopping cart - Seamless payment gateway integration Beyond these,](https://www.reddit.com/r/Kotlin/comments/1hlexhy/im_looking_for_a_proficient_kotlin_developer_to/)
+- [ANDROID APPLICATION PROJECT BUYER hello, i want the project ready made project which is related to ecommerce shopping application like URBANIC or MEESHO . please contact me ! i want to buy your default project !](https://www.reddit.com/r/Kotlin/comments/1hlef3i/android_application_project_buyer_hello_i_want/)
+- [What’s new in Flutter 3.27](https://www.reddit.com/r/Kotlin/comments/1hldmox/whats_new_in_flutter_327/)
+- [8× faster 5× memory savings with Dan Rusu’s Immutable Arrays](https://www.reddit.com/r/Kotlin/comments/1hlbge9/8_faster_5_memory_savings_with_dan_rusus/)
 - [Learning kotlin](https://www.reddit.com/r/Kotlin/comments/1hl1ojm/learning_kotlin/)
 - [Thumbnail Fixer, a tool to repair &amp; enhance embedded thumbnails!](https://www.reddit.com/r/Kotlin/comments/1hkthk4/thumbnail_fixer_a_tool_to_repair_enhance_embedded/)
 - [🌟 KStateMachine v0.33.0 Released!](https://www.reddit.com/r/Kotlin/comments/1hkljzg/kstatemachine_v0330_released/)
-- [Article: How I Made a Game Engine Using MVI in Kotlin](https://www.reddit.com/r/Kotlin/comments/1hkalqw/article_how_i_made_a_game_engine_using_mvi_in/)
-- [kotlin.document.store - Fast NoSql document store for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1hk3lio/kotlindocumentstore_fast_nosql_document_store_for/)
-- [kotlin Desktop learning](https://www.reddit.com/r/Kotlin/comments/1hk3koh/kotlin_desktop_learning/)
-- [can you please share your experience how you have learned kotlin ? &amp; in how many months or years you prepared to get an entry level job in india ! just be accurate ! thank you so much in advance](https://www.reddit.com/r/Kotlin/comments/1hk3252/can_you_please_share_your_experience_how_you_have/)
-- [Got my first software developer job as a junior, what to expect?](https://www.reddit.com/r/Kotlin/comments/1hjyuc0/got_my_first_software_developer_job_as_a_junior/)
-- [I didn&#39;t understand the code... until I made it my way](https://www.reddit.com/r/Kotlin/comments/1hjiqr7/i_didnt_understand_the_code_until_i_made_it_my_way/)
-- [Unable to run Kotlin courses in IntelliJ IDEA Community edition in Linux](https://www.reddit.com/r/Kotlin/comments/1hjgy1d/unable_to_run_kotlin_courses_in_intellij_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
