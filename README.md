@@ -272,11 +272,11 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Created my own custom scratch card inspired by the Lidl mobile app.](https://www.reddit.com/r/Kotlin/comments/1hm8jqr/created_my_own_custom_scratch_card_inspired_by/)
+- [All videos out of date or missing important details](https://www.reddit.com/r/Kotlin/comments/1hluwkb/all_videos_out_of_date_or_missing_important/)
 - [[KMP] Confussion with plugins](https://www.reddit.com/r/Kotlin/comments/1hlmgly/kmp_confussion_with_plugins/)
 - [Making A Team: Building Kompute - A Modern Scientific Computing Library in Kotlin](https://www.reddit.com/r/Kotlin/comments/1hli2bj/making_a_team_building_kompute_a_modern/)
 - [Where to start with kotlin?](https://www.reddit.com/r/Kotlin/comments/1hlgjgp/where_to_start_with_kotlin/)
-- [I&#39;m looking for a proficient Kotlin developer to create a native-platform &lpar; Android&rpar; e-commerce app. The app should include: - A comprehensive product catalog - A user-friendly shopping cart - Seamless payment gateway integration Beyond these,](https://www.reddit.com/r/Kotlin/comments/1hlexhy/im_looking_for_a_proficient_kotlin_developer_to/)
-- [ANDROID APPLICATION PROJECT BUYER hello, i want the project ready made project which is related to ecommerce shopping application like URBANIC or MEESHO . please contact me ! i want to buy your default project !](https://www.reddit.com/r/Kotlin/comments/1hlef3i/android_application_project_buyer_hello_i_want/)
 - [What’s new in Flutter 3.27](https://www.reddit.com/r/Kotlin/comments/1hldmox/whats_new_in_flutter_327/)
 - [8× faster 5× memory savings with Dan Rusu’s Immutable Arrays](https://www.reddit.com/r/Kotlin/comments/1hlbge9/8_faster_5_memory_savings_with_dan_rusus/)
 - [Learning kotlin](https://www.reddit.com/r/Kotlin/comments/1hl1ojm/learning_kotlin/)
