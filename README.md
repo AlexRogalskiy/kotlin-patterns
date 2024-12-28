@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MPS and Kotlin together? What&#39;s your experience?](https://www.reddit.com/r/Kotlin/comments/1hnmy59/mps_and_kotlin_together_whats_your_experience/)
+- [Test Visualisation with Mermaid](https://www.reddit.com/r/Kotlin/comments/1hngbq7/test_visualisation_with_mermaid/)
+- [building a crypto trading bot - ktor or no?](https://www.reddit.com/r/Kotlin/comments/1hnathl/building_a_crypto_trading_bot_ktor_or_no/)
 - [KMP open source home workout exercise app](https://www.reddit.com/r/Kotlin/comments/1hmm4yk/kmp_open_source_home_workout_exercise_app/)
 - [Is platform-dependent mobile development justified today?](https://www.reddit.com/r/Kotlin/comments/1hmlgaf/is_platformdependent_mobile_development_justified/)
 - [Created my own custom scratch card inspired by the Lidl mobile app.](https://www.reddit.com/r/Kotlin/comments/1hm8jqr/created_my_own_custom_scratch_card_inspired_by/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [[KMP] Confussion with plugins](https://www.reddit.com/r/Kotlin/comments/1hlmgly/kmp_confussion_with_plugins/)
 - [Making A Team: Building Kompute - A Modern Scientific Computing Library in Kotlin](https://www.reddit.com/r/Kotlin/comments/1hli2bj/making_a_team_building_kompute_a_modern/)
 - [Where to start with kotlin?](https://www.reddit.com/r/Kotlin/comments/1hlgjgp/where_to_start_with_kotlin/)
-- [What’s new in Flutter 3.27](https://www.reddit.com/r/Kotlin/comments/1hldmox/whats_new_in_flutter_327/)
-- [8× faster 5× memory savings with Dan Rusu’s Immutable Arrays](https://www.reddit.com/r/Kotlin/comments/1hlbge9/8_faster_5_memory_savings_with_dan_rusus/)
-- [Learning kotlin](https://www.reddit.com/r/Kotlin/comments/1hl1ojm/learning_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
