@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [MPS and Kotlin together? What&#39;s your experience?](https://www.reddit.com/r/Kotlin/comments/1hnmy59/mps_and_kotlin_together_whats_your_experience/)
+- [Mutable Types in Wire](https://www.reddit.com/r/Kotlin/comments/1hokz8v/mutable_types_in_wire/)
+- [ADHD Junior Android/ Kotlin Dev needing help!](https://www.reddit.com/r/Kotlin/comments/1hoii5g/adhd_junior_android_kotlin_dev_needing_help/)
+- [how to configure nodemon like setup in kotlin/ktor development server](https://www.reddit.com/r/Kotlin/comments/1hoaboc/how_to_configure_nodemon_like_setup_in_kotlinktor/)
+- [How to resolve the following error &quot;Inconsistent JVM-target compatibility detected for tasks &#39;compileJava&#39; &lpar;23&rpar; and &#39;compileKotlin&#39; &lpar;22&rpar;.&quot;](https://www.reddit.com/r/Kotlin/comments/1ho2iyx/how_to_resolve_the_following_error_inconsistent/)
+- [the kotlin + android equivalent of CS 193P?](https://www.reddit.com/r/Kotlin/comments/1ho2271/the_kotlin_android_equivalent_of_cs_193p/)
 - [Test Visualisation with Mermaid](https://www.reddit.com/r/Kotlin/comments/1hngbq7/test_visualisation_with_mermaid/)
-- [building a crypto trading bot - ktor or no?](https://www.reddit.com/r/Kotlin/comments/1hnathl/building_a_crypto_trading_bot_ktor_or_no/)
 - [KMP open source home workout exercise app](https://www.reddit.com/r/Kotlin/comments/1hmm4yk/kmp_open_source_home_workout_exercise_app/)
 - [Is platform-dependent mobile development justified today?](https://www.reddit.com/r/Kotlin/comments/1hmlgaf/is_platformdependent_mobile_development_justified/)
 - [Created my own custom scratch card inspired by the Lidl mobile app.](https://www.reddit.com/r/Kotlin/comments/1hm8jqr/created_my_own_custom_scratch_card_inspired_by/)
 - [All videos out of date or missing important details](https://www.reddit.com/r/Kotlin/comments/1hluwkb/all_videos_out_of_date_or_missing_important/)
-- [[KMP] Confussion with plugins](https://www.reddit.com/r/Kotlin/comments/1hlmgly/kmp_confussion_with_plugins/)
-- [Making A Team: Building Kompute - A Modern Scientific Computing Library in Kotlin](https://www.reddit.com/r/Kotlin/comments/1hli2bj/making_a_team_building_kompute_a_modern/)
-- [Where to start with kotlin?](https://www.reddit.com/r/Kotlin/comments/1hlgjgp/where_to_start_with_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
