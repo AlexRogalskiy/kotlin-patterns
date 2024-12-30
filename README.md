@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP AI Interface - Web,Desktop,Mobile](https://www.reddit.com/r/Kotlin/comments/1hozr3w/kmp_ai_interface_webdesktopmobile/)
 - [Mutable Types in Wire](https://www.reddit.com/r/Kotlin/comments/1hokz8v/mutable_types_in_wire/)
 - [ADHD Junior Android/ Kotlin Dev needing help!](https://www.reddit.com/r/Kotlin/comments/1hoii5g/adhd_junior_android_kotlin_dev_needing_help/)
 - [how to configure nodemon like setup in kotlin/ktor development server](https://www.reddit.com/r/Kotlin/comments/1hoaboc/how_to_configure_nodemon_like_setup_in_kotlinktor/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [KMP open source home workout exercise app](https://www.reddit.com/r/Kotlin/comments/1hmm4yk/kmp_open_source_home_workout_exercise_app/)
 - [Is platform-dependent mobile development justified today?](https://www.reddit.com/r/Kotlin/comments/1hmlgaf/is_platformdependent_mobile_development_justified/)
 - [Created my own custom scratch card inspired by the Lidl mobile app.](https://www.reddit.com/r/Kotlin/comments/1hm8jqr/created_my_own_custom_scratch_card_inspired_by/)
-- [All videos out of date or missing important details](https://www.reddit.com/r/Kotlin/comments/1hluwkb/all_videos_out_of_date_or_missing_important/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
