@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mutation Testing with Bazel](https://www.reddit.com/r/Kotlin/comments/1hq14mb/mutation_testing_with_bazel/)
+- [Kotlin backend projects sorted by complexity](https://www.reddit.com/r/Kotlin/comments/1hpo8x9/kotlin_backend_projects_sorted_by_complexity/)
 - [KMP AI Interface - Web,Desktop,Mobile](https://www.reddit.com/r/Kotlin/comments/1hozr3w/kmp_ai_interface_webdesktopmobile/)
 - [Mutable Types in Wire](https://www.reddit.com/r/Kotlin/comments/1hokz8v/mutable_types_in_wire/)
 - [ADHD Junior Android/ Kotlin Dev needing help!](https://www.reddit.com/r/Kotlin/comments/1hoii5g/adhd_junior_android_kotlin_dev_needing_help/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [the kotlin + android equivalent of CS 193P?](https://www.reddit.com/r/Kotlin/comments/1ho2271/the_kotlin_android_equivalent_of_cs_193p/)
 - [Test Visualisation with Mermaid](https://www.reddit.com/r/Kotlin/comments/1hngbq7/test_visualisation_with_mermaid/)
 - [KMP open source home workout exercise app](https://www.reddit.com/r/Kotlin/comments/1hmm4yk/kmp_open_source_home_workout_exercise_app/)
-- [Is platform-dependent mobile development justified today?](https://www.reddit.com/r/Kotlin/comments/1hmlgaf/is_platformdependent_mobile_development_justified/)
-- [Created my own custom scratch card inspired by the Lidl mobile app.](https://www.reddit.com/r/Kotlin/comments/1hm8jqr/created_my_own_custom_scratch_card_inspired_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
