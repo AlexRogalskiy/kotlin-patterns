@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Library development for KMP and java compatibility](https://www.reddit.com/r/Kotlin/comments/1hqlt7u/library_development_for_kmp_and_java_compatibility/)
+- [Print using thermal printer](https://www.reddit.com/r/Kotlin/comments/1hqlnrn/print_using_thermal_printer/)
+- [Suggestions on learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1hql7xq/suggestions_on_learning_kotlin/)
+- [Koin 2024 Highlights: Thank you Koin Community](https://www.reddit.com/r/Kotlin/comments/1hqcbih/koin_2024_highlights_thank_you_koin_community/)
+- [Introducing Karya!](https://www.reddit.com/r/Kotlin/comments/1hq9owo/introducing_karya/)
 - [Mutation Testing with Bazel](https://www.reddit.com/r/Kotlin/comments/1hq14mb/mutation_testing_with_bazel/)
 - [Kotlin backend projects sorted by complexity](https://www.reddit.com/r/Kotlin/comments/1hpo8x9/kotlin_backend_projects_sorted_by_complexity/)
 - [KMP AI Interface - Web,Desktop,Mobile](https://www.reddit.com/r/Kotlin/comments/1hozr3w/kmp_ai_interface_webdesktopmobile/)
 - [Mutable Types in Wire](https://www.reddit.com/r/Kotlin/comments/1hokz8v/mutable_types_in_wire/)
 - [ADHD Junior Android/ Kotlin Dev needing help!](https://www.reddit.com/r/Kotlin/comments/1hoii5g/adhd_junior_android_kotlin_dev_needing_help/)
-- [how to configure nodemon like setup in kotlin/ktor development server](https://www.reddit.com/r/Kotlin/comments/1hoaboc/how_to_configure_nodemon_like_setup_in_kotlinktor/)
-- [How to resolve the following error &quot;Inconsistent JVM-target compatibility detected for tasks &#39;compileJava&#39; &lpar;23&rpar; and &#39;compileKotlin&#39; &lpar;22&rpar;.&quot;](https://www.reddit.com/r/Kotlin/comments/1ho2iyx/how_to_resolve_the_following_error_inconsistent/)
-- [the kotlin + android equivalent of CS 193P?](https://www.reddit.com/r/Kotlin/comments/1ho2271/the_kotlin_android_equivalent_of_cs_193p/)
-- [Test Visualisation with Mermaid](https://www.reddit.com/r/Kotlin/comments/1hngbq7/test_visualisation_with_mermaid/)
-- [KMP open source home workout exercise app](https://www.reddit.com/r/Kotlin/comments/1hmm4yk/kmp_open_source_home_workout_exercise_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
