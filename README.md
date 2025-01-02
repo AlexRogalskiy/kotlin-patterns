@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Guards and Pattern Guards](https://www.reddit.com/r/Kotlin/comments/1hr7lgk/guards_and_pattern_guards/)
+- [Simplifying Dependency Management Using Version Catalogs in Gradle](https://www.reddit.com/r/Kotlin/comments/1hqwv16/simplifying_dependency_management_using_version/)
 - [Library development for KMP and java compatibility](https://www.reddit.com/r/Kotlin/comments/1hqlt7u/library_development_for_kmp_and_java_compatibility/)
 - [Print using thermal printer](https://www.reddit.com/r/Kotlin/comments/1hqlnrn/print_using_thermal_printer/)
 - [Suggestions on learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1hql7xq/suggestions_on_learning_kotlin/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Mutation Testing with Bazel](https://www.reddit.com/r/Kotlin/comments/1hq14mb/mutation_testing_with_bazel/)
 - [Kotlin backend projects sorted by complexity](https://www.reddit.com/r/Kotlin/comments/1hpo8x9/kotlin_backend_projects_sorted_by_complexity/)
 - [KMP AI Interface - Web,Desktop,Mobile](https://www.reddit.com/r/Kotlin/comments/1hozr3w/kmp_ai_interface_webdesktopmobile/)
-- [Mutable Types in Wire](https://www.reddit.com/r/Kotlin/comments/1hokz8v/mutable_types_in_wire/)
-- [ADHD Junior Android/ Kotlin Dev needing help!](https://www.reddit.com/r/Kotlin/comments/1hoii5g/adhd_junior_android_kotlin_dev_needing_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
