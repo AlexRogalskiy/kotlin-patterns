@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing Alchemist: type safe management and arithmetic for physical quantities &lpar;like watts, meters, joules, etc&rpar;. Inspired by kotlin.time.Duration](https://www.reddit.com/r/Kotlin/comments/1hsaex1/introducing_alchemist_type_safe_management_and/)
+- [Reviewing Kotlin after 2 years of professional use](https://www.reddit.com/r/Kotlin/comments/1hrycrb/reviewing_kotlin_after_2_years_of_professional_use/)
+- [Are there any options for web front-end development in Kotlin besides Compose?](https://www.reddit.com/r/Kotlin/comments/1hrv63d/are_there_any_options_for_web_frontend/)
+- [How to filter every element that repeats more than n times](https://www.reddit.com/r/Kotlin/comments/1hru8g5/how_to_filter_every_element_that_repeats_more/)
+- [How Java&#39;s Executable Assembly Jars Work](https://www.reddit.com/r/Kotlin/comments/1hrr5fr/how_javas_executable_assembly_jars_work/)
+- [How can a begineer learn kotlin?](https://www.reddit.com/r/Kotlin/comments/1hro43p/how_can_a_begineer_learn_kotlin/)
 - [Guards and Pattern Guards](https://www.reddit.com/r/Kotlin/comments/1hr7lgk/guards_and_pattern_guards/)
 - [Simplifying Dependency Management Using Version Catalogs in Gradle](https://www.reddit.com/r/Kotlin/comments/1hqwv16/simplifying_dependency_management_using_version/)
 - [Library development for KMP and java compatibility](https://www.reddit.com/r/Kotlin/comments/1hqlt7u/library_development_for_kmp_and_java_compatibility/)
 - [Print using thermal printer](https://www.reddit.com/r/Kotlin/comments/1hqlnrn/print_using_thermal_printer/)
-- [Suggestions on learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1hql7xq/suggestions_on_learning_kotlin/)
-- [Koin 2024 Highlights: Thank you Koin Community](https://www.reddit.com/r/Kotlin/comments/1hqcbih/koin_2024_highlights_thank_you_koin_community/)
-- [Introducing Karya!](https://www.reddit.com/r/Kotlin/comments/1hq9owo/introducing_karya/)
-- [Mutation Testing with Bazel](https://www.reddit.com/r/Kotlin/comments/1hq14mb/mutation_testing_with_bazel/)
-- [Kotlin backend projects sorted by complexity](https://www.reddit.com/r/Kotlin/comments/1hpo8x9/kotlin_backend_projects_sorted_by_complexity/)
-- [KMP AI Interface - Web,Desktop,Mobile](https://www.reddit.com/r/Kotlin/comments/1hozr3w/kmp_ai_interface_webdesktopmobile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
