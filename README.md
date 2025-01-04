@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just-in-Time Tooling with Mermaid, Kotlin &amp; JUnit](https://www.reddit.com/r/Kotlin/comments/1hsohvz/justintime_tooling_with_mermaid_kotlin_junit/)
+- [How to get started with the Kotzilla Debugging Platform for Koin Users](https://www.reddit.com/r/Kotlin/comments/1hsjk4z/how_to_get_started_with_the_kotzilla_debugging/)
 - [Introducing Alchemist: type safe management and arithmetic for physical quantities &lpar;like watts, meters, joules, etc&rpar;. Inspired by kotlin.time.Duration](https://www.reddit.com/r/Kotlin/comments/1hsaex1/introducing_alchemist_type_safe_management_and/)
 - [Reviewing Kotlin after 2 years of professional use](https://www.reddit.com/r/Kotlin/comments/1hrycrb/reviewing_kotlin_after_2_years_of_professional_use/)
 - [Are there any options for web front-end development in Kotlin besides Compose?](https://www.reddit.com/r/Kotlin/comments/1hrv63d/are_there_any_options_for_web_frontend/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How can a begineer learn kotlin?](https://www.reddit.com/r/Kotlin/comments/1hro43p/how_can_a_begineer_learn_kotlin/)
 - [Guards and Pattern Guards](https://www.reddit.com/r/Kotlin/comments/1hr7lgk/guards_and_pattern_guards/)
 - [Simplifying Dependency Management Using Version Catalogs in Gradle](https://www.reddit.com/r/Kotlin/comments/1hqwv16/simplifying_dependency_management_using_version/)
-- [Library development for KMP and java compatibility](https://www.reddit.com/r/Kotlin/comments/1hqlt7u/library_development_for_kmp_and_java_compatibility/)
-- [Print using thermal printer](https://www.reddit.com/r/Kotlin/comments/1hqlnrn/print_using_thermal_printer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
