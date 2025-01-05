@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I want a course in Kotlin language, please guys](https://www.reddit.com/r/Kotlin/comments/1htc2s3/i_want_a_course_in_kotlin_language_please_guys/)
+- [Every language should have this feature &lpar;Kotlin let/also/apply/run/with&rpar;](https://www.reddit.com/r/Kotlin/comments/1hta504/every_language_should_have_this_feature_kotlin/)
 - [Just-in-Time Tooling with Mermaid, Kotlin &amp; JUnit](https://www.reddit.com/r/Kotlin/comments/1hsohvz/justintime_tooling_with_mermaid_kotlin_junit/)
 - [How to get started with the Kotzilla Debugging Platform for Koin Users](https://www.reddit.com/r/Kotlin/comments/1hsjk4z/how_to_get_started_with_the_kotzilla_debugging/)
 - [Introducing Alchemist: type safe management and arithmetic for physical quantities &lpar;like watts, meters, joules, etc&rpar;. Inspired by kotlin.time.Duration](https://www.reddit.com/r/Kotlin/comments/1hsaex1/introducing_alchemist_type_safe_management_and/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to filter every element that repeats more than n times](https://www.reddit.com/r/Kotlin/comments/1hru8g5/how_to_filter_every_element_that_repeats_more/)
 - [How Java&#39;s Executable Assembly Jars Work](https://www.reddit.com/r/Kotlin/comments/1hrr5fr/how_javas_executable_assembly_jars_work/)
 - [How can a begineer learn kotlin?](https://www.reddit.com/r/Kotlin/comments/1hro43p/how_can_a_begineer_learn_kotlin/)
-- [Guards and Pattern Guards](https://www.reddit.com/r/Kotlin/comments/1hr7lgk/guards_and_pattern_guards/)
-- [Simplifying Dependency Management Using Version Catalogs in Gradle](https://www.reddit.com/r/Kotlin/comments/1hqwv16/simplifying_dependency_management_using_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
