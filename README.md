@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How does JDBC affect Ktor performance?](https://www.reddit.com/r/Kotlin/comments/1huk7nw/how_does_jdbc_affect_ktor_performance/)
+- [New fork of the kotlin language server](https://www.reddit.com/r/Kotlin/comments/1huen7v/new_fork_of_the_kotlin_language_server/)
+- [Kortex.cpp a Library to use Cortex.cpp in Kotlin](https://www.reddit.com/r/Kotlin/comments/1hubvpc/kortexcpp_a_library_to_use_cortexcpp_in_kotlin/)
 - [I want a course in Kotlin language, please guys](https://www.reddit.com/r/Kotlin/comments/1htc2s3/i_want_a_course_in_kotlin_language_please_guys/)
 - [Every language should have this feature &lpar;Kotlin let/also/apply/run/with&rpar;](https://www.reddit.com/r/Kotlin/comments/1hta504/every_language_should_have_this_feature_kotlin/)
 - [Just-in-Time Tooling with Mermaid, Kotlin &amp; JUnit](https://www.reddit.com/r/Kotlin/comments/1hsohvz/justintime_tooling_with_mermaid_kotlin_junit/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Introducing Alchemist: type safe management and arithmetic for physical quantities &lpar;like watts, meters, joules, etc&rpar;. Inspired by kotlin.time.Duration](https://www.reddit.com/r/Kotlin/comments/1hsaex1/introducing_alchemist_type_safe_management_and/)
 - [Reviewing Kotlin after 2 years of professional use](https://www.reddit.com/r/Kotlin/comments/1hrycrb/reviewing_kotlin_after_2_years_of_professional_use/)
 - [Are there any options for web front-end development in Kotlin besides Compose?](https://www.reddit.com/r/Kotlin/comments/1hrv63d/are_there_any_options_for_web_frontend/)
-- [How to filter every element that repeats more than n times](https://www.reddit.com/r/Kotlin/comments/1hru8g5/how_to_filter_every_element_that_repeats_more/)
-- [How Java&#39;s Executable Assembly Jars Work](https://www.reddit.com/r/Kotlin/comments/1hrr5fr/how_javas_executable_assembly_jars_work/)
-- [How can a begineer learn kotlin?](https://www.reddit.com/r/Kotlin/comments/1hro43p/how_can_a_begineer_learn_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
