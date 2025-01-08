@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Native to KMP](https://www.reddit.com/r/Kotlin/comments/1hw6gax/native_to_kmp/)
+- [Reminder: The Kotlin Multiplatform Contest deadline is January 14](https://www.reddit.com/r/Kotlin/comments/1hw3bub/reminder_the_kotlin_multiplatform_contest/)
+- [Using swing docking framework with compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1hvziye/using_swing_docking_framework_with_compose/)
 - [Kotlin](https://www.reddit.com/r/Kotlin/comments/1hvev75/kotlin/)
 - [Seeking Help with K2 Compiler Plugin Template for Master&#39;s Thesis Project](https://www.reddit.com/r/Kotlin/comments/1hvcfj8/seeking_help_with_k2_compiler_plugin_template_for/)
 - [Newbie in Kotlin: good practices.](https://www.reddit.com/r/Kotlin/comments/1hv9pod/newbie_in_kotlin_good_practices/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [File gets unresolved reference issue](https://www.reddit.com/r/Kotlin/comments/1huyajd/file_gets_unresolved_reference_issue/)
 - [I feel you man xD](https://www.reddit.com/r/Kotlin/comments/1huxtda/i_feel_you_man_xd/)
 - [Tolgee - open-source i18n platform now supports Kotlin Multiplatform for import &amp; export](https://www.reddit.com/r/Kotlin/comments/1huxint/tolgee_opensource_i18n_platform_now_supports/)
-- [Google Assistant API &lpar;Doesn&#39;t work anymore&rpar;](https://www.reddit.com/r/Kotlin/comments/1husm84/google_assistant_api_doesnt_work_anymore/)
-- [How does JDBC affect Ktor performance?](https://www.reddit.com/r/Kotlin/comments/1huk7nw/how_does_jdbc_affect_ktor_performance/)
-- [New fork of the kotlin language server](https://www.reddit.com/r/Kotlin/comments/1huen7v/new_fork_of_the_kotlin_language_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
