@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jetpack UI to edit hashmap?](https://www.reddit.com/r/Kotlin/comments/1hx07bm/jetpack_ui_to_edit_hashmap/)
+- [Why Kotlin does not generate an unused warning for private fields which are only written to?](https://www.reddit.com/r/Kotlin/comments/1hwihup/why_kotlin_does_not_generate_an_unused_warning/)
+- [Scope functions should be avoided?](https://www.reddit.com/r/Kotlin/comments/1hwdz4w/scope_functions_should_be_avoided/)
+- [Pak: A ZLib Library for Kotlin](https://www.reddit.com/r/Kotlin/comments/1hwb39i/pak_a_zlib_library_for_kotlin/)
 - [Native to KMP](https://www.reddit.com/r/Kotlin/comments/1hw6gax/native_to_kmp/)
 - [Reminder: The Kotlin Multiplatform Contest deadline is January 14](https://www.reddit.com/r/Kotlin/comments/1hw3bub/reminder_the_kotlin_multiplatform_contest/)
 - [Using swing docking framework with compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1hvziye/using_swing_docking_framework_with_compose/)
 - [Kotlin](https://www.reddit.com/r/Kotlin/comments/1hvev75/kotlin/)
 - [Seeking Help with K2 Compiler Plugin Template for Master&#39;s Thesis Project](https://www.reddit.com/r/Kotlin/comments/1hvcfj8/seeking_help_with_k2_compiler_plugin_template_for/)
 - [Newbie in Kotlin: good practices.](https://www.reddit.com/r/Kotlin/comments/1hv9pod/newbie_in_kotlin_good_practices/)
-- [Considering Qt-like Signals/Slots in Kotlin](https://www.reddit.com/r/Kotlin/comments/1hv5mgu/considering_qtlike_signalsslots_in_kotlin/)
-- [File gets unresolved reference issue](https://www.reddit.com/r/Kotlin/comments/1huyajd/file_gets_unresolved_reference_issue/)
-- [I feel you man xD](https://www.reddit.com/r/Kotlin/comments/1huxtda/i_feel_you_man_xd/)
-- [Tolgee - open-source i18n platform now supports Kotlin Multiplatform for import &amp; export](https://www.reddit.com/r/Kotlin/comments/1huxint/tolgee_opensource_i18n_platform_now_supports/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
