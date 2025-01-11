@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Integrating Gemini with mcp.run on Android](https://www.reddit.com/r/Kotlin/comments/1hyj36p/integrating_gemini_with_mcprun_on_android/)
+- [Understanding Java Garbage Collector Performance](https://www.reddit.com/r/Kotlin/comments/1hyg8d7/understanding_java_garbage_collector_performance/)
+- [Run bash command with ProcessBuilder like in real terminal](https://www.reddit.com/r/Kotlin/comments/1hy83ck/run_bash_command_with_processbuilder_like_in_real/)
+- [AI vs Human Kotlin Refactoring Showdown](https://www.reddit.com/r/Kotlin/comments/1hy6ju7/ai_vs_human_kotlin_refactoring_showdown/)
+- [Seriously, firstNotNullOfOrNull?](https://www.reddit.com/r/Kotlin/comments/1hy3bhg/seriously_firstnotnullofornull/)
+- [Eclipse VS Idea?](https://www.reddit.com/r/Kotlin/comments/1hy240n/eclipse_vs_idea/)
+- [Kobweb or Compose for web .](https://www.reddit.com/r/Kotlin/comments/1hy1c8c/kobweb_or_compose_for_web/)
 - [I&#39;ll pay 300 dollars to whoever builds a simple android app for me](https://www.reddit.com/r/Kotlin/comments/1hxt1ie/ill_pay_300_dollars_to_whoever_builds_a_simple/)
 - [Trouble with android studio design pane.](https://www.reddit.com/r/Kotlin/comments/1hxn9qm/trouble_with_android_studio_design_pane/)
 - [Become a KotlinConf 2025 volunteer](https://www.reddit.com/r/Kotlin/comments/1hxia86/become_a_kotlinconf_2025_volunteer/)
-- [Kotlin UI &amp; GUI](https://www.reddit.com/r/Kotlin/comments/1hxdv32/kotlin_ui_gui/)
-- [What are your experiences with Korge?](https://www.reddit.com/r/Kotlin/comments/1hxdsby/what_are_your_experiences_with_korge/)
-- [Everything you might have missed in Java Ecosystem in 2024](https://www.reddit.com/r/Kotlin/comments/1hxdpzt/everything_you_might_have_missed_in_java/)
-- [Jetpack UI to edit hashmap?](https://www.reddit.com/r/Kotlin/comments/1hx07bm/jetpack_ui_to_edit_hashmap/)
-- [Why Kotlin does not generate an unused warning for private fields which are only written to?](https://www.reddit.com/r/Kotlin/comments/1hwihup/why_kotlin_does_not_generate_an_unused_warning/)
-- [Scope functions should be avoided?](https://www.reddit.com/r/Kotlin/comments/1hwdz4w/scope_functions_should_be_avoided/)
-- [Pak: A ZLib Library for Kotlin](https://www.reddit.com/r/Kotlin/comments/1hwb39i/pak_a_zlib_library_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
