@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Error on Room Delete function](https://www.reddit.com/r/Kotlin/comments/1i01ejt/error_on_room_delete_function/)
+- [Awesome Kotlin Notebooks](https://www.reddit.com/r/Kotlin/comments/1hzpngf/awesome_kotlin_notebooks/)
+- [Conservative Librarian - Hold Back For Your Users To Flourish](https://www.reddit.com/r/Kotlin/comments/1hzmfx1/conservative_librarian_hold_back_for_your_users/)
+- [Semicolon inference](https://www.reddit.com/r/Kotlin/comments/1hzcsbj/semicolon_inference/)
 - [Is it worth it](https://www.reddit.com/r/Kotlin/comments/1hz7bho/is_it_worth_it/)
 - [Am I the only one who hates typescript?](https://www.reddit.com/r/Kotlin/comments/1hz2zot/am_i_the_only_one_who_hates_typescript/)
 - [Sqlx4k: A high-performance, non-blocking database driver for PostgreSQL, MySQL, and SQLite, written for Kotlin Native.](https://www.reddit.com/r/Kotlin/comments/1hyukod/sqlx4k_a_highperformance_nonblocking_database/)
 - [Any Java devs switched to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1hys8ki/any_java_devs_switched_to_kotlin/)
 - [Integrating Gemini with mcp.run on Android](https://www.reddit.com/r/Kotlin/comments/1hyj36p/integrating_gemini_with_mcprun_on_android/)
 - [Understanding Java Garbage Collector Performance](https://www.reddit.com/r/Kotlin/comments/1hyg8d7/understanding_java_garbage_collector_performance/)
-- [Run bash command with ProcessBuilder like in real terminal](https://www.reddit.com/r/Kotlin/comments/1hy83ck/run_bash_command_with_processbuilder_like_in_real/)
-- [AI vs Human Kotlin Refactoring Showdown](https://www.reddit.com/r/Kotlin/comments/1hy6ju7/ai_vs_human_kotlin_refactoring_showdown/)
-- [Seriously, firstNotNullOfOrNull?](https://www.reddit.com/r/Kotlin/comments/1hy3bhg/seriously_firstnotnullofornull/)
-- [Eclipse VS Idea?](https://www.reddit.com/r/Kotlin/comments/1hy240n/eclipse_vs_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
