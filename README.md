@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Real-World Use Case: Using Rust for Computationally Heavy Tasks in Kotlin &lpar;and Java&rpar; Projects](https://www.reddit.com/r/Kotlin/comments/1i0txi2/realworld_use_case_using_rust_for_computationally/)
+- [🚀 Kotools Types 5.0.0 is available!](https://www.reddit.com/r/Kotlin/comments/1i0iv97/kotools_types_500_is_available/)
+- [Kotlin Library Friends - Using the Internals](https://www.reddit.com/r/Kotlin/comments/1i0d3e6/kotlin_library_friends_using_the_internals/)
+- [Collection Processing Guesser in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1i0cwky/collection_processing_guesser_in_compose/)
+- [Issue with running/gradle on KMM project](https://www.reddit.com/r/Kotlin/comments/1i0a8ym/issue_with_runninggradle_on_kmm_project/)
+- [Join a Kotlin Multiplatform Community on Slack](https://www.reddit.com/r/Kotlin/comments/1i07pwt/join_a_kotlin_multiplatform_community_on_slack/)
+- [Kotlin KMP Mobile Attendance Application](https://www.reddit.com/r/Kotlin/comments/1i06uju/kotlin_kmp_mobile_attendance_application/)
+- [How can I fix the errors below?](https://www.reddit.com/r/Kotlin/comments/1i06f4o/how_can_i_fix_the_errors_below/)
+- [What are Kotlin tricks you wish you knew sooner?](https://www.reddit.com/r/Kotlin/comments/1i04nsy/what_are_kotlin_tricks_you_wish_you_knew_sooner/)
 - [Error on Room Delete function](https://www.reddit.com/r/Kotlin/comments/1i01ejt/error_on_room_delete_function/)
-- [Awesome Kotlin Notebooks](https://www.reddit.com/r/Kotlin/comments/1hzpngf/awesome_kotlin_notebooks/)
-- [Conservative Librarian - Hold Back For Your Users To Flourish](https://www.reddit.com/r/Kotlin/comments/1hzmfx1/conservative_librarian_hold_back_for_your_users/)
-- [Semicolon inference](https://www.reddit.com/r/Kotlin/comments/1hzcsbj/semicolon_inference/)
-- [Is it worth it](https://www.reddit.com/r/Kotlin/comments/1hz7bho/is_it_worth_it/)
-- [Am I the only one who hates typescript?](https://www.reddit.com/r/Kotlin/comments/1hz2zot/am_i_the_only_one_who_hates_typescript/)
-- [Sqlx4k: A high-performance, non-blocking database driver for PostgreSQL, MySQL, and SQLite, written for Kotlin Native.](https://www.reddit.com/r/Kotlin/comments/1hyukod/sqlx4k_a_highperformance_nonblocking_database/)
-- [Any Java devs switched to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1hys8ki/any_java_devs_switched_to_kotlin/)
-- [Integrating Gemini with mcp.run on Android](https://www.reddit.com/r/Kotlin/comments/1hyj36p/integrating_gemini_with_mcprun_on_android/)
-- [Understanding Java Garbage Collector Performance](https://www.reddit.com/r/Kotlin/comments/1hyg8d7/understanding_java_garbage_collector_performance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
