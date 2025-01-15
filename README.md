@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can Kotlin-JS allow &quot;Type parameter has inconsistent values&quot;](https://www.reddit.com/r/Kotlin/comments/1i1m39q/can_kotlinjs_allow_type_parameter_has/)
+- [How feasible is it to develop Android apps in vs code or cursor instead of Android Studio and have good development experience?](https://www.reddit.com/r/Kotlin/comments/1i1j758/how_feasible_is_it_to_develop_android_apps_in_vs/)
+- [Kotlin for AI survey](https://www.reddit.com/r/Kotlin/comments/1i1iym0/kotlin_for_ai_survey/)
+- [Flutter or React native from Kotlin?](https://www.reddit.com/r/Kotlin/comments/1i1if5z/flutter_or_react_native_from_kotlin/)
+- [Just hear me out!!! Kotlin multiplatform vs. Javascript&#39;s frameworks](https://www.reddit.com/r/Kotlin/comments/1i15kv4/just_hear_me_out_kotlin_multiplatform_vs/)
+- [[Video] How modifiers order affects UI and its behavior.](https://www.reddit.com/r/Kotlin/comments/1i12qgt/video_how_modifiers_order_affects_ui_and_its/)
+- [Interface Segregation: Why Your Interfaces Should Be Small and Focused](https://www.reddit.com/r/Kotlin/comments/1i11bm9/interface_segregation_why_your_interfaces_should/)
 - [Real-World Use Case: Using Rust for Computationally Heavy Tasks in Kotlin &lpar;and Java&rpar; Projects](https://www.reddit.com/r/Kotlin/comments/1i0txi2/realworld_use_case_using_rust_for_computationally/)
 - [🚀 Kotools Types 5.0.0 is available!](https://www.reddit.com/r/Kotlin/comments/1i0iv97/kotools_types_500_is_available/)
 - [Kotlin Library Friends - Using the Internals](https://www.reddit.com/r/Kotlin/comments/1i0d3e6/kotlin_library_friends_using_the_internals/)
-- [Collection Processing Guesser in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1i0cwky/collection_processing_guesser_in_compose/)
-- [Issue with running/gradle on KMM project](https://www.reddit.com/r/Kotlin/comments/1i0a8ym/issue_with_runninggradle_on_kmm_project/)
-- [Join a Kotlin Multiplatform Community on Slack](https://www.reddit.com/r/Kotlin/comments/1i07pwt/join_a_kotlin_multiplatform_community_on_slack/)
-- [Kotlin KMP Mobile Attendance Application](https://www.reddit.com/r/Kotlin/comments/1i06uju/kotlin_kmp_mobile_attendance_application/)
-- [How can I fix the errors below?](https://www.reddit.com/r/Kotlin/comments/1i06f4o/how_can_i_fix_the_errors_below/)
-- [What are Kotlin tricks you wish you knew sooner?](https://www.reddit.com/r/Kotlin/comments/1i04nsy/what_are_kotlin_tricks_you_wish_you_knew_sooner/)
-- [Error on Room Delete function](https://www.reddit.com/r/Kotlin/comments/1i01ejt/error_on_room_delete_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
