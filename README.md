@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why are the parameters of a class mutable by not the parameters of a function?](https://www.reddit.com/r/Kotlin/comments/1i2e0f3/why_are_the_parameters_of_a_class_mutable_by_not/)
+- [Dispatchers.Unconfined and why you actually want EmptyCoroutineContext](https://www.reddit.com/r/Kotlin/comments/1i2bvp8/dispatchersunconfined_and_why_you_actually_want/)
+- [What do Python programmers fell about Kotlin?](https://www.reddit.com/r/Kotlin/comments/1i25zpx/what_do_python_programmers_fell_about_kotlin/)
+- [Function, KFunction, KCallable, and all those other function types](https://www.reddit.com/r/Kotlin/comments/1i20xuj/function_kfunction_kcallable_and_all_those_other/)
+- [How to build KMP project on M1 MacBook for an Intel MacBook user](https://www.reddit.com/r/Kotlin/comments/1i1xynh/how_to_build_kmp_project_on_m1_macbook_for_an/)
+- [Which backend framework!](https://www.reddit.com/r/Kotlin/comments/1i1uo87/which_backend_framework/)
+- [Where can I find examples of open source desktop apps written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1i1s5l6/where_can_i_find_examples_of_open_source_desktop/)
+- [Resource](https://www.reddit.com/r/Kotlin/comments/1i1r41g/resource/)
 - [Can Kotlin-JS allow &quot;Type parameter has inconsistent values&quot;](https://www.reddit.com/r/Kotlin/comments/1i1m39q/can_kotlinjs_allow_type_parameter_has/)
 - [How feasible is it to develop Android apps in vs code or cursor instead of Android Studio and have good development experience?](https://www.reddit.com/r/Kotlin/comments/1i1j758/how_feasible_is_it_to_develop_android_apps_in_vs/)
-- [Kotlin for AI survey](https://www.reddit.com/r/Kotlin/comments/1i1iym0/kotlin_for_ai_survey/)
-- [Flutter or React native from Kotlin?](https://www.reddit.com/r/Kotlin/comments/1i1if5z/flutter_or_react_native_from_kotlin/)
-- [Just hear me out!!! Kotlin multiplatform vs. Javascript&#39;s frameworks](https://www.reddit.com/r/Kotlin/comments/1i15kv4/just_hear_me_out_kotlin_multiplatform_vs/)
-- [[Video] How modifiers order affects UI and its behavior.](https://www.reddit.com/r/Kotlin/comments/1i12qgt/video_how_modifiers_order_affects_ui_and_its/)
-- [Interface Segregation: Why Your Interfaces Should Be Small and Focused](https://www.reddit.com/r/Kotlin/comments/1i11bm9/interface_segregation_why_your_interfaces_should/)
-- [Real-World Use Case: Using Rust for Computationally Heavy Tasks in Kotlin &lpar;and Java&rpar; Projects](https://www.reddit.com/r/Kotlin/comments/1i0txi2/realworld_use_case_using_rust_for_computationally/)
-- [🚀 Kotools Types 5.0.0 is available!](https://www.reddit.com/r/Kotlin/comments/1i0iv97/kotools_types_500_is_available/)
-- [Kotlin Library Friends - Using the Internals](https://www.reddit.com/r/Kotlin/comments/1i0d3e6/kotlin_library_friends_using_the_internals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
