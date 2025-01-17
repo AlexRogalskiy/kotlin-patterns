@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jetpack Code highlighter for Open source contribution seekers](https://www.reddit.com/r/Kotlin/comments/1i2yn7c/jetpack_code_highlighter_for_open_source/)
+- [How can I record a Jetpack Compose screen with a live camera feed and overlayed drawings without using MediaProjection?](https://www.reddit.com/r/Kotlin/comments/1i2p5yf/how_can_i_record_a_jetpack_compose_screen_with_a/)
+- [[Hiring] We&#39;re looking for Kotlin Engineer](https://www.reddit.com/r/Kotlin/comments/1i2lcrk/hiring_were_looking_for_kotlin_engineer/)
+- [What should I change in my stack](https://www.reddit.com/r/Kotlin/comments/1i2h1nv/what_should_i_change_in_my_stack/)
 - [Why are the parameters of a class mutable by not the parameters of a function?](https://www.reddit.com/r/Kotlin/comments/1i2e0f3/why_are_the_parameters_of_a_class_mutable_by_not/)
 - [Dispatchers.Unconfined and why you actually want EmptyCoroutineContext](https://www.reddit.com/r/Kotlin/comments/1i2bvp8/dispatchersunconfined_and_why_you_actually_want/)
 - [What do Python programmers fell about Kotlin?](https://www.reddit.com/r/Kotlin/comments/1i25zpx/what_do_python_programmers_fell_about_kotlin/)
 - [Function, KFunction, KCallable, and all those other function types](https://www.reddit.com/r/Kotlin/comments/1i20xuj/function_kfunction_kcallable_and_all_those_other/)
 - [How to build KMP project on M1 MacBook for an Intel MacBook user](https://www.reddit.com/r/Kotlin/comments/1i1xynh/how_to_build_kmp_project_on_m1_macbook_for_an/)
 - [Which backend framework!](https://www.reddit.com/r/Kotlin/comments/1i1uo87/which_backend_framework/)
-- [Where can I find examples of open source desktop apps written in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1i1s5l6/where_can_i_find_examples_of_open_source_desktop/)
-- [Resource](https://www.reddit.com/r/Kotlin/comments/1i1r41g/resource/)
-- [Can Kotlin-JS allow &quot;Type parameter has inconsistent values&quot;](https://www.reddit.com/r/Kotlin/comments/1i1m39q/can_kotlinjs_allow_type_parameter_has/)
-- [How feasible is it to develop Android apps in vs code or cursor instead of Android Studio and have good development experience?](https://www.reddit.com/r/Kotlin/comments/1i1j758/how_feasible_is_it_to_develop_android_apps_in_vs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
