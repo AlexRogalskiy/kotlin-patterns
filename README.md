@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KotlinConf 2025 Workshop – &quot;Deep Dive Into Kotlin Multiplatform: Advanced Techniques for Seamless Code Sharing&quot;](https://www.reddit.com/r/Kotlin/comments/1i3k8ce/kotlinconf_2025_workshop_deep_dive_into_kotlin/)
+- [Debugging Initialisation with Dependency Inversion](https://www.reddit.com/r/Kotlin/comments/1i3hl2z/debugging_initialisation_with_dependency_inversion/)
+- [Kotlin Microsoft Desktop With 360 degree view](https://www.reddit.com/r/Kotlin/comments/1i3ggkv/kotlin_microsoft_desktop_with_360_degree_view/)
+- [Code formatting and linting standards](https://www.reddit.com/r/Kotlin/comments/1i3dz3q/code_formatting_and_linting_standards/)
+- [kapt - How to enable incremental apt in maven project](https://www.reddit.com/r/Kotlin/comments/1i3du0l/kapt_how_to_enable_incremental_apt_in_maven/)
+- [How to Solve OutOfMemoryError: Direct buffer memory](https://www.reddit.com/r/Kotlin/comments/1i3dqlw/how_to_solve_outofmemoryerror_direct_buffer_memory/)
+- [The Koin team could really use your help 🙏](https://www.reddit.com/r/Kotlin/comments/1i3do10/the_koin_team_could_really_use_your_help/)
+- [how to create a mariadb table column with type timestamp via exposed?](https://www.reddit.com/r/Kotlin/comments/1i3d7zt/how_to_create_a_mariadb_table_column_with_type/)
+- [Proyecto](https://www.reddit.com/r/Kotlin/comments/1i39ocy/proyecto/)
 - [Jetpack Code highlighter for Open source contribution seekers](https://www.reddit.com/r/Kotlin/comments/1i2yn7c/jetpack_code_highlighter_for_open_source/)
-- [How can I record a Jetpack Compose screen with a live camera feed and overlayed drawings without using MediaProjection?](https://www.reddit.com/r/Kotlin/comments/1i2p5yf/how_can_i_record_a_jetpack_compose_screen_with_a/)
-- [[Hiring] We&#39;re looking for Kotlin Engineer](https://www.reddit.com/r/Kotlin/comments/1i2lcrk/hiring_were_looking_for_kotlin_engineer/)
-- [What should I change in my stack](https://www.reddit.com/r/Kotlin/comments/1i2h1nv/what_should_i_change_in_my_stack/)
-- [Why are the parameters of a class mutable by not the parameters of a function?](https://www.reddit.com/r/Kotlin/comments/1i2e0f3/why_are_the_parameters_of_a_class_mutable_by_not/)
-- [Dispatchers.Unconfined and why you actually want EmptyCoroutineContext](https://www.reddit.com/r/Kotlin/comments/1i2bvp8/dispatchersunconfined_and_why_you_actually_want/)
-- [What do Python programmers fell about Kotlin?](https://www.reddit.com/r/Kotlin/comments/1i25zpx/what_do_python_programmers_fell_about_kotlin/)
-- [Function, KFunction, KCallable, and all those other function types](https://www.reddit.com/r/Kotlin/comments/1i20xuj/function_kfunction_kcallable_and_all_those_other/)
-- [How to build KMP project on M1 MacBook for an Intel MacBook user](https://www.reddit.com/r/Kotlin/comments/1i1xynh/how_to_build_kmp_project_on_m1_macbook_for_an/)
-- [Which backend framework!](https://www.reddit.com/r/Kotlin/comments/1i1uo87/which_backend_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
