@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any websites with kotlin exercises/challenges to practice?](https://www.reddit.com/r/Kotlin/comments/1i5em12/any_websites_with_kotlin_exerciseschallenges_to/)
+- [Tolgee - Compose Library](https://www.reddit.com/r/Kotlin/comments/1i51f53/tolgee_compose_library/)
 - [KotlinConf 2025 Workshop – &quot;Deep Dive Into Kotlin Multiplatform: Advanced Techniques for Seamless Code Sharing&quot;](https://www.reddit.com/r/Kotlin/comments/1i3k8ce/kotlinconf_2025_workshop_deep_dive_into_kotlin/)
 - [Debugging Initialisation with Dependency Inversion](https://www.reddit.com/r/Kotlin/comments/1i3hl2z/debugging_initialisation_with_dependency_inversion/)
 - [Kotlin Microsoft Desktop With 360 degree view](https://www.reddit.com/r/Kotlin/comments/1i3ggkv/kotlin_microsoft_desktop_with_360_degree_view/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to Solve OutOfMemoryError: Direct buffer memory](https://www.reddit.com/r/Kotlin/comments/1i3dqlw/how_to_solve_outofmemoryerror_direct_buffer_memory/)
 - [The Koin team could really use your help 🙏](https://www.reddit.com/r/Kotlin/comments/1i3do10/the_koin_team_could_really_use_your_help/)
 - [how to create a mariadb table column with type timestamp via exposed?](https://www.reddit.com/r/Kotlin/comments/1i3d7zt/how_to_create_a_mariadb_table_column_with_type/)
-- [Proyecto](https://www.reddit.com/r/Kotlin/comments/1i39ocy/proyecto/)
-- [Jetpack Code highlighter for Open source contribution seekers](https://www.reddit.com/r/Kotlin/comments/1i2yn7c/jetpack_code_highlighter_for_open_source/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
