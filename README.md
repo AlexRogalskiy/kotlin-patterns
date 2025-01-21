@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kotlin-base32: Base32 en- and decoding functionality as a tiny Kotlin Multiplatform library](https://www.reddit.com/r/Kotlin/comments/1i60kog/kotlinbase32_base32_en_and_decoding_functionality/)
+- [Android Dev Journey](https://www.reddit.com/r/Kotlin/comments/1i5qc4j/android_dev_journey/)
 - [Any websites with kotlin exercises/challenges to practice?](https://www.reddit.com/r/Kotlin/comments/1i5em12/any_websites_with_kotlin_exerciseschallenges_to/)
 - [Tolgee - Compose Library](https://www.reddit.com/r/Kotlin/comments/1i51f53/tolgee_compose_library/)
 - [KotlinConf 2025 Workshop – &quot;Deep Dive Into Kotlin Multiplatform: Advanced Techniques for Seamless Code Sharing&quot;](https://www.reddit.com/r/Kotlin/comments/1i3k8ce/kotlinconf_2025_workshop_deep_dive_into_kotlin/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Code formatting and linting standards](https://www.reddit.com/r/Kotlin/comments/1i3dz3q/code_formatting_and_linting_standards/)
 - [kapt - How to enable incremental apt in maven project](https://www.reddit.com/r/Kotlin/comments/1i3du0l/kapt_how_to_enable_incremental_apt_in_maven/)
 - [How to Solve OutOfMemoryError: Direct buffer memory](https://www.reddit.com/r/Kotlin/comments/1i3dqlw/how_to_solve_outofmemoryerror_direct_buffer_memory/)
-- [The Koin team could really use your help 🙏](https://www.reddit.com/r/Kotlin/comments/1i3do10/the_koin_team_could_really_use_your_help/)
-- [how to create a mariadb table column with type timestamp via exposed?](https://www.reddit.com/r/Kotlin/comments/1i3d7zt/how_to_create_a_mariadb_table_column_with_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
