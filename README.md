@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [kotlin-base32: Base32 en- and decoding functionality as a tiny Kotlin Multiplatform library](https://www.reddit.com/r/Kotlin/comments/1i60kog/kotlinbase32_base32_en_and_decoding_functionality/)
-- [Android Dev Journey](https://www.reddit.com/r/Kotlin/comments/1i5qc4j/android_dev_journey/)
-- [Any websites with kotlin exercises/challenges to practice?](https://www.reddit.com/r/Kotlin/comments/1i5em12/any_websites_with_kotlin_exerciseschallenges_to/)
-- [Tolgee - Compose Library](https://www.reddit.com/r/Kotlin/comments/1i51f53/tolgee_compose_library/)
-- [KotlinConf 2025 Workshop – &quot;Deep Dive Into Kotlin Multiplatform: Advanced Techniques for Seamless Code Sharing&quot;](https://www.reddit.com/r/Kotlin/comments/1i3k8ce/kotlinconf_2025_workshop_deep_dive_into_kotlin/)
-- [Debugging Initialisation with Dependency Inversion](https://www.reddit.com/r/Kotlin/comments/1i3hl2z/debugging_initialisation_with_dependency_inversion/)
-- [Kotlin Microsoft Desktop With 360 degree view](https://www.reddit.com/r/Kotlin/comments/1i3ggkv/kotlin_microsoft_desktop_with_360_degree_view/)
-- [Code formatting and linting standards](https://www.reddit.com/r/Kotlin/comments/1i3dz3q/code_formatting_and_linting_standards/)
-- [kapt - How to enable incremental apt in maven project](https://www.reddit.com/r/Kotlin/comments/1i3du0l/kapt_how_to_enable_incremental_apt_in_maven/)
-- [How to Solve OutOfMemoryError: Direct buffer memory](https://www.reddit.com/r/Kotlin/comments/1i3dqlw/how_to_solve_outofmemoryerror_direct_buffer_memory/)
+- [What CAN&#39;T you do with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1i6omsj/what_cant_you_do_with_kotlin/)
+- [The Developers&#39; Conspiracy Against Corporations](https://www.reddit.com/r/Kotlin/comments/1i6ngms/the_developers_conspiracy_against_corporations/)
+- [Learn kotlin using the basics guide on their website ? &lpar;Moderate java experience&rpar;](https://www.reddit.com/r/Kotlin/comments/1i6mura/learn_kotlin_using_the_basics_guide_on_their/)
+- [📣](https://www.reddit.com/r/Kotlin/comments/1i6lrlp/_/)
+- [📣 Have you tried the new features in Kotlin 2.1? Share your feedback!](https://www.reddit.com/r/Kotlin/comments/1i6j61u/have_you_tried_the_new_features_in_kotlin_21/)
+- [KotlinConf 2025 workshop – &quot;Hands-On Kotlin Web Development With Ktor&quot;](https://www.reddit.com/r/Kotlin/comments/1i6j5q6/kotlinconf_2025_workshop_handson_kotlin_web/)
+- [What is your developer setup?](https://www.reddit.com/r/Kotlin/comments/1i6gl5s/what_is_your_developer_setup/)
+- [How &#39;Hot Reload&#39; is implemented for Compose](https://www.reddit.com/r/Kotlin/comments/1i6gd7c/how_hot_reload_is_implemented_for_compose/)
+- [Koin Framework 2025 Roadmap: From 4.0 to Future Milestones](https://www.reddit.com/r/Kotlin/comments/1i6ft3j/koin_framework_2025_roadmap_from_40_to_future/)
+- [Ktor 2024 roadmap promises](https://www.reddit.com/r/Kotlin/comments/1i6e3cb/ktor_2024_roadmap_promises/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
