@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [📝 App Privacy Policy Generator](https://www.reddit.com/r/Kotlin/comments/1i7aug3/app_privacy_policy_generator/)
+- [I am currently in my first year i have a project idea so to execute the project I need to build an app i decided to start learning Kotlin so do I require anything that I need to learn before learning kotlin](https://www.reddit.com/r/Kotlin/comments/1i77nt9/i_am_currently_in_my_first_year_i_have_a_project/)
+- [Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1i77kvw/kotlin_multiplatform/)
+- [Looking for ktor project](https://www.reddit.com/r/Kotlin/comments/1i72irf/looking_for_ktor_project/)
 - [What CAN&#39;T you do with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1i6omsj/what_cant_you_do_with_kotlin/)
 - [The Developers&#39; Conspiracy Against Corporations](https://www.reddit.com/r/Kotlin/comments/1i6ngms/the_developers_conspiracy_against_corporations/)
 - [Learn kotlin using the basics guide on their website ? &lpar;Moderate java experience&rpar;](https://www.reddit.com/r/Kotlin/comments/1i6mura/learn_kotlin_using_the_basics_guide_on_their/)
 - [📣](https://www.reddit.com/r/Kotlin/comments/1i6lrlp/_/)
 - [📣 Have you tried the new features in Kotlin 2.1? Share your feedback!](https://www.reddit.com/r/Kotlin/comments/1i6j61u/have_you_tried_the_new_features_in_kotlin_21/)
 - [KotlinConf 2025 workshop – &quot;Hands-On Kotlin Web Development With Ktor&quot;](https://www.reddit.com/r/Kotlin/comments/1i6j5q6/kotlinconf_2025_workshop_handson_kotlin_web/)
-- [What is your developer setup?](https://www.reddit.com/r/Kotlin/comments/1i6gl5s/what_is_your_developer_setup/)
-- [How &#39;Hot Reload&#39; is implemented for Compose](https://www.reddit.com/r/Kotlin/comments/1i6gd7c/how_hot_reload_is_implemented_for_compose/)
-- [Koin Framework 2025 Roadmap: From 4.0 to Future Milestones](https://www.reddit.com/r/Kotlin/comments/1i6ft3j/koin_framework_2025_roadmap_from_40_to_future/)
-- [Ktor 2024 roadmap promises](https://www.reddit.com/r/Kotlin/comments/1i6e3cb/ktor_2024_roadmap_promises/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
