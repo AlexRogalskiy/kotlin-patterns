@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Becoming a KMP Expert – Talking Kotlin #136](https://www.reddit.com/r/Kotlin/comments/1i85mmd/becoming_a_kmp_expert_talking_kotlin_136/)
+- [Integrating Google ML Kit for Barcode Scanning in Jetpack Compose Android Apps](https://www.reddit.com/r/Kotlin/comments/1i825di/integrating_google_ml_kit_for_barcode_scanning_in/)
 - [📝 App Privacy Policy Generator](https://www.reddit.com/r/Kotlin/comments/1i7aug3/app_privacy_policy_generator/)
 - [I am currently in my first year i have a project idea so to execute the project I need to build an app i decided to start learning Kotlin so do I require anything that I need to learn before learning kotlin](https://www.reddit.com/r/Kotlin/comments/1i77nt9/i_am_currently_in_my_first_year_i_have_a_project/)
 - [Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1i77kvw/kotlin_multiplatform/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [The Developers&#39; Conspiracy Against Corporations](https://www.reddit.com/r/Kotlin/comments/1i6ngms/the_developers_conspiracy_against_corporations/)
 - [Learn kotlin using the basics guide on their website ? &lpar;Moderate java experience&rpar;](https://www.reddit.com/r/Kotlin/comments/1i6mura/learn_kotlin_using_the_basics_guide_on_their/)
 - [📣](https://www.reddit.com/r/Kotlin/comments/1i6lrlp/_/)
-- [📣 Have you tried the new features in Kotlin 2.1? Share your feedback!](https://www.reddit.com/r/Kotlin/comments/1i6j61u/have_you_tried_the_new_features_in_kotlin_21/)
-- [KotlinConf 2025 workshop – &quot;Hands-On Kotlin Web Development With Ktor&quot;](https://www.reddit.com/r/Kotlin/comments/1i6j5q6/kotlinconf_2025_workshop_handson_kotlin_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
