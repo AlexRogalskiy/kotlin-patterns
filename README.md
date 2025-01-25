@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I did a thing with Gradle that didn’t go badly wrong](https://www.reddit.com/r/Kotlin/comments/1i8y5u2/i_did_a_thing_with_gradle_that_didnt_go_badly/)
+- [Help needed](https://www.reddit.com/r/Kotlin/comments/1i8wzrx/help_needed/)
+- [Should I learn java](https://www.reddit.com/r/Kotlin/comments/1i8wu1x/should_i_learn_java/)
+- [The Liskov Substitution Principle &lpar;LSP&rpar; in Kotlin — Deep Dive](https://www.reddit.com/r/Kotlin/comments/1i8u0oi/the_liskov_substitution_principle_lsp_in_kotlin/)
+- [Usage of scope functions instead of constructor](https://www.reddit.com/r/Kotlin/comments/1i8tbkh/usage_of_scope_functions_instead_of_constructor/)
+- [Counting method calls with Micronaut AOP?](https://www.reddit.com/r/Kotlin/comments/1i8l5jg/counting_method_calls_with_micronaut_aop/)
 - [Becoming a KMP Expert – Talking Kotlin #136](https://www.reddit.com/r/Kotlin/comments/1i85mmd/becoming_a_kmp_expert_talking_kotlin_136/)
 - [Integrating Google ML Kit for Barcode Scanning in Jetpack Compose Android Apps](https://www.reddit.com/r/Kotlin/comments/1i825di/integrating_google_ml_kit_for_barcode_scanning_in/)
 - [📝 App Privacy Policy Generator](https://www.reddit.com/r/Kotlin/comments/1i7aug3/app_privacy_policy_generator/)
-- [I am currently in my first year i have a project idea so to execute the project I need to build an app i decided to start learning Kotlin so do I require anything that I need to learn before learning kotlin](https://www.reddit.com/r/Kotlin/comments/1i77nt9/i_am_currently_in_my_first_year_i_have_a_project/)
 - [Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1i77kvw/kotlin_multiplatform/)
-- [Looking for ktor project](https://www.reddit.com/r/Kotlin/comments/1i72irf/looking_for_ktor_project/)
-- [What CAN&#39;T you do with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1i6omsj/what_cant_you_do_with_kotlin/)
-- [The Developers&#39; Conspiracy Against Corporations](https://www.reddit.com/r/Kotlin/comments/1i6ngms/the_developers_conspiracy_against_corporations/)
-- [Learn kotlin using the basics guide on their website ? &lpar;Moderate java experience&rpar;](https://www.reddit.com/r/Kotlin/comments/1i6mura/learn_kotlin_using_the_basics_guide_on_their/)
-- [📣](https://www.reddit.com/r/Kotlin/comments/1i6lrlp/_/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
