@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to connect python script with Kotlin using flask &lpar;help me find documentation&rpar;](https://www.reddit.com/r/Kotlin/comments/1iankc9/how_to_connect_python_script_with_kotlin_using/)
+- [Where to learn spring boot for kt](https://www.reddit.com/r/Kotlin/comments/1iai8zs/where_to_learn_spring_boot_for_kt/)
+- [Is spring boot is worthy it without Java,](https://www.reddit.com/r/Kotlin/comments/1ia9o3t/is_spring_boot_is_worthy_it_without_java/)
+- [Hi! Kotlin user](https://www.reddit.com/r/Kotlin/comments/1ia77r1/hi_kotlin_user/)
 - [Interview Prep](https://www.reddit.com/r/Kotlin/comments/1ia0gr7/interview_prep/)
 - [Mobile Apps for Kotlin &amp; Android Development: Recommendations Needed](https://www.reddit.com/r/Kotlin/comments/1i9pjno/mobile_apps_for_kotlin_android_development/)
 - [How to get started with kotlin?](https://www.reddit.com/r/Kotlin/comments/1i9mg3a/how_to_get_started_with_kotlin/)
 - [What framework suits my project?](https://www.reddit.com/r/Kotlin/comments/1i9j6q7/what_framework_suits_my_project/)
 - [I did a thing with Gradle that didn’t go badly wrong](https://www.reddit.com/r/Kotlin/comments/1i8y5u2/i_did_a_thing_with_gradle_that_didnt_go_badly/)
 - [Help needed](https://www.reddit.com/r/Kotlin/comments/1i8wzrx/help_needed/)
-- [Should I learn java](https://www.reddit.com/r/Kotlin/comments/1i8wu1x/should_i_learn_java/)
-- [The Liskov Substitution Principle &lpar;LSP&rpar; in Kotlin — Deep Dive](https://www.reddit.com/r/Kotlin/comments/1i8u0oi/the_liskov_substitution_principle_lsp_in_kotlin/)
-- [Usage of scope functions instead of constructor](https://www.reddit.com/r/Kotlin/comments/1i8tbkh/usage_of_scope_functions_instead_of_constructor/)
-- [Counting method calls with Micronaut AOP?](https://www.reddit.com/r/Kotlin/comments/1i8l5jg/counting_method_calls_with_micronaut_aop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
