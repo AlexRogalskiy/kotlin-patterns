@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1iciiad/learn_kotlin/)
+- [Imports in Intellij IDEA are a constant headache](https://www.reddit.com/r/Kotlin/comments/1ich7px/imports_in_intellij_idea_are_a_constant_headache/)
+- [Kotlin for Server-Side Content Creators](https://www.reddit.com/r/Kotlin/comments/1ic9r2p/kotlin_for_serverside_content_creators/)
+- [Is it a problem in exposed when using nested transactions?](https://www.reddit.com/r/Kotlin/comments/1ic1tcd/is_it_a_problem_in_exposed_when_using_nested/)
+- [Kotlin Developer Needed](https://www.reddit.com/r/Kotlin/comments/1ibvz69/kotlin_developer_needed/)
+- [Some want to join or help me](https://www.reddit.com/r/Kotlin/comments/1ibvl59/some_want_to_join_or_help_me/)
+- [Can i develop mobile app using Kotlin which has only one backend for both website and mobile](https://www.reddit.com/r/Kotlin/comments/1ibv1or/can_i_develop_mobile_app_using_kotlin_which_has/)
 - [🚀 Kotlin: The Learning Journey 🌟](https://www.reddit.com/r/Kotlin/comments/1ibocpr/kotlin_the_learning_journey/)
 - [RowKalendar: Scrollable Horizontal Calendar for Compose Multiplatform 📅](https://www.reddit.com/r/Kotlin/comments/1ibe1sr/rowkalendar_scrollable_horizontal_calendar_for/)
 - [Where to learn spring boot ,](https://www.reddit.com/r/Kotlin/comments/1ibczsy/where_to_learn_spring_boot/)
-- [Navigation SwiftUI Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1ib7j9y/navigation_swiftui_kotlin_multiplatform/)
-- [Just started learning kotlin](https://www.reddit.com/r/Kotlin/comments/1ib1fnm/just_started_learning_kotlin/)
-- [How to connect python script with Kotlin using flask &lpar;help me find documentation&rpar;](https://www.reddit.com/r/Kotlin/comments/1iankc9/how_to_connect_python_script_with_kotlin_using/)
-- [Where to learn spring boot for kt](https://www.reddit.com/r/Kotlin/comments/1iai8zs/where_to_learn_spring_boot_for_kt/)
-- [Is spring boot is worthy it without Java,](https://www.reddit.com/r/Kotlin/comments/1ia9o3t/is_spring_boot_is_worthy_it_without_java/)
-- [Hi! Kotlin user](https://www.reddit.com/r/Kotlin/comments/1ia77r1/hi_kotlin_user/)
-- [Interview Prep](https://www.reddit.com/r/Kotlin/comments/1ia0gr7/interview_prep/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
