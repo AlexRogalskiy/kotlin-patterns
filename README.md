@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s the name of this concurrency concept? &lpar;Sharing a resource access&rpar;](https://www.reddit.com/r/Kotlin/comments/1icz7k8/whats_the_name_of_this_concurrency_concept/)
+- [Arrow for Everyone - TypeAlias Show](https://www.reddit.com/r/Kotlin/comments/1icxbes/arrow_for_everyone_typealias_show/)
+- [Do you recommend railway to deploy my Ktor backend?](https://www.reddit.com/r/Kotlin/comments/1icvofs/do_you_recommend_railway_to_deploy_my_ktor_backend/)
 - [Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1iciiad/learn_kotlin/)
 - [Imports in Intellij IDEA are a constant headache](https://www.reddit.com/r/Kotlin/comments/1ich7px/imports_in_intellij_idea_are_a_constant_headache/)
 - [Kotlin for Server-Side Content Creators](https://www.reddit.com/r/Kotlin/comments/1ic9r2p/kotlin_for_serverside_content_creators/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Developer Needed](https://www.reddit.com/r/Kotlin/comments/1ibvz69/kotlin_developer_needed/)
 - [Some want to join or help me](https://www.reddit.com/r/Kotlin/comments/1ibvl59/some_want_to_join_or_help_me/)
 - [Can i develop mobile app using Kotlin which has only one backend for both website and mobile](https://www.reddit.com/r/Kotlin/comments/1ibv1or/can_i_develop_mobile_app_using_kotlin_which_has/)
-- [🚀 Kotlin: The Learning Journey 🌟](https://www.reddit.com/r/Kotlin/comments/1ibocpr/kotlin_the_learning_journey/)
-- [RowKalendar: Scrollable Horizontal Calendar for Compose Multiplatform 📅](https://www.reddit.com/r/Kotlin/comments/1ibe1sr/rowkalendar_scrollable_horizontal_calendar_for/)
-- [Where to learn spring boot ,](https://www.reddit.com/r/Kotlin/comments/1ibczsy/where_to_learn_spring_boot/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
