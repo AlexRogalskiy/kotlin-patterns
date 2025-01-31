@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Effective Kotlin • Marcin Moskala &amp; Nicola Corti](https://www.reddit.com/r/Kotlin/comments/1idmt95/effective_kotlin_marcin_moskala_nicola_corti/)
+- [The Single Responsibility Principle &lpar;SRP&rpar; in Kotlin — Deep Dive](https://www.reddit.com/r/Kotlin/comments/1idmoa3/the_single_responsibility_principle_srp_in_kotlin/)
+- [Ktor generator updates](https://www.reddit.com/r/Kotlin/comments/1idldp6/ktor_generator_updates/)
 - [What&#39;s the name of this concurrency concept? &lpar;Sharing a resource access&rpar;](https://www.reddit.com/r/Kotlin/comments/1icz7k8/whats_the_name_of_this_concurrency_concept/)
 - [Arrow for Everyone - TypeAlias Show](https://www.reddit.com/r/Kotlin/comments/1icxbes/arrow_for_everyone_typealias_show/)
 - [Do you recommend railway to deploy my Ktor backend?](https://www.reddit.com/r/Kotlin/comments/1icvofs/do_you_recommend_railway_to_deploy_my_ktor_backend/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Imports in Intellij IDEA are a constant headache](https://www.reddit.com/r/Kotlin/comments/1ich7px/imports_in_intellij_idea_are_a_constant_headache/)
 - [Kotlin for Server-Side Content Creators](https://www.reddit.com/r/Kotlin/comments/1ic9r2p/kotlin_for_serverside_content_creators/)
 - [Is it a problem in exposed when using nested transactions?](https://www.reddit.com/r/Kotlin/comments/1ic1tcd/is_it_a_problem_in_exposed_when_using_nested/)
-- [Kotlin Developer Needed](https://www.reddit.com/r/Kotlin/comments/1ibvz69/kotlin_developer_needed/)
-- [Some want to join or help me](https://www.reddit.com/r/Kotlin/comments/1ibvl59/some_want_to_join_or_help_me/)
-- [Can i develop mobile app using Kotlin which has only one backend for both website and mobile](https://www.reddit.com/r/Kotlin/comments/1ibv1or/can_i_develop_mobile_app_using_kotlin_which_has/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
