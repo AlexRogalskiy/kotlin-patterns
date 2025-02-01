@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Effective Kotlin • Marcin Moskala &amp; Nicola Corti](https://www.reddit.com/r/Kotlin/comments/1idmt95/effective_kotlin_marcin_moskala_nicola_corti/)
-- [The Single Responsibility Principle &lpar;SRP&rpar; in Kotlin — Deep Dive](https://www.reddit.com/r/Kotlin/comments/1idmoa3/the_single_responsibility_principle_srp_in_kotlin/)
-- [Ktor generator updates](https://www.reddit.com/r/Kotlin/comments/1idldp6/ktor_generator_updates/)
-- [What&#39;s the name of this concurrency concept? &lpar;Sharing a resource access&rpar;](https://www.reddit.com/r/Kotlin/comments/1icz7k8/whats_the_name_of_this_concurrency_concept/)
-- [Arrow for Everyone - TypeAlias Show](https://www.reddit.com/r/Kotlin/comments/1icxbes/arrow_for_everyone_typealias_show/)
-- [Do you recommend railway to deploy my Ktor backend?](https://www.reddit.com/r/Kotlin/comments/1icvofs/do_you_recommend_railway_to_deploy_my_ktor_backend/)
-- [Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1iciiad/learn_kotlin/)
-- [Imports in Intellij IDEA are a constant headache](https://www.reddit.com/r/Kotlin/comments/1ich7px/imports_in_intellij_idea_are_a_constant_headache/)
-- [Kotlin for Server-Side Content Creators](https://www.reddit.com/r/Kotlin/comments/1ic9r2p/kotlin_for_serverside_content_creators/)
-- [Is it a problem in exposed when using nested transactions?](https://www.reddit.com/r/Kotlin/comments/1ic1tcd/is_it_a_problem_in_exposed_when_using_nested/)
+- [Can someone please help me ?!](https://www.reddit.com/r/Kotlin/comments/1ieqdtw/can_someone_please_help_me/)
+- [Exception: java.lang.OutOfMemoryError during tests with testcontainers](https://www.reddit.com/r/Kotlin/comments/1ieq354/exception_javalangoutofmemoryerror_during_tests/)
+- [problem in KMP](https://www.reddit.com/r/Kotlin/comments/1ielewi/problem_in_kmp/)
+- [HikariCP - get rid of debug output](https://www.reddit.com/r/Kotlin/comments/1iejmkz/hikaricp_get_rid_of_debug_output/)
+- [Dealing with null values in Kotlin](https://www.reddit.com/r/Kotlin/comments/1ieifc8/dealing_with_null_values_in_kotlin/)
+- [Kotlin without IntelliJ - Cursor AI with Uberto Barbini](https://www.reddit.com/r/Kotlin/comments/1ieh9os/kotlin_without_intellij_cursor_ai_with_uberto/)
+- [Where is Kodee rushing to?](https://www.reddit.com/r/Kotlin/comments/1iegr2u/where_is_kodee_rushing_to/)
+- [What framwrosk to go for a job ?](https://www.reddit.com/r/Kotlin/comments/1ieehnl/what_framwrosk_to_go_for_a_job/)
+- [A Use Case for `UseCase`s in Kotlin](https://www.reddit.com/r/Kotlin/comments/1iebdau/a_use_case_for_usecases_in_kotlin/)
+- [🚀 Kotlin: The Learning Journey — Path 2: Kotlin Fixtures 🌟](https://www.reddit.com/r/Kotlin/comments/1ie50x0/kotlin_the_learning_journey_path_2_kotlin_fixtures/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
