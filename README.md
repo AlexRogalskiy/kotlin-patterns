@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any audio only/first resources out there? &lpar;Podcast, Course, etc.&rpar;](https://www.reddit.com/r/Kotlin/comments/1ifiqtt/any_audio_onlyfirst_resources_out_there_podcast/)
+- [IntelliJ/Android Studio Users: Copilot or JetbrainsAI?](https://www.reddit.com/r/Kotlin/comments/1ife8zv/intellijandroid_studio_users_copilot_or/)
+- [Best resources to learn](https://www.reddit.com/r/Kotlin/comments/1if597e/best_resources_to_learn/)
 - [Can someone please help me ?!](https://www.reddit.com/r/Kotlin/comments/1ieqdtw/can_someone_please_help_me/)
 - [Exception: java.lang.OutOfMemoryError during tests with testcontainers](https://www.reddit.com/r/Kotlin/comments/1ieq354/exception_javalangoutofmemoryerror_during_tests/)
 - [problem in KMP](https://www.reddit.com/r/Kotlin/comments/1ielewi/problem_in_kmp/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Dealing with null values in Kotlin](https://www.reddit.com/r/Kotlin/comments/1ieifc8/dealing_with_null_values_in_kotlin/)
 - [Kotlin without IntelliJ - Cursor AI with Uberto Barbini](https://www.reddit.com/r/Kotlin/comments/1ieh9os/kotlin_without_intellij_cursor_ai_with_uberto/)
 - [Where is Kodee rushing to?](https://www.reddit.com/r/Kotlin/comments/1iegr2u/where_is_kodee_rushing_to/)
-- [What framwrosk to go for a job ?](https://www.reddit.com/r/Kotlin/comments/1ieehnl/what_framwrosk_to_go_for_a_job/)
-- [A Use Case for `UseCase`s in Kotlin](https://www.reddit.com/r/Kotlin/comments/1iebdau/a_use_case_for_usecases_in_kotlin/)
-- [🚀 Kotlin: The Learning Journey — Path 2: Kotlin Fixtures 🌟](https://www.reddit.com/r/Kotlin/comments/1ie50x0/kotlin_the_learning_journey_path_2_kotlin_fixtures/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
