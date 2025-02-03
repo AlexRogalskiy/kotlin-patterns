@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JMH for not microbenmarking?](https://www.reddit.com/r/Kotlin/comments/1igad3s/jmh_for_not_microbenmarking/)
+- [Full Stack Setup](https://www.reddit.com/r/Kotlin/comments/1ifsg61/full_stack_setup/)
+- [How can I make normal professional portfolio as android and backend dev.](https://www.reddit.com/r/Kotlin/comments/1ifpbs0/how_can_i_make_normal_professional_portfolio_as/)
 - [Any audio only/first resources out there? &lpar;Podcast, Course, etc.&rpar;](https://www.reddit.com/r/Kotlin/comments/1ifiqtt/any_audio_onlyfirst_resources_out_there_podcast/)
 - [IntelliJ/Android Studio Users: Copilot or JetbrainsAI?](https://www.reddit.com/r/Kotlin/comments/1ife8zv/intellijandroid_studio_users_copilot_or/)
 - [Best resources to learn](https://www.reddit.com/r/Kotlin/comments/1if597e/best_resources_to_learn/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Exception: java.lang.OutOfMemoryError during tests with testcontainers](https://www.reddit.com/r/Kotlin/comments/1ieq354/exception_javalangoutofmemoryerror_during_tests/)
 - [problem in KMP](https://www.reddit.com/r/Kotlin/comments/1ielewi/problem_in_kmp/)
 - [HikariCP - get rid of debug output](https://www.reddit.com/r/Kotlin/comments/1iejmkz/hikaricp_get_rid_of_debug_output/)
-- [Dealing with null values in Kotlin](https://www.reddit.com/r/Kotlin/comments/1ieifc8/dealing_with_null_values_in_kotlin/)
-- [Kotlin without IntelliJ - Cursor AI with Uberto Barbini](https://www.reddit.com/r/Kotlin/comments/1ieh9os/kotlin_without_intellij_cursor_ai_with_uberto/)
-- [Where is Kodee rushing to?](https://www.reddit.com/r/Kotlin/comments/1iegr2u/where_is_kodee_rushing_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
