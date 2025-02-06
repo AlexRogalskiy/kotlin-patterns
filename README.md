@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Saving user accounts](https://www.reddit.com/r/Kotlin/comments/1iinrg6/saving_user_accounts/)
+- [Ktor CLI, the new command-line tool for generating Ktor projects, is here!](https://www.reddit.com/r/Kotlin/comments/1iifguh/ktor_cli_the_new_commandline_tool_for_generating/)
+- [Best Static Site Generator &lpar;SSG&rpar; in Kotlin? - &lpar;Jekyll/ Hugo/eleventy alternative&rpar;](https://www.reddit.com/r/Kotlin/comments/1iifgu5/best_static_site_generator_ssg_in_kotlin_jekyll/)
+- [Need help with problem.](https://www.reddit.com/r/Kotlin/comments/1iiejzn/need_help_with_problem/)
+- [Ksoup v0.2.2 - Now with Android Native Support &amp; Reader Parsing](https://www.reddit.com/r/Kotlin/comments/1iiaz77/ksoup_v022_now_with_android_native_support_reader/)
+- [kotlin maplibre: Implement filtering by date](https://www.reddit.com/r/Kotlin/comments/1iiaplq/kotlin_maplibre_implement_filtering_by_date/)
+- [The Interface Segregation Principle &lpar;ISP&rpar; — SOLID Principles Deep Dive](https://www.reddit.com/r/Kotlin/comments/1ii76nh/the_interface_segregation_principle_isp_solid/)
 - [Kotlin interview preparation resource](https://www.reddit.com/r/Kotlin/comments/1ihw4wk/kotlin_interview_preparation_resource/)
 - [Jetpack Compose Learning Path – where do i go next?](https://www.reddit.com/r/Kotlin/comments/1ihhjqg/jetpack_compose_learning_path_where_do_i_go_next/)
 - [lumo-ui now supports Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1ihei19/lumoui_now_supports_compose_multiplatform/)
-- [Kotlin REPL for the terminal with a multiline editor, highlighting, and code completion](https://www.reddit.com/r/Kotlin/comments/1igyrp4/kotlin_repl_for_the_terminal_with_a_multiline/)
-- [Trying to wrap my head around proper flow usage in view model](https://www.reddit.com/r/Kotlin/comments/1igvkt5/trying_to_wrap_my_head_around_proper_flow_usage/)
-- [🚀 Kotools Samples 0.2.0 is available!](https://www.reddit.com/r/Kotlin/comments/1igv2jg/kotools_samples_020_is_available/)
-- [[compose multiplatform] Best way to sync a countdown timer app over the network?](https://www.reddit.com/r/Kotlin/comments/1igm4d4/compose_multiplatform_best_way_to_sync_a/)
-- [JMH for not microbenmarking?](https://www.reddit.com/r/Kotlin/comments/1igad3s/jmh_for_not_microbenmarking/)
-- [Full Stack Setup](https://www.reddit.com/r/Kotlin/comments/1ifsg61/full_stack_setup/)
-- [How can I make normal professional portfolio as android and backend dev.](https://www.reddit.com/r/Kotlin/comments/1ifpbs0/how_can_i_make_normal_professional_portfolio_as/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
