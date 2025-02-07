@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How can I recreate Duolingo buttons?](https://www.reddit.com/r/Kotlin/comments/1ijarv2/how_can_i_recreate_duolingo_buttons/)
+- [Guards in Kotlin 2.1](https://www.reddit.com/r/Kotlin/comments/1ij95hg/guards_in_kotlin_21/)
+- [KMM Desktop OS Support](https://www.reddit.com/r/Kotlin/comments/1iizdch/kmm_desktop_os_support/)
+- [Question for those who use compose multi platform](https://www.reddit.com/r/Kotlin/comments/1iiwhxz/question_for_those_who_use_compose_multi_platform/)
+- [Is that realistic goal to build AI from the ground up in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1iivssi/is_that_realistic_goal_to_build_ai_from_the/)
 - [Saving user accounts](https://www.reddit.com/r/Kotlin/comments/1iinrg6/saving_user_accounts/)
 - [Ktor CLI, the new command-line tool for generating Ktor projects, is here!](https://www.reddit.com/r/Kotlin/comments/1iifguh/ktor_cli_the_new_commandline_tool_for_generating/)
 - [Best Static Site Generator &lpar;SSG&rpar; in Kotlin? - &lpar;Jekyll/ Hugo/eleventy alternative&rpar;](https://www.reddit.com/r/Kotlin/comments/1iifgu5/best_static_site_generator_ssg_in_kotlin_jekyll/)
 - [Need help with problem.](https://www.reddit.com/r/Kotlin/comments/1iiejzn/need_help_with_problem/)
 - [Ksoup v0.2.2 - Now with Android Native Support &amp; Reader Parsing](https://www.reddit.com/r/Kotlin/comments/1iiaz77/ksoup_v022_now_with_android_native_support_reader/)
-- [kotlin maplibre: Implement filtering by date](https://www.reddit.com/r/Kotlin/comments/1iiaplq/kotlin_maplibre_implement_filtering_by_date/)
-- [The Interface Segregation Principle &lpar;ISP&rpar; — SOLID Principles Deep Dive](https://www.reddit.com/r/Kotlin/comments/1ii76nh/the_interface_segregation_principle_isp_solid/)
-- [Kotlin interview preparation resource](https://www.reddit.com/r/Kotlin/comments/1ihw4wk/kotlin_interview_preparation_resource/)
-- [Jetpack Compose Learning Path – where do i go next?](https://www.reddit.com/r/Kotlin/comments/1ihhjqg/jetpack_compose_learning_path_where_do_i_go_next/)
-- [lumo-ui now supports Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1ihei19/lumoui_now_supports_compose_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
