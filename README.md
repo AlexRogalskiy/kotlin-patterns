@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How can I recreate Duolingo buttons?](https://www.reddit.com/r/Kotlin/comments/1ijarv2/how_can_i_recreate_duolingo_buttons/)
-- [Guards in Kotlin 2.1](https://www.reddit.com/r/Kotlin/comments/1ij95hg/guards_in_kotlin_21/)
-- [KMM Desktop OS Support](https://www.reddit.com/r/Kotlin/comments/1iizdch/kmm_desktop_os_support/)
-- [Question for those who use compose multi platform](https://www.reddit.com/r/Kotlin/comments/1iiwhxz/question_for_those_who_use_compose_multi_platform/)
-- [Is that realistic goal to build AI from the ground up in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1iivssi/is_that_realistic_goal_to_build_ai_from_the/)
-- [Saving user accounts](https://www.reddit.com/r/Kotlin/comments/1iinrg6/saving_user_accounts/)
-- [Ktor CLI, the new command-line tool for generating Ktor projects, is here!](https://www.reddit.com/r/Kotlin/comments/1iifguh/ktor_cli_the_new_commandline_tool_for_generating/)
-- [Best Static Site Generator &lpar;SSG&rpar; in Kotlin? - &lpar;Jekyll/ Hugo/eleventy alternative&rpar;](https://www.reddit.com/r/Kotlin/comments/1iifgu5/best_static_site_generator_ssg_in_kotlin_jekyll/)
-- [Need help with problem.](https://www.reddit.com/r/Kotlin/comments/1iiejzn/need_help_with_problem/)
-- [Ksoup v0.2.2 - Now with Android Native Support &amp; Reader Parsing](https://www.reddit.com/r/Kotlin/comments/1iiaz77/ksoup_v022_now_with_android_native_support_reader/)
+- [Best Kotlin/Java Framework for Mac Apps &lpar;2025&rpar;](https://www.reddit.com/r/Kotlin/comments/1ik3i04/best_kotlinjava_framework_for_mac_apps_2025/)
+- [Don&#39;t use use&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1ik3d5b/dont_use_use/)
+- [The Dependency Inversion Principle &lpar;DIP&rpar; — SOLID Principles](https://www.reddit.com/r/Kotlin/comments/1ik1m5d/the_dependency_inversion_principle_dip_solid/)
+- [FlappyFuralha - A Flappy Bird clone made in Kotlin, with Desktop &lpar;LWJGL&rpar; and Web &lpar;WebGL2&rpar; targets](https://www.reddit.com/r/Kotlin/comments/1ik09fo/flappyfuralha_a_flappy_bird_clone_made_in_kotlin/)
+- [Another Gradle refactor with no casualties](https://www.reddit.com/r/Kotlin/comments/1ijyel5/another_gradle_refactor_with_no_casualties/)
+- [DX; Deep Debugging and my new favorite System Property](https://www.reddit.com/r/Kotlin/comments/1ijw53c/dx_deep_debugging_and_my_new_favorite_system/)
+- [Centering With Constraints](https://www.reddit.com/r/Kotlin/comments/1ijuza8/centering_with_constraints/)
+- [&quot;Cannot resolve symbol&quot; problem for an image](https://www.reddit.com/r/Kotlin/comments/1ijr4zs/cannot_resolve_symbol_problem_for_an_image/)
+- [Vulkan](https://www.reddit.com/r/Kotlin/comments/1ijowmx/vulkan/)
+- [Kotlin-native executable size](https://www.reddit.com/r/Kotlin/comments/1ijo4jq/kotlinnative_executable_size/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
