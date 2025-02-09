@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need ideas for a simple project](https://www.reddit.com/r/Kotlin/comments/1iky2e0/i_need_ideas_for_a_simple_project/)
+- [Kotlin Native Vulkan](https://www.reddit.com/r/Kotlin/comments/1ikdm0r/kotlin_native_vulkan/)
 - [Best Kotlin/Java Framework for Mac Apps &lpar;2025&rpar;](https://www.reddit.com/r/Kotlin/comments/1ik3i04/best_kotlinjava_framework_for_mac_apps_2025/)
 - [Don&#39;t use use&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1ik3d5b/dont_use_use/)
 - [The Dependency Inversion Principle &lpar;DIP&rpar; — SOLID Principles](https://www.reddit.com/r/Kotlin/comments/1ik1m5d/the_dependency_inversion_principle_dip_solid/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [DX; Deep Debugging and my new favorite System Property](https://www.reddit.com/r/Kotlin/comments/1ijw53c/dx_deep_debugging_and_my_new_favorite_system/)
 - [Centering With Constraints](https://www.reddit.com/r/Kotlin/comments/1ijuza8/centering_with_constraints/)
 - [&quot;Cannot resolve symbol&quot; problem for an image](https://www.reddit.com/r/Kotlin/comments/1ijr4zs/cannot_resolve_symbol_problem_for_an_image/)
-- [Vulkan](https://www.reddit.com/r/Kotlin/comments/1ijowmx/vulkan/)
-- [Kotlin-native executable size](https://www.reddit.com/r/Kotlin/comments/1ijo4jq/kotlinnative_executable_size/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
