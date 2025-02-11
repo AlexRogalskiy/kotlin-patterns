@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Created my own custom Flashcard component inspired by Quizlet.](https://www.reddit.com/r/Kotlin/comments/1imd3zh/created_my_own_custom_flashcard_component/)
+- [KMP way to have MSI uninstall old before it installs new?](https://www.reddit.com/r/Kotlin/comments/1imaion/kmp_way_to_have_msi_uninstall_old_before_it/)
+- [Koin IDE Plugin for Android Studio &amp; IntelliJ - Please give us Your Feedback!](https://www.reddit.com/r/Kotlin/comments/1im90e1/koin_ide_plugin_for_android_studio_intellij/)
+- [Hiring a Software Developer for JetBrains Kotlin IDE](https://www.reddit.com/r/Kotlin/comments/1im6zvl/hiring_a_software_developer_for_jetbrains_kotlin/)
+- [Stop Using Kotlin’s Result in Your Application Code! &lpar;Without Paywall&rpar;](https://www.reddit.com/r/Kotlin/comments/1im1s4m/stop_using_kotlins_result_in_your_application/)
 - [How is android dev with kotlin job market?](https://www.reddit.com/r/Kotlin/comments/1ilgyie/how_is_android_dev_with_kotlin_job_market/)
 - [Vercraft: yet another versioning tool](https://www.reddit.com/r/Kotlin/comments/1ilgip4/vercraft_yet_another_versioning_tool/)
 - [iOS apps built in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1ilgbon/ios_apps_built_in_compose_multiplatform/)
 - [What kind of permission or code is required to be able to delete pictures from internal storage?](https://www.reddit.com/r/Kotlin/comments/1ildqt2/what_kind_of_permission_or_code_is_required_to_be/)
 - [I need ideas for a simple project](https://www.reddit.com/r/Kotlin/comments/1iky2e0/i_need_ideas_for_a_simple_project/)
-- [Kotlin Native Vulkan](https://www.reddit.com/r/Kotlin/comments/1ikdm0r/kotlin_native_vulkan/)
-- [Best Kotlin/Java Framework for Mac Apps &lpar;2025&rpar;](https://www.reddit.com/r/Kotlin/comments/1ik3i04/best_kotlinjava_framework_for_mac_apps_2025/)
-- [Don&#39;t use use&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1ik3d5b/dont_use_use/)
-- [The Dependency Inversion Principle &lpar;DIP&rpar; — SOLID Principles](https://www.reddit.com/r/Kotlin/comments/1ik1m5d/the_dependency_inversion_principle_dip_solid/)
-- [FlappyFuralha - A Flappy Bird clone made in Kotlin, with Desktop &lpar;LWJGL&rpar; and Web &lpar;WebGL2&rpar; targets](https://www.reddit.com/r/Kotlin/comments/1ik09fo/flappyfuralha_a_flappy_bird_clone_made_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
