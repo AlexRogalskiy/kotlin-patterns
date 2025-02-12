@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I save the state of my program so that it doesn&#39;t restart when my phone is rotated?](https://www.reddit.com/r/Kotlin/comments/1ing2ht/how_do_i_save_the_state_of_my_program_so_that_it/)
+- [Generic Constraints: Why does this code compile?](https://www.reddit.com/r/Kotlin/comments/1inax49/generic_constraints_why_does_this_code_compile/)
+- [Where Can I Find High-Quality Play Store Screenshot Templates for My App?](https://www.reddit.com/r/Kotlin/comments/1in5tp4/where_can_i_find_highquality_play_store/)
+- [Compose Multiplatfrom iOS swipe back gesture](https://www.reddit.com/r/Kotlin/comments/1in5fol/compose_multiplatfrom_ios_swipe_back_gesture/)
+- [Kotlin Multiplatform Tooling – Shifting Gears](https://www.reddit.com/r/Kotlin/comments/1in1fbr/kotlin_multiplatform_tooling_shifting_gears/)
+- [⏰ Last call to voice your thoughts! Share your feedback on Kotlin 2.1](https://www.reddit.com/r/Kotlin/comments/1imt6b7/last_call_to_voice_your_thoughts_share_your/)
+- [Replacing Hugo with a Custom Kotlin Blog Engine](https://www.reddit.com/r/Kotlin/comments/1imsqu0/replacing_hugo_with_a_custom_kotlin_blog_engine/)
 - [Created my own custom Flashcard component inspired by Quizlet.](https://www.reddit.com/r/Kotlin/comments/1imd3zh/created_my_own_custom_flashcard_component/)
 - [KMP way to have MSI uninstall old before it installs new?](https://www.reddit.com/r/Kotlin/comments/1imaion/kmp_way_to_have_msi_uninstall_old_before_it/)
 - [Koin IDE Plugin for Android Studio &amp; IntelliJ - Please give us Your Feedback!](https://www.reddit.com/r/Kotlin/comments/1im90e1/koin_ide_plugin_for_android_studio_intellij/)
-- [Hiring a Software Developer for JetBrains Kotlin IDE](https://www.reddit.com/r/Kotlin/comments/1im6zvl/hiring_a_software_developer_for_jetbrains_kotlin/)
-- [Stop Using Kotlin’s Result in Your Application Code! &lpar;Without Paywall&rpar;](https://www.reddit.com/r/Kotlin/comments/1im1s4m/stop_using_kotlins_result_in_your_application/)
-- [How is android dev with kotlin job market?](https://www.reddit.com/r/Kotlin/comments/1ilgyie/how_is_android_dev_with_kotlin_job_market/)
-- [Vercraft: yet another versioning tool](https://www.reddit.com/r/Kotlin/comments/1ilgip4/vercraft_yet_another_versioning_tool/)
-- [iOS apps built in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1ilgbon/ios_apps_built_in_compose_multiplatform/)
-- [What kind of permission or code is required to be able to delete pictures from internal storage?](https://www.reddit.com/r/Kotlin/comments/1ildqt2/what_kind_of_permission_or_code_is_required_to_be/)
-- [I need ideas for a simple project](https://www.reddit.com/r/Kotlin/comments/1iky2e0/i_need_ideas_for_a_simple_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
