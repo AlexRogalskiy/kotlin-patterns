@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Unemployed software Engineer](https://www.reddit.com/r/Kotlin/comments/1iotj4y/unemployed_software_engineer/)
+- [I&#39;ve been waiting 25 years for this! Strict TDD with Cursor AI and Uberto Barbini](https://www.reddit.com/r/Kotlin/comments/1iolztx/ive_been_waiting_25_years_for_this_strict_tdd/)
+- [http4k v6: Still the most testable web toolkit on the planet!](https://www.reddit.com/r/Kotlin/comments/1iok34l/http4k_v6_still_the_most_testable_web_toolkit_on/)
+- [Ktor 3.1.0 Release](https://www.reddit.com/r/Kotlin/comments/1ioj5b9/ktor_310_release/)
+- [Should you use Kotlin Sequences for Performance? - Chris Banes](https://www.reddit.com/r/Kotlin/comments/1iohmu4/should_you_use_kotlin_sequences_for_performance/)
+- [The new Compose Multiplatform navigation API is fantastic](https://www.reddit.com/r/Kotlin/comments/1ioacjp/the_new_compose_multiplatform_navigation_api_is/)
 - [Interested in KSX? Write regular HTML and react with Kotlin](https://www.reddit.com/r/Kotlin/comments/1inyez6/interested_in_ksx_write_regular_html_and_react/)
 - [A slick hack to stash data in the cloud for free with Kotlin](https://www.reddit.com/r/Kotlin/comments/1inquhh/a_slick_hack_to_stash_data_in_the_cloud_for_free/)
 - [Hiw difficult is my idea for app idea that i have for a newbie](https://www.reddit.com/r/Kotlin/comments/1ino0i9/hiw_difficult_is_my_idea_for_app_idea_that_i_have/)
 - [Help](https://www.reddit.com/r/Kotlin/comments/1inlmfs/help/)
-- [Which backend is better for android dev](https://www.reddit.com/r/Kotlin/comments/1inj7ao/which_backend_is_better_for_android_dev/)
-- [How do I save the state of my program so that it doesn&#39;t restart when my phone is rotated?](https://www.reddit.com/r/Kotlin/comments/1ing2ht/how_do_i_save_the_state_of_my_program_so_that_it/)
-- [Generic Constraints: Why does this code compile?](https://www.reddit.com/r/Kotlin/comments/1inax49/generic_constraints_why_does_this_code_compile/)
-- [Where Can I Find High-Quality Play Store Screenshot Templates for My App?](https://www.reddit.com/r/Kotlin/comments/1in5tp4/where_can_i_find_highquality_play_store/)
-- [Compose Multiplatfrom iOS swipe back gesture](https://www.reddit.com/r/Kotlin/comments/1in5fol/compose_multiplatfrom_ios_swipe_back_gesture/)
-- [Kotlin Multiplatform Tooling – Shifting Gears](https://www.reddit.com/r/Kotlin/comments/1in1fbr/kotlin_multiplatform_tooling_shifting_gears/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
