@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🎊 Kotlin 1.0 was released 9 years ago!](https://www.reddit.com/r/Kotlin/comments/1iph98n/kotlin_10_was_released_9_years_ago/)
+- [How to Learn Android App Development with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ipayfe/how_to_learn_android_app_development_with_kotlin/)
+- [I have download ladybug but i have a lot of problems icant crate a new activity,a guy send some apps that he had done i cant open the apps,i dont know how to navigate. I cant do anything. i need to downgrade?](https://www.reddit.com/r/Kotlin/comments/1ip88a8/i_have_download_ladybug_but_i_have_a_lot_of/)
+- [Which IDE to use for a KMM project with native iOS UI?](https://www.reddit.com/r/Kotlin/comments/1ip6lxs/which_ide_to_use_for_a_kmm_project_with_native/)
 - [Unemployed software Engineer](https://www.reddit.com/r/Kotlin/comments/1iotj4y/unemployed_software_engineer/)
 - [I&#39;ve been waiting 25 years for this! Strict TDD with Cursor AI and Uberto Barbini](https://www.reddit.com/r/Kotlin/comments/1iolztx/ive_been_waiting_25_years_for_this_strict_tdd/)
 - [http4k v6: Still the most testable web toolkit on the planet!](https://www.reddit.com/r/Kotlin/comments/1iok34l/http4k_v6_still_the_most_testable_web_toolkit_on/)
 - [Ktor 3.1.0 Release](https://www.reddit.com/r/Kotlin/comments/1ioj5b9/ktor_310_release/)
 - [Should you use Kotlin Sequences for Performance? - Chris Banes](https://www.reddit.com/r/Kotlin/comments/1iohmu4/should_you_use_kotlin_sequences_for_performance/)
 - [The new Compose Multiplatform navigation API is fantastic](https://www.reddit.com/r/Kotlin/comments/1ioacjp/the_new_compose_multiplatform_navigation_api_is/)
-- [Interested in KSX? Write regular HTML and react with Kotlin](https://www.reddit.com/r/Kotlin/comments/1inyez6/interested_in_ksx_write_regular_html_and_react/)
-- [A slick hack to stash data in the cloud for free with Kotlin](https://www.reddit.com/r/Kotlin/comments/1inquhh/a_slick_hack_to_stash_data_in_the_cloud_for_free/)
-- [Hiw difficult is my idea for app idea that i have for a newbie](https://www.reddit.com/r/Kotlin/comments/1ino0i9/hiw_difficult_is_my_idea_for_app_idea_that_i_have/)
-- [Help](https://www.reddit.com/r/Kotlin/comments/1inlmfs/help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
