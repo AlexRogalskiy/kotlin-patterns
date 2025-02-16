@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Stability and types defined in another module](https://www.reddit.com/r/Kotlin/comments/1iqfvho/stability_and_types_defined_in_another_module/)
+- [150 dollar reward for you to build a very simple app for me](https://www.reddit.com/r/Kotlin/comments/1iqeb7d/150_dollar_reward_for_you_to_build_a_very_simple/)
+- [Extension functions when to &lpar;not&rpar; use them?](https://www.reddit.com/r/Kotlin/comments/1iq8cbf/extension_functions_when_to_not_use_them/)
+- [Interfaces vs Abstract Classes in Java and Kotlin](https://www.reddit.com/r/Kotlin/comments/1iq0f6a/interfaces_vs_abstract_classes_in_java_and_kotlin/)
+- [HELP: cannot justify text without an unwanted right padding appearing](https://www.reddit.com/r/Kotlin/comments/1iq0at6/help_cannot_justify_text_without_an_unwanted/)
+- [Making a Clean Architecture Blog Engine &lpar;in Kotlin&rpar; From Scratch pt 1](https://www.reddit.com/r/Kotlin/comments/1ipydml/making_a_clean_architecture_blog_engine_in_kotlin/)
 - [🎊 Kotlin 1.0 was released 9 years ago!](https://www.reddit.com/r/Kotlin/comments/1iph98n/kotlin_10_was_released_9_years_ago/)
 - [How to Learn Android App Development with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ipayfe/how_to_learn_android_app_development_with_kotlin/)
 - [I have download ladybug but i have a lot of problems icant crate a new activity,a guy send some apps that he had done i cant open the apps,i dont know how to navigate. I cant do anything. i need to downgrade?](https://www.reddit.com/r/Kotlin/comments/1ip88a8/i_have_download_ladybug_but_i_have_a_lot_of/)
 - [Which IDE to use for a KMM project with native iOS UI?](https://www.reddit.com/r/Kotlin/comments/1ip6lxs/which_ide_to_use_for_a_kmm_project_with_native/)
-- [Unemployed software Engineer](https://www.reddit.com/r/Kotlin/comments/1iotj4y/unemployed_software_engineer/)
-- [I&#39;ve been waiting 25 years for this! Strict TDD with Cursor AI and Uberto Barbini](https://www.reddit.com/r/Kotlin/comments/1iolztx/ive_been_waiting_25_years_for_this_strict_tdd/)
-- [http4k v6: Still the most testable web toolkit on the planet!](https://www.reddit.com/r/Kotlin/comments/1iok34l/http4k_v6_still_the_most_testable_web_toolkit_on/)
-- [Ktor 3.1.0 Release](https://www.reddit.com/r/Kotlin/comments/1ioj5b9/ktor_310_release/)
-- [Should you use Kotlin Sequences for Performance? - Chris Banes](https://www.reddit.com/r/Kotlin/comments/1iohmu4/should_you_use_kotlin_sequences_for_performance/)
-- [The new Compose Multiplatform navigation API is fantastic](https://www.reddit.com/r/Kotlin/comments/1ioacjp/the_new_compose_multiplatform_navigation_api_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
