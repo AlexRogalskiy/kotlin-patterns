@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Play console - App access](https://www.reddit.com/r/Kotlin/comments/1ir6eub/play_console_app_access/)
+- [Choosing a game engine](https://www.reddit.com/r/Kotlin/comments/1ir45ww/choosing_a_game_engine/)
+- [Best Library/Framework to build a CLI with a TUI?](https://www.reddit.com/r/Kotlin/comments/1iqwync/best_libraryframework_to_build_a_cli_with_a_tui/)
+- [Where do you store reusable code snippets?](https://www.reddit.com/r/Kotlin/comments/1iqweow/where_do_you_store_reusable_code_snippets/)
+- [How i can from my main activity that has 2 battoms to go the next activity,that is listview to show difrend resolts](https://www.reddit.com/r/Kotlin/comments/1iqovme/how_i_can_from_my_main_activity_that_has_2/)
+- [Native iOS teams adopting KMP?](https://www.reddit.com/r/Kotlin/comments/1iqojo6/native_ios_teams_adopting_kmp/)
+- [How can I elegantly implement isListOf without iterating over list items?](https://www.reddit.com/r/Kotlin/comments/1iqky6w/how_can_i_elegantly_implement_islistof_without/)
 - [Stability and types defined in another module](https://www.reddit.com/r/Kotlin/comments/1iqfvho/stability_and_types_defined_in_another_module/)
 - [150 dollar reward for you to build a very simple app for me](https://www.reddit.com/r/Kotlin/comments/1iqeb7d/150_dollar_reward_for_you_to_build_a_very_simple/)
 - [Extension functions when to &lpar;not&rpar; use them?](https://www.reddit.com/r/Kotlin/comments/1iq8cbf/extension_functions_when_to_not_use_them/)
-- [Interfaces vs Abstract Classes in Java and Kotlin](https://www.reddit.com/r/Kotlin/comments/1iq0f6a/interfaces_vs_abstract_classes_in_java_and_kotlin/)
-- [HELP: cannot justify text without an unwanted right padding appearing](https://www.reddit.com/r/Kotlin/comments/1iq0at6/help_cannot_justify_text_without_an_unwanted/)
-- [Making a Clean Architecture Blog Engine &lpar;in Kotlin&rpar; From Scratch pt 1](https://www.reddit.com/r/Kotlin/comments/1ipydml/making_a_clean_architecture_blog_engine_in_kotlin/)
-- [🎊 Kotlin 1.0 was released 9 years ago!](https://www.reddit.com/r/Kotlin/comments/1iph98n/kotlin_10_was_released_9_years_ago/)
-- [How to Learn Android App Development with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ipayfe/how_to_learn_android_app_development_with_kotlin/)
-- [I have download ladybug but i have a lot of problems icant crate a new activity,a guy send some apps that he had done i cant open the apps,i dont know how to navigate. I cant do anything. i need to downgrade?](https://www.reddit.com/r/Kotlin/comments/1ip88a8/i_have_download_ladybug_but_i_have_a_lot_of/)
-- [Which IDE to use for a KMM project with native iOS UI?](https://www.reddit.com/r/Kotlin/comments/1ip6lxs/which_ide_to_use_for_a_kmm_project_with_native/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
