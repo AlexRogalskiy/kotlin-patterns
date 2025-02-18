@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Play console - App access](https://www.reddit.com/r/Kotlin/comments/1ir6eub/play_console_app_access/)
-- [Choosing a game engine](https://www.reddit.com/r/Kotlin/comments/1ir45ww/choosing_a_game_engine/)
-- [Best Library/Framework to build a CLI with a TUI?](https://www.reddit.com/r/Kotlin/comments/1iqwync/best_libraryframework_to_build_a_cli_with_a_tui/)
-- [Where do you store reusable code snippets?](https://www.reddit.com/r/Kotlin/comments/1iqweow/where_do_you_store_reusable_code_snippets/)
-- [How i can from my main activity that has 2 battoms to go the next activity,that is listview to show difrend resolts](https://www.reddit.com/r/Kotlin/comments/1iqovme/how_i_can_from_my_main_activity_that_has_2/)
-- [Native iOS teams adopting KMP?](https://www.reddit.com/r/Kotlin/comments/1iqojo6/native_ios_teams_adopting_kmp/)
-- [How can I elegantly implement isListOf without iterating over list items?](https://www.reddit.com/r/Kotlin/comments/1iqky6w/how_can_i_elegantly_implement_islistof_without/)
-- [Stability and types defined in another module](https://www.reddit.com/r/Kotlin/comments/1iqfvho/stability_and_types_defined_in_another_module/)
-- [150 dollar reward for you to build a very simple app for me](https://www.reddit.com/r/Kotlin/comments/1iqeb7d/150_dollar_reward_for_you_to_build_a_very_simple/)
-- [Extension functions when to &lpar;not&rpar; use them?](https://www.reddit.com/r/Kotlin/comments/1iq8cbf/extension_functions_when_to_not_use_them/)
+- [Fast Incremental JVM Assembly Jar Creation with Mill](https://www.reddit.com/r/Kotlin/comments/1is0dv4/fast_incremental_jvm_assembly_jar_creation_with/)
+- [problem with api using kotlin | the data don&#39;t show in the app](https://www.reddit.com/r/Kotlin/comments/1iryk3y/problem_with_api_using_kotlin_the_data_dont_show/)
+- [how can I upgrade an existing table schema in exposed?](https://www.reddit.com/r/Kotlin/comments/1irpauu/how_can_i_upgrade_an_existing_table_schema_in/)
+- [I Built My Own AI Code Assistant with DeepSeek &amp; LangChain!](https://www.reddit.com/r/Kotlin/comments/1iro9or/i_built_my_own_ai_code_assistant_with_deepseek/)
+- [Structuring a Ktor Backend with Koin - Looking for Feedback!](https://www.reddit.com/r/Kotlin/comments/1irk1pi/structuring_a_ktor_backend_with_koin_looking_for/)
+- [OpenAI vs. DeepSeek: Which AI Understands Kotlin Better?](https://www.reddit.com/r/Kotlin/comments/1irjm6k/openai_vs_deepseek_which_ai_understands_kotlin/)
+- [First Look at JetBrains Junie Autonomous AI Agent](https://www.reddit.com/r/Kotlin/comments/1irjeaa/first_look_at_jetbrains_junie_autonomous_ai_agent/)
+- [🚀 [Open Source] Kotlin SpaceX API Library 🛰️](https://www.reddit.com/r/Kotlin/comments/1irfub9/open_source_kotlin_spacex_api_library/)
+- [Can I earn enough to buy android dev account of 25usd from crypto freelancing or sell code for crypto](https://www.reddit.com/r/Kotlin/comments/1irdous/can_i_earn_enough_to_buy_android_dev_account_of/)
+- [KotlinConf 2025 Workshop – &quot;Building Shared UI With Compose Multiplatform&quot;](https://www.reddit.com/r/Kotlin/comments/1ircf03/kotlinconf_2025_workshop_building_shared_ui_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
