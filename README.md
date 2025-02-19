@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Double Loop TDD: Building My Kotlin Blog Engine &quot;the Right Way&quot; &lpar;part 2&rpar;](https://www.reddit.com/r/Kotlin/comments/1is7e8t/double_loop_tdd_building_my_kotlin_blog_engine/)
 - [Fast Incremental JVM Assembly Jar Creation with Mill](https://www.reddit.com/r/Kotlin/comments/1is0dv4/fast_incremental_jvm_assembly_jar_creation_with/)
 - [problem with api using kotlin | the data don&#39;t show in the app](https://www.reddit.com/r/Kotlin/comments/1iryk3y/problem_with_api_using_kotlin_the_data_dont_show/)
 - [how can I upgrade an existing table schema in exposed?](https://www.reddit.com/r/Kotlin/comments/1irpauu/how_can_i_upgrade_an_existing_table_schema_in/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [First Look at JetBrains Junie Autonomous AI Agent](https://www.reddit.com/r/Kotlin/comments/1irjeaa/first_look_at_jetbrains_junie_autonomous_ai_agent/)
 - [🚀 [Open Source] Kotlin SpaceX API Library 🛰️](https://www.reddit.com/r/Kotlin/comments/1irfub9/open_source_kotlin_spacex_api_library/)
 - [Can I earn enough to buy android dev account of 25usd from crypto freelancing or sell code for crypto](https://www.reddit.com/r/Kotlin/comments/1irdous/can_i_earn_enough_to_buy_android_dev_account_of/)
-- [KotlinConf 2025 Workshop – &quot;Building Shared UI With Compose Multiplatform&quot;](https://www.reddit.com/r/Kotlin/comments/1ircf03/kotlinconf_2025_workshop_building_shared_ui_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
