@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [250 dollar reward to build a simple app for me](https://www.reddit.com/r/Kotlin/comments/1iu92mu/250_dollar_reward_to_build_a_simple_app_for_me/)
+- [Multiplatform Strings - Chris Banes](https://www.reddit.com/r/Kotlin/comments/1itwrre/multiplatform_strings_chris_banes/)
+- [QUESTION: secondary constructors can’t reuse values?](https://www.reddit.com/r/Kotlin/comments/1ittk3x/question_secondary_constructors_cant_reuse_values/)
 - [I need help with my project](https://www.reddit.com/r/Kotlin/comments/1itgvp0/i_need_help_with_my_project/)
 - [What are your thoughts on Kotlin Multi Platform &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1itgjnl/what_are_your_thoughts_on_kotlin_multi_platform/)
 - [I need help](https://www.reddit.com/r/Kotlin/comments/1itfrfg/i_need_help/)
 - [so when i try to create the else state ment it says expecting an element. What is the problem with my code. i want when one batton is press to open the same activity with the difrend resolt.](https://www.reddit.com/r/Kotlin/comments/1itern0/so_when_i_try_to_create_the_else_state_ment_it/)
 - [[KMM] java.lang.NoSuchMethodError when runing exe](https://www.reddit.com/r/Kotlin/comments/1itc1cy/kmm_javalangnosuchmethoderror_when_runing_exe/)
-- [Hey](https://www.reddit.com/r/Kotlin/comments/1it183p/hey/)
 - [Telegram Storage: A free, 1M records NoSQL cloud database in your Telegram channel](https://www.reddit.com/r/Kotlin/comments/1it0wig/telegram_storage_a_free_1m_records_nosql_cloud/)
 - [The Kotlin Foundation Annual Report 2024](https://www.reddit.com/r/Kotlin/comments/1it0qxf/the_kotlin_foundation_annual_report_2024/)
-- [KMP vs Kotlin Android](https://www.reddit.com/r/Kotlin/comments/1it0bxa/kmp_vs_kotlin_android/)
-- [how do i import platform.posix without gradle?](https://www.reddit.com/r/Kotlin/comments/1iszi8c/how_do_i_import_platformposix_without_gradle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
