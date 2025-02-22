@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is this a Kotlin Playground bug or am I doing something wrong.](https://www.reddit.com/r/Kotlin/comments/1iv1h33/is_this_a_kotlin_playground_bug_or_am_i_doing/)
+- [doc4k: An interactive CLI tool designed for analyzing large Kotlin projects using AI.](https://www.reddit.com/r/Kotlin/comments/1iuzzd9/doc4k_an_interactive_cli_tool_designed_for/)
+- [Just got done studying coroutines, any &quot;project&quot; ideas?](https://www.reddit.com/r/Kotlin/comments/1iuxzxm/just_got_done_studying_coroutines_any_project/)
+- [How much time does it take to build your Kotlin multiplatform project?](https://www.reddit.com/r/Kotlin/comments/1iuvj8t/how_much_time_does_it_take_to_build_your_kotlin/)
+- [carbon-compose release v0.4.0](https://www.reddit.com/r/Kotlin/comments/1iupohg/carboncompose_release_v040/)
+- [Sailormoon characters api using ktor framework](https://www.reddit.com/r/Kotlin/comments/1iup578/sailormoon_characters_api_using_ktor_framework/)
+- [Do google play store dev account support minor age dev?](https://www.reddit.com/r/Kotlin/comments/1iumb0j/do_google_play_store_dev_account_support_minor/)
+- [Adoption of Kotlin Multiplatform and is it prudent to switch to it in 2025?](https://www.reddit.com/r/Kotlin/comments/1iuknkj/adoption_of_kotlin_multiplatform_and_is_it/)
+- [Temporary short term job posting. Low skill level required Android app development for 50 dollars an hour](https://www.reddit.com/r/Kotlin/comments/1iugo2x/temporary_short_term_job_posting_low_skill_level/)
 - [250 dollar reward to build a simple app for me](https://www.reddit.com/r/Kotlin/comments/1iu92mu/250_dollar_reward_to_build_a_simple_app_for_me/)
-- [Multiplatform Strings - Chris Banes](https://www.reddit.com/r/Kotlin/comments/1itwrre/multiplatform_strings_chris_banes/)
-- [QUESTION: secondary constructors can’t reuse values?](https://www.reddit.com/r/Kotlin/comments/1ittk3x/question_secondary_constructors_cant_reuse_values/)
-- [I need help with my project](https://www.reddit.com/r/Kotlin/comments/1itgvp0/i_need_help_with_my_project/)
-- [What are your thoughts on Kotlin Multi Platform &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1itgjnl/what_are_your_thoughts_on_kotlin_multi_platform/)
-- [I need help](https://www.reddit.com/r/Kotlin/comments/1itfrfg/i_need_help/)
-- [so when i try to create the else state ment it says expecting an element. What is the problem with my code. i want when one batton is press to open the same activity with the difrend resolt.](https://www.reddit.com/r/Kotlin/comments/1itern0/so_when_i_try_to_create_the_else_state_ment_it/)
-- [[KMM] java.lang.NoSuchMethodError when runing exe](https://www.reddit.com/r/Kotlin/comments/1itc1cy/kmm_javalangnosuchmethoderror_when_runing_exe/)
-- [Telegram Storage: A free, 1M records NoSQL cloud database in your Telegram channel](https://www.reddit.com/r/Kotlin/comments/1it0wig/telegram_storage_a_free_1m_records_nosql_cloud/)
-- [The Kotlin Foundation Annual Report 2024](https://www.reddit.com/r/Kotlin/comments/1it0qxf/the_kotlin_foundation_annual_report_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
