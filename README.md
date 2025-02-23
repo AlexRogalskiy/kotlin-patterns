@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [App examples that are iOS style](https://www.reddit.com/r/Kotlin/comments/1ivj7j2/app_examples_that_are_ios_style/)
+- [Can someone help me with my project](https://www.reddit.com/r/Kotlin/comments/1ivg59p/can_someone_help_me_with_my_project/)
+- [Connecting Azure cosmosDB SDK for Java with Kotlinx.Serialization as serializer](https://www.reddit.com/r/Kotlin/comments/1ivfqzp/connecting_azure_cosmosdb_sdk_for_java_with/)
+- [As an android dev should I learn ml or dl?](https://www.reddit.com/r/Kotlin/comments/1ive511/as_an_android_dev_should_i_learn_ml_or_dl/)
+- [WHY `Any?` IF `in`-PROJECTED?](https://www.reddit.com/r/Kotlin/comments/1ivdvd1/why_any_if_inprojected/)
+- [Google&#39;s Shift to Rust Programming Cuts Android Memory Vulnerabilities by 68%](https://www.reddit.com/r/Kotlin/comments/1ivbyuh/googles_shift_to_rust_programming_cuts_android/)
+- [QUESTION: how to tell methods apart?](https://www.reddit.com/r/Kotlin/comments/1ivbuht/question_how_to_tell_methods_apart/)
+- [QUESTION: what’s the type of `this`?](https://www.reddit.com/r/Kotlin/comments/1ivbj7c/question_whats_the_type_of_this/)
 - [Is this a Kotlin Playground bug or am I doing something wrong.](https://www.reddit.com/r/Kotlin/comments/1iv1h33/is_this_a_kotlin_playground_bug_or_am_i_doing/)
 - [doc4k: An interactive CLI tool designed for analyzing large Kotlin projects using AI.](https://www.reddit.com/r/Kotlin/comments/1iuzzd9/doc4k_an_interactive_cli_tool_designed_for/)
-- [Just got done studying coroutines, any &quot;project&quot; ideas?](https://www.reddit.com/r/Kotlin/comments/1iuxzxm/just_got_done_studying_coroutines_any_project/)
-- [How much time does it take to build your Kotlin multiplatform project?](https://www.reddit.com/r/Kotlin/comments/1iuvj8t/how_much_time_does_it_take_to_build_your_kotlin/)
-- [carbon-compose release v0.4.0](https://www.reddit.com/r/Kotlin/comments/1iupohg/carboncompose_release_v040/)
-- [Sailormoon characters api using ktor framework](https://www.reddit.com/r/Kotlin/comments/1iup578/sailormoon_characters_api_using_ktor_framework/)
-- [Do google play store dev account support minor age dev?](https://www.reddit.com/r/Kotlin/comments/1iumb0j/do_google_play_store_dev_account_support_minor/)
-- [Adoption of Kotlin Multiplatform and is it prudent to switch to it in 2025?](https://www.reddit.com/r/Kotlin/comments/1iuknkj/adoption_of_kotlin_multiplatform_and_is_it/)
-- [Temporary short term job posting. Low skill level required Android app development for 50 dollars an hour](https://www.reddit.com/r/Kotlin/comments/1iugo2x/temporary_short_term_job_posting_low_skill_level/)
-- [250 dollar reward to build a simple app for me](https://www.reddit.com/r/Kotlin/comments/1iu92mu/250_dollar_reward_to_build_a_simple_app_for_me/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
