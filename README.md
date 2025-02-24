@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I can&#39;t get the state of desktop compose to work.](https://www.reddit.com/r/Kotlin/comments/1iwp7sf/i_cant_get_the_state_of_desktop_compose_to_work/)
+- [Revenge of the sequence](https://www.reddit.com/r/Kotlin/comments/1iwi0th/revenge_of_the_sequence/)
+- [How hard is it to embed a Linux app in a Kotlin/Android project? Would importing a python package with the same function be easier/harder?](https://www.reddit.com/r/Kotlin/comments/1iwf6pt/how_hard_is_it_to_embed_a_linux_app_in_a/)
+- [Why is this NOT exhaustive?](https://www.reddit.com/r/Kotlin/comments/1iwf3w5/why_is_this_not_exhaustive/)
+- [How to integrate Computer Vision model into Kotlin Multiplatfrom, any ideas?](https://www.reddit.com/r/Kotlin/comments/1iwbycu/how_to_integrate_computer_vision_model_into/)
+- [Evaluating Kotlin for Reliable BLE Communication with Multiple ESP32 Devices](https://www.reddit.com/r/Kotlin/comments/1iw6dz5/evaluating_kotlin_for_reliable_ble_communication/)
+- [Ktor call.respond&lpar;&rpar; - did it ever return](https://www.reddit.com/r/Kotlin/comments/1iw3u3p/ktor_callrespond_did_it_ever_return/)
+- [about device dimensions](https://www.reddit.com/r/Kotlin/comments/1iw0fp5/about_device_dimensions/)
 - [App examples that are iOS style](https://www.reddit.com/r/Kotlin/comments/1ivj7j2/app_examples_that_are_ios_style/)
 - [Can someone help me with my project](https://www.reddit.com/r/Kotlin/comments/1ivg59p/can_someone_help_me_with_my_project/)
-- [Connecting Azure cosmosDB SDK for Java with Kotlinx.Serialization as serializer](https://www.reddit.com/r/Kotlin/comments/1ivfqzp/connecting_azure_cosmosdb_sdk_for_java_with/)
-- [As an android dev should I learn ml or dl?](https://www.reddit.com/r/Kotlin/comments/1ive511/as_an_android_dev_should_i_learn_ml_or_dl/)
-- [WHY `Any?` IF `in`-PROJECTED?](https://www.reddit.com/r/Kotlin/comments/1ivdvd1/why_any_if_inprojected/)
-- [Google&#39;s Shift to Rust Programming Cuts Android Memory Vulnerabilities by 68%](https://www.reddit.com/r/Kotlin/comments/1ivbyuh/googles_shift_to_rust_programming_cuts_android/)
-- [QUESTION: how to tell methods apart?](https://www.reddit.com/r/Kotlin/comments/1ivbuht/question_how_to_tell_methods_apart/)
-- [QUESTION: what’s the type of `this`?](https://www.reddit.com/r/Kotlin/comments/1ivbj7c/question_whats_the_type_of_this/)
-- [Is this a Kotlin Playground bug or am I doing something wrong.](https://www.reddit.com/r/Kotlin/comments/1iv1h33/is_this_a_kotlin_playground_bug_or_am_i_doing/)
-- [doc4k: An interactive CLI tool designed for analyzing large Kotlin projects using AI.](https://www.reddit.com/r/Kotlin/comments/1iuzzd9/doc4k_an_interactive_cli_tool_designed_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
