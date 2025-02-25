@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ktor - how to exit from a &quot;forEachPart&quot; in a multipart request?](https://www.reddit.com/r/Kotlin/comments/1ix859n/ktor_how_to_exit_from_a_foreachpart_in_a/)
+- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1ix63er/new_to_kotlin/)
+- [So I got some freaky &quot;error&quot; here, the code still runs but the IDE is more red than the sea full of blood, help would be appreciated.](https://www.reddit.com/r/Kotlin/comments/1ix0s53/so_i_got_some_freaky_error_here_the_code_still/)
+- [What&#39;s your fallback programming language if something bad happened to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1iwsl7j/whats_your_fallback_programming_language_if/)
+- [Help with nested JSON information.](https://www.reddit.com/r/Kotlin/comments/1iwr6jo/help_with_nested_json_information/)
 - [I can&#39;t get the state of desktop compose to work.](https://www.reddit.com/r/Kotlin/comments/1iwp7sf/i_cant_get_the_state_of_desktop_compose_to_work/)
 - [Revenge of the sequence](https://www.reddit.com/r/Kotlin/comments/1iwi0th/revenge_of_the_sequence/)
 - [How hard is it to embed a Linux app in a Kotlin/Android project? Would importing a python package with the same function be easier/harder?](https://www.reddit.com/r/Kotlin/comments/1iwf6pt/how_hard_is_it_to_embed_a_linux_app_in_a/)
 - [Why is this NOT exhaustive?](https://www.reddit.com/r/Kotlin/comments/1iwf3w5/why_is_this_not_exhaustive/)
-- [How to integrate Computer Vision model into Kotlin Multiplatfrom, any ideas?](https://www.reddit.com/r/Kotlin/comments/1iwbycu/how_to_integrate_computer_vision_model_into/)
 - [Evaluating Kotlin for Reliable BLE Communication with Multiple ESP32 Devices](https://www.reddit.com/r/Kotlin/comments/1iw6dz5/evaluating_kotlin_for_reliable_ble_communication/)
-- [Ktor call.respond&lpar;&rpar; - did it ever return](https://www.reddit.com/r/Kotlin/comments/1iw3u3p/ktor_callrespond_did_it_ever_return/)
-- [about device dimensions](https://www.reddit.com/r/Kotlin/comments/1iw0fp5/about_device_dimensions/)
-- [App examples that are iOS style](https://www.reddit.com/r/Kotlin/comments/1ivj7j2/app_examples_that_are_ios_style/)
-- [Can someone help me with my project](https://www.reddit.com/r/Kotlin/comments/1ivg59p/can_someone_help_me_with_my_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
