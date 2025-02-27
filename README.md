@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for a Tech Co-founder &lpar;App Developer&rpar; for Voxcii – A Voice-First Social Media App 🚀](https://www.reddit.com/r/Kotlin/comments/1iz3q5h/looking_for_a_tech_cofounder_app_developer_for/)
+- [Why aren&#39;t any of the main Apache projects incorporating Kotlin yet?](https://www.reddit.com/r/Kotlin/comments/1iyvowl/why_arent_any_of_the_main_apache_projects/)
+- [why would my tests all be fine despite `gradle run` failing?](https://www.reddit.com/r/Kotlin/comments/1iyudgj/why_would_my_tests_all_be_fine_despite_gradle_run/)
+- [Building a Compose app with Junie - the new AI coding agent from JetBrains](https://www.reddit.com/r/Kotlin/comments/1iyqv0v/building_a_compose_app_with_junie_the_new_ai/)
+- [My first Jetpack Compose Snippets newsletter is live 🚀](https://www.reddit.com/r/Kotlin/comments/1iymus6/my_first_jetpack_compose_snippets_newsletter_is/)
+- [Jetpack Compose Authentication with Supabase](https://www.reddit.com/r/Kotlin/comments/1iyk1a3/jetpack_compose_authentication_with_supabase/)
+- [ktor 3.x - how to handle formFieldLimit for multipart?](https://www.reddit.com/r/Kotlin/comments/1iyiwlg/ktor_3x_how_to_handle_formfieldlimit_for_multipart/)
+- [Best Way to Get Into Kotlin / Kotlin Multiplatform? – Is It the Future?](https://www.reddit.com/r/Kotlin/comments/1iyhsuw/best_way_to_get_into_kotlin_kotlin_multiplatform/)
+- [Introducing cv-generator-latex: A Kotlin Library for Generating LaTeX-based CVs](https://www.reddit.com/r/Kotlin/comments/1iyf440/introducing_cvgeneratorlatex_a_kotlin_library_for/)
 - [Should I use Unit of Work or call Use Cases sequentially?](https://www.reddit.com/r/Kotlin/comments/1iy7med/should_i_use_unit_of_work_or_call_use_cases/)
-- [Can make a function wait untill it&#39;s a specific time ?](https://www.reddit.com/r/Kotlin/comments/1iy26b1/can_make_a_function_wait_untill_its_a_specific/)
-- [🎉 Ktor 3.1.1 has been released!](https://www.reddit.com/r/Kotlin/comments/1ixvgh6/ktor_311_has_been_released/)
-- [Rapid prototyping with Kotlin](https://www.reddit.com/r/Kotlin/comments/1ixsvea/rapid_prototyping_with_kotlin/)
-- [Jetpack Compose Design using ChatGpt - 02](https://www.reddit.com/r/Kotlin/comments/1ixs4ft/jetpack_compose_design_using_chatgpt_02/)
-- [Refactoring Towards Cleaner Boundaries: Lessons from Building a Markdown Blog Engine &lpar;part 3&rpar;](https://www.reddit.com/r/Kotlin/comments/1ixoo08/refactoring_towards_cleaner_boundaries_lessons/)
-- [Is an `object` actually a singleton?](https://www.reddit.com/r/Kotlin/comments/1ixlpdk/is_an_object_actually_a_singleton/)
-- [ktor - how to exit from a &quot;forEachPart&quot; in a multipart request?](https://www.reddit.com/r/Kotlin/comments/1ix859n/ktor_how_to_exit_from_a_foreachpart_in_a/)
-- [So I got some freaky &quot;error&quot; here, the code still runs but the IDE is more red than the sea full of blood, help would be appreciated.](https://www.reddit.com/r/Kotlin/comments/1ix0s53/so_i_got_some_freaky_error_here_the_code_still/)
-- [What&#39;s your fallback programming language if something bad happened to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1iwsl7j/whats_your_fallback_programming_language_if/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
