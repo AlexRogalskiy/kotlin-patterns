@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Reading linemarkers](https://www.reddit.com/r/Kotlin/comments/1izu5gz/reading_linemarkers/)
+- [Kotlin newbie here. Best projects that help me understand the language?](https://www.reddit.com/r/Kotlin/comments/1izrmz5/kotlin_newbie_here_best_projects_that_help_me/)
+- [What has you Kotlin Multiplatform been?](https://www.reddit.com/r/Kotlin/comments/1izhqgn/what_has_you_kotlin_multiplatform_been/)
+- [Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1izef1f/learning_kotlin/)
+- [Do you use kotlin-wrappers?](https://www.reddit.com/r/Kotlin/comments/1izc3kx/do_you_use_kotlinwrappers/)
 - [Looking for a Tech Co-founder &lpar;App Developer&rpar; for Voxcii – A Voice-First Social Media App 🚀](https://www.reddit.com/r/Kotlin/comments/1iz3q5h/looking_for_a_tech_cofounder_app_developer_for/)
 - [Why aren&#39;t any of the main Apache projects incorporating Kotlin yet?](https://www.reddit.com/r/Kotlin/comments/1iyvowl/why_arent_any_of_the_main_apache_projects/)
 - [why would my tests all be fine despite `gradle run` failing?](https://www.reddit.com/r/Kotlin/comments/1iyudgj/why_would_my_tests_all_be_fine_despite_gradle_run/)
 - [Building a Compose app with Junie - the new AI coding agent from JetBrains](https://www.reddit.com/r/Kotlin/comments/1iyqv0v/building_a_compose_app_with_junie_the_new_ai/)
 - [My first Jetpack Compose Snippets newsletter is live 🚀](https://www.reddit.com/r/Kotlin/comments/1iymus6/my_first_jetpack_compose_snippets_newsletter_is/)
-- [Jetpack Compose Authentication with Supabase](https://www.reddit.com/r/Kotlin/comments/1iyk1a3/jetpack_compose_authentication_with_supabase/)
-- [ktor 3.x - how to handle formFieldLimit for multipart?](https://www.reddit.com/r/Kotlin/comments/1iyiwlg/ktor_3x_how_to_handle_formfieldlimit_for_multipart/)
-- [Best Way to Get Into Kotlin / Kotlin Multiplatform? – Is It the Future?](https://www.reddit.com/r/Kotlin/comments/1iyhsuw/best_way_to_get_into_kotlin_kotlin_multiplatform/)
-- [Introducing cv-generator-latex: A Kotlin Library for Generating LaTeX-based CVs](https://www.reddit.com/r/Kotlin/comments/1iyf440/introducing_cvgeneratorlatex_a_kotlin_library_for/)
-- [Should I use Unit of Work or call Use Cases sequentially?](https://www.reddit.com/r/Kotlin/comments/1iy7med/should_i_use_unit_of_work_or_call_use_cases/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
