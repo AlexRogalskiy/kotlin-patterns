@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktor with a new-to-Kt team, avoid coroutines?](https://www.reddit.com/r/Kotlin/comments/1j0o0zj/ktor_with_a_newtokt_team_avoid_coroutines/)
+- [[Blog Post] Writing code the Kotlin-way](https://www.reddit.com/r/Kotlin/comments/1j0d4sl/blog_post_writing_code_the_kotlinway/)
+- [Can JetBrains Junie replace manual refactoring?](https://www.reddit.com/r/Kotlin/comments/1j07ni6/can_jetbrains_junie_replace_manual_refactoring/)
+- [I built a tool that let&#39;s you build apps visually and exports to Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1j0058y/i_built_a_tool_that_lets_you_build_apps_visually/)
+- [Running Ktor in a Docker container with auto-reload](https://www.reddit.com/r/Kotlin/comments/1izyip8/running_ktor_in_a_docker_container_with_autoreload/)
 - [Reading linemarkers](https://www.reddit.com/r/Kotlin/comments/1izu5gz/reading_linemarkers/)
 - [Kotlin newbie here. Best projects that help me understand the language?](https://www.reddit.com/r/Kotlin/comments/1izrmz5/kotlin_newbie_here_best_projects_that_help_me/)
 - [What has you Kotlin Multiplatform been?](https://www.reddit.com/r/Kotlin/comments/1izhqgn/what_has_you_kotlin_multiplatform_been/)
 - [Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1izef1f/learning_kotlin/)
 - [Do you use kotlin-wrappers?](https://www.reddit.com/r/Kotlin/comments/1izc3kx/do_you_use_kotlinwrappers/)
-- [Looking for a Tech Co-founder &lpar;App Developer&rpar; for Voxcii – A Voice-First Social Media App 🚀](https://www.reddit.com/r/Kotlin/comments/1iz3q5h/looking_for_a_tech_cofounder_app_developer_for/)
-- [Why aren&#39;t any of the main Apache projects incorporating Kotlin yet?](https://www.reddit.com/r/Kotlin/comments/1iyvowl/why_arent_any_of_the_main_apache_projects/)
-- [why would my tests all be fine despite `gradle run` failing?](https://www.reddit.com/r/Kotlin/comments/1iyudgj/why_would_my_tests_all_be_fine_despite_gradle_run/)
-- [Building a Compose app with Junie - the new AI coding agent from JetBrains](https://www.reddit.com/r/Kotlin/comments/1iyqv0v/building_a_compose_app_with_junie_the_new_ai/)
-- [My first Jetpack Compose Snippets newsletter is live 🚀](https://www.reddit.com/r/Kotlin/comments/1iymus6/my_first_jetpack_compose_snippets_newsletter_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
