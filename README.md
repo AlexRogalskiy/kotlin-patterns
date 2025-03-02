@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How To Improve An `Int` Wrapper Type?](https://www.reddit.com/r/Kotlin/comments/1j11mdd/how_to_improve_an_int_wrapper_type/)
+- [Strong skipping does not fix Kotlin collections in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1j0zbwj/strong_skipping_does_not_fix_kotlin_collections/)
+- [What are the most important things to keep in mind when programming in Kotlin for Android?](https://www.reddit.com/r/Kotlin/comments/1j0temt/what_are_the_most_important_things_to_keep_in/)
 - [Ktor with a new-to-Kt team, avoid coroutines?](https://www.reddit.com/r/Kotlin/comments/1j0o0zj/ktor_with_a_newtokt_team_avoid_coroutines/)
 - [[Blog Post] Writing code the Kotlin-way](https://www.reddit.com/r/Kotlin/comments/1j0d4sl/blog_post_writing_code_the_kotlinway/)
 - [Can JetBrains Junie replace manual refactoring?](https://www.reddit.com/r/Kotlin/comments/1j07ni6/can_jetbrains_junie_replace_manual_refactoring/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Running Ktor in a Docker container with auto-reload](https://www.reddit.com/r/Kotlin/comments/1izyip8/running_ktor_in_a_docker_container_with_autoreload/)
 - [Reading linemarkers](https://www.reddit.com/r/Kotlin/comments/1izu5gz/reading_linemarkers/)
 - [Kotlin newbie here. Best projects that help me understand the language?](https://www.reddit.com/r/Kotlin/comments/1izrmz5/kotlin_newbie_here_best_projects_that_help_me/)
-- [What has you Kotlin Multiplatform been?](https://www.reddit.com/r/Kotlin/comments/1izhqgn/what_has_you_kotlin_multiplatform_been/)
-- [Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1izef1f/learning_kotlin/)
-- [Do you use kotlin-wrappers?](https://www.reddit.com/r/Kotlin/comments/1izc3kx/do_you_use_kotlinwrappers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
