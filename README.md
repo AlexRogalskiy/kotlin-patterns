@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I want to create an app note](https://www.reddit.com/r/Kotlin/comments/1j240jk/i_want_to_create_an_app_note/)
+- [I built a Kotlin Gameboy emulator](https://www.reddit.com/r/Kotlin/comments/1j1xm69/i_built_a_kotlin_gameboy_emulator/)
+- [Started learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1j1tut3/started_learning_kotlin/)
+- [Backend in kotlin](https://www.reddit.com/r/Kotlin/comments/1j1jev1/backend_in_kotlin/)
 - [How To Improve An `Int` Wrapper Type?](https://www.reddit.com/r/Kotlin/comments/1j11mdd/how_to_improve_an_int_wrapper_type/)
 - [Strong skipping does not fix Kotlin collections in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1j0zbwj/strong_skipping_does_not_fix_kotlin_collections/)
 - [What are the most important things to keep in mind when programming in Kotlin for Android?](https://www.reddit.com/r/Kotlin/comments/1j0temt/what_are_the_most_important_things_to_keep_in/)
 - [Ktor with a new-to-Kt team, avoid coroutines?](https://www.reddit.com/r/Kotlin/comments/1j0o0zj/ktor_with_a_newtokt_team_avoid_coroutines/)
 - [[Blog Post] Writing code the Kotlin-way](https://www.reddit.com/r/Kotlin/comments/1j0d4sl/blog_post_writing_code_the_kotlinway/)
 - [Can JetBrains Junie replace manual refactoring?](https://www.reddit.com/r/Kotlin/comments/1j07ni6/can_jetbrains_junie_replace_manual_refactoring/)
-- [I built a tool that let&#39;s you build apps visually and exports to Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1j0058y/i_built_a_tool_that_lets_you_build_apps_visually/)
-- [Running Ktor in a Docker container with auto-reload](https://www.reddit.com/r/Kotlin/comments/1izyip8/running_ktor_in_a_docker_container_with_autoreload/)
-- [Reading linemarkers](https://www.reddit.com/r/Kotlin/comments/1izu5gz/reading_linemarkers/)
-- [Kotlin newbie here. Best projects that help me understand the language?](https://www.reddit.com/r/Kotlin/comments/1izrmz5/kotlin_newbie_here_best_projects_that_help_me/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
