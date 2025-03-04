@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [¿Cómo hacer una apk informativa para android con kotlin?](https://www.reddit.com/r/Kotlin/comments/1j2xafn/cómo_hacer_una_apk_informativa_para_android_con/)
+- [Do you think Kotlin with AI Agents is very limited because of the Intellij?](https://www.reddit.com/r/Kotlin/comments/1j2v06a/do_you_think_kotlin_with_ai_agents_is_very/)
+- [I need roadmap](https://www.reddit.com/r/Kotlin/comments/1j2t5vf/i_need_roadmap/)
+- [I need a RoadMap](https://www.reddit.com/r/Kotlin/comments/1j2t4ap/i_need_a_roadmap/)
+- [New Open Source Library for managing Permissions in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1j2q3fe/new_open_source_library_for_managing_permissions/)
+- [How to Use Swift Packages in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1j2jgrr/how_to_use_swift_packages_in_kotlin_multiplatform/)
 - [I want to create an app note](https://www.reddit.com/r/Kotlin/comments/1j240jk/i_want_to_create_an_app_note/)
 - [I built a Kotlin Gameboy emulator](https://www.reddit.com/r/Kotlin/comments/1j1xm69/i_built_a_kotlin_gameboy_emulator/)
 - [Started learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1j1tut3/started_learning_kotlin/)
 - [Backend in kotlin](https://www.reddit.com/r/Kotlin/comments/1j1jev1/backend_in_kotlin/)
-- [How To Improve An `Int` Wrapper Type?](https://www.reddit.com/r/Kotlin/comments/1j11mdd/how_to_improve_an_int_wrapper_type/)
-- [Strong skipping does not fix Kotlin collections in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1j0zbwj/strong_skipping_does_not_fix_kotlin_collections/)
-- [What are the most important things to keep in mind when programming in Kotlin for Android?](https://www.reddit.com/r/Kotlin/comments/1j0temt/what_are_the_most_important_things_to_keep_in/)
-- [Ktor with a new-to-Kt team, avoid coroutines?](https://www.reddit.com/r/Kotlin/comments/1j0o0zj/ktor_with_a_newtokt_team_avoid_coroutines/)
-- [[Blog Post] Writing code the Kotlin-way](https://www.reddit.com/r/Kotlin/comments/1j0d4sl/blog_post_writing_code_the_kotlinway/)
-- [Can JetBrains Junie replace manual refactoring?](https://www.reddit.com/r/Kotlin/comments/1j07ni6/can_jetbrains_junie_replace_manual_refactoring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
