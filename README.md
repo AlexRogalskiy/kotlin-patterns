@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help a Java dude becomes a Kotlin hero](https://www.reddit.com/r/Kotlin/comments/1j45y0v/help_a_java_dude_becomes_a_kotlin_hero/)
+- [Hexagon Toolkit v4](https://www.reddit.com/r/Kotlin/comments/1j3yfh4/hexagon_toolkit_v4/)
+- [Hello everyone, I rewrote my video app using Kotlin and Compose.](https://www.reddit.com/r/Kotlin/comments/1j3wge8/hello_everyone_i_rewrote_my_video_app_using/)
 - [What&#39;s the proper way to use a continuation to run a coroutine?](https://www.reddit.com/r/Kotlin/comments/1j3pgkj/whats_the_proper_way_to_use_a_continuation_to_run/)
 - [I made a simple Kotlin Coding Agent in Android Studio and Intellij](https://www.reddit.com/r/Kotlin/comments/1j3n3mx/i_made_a_simple_kotlin_coding_agent_in_android/)
 - [Apply for Google Summer of Code 2025 and Contribute to the Kotlin Ecosystem](https://www.reddit.com/r/Kotlin/comments/1j3la39/apply_for_google_summer_of_code_2025_and/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin MP vs React Native MP](https://www.reddit.com/r/Kotlin/comments/1j3h0ex/kotlin_mp_vs_react_native_mp/)
 - [How to create project which uses XML and not Jetpack compose?](https://www.reddit.com/r/Kotlin/comments/1j3emwv/how_to_create_project_which_uses_xml_and_not/)
 - [LLM Generation in background – Any alternative to Foreground Service?](https://www.reddit.com/r/Kotlin/comments/1j36v0j/llm_generation_in_background_any_alternative_to/)
-- [Firebase doest get updated from android studio,i mean when i run the up and press a button the next activity doesn&#39;t show the list with the names and only show a blank screen](https://www.reddit.com/r/Kotlin/comments/1j36cdw/firebase_doest_get_updated_from_android_studioi/)
-- [¿Cómo hacer una apk informativa para android con kotlin?](https://www.reddit.com/r/Kotlin/comments/1j2xafn/cómo_hacer_una_apk_informativa_para_android_con/)
-- [Do you think Kotlin with AI Agents is very limited because of the Intellij?](https://www.reddit.com/r/Kotlin/comments/1j2v06a/do_you_think_kotlin_with_ai_agents_is_very/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
