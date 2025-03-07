@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need Help Building a Dynamic Pomodoro Timer App for Personal Weight-Loss Goals &lpar;Kotlin/Java&rpar;](https://www.reddit.com/r/Kotlin/comments/1j52lgk/need_help_building_a_dynamic_pomodoro_timer_app/)
+- [Coroutines Flow vs RxJava?](https://www.reddit.com/r/Kotlin/comments/1j4z0mx/coroutines_flow_vs_rxjava/)
+- [Help me](https://www.reddit.com/r/Kotlin/comments/1j4wiyo/help_me/)
+- [Koin Annotations 2.0 — Release is out!](https://www.reddit.com/r/Kotlin/comments/1j4w2rg/koin_annotations_20_release_is_out/)
+- [TRIGGERING SHEETS AND A POPUP WITH KOTLIN AND FIREBASE](https://www.reddit.com/r/Kotlin/comments/1j4v3qi/triggering_sheets_and_a_popup_with_kotlin_and/)
+- [actor4k: A small actor system written in kotlin using Coroutines.](https://www.reddit.com/r/Kotlin/comments/1j4refc/actor4k_a_small_actor_system_written_in_kotlin/)
+- [Any ideas of how to fix this error I keep using &gt; and &lt; in ViewModel?](https://www.reddit.com/r/Kotlin/comments/1j4qewm/any_ideas_of_how_to_fix_this_error_i_keep_using/)
 - [Help a Java dude becomes a Kotlin hero](https://www.reddit.com/r/Kotlin/comments/1j45y0v/help_a_java_dude_becomes_a_kotlin_hero/)
 - [Hexagon Toolkit v4](https://www.reddit.com/r/Kotlin/comments/1j3yfh4/hexagon_toolkit_v4/)
 - [Hello everyone, I rewrote my video app using Kotlin and Compose.](https://www.reddit.com/r/Kotlin/comments/1j3wge8/hello_everyone_i_rewrote_my_video_app_using/)
-- [What&#39;s the proper way to use a continuation to run a coroutine?](https://www.reddit.com/r/Kotlin/comments/1j3pgkj/whats_the_proper_way_to_use_a_continuation_to_run/)
-- [I made a simple Kotlin Coding Agent in Android Studio and Intellij](https://www.reddit.com/r/Kotlin/comments/1j3n3mx/i_made_a_simple_kotlin_coding_agent_in_android/)
-- [Apply for Google Summer of Code 2025 and Contribute to the Kotlin Ecosystem](https://www.reddit.com/r/Kotlin/comments/1j3la39/apply_for_google_summer_of_code_2025_and/)
-- [how to handle client and server errors in kotlin/ktor/exposed](https://www.reddit.com/r/Kotlin/comments/1j3htpi/how_to_handle_client_and_server_errors_in/)
-- [Kotlin MP vs React Native MP](https://www.reddit.com/r/Kotlin/comments/1j3h0ex/kotlin_mp_vs_react_native_mp/)
-- [How to create project which uses XML and not Jetpack compose?](https://www.reddit.com/r/Kotlin/comments/1j3emwv/how_to_create_project_which_uses_xml_and_not/)
-- [LLM Generation in background – Any alternative to Foreground Service?](https://www.reddit.com/r/Kotlin/comments/1j36v0j/llm_generation_in_background_any_alternative_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
