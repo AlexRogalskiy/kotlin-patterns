@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Structural: A lightweight Gradle plugin for enforcing package dependency rules in Android &amp; Kotlin projects](https://www.reddit.com/r/Kotlin/comments/1j623e7/structural_a_lightweight_gradle_plugin_for/)
+- [Fighting the Elephant - Gradle Convention Plugins](https://www.reddit.com/r/Kotlin/comments/1j5pu00/fighting_the_elephant_gradle_convention_plugins/)
+- [Video Crop Using Jetpack Compose in Android Studio.](https://www.reddit.com/r/Kotlin/comments/1j5hyns/video_crop_using_jetpack_compose_in_android_studio/)
+- [How to add kotest dependency in gradle-kotlin](https://www.reddit.com/r/Kotlin/comments/1j5g1bn/how_to_add_kotest_dependency_in_gradlekotlin/)
 - [Need Help Building a Dynamic Pomodoro Timer App for Personal Weight-Loss Goals &lpar;Kotlin/Java&rpar;](https://www.reddit.com/r/Kotlin/comments/1j52lgk/need_help_building_a_dynamic_pomodoro_timer_app/)
 - [Coroutines Flow vs RxJava?](https://www.reddit.com/r/Kotlin/comments/1j4z0mx/coroutines_flow_vs_rxjava/)
 - [Help me](https://www.reddit.com/r/Kotlin/comments/1j4wiyo/help_me/)
 - [Koin Annotations 2.0 — Release is out!](https://www.reddit.com/r/Kotlin/comments/1j4w2rg/koin_annotations_20_release_is_out/)
 - [TRIGGERING SHEETS AND A POPUP WITH KOTLIN AND FIREBASE](https://www.reddit.com/r/Kotlin/comments/1j4v3qi/triggering_sheets_and_a_popup_with_kotlin_and/)
 - [actor4k: A small actor system written in kotlin using Coroutines.](https://www.reddit.com/r/Kotlin/comments/1j4refc/actor4k_a_small_actor_system_written_in_kotlin/)
-- [Any ideas of how to fix this error I keep using &gt; and &lt; in ViewModel?](https://www.reddit.com/r/Kotlin/comments/1j4qewm/any_ideas_of_how_to_fix_this_error_i_keep_using/)
-- [Help a Java dude becomes a Kotlin hero](https://www.reddit.com/r/Kotlin/comments/1j45y0v/help_a_java_dude_becomes_a_kotlin_hero/)
-- [Hexagon Toolkit v4](https://www.reddit.com/r/Kotlin/comments/1j3yfh4/hexagon_toolkit_v4/)
-- [Hello everyone, I rewrote my video app using Kotlin and Compose.](https://www.reddit.com/r/Kotlin/comments/1j3wge8/hello_everyone_i_rewrote_my_video_app_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
