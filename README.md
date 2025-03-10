@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tidy first?](https://www.reddit.com/r/Kotlin/comments/1j7njld/tidy_first/)
+- [Ktor routing functions differently in two &lpar;ostensibly&rpar; identical configurations.](https://www.reddit.com/r/Kotlin/comments/1j7jrss/ktor_routing_functions_differently_in_two/)
+- [Is it always like this?](https://www.reddit.com/r/Kotlin/comments/1j7g5tg/is_it_always_like_this/)
+- [🚀 Kotools Samples 0.3.0 is available!](https://www.reddit.com/r/Kotlin/comments/1j7fs57/kotools_samples_030_is_available/)
+- [Where to start](https://www.reddit.com/r/Kotlin/comments/1j7a6tu/where_to_start/)
+- [I made a Minesweeper game using Kotlin/WASM](https://www.reddit.com/r/Kotlin/comments/1j75i84/i_made_a_minesweeper_game_using_kotlinwasm/)
+- [How do i make my bottom bar float like this?](https://www.reddit.com/r/Kotlin/comments/1j72j30/how_do_i_make_my_bottom_bar_float_like_this/)
 - [need idea for beginners](https://www.reddit.com/r/Kotlin/comments/1j6tzgs/need_idea_for_beginners/)
 - [I&#39;m new to kotlin. I&#39;m a student &amp; I&#39;m making an app that needs a Database connection. NO INTERNET OR ANY OTHER EXTERNAL CONNECTION. THE APP AND DATABASE MUST BE EMBEDDED. What to do ?](https://www.reddit.com/r/Kotlin/comments/1j6i52h/im_new_to_kotlin_im_a_student_im_making_an_app/)
 - [Lumo UI demos are now interactive on the website!](https://www.reddit.com/r/Kotlin/comments/1j6gopu/lumo_ui_demos_are_now_interactive_on_the_website/)
-- [Structural: A lightweight Gradle plugin for enforcing package dependency rules in Android &amp; Kotlin projects](https://www.reddit.com/r/Kotlin/comments/1j623e7/structural_a_lightweight_gradle_plugin_for/)
-- [Fighting the Elephant - Gradle Convention Plugins](https://www.reddit.com/r/Kotlin/comments/1j5pu00/fighting_the_elephant_gradle_convention_plugins/)
-- [Video Crop Using Jetpack Compose in Android Studio.](https://www.reddit.com/r/Kotlin/comments/1j5hyns/video_crop_using_jetpack_compose_in_android_studio/)
-- [How to add kotest dependency in gradle-kotlin](https://www.reddit.com/r/Kotlin/comments/1j5g1bn/how_to_add_kotest_dependency_in_gradlekotlin/)
-- [Need Help Building a Dynamic Pomodoro Timer App for Personal Weight-Loss Goals &lpar;Kotlin/Java&rpar;](https://www.reddit.com/r/Kotlin/comments/1j52lgk/need_help_building_a_dynamic_pomodoro_timer_app/)
-- [Coroutines Flow vs RxJava?](https://www.reddit.com/r/Kotlin/comments/1j4z0mx/coroutines_flow_vs_rxjava/)
-- [Help me](https://www.reddit.com/r/Kotlin/comments/1j4wiyo/help_me/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
