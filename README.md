@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Raft implementation in Kotlin](https://www.reddit.com/r/Kotlin/comments/1j8f54n/raft_implementation_in_kotlin/)
+- [Mercado Kotlin](https://www.reddit.com/r/Kotlin/comments/1j83v7n/mercado_kotlin/)
+- [Looking for a collaborator to build a mental health app in Kotlin](https://www.reddit.com/r/Kotlin/comments/1j7xz0q/looking_for_a_collaborator_to_build_a_mental/)
+- [250 dollar reward for whoever tells me how to make silent full screen notifications in android](https://www.reddit.com/r/Kotlin/comments/1j7rh7z/250_dollar_reward_for_whoever_tells_me_how_to/)
+- [How to change display size programmatically?](https://www.reddit.com/r/Kotlin/comments/1j7o61w/how_to_change_display_size_programmatically/)
 - [Tidy first?](https://www.reddit.com/r/Kotlin/comments/1j7njld/tidy_first/)
 - [Ktor routing functions differently in two &lpar;ostensibly&rpar; identical configurations.](https://www.reddit.com/r/Kotlin/comments/1j7jrss/ktor_routing_functions_differently_in_two/)
 - [Is it always like this?](https://www.reddit.com/r/Kotlin/comments/1j7g5tg/is_it_always_like_this/)
 - [🚀 Kotools Samples 0.3.0 is available!](https://www.reddit.com/r/Kotlin/comments/1j7fs57/kotools_samples_030_is_available/)
 - [Where to start](https://www.reddit.com/r/Kotlin/comments/1j7a6tu/where_to_start/)
-- [I made a Minesweeper game using Kotlin/WASM](https://www.reddit.com/r/Kotlin/comments/1j75i84/i_made_a_minesweeper_game_using_kotlinwasm/)
-- [How do i make my bottom bar float like this?](https://www.reddit.com/r/Kotlin/comments/1j72j30/how_do_i_make_my_bottom_bar_float_like_this/)
-- [need idea for beginners](https://www.reddit.com/r/Kotlin/comments/1j6tzgs/need_idea_for_beginners/)
-- [I&#39;m new to kotlin. I&#39;m a student &amp; I&#39;m making an app that needs a Database connection. NO INTERNET OR ANY OTHER EXTERNAL CONNECTION. THE APP AND DATABASE MUST BE EMBEDDED. What to do ?](https://www.reddit.com/r/Kotlin/comments/1j6i52h/im_new_to_kotlin_im_a_student_im_making_an_app/)
-- [Lumo UI demos are now interactive on the website!](https://www.reddit.com/r/Kotlin/comments/1j6gopu/lumo_ui_demos_are_now_interactive_on_the_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
