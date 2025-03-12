@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I open sourced two Compose Multiplatform apps built using Paper](https://www.reddit.com/r/Kotlin/comments/1j98f7s/i_open_sourced_two_compose_multiplatform_apps/)
+- [Shotgun surgery &lpar;Code smell&rpar;](https://www.reddit.com/r/Kotlin/comments/1j97jdl/shotgun_surgery_code_smell/)
+- [Fastlane in Kotlin Multiplatform projects](https://www.reddit.com/r/Kotlin/comments/1j93kru/fastlane_in_kotlin_multiplatform_projects/)
+- [Help me , it is my first project](https://www.reddit.com/r/Kotlin/comments/1j8scep/help_me_it_is_my_first_project/)
+- [How to Crop Video in Jetpack Compose | Android Studio Part - 1](https://www.reddit.com/r/Kotlin/comments/1j8jc58/how_to_crop_video_in_jetpack_compose_android/)
 - [Raft implementation in Kotlin](https://www.reddit.com/r/Kotlin/comments/1j8f54n/raft_implementation_in_kotlin/)
 - [Mercado Kotlin](https://www.reddit.com/r/Kotlin/comments/1j83v7n/mercado_kotlin/)
 - [Looking for a collaborator to build a mental health app in Kotlin](https://www.reddit.com/r/Kotlin/comments/1j7xz0q/looking_for_a_collaborator_to_build_a_mental/)
 - [250 dollar reward for whoever tells me how to make silent full screen notifications in android](https://www.reddit.com/r/Kotlin/comments/1j7rh7z/250_dollar_reward_for_whoever_tells_me_how_to/)
 - [How to change display size programmatically?](https://www.reddit.com/r/Kotlin/comments/1j7o61w/how_to_change_display_size_programmatically/)
-- [Tidy first?](https://www.reddit.com/r/Kotlin/comments/1j7njld/tidy_first/)
-- [Ktor routing functions differently in two &lpar;ostensibly&rpar; identical configurations.](https://www.reddit.com/r/Kotlin/comments/1j7jrss/ktor_routing_functions_differently_in_two/)
-- [Is it always like this?](https://www.reddit.com/r/Kotlin/comments/1j7g5tg/is_it_always_like_this/)
-- [🚀 Kotools Samples 0.3.0 is available!](https://www.reddit.com/r/Kotlin/comments/1j7fs57/kotools_samples_030_is_available/)
-- [Where to start](https://www.reddit.com/r/Kotlin/comments/1j7a6tu/where_to_start/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
