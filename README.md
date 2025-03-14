@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose Multiplatform - My tool for trading strategy analysis](https://www.reddit.com/r/Kotlin/comments/1jaojs6/compose_multiplatform_my_tool_for_trading/)
+- [Introducing CEIE 1.0 &amp; 2.0 – Transform Your Git Workflows!](https://www.reddit.com/r/Kotlin/comments/1janpyx/introducing_ceie_10_20_transform_your_git/)
+- [Doodle Weather Clone](https://www.reddit.com/r/Kotlin/comments/1jado9y/doodle_weather_clone/)
+- [I&#39;m releasing my Compose Multiplatform app](https://www.reddit.com/r/Kotlin/comments/1jac4z8/im_releasing_my_compose_multiplatform_app/)
+- [Check my first app](https://www.reddit.com/r/Kotlin/comments/1ja67ie/check_my_first_app/)
 - [GitHub - Dogacel/kotlinx-protobuf-gen: Generate kotlinx serializable data classes from protobuf](https://www.reddit.com/r/Kotlin/comments/1j9xxh1/github_dogacelkotlinxprotobufgen_generate_kotlinx/)
 - [YouTube redesign implementation using Kotlin and Kobweb 💫](https://www.reddit.com/r/Kotlin/comments/1j9rzd7/youtube_redesign_implementation_using_kotlin_and/)
 - [Can Junie write Kotlin code from UML better than traditional UML codegen?](https://www.reddit.com/r/Kotlin/comments/1j9m05d/can_junie_write_kotlin_code_from_uml_better_than/)
 - [Is anyone there ever build an dialer app as default app.](https://www.reddit.com/r/Kotlin/comments/1j9gfc7/is_anyone_there_ever_build_an_dialer_app_as/)
 - [Media3 previous content position](https://www.reddit.com/r/Kotlin/comments/1j9bgvl/media3_previous_content_position/)
-- [How to hide a Header when scrolling down](https://www.reddit.com/r/Kotlin/comments/1j9bd97/how_to_hide_a_header_when_scrolling_down/)
-- [I open sourced two Compose Multiplatform apps built using Paper](https://www.reddit.com/r/Kotlin/comments/1j98f7s/i_open_sourced_two_compose_multiplatform_apps/)
-- [Fastlane in Kotlin Multiplatform projects](https://www.reddit.com/r/Kotlin/comments/1j93kru/fastlane_in_kotlin_multiplatform_projects/)
-- [Help me , it is my first project](https://www.reddit.com/r/Kotlin/comments/1j8scep/help_me_it_is_my_first_project/)
-- [How to Crop Video in Jetpack Compose | Android Studio Part - 1](https://www.reddit.com/r/Kotlin/comments/1j8jc58/how_to_crop_video_in_jetpack_compose_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
