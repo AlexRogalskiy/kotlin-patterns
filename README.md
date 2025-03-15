@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you keep a timer when you have &quot;Don&#39;t Keep Activities&quot; enabled on android studio?](https://www.reddit.com/r/Kotlin/comments/1jbaf1a/how_do_you_keep_a_timer_when_you_have_dont_keep/)
+- [Launch Announcement: http4k MCP Desktop Client](https://www.reddit.com/r/Kotlin/comments/1jb9yiu/launch_announcement_http4k_mcp_desktop_client/)
+- [Started programming. How am i doing?](https://www.reddit.com/r/Kotlin/comments/1jb63n8/started_programming_how_am_i_doing/)
+- [Typesafe Libraries &amp; Gradle Convention Plugins](https://www.reddit.com/r/Kotlin/comments/1jb5gi1/typesafe_libraries_gradle_convention_plugins/)
+- [Intercepting URL in WebView Kills WebSocket Clients – Any Workarounds?](https://www.reddit.com/r/Kotlin/comments/1jb2c0k/intercepting_url_in_webview_kills_websocket/)
+- [having trouble with camera in ios in kotlin multiplatform project](https://www.reddit.com/r/Kotlin/comments/1jb12dz/having_trouble_with_camera_in_ios_in_kotlin/)
 - [Compose Multiplatform - My tool for trading strategy analysis](https://www.reddit.com/r/Kotlin/comments/1jaojs6/compose_multiplatform_my_tool_for_trading/)
 - [Introducing CEIE 1.0 &amp; 2.0 – Transform Your Git Workflows!](https://www.reddit.com/r/Kotlin/comments/1janpyx/introducing_ceie_10_20_transform_your_git/)
 - [Doodle Weather Clone](https://www.reddit.com/r/Kotlin/comments/1jado9y/doodle_weather_clone/)
 - [I&#39;m releasing my Compose Multiplatform app](https://www.reddit.com/r/Kotlin/comments/1jac4z8/im_releasing_my_compose_multiplatform_app/)
-- [Check my first app](https://www.reddit.com/r/Kotlin/comments/1ja67ie/check_my_first_app/)
-- [GitHub - Dogacel/kotlinx-protobuf-gen: Generate kotlinx serializable data classes from protobuf](https://www.reddit.com/r/Kotlin/comments/1j9xxh1/github_dogacelkotlinxprotobufgen_generate_kotlinx/)
-- [YouTube redesign implementation using Kotlin and Kobweb 💫](https://www.reddit.com/r/Kotlin/comments/1j9rzd7/youtube_redesign_implementation_using_kotlin_and/)
-- [Can Junie write Kotlin code from UML better than traditional UML codegen?](https://www.reddit.com/r/Kotlin/comments/1j9m05d/can_junie_write_kotlin_code_from_uml_better_than/)
-- [Is anyone there ever build an dialer app as default app.](https://www.reddit.com/r/Kotlin/comments/1j9gfc7/is_anyone_there_ever_build_an_dialer_app_as/)
-- [Media3 previous content position](https://www.reddit.com/r/Kotlin/comments/1j9bgvl/media3_previous_content_position/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
