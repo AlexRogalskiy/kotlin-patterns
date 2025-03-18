@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Productivity assessment of neural code completion | Proceedings of the 6th ACM SIGPLAN International Symposium on Machine Programming](https://www.reddit.com/r/Kotlin/comments/1jdsuz6/productivity_assessment_of_neural_code_completion/)
+- [Ktor client generator from OpenAPI3 specifications](https://www.reddit.com/r/Kotlin/comments/1jdsr1w/ktor_client_generator_from_openapi3_specifications/)
+- [&quot;No, I did not misspell Kit. Don&#39;t worry about it too much :&rpar;&quot; - me, as I try to sneak in Kotlin to an iOS codebase](https://www.reddit.com/r/Kotlin/comments/1jdpyzp/no_i_did_not_misspell_kit_dont_worry_about_it_too/)
+- [Can kotlin replace javascript for chrome extension development?](https://www.reddit.com/r/Kotlin/comments/1jdhlwd/can_kotlin_replace_javascript_for_chrome/)
+- [Nick Chapsas equivalent in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jdft1m/nick_chapsas_equivalent_in_kotlin/)
+- [ViewModel is not destroyed when i navigate back from a screen in kotin multi platform?](https://www.reddit.com/r/Kotlin/comments/1jdbnju/viewmodel_is_not_destroyed_when_i_navigate_back/)
+- [Kotlin Multiplatfom + React Web?](https://www.reddit.com/r/Kotlin/comments/1jd9k6g/kotlin_multiplatfom_react_web/)
+- [Android studio plugin - firebender have a lot of bugs, why people still recommaned it??](https://www.reddit.com/r/Kotlin/comments/1jd7b8r/android_studio_plugin_firebender_have_a_lot_of/)
+- [Best practice for performant APIs using Kotlin and Spring](https://www.reddit.com/r/Kotlin/comments/1jd6oie/best_practice_for_performant_apis_using_kotlin/)
 - [Advice for a newbie?](https://www.reddit.com/r/Kotlin/comments/1jctmer/advice_for_a_newbie/)
-- [Help me fix this bottombar](https://www.reddit.com/r/Kotlin/comments/1jcqru7/help_me_fix_this_bottombar/)
-- [Which OS is best for lerning and working in Kotlin &lpar;android studio&rpar; ?](https://www.reddit.com/r/Kotlin/comments/1jck1x6/which_os_is_best_for_lerning_and_working_in/)
-- [Experience switching from Kotlin &lpar;or Java&rpar; to Go](https://www.reddit.com/r/Kotlin/comments/1jc0cki/experience_switching_from_kotlin_or_java_to_go/)
-- [Simple CLI program written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jbx4rb/simple_cli_program_written_in_kotlin/)
-- [Jetpack Compose Responsive UI | All Screen Sizes | Android Tutorial](https://www.reddit.com/r/Kotlin/comments/1jbw48m/jetpack_compose_responsive_ui_all_screen_sizes/)
-- [Kotlin Roadmap Update](https://www.reddit.com/r/Kotlin/comments/1jbsque/kotlin_roadmap_update/)
-- [How do you keep a timer when you have &quot;Don&#39;t Keep Activities&quot; enabled on android studio?](https://www.reddit.com/r/Kotlin/comments/1jbaf1a/how_do_you_keep_a_timer_when_you_have_dont_keep/)
-- [Launch Announcement: http4k MCP Desktop Client](https://www.reddit.com/r/Kotlin/comments/1jb9yiu/launch_announcement_http4k_mcp_desktop_client/)
-- [Started programming. How am i doing?](https://www.reddit.com/r/Kotlin/comments/1jb63n8/started_programming_how_am_i_doing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
