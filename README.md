@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KTConf.be, a belgian Kotlin Developer conf September 19 &#39;25 in Maasmechelen](https://www.reddit.com/r/Kotlin/comments/1jef5pe/ktconfbe_a_belgian_kotlin_developer_conf/)
+- [Hello kotlin community!](https://www.reddit.com/r/Kotlin/comments/1jeawt8/hello_kotlin_community/)
+- [Beginner in Kotlin – Need Help Getting Started with a Museum API App](https://www.reddit.com/r/Kotlin/comments/1je8pgf/beginner_in_kotlin_need_help_getting_started_with/)
+- [📢 Immutable Arrays v0.7.0 brings substantial performance improvements](https://www.reddit.com/r/Kotlin/comments/1je81ye/immutable_arrays_v070_brings_substantial/)
+- [I need help with my app development.](https://www.reddit.com/r/Kotlin/comments/1je6awe/i_need_help_with_my_app_development/)
+- [Is there a way to build kotlin-stdlib as a library?](https://www.reddit.com/r/Kotlin/comments/1je6a09/is_there_a_way_to_build_kotlinstdlib_as_a_library/)
+- [Phone link or KDE Connect alternative](https://www.reddit.com/r/Kotlin/comments/1je3oc6/phone_link_or_kde_connect_alternative/)
+- [I am unable to solve it in even more then 6 hours. Help me.](https://www.reddit.com/r/Kotlin/comments/1je0s89/i_am_unable_to_solve_it_in_even_more_then_6_hours/)
 - [Productivity assessment of neural code completion | Proceedings of the 6th ACM SIGPLAN International Symposium on Machine Programming](https://www.reddit.com/r/Kotlin/comments/1jdsuz6/productivity_assessment_of_neural_code_completion/)
 - [Ktor client generator from OpenAPI3 specifications](https://www.reddit.com/r/Kotlin/comments/1jdsr1w/ktor_client_generator_from_openapi3_specifications/)
-- [&quot;No, I did not misspell Kit. Don&#39;t worry about it too much :&rpar;&quot; - me, as I try to sneak in Kotlin to an iOS codebase](https://www.reddit.com/r/Kotlin/comments/1jdpyzp/no_i_did_not_misspell_kit_dont_worry_about_it_too/)
-- [Can kotlin replace javascript for chrome extension development?](https://www.reddit.com/r/Kotlin/comments/1jdhlwd/can_kotlin_replace_javascript_for_chrome/)
-- [Nick Chapsas equivalent in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jdft1m/nick_chapsas_equivalent_in_kotlin/)
-- [ViewModel is not destroyed when i navigate back from a screen in kotin multi platform?](https://www.reddit.com/r/Kotlin/comments/1jdbnju/viewmodel_is_not_destroyed_when_i_navigate_back/)
-- [Kotlin Multiplatfom + React Web?](https://www.reddit.com/r/Kotlin/comments/1jd9k6g/kotlin_multiplatfom_react_web/)
-- [Android studio plugin - firebender have a lot of bugs, why people still recommaned it??](https://www.reddit.com/r/Kotlin/comments/1jd7b8r/android_studio_plugin_firebender_have_a_lot_of/)
-- [Best practice for performant APIs using Kotlin and Spring](https://www.reddit.com/r/Kotlin/comments/1jd6oie/best_practice_for_performant_apis_using_kotlin/)
-- [Advice for a newbie?](https://www.reddit.com/r/Kotlin/comments/1jctmer/advice_for_a_newbie/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
