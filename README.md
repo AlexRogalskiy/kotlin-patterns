@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Dockerfile Kotlin DSL: Streamline docker image building process for Gradle based projects](https://www.reddit.com/r/Kotlin/comments/1jf1ks5/dockerfile_kotlin_dsl_streamline_docker_image/)
+- [kotlin app developer](https://www.reddit.com/r/Kotlin/comments/1jf1dt7/kotlin_app_developer/)
+- [Building MCP with Kotlin: Claude Desktop Controls My Smart Home Lights!](https://www.reddit.com/r/Kotlin/comments/1jexwzy/building_mcp_with_kotlin_claude_desktop_controls/)
+- [📣 Calling all JavaScript devs who have switched to Kotlin for backend development!](https://www.reddit.com/r/Kotlin/comments/1jevqg7/calling_all_javascript_devs_who_have_switched_to/)
+- [Jetpack Compose Responsive UI | All Screen Sizes | Android Tutorial](https://www.reddit.com/r/Kotlin/comments/1jetgwa/jetpack_compose_responsive_ui_all_screen_sizes/)
+- [IkSerialization: serializer for circular references and more](https://www.reddit.com/r/Kotlin/comments/1jer93k/ikserialization_serializer_for_circular/)
 - [KTConf.be, a belgian Kotlin Developer conf September 19 &#39;25 in Maasmechelen](https://www.reddit.com/r/Kotlin/comments/1jef5pe/ktconfbe_a_belgian_kotlin_developer_conf/)
 - [Hello kotlin community!](https://www.reddit.com/r/Kotlin/comments/1jeawt8/hello_kotlin_community/)
 - [Beginner in Kotlin – Need Help Getting Started with a Museum API App](https://www.reddit.com/r/Kotlin/comments/1je8pgf/beginner_in_kotlin_need_help_getting_started_with/)
 - [📢 Immutable Arrays v0.7.0 brings substantial performance improvements](https://www.reddit.com/r/Kotlin/comments/1je81ye/immutable_arrays_v070_brings_substantial/)
-- [I need help with my app development.](https://www.reddit.com/r/Kotlin/comments/1je6awe/i_need_help_with_my_app_development/)
-- [Is there a way to build kotlin-stdlib as a library?](https://www.reddit.com/r/Kotlin/comments/1je6a09/is_there_a_way_to_build_kotlinstdlib_as_a_library/)
-- [Phone link or KDE Connect alternative](https://www.reddit.com/r/Kotlin/comments/1je3oc6/phone_link_or_kde_connect_alternative/)
-- [I am unable to solve it in even more then 6 hours. Help me.](https://www.reddit.com/r/Kotlin/comments/1je0s89/i_am_unable_to_solve_it_in_even_more_then_6_hours/)
-- [Productivity assessment of neural code completion | Proceedings of the 6th ACM SIGPLAN International Symposium on Machine Programming](https://www.reddit.com/r/Kotlin/comments/1jdsuz6/productivity_assessment_of_neural_code_completion/)
-- [Ktor client generator from OpenAPI3 specifications](https://www.reddit.com/r/Kotlin/comments/1jdsr1w/ktor_client_generator_from_openapi3_specifications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
