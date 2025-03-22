@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CMP Text+Image LLMs &lpar;Mock Data&rpar;. WebAssembly Version. Next is REST API Integration️. Feedback Welcome!](https://www.reddit.com/r/Kotlin/comments/1jgn1mg/cmp_textimage_llms_mock_data_webassembly_version/)
+- [Bug-fix Battle - AI Assistant vs Junie](https://www.reddit.com/r/Kotlin/comments/1jgi3zd/bugfix_battle_ai_assistant_vs_junie/)
+- [Being Quick: Resolve what&#39;s dirty](https://www.reddit.com/r/Kotlin/comments/1jgf7uh/being_quick_resolve_whats_dirty/)
+- [It started with a simple question at a Kotlin meetup last year: &quot;Wouldn&#39;t it be great to actually see how our Koin dependencies connect?&quot;](https://www.reddit.com/r/Kotlin/comments/1jgcgvy/it_started_with_a_simple_question_at_a_kotlin/)
 - [What&#39;s new in Compose Multiplatform 1.8.0-beta01](https://www.reddit.com/r/Kotlin/comments/1jg5t1n/whats_new_in_compose_multiplatform_180beta01/)
 - [CameraX not getting full range of linearzoom](https://www.reddit.com/r/Kotlin/comments/1jfw05b/camerax_not_getting_full_range_of_linearzoom/)
 - [onTouchListener&lpar;&rpar; not triggering](https://www.reddit.com/r/Kotlin/comments/1jfvzba/ontouchlistener_not_triggering/)
 - [Need Team for open-source backend development in Spring boot / Kotlin](https://www.reddit.com/r/Kotlin/comments/1jfqz4d/need_team_for_opensource_backend_development_in/)
 - [Java 24 and GraalVM for JDK 24 Released](https://www.reddit.com/r/Kotlin/comments/1jfps9q/java_24_and_graalvm_for_jdk_24_released/)
 - [Kotlin 2.1.20 Released](https://www.reddit.com/r/Kotlin/comments/1jfomha/kotlin_2120_released/)
-- [Dockerfile Kotlin DSL: Streamline docker image building process for Gradle based projects](https://www.reddit.com/r/Kotlin/comments/1jf1ks5/dockerfile_kotlin_dsl_streamline_docker_image/)
-- [kotlin app developer](https://www.reddit.com/r/Kotlin/comments/1jf1dt7/kotlin_app_developer/)
-- [Building MCP with Kotlin: Claude Desktop Controls My Smart Home Lights!](https://www.reddit.com/r/Kotlin/comments/1jexwzy/building_mcp_with_kotlin_claude_desktop_controls/)
-- [📣 Calling all JavaScript devs who have switched to Kotlin for backend development!](https://www.reddit.com/r/Kotlin/comments/1jevqg7/calling_all_javascript_devs_who_have_switched_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
