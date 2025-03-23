@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a way to make CountDownTimer accurate in kotlin?](https://www.reddit.com/r/Kotlin/comments/1jhp1sw/is_there_a_way_to_make_countdowntimer_accurate_in/)
+- [2-3 Kotlin projects for beginners without LLM help](https://www.reddit.com/r/Kotlin/comments/1jh3xr4/23_kotlin_projects_for_beginners_without_llm_help/)
 - [CMP Text+Image LLMs &lpar;Mock Data&rpar;. WebAssembly Version. Next is REST API Integration️. Feedback Welcome!](https://www.reddit.com/r/Kotlin/comments/1jgn1mg/cmp_textimage_llms_mock_data_webassembly_version/)
 - [Bug-fix Battle - AI Assistant vs Junie](https://www.reddit.com/r/Kotlin/comments/1jgi3zd/bugfix_battle_ai_assistant_vs_junie/)
 - [Being Quick: Resolve what&#39;s dirty](https://www.reddit.com/r/Kotlin/comments/1jgf7uh/being_quick_resolve_whats_dirty/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [CameraX not getting full range of linearzoom](https://www.reddit.com/r/Kotlin/comments/1jfw05b/camerax_not_getting_full_range_of_linearzoom/)
 - [onTouchListener&lpar;&rpar; not triggering](https://www.reddit.com/r/Kotlin/comments/1jfvzba/ontouchlistener_not_triggering/)
 - [Need Team for open-source backend development in Spring boot / Kotlin](https://www.reddit.com/r/Kotlin/comments/1jfqz4d/need_team_for_opensource_backend_development_in/)
-- [Java 24 and GraalVM for JDK 24 Released](https://www.reddit.com/r/Kotlin/comments/1jfps9q/java_24_and_graalvm_for_jdk_24_released/)
-- [Kotlin 2.1.20 Released](https://www.reddit.com/r/Kotlin/comments/1jfomha/kotlin_2120_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
