@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to pass down vararg parameters into another method that also uses vararg parameters without using the SpreadOperator?](https://www.reddit.com/r/Kotlin/comments/1ji0smg/how_to_pass_down_vararg_parameters_into_another/)
+- [Help me and why the app can&#39;t as I want and the drawer navigation lags](https://www.reddit.com/r/Kotlin/comments/1jhtib5/help_me_and_why_the_app_cant_as_i_want_and_the/)
+- [JVM desktop development via an Electron-like framework](https://www.reddit.com/r/Kotlin/comments/1jhq9sr/jvm_desktop_development_via_an_electronlike/)
 - [Is there a way to make CountDownTimer accurate in kotlin?](https://www.reddit.com/r/Kotlin/comments/1jhp1sw/is_there_a_way_to_make_countdowntimer_accurate_in/)
 - [2-3 Kotlin projects for beginners without LLM help](https://www.reddit.com/r/Kotlin/comments/1jh3xr4/23_kotlin_projects_for_beginners_without_llm_help/)
 - [CMP Text+Image LLMs &lpar;Mock Data&rpar;. WebAssembly Version. Next is REST API Integration️. Feedback Welcome!](https://www.reddit.com/r/Kotlin/comments/1jgn1mg/cmp_textimage_llms_mock_data_webassembly_version/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Being Quick: Resolve what&#39;s dirty](https://www.reddit.com/r/Kotlin/comments/1jgf7uh/being_quick_resolve_whats_dirty/)
 - [It started with a simple question at a Kotlin meetup last year: &quot;Wouldn&#39;t it be great to actually see how our Koin dependencies connect?&quot;](https://www.reddit.com/r/Kotlin/comments/1jgcgvy/it_started_with_a_simple_question_at_a_kotlin/)
 - [What&#39;s new in Compose Multiplatform 1.8.0-beta01](https://www.reddit.com/r/Kotlin/comments/1jg5t1n/whats_new_in_compose_multiplatform_180beta01/)
-- [CameraX not getting full range of linearzoom](https://www.reddit.com/r/Kotlin/comments/1jfw05b/camerax_not_getting_full_range_of_linearzoom/)
-- [onTouchListener&lpar;&rpar; not triggering](https://www.reddit.com/r/Kotlin/comments/1jfvzba/ontouchlistener_not_triggering/)
-- [Need Team for open-source backend development in Spring boot / Kotlin](https://www.reddit.com/r/Kotlin/comments/1jfqz4d/need_team_for_opensource_backend_development_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
