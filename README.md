@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [PDF handling in android](https://www.reddit.com/r/Kotlin/comments/1jjxy5k/pdf_handling_in_android/)
+- [Why is Break not working as in other languages in kotlin](https://www.reddit.com/r/Kotlin/comments/1jjobgc/why_is_break_not_working_as_in_other_languages_in/)
+- [In KMP, what is the purpose of the :shared module when :composeApp/commonMain seem to accomplish the same function?](https://www.reddit.com/r/Kotlin/comments/1jjhqtz/in_kmp_what_is_the_purpose_of_the_shared_module/)
+- [Should I learn Java before Kotlin?](https://www.reddit.com/r/Kotlin/comments/1jjfm5h/should_i_learn_java_before_kotlin/)
 - [Lynx vs. Kotlin Multiplatform: A Comprehensive Performance Benchmark Analysis](https://www.reddit.com/r/Kotlin/comments/1jj7fa2/lynx_vs_kotlin_multiplatform_a_comprehensive/)
 - [hi! i&#39;m learning kotlin and i&#39;ve some questions](https://www.reddit.com/r/Kotlin/comments/1jiom5h/hi_im_learning_kotlin_and_ive_some_questions/)
 - [Create a custom &quot;brief now&quot;](https://www.reddit.com/r/Kotlin/comments/1jimueo/create_a_custom_brief_now/)
 - [Kotlin setter performance benchmark — is my approach valid and what are the best practices?](https://www.reddit.com/r/Kotlin/comments/1jil2c4/kotlin_setter_performance_benchmark_is_my/)
 - [How to pass down vararg parameters into another method that also uses vararg parameters without using the SpreadOperator?](https://www.reddit.com/r/Kotlin/comments/1ji0smg/how_to_pass_down_vararg_parameters_into_another/)
 - [Help me and why the app can&#39;t as I want and the drawer navigation lags](https://www.reddit.com/r/Kotlin/comments/1jhtib5/help_me_and_why_the_app_cant_as_i_want_and_the/)
-- [JVM desktop development via an Electron-like framework](https://www.reddit.com/r/Kotlin/comments/1jhq9sr/jvm_desktop_development_via_an_electronlike/)
-- [Is there a way to make CountDownTimer accurate in kotlin?](https://www.reddit.com/r/Kotlin/comments/1jhp1sw/is_there_a_way_to_make_countdowntimer_accurate_in/)
-- [2-3 Kotlin projects for beginners without LLM help](https://www.reddit.com/r/Kotlin/comments/1jh3xr4/23_kotlin_projects_for_beginners_without_llm_help/)
-- [CMP Text+Image LLMs &lpar;Mock Data&rpar;. WebAssembly Version. Next is REST API Integration️. Feedback Welcome!](https://www.reddit.com/r/Kotlin/comments/1jgn1mg/cmp_textimage_llms_mock_data_webassembly_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
