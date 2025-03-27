@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Debug a Kotlin Microservice in Kubernetes](https://www.reddit.com/r/Kotlin/comments/1jksiit/how_to_debug_a_kotlin_microservice_in_kubernetes/)
+- [Applying the Observer Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jkduld/applying_the_observer_pattern_in_kotlin/)
+- [Elide, a new JavaScript + Python runtime written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jk7hun/elide_a_new_javascript_python_runtime_written_in/)
+- [Dribbble inspired Doodle](https://www.reddit.com/r/Kotlin/comments/1jk64b4/dribbble_inspired_doodle/)
+- [Rant: Kotlin is a nightmare for people learning programming](https://www.reddit.com/r/Kotlin/comments/1jk4vp0/rant_kotlin_is_a_nightmare_for_people_learning/)
 - [PDF handling in android](https://www.reddit.com/r/Kotlin/comments/1jjxy5k/pdf_handling_in_android/)
 - [Why is Break not working as in other languages in kotlin](https://www.reddit.com/r/Kotlin/comments/1jjobgc/why_is_break_not_working_as_in_other_languages_in/)
 - [In KMP, what is the purpose of the :shared module when :composeApp/commonMain seem to accomplish the same function?](https://www.reddit.com/r/Kotlin/comments/1jjhqtz/in_kmp_what_is_the_purpose_of_the_shared_module/)
 - [Should I learn Java before Kotlin?](https://www.reddit.com/r/Kotlin/comments/1jjfm5h/should_i_learn_java_before_kotlin/)
 - [Lynx vs. Kotlin Multiplatform: A Comprehensive Performance Benchmark Analysis](https://www.reddit.com/r/Kotlin/comments/1jj7fa2/lynx_vs_kotlin_multiplatform_a_comprehensive/)
-- [hi! i&#39;m learning kotlin and i&#39;ve some questions](https://www.reddit.com/r/Kotlin/comments/1jiom5h/hi_im_learning_kotlin_and_ive_some_questions/)
-- [Create a custom &quot;brief now&quot;](https://www.reddit.com/r/Kotlin/comments/1jimueo/create_a_custom_brief_now/)
-- [Kotlin setter performance benchmark — is my approach valid and what are the best practices?](https://www.reddit.com/r/Kotlin/comments/1jil2c4/kotlin_setter_performance_benchmark_is_my/)
-- [How to pass down vararg parameters into another method that also uses vararg parameters without using the SpreadOperator?](https://www.reddit.com/r/Kotlin/comments/1ji0smg/how_to_pass_down_vararg_parameters_into_another/)
-- [Help me and why the app can&#39;t as I want and the drawer navigation lags](https://www.reddit.com/r/Kotlin/comments/1jhtib5/help_me_and_why_the_app_cant_as_i_want_and_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
