@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need advice](https://www.reddit.com/r/Kotlin/comments/1jlfyx8/need_advice/)
+- [OCR labels scanner](https://www.reddit.com/r/Kotlin/comments/1jl8kj0/ocr_labels_scanner/)
+- [Talking Kotlin #136 – Creator of Spring: No desire to write Java](https://www.reddit.com/r/Kotlin/comments/1jl7o0l/talking_kotlin_136_creator_of_spring_no_desire_to/)
+- [Admob dependency conflict with Onesignal](https://www.reddit.com/r/Kotlin/comments/1jl468g/admob_dependency_conflict_with_onesignal/)
+- [Getting started with MockK](https://www.reddit.com/r/Kotlin/comments/1jkx10o/getting_started_with_mockk/)
+- [What is the most popular REST API framework for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1jktzqz/what_is_the_most_popular_rest_api_framework_for/)
 - [How to Debug a Kotlin Microservice in Kubernetes](https://www.reddit.com/r/Kotlin/comments/1jksiit/how_to_debug_a_kotlin_microservice_in_kubernetes/)
 - [Applying the Observer Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jkduld/applying_the_observer_pattern_in_kotlin/)
 - [Elide, a new JavaScript + Python runtime written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jk7hun/elide_a_new_javascript_python_runtime_written_in/)
 - [Dribbble inspired Doodle](https://www.reddit.com/r/Kotlin/comments/1jk64b4/dribbble_inspired_doodle/)
-- [Rant: Kotlin is a nightmare for people learning programming](https://www.reddit.com/r/Kotlin/comments/1jk4vp0/rant_kotlin_is_a_nightmare_for_people_learning/)
-- [PDF handling in android](https://www.reddit.com/r/Kotlin/comments/1jjxy5k/pdf_handling_in_android/)
-- [Why is Break not working as in other languages in kotlin](https://www.reddit.com/r/Kotlin/comments/1jjobgc/why_is_break_not_working_as_in_other_languages_in/)
-- [In KMP, what is the purpose of the :shared module when :composeApp/commonMain seem to accomplish the same function?](https://www.reddit.com/r/Kotlin/comments/1jjhqtz/in_kmp_what_is_the_purpose_of_the_shared_module/)
-- [Should I learn Java before Kotlin?](https://www.reddit.com/r/Kotlin/comments/1jjfm5h/should_i_learn_java_before_kotlin/)
-- [Lynx vs. Kotlin Multiplatform: A Comprehensive Performance Benchmark Analysis](https://www.reddit.com/r/Kotlin/comments/1jj7fa2/lynx_vs_kotlin_multiplatform_a_comprehensive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
