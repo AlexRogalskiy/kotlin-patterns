@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A filer that works in android 34 why don&#39;t in 26,](https://www.reddit.com/r/Kotlin/comments/1jlzxad/a_filer_that_works_in_android_34_why_dont_in_26/)
+- [The http4k MCP SDK has landed!](https://www.reddit.com/r/Kotlin/comments/1jlzvwf/the_http4k_mcp_sdk_has_landed/)
+- [Hovering charts in compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1jlrsbi/hovering_charts_in_compose_multiplatform/)
+- [I’d never really thought about the distinction between packages and modules, so I learned something making this](https://www.reddit.com/r/Kotlin/comments/1jlrc7y/id_never_really_thought_about_the_distinction/)
+- [Kotlin in GitHub](https://www.reddit.com/r/Kotlin/comments/1jlpvv3/kotlin_in_github/)
+- [How to implement gemini api in kotlin?](https://www.reddit.com/r/Kotlin/comments/1jlm6ru/how_to_implement_gemini_api_in_kotlin/)
 - [Need advice](https://www.reddit.com/r/Kotlin/comments/1jlfyx8/need_advice/)
 - [OCR labels scanner](https://www.reddit.com/r/Kotlin/comments/1jl8kj0/ocr_labels_scanner/)
 - [Talking Kotlin #136 – Creator of Spring: No desire to write Java](https://www.reddit.com/r/Kotlin/comments/1jl7o0l/talking_kotlin_136_creator_of_spring_no_desire_to/)
 - [Admob dependency conflict with Onesignal](https://www.reddit.com/r/Kotlin/comments/1jl468g/admob_dependency_conflict_with_onesignal/)
-- [Getting started with MockK](https://www.reddit.com/r/Kotlin/comments/1jkx10o/getting_started_with_mockk/)
-- [What is the most popular REST API framework for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1jktzqz/what_is_the_most_popular_rest_api_framework_for/)
-- [How to Debug a Kotlin Microservice in Kubernetes](https://www.reddit.com/r/Kotlin/comments/1jksiit/how_to_debug_a_kotlin_microservice_in_kubernetes/)
-- [Applying the Observer Pattern in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jkduld/applying_the_observer_pattern_in_kotlin/)
-- [Elide, a new JavaScript + Python runtime written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jk7hun/elide_a_new_javascript_python_runtime_written_in/)
-- [Dribbble inspired Doodle](https://www.reddit.com/r/Kotlin/comments/1jk64b4/dribbble_inspired_doodle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
