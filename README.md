@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Zodable: Generate Zod and Pydantic Schemas from Kotlin Classes for Seamless Backend-Frontend Integration](https://www.reddit.com/r/Kotlin/comments/1jnktjo/zodable_generate_zod_and_pydantic_schemas_from/)
+- [How to use KSP to get all types for an enum class?](https://www.reddit.com/r/Kotlin/comments/1jnk0xz/how_to_use_ksp_to_get_all_types_for_an_enum_class/)
+- [Kotlin Language Server support with Bazel](https://www.reddit.com/r/Kotlin/comments/1jnk03r/kotlin_language_server_support_with_bazel/)
+- [Is it possible to have virtual try-on clothing on an app?](https://www.reddit.com/r/Kotlin/comments/1jne59l/is_it_possible_to_have_virtual_tryon_clothing_on/)
+- [My Personal Portfolio Built with Kobweb](https://www.reddit.com/r/Kotlin/comments/1jnbyrf/my_personal_portfolio_built_with_kobweb/)
+- [Jetpack Compose Collapsing Toolbar - Smooth Animation. #kotlin #jetpackc...](https://www.reddit.com/r/Kotlin/comments/1jnbjpk/jetpack_compose_collapsing_toolbar_smooth/)
+- [Just released Retrosheet v3 with support for Android, iOS, JVM, and JS! 🎊](https://www.reddit.com/r/Kotlin/comments/1jn3dpk/just_released_retrosheet_v3_with_support_for/)
 - [Kotlin I/O Survey: Help Improve Input/Output in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jmk3kq/kotlin_io_survey_help_improve_inputoutput_in/)
 - [kotlin](https://www.reddit.com/r/Kotlin/comments/1jmjbra/kotlin/)
 - [To become a kotlin expert....](https://www.reddit.com/r/Kotlin/comments/1jmg48s/to_become_a_kotlin_expert/)
-- [A filer that works in android 34 why don&#39;t in 26,](https://www.reddit.com/r/Kotlin/comments/1jlzxad/a_filer_that_works_in_android_34_why_dont_in_26/)
-- [The http4k MCP SDK has landed!](https://www.reddit.com/r/Kotlin/comments/1jlzvwf/the_http4k_mcp_sdk_has_landed/)
-- [Hovering charts in compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1jlrsbi/hovering_charts_in_compose_multiplatform/)
-- [I’d never really thought about the distinction between packages and modules, so I learned something making this](https://www.reddit.com/r/Kotlin/comments/1jlrc7y/id_never_really_thought_about_the_distinction/)
-- [Kotlin in GitHub](https://www.reddit.com/r/Kotlin/comments/1jlpvv3/kotlin_in_github/)
-- [How to implement gemini api in kotlin?](https://www.reddit.com/r/Kotlin/comments/1jlm6ru/how_to_implement_gemini_api_in_kotlin/)
-- [Need advice](https://www.reddit.com/r/Kotlin/comments/1jlfyx8/need_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
