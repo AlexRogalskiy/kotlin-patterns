@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A burnt-out web dev asking for guidance](https://www.reddit.com/r/Kotlin/comments/1johvv0/a_burntout_web_dev_asking_for_guidance/)
+- [Any opfs or indexdb wrapper that compiles to wasm target ?](https://www.reddit.com/r/Kotlin/comments/1jo7784/any_opfs_or_indexdb_wrapper_that_compiles_to_wasm/)
+- [How i can learn KMP](https://www.reddit.com/r/Kotlin/comments/1jo4suj/how_i_can_learn_kmp/)
+- [How to Create a Single Use Object?](https://www.reddit.com/r/Kotlin/comments/1jnzkis/how_to_create_a_single_use_object/)
+- [Can a Floating Widget Qualify as &quot;Foreground&quot; for Camera Access?](https://www.reddit.com/r/Kotlin/comments/1jnyl2m/can_a_floating_widget_qualify_as_foreground_for/)
+- [Media3 1.6.0 — what’s new?](https://www.reddit.com/r/Kotlin/comments/1jnw9lb/media3_160_whats_new/)
 - [Zodable: Generate Zod and Pydantic Schemas from Kotlin Classes for Seamless Backend-Frontend Integration](https://www.reddit.com/r/Kotlin/comments/1jnktjo/zodable_generate_zod_and_pydantic_schemas_from/)
 - [How to use KSP to get all types for an enum class?](https://www.reddit.com/r/Kotlin/comments/1jnk0xz/how_to_use_ksp_to_get_all_types_for_an_enum_class/)
 - [Kotlin Language Server support with Bazel](https://www.reddit.com/r/Kotlin/comments/1jnk03r/kotlin_language_server_support_with_bazel/)
 - [Is it possible to have virtual try-on clothing on an app?](https://www.reddit.com/r/Kotlin/comments/1jne59l/is_it_possible_to_have_virtual_tryon_clothing_on/)
-- [My Personal Portfolio Built with Kobweb](https://www.reddit.com/r/Kotlin/comments/1jnbyrf/my_personal_portfolio_built_with_kobweb/)
-- [Jetpack Compose Collapsing Toolbar - Smooth Animation. #kotlin #jetpackc...](https://www.reddit.com/r/Kotlin/comments/1jnbjpk/jetpack_compose_collapsing_toolbar_smooth/)
-- [Just released Retrosheet v3 with support for Android, iOS, JVM, and JS! 🎊](https://www.reddit.com/r/Kotlin/comments/1jn3dpk/just_released_retrosheet_v3_with_support_for/)
-- [Kotlin I/O Survey: Help Improve Input/Output in Kotlin](https://www.reddit.com/r/Kotlin/comments/1jmk3kq/kotlin_io_survey_help_improve_inputoutput_in/)
-- [kotlin](https://www.reddit.com/r/Kotlin/comments/1jmjbra/kotlin/)
-- [To become a kotlin expert....](https://www.reddit.com/r/Kotlin/comments/1jmg48s/to_become_a_kotlin_expert/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
