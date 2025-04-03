@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin or Swift?](https://www.reddit.com/r/Kotlin/comments/1jpd0hb/kotlin_or_swift/)
-- [how can I implement mutable state of a data class in a checkbox?](https://www.reddit.com/r/Kotlin/comments/1jparpl/how_can_i_implement_mutable_state_of_a_data_class/)
-- [How to Render Weakrefs Useless?](https://www.reddit.com/r/Kotlin/comments/1jp0pvo/how_to_render_weakrefs_useless/)
-- [Amper Update April 2025 – IDE and CLI Feature Drop!](https://www.reddit.com/r/Kotlin/comments/1jouag7/amper_update_april_2025_ide_and_cli_feature_drop/)
-- [Help for my Android Project](https://www.reddit.com/r/Kotlin/comments/1jotkvw/help_for_my_android_project/)
-- [Kotlin for gamedev?](https://www.reddit.com/r/Kotlin/comments/1jorn5j/kotlin_for_gamedev/)
-- [A burnt-out web dev asking for guidance](https://www.reddit.com/r/Kotlin/comments/1johvv0/a_burntout_web_dev_asking_for_guidance/)
-- [Any opfs or indexdb wrapper that compiles to wasm target ?](https://www.reddit.com/r/Kotlin/comments/1jo7784/any_opfs_or_indexdb_wrapper_that_compiles_to_wasm/)
-- [How i can learn KMP](https://www.reddit.com/r/Kotlin/comments/1jo4suj/how_i_can_learn_kmp/)
-- [How to Create a Single Use Object?](https://www.reddit.com/r/Kotlin/comments/1jnzkis/how_to_create_a_single_use_object/)
+- [Has anyone made their own compiler plugin like kotlin/js?](https://www.reddit.com/r/Kotlin/comments/1jq0jcl/has_anyone_made_their_own_compiler_plugin_like/)
+- [Ditto Java Server SDK built on Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1jpw3c2/ditto_java_server_sdk_built_on_kotlin/)
+- [Kodee’s Kotlin Roundup: New Releases, OpenAI vs. DeepSeek, and Compose Hot Reload](https://www.reddit.com/r/Kotlin/comments/1jpuct3/kodees_kotlin_roundup_new_releases_openai_vs/)
+- [Amper 0.6.0 is out!](https://www.reddit.com/r/Kotlin/comments/1jpr912/amper_060_is_out/)
+- [PSA for KMP Users: Don’t upgrade to Xcode 16.3 yet](https://www.reddit.com/r/Kotlin/comments/1jpqehu/psa_for_kmp_users_dont_upgrade_to_xcode_163_yet/)
+- [Learn Kotlin or Java first?](https://www.reddit.com/r/Kotlin/comments/1jppwjv/learn_kotlin_or_java_first/)
+- [Kubriko: a game engine powered by Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1jpnu4r/kubriko_a_game_engine_powered_by_compose/)
+- [I&#39;m facing this problem, can anyone help i tried deleting the whole .gradle but didnt work and i literally tried every solution on youtube but still.](https://www.reddit.com/r/Kotlin/comments/1jpndpt/im_facing_this_problem_can_anyone_help_i_tried/)
+- [How to Replace `this` In Place?](https://www.reddit.com/r/Kotlin/comments/1jpjk6t/how_to_replace_this_in_place/)
+- [How to define my boundary??](https://www.reddit.com/r/Kotlin/comments/1jpijvf/how_to_define_my_boundary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
