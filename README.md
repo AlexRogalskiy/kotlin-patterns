@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Write Testable Time-Dependent Coroutine Code in Kotlin: Avoid System.currentTimeMillis](https://www.reddit.com/r/Kotlin/comments/1jr09aa/write_testable_timedependent_coroutine_code_in/)
+- [Kotlin-Bench - LLM performance on real Android/Kotlin Github issues](https://www.reddit.com/r/Kotlin/comments/1jr03og/kotlinbench_llm_performance_on_real_androidkotlin/)
+- [GSoC 2025 proposal deadline is April 7](https://www.reddit.com/r/Kotlin/comments/1jqw3zj/gsoc_2025_proposal_deadline_is_april_7/)
+- [Introducing Metro](https://www.reddit.com/r/Kotlin/comments/1jqs4ec/introducing_metro/)
+- [Using Platform-Specific APIs in KMP Apps](https://www.reddit.com/r/Kotlin/comments/1jqrono/using_platformspecific_apis_in_kmp_apps/)
+- [Help frillance](https://www.reddit.com/r/Kotlin/comments/1jqe7hq/help_frillance/)
+- [I built a UI builder using Compose Multiplatform that exports Compose code](https://www.reddit.com/r/Kotlin/comments/1jq7ofu/i_built_a_ui_builder_using_compose_multiplatform/)
 - [Has anyone made their own compiler plugin like kotlin/js?](https://www.reddit.com/r/Kotlin/comments/1jq0jcl/has_anyone_made_their_own_compiler_plugin_like/)
 - [Ditto Java Server SDK built on Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1jpw3c2/ditto_java_server_sdk_built_on_kotlin/)
 - [Kodee’s Kotlin Roundup: New Releases, OpenAI vs. DeepSeek, and Compose Hot Reload](https://www.reddit.com/r/Kotlin/comments/1jpuct3/kodees_kotlin_roundup_new_releases_openai_vs/)
-- [Amper 0.6.0 is out!](https://www.reddit.com/r/Kotlin/comments/1jpr912/amper_060_is_out/)
-- [PSA for KMP Users: Don’t upgrade to Xcode 16.3 yet](https://www.reddit.com/r/Kotlin/comments/1jpqehu/psa_for_kmp_users_dont_upgrade_to_xcode_163_yet/)
-- [Learn Kotlin or Java first?](https://www.reddit.com/r/Kotlin/comments/1jppwjv/learn_kotlin_or_java_first/)
-- [Kubriko: a game engine powered by Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1jpnu4r/kubriko_a_game_engine_powered_by_compose/)
-- [I&#39;m facing this problem, can anyone help i tried deleting the whole .gradle but didnt work and i literally tried every solution on youtube but still.](https://www.reddit.com/r/Kotlin/comments/1jpndpt/im_facing_this_problem_can_anyone_help_i_tried/)
-- [How to Replace `this` In Place?](https://www.reddit.com/r/Kotlin/comments/1jpjk6t/how_to_replace_this_in_place/)
-- [How to define my boundary??](https://www.reddit.com/r/Kotlin/comments/1jpijvf/how_to_define_my_boundary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
