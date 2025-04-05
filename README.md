@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Inject android Context in KoinApplication &lpar;Amper Template&rpar;](https://www.reddit.com/r/Kotlin/comments/1jrlnut/how_to_inject_android_context_in_koinapplication/)
 - [Write Testable Time-Dependent Coroutine Code in Kotlin: Avoid System.currentTimeMillis](https://www.reddit.com/r/Kotlin/comments/1jr09aa/write_testable_timedependent_coroutine_code_in/)
 - [Kotlin-Bench - LLM performance on real Android/Kotlin Github issues](https://www.reddit.com/r/Kotlin/comments/1jr03og/kotlinbench_llm_performance_on_real_androidkotlin/)
 - [GSoC 2025 proposal deadline is April 7](https://www.reddit.com/r/Kotlin/comments/1jqw3zj/gsoc_2025_proposal_deadline_is_april_7/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I built a UI builder using Compose Multiplatform that exports Compose code](https://www.reddit.com/r/Kotlin/comments/1jq7ofu/i_built_a_ui_builder_using_compose_multiplatform/)
 - [Has anyone made their own compiler plugin like kotlin/js?](https://www.reddit.com/r/Kotlin/comments/1jq0jcl/has_anyone_made_their_own_compiler_plugin_like/)
 - [Ditto Java Server SDK built on Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1jpw3c2/ditto_java_server_sdk_built_on_kotlin/)
-- [Kodee’s Kotlin Roundup: New Releases, OpenAI vs. DeepSeek, and Compose Hot Reload](https://www.reddit.com/r/Kotlin/comments/1jpuct3/kodees_kotlin_roundup_new_releases_openai_vs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
