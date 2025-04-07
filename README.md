@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Making my third app is like butter.](https://www.reddit.com/r/Kotlin/comments/1jsy46g/making_my_third_app_is_like_butter/)
+- [Kotlin Compose Graphics Acceleration on Fedora &lpar;Wayland&rpar; + Nvidia RTX?](https://www.reddit.com/r/Kotlin/comments/1jsu0h7/kotlin_compose_graphics_acceleration_on_fedora/)
+- [Join Kotlin Heroes: Episode 12 and Win Kotlin Swag](https://www.reddit.com/r/Kotlin/comments/1jssdhy/join_kotlin_heroes_episode_12_and_win_kotlin_swag/)
+- [Best practice in terms of typing?](https://www.reddit.com/r/Kotlin/comments/1jspkc6/best_practice_in_terms_of_typing/)
+- [What non trivial irl&lpar;production&rpar; use cases have you used Kotlin Delegation &amp; Composition for.](https://www.reddit.com/r/Kotlin/comments/1jslekr/what_non_trivial_irlproduction_use_cases_have_you/)
 - [Looking for feedback on Summon, a Kotlin Multiplatform UI library I&#39;m building](https://www.reddit.com/r/Kotlin/comments/1jsevo8/looking_for_feedback_on_summon_a_kotlin/)
 - [How to Upload Large Files &lpar;Video, Image&rpar; in Background using Jetpack Com...](https://www.reddit.com/r/Kotlin/comments/1jsa9jr/how_to_upload_large_files_video_image_in/)
 - [How to Upload Large Files &lpar;Video, Image&rpar; in Background using Jetpack Com...](https://www.reddit.com/r/Kotlin/comments/1js7irp/how_to_upload_large_files_video_image_in/)
 - [Ports and Adaptors - Refactoring to Hexagonal Architecture](https://www.reddit.com/r/Kotlin/comments/1jrzvn7/ports_and_adaptors_refactoring_to_hexagonal/)
 - [Can org.jetbrains.exposed.sql.* work using a Maven library reference?](https://www.reddit.com/r/Kotlin/comments/1jrwsxz/can_orgjetbrainsexposedsql_work_using_a_maven/)
-- [How to Inject android Context in KoinApplication &lpar;Amper Template&rpar;](https://www.reddit.com/r/Kotlin/comments/1jrlnut/how_to_inject_android_context_in_koinapplication/)
-- [Write Testable Time-Dependent Coroutine Code in Kotlin: Avoid System.currentTimeMillis](https://www.reddit.com/r/Kotlin/comments/1jr09aa/write_testable_timedependent_coroutine_code_in/)
-- [Kotlin-Bench - LLM performance on real Android/Kotlin Github issues](https://www.reddit.com/r/Kotlin/comments/1jr03og/kotlinbench_llm_performance_on_real_androidkotlin/)
-- [GSoC 2025 proposal deadline is April 7](https://www.reddit.com/r/Kotlin/comments/1jqw3zj/gsoc_2025_proposal_deadline_is_april_7/)
-- [Introducing Metro](https://www.reddit.com/r/Kotlin/comments/1jqs4ec/introducing_metro/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
