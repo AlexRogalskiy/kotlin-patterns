@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [midterm project](https://www.reddit.com/r/Kotlin/comments/1jtxtox/midterm_project/)
+- [In my first jetpack compose apps the m3 topbar make the status bar of same color but not now why even after same and not code change](https://www.reddit.com/r/Kotlin/comments/1jtqp4m/in_my_first_jetpack_compose_apps_the_m3_topbar/)
+- [Auto clicker](https://www.reddit.com/r/Kotlin/comments/1jtpjhc/auto_clicker/)
+- [We built a high-performance Point &amp; Figure chart engine using Compose Multiplatform — and it runs on Desktop, Web, and Mobile](https://www.reddit.com/r/Kotlin/comments/1jtlceu/we_built_a_highperformance_point_figure_chart/)
+- [Custom Multiple Date Picker in Android Using Kotlin 🚀 | Beginner to Adva...](https://www.reddit.com/r/Kotlin/comments/1jtgsg8/custom_multiple_date_picker_in_android_using/)
 - [Making my third app is like butter.](https://www.reddit.com/r/Kotlin/comments/1jsy46g/making_my_third_app_is_like_butter/)
 - [Kotlin Compose Graphics Acceleration on Fedora &lpar;Wayland&rpar; + Nvidia RTX?](https://www.reddit.com/r/Kotlin/comments/1jsu0h7/kotlin_compose_graphics_acceleration_on_fedora/)
 - [Join Kotlin Heroes: Episode 12 and Win Kotlin Swag](https://www.reddit.com/r/Kotlin/comments/1jssdhy/join_kotlin_heroes_episode_12_and_win_kotlin_swag/)
 - [Best practice in terms of typing?](https://www.reddit.com/r/Kotlin/comments/1jspkc6/best_practice_in_terms_of_typing/)
 - [What non trivial irl&lpar;production&rpar; use cases have you used Kotlin Delegation &amp; Composition for.](https://www.reddit.com/r/Kotlin/comments/1jslekr/what_non_trivial_irlproduction_use_cases_have_you/)
-- [Looking for feedback on Summon, a Kotlin Multiplatform UI library I&#39;m building](https://www.reddit.com/r/Kotlin/comments/1jsevo8/looking_for_feedback_on_summon_a_kotlin/)
-- [How to Upload Large Files &lpar;Video, Image&rpar; in Background using Jetpack Com...](https://www.reddit.com/r/Kotlin/comments/1jsa9jr/how_to_upload_large_files_video_image_in/)
-- [How to Upload Large Files &lpar;Video, Image&rpar; in Background using Jetpack Com...](https://www.reddit.com/r/Kotlin/comments/1js7irp/how_to_upload_large_files_video_image_in/)
-- [Ports and Adaptors - Refactoring to Hexagonal Architecture](https://www.reddit.com/r/Kotlin/comments/1jrzvn7/ports_and_adaptors_refactoring_to_hexagonal/)
-- [Can org.jetbrains.exposed.sql.* work using a Maven library reference?](https://www.reddit.com/r/Kotlin/comments/1jrwsxz/can_orgjetbrainsexposedsql_work_using_a_maven/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
