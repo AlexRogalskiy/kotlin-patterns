@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Yet Another AI Coding Assistant](https://www.reddit.com/r/Kotlin/comments/1jvj2e6/yet_another_ai_coding_assistant/)
+- [KMP sample project for iOS and Android, showcasing runtime permission handling and tracking cryptocurrency prices from the Binance platform.](https://www.reddit.com/r/Kotlin/comments/1jvfby3/kmp_sample_project_for_ios_and_android_showcasing/)
+- [Convenient Detekt Conventions &lpar;for Gradle&rpar;](https://www.reddit.com/r/Kotlin/comments/1jv93d2/convenient_detekt_conventions_for_gradle/)
+- [Kotlin 2.1.20 - Atomics, UUIDs, and more - TypeAlias Show Livestream](https://www.reddit.com/r/Kotlin/comments/1jv7xon/kotlin_2120_atomics_uuids_and_more_typealias_show/)
+- [Bringing Fuzz Testing to Kotlin with kotlinx.fuzz](https://www.reddit.com/r/Kotlin/comments/1jv28e1/bringing_fuzz_testing_to_kotlin_with_kotlinxfuzz/)
+- [Linting rule against interpolating other than strings, and against using toString on nullable values.](https://www.reddit.com/r/Kotlin/comments/1jv12fb/linting_rule_against_interpolating_other_than/)
+- [Llama 4 results on Kotlin-Bench](https://www.reddit.com/r/Kotlin/comments/1juwzj8/llama_4_results_on_kotlinbench/)
+- [Question: Why need Kotlin? Any suggestions](https://www.reddit.com/r/Kotlin/comments/1juvw9m/question_why_need_kotlin_any_suggestions/)
 - [Static Native Executable](https://www.reddit.com/r/Kotlin/comments/1junk39/static_native_executable/)
 - [🚀 RedPulsar v1.4.0 is out! Lightning-Fast Distributed Locks for Java and Kotlin](https://www.reddit.com/r/Kotlin/comments/1judvim/redpulsar_v140_is_out_lightningfast_distributed/)
-- [Kotlin, Swift, and Ruby losing popularity – Tiobe index](https://www.reddit.com/r/Kotlin/comments/1juc49l/kotlin_swift_and_ruby_losing_popularity_tiobe/)
-- [Android Kotlin sample projects on GitHub with XML layouts and Compose for learning Kotlin.](https://www.reddit.com/r/Kotlin/comments/1juaj0h/android_kotlin_sample_projects_on_github_with_xml/)
-- [sqlx4k: A high-performance, non-blocking database driver for PostgreSQL, MySQL, and SQLite, written for Kotlin Native.](https://www.reddit.com/r/Kotlin/comments/1ju7pto/sqlx4k_a_highperformance_nonblocking_database/)
-- [midterm project](https://www.reddit.com/r/Kotlin/comments/1jtxtox/midterm_project/)
-- [In my first jetpack compose apps the m3 topbar make the status bar of same color but not now why even after same and not code change](https://www.reddit.com/r/Kotlin/comments/1jtqp4m/in_my_first_jetpack_compose_apps_the_m3_topbar/)
-- [Auto clicker](https://www.reddit.com/r/Kotlin/comments/1jtpjhc/auto_clicker/)
-- [We built a high-performance Point &amp; Figure chart engine using Compose Multiplatform — and it runs on Desktop, Web, and Mobile](https://www.reddit.com/r/Kotlin/comments/1jtlceu/we_built_a_highperformance_point_figure_chart/)
-- [Making my third app is like butter.](https://www.reddit.com/r/Kotlin/comments/1jsy46g/making_my_third_app_is_like_butter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
