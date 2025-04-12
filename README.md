@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Summon: A composable, SEO-friendly UI library for Kotlin – Now with Built-in Authentication Handling, @Composable Annotations, and Internationalization](https://www.reddit.com/r/Kotlin/comments/1jx4ecz/summon_a_composable_seofriendly_ui_library_for/)
+- [Ktlint with maven pre commit hooks](https://www.reddit.com/r/Kotlin/comments/1jx1cjk/ktlint_with_maven_pre_commit_hooks/)
+- [Kotlin](https://www.reddit.com/r/Kotlin/comments/1jwwpb9/kotlin/)
+- [Coupling, Cohesion &amp; ClassGraph](https://www.reddit.com/r/Kotlin/comments/1jwsqhd/coupling_cohesion_classgraph/)
 - [Update on Context Parameters](https://www.reddit.com/r/Kotlin/comments/1jw3x7a/update_on_context_parameters/)
 - [There’s a new Exposed website! &lpar;With a nifty Kotlin/SQL slider ✨&rpar;](https://www.reddit.com/r/Kotlin/comments/1jw0yh2/theres_a_new_exposed_website_with_a_nifty/)
 - [Are there kotlin libraries or approaches for creating discrete, fast loading web pages rather than an SPA?](https://www.reddit.com/r/Kotlin/comments/1jw0sft/are_there_kotlin_libraries_or_approaches_for/)
 - [Beginner: How to Build a ChatGPT-style Android App using Kotlin &lpar;For my 1st year University project&rpar;](https://www.reddit.com/r/Kotlin/comments/1jvu94z/beginner_how_to_build_a_chatgptstyle_android_app/)
 - [Yet Another AI Coding Assistant](https://www.reddit.com/r/Kotlin/comments/1jvj2e6/yet_another_ai_coding_assistant/)
 - [KMP sample project for iOS and Android, showcasing runtime permission handling and tracking cryptocurrency prices from the Binance platform.](https://www.reddit.com/r/Kotlin/comments/1jvfby3/kmp_sample_project_for_ios_and_android_showcasing/)
-- [Convenient Detekt Conventions &lpar;for Gradle&rpar;](https://www.reddit.com/r/Kotlin/comments/1jv93d2/convenient_detekt_conventions_for_gradle/)
-- [Kotlin 2.1.20 - Atomics, UUIDs, and more - TypeAlias Show Livestream](https://www.reddit.com/r/Kotlin/comments/1jv7xon/kotlin_2120_atomics_uuids_and_more_typealias_show/)
-- [Bringing Fuzz Testing to Kotlin with kotlinx.fuzz](https://www.reddit.com/r/Kotlin/comments/1jv28e1/bringing_fuzz_testing_to_kotlin_with_kotlinxfuzz/)
-- [Linting rule against interpolating other than strings, and against using toString on nullable values.](https://www.reddit.com/r/Kotlin/comments/1jv12fb/linting_rule_against_interpolating_other_than/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
