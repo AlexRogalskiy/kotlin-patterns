@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to properly start learning kotlin from scratch](https://www.reddit.com/r/Kotlin/comments/1jz49qk/how_to_properly_start_learning_kotlin_from_scratch/)
+- [Why it doesn’t work](https://www.reddit.com/r/Kotlin/comments/1jz0ecd/why_it_doesnt_work/)
+- [Are you already contributing to the Kotlin ecosystem or looking to get started? &lpar;Some guidelines&rpar;](https://www.reddit.com/r/Kotlin/comments/1jyzkca/are_you_already_contributing_to_the_kotlin/)
+- [One newsletter. All things Kotlin](https://www.reddit.com/r/Kotlin/comments/1jytqdu/one_newsletter_all_things_kotlin/)
 - [Need suggestions regarding the front-end](https://www.reddit.com/r/Kotlin/comments/1jybrpm/need_suggestions_regarding_the_frontend/)
 - [Request for tutorials/guidance on how to structure application.](https://www.reddit.com/r/Kotlin/comments/1jy4g17/request_for_tutorialsguidance_on_how_to_structure/)
 - [Trying to deserialize xml into data class](https://www.reddit.com/r/Kotlin/comments/1jxtdj2/trying_to_deserialize_xml_into_data_class/)
 - [How to Save Data in Kotlin Multiplatform for Wasm/Web?](https://www.reddit.com/r/Kotlin/comments/1jxr4lk/how_to_save_data_in_kotlin_multiplatform_for/)
 - [Summon: A composable, SEO-friendly UI library for Kotlin – Now with Built-in Authentication Handling, @Composable Annotations, and Internationalization](https://www.reddit.com/r/Kotlin/comments/1jx4ecz/summon_a_composable_seofriendly_ui_library_for/)
 - [Ktlint with maven pre commit hooks](https://www.reddit.com/r/Kotlin/comments/1jx1cjk/ktlint_with_maven_pre_commit_hooks/)
-- [Kotlin](https://www.reddit.com/r/Kotlin/comments/1jwwpb9/kotlin/)
-- [Coupling, Cohesion &amp; ClassGraph](https://www.reddit.com/r/Kotlin/comments/1jwsqhd/coupling_cohesion_classgraph/)
-- [Update on Context Parameters](https://www.reddit.com/r/Kotlin/comments/1jw3x7a/update_on_context_parameters/)
-- [There’s a new Exposed website! &lpar;With a nifty Kotlin/SQL slider ✨&rpar;](https://www.reddit.com/r/Kotlin/comments/1jw0yh2/theres_a_new_exposed_website_with_a_nifty/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
