@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Grok 3 &amp; GPT 4.1 results on the Kotlin-bench eval](https://www.reddit.com/r/Kotlin/comments/1jzxaty/grok_3_gpt_41_results_on_the_kotlinbench_eval/)
+- [Is kotlin an good programming language for cross platform desktop application development ?](https://www.reddit.com/r/Kotlin/comments/1jzwgfy/is_kotlin_an_good_programming_language_for_cross/)
+- [Handling Deep Links in Compose Multiplatform 🔗](https://www.reddit.com/r/Kotlin/comments/1jzvj7a/handling_deep_links_in_compose_multiplatform/)
+- [Kotlin’s new K2 mode is becoming the default in IntelliJ IDEA – here’s the story behind its development](https://www.reddit.com/r/Kotlin/comments/1jzt830/kotlins_new_k2_mode_is_becoming_the_default_in/)
+- [Deploying a containerized Ktor Application](https://www.reddit.com/r/Kotlin/comments/1jzprwk/deploying_a_containerized_ktor_application/)
+- [Which one would you choose for desktop development and why: KMP Compose or Flutter?](https://www.reddit.com/r/Kotlin/comments/1jzox49/which_one_would_you_choose_for_desktop/)
+- [The Story Behind K2 Mode and How It Works](https://www.reddit.com/r/Kotlin/comments/1jzoccr/the_story_behind_k2_mode_and_how_it_works/)
+- [HELP! I can&#39;t get my android embedding v1 to change to android embedding v2 and keep getting errors trying to run my app](https://www.reddit.com/r/Kotlin/comments/1jzgt8p/help_i_cant_get_my_android_embedding_v1_to_change/)
 - [How to properly start learning kotlin from scratch](https://www.reddit.com/r/Kotlin/comments/1jz49qk/how_to_properly_start_learning_kotlin_from_scratch/)
 - [Why it doesn’t work](https://www.reddit.com/r/Kotlin/comments/1jz0ecd/why_it_doesnt_work/)
-- [Are you already contributing to the Kotlin ecosystem or looking to get started? &lpar;Some guidelines&rpar;](https://www.reddit.com/r/Kotlin/comments/1jyzkca/are_you_already_contributing_to_the_kotlin/)
-- [One newsletter. All things Kotlin](https://www.reddit.com/r/Kotlin/comments/1jytqdu/one_newsletter_all_things_kotlin/)
-- [Need suggestions regarding the front-end](https://www.reddit.com/r/Kotlin/comments/1jybrpm/need_suggestions_regarding_the_frontend/)
-- [Request for tutorials/guidance on how to structure application.](https://www.reddit.com/r/Kotlin/comments/1jy4g17/request_for_tutorialsguidance_on_how_to_structure/)
-- [Trying to deserialize xml into data class](https://www.reddit.com/r/Kotlin/comments/1jxtdj2/trying_to_deserialize_xml_into_data_class/)
-- [How to Save Data in Kotlin Multiplatform for Wasm/Web?](https://www.reddit.com/r/Kotlin/comments/1jxr4lk/how_to_save_data_in_kotlin_multiplatform_for/)
-- [Summon: A composable, SEO-friendly UI library for Kotlin – Now with Built-in Authentication Handling, @Composable Annotations, and Internationalization](https://www.reddit.com/r/Kotlin/comments/1jx4ecz/summon_a_composable_seofriendly_ui_library_for/)
-- [Ktlint with maven pre commit hooks](https://www.reddit.com/r/Kotlin/comments/1jx1cjk/ktlint_with_maven_pre_commit_hooks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
