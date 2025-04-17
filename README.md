@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Notebook Arrives in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k0uyjb/kotlin_notebook_arrives_in_intellij_idea/)
+- [Taking a Look at Storytale](https://www.reddit.com/r/Kotlin/comments/1k0tdxf/taking_a_look_at_storytale/)
+- [Android Developer](https://www.reddit.com/r/Kotlin/comments/1k0o72o/android_developer/)
+- [Now K2 mode is the default in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k0kbqs/now_k2_mode_is_the_default_in_intellij_idea/)
+- [Can someone help me find Spongebob API?](https://www.reddit.com/r/Kotlin/comments/1k0avqm/can_someone_help_me_find_spongebob_api/)
 - [Grok 3 &amp; GPT 4.1 results on the Kotlin-bench eval](https://www.reddit.com/r/Kotlin/comments/1jzxaty/grok_3_gpt_41_results_on_the_kotlinbench_eval/)
 - [Is kotlin an good programming language for cross platform desktop application development ?](https://www.reddit.com/r/Kotlin/comments/1jzwgfy/is_kotlin_an_good_programming_language_for_cross/)
 - [Handling Deep Links in Compose Multiplatform 🔗](https://www.reddit.com/r/Kotlin/comments/1jzvj7a/handling_deep_links_in_compose_multiplatform/)
 - [Kotlin’s new K2 mode is becoming the default in IntelliJ IDEA – here’s the story behind its development](https://www.reddit.com/r/Kotlin/comments/1jzt830/kotlins_new_k2_mode_is_becoming_the_default_in/)
 - [Deploying a containerized Ktor Application](https://www.reddit.com/r/Kotlin/comments/1jzprwk/deploying_a_containerized_ktor_application/)
-- [Which one would you choose for desktop development and why: KMP Compose or Flutter?](https://www.reddit.com/r/Kotlin/comments/1jzox49/which_one_would_you_choose_for_desktop/)
-- [The Story Behind K2 Mode and How It Works](https://www.reddit.com/r/Kotlin/comments/1jzoccr/the_story_behind_k2_mode_and_how_it_works/)
-- [HELP! I can&#39;t get my android embedding v1 to change to android embedding v2 and keep getting errors trying to run my app](https://www.reddit.com/r/Kotlin/comments/1jzgt8p/help_i_cant_get_my_android_embedding_v1_to_change/)
-- [How to properly start learning kotlin from scratch](https://www.reddit.com/r/Kotlin/comments/1jz49qk/how_to_properly_start_learning_kotlin_from_scratch/)
-- [Why it doesn’t work](https://www.reddit.com/r/Kotlin/comments/1jz0ecd/why_it_doesnt_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
