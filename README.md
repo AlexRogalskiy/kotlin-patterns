@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Smarter Kotlin Development with JetBrains AI: Junie and AI Assistant in Your IDE](https://www.reddit.com/r/Kotlin/comments/1k1cj5m/smarter_kotlin_development_with_jetbrains_ai/)
+- [Some Kotlin Syntax](https://www.reddit.com/r/Kotlin/comments/1k1b5ja/some_kotlin_syntax/)
+- [Please take our survey on Kotlin AI tools](https://www.reddit.com/r/Kotlin/comments/1k18a5d/please_take_our_survey_on_kotlin_ai_tools/)
+- [mcp4k — Compiler-driven MCP framework for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1k17qo3/mcp4k_compilerdriven_mcp_framework_for_kotlin/)
+- [Kotlin Notebook comes bundled in IntelliJ IDEA – both Community and Ultimate](https://www.reddit.com/r/Kotlin/comments/1k1792a/kotlin_notebook_comes_bundled_in_intellij_idea/)
+- [Trying to figure out how to add and delete individual items in a LazyColumn](https://www.reddit.com/r/Kotlin/comments/1k14gza/trying_to_figure_out_how_to_add_and_delete/)
 - [Kotlin Notebook Arrives in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k0uyjb/kotlin_notebook_arrives_in_intellij_idea/)
 - [Taking a Look at Storytale](https://www.reddit.com/r/Kotlin/comments/1k0tdxf/taking_a_look_at_storytale/)
 - [Android Developer](https://www.reddit.com/r/Kotlin/comments/1k0o72o/android_developer/)
 - [Now K2 mode is the default in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k0kbqs/now_k2_mode_is_the_default_in_intellij_idea/)
-- [Can someone help me find Spongebob API?](https://www.reddit.com/r/Kotlin/comments/1k0avqm/can_someone_help_me_find_spongebob_api/)
-- [Grok 3 &amp; GPT 4.1 results on the Kotlin-bench eval](https://www.reddit.com/r/Kotlin/comments/1jzxaty/grok_3_gpt_41_results_on_the_kotlinbench_eval/)
-- [Is kotlin an good programming language for cross platform desktop application development ?](https://www.reddit.com/r/Kotlin/comments/1jzwgfy/is_kotlin_an_good_programming_language_for_cross/)
-- [Handling Deep Links in Compose Multiplatform 🔗](https://www.reddit.com/r/Kotlin/comments/1jzvj7a/handling_deep_links_in_compose_multiplatform/)
-- [Kotlin’s new K2 mode is becoming the default in IntelliJ IDEA – here’s the story behind its development](https://www.reddit.com/r/Kotlin/comments/1jzt830/kotlins_new_k2_mode_is_becoming_the_default_in/)
-- [Deploying a containerized Ktor Application](https://www.reddit.com/r/Kotlin/comments/1jzprwk/deploying_a_containerized_ktor_application/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
