@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [App Platform – lightweight application framework for state and memory management suitable for KMP projects](https://www.reddit.com/r/Kotlin/comments/1k2g0jk/app_platform_lightweight_application_framework/)
+- [MyViewModel has too many states, functions and feels messy. How can I improve it?](https://www.reddit.com/r/Kotlin/comments/1k2e1ht/myviewmodel_has_too_many_states_functions_and/)
+- [How to include an admin panel &lpar;Compose Desktop&rpar; in a Hexagonal Ktor backend?](https://www.reddit.com/r/Kotlin/comments/1k28m06/how_to_include_an_admin_panel_compose_desktop_in/)
+- [Difference &amp; Commonality with Objects &amp; Functions in the Gilded Rose Kata](https://www.reddit.com/r/Kotlin/comments/1k26lde/difference_commonality_with_objects_functions_in/)
+- [What is ^ in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1k22g9y/what_is_in_kotlin/)
 - [Smarter Kotlin Development with JetBrains AI: Junie and AI Assistant in Your IDE](https://www.reddit.com/r/Kotlin/comments/1k1cj5m/smarter_kotlin_development_with_jetbrains_ai/)
 - [Some Kotlin Syntax](https://www.reddit.com/r/Kotlin/comments/1k1b5ja/some_kotlin_syntax/)
 - [Please take our survey on Kotlin AI tools](https://www.reddit.com/r/Kotlin/comments/1k18a5d/please_take_our_survey_on_kotlin_ai_tools/)
 - [mcp4k — Compiler-driven MCP framework for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1k17qo3/mcp4k_compilerdriven_mcp_framework_for_kotlin/)
 - [Kotlin Notebook comes bundled in IntelliJ IDEA – both Community and Ultimate](https://www.reddit.com/r/Kotlin/comments/1k1792a/kotlin_notebook_comes_bundled_in_intellij_idea/)
-- [Trying to figure out how to add and delete individual items in a LazyColumn](https://www.reddit.com/r/Kotlin/comments/1k14gza/trying_to_figure_out_how_to_add_and_delete/)
-- [Kotlin Notebook Arrives in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k0uyjb/kotlin_notebook_arrives_in_intellij_idea/)
-- [Taking a Look at Storytale](https://www.reddit.com/r/Kotlin/comments/1k0tdxf/taking_a_look_at_storytale/)
-- [Android Developer](https://www.reddit.com/r/Kotlin/comments/1k0o72o/android_developer/)
-- [Now K2 mode is the default in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k0kbqs/now_k2_mode_is_the_default_in_intellij_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
