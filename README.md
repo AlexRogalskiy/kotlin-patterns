@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&#39;ve made a Sudoku solver/generator written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1k35r9r/ive_made_a_sudoku_solvergenerator_written_in/)
+- [New kotlin language server in development](https://www.reddit.com/r/Kotlin/comments/1k2tush/new_kotlin_language_server_in_development/)
+- [Micronaut creating bean without a bean annotation?](https://www.reddit.com/r/Kotlin/comments/1k2nchb/micronaut_creating_bean_without_a_bean_annotation/)
 - [App Platform – lightweight application framework for state and memory management suitable for KMP projects](https://www.reddit.com/r/Kotlin/comments/1k2g0jk/app_platform_lightweight_application_framework/)
 - [MyViewModel has too many states, functions and feels messy. How can I improve it?](https://www.reddit.com/r/Kotlin/comments/1k2e1ht/myviewmodel_has_too_many_states_functions_and/)
 - [How to include an admin panel &lpar;Compose Desktop&rpar; in a Hexagonal Ktor backend?](https://www.reddit.com/r/Kotlin/comments/1k28m06/how_to_include_an_admin_panel_compose_desktop_in/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What is ^ in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1k22g9y/what_is_in_kotlin/)
 - [Smarter Kotlin Development with JetBrains AI: Junie and AI Assistant in Your IDE](https://www.reddit.com/r/Kotlin/comments/1k1cj5m/smarter_kotlin_development_with_jetbrains_ai/)
 - [Some Kotlin Syntax](https://www.reddit.com/r/Kotlin/comments/1k1b5ja/some_kotlin_syntax/)
-- [Please take our survey on Kotlin AI tools](https://www.reddit.com/r/Kotlin/comments/1k18a5d/please_take_our_survey_on_kotlin_ai_tools/)
-- [mcp4k — Compiler-driven MCP framework for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1k17qo3/mcp4k_compilerdriven_mcp_framework_for_kotlin/)
-- [Kotlin Notebook comes bundled in IntelliJ IDEA – both Community and Ultimate](https://www.reddit.com/r/Kotlin/comments/1k1792a/kotlin_notebook_comes_bundled_in_intellij_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
