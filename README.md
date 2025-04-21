@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Suche Lehrer für Kotlin](https://www.reddit.com/r/Kotlin/comments/1k3y2af/suche_lehrer_für_kotlin/)
+- [Summon: Type-Safe Kotlin Multiplatform Frontend Framework &lpar;Web &amp; JVM&rpar; with Compose-like Syntax &amp; Recent Updates!](https://www.reddit.com/r/Kotlin/comments/1k3vbmd/summon_typesafe_kotlin_multiplatform_frontend/)
+- [Swip Gesture not working](https://www.reddit.com/r/Kotlin/comments/1k3ir2i/swip_gesture_not_working/)
+- [Which version to use?](https://www.reddit.com/r/Kotlin/comments/1k3gdva/which_version_to_use/)
+- [What happened to the IntelliJ Community Edition Free Tier?](https://www.reddit.com/r/Kotlin/comments/1k3ffee/what_happened_to_the_intellij_community_edition/)
 - [I&#39;ve made a Sudoku solver/generator written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1k35r9r/ive_made_a_sudoku_solvergenerator_written_in/)
 - [New kotlin language server in development](https://www.reddit.com/r/Kotlin/comments/1k2tush/new_kotlin_language_server_in_development/)
 - [Micronaut creating bean without a bean annotation?](https://www.reddit.com/r/Kotlin/comments/1k2nchb/micronaut_creating_bean_without_a_bean_annotation/)
 - [App Platform – lightweight application framework for state and memory management suitable for KMP projects](https://www.reddit.com/r/Kotlin/comments/1k2g0jk/app_platform_lightweight_application_framework/)
 - [MyViewModel has too many states, functions and feels messy. How can I improve it?](https://www.reddit.com/r/Kotlin/comments/1k2e1ht/myviewmodel_has_too_many_states_functions_and/)
-- [How to include an admin panel &lpar;Compose Desktop&rpar; in a Hexagonal Ktor backend?](https://www.reddit.com/r/Kotlin/comments/1k28m06/how_to_include_an_admin_panel_compose_desktop_in/)
-- [Difference &amp; Commonality with Objects &amp; Functions in the Gilded Rose Kata](https://www.reddit.com/r/Kotlin/comments/1k26lde/difference_commonality_with_objects_functions_in/)
-- [What is ^ in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1k22g9y/what_is_in_kotlin/)
-- [Smarter Kotlin Development with JetBrains AI: Junie and AI Assistant in Your IDE](https://www.reddit.com/r/Kotlin/comments/1k1cj5m/smarter_kotlin_development_with_jetbrains_ai/)
-- [Some Kotlin Syntax](https://www.reddit.com/r/Kotlin/comments/1k1b5ja/some_kotlin_syntax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
