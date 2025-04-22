@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Will Compose Multiplatform for iOS Finally be stable in Kotlin Conf 2025 ?](https://www.reddit.com/r/Kotlin/comments/1k4kw3o/will_compose_multiplatform_for_ios_finally_be/)
+- [Kotlin as a general purpose language?](https://www.reddit.com/r/Kotlin/comments/1k4jo65/kotlin_as_a_general_purpose_language/)
+- [Looking for a Kotlin programmer &lpar;job offer&rpar;](https://www.reddit.com/r/Kotlin/comments/1k47qad/looking_for_a_kotlin_programmer_job_offer/)
 - [Suche Lehrer für Kotlin](https://www.reddit.com/r/Kotlin/comments/1k3y2af/suche_lehrer_für_kotlin/)
 - [Summon: Type-Safe Kotlin Multiplatform Frontend Framework &lpar;Web &amp; JVM&rpar; with Compose-like Syntax &amp; Recent Updates!](https://www.reddit.com/r/Kotlin/comments/1k3vbmd/summon_typesafe_kotlin_multiplatform_frontend/)
 - [Swip Gesture not working](https://www.reddit.com/r/Kotlin/comments/1k3ir2i/swip_gesture_not_working/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What happened to the IntelliJ Community Edition Free Tier?](https://www.reddit.com/r/Kotlin/comments/1k3ffee/what_happened_to_the_intellij_community_edition/)
 - [I&#39;ve made a Sudoku solver/generator written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1k35r9r/ive_made_a_sudoku_solvergenerator_written_in/)
 - [New kotlin language server in development](https://www.reddit.com/r/Kotlin/comments/1k2tush/new_kotlin_language_server_in_development/)
-- [Micronaut creating bean without a bean annotation?](https://www.reddit.com/r/Kotlin/comments/1k2nchb/micronaut_creating_bean_without_a_bean_annotation/)
-- [App Platform – lightweight application framework for state and memory management suitable for KMP projects](https://www.reddit.com/r/Kotlin/comments/1k2g0jk/app_platform_lightweight_application_framework/)
-- [MyViewModel has too many states, functions and feels messy. How can I improve it?](https://www.reddit.com/r/Kotlin/comments/1k2e1ht/myviewmodel_has_too_many_states_functions_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
