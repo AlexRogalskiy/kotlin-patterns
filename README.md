@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you lint and format code?](https://www.reddit.com/r/Kotlin/comments/1k5b580/how_do_you_lint_and_format_code/)
+- [How Junie helps you code faster with Kotlin in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k59jcg/how_junie_helps_you_code_faster_with_kotlin_in/)
+- [Compose Multiplatform vs Kotlin Multiplatform for a new cross-platform mobile project](https://www.reddit.com/r/Kotlin/comments/1k4zpuu/compose_multiplatform_vs_kotlin_multiplatform_for/)
 - [Will Compose Multiplatform for iOS Finally be stable in Kotlin Conf 2025 ?](https://www.reddit.com/r/Kotlin/comments/1k4kw3o/will_compose_multiplatform_for_ios_finally_be/)
 - [Kotlin as a general purpose language?](https://www.reddit.com/r/Kotlin/comments/1k4jo65/kotlin_as_a_general_purpose_language/)
 - [Looking for a Kotlin programmer &lpar;job offer&rpar;](https://www.reddit.com/r/Kotlin/comments/1k47qad/looking_for_a_kotlin_programmer_job_offer/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Summon: Type-Safe Kotlin Multiplatform Frontend Framework &lpar;Web &amp; JVM&rpar; with Compose-like Syntax &amp; Recent Updates!](https://www.reddit.com/r/Kotlin/comments/1k3vbmd/summon_typesafe_kotlin_multiplatform_frontend/)
 - [Swip Gesture not working](https://www.reddit.com/r/Kotlin/comments/1k3ir2i/swip_gesture_not_working/)
 - [Which version to use?](https://www.reddit.com/r/Kotlin/comments/1k3gdva/which_version_to_use/)
-- [What happened to the IntelliJ Community Edition Free Tier?](https://www.reddit.com/r/Kotlin/comments/1k3ffee/what_happened_to_the_intellij_community_edition/)
-- [I&#39;ve made a Sudoku solver/generator written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1k35r9r/ive_made_a_sudoku_solvergenerator_written_in/)
-- [New kotlin language server in development](https://www.reddit.com/r/Kotlin/comments/1k2tush/new_kotlin_language_server_in_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
