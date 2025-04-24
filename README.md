@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Flutter vs React Native vs Kotlin Multiplatform for Rebuilding My Production Android app](https://www.reddit.com/r/Kotlin/comments/1k6cgwf/flutter_vs_react_native_vs_kotlin_multiplatform/)
+- [Ktor-Wasm Issue: Node.js Module Unavailable &amp; Wasm Validation Error](https://www.reddit.com/r/Kotlin/comments/1k6amz2/ktorwasm_issue_nodejs_module_unavailable_wasm/)
+- [Double Dispatch: What it is • Traditional solutions • Getting a similar effect in Kotlin](https://www.reddit.com/r/Kotlin/comments/1k61cct/double_dispatch_what_it_is_traditional_solutions/)
+- [AsyncAPI plugin is now available for Ktor](https://www.reddit.com/r/Kotlin/comments/1k5sn7i/asyncapi_plugin_is_now_available_for_ktor/)
 - [How do you lint and format code?](https://www.reddit.com/r/Kotlin/comments/1k5b580/how_do_you_lint_and_format_code/)
 - [How Junie helps you code faster with Kotlin in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k59jcg/how_junie_helps_you_code_faster_with_kotlin_in/)
 - [Compose Multiplatform vs Kotlin Multiplatform for a new cross-platform mobile project](https://www.reddit.com/r/Kotlin/comments/1k4zpuu/compose_multiplatform_vs_kotlin_multiplatform_for/)
 - [Will Compose Multiplatform for iOS Finally be stable in Kotlin Conf 2025 ?](https://www.reddit.com/r/Kotlin/comments/1k4kw3o/will_compose_multiplatform_for_ios_finally_be/)
 - [Kotlin as a general purpose language?](https://www.reddit.com/r/Kotlin/comments/1k4jo65/kotlin_as_a_general_purpose_language/)
 - [Looking for a Kotlin programmer &lpar;job offer&rpar;](https://www.reddit.com/r/Kotlin/comments/1k47qad/looking_for_a_kotlin_programmer_job_offer/)
-- [Suche Lehrer für Kotlin](https://www.reddit.com/r/Kotlin/comments/1k3y2af/suche_lehrer_für_kotlin/)
-- [Summon: Type-Safe Kotlin Multiplatform Frontend Framework &lpar;Web &amp; JVM&rpar; with Compose-like Syntax &amp; Recent Updates!](https://www.reddit.com/r/Kotlin/comments/1k3vbmd/summon_typesafe_kotlin_multiplatform_frontend/)
-- [Swip Gesture not working](https://www.reddit.com/r/Kotlin/comments/1k3ir2i/swip_gesture_not_working/)
-- [Which version to use?](https://www.reddit.com/r/Kotlin/comments/1k3gdva/which_version_to_use/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
