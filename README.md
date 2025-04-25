@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how can I fix Circular Dependencies issue in Koin?](https://www.reddit.com/r/Kotlin/comments/1k78mtd/how_can_i_fix_circular_dependencies_issue_in_koin/)
+- [Is it worth to try?](https://www.reddit.com/r/Kotlin/comments/1k6phy1/is_it_worth_to_try/)
+- [hola compañeros ,algun libro o contenido de estudio de kotlin que tengan?o jetpackcompose](https://www.reddit.com/r/Kotlin/comments/1k6heu1/hola_compañeros_algun_libro_o_contenido_de/)
 - [Flutter vs React Native vs Kotlin Multiplatform for Rebuilding My Production Android app](https://www.reddit.com/r/Kotlin/comments/1k6cgwf/flutter_vs_react_native_vs_kotlin_multiplatform/)
 - [Ktor-Wasm Issue: Node.js Module Unavailable &amp; Wasm Validation Error](https://www.reddit.com/r/Kotlin/comments/1k6amz2/ktorwasm_issue_nodejs_module_unavailable_wasm/)
 - [Double Dispatch: What it is • Traditional solutions • Getting a similar effect in Kotlin](https://www.reddit.com/r/Kotlin/comments/1k61cct/double_dispatch_what_it_is_traditional_solutions/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How do you lint and format code?](https://www.reddit.com/r/Kotlin/comments/1k5b580/how_do_you_lint_and_format_code/)
 - [How Junie helps you code faster with Kotlin in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k59jcg/how_junie_helps_you_code_faster_with_kotlin_in/)
 - [Compose Multiplatform vs Kotlin Multiplatform for a new cross-platform mobile project](https://www.reddit.com/r/Kotlin/comments/1k4zpuu/compose_multiplatform_vs_kotlin_multiplatform_for/)
-- [Will Compose Multiplatform for iOS Finally be stable in Kotlin Conf 2025 ?](https://www.reddit.com/r/Kotlin/comments/1k4kw3o/will_compose_multiplatform_for_ios_finally_be/)
-- [Kotlin as a general purpose language?](https://www.reddit.com/r/Kotlin/comments/1k4jo65/kotlin_as_a_general_purpose_language/)
-- [Looking for a Kotlin programmer &lpar;job offer&rpar;](https://www.reddit.com/r/Kotlin/comments/1k47qad/looking_for_a_kotlin_programmer_job_offer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
