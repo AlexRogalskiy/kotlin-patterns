@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin Websocket](https://www.reddit.com/r/Kotlin/comments/1k804d8/kotlin_websocket/)
-- [Demo Kotlin Multiplatform project for Desktop &lpar;JVM&rpar; and Android](https://www.reddit.com/r/Kotlin/comments/1k7tra7/demo_kotlin_multiplatform_project_for_desktop_jvm/)
-- [Need little suggestion](https://www.reddit.com/r/Kotlin/comments/1k7ss9v/need_little_suggestion/)
-- [Death to all Classes - Gilded Rose with Functional Polymorphism](https://www.reddit.com/r/Kotlin/comments/1k7hnkf/death_to_all_classes_gilded_rose_with_functional/)
-- [Handling Side Effects in Jetpack Compose Using Kotlin – Best Practices for Clean UI](https://www.reddit.com/r/Kotlin/comments/1k7dshj/handling_side_effects_in_jetpack_compose_using/)
-- [how can I fix Circular Dependencies issue in Koin?](https://www.reddit.com/r/Kotlin/comments/1k78mtd/how_can_i_fix_circular_dependencies_issue_in_koin/)
-- [Is it worth to try?](https://www.reddit.com/r/Kotlin/comments/1k6phy1/is_it_worth_to_try/)
-- [hola compañeros ,algun libro o contenido de estudio de kotlin que tengan?o jetpackcompose](https://www.reddit.com/r/Kotlin/comments/1k6heu1/hola_compañeros_algun_libro_o_contenido_de/)
-- [Flutter vs React Native vs Kotlin Multiplatform for Rebuilding My Production Android app](https://www.reddit.com/r/Kotlin/comments/1k6cgwf/flutter_vs_react_native_vs_kotlin_multiplatform/)
-- [Ktor-Wasm Issue: Node.js Module Unavailable &amp; Wasm Validation Error](https://www.reddit.com/r/Kotlin/comments/1k6amz2/ktorwasm_issue_nodejs_module_unavailable_wasm/)
+- [🚀 Kotools Types 5.0.1 is available!](https://www.reddit.com/r/Kotlin/comments/1k8ju15/kotools_types_501_is_available/)
+- [Measuring time taken for coroutine?](https://www.reddit.com/r/Kotlin/comments/1k8ifoo/measuring_time_taken_for_coroutine/)
+- [Question from a C programmer](https://www.reddit.com/r/Kotlin/comments/1k8go9t/question_from_a_c_programmer/)
+- [Dependency Injection in Jetpack Compose Using Hilt &lpar;With Full Working Example&rpar;](https://www.reddit.com/r/Kotlin/comments/1k8dcjm/dependency_injection_in_jetpack_compose_using/)
+- [Help pls](https://www.reddit.com/r/Kotlin/comments/1k89fb6/help_pls/)
+- [Do I understand modules correctly?](https://www.reddit.com/r/Kotlin/comments/1k898zg/do_i_understand_modules_correctly/)
+- [From a concurrency point of view are coroutines just as complicated as threads? Are they popular because they use less resources or is it because they actually make things easier for the programmer?](https://www.reddit.com/r/Kotlin/comments/1k88s08/from_a_concurrency_point_of_view_are_coroutines/)
+- [Help](https://www.reddit.com/r/Kotlin/comments/1k88cgx/help/)
+- [Best place to start learning native android development](https://www.reddit.com/r/Kotlin/comments/1k87cd1/best_place_to_start_learning_native_android/)
+- [Kotlin nullability check for Collection property when calling operator get with [ ]](https://www.reddit.com/r/Kotlin/comments/1k8418n/kotlin_nullability_check_for_collection_property/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
