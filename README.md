@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What can cause this error?](https://www.reddit.com/r/Kotlin/comments/1k9bqp5/what_can_cause_this_error/)
+- [PixelSafe - Steganography tool for PNG images](https://www.reddit.com/r/Kotlin/comments/1k9ayfs/pixelsafe_steganography_tool_for_png_images/)
+- [Design decoded: The architecture design choices behind SmartScan](https://www.reddit.com/r/Kotlin/comments/1k994ut/design_decoded_the_architecture_design_choices/)
+- [How much kotlin needed before diving into Android developement](https://www.reddit.com/r/Kotlin/comments/1k97sc7/how_much_kotlin_needed_before_diving_into_android/)
+- [[Article] Inline Functions in Kotlin Explained with Examples – A Complete Beginner-Friendly Guide 🚀](https://www.reddit.com/r/Kotlin/comments/1k906s7/article_inline_functions_in_kotlin_explained_with/)
+- [Help](https://www.reddit.com/r/Kotlin/comments/1k8x4nf/help/)
+- [🌐 Adding Localization Support in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1k8whwd/adding_localization_support_in_compose/)
+- [Help](https://www.reddit.com/r/Kotlin/comments/1k8vdh5/help/)
 - [🚀 Kotools Types 5.0.1 is available!](https://www.reddit.com/r/Kotlin/comments/1k8ju15/kotools_types_501_is_available/)
-- [Measuring time taken for coroutine?](https://www.reddit.com/r/Kotlin/comments/1k8ifoo/measuring_time_taken_for_coroutine/)
 - [Question from a C programmer](https://www.reddit.com/r/Kotlin/comments/1k8go9t/question_from_a_c_programmer/)
-- [Dependency Injection in Jetpack Compose Using Hilt &lpar;With Full Working Example&rpar;](https://www.reddit.com/r/Kotlin/comments/1k8dcjm/dependency_injection_in_jetpack_compose_using/)
-- [Help pls](https://www.reddit.com/r/Kotlin/comments/1k89fb6/help_pls/)
-- [Do I understand modules correctly?](https://www.reddit.com/r/Kotlin/comments/1k898zg/do_i_understand_modules_correctly/)
-- [From a concurrency point of view are coroutines just as complicated as threads? Are they popular because they use less resources or is it because they actually make things easier for the programmer?](https://www.reddit.com/r/Kotlin/comments/1k88s08/from_a_concurrency_point_of_view_are_coroutines/)
-- [Help](https://www.reddit.com/r/Kotlin/comments/1k88cgx/help/)
-- [Best place to start learning native android development](https://www.reddit.com/r/Kotlin/comments/1k87cd1/best_place_to_start_learning_native_android/)
-- [Kotlin nullability check for Collection property when calling operator get with [ ]](https://www.reddit.com/r/Kotlin/comments/1k8418n/kotlin_nullability_check_for_collection_property/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
