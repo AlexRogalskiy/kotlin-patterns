@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Confused about the @DslMarker color style?](https://www.reddit.com/r/Kotlin/comments/1ka7mv3/confused_about_the_dslmarker_color_style/)
+- [My first Kotlin library release: KLI — Lightweight Interactive CLI DSL!](https://www.reddit.com/r/Kotlin/comments/1ka62f6/my_first_kotlin_library_release_kli_lightweight/)
+- [How do i get startet in Kotlin ?](https://www.reddit.com/r/Kotlin/comments/1ka4suh/how_do_i_get_startet_in_kotlin/)
+- [How Kotlin Developers Use JetBrains AI Assistant in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k9xto8/how_kotlin_developers_use_jetbrains_ai_assistant/)
+- [How to use Kotlin in VSCode?](https://www.reddit.com/r/Kotlin/comments/1k9tllh/how_to_use_kotlin_in_vscode/)
+- [How to manipulate a site without API](https://www.reddit.com/r/Kotlin/comments/1k9rrk4/how_to_manipulate_a_site_without_api/)
+- [Made an app for scanning barcodes](https://www.reddit.com/r/Kotlin/comments/1k9qbeo/made_an_app_for_scanning_barcodes/)
 - [What can cause this error?](https://www.reddit.com/r/Kotlin/comments/1k9bqp5/what_can_cause_this_error/)
 - [PixelSafe - Steganography tool for PNG images](https://www.reddit.com/r/Kotlin/comments/1k9ayfs/pixelsafe_steganography_tool_for_png_images/)
 - [Design decoded: The architecture design choices behind SmartScan](https://www.reddit.com/r/Kotlin/comments/1k994ut/design_decoded_the_architecture_design_choices/)
-- [How much kotlin needed before diving into Android developement](https://www.reddit.com/r/Kotlin/comments/1k97sc7/how_much_kotlin_needed_before_diving_into_android/)
-- [[Article] Inline Functions in Kotlin Explained with Examples – A Complete Beginner-Friendly Guide 🚀](https://www.reddit.com/r/Kotlin/comments/1k906s7/article_inline_functions_in_kotlin_explained_with/)
-- [Help](https://www.reddit.com/r/Kotlin/comments/1k8x4nf/help/)
-- [🌐 Adding Localization Support in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1k8whwd/adding_localization_support_in_compose/)
-- [Help](https://www.reddit.com/r/Kotlin/comments/1k8vdh5/help/)
-- [🚀 Kotools Types 5.0.1 is available!](https://www.reddit.com/r/Kotlin/comments/1k8ju15/kotools_types_501_is_available/)
-- [Question from a C programmer](https://www.reddit.com/r/Kotlin/comments/1k8go9t/question_from_a_c_programmer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
