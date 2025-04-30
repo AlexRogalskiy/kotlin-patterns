@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Good ressources to learn Kotlin/Android dev](https://www.reddit.com/r/Kotlin/comments/1kazdyb/good_ressources_to_learn_kotlinandroid_dev/)
+- [Ksoup v0.2.3 Released! 🚀 Scoped XML Namespaces &amp; Stream-based API](https://www.reddit.com/r/Kotlin/comments/1kaw27f/ksoup_v023_released_scoped_xml_namespaces/)
+- [Created a sharedflow based event bus library.](https://www.reddit.com/r/Kotlin/comments/1kat9n6/created_a_sharedflow_based_event_bus_library/)
+- [[Release] fleeksoft-io 0.0.4 - Lightweight Kotlin Multiplatform IO library](https://www.reddit.com/r/Kotlin/comments/1kar0dm/release_fleeksoftio_004_lightweight_kotlin/)
+- [Is compose required for KMP project in android or will XML work just fine? I have been android developer for over 7 years and I really love working with XML&lpar;aint worked with compsose&rpar;. But now for the new project we are opting KMP and have no clue on which way i should go, Compose or XML for android](https://www.reddit.com/r/Kotlin/comments/1kaqt5e/is_compose_required_for_kmp_project_in_android_or/)
+- [Introducing ExoQuery](https://www.reddit.com/r/Kotlin/comments/1kanbx9/introducing_exoquery/)
+- [Logger in Spring Boot Reactive Web with Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/1kammub/logger_in_spring_boot_reactive_web_with_kotlin/)
+- [A practical guide to getting the most out of Kotlin Notebook](https://www.reddit.com/r/Kotlin/comments/1kak7j5/a_practical_guide_to_getting_the_most_out_of/)
 - [Confused about the @DslMarker color style?](https://www.reddit.com/r/Kotlin/comments/1ka7mv3/confused_about_the_dslmarker_color_style/)
 - [My first Kotlin library release: KLI — Lightweight Interactive CLI DSL!](https://www.reddit.com/r/Kotlin/comments/1ka62f6/my_first_kotlin_library_release_kli_lightweight/)
-- [How do i get startet in Kotlin ?](https://www.reddit.com/r/Kotlin/comments/1ka4suh/how_do_i_get_startet_in_kotlin/)
-- [How Kotlin Developers Use JetBrains AI Assistant in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1k9xto8/how_kotlin_developers_use_jetbrains_ai_assistant/)
-- [How to use Kotlin in VSCode?](https://www.reddit.com/r/Kotlin/comments/1k9tllh/how_to_use_kotlin_in_vscode/)
-- [How to manipulate a site without API](https://www.reddit.com/r/Kotlin/comments/1k9rrk4/how_to_manipulate_a_site_without_api/)
-- [Made an app for scanning barcodes](https://www.reddit.com/r/Kotlin/comments/1k9qbeo/made_an_app_for_scanning_barcodes/)
-- [What can cause this error?](https://www.reddit.com/r/Kotlin/comments/1k9bqp5/what_can_cause_this_error/)
-- [PixelSafe - Steganography tool for PNG images](https://www.reddit.com/r/Kotlin/comments/1k9ayfs/pixelsafe_steganography_tool_for_png_images/)
-- [Design decoded: The architecture design choices behind SmartScan](https://www.reddit.com/r/Kotlin/comments/1k994ut/design_decoded_the_architecture_design_choices/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
