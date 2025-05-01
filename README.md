@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MCP Kotlin SDK quickstart guide](https://www.reddit.com/r/Kotlin/comments/1kbmjgr/mcp_kotlin_sdk_quickstart_guide/)
+- [Structuring Ktor Projects Using Domain-Driven Design &lpar;DDD&rpar; Concepts: A Step-by-Step Guide With a Minimalistic CRM](https://www.reddit.com/r/Kotlin/comments/1kbjq0e/structuring_ktor_projects_using_domaindriven/)
+- [Mellum Goes Open Source: A Purpose-Built LLM for Developers, Now on Hugging Face](https://www.reddit.com/r/Kotlin/comments/1kbgbpv/mellum_goes_open_source_a_purposebuilt_llm_for/)
+- [Modular SDK For Kotlin &amp; Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1kbeevh/modular_sdk_for_kotlin_kotlin_multiplatform/)
+- [Jetpack Compose Modifier Extensions: The Secret to Clean &amp; Reusable UI Code](https://www.reddit.com/r/Kotlin/comments/1kb88yu/jetpack_compose_modifier_extensions_the_secret_to/)
 - [Good ressources to learn Kotlin/Android dev](https://www.reddit.com/r/Kotlin/comments/1kazdyb/good_ressources_to_learn_kotlinandroid_dev/)
 - [Ksoup v0.2.3 Released! 🚀 Scoped XML Namespaces &amp; Stream-based API](https://www.reddit.com/r/Kotlin/comments/1kaw27f/ksoup_v023_released_scoped_xml_namespaces/)
 - [Created a sharedflow based event bus library.](https://www.reddit.com/r/Kotlin/comments/1kat9n6/created_a_sharedflow_based_event_bus_library/)
 - [[Release] fleeksoft-io 0.0.4 - Lightweight Kotlin Multiplatform IO library](https://www.reddit.com/r/Kotlin/comments/1kar0dm/release_fleeksoftio_004_lightweight_kotlin/)
 - [Is compose required for KMP project in android or will XML work just fine? I have been android developer for over 7 years and I really love working with XML&lpar;aint worked with compsose&rpar;. But now for the new project we are opting KMP and have no clue on which way i should go, Compose or XML for android](https://www.reddit.com/r/Kotlin/comments/1kaqt5e/is_compose_required_for_kmp_project_in_android_or/)
-- [Introducing ExoQuery](https://www.reddit.com/r/Kotlin/comments/1kanbx9/introducing_exoquery/)
-- [Logger in Spring Boot Reactive Web with Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/1kammub/logger_in_spring_boot_reactive_web_with_kotlin/)
-- [A practical guide to getting the most out of Kotlin Notebook](https://www.reddit.com/r/Kotlin/comments/1kak7j5/a_practical_guide_to_getting_the_most_out_of/)
-- [Confused about the @DslMarker color style?](https://www.reddit.com/r/Kotlin/comments/1ka7mv3/confused_about_the_dslmarker_color_style/)
-- [My first Kotlin library release: KLI — Lightweight Interactive CLI DSL!](https://www.reddit.com/r/Kotlin/comments/1ka62f6/my_first_kotlin_library_release_kli_lightweight/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
