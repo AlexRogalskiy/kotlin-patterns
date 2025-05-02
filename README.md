@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Check connection : why its so difficult ?](https://www.reddit.com/r/Kotlin/comments/1kclcjt/check_connection_why_its_so_difficult/)
+- [New Tutorial Drop: Build a KMP App with ExoQuery – the FIRST PLAIN-Kotlin SQL builder for Android and iOS!](https://www.reddit.com/r/Kotlin/comments/1kckmvn/new_tutorial_drop_build_a_kmp_app_with_exoquery/)
+- [Starting to learn Ktor - Documentation differs from code in project](https://www.reddit.com/r/Kotlin/comments/1kcerhh/starting_to_learn_ktor_documentation_differs_from/)
+- [My Minesweeper-clone is available on the Microsoft Store](https://www.reddit.com/r/Kotlin/comments/1kc7enq/my_minesweeperclone_is_available_on_the_microsoft/)
+- [klibs.io keeps on growing!](https://www.reddit.com/r/Kotlin/comments/1kc2hlj/klibsio_keeps_on_growing/)
+- [Korge: Leaving after 6.0 and Looking for Maintainers](https://www.reddit.com/r/Kotlin/comments/1kc1jkb/korge_leaving_after_60_and_looking_for_maintainers/)
 - [MCP Kotlin SDK quickstart guide](https://www.reddit.com/r/Kotlin/comments/1kbmjgr/mcp_kotlin_sdk_quickstart_guide/)
 - [Structuring Ktor Projects Using Domain-Driven Design &lpar;DDD&rpar; Concepts: A Step-by-Step Guide With a Minimalistic CRM](https://www.reddit.com/r/Kotlin/comments/1kbjq0e/structuring_ktor_projects_using_domaindriven/)
 - [Mellum Goes Open Source: A Purpose-Built LLM for Developers, Now on Hugging Face](https://www.reddit.com/r/Kotlin/comments/1kbgbpv/mellum_goes_open_source_a_purposebuilt_llm_for/)
 - [Modular SDK For Kotlin &amp; Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1kbeevh/modular_sdk_for_kotlin_kotlin_multiplatform/)
-- [Jetpack Compose Modifier Extensions: The Secret to Clean &amp; Reusable UI Code](https://www.reddit.com/r/Kotlin/comments/1kb88yu/jetpack_compose_modifier_extensions_the_secret_to/)
-- [Good ressources to learn Kotlin/Android dev](https://www.reddit.com/r/Kotlin/comments/1kazdyb/good_ressources_to_learn_kotlinandroid_dev/)
-- [Ksoup v0.2.3 Released! 🚀 Scoped XML Namespaces &amp; Stream-based API](https://www.reddit.com/r/Kotlin/comments/1kaw27f/ksoup_v023_released_scoped_xml_namespaces/)
-- [Created a sharedflow based event bus library.](https://www.reddit.com/r/Kotlin/comments/1kat9n6/created_a_sharedflow_based_event_bus_library/)
-- [[Release] fleeksoft-io 0.0.4 - Lightweight Kotlin Multiplatform IO library](https://www.reddit.com/r/Kotlin/comments/1kar0dm/release_fleeksoftio_004_lightweight_kotlin/)
-- [Is compose required for KMP project in android or will XML work just fine? I have been android developer for over 7 years and I really love working with XML&lpar;aint worked with compsose&rpar;. But now for the new project we are opting KMP and have no clue on which way i should go, Compose or XML for android](https://www.reddit.com/r/Kotlin/comments/1kaqt5e/is_compose_required_for_kmp_project_in_android_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
