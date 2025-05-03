@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Publish Kotlin Multiplatform Applications with Conveyor](https://www.reddit.com/r/Kotlin/comments/1kd6d4c/publish_kotlin_multiplatform_applications_with/)
+- [I broke my build!](https://www.reddit.com/r/Kotlin/comments/1kcz7uz/i_broke_my_build/)
+- [Ideal Architecture for Jetpack Compose: MVVM + Clean Architecture Explained](https://www.reddit.com/r/Kotlin/comments/1kcumo5/ideal_architecture_for_jetpack_compose_mvvm_clean/)
 - [Check connection : why its so difficult ?](https://www.reddit.com/r/Kotlin/comments/1kclcjt/check_connection_why_its_so_difficult/)
 - [New Tutorial Drop: Build a KMP App with ExoQuery – the FIRST PLAIN-Kotlin SQL builder for Android and iOS!](https://www.reddit.com/r/Kotlin/comments/1kckmvn/new_tutorial_drop_build_a_kmp_app_with_exoquery/)
 - [Starting to learn Ktor - Documentation differs from code in project](https://www.reddit.com/r/Kotlin/comments/1kcerhh/starting_to_learn_ktor_documentation_differs_from/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [klibs.io keeps on growing!](https://www.reddit.com/r/Kotlin/comments/1kc2hlj/klibsio_keeps_on_growing/)
 - [Korge: Leaving after 6.0 and Looking for Maintainers](https://www.reddit.com/r/Kotlin/comments/1kc1jkb/korge_leaving_after_60_and_looking_for_maintainers/)
 - [MCP Kotlin SDK quickstart guide](https://www.reddit.com/r/Kotlin/comments/1kbmjgr/mcp_kotlin_sdk_quickstart_guide/)
-- [Structuring Ktor Projects Using Domain-Driven Design &lpar;DDD&rpar; Concepts: A Step-by-Step Guide With a Minimalistic CRM](https://www.reddit.com/r/Kotlin/comments/1kbjq0e/structuring_ktor_projects_using_domaindriven/)
-- [Mellum Goes Open Source: A Purpose-Built LLM for Developers, Now on Hugging Face](https://www.reddit.com/r/Kotlin/comments/1kbgbpv/mellum_goes_open_source_a_purposebuilt_llm_for/)
-- [Modular SDK For Kotlin &amp; Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1kbeevh/modular_sdk_for_kotlin_kotlin_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
