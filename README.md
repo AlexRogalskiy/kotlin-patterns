@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Newbie](https://www.reddit.com/r/Kotlin/comments/1ke07ng/newbie/)
+- [Best way to learn spring boot](https://www.reddit.com/r/Kotlin/comments/1kdxbb1/best_way_to_learn_spring_boot/)
 - [Publish Kotlin Multiplatform Applications with Conveyor](https://www.reddit.com/r/Kotlin/comments/1kd6d4c/publish_kotlin_multiplatform_applications_with/)
 - [I broke my build!](https://www.reddit.com/r/Kotlin/comments/1kcz7uz/i_broke_my_build/)
 - [Ideal Architecture for Jetpack Compose: MVVM + Clean Architecture Explained](https://www.reddit.com/r/Kotlin/comments/1kcumo5/ideal_architecture_for_jetpack_compose_mvvm_clean/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Starting to learn Ktor - Documentation differs from code in project](https://www.reddit.com/r/Kotlin/comments/1kcerhh/starting_to_learn_ktor_documentation_differs_from/)
 - [My Minesweeper-clone is available on the Microsoft Store](https://www.reddit.com/r/Kotlin/comments/1kc7enq/my_minesweeperclone_is_available_on_the_microsoft/)
 - [klibs.io keeps on growing!](https://www.reddit.com/r/Kotlin/comments/1kc2hlj/klibsio_keeps_on_growing/)
-- [Korge: Leaving after 6.0 and Looking for Maintainers](https://www.reddit.com/r/Kotlin/comments/1kc1jkb/korge_leaving_after_60_and_looking_for_maintainers/)
-- [MCP Kotlin SDK quickstart guide](https://www.reddit.com/r/Kotlin/comments/1kbmjgr/mcp_kotlin_sdk_quickstart_guide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
