@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin&#39;s better than Java? Or vice versa? Let&#39;s find out...](https://www.reddit.com/r/Kotlin/comments/1kf0rqx/kotlins_better_than_java_or_vice_versa_lets_find/)
+- [Debug jvm app native memory leaks](https://www.reddit.com/r/Kotlin/comments/1keixwu/debug_jvm_app_native_memory_leaks/)
+- [Even after using @Keep in class of models in My app with retrofit.](https://www.reddit.com/r/Kotlin/comments/1kefw75/even_after_using_keep_in_class_of_models_in_my/)
+- [Kotlin in Action, 1st vs. 2nd Edition. If I read the first one, is it worth buying the second one? Is there something conceptually new in the Second Edition?](https://www.reddit.com/r/Kotlin/comments/1keevkp/kotlin_in_action_1st_vs_2nd_edition_if_i_read_the/)
 - [Newbie](https://www.reddit.com/r/Kotlin/comments/1ke07ng/newbie/)
 - [Best way to learn spring boot](https://www.reddit.com/r/Kotlin/comments/1kdxbb1/best_way_to_learn_spring_boot/)
 - [Publish Kotlin Multiplatform Applications with Conveyor](https://www.reddit.com/r/Kotlin/comments/1kd6d4c/publish_kotlin_multiplatform_applications_with/)
 - [I broke my build!](https://www.reddit.com/r/Kotlin/comments/1kcz7uz/i_broke_my_build/)
 - [Ideal Architecture for Jetpack Compose: MVVM + Clean Architecture Explained](https://www.reddit.com/r/Kotlin/comments/1kcumo5/ideal_architecture_for_jetpack_compose_mvvm_clean/)
 - [Check connection : why its so difficult ?](https://www.reddit.com/r/Kotlin/comments/1kclcjt/check_connection_why_its_so_difficult/)
-- [New Tutorial Drop: Build a KMP App with ExoQuery – the FIRST PLAIN-Kotlin SQL builder for Android and iOS!](https://www.reddit.com/r/Kotlin/comments/1kckmvn/new_tutorial_drop_build_a_kmp_app_with_exoquery/)
-- [Starting to learn Ktor - Documentation differs from code in project](https://www.reddit.com/r/Kotlin/comments/1kcerhh/starting_to_learn_ktor_documentation_differs_from/)
-- [My Minesweeper-clone is available on the Microsoft Store](https://www.reddit.com/r/Kotlin/comments/1kc7enq/my_minesweeperclone_is_available_on_the_microsoft/)
-- [klibs.io keeps on growing!](https://www.reddit.com/r/Kotlin/comments/1kc2hlj/klibsio_keeps_on_growing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
