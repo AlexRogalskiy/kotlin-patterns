@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin&#39;s better than Java? Or vice versa? Let&#39;s find out...](https://www.reddit.com/r/Kotlin/comments/1kf0rqx/kotlins_better_than_java_or_vice_versa_lets_find/)
+- [Kotlin multiplatform on Google io](https://www.reddit.com/r/Kotlin/comments/1kfix0f/kotlin_multiplatform_on_google_io/)
+- [How to Compile Kotlin Code at Runtime from Java?](https://www.reddit.com/r/Kotlin/comments/1kfehei/how_to_compile_kotlin_code_at_runtime_from_java/)
+- [Mocking S3Client using Mockk](https://www.reddit.com/r/Kotlin/comments/1kfdt8f/mocking_s3client_using_mockk/)
+- [Handling Configuration Changes in Jetpack Compose Apps — A Complete Guide](https://www.reddit.com/r/Kotlin/comments/1kfckrv/handling_configuration_changes_in_jetpack_compose/)
+- [Splash Screen in Android Studio using Kotlin | Latest 2023 API Method](https://www.reddit.com/r/Kotlin/comments/1kf7qee/splash_screen_in_android_studio_using_kotlin/)
+- [Learn Kotlin in 12 Minutes](https://www.reddit.com/r/Kotlin/comments/1kf10cm/learn_kotlin_in_12_minutes/)
 - [Debug jvm app native memory leaks](https://www.reddit.com/r/Kotlin/comments/1keixwu/debug_jvm_app_native_memory_leaks/)
 - [Even after using @Keep in class of models in My app with retrofit.](https://www.reddit.com/r/Kotlin/comments/1kefw75/even_after_using_keep_in_class_of_models_in_my/)
 - [Kotlin in Action, 1st vs. 2nd Edition. If I read the first one, is it worth buying the second one? Is there something conceptually new in the Second Edition?](https://www.reddit.com/r/Kotlin/comments/1keevkp/kotlin_in_action_1st_vs_2nd_edition_if_i_read_the/)
 - [Newbie](https://www.reddit.com/r/Kotlin/comments/1ke07ng/newbie/)
-- [Best way to learn spring boot](https://www.reddit.com/r/Kotlin/comments/1kdxbb1/best_way_to_learn_spring_boot/)
-- [Publish Kotlin Multiplatform Applications with Conveyor](https://www.reddit.com/r/Kotlin/comments/1kd6d4c/publish_kotlin_multiplatform_applications_with/)
-- [I broke my build!](https://www.reddit.com/r/Kotlin/comments/1kcz7uz/i_broke_my_build/)
-- [Ideal Architecture for Jetpack Compose: MVVM + Clean Architecture Explained](https://www.reddit.com/r/Kotlin/comments/1kcumo5/ideal_architecture_for_jetpack_compose_mvvm_clean/)
-- [Check connection : why its so difficult ?](https://www.reddit.com/r/Kotlin/comments/1kclcjt/check_connection_why_its_so_difficult/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
