@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Neovim with Kotlin](https://www.reddit.com/r/Kotlin/comments/1kgfizk/neovim_with_kotlin/)
+- [Considering Kotlin vs Java](https://www.reddit.com/r/Kotlin/comments/1kge699/considering_kotlin_vs_java/)
+- [Compose Multiplatform for iOS is Stable and Production-Ready](https://www.reddit.com/r/Kotlin/comments/1kgafgh/compose_multiplatform_for_ios_is_stable_and/)
+- [When I see a Java dev write Kotlin in a Java-esque way](https://www.reddit.com/r/Kotlin/comments/1kg5av2/when_i_see_a_java_dev_write_kotlin_in_a_javaesque/)
+- [🎉 Ktor 3.1.3 has landed! Take a look at the changelog for all the details.](https://www.reddit.com/r/Kotlin/comments/1kg4h0r/ktor_313_has_landed_take_a_look_at_the_changelog/)
+- [How helpful is Kotlin’s documentation? Tell us about your experience in our survey!](https://www.reddit.com/r/Kotlin/comments/1kfx8fz/how_helpful_is_kotlins_documentation_tell_us/)
 - [Kotlin multiplatform on Google io](https://www.reddit.com/r/Kotlin/comments/1kfix0f/kotlin_multiplatform_on_google_io/)
 - [How to Compile Kotlin Code at Runtime from Java?](https://www.reddit.com/r/Kotlin/comments/1kfehei/how_to_compile_kotlin_code_at_runtime_from_java/)
 - [Mocking S3Client using Mockk](https://www.reddit.com/r/Kotlin/comments/1kfdt8f/mocking_s3client_using_mockk/)
 - [Handling Configuration Changes in Jetpack Compose Apps — A Complete Guide](https://www.reddit.com/r/Kotlin/comments/1kfckrv/handling_configuration_changes_in_jetpack_compose/)
-- [Splash Screen in Android Studio using Kotlin | Latest 2023 API Method](https://www.reddit.com/r/Kotlin/comments/1kf7qee/splash_screen_in_android_studio_using_kotlin/)
-- [Learn Kotlin in 12 Minutes](https://www.reddit.com/r/Kotlin/comments/1kf10cm/learn_kotlin_in_12_minutes/)
-- [Debug jvm app native memory leaks](https://www.reddit.com/r/Kotlin/comments/1keixwu/debug_jvm_app_native_memory_leaks/)
-- [Even after using @Keep in class of models in My app with retrofit.](https://www.reddit.com/r/Kotlin/comments/1kefw75/even_after_using_keep_in_class_of_models_in_my/)
-- [Kotlin in Action, 1st vs. 2nd Edition. If I read the first one, is it worth buying the second one? Is there something conceptually new in the Second Edition?](https://www.reddit.com/r/Kotlin/comments/1keevkp/kotlin_in_action_1st_vs_2nd_edition_if_i_read_the/)
-- [Newbie](https://www.reddit.com/r/Kotlin/comments/1ke07ng/newbie/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
