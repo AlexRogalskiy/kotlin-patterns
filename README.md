@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Neovim with Kotlin](https://www.reddit.com/r/Kotlin/comments/1kgfizk/neovim_with_kotlin/)
-- [Considering Kotlin vs Java](https://www.reddit.com/r/Kotlin/comments/1kge699/considering_kotlin_vs_java/)
-- [Compose Multiplatform for iOS is Stable and Production-Ready](https://www.reddit.com/r/Kotlin/comments/1kgafgh/compose_multiplatform_for_ios_is_stable_and/)
-- [When I see a Java dev write Kotlin in a Java-esque way](https://www.reddit.com/r/Kotlin/comments/1kg5av2/when_i_see_a_java_dev_write_kotlin_in_a_javaesque/)
-- [🎉 Ktor 3.1.3 has landed! Take a look at the changelog for all the details.](https://www.reddit.com/r/Kotlin/comments/1kg4h0r/ktor_313_has_landed_take_a_look_at_the_changelog/)
-- [How helpful is Kotlin’s documentation? Tell us about your experience in our survey!](https://www.reddit.com/r/Kotlin/comments/1kfx8fz/how_helpful_is_kotlins_documentation_tell_us/)
-- [Kotlin multiplatform on Google io](https://www.reddit.com/r/Kotlin/comments/1kfix0f/kotlin_multiplatform_on_google_io/)
-- [How to Compile Kotlin Code at Runtime from Java?](https://www.reddit.com/r/Kotlin/comments/1kfehei/how_to_compile_kotlin_code_at_runtime_from_java/)
-- [Mocking S3Client using Mockk](https://www.reddit.com/r/Kotlin/comments/1kfdt8f/mocking_s3client_using_mockk/)
-- [Handling Configuration Changes in Jetpack Compose Apps — A Complete Guide](https://www.reddit.com/r/Kotlin/comments/1kfckrv/handling_configuration_changes_in_jetpack_compose/)
+- [Exekutor - lightweight pipeline execution library](https://www.reddit.com/r/Kotlin/comments/1kh8dwt/exekutor_lightweight_pipeline_execution_library/)
+- [Streaming app](https://www.reddit.com/r/Kotlin/comments/1kh7t3e/streaming_app/)
+- [Streaming app](https://www.reddit.com/r/Kotlin/comments/1kh7s3h/streaming_app/)
+- [Android Developers Backstage - ​​Kotlin Multiplatform: Have your code and eat it too](https://www.reddit.com/r/Kotlin/comments/1kh3jxy/android_developers_backstage_kotlin_multiplatform/)
+- [New to coding.](https://www.reddit.com/r/Kotlin/comments/1kh1ch3/new_to_coding/)
+- [Reusable AlertDialog in Jetpack Compose with Dynamic Content and Flexible Buttons](https://www.reddit.com/r/Kotlin/comments/1kgz8pp/reusable_alertdialog_in_jetpack_compose_with/)
+- [Real-Time phone call transcription](https://www.reddit.com/r/Kotlin/comments/1kgy3ve/realtime_phone_call_transcription/)
+- [Is `InvocationKind.UNKNOWN` any different from no contract at all?](https://www.reddit.com/r/Kotlin/comments/1kgxu2f/is_invocationkindunknown_any_different_from_no/)
+- [Flutter -&gt; KMP advice](https://www.reddit.com/r/Kotlin/comments/1kgxeah/flutter_kmp_advice/)
+- [How do you name your package in kotlin when you have a .fun domain?](https://www.reddit.com/r/Kotlin/comments/1kgut21/how_do_you_name_your_package_in_kotlin_when_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
