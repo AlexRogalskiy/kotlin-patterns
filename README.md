@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Present and Future of Kotlin for Web](https://www.reddit.com/r/Kotlin/comments/1khu4wt/present_and_future_of_kotlin_for_web/)
+- [KMP Ktor Fail to prepare request body for sending on iOS](https://www.reddit.com/r/Kotlin/comments/1khtrzr/kmp_ktor_fail_to_prepare_request_body_for_sending/)
+- [Operator Overloading in Kotlin: Surely, bad practice?](https://www.reddit.com/r/Kotlin/comments/1khi175/operator_overloading_in_kotlin_surely_bad_practice/)
 - [Exekutor - lightweight pipeline execution library](https://www.reddit.com/r/Kotlin/comments/1kh8dwt/exekutor_lightweight_pipeline_execution_library/)
 - [Streaming app](https://www.reddit.com/r/Kotlin/comments/1kh7t3e/streaming_app/)
 - [Streaming app](https://www.reddit.com/r/Kotlin/comments/1kh7s3h/streaming_app/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [New to coding.](https://www.reddit.com/r/Kotlin/comments/1kh1ch3/new_to_coding/)
 - [Reusable AlertDialog in Jetpack Compose with Dynamic Content and Flexible Buttons](https://www.reddit.com/r/Kotlin/comments/1kgz8pp/reusable_alertdialog_in_jetpack_compose_with/)
 - [Real-Time phone call transcription](https://www.reddit.com/r/Kotlin/comments/1kgy3ve/realtime_phone_call_transcription/)
-- [Is `InvocationKind.UNKNOWN` any different from no contract at all?](https://www.reddit.com/r/Kotlin/comments/1kgxu2f/is_invocationkindunknown_any_different_from_no/)
-- [Flutter -&gt; KMP advice](https://www.reddit.com/r/Kotlin/comments/1kgxeah/flutter_kmp_advice/)
-- [How do you name your package in kotlin when you have a .fun domain?](https://www.reddit.com/r/Kotlin/comments/1kgut21/how_do_you_name_your_package_in_kotlin_when_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
