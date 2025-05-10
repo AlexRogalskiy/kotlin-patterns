@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What got you into learning Kotlin?](https://www.reddit.com/r/Kotlin/comments/1kitb0y/what_got_you_into_learning_kotlin/)
+- [Simplifying MCP: http4k&#39;s Updated Authentication Model - Less Code, More Power](https://www.reddit.com/r/Kotlin/comments/1kin0mk/simplifying_mcp_http4ks_updated_authentication/)
+- [I save my clickbait titles for when I’m particularly pleased with a video](https://www.reddit.com/r/Kotlin/comments/1kigt09/i_save_my_clickbait_titles_for_when_im/)
+- [Recommendation in getting started with Kotlin/Spring?](https://www.reddit.com/r/Kotlin/comments/1kiey0e/recommendation_in_getting_started_with/)
+- [Formatting Currency Based on Locale in Kotlin – Including Indian Format Support 🇮🇳](https://www.reddit.com/r/Kotlin/comments/1ki944c/formatting_currency_based_on_locale_in_kotlin/)
 - [Present and Future of Kotlin for Web](https://www.reddit.com/r/Kotlin/comments/1khu4wt/present_and_future_of_kotlin_for_web/)
 - [KMP Ktor Fail to prepare request body for sending on iOS](https://www.reddit.com/r/Kotlin/comments/1khtrzr/kmp_ktor_fail_to_prepare_request_body_for_sending/)
 - [Operator Overloading in Kotlin: Surely, bad practice?](https://www.reddit.com/r/Kotlin/comments/1khi175/operator_overloading_in_kotlin_surely_bad_practice/)
 - [Exekutor - lightweight pipeline execution library](https://www.reddit.com/r/Kotlin/comments/1kh8dwt/exekutor_lightweight_pipeline_execution_library/)
 - [Streaming app](https://www.reddit.com/r/Kotlin/comments/1kh7t3e/streaming_app/)
-- [Streaming app](https://www.reddit.com/r/Kotlin/comments/1kh7s3h/streaming_app/)
-- [Android Developers Backstage - ​​Kotlin Multiplatform: Have your code and eat it too](https://www.reddit.com/r/Kotlin/comments/1kh3jxy/android_developers_backstage_kotlin_multiplatform/)
-- [New to coding.](https://www.reddit.com/r/Kotlin/comments/1kh1ch3/new_to_coding/)
-- [Reusable AlertDialog in Jetpack Compose with Dynamic Content and Flexible Buttons](https://www.reddit.com/r/Kotlin/comments/1kgz8pp/reusable_alertdialog_in_jetpack_compose_with/)
-- [Real-Time phone call transcription](https://www.reddit.com/r/Kotlin/comments/1kgy3ve/realtime_phone_call_transcription/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
