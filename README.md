@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A reliable profanity, name-calling, slur, etc filter?](https://www.reddit.com/r/Kotlin/comments/1kku4ut/a_reliable_profanity_namecalling_slur_etc_filter/)
+- [Understanding Operator Overloading in Kotlin – With Real-World Examples](https://www.reddit.com/r/Kotlin/comments/1kkq3mr/understanding_operator_overloading_in_kotlin_with/)
+- [I built a non-boring TODO app with Kotlin](https://www.reddit.com/r/Kotlin/comments/1kkpfr9/i_built_a_nonboring_todo_app_with_kotlin/)
+- [Is this a valid tech stack for my backend? &lpar;Kotlin, Ktor, Exposed, Google Cloud, Firebase Auth, Firebase App Check&rpar;](https://www.reddit.com/r/Kotlin/comments/1kko2s7/is_this_a_valid_tech_stack_for_my_backend_kotlin/)
+- [Builder &amp; Factory patterns in Kotlin — A Walk Through Object](https://www.reddit.com/r/Kotlin/comments/1kknl91/builder_factory_patterns_in_kotlin_a_walk_through/)
 - [Android question that can shake your confidence](https://www.reddit.com/r/Kotlin/comments/1kk7wkr/android_question_that_can_shake_your_confidence/)
 - [Kotlin documentation on operator precedence is not comprehensive comparing to Java resources. I think it&#39;s serious gap for interoperable languages](https://www.reddit.com/r/Kotlin/comments/1kk3rgm/kotlin_documentation_on_operator_precedence_is/)
 - [Minimal android launcher made with Jetpack Compose and kotlin](https://www.reddit.com/r/Kotlin/comments/1kk28u6/minimal_android_launcher_made_with_jetpack/)
 - [WebAssembly Blank Page issue After Library Updates in Compose Multiplatform Project](https://www.reddit.com/r/Kotlin/comments/1kjykjb/webassembly_blank_page_issue_after_library/)
 - [[UPDATE] Compose for Desktop Wizard - Now with Hot Reload, Live Preview, and More Dependencies](https://www.reddit.com/r/Kotlin/comments/1kjxvuw/update_compose_for_desktop_wizard_now_with_hot/)
-- [Kotlin Multiplatform Camera App](https://www.reddit.com/r/Kotlin/comments/1kjfadl/kotlin_multiplatform_camera_app/)
-- [🚀Release nirmato-ollama 0.1.1!](https://www.reddit.com/r/Kotlin/comments/1kjbkxu/release_nirmatoollama_011/)
-- [Made a simple Compose for Desktop Wizard](https://www.reddit.com/r/Kotlin/comments/1kjas7t/made_a_simple_compose_for_desktop_wizard/)
-- [Does Compose Multiplatform for Web Rendered in Canvas?](https://www.reddit.com/r/Kotlin/comments/1kjan1q/does_compose_multiplatform_for_web_rendered_in/)
-- [KMP compose-navigation not resolving for IOS, though should be supported?](https://www.reddit.com/r/Kotlin/comments/1kj5ryh/kmp_composenavigation_not_resolving_for_ios/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
