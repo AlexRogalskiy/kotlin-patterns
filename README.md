@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A reliable profanity, name-calling, slur, etc filter?](https://www.reddit.com/r/Kotlin/comments/1kku4ut/a_reliable_profanity_namecalling_slur_etc_filter/)
-- [Understanding Operator Overloading in Kotlin – With Real-World Examples](https://www.reddit.com/r/Kotlin/comments/1kkq3mr/understanding_operator_overloading_in_kotlin_with/)
-- [I built a non-boring TODO app with Kotlin](https://www.reddit.com/r/Kotlin/comments/1kkpfr9/i_built_a_nonboring_todo_app_with_kotlin/)
-- [Is this a valid tech stack for my backend? &lpar;Kotlin, Ktor, Exposed, Google Cloud, Firebase Auth, Firebase App Check&rpar;](https://www.reddit.com/r/Kotlin/comments/1kko2s7/is_this_a_valid_tech_stack_for_my_backend_kotlin/)
-- [Builder &amp; Factory patterns in Kotlin — A Walk Through Object](https://www.reddit.com/r/Kotlin/comments/1kknl91/builder_factory_patterns_in_kotlin_a_walk_through/)
-- [Android question that can shake your confidence](https://www.reddit.com/r/Kotlin/comments/1kk7wkr/android_question_that_can_shake_your_confidence/)
-- [Kotlin documentation on operator precedence is not comprehensive comparing to Java resources. I think it&#39;s serious gap for interoperable languages](https://www.reddit.com/r/Kotlin/comments/1kk3rgm/kotlin_documentation_on_operator_precedence_is/)
-- [Minimal android launcher made with Jetpack Compose and kotlin](https://www.reddit.com/r/Kotlin/comments/1kk28u6/minimal_android_launcher_made_with_jetpack/)
-- [WebAssembly Blank Page issue After Library Updates in Compose Multiplatform Project](https://www.reddit.com/r/Kotlin/comments/1kjykjb/webassembly_blank_page_issue_after_library/)
-- [[UPDATE] Compose for Desktop Wizard - Now with Hot Reload, Live Preview, and More Dependencies](https://www.reddit.com/r/Kotlin/comments/1kjxvuw/update_compose_for_desktop_wizard_now_with_hot/)
+- [Eliminating Array Bounds Checks](https://www.reddit.com/r/Kotlin/comments/1klyj2q/eliminating_array_bounds_checks/)
+- [Will Kotlin ACTUALLY replace Java for backend dev or will it only excel in Android?](https://www.reddit.com/r/Kotlin/comments/1klqduw/will_kotlin_actually_replace_java_for_backend_dev/)
+- [Ai dev tools](https://www.reddit.com/r/Kotlin/comments/1klpufd/ai_dev_tools/)
+- [Tutorial Kotlin Serial Number Scanner](https://www.reddit.com/r/Kotlin/comments/1klo0ag/tutorial_kotlin_serial_number_scanner/)
+- [Correct backend framework for Android projects](https://www.reddit.com/r/Kotlin/comments/1klmfbr/correct_backend_framework_for_android_projects/)
+- [60 hour free Android &amp; Kotlin Development Masterclass on YouTube for anyone that might find it useful](https://www.reddit.com/r/Kotlin/comments/1klk4r6/60_hour_free_android_kotlin_development/)
+- [Videos of Kotlinconf 25?](https://www.reddit.com/r/Kotlin/comments/1kleruw/videos_of_kotlinconf_25/)
+- [Is Kotlin the language for all platforms? &lpar;with James Ward of Google&rpar;](https://www.reddit.com/r/Kotlin/comments/1kle92r/is_kotlin_the_language_for_all_platforms_with/)
+- [Write Once, Run Anywhere](https://www.reddit.com/r/Kotlin/comments/1kle1z2/write_once_run_anywhere/)
+- [Why can&#39;t default implementations of interface methods be used &lpar;without an explicit call&rpar; outside of Kotlin?](https://www.reddit.com/r/Kotlin/comments/1klbdgv/why_cant_default_implementations_of_interface/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
