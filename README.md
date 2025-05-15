@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Eliminating Array Bounds Checks](https://www.reddit.com/r/Kotlin/comments/1klyj2q/eliminating_array_bounds_checks/)
-- [Will Kotlin ACTUALLY replace Java for backend dev or will it only excel in Android?](https://www.reddit.com/r/Kotlin/comments/1klqduw/will_kotlin_actually_replace_java_for_backend_dev/)
-- [Ai dev tools](https://www.reddit.com/r/Kotlin/comments/1klpufd/ai_dev_tools/)
-- [Tutorial Kotlin Serial Number Scanner](https://www.reddit.com/r/Kotlin/comments/1klo0ag/tutorial_kotlin_serial_number_scanner/)
-- [Correct backend framework for Android projects](https://www.reddit.com/r/Kotlin/comments/1klmfbr/correct_backend_framework_for_android_projects/)
-- [60 hour free Android &amp; Kotlin Development Masterclass on YouTube for anyone that might find it useful](https://www.reddit.com/r/Kotlin/comments/1klk4r6/60_hour_free_android_kotlin_development/)
-- [Videos of Kotlinconf 25?](https://www.reddit.com/r/Kotlin/comments/1kleruw/videos_of_kotlinconf_25/)
-- [Is Kotlin the language for all platforms? &lpar;with James Ward of Google&rpar;](https://www.reddit.com/r/Kotlin/comments/1kle92r/is_kotlin_the_language_for_all_platforms_with/)
-- [Write Once, Run Anywhere](https://www.reddit.com/r/Kotlin/comments/1kle1z2/write_once_run_anywhere/)
-- [Why can&#39;t default implementations of interface methods be used &lpar;without an explicit call&rpar; outside of Kotlin?](https://www.reddit.com/r/Kotlin/comments/1klbdgv/why_cant_default_implementations_of_interface/)
+- [Stacktrace Decoroutinator 2.5.0 with improved Android support](https://www.reddit.com/r/Kotlin/comments/1kmw9wn/stacktrace_decoroutinator_250_with_improved/)
+- [OpenAI&#39;s o3 model smashes the Kotlin-bench eval](https://www.reddit.com/r/Kotlin/comments/1kmsino/openais_o3_model_smashes_the_kotlinbench_eval/)
+- [Half rant ...](https://www.reddit.com/r/Kotlin/comments/1kms2if/half_rant/)
+- [Where to inject dependencies?](https://www.reddit.com/r/Kotlin/comments/1kmo1si/where_to_inject_dependencies/)
+- [Watch KotlinConf 2025 live!](https://www.reddit.com/r/Kotlin/comments/1kmn369/watch_kotlinconf_2025_live/)
+- [Dev build of new KMP plugin for IntelliJ IDEA and Android Studio available now!](https://www.reddit.com/r/Kotlin/comments/1kmkacq/dev_build_of_new_kmp_plugin_for_intellij_idea_and/)
+- [Kotlin Notebooks - CMP iOS Stable - TypeAlias Show #7](https://www.reddit.com/r/Kotlin/comments/1kmhdg9/kotlin_notebooks_cmp_ios_stable_typealias_show_7/)
+- [Safer - Kotlin Compiler Plugin](https://www.reddit.com/r/Kotlin/comments/1kmd5sc/safer_kotlin_compiler_plugin/)
+- [Kodee’s Kotlin Roundup: Compose Multiplatform for iOS is Stable &lpar;Plus AI, Web, and More&rpar;](https://www.reddit.com/r/Kotlin/comments/1km8myt/kodees_kotlin_roundup_compose_multiplatform_for/)
+- [Am I the only one who thinks that &quot;coroutines&quot; is a missed opportunity to call it &quot;koroutines&quot;?](https://www.reddit.com/r/Kotlin/comments/1km8lq4/am_i_the_only_one_who_thinks_that_coroutines_is_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
