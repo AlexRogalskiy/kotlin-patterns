@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Merge Your Computations](https://www.reddit.com/r/Kotlin/comments/1knpsfn/merge_your_computations/)
+- [Selling KotlinConf 2025 Ticket – €105 – One Week Left!](https://www.reddit.com/r/Kotlin/comments/1knpggw/selling_kotlinconf_2025_ticket_105_one_week_left/)
+- [How Bitkey Uses Cross-Platform Development](https://www.reddit.com/r/Kotlin/comments/1knhsou/how_bitkey_uses_crossplatform_development/)
+- [Mastering return in Kotlin: From when, if, Lambdas, to Nothing – A Complete Guide for Developers](https://www.reddit.com/r/Kotlin/comments/1knab4c/mastering_return_in_kotlin_from_when_if_lambdas/)
+- [Kotlin Course](https://www.reddit.com/r/Kotlin/comments/1kn8v4q/kotlin_course/)
+- [Kotlin Multiplatform App - Mine GPT](https://www.reddit.com/r/Kotlin/comments/1kn3cpz/kotlin_multiplatform_app_mine_gpt/)
+- [Gradle, Google, and JetBrains have teamed up to establish Gradle best practices](https://www.reddit.com/r/Kotlin/comments/1kn38z9/gradle_google_and_jetbrains_have_teamed_up_to/)
 - [Stacktrace Decoroutinator 2.5.0 with improved Android support](https://www.reddit.com/r/Kotlin/comments/1kmw9wn/stacktrace_decoroutinator_250_with_improved/)
 - [OpenAI&#39;s o3 model smashes the Kotlin-bench eval](https://www.reddit.com/r/Kotlin/comments/1kmsino/openais_o3_model_smashes_the_kotlinbench_eval/)
 - [Half rant ...](https://www.reddit.com/r/Kotlin/comments/1kms2if/half_rant/)
-- [Where to inject dependencies?](https://www.reddit.com/r/Kotlin/comments/1kmo1si/where_to_inject_dependencies/)
-- [Watch KotlinConf 2025 live!](https://www.reddit.com/r/Kotlin/comments/1kmn369/watch_kotlinconf_2025_live/)
-- [Dev build of new KMP plugin for IntelliJ IDEA and Android Studio available now!](https://www.reddit.com/r/Kotlin/comments/1kmkacq/dev_build_of_new_kmp_plugin_for_intellij_idea_and/)
-- [Kotlin Notebooks - CMP iOS Stable - TypeAlias Show #7](https://www.reddit.com/r/Kotlin/comments/1kmhdg9/kotlin_notebooks_cmp_ios_stable_typealias_show_7/)
-- [Safer - Kotlin Compiler Plugin](https://www.reddit.com/r/Kotlin/comments/1kmd5sc/safer_kotlin_compiler_plugin/)
-- [Kodee’s Kotlin Roundup: Compose Multiplatform for iOS is Stable &lpar;Plus AI, Web, and More&rpar;](https://www.reddit.com/r/Kotlin/comments/1km8myt/kodees_kotlin_roundup_compose_multiplatform_for/)
-- [Am I the only one who thinks that &quot;coroutines&quot; is a missed opportunity to call it &quot;koroutines&quot;?](https://www.reddit.com/r/Kotlin/comments/1km8lq4/am_i_the_only_one_who_thinks_that_coroutines_is_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
