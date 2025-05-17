@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Backend Beginner Here! Need Project Ideas that will Teach me all the fundamentals!](https://www.reddit.com/r/Kotlin/comments/1kodab7/kotlin_backend_beginner_here_need_project_ideas/)
+- [Exposed 1.0 beta-1 is here!](https://www.reddit.com/r/Kotlin/comments/1ko8irx/exposed_10_beta1_is_here/)
+- [fun vs interface vs fun interface - Kotlin Polymorphism](https://www.reddit.com/r/Kotlin/comments/1ko20x5/fun_vs_interface_vs_fun_interface_kotlin/)
+- [Comparaison SwiftUi/Kotlin](https://www.reddit.com/r/Kotlin/comments/1knwkw6/comparaison_swiftuikotlin/)
+- [Retrosheet just got easier with a new web wizard](https://www.reddit.com/r/Kotlin/comments/1knvlc0/retrosheet_just_got_easier_with_a_new_web_wizard/)
+- [Is it okay to start developing Android Apps using Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/1knubqx/is_it_okay_to_start_developing_android_apps_using/)
+- [Building a SQL-like DSL in Kotlin — any better tricks?](https://www.reddit.com/r/Kotlin/comments/1knrtka/building_a_sqllike_dsl_in_kotlin_any_better_tricks/)
 - [Merge Your Computations](https://www.reddit.com/r/Kotlin/comments/1knpsfn/merge_your_computations/)
 - [Selling KotlinConf 2025 Ticket – €105 – One Week Left!](https://www.reddit.com/r/Kotlin/comments/1knpggw/selling_kotlinconf_2025_ticket_105_one_week_left/)
 - [How Bitkey Uses Cross-Platform Development](https://www.reddit.com/r/Kotlin/comments/1knhsou/how_bitkey_uses_crossplatform_development/)
-- [Mastering return in Kotlin: From when, if, Lambdas, to Nothing – A Complete Guide for Developers](https://www.reddit.com/r/Kotlin/comments/1knab4c/mastering_return_in_kotlin_from_when_if_lambdas/)
-- [Kotlin Course](https://www.reddit.com/r/Kotlin/comments/1kn8v4q/kotlin_course/)
-- [Kotlin Multiplatform App - Mine GPT](https://www.reddit.com/r/Kotlin/comments/1kn3cpz/kotlin_multiplatform_app_mine_gpt/)
-- [Gradle, Google, and JetBrains have teamed up to establish Gradle best practices](https://www.reddit.com/r/Kotlin/comments/1kn38z9/gradle_google_and_jetbrains_have_teamed_up_to/)
-- [Stacktrace Decoroutinator 2.5.0 with improved Android support](https://www.reddit.com/r/Kotlin/comments/1kmw9wn/stacktrace_decoroutinator_250_with_improved/)
-- [OpenAI&#39;s o3 model smashes the Kotlin-bench eval](https://www.reddit.com/r/Kotlin/comments/1kmsino/openais_o3_model_smashes_the_kotlinbench_eval/)
-- [Half rant ...](https://www.reddit.com/r/Kotlin/comments/1kms2if/half_rant/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
