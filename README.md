@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This Video Says React Native Is Winning and Native Mobile Development Is Dead. What Do You Guys Think?](https://www.reddit.com/r/Kotlin/comments/1kpv3iz/this_video_says_react_native_is_winning_and/)
+- [KalendarKit, my first Compose Multiplatform library ✨](https://www.reddit.com/r/Kotlin/comments/1kpu13i/kalendarkit_my_first_compose_multiplatform_library/)
+- [Which framework to choose for small pet project?](https://www.reddit.com/r/Kotlin/comments/1kpth4a/which_framework_to_choose_for_small_pet_project/)
+- [[NEW LIBRARY] Deskit 1.2.0 - Material 3 styled dialog components for Compose Desktop](https://www.reddit.com/r/Kotlin/comments/1kppd28/new_library_deskit_120_material_3_styled_dialog/)
 - [Religion of the creator of Kotlin, Andrey Breslav?](https://www.reddit.com/r/Kotlin/comments/1kp0t9t/religion_of_the_creator_of_kotlin_andrey_breslav/)
 - [Help with compose multiplatform project](https://www.reddit.com/r/Kotlin/comments/1koz1bg/help_with_compose_multiplatform_project/)
 - [Why there is no &quot;Native Compose Multiplatform UI for Desktop&quot;?](https://www.reddit.com/r/Kotlin/comments/1kowyu0/why_there_is_no_native_compose_multiplatform_ui/)
 - [What’s your go to backend framework?](https://www.reddit.com/r/Kotlin/comments/1kopwc4/whats_your_go_to_backend_framework/)
 - [Jetpack Compose: State](https://www.reddit.com/r/Kotlin/comments/1koja9a/jetpack_compose_state/)
 - [What&#39;s new in Kotlin on Android, 2 years in &lpar;Google I/O&#39;19&rpar;](https://www.reddit.com/r/Kotlin/comments/1koit6y/whats_new_in_kotlin_on_android_2_years_in_google/)
-- [Kotlin Backend Beginner Here! Need Project Ideas that will Teach me all the fundamentals!](https://www.reddit.com/r/Kotlin/comments/1kodab7/kotlin_backend_beginner_here_need_project_ideas/)
-- [Exposed 1.0 beta-1 is here!](https://www.reddit.com/r/Kotlin/comments/1ko8irx/exposed_10_beta1_is_here/)
-- [fun vs interface vs fun interface - Kotlin Polymorphism](https://www.reddit.com/r/Kotlin/comments/1ko20x5/fun_vs_interface_vs_fun_interface_kotlin/)
-- [Comparaison SwiftUi/Kotlin](https://www.reddit.com/r/Kotlin/comments/1knwkw6/comparaison_swiftuikotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
