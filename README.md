@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose Hot Reload | Kotlin Multiplatform Development Documentation](https://www.reddit.com/r/Kotlin/comments/1krdkp3/compose_hot_reload_kotlin_multiplatform/)
+- [Kotlin seem to accept null for List&lt;any non nullable datatype&gt; when the request is from API endpoint](https://www.reddit.com/r/Kotlin/comments/1krcftr/kotlin_seem_to_accept_null_for_listany_non/)
+- [Endles Coverflow or something like this?](https://www.reddit.com/r/Kotlin/comments/1krappo/endles_coverflow_or_something_like_this/)
+- [Similarity search in Kotlin &amp; Spring AI](https://www.reddit.com/r/Kotlin/comments/1kraf3u/similarity_search_in_kotlin_spring_ai/)
+- [Kotlin and Azul: Collaboration for Enhanced Runtime Performance](https://www.reddit.com/r/Kotlin/comments/1kr6b67/kotlin_and_azul_collaboration_for_enhanced/)
+- [Firebase gmail authentification not working](https://www.reddit.com/r/Kotlin/comments/1kr5cz8/firebase_gmail_authentification_not_working/)
+- [Need custom help with Navigation in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1kr2wdx/need_custom_help_with_navigation_in_jetpack/)
+- [CoroutineScope Best Practices in Android: ViewModel, Activity, and Beyond](https://www.reddit.com/r/Kotlin/comments/1kr09t5/coroutinescope_best_practices_in_android/)
+- [New Kotlin Multiplatform Plugin: Now in IntelliJ IDEA and Android Studio](https://www.reddit.com/r/Kotlin/comments/1kqwrjm/new_kotlin_multiplatform_plugin_now_in_intellij/)
 - [Kafka Clients with JSON - Producing and Consuming Order Events](https://www.reddit.com/r/Kotlin/comments/1kqmvse/kafka_clients_with_json_producing_and_consuming/)
-- [New KMP Plugin &amp; Tooling Now in IntelliJ IDEA &amp; Android Studio](https://www.reddit.com/r/Kotlin/comments/1kqkokb/new_kmp_plugin_tooling_now_in_intellij_idea/)
-- [Configure your keyboard with Kotlin &amp; Karabiner](https://www.reddit.com/r/Kotlin/comments/1kqhc6b/configure_your_keyboard_with_kotlin_karabiner/)
-- [Gradle: Eagerly Get Dependencies](https://www.reddit.com/r/Kotlin/comments/1kqb6ys/gradle_eagerly_get_dependencies/)
-- [This Video Says React Native Is Winning and Native Mobile Development Is Dead. What Do You Guys Think?](https://www.reddit.com/r/Kotlin/comments/1kpv3iz/this_video_says_react_native_is_winning_and/)
-- [KalendarKit, my first Compose Multiplatform library ✨](https://www.reddit.com/r/Kotlin/comments/1kpu13i/kalendarkit_my_first_compose_multiplatform_library/)
-- [Which framework to choose for small pet project?](https://www.reddit.com/r/Kotlin/comments/1kpth4a/which_framework_to_choose_for_small_pet_project/)
-- [[NEW LIBRARY] Deskit 1.2.0 - Material 3 styled dialog components for Compose Desktop](https://www.reddit.com/r/Kotlin/comments/1kppd28/new_library_deskit_120_material_3_styled_dialog/)
-- [Religion of the creator of Kotlin, Andrey Breslav?](https://www.reddit.com/r/Kotlin/comments/1kp0t9t/religion_of_the_creator_of_kotlin_andrey_breslav/)
-- [Help with compose multiplatform project](https://www.reddit.com/r/Kotlin/comments/1koz1bg/help_with_compose_multiplatform_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
