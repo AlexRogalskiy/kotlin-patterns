@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Emojis and JTable in Kotlin](https://www.reddit.com/r/Kotlin/comments/1ksdrbw/emojis_and_jtable_in_kotlin/)
+- [GitHub - Kotlin/kotlin-lsp: Kotlin Language Server and plugin for Visual Studio Code](https://www.reddit.com/r/Kotlin/comments/1ksc13u/github_kotlinkotlinlsp_kotlin_language_server_and/)
+- [Amper Update – A Standalone Build Tool for Kotlin, Server-Side and Multiplatform](https://www.reddit.com/r/Kotlin/comments/1ks5ggw/amper_update_a_standalone_build_tool_for_kotlin/)
+- [Amper Update, May 2025 – A Standalone Build Tool for Kotlin, Server-Side and Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1ks30mg/amper_update_may_2025_a_standalone_build_tool_for/)
+- [[Library] UIText Compose - Build locale-aware plain or styled string resource blueprints](https://www.reddit.com/r/Kotlin/comments/1krskq7/library_uitext_compose_build_localeaware_plain_or/)
+- [Anyone who did vsomeip in android](https://www.reddit.com/r/Kotlin/comments/1krqzql/anyone_who_did_vsomeip_in_android/)
 - [Compose Hot Reload | Kotlin Multiplatform Development Documentation](https://www.reddit.com/r/Kotlin/comments/1krdkp3/compose_hot_reload_kotlin_multiplatform/)
 - [Kotlin seem to accept null for List&lt;any non nullable datatype&gt; when the request is from API endpoint](https://www.reddit.com/r/Kotlin/comments/1krcftr/kotlin_seem_to_accept_null_for_listany_non/)
 - [Endles Coverflow or something like this?](https://www.reddit.com/r/Kotlin/comments/1krappo/endles_coverflow_or_something_like_this/)
 - [Similarity search in Kotlin &amp; Spring AI](https://www.reddit.com/r/Kotlin/comments/1kraf3u/similarity_search_in_kotlin_spring_ai/)
-- [Kotlin and Azul: Collaboration for Enhanced Runtime Performance](https://www.reddit.com/r/Kotlin/comments/1kr6b67/kotlin_and_azul_collaboration_for_enhanced/)
-- [Firebase gmail authentification not working](https://www.reddit.com/r/Kotlin/comments/1kr5cz8/firebase_gmail_authentification_not_working/)
-- [Need custom help with Navigation in Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1kr2wdx/need_custom_help_with_navigation_in_jetpack/)
-- [CoroutineScope Best Practices in Android: ViewModel, Activity, and Beyond](https://www.reddit.com/r/Kotlin/comments/1kr09t5/coroutinescope_best_practices_in_android/)
-- [New Kotlin Multiplatform Plugin: Now in IntelliJ IDEA and Android Studio](https://www.reddit.com/r/Kotlin/comments/1kqwrjm/new_kotlin_multiplatform_plugin_now_in_intellij/)
-- [Kafka Clients with JSON - Producing and Consuming Order Events](https://www.reddit.com/r/Kotlin/comments/1kqmvse/kafka_clients_with_json_producing_and_consuming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
