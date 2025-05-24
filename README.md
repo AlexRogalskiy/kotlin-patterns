@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where is Kotlin going?](https://www.reddit.com/r/Kotlin/comments/1kszkao/where_is_kotlin_going/)
-- [Kotlinc compile time too slow](https://www.reddit.com/r/Kotlin/comments/1ksz1a3/kotlinc_compile_time_too_slow/)
-- [&quot;Show me a hotter dev than one with &#39;Kotlin Forever&#39; on his chest.&quot;](https://www.reddit.com/r/Kotlin/comments/1ksxr8a/show_me_a_hotter_dev_than_one_with_kotlin_forever/)
-- [[Updated] Compose for Desktop Wizard: Fixed Linux Desktop Integration Issue](https://www.reddit.com/r/Kotlin/comments/1ksxjf5/updated_compose_for_desktop_wizard_fixed_linux/)
-- [Your thoughts on Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1ksw5oo/your_thoughts_on_kotlin_multiplatform/)
-- [How to Access Low Level Hardware&lpar;Camera, Bluetooth, Flash, Location etc.&rpar; in Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1ksv4uh/how_to_access_low_level_hardwarecamera_bluetooth/)
-- [Best provider to host backend API](https://www.reddit.com/r/Kotlin/comments/1kso7t5/best_provider_to_host_backend_api/)
-- [Creating Gradients in Jetpack Compose &lpar;No More XML Drawables!&rpar;](https://www.reddit.com/r/Kotlin/comments/1kslgaz/creating_gradients_in_jetpack_compose_no_more_xml/)
-- [Get ready! The KotlinConf 2025 keynote livestream is starting soon!](https://www.reddit.com/r/Kotlin/comments/1ksjh9d/get_ready_the_kotlinconf_2025_keynote_livestream/)
-- [Emojis and JTable in Kotlin](https://www.reddit.com/r/Kotlin/comments/1ksdrbw/emojis_and_jtable_in_kotlin/)
+- [Demystify KMP builds and structure](https://www.reddit.com/r/Kotlin/comments/1ktugmi/demystify_kmp_builds_and_structure/)
+- [Added a bg music + a purple cursor as the final touches.](https://www.reddit.com/r/Kotlin/comments/1ktu52o/added_a_bg_music_a_purple_cursor_as_the_final/)
+- [Claude 4 Sonnet is the best model for Kotlin development &lpar;per Kotlin-bench&rpar;](https://www.reddit.com/r/Kotlin/comments/1kttuyo/claude_4_sonnet_is_the_best_model_for_kotlin/)
+- [I wasn&#39;t at KotlinConf. So I cooked up a little something instead.](https://www.reddit.com/r/Kotlin/comments/1ktlpfz/i_wasnt_at_kotlinconf_so_i_cooked_up_a_little/)
+- [A new tool to generate update dependency reports for Gradle projects](https://www.reddit.com/r/Kotlin/comments/1ktjk7q/a_new_tool_to_generate_update_dependency_reports/)
+- [What are the best practices on handling errors in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ktj50f/what_are_the_best_practices_on_handling_errors_in/)
+- [Adding a resource file to a Kotlin script?](https://www.reddit.com/r/Kotlin/comments/1ktj37p/adding_a_resource_file_to_a_kotlin_script/)
+- [Quarkus MCP Server works with Kotlin](https://www.reddit.com/r/Kotlin/comments/1ktghbc/quarkus_mcp_server_works_with_kotlin/)
+- [Questions about the Kotlin ecosystem? Ask during KotlinConf — wherever you are!](https://www.reddit.com/r/Kotlin/comments/1kte4d6/questions_about_the_kotlin_ecosystem_ask_during/)
+- [Going all in on Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1ktd4tf/going_all_in_on_compose_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
