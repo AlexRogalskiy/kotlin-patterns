@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Demystify KMP builds and structure](https://www.reddit.com/r/Kotlin/comments/1ktugmi/demystify_kmp_builds_and_structure/)
-- [Added a bg music + a purple cursor as the final touches.](https://www.reddit.com/r/Kotlin/comments/1ktu52o/added_a_bg_music_a_purple_cursor_as_the_final/)
-- [Claude 4 Sonnet is the best model for Kotlin development &lpar;per Kotlin-bench&rpar;](https://www.reddit.com/r/Kotlin/comments/1kttuyo/claude_4_sonnet_is_the_best_model_for_kotlin/)
-- [I wasn&#39;t at KotlinConf. So I cooked up a little something instead.](https://www.reddit.com/r/Kotlin/comments/1ktlpfz/i_wasnt_at_kotlinconf_so_i_cooked_up_a_little/)
-- [A new tool to generate update dependency reports for Gradle projects](https://www.reddit.com/r/Kotlin/comments/1ktjk7q/a_new_tool_to_generate_update_dependency_reports/)
-- [What are the best practices on handling errors in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ktj50f/what_are_the_best_practices_on_handling_errors_in/)
-- [Adding a resource file to a Kotlin script?](https://www.reddit.com/r/Kotlin/comments/1ktj37p/adding_a_resource_file_to_a_kotlin_script/)
-- [Quarkus MCP Server works with Kotlin](https://www.reddit.com/r/Kotlin/comments/1ktghbc/quarkus_mcp_server_works_with_kotlin/)
-- [Questions about the Kotlin ecosystem? Ask during KotlinConf — wherever you are!](https://www.reddit.com/r/Kotlin/comments/1kte4d6/questions_about_the_kotlin_ecosystem_ask_during/)
-- [Going all in on Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1ktd4tf/going_all_in_on_compose_multiplatform/)
+- [Junie is a gamechanger](https://www.reddit.com/r/Kotlin/comments/1kuq6n4/junie_is_a_gamechanger/)
+- [Kotlin and flutter](https://www.reddit.com/r/Kotlin/comments/1kuo3a0/kotlin_and_flutter/)
+- [Anyone Program On Windows 11 Arm with Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1kun7dn/anyone_program_on_windows_11_arm_with_compose/)
+- [book opinion](https://www.reddit.com/r/Kotlin/comments/1kuhf6v/book_opinion/)
+- [I&#39;m building a plugin that allows Swift -&gt; Kotlin Interops Regardless of @objc annotation](https://www.reddit.com/r/Kotlin/comments/1kue2yj/im_building_a_plugin_that_allows_swift_kotlin/)
+- [New Kotlin Multiplatform not available for Windows and Linux](https://www.reddit.com/r/Kotlin/comments/1kuc6nf/new_kotlin_multiplatform_not_available_for/)
+- [Garbage Collector overhead](https://www.reddit.com/r/Kotlin/comments/1ku84p8/garbage_collector_overhead/)
+- [Opinionated wrap-up of 2025&#39;s Devoxx UK, Geecon, and KotlinConf](https://www.reddit.com/r/Kotlin/comments/1ku6s0c/opinionated_wrapup_of_2025s_devoxx_uk_geecon_and/)
+- [Native dependency in KMP project](https://www.reddit.com/r/Kotlin/comments/1ku6mjf/native_dependency_in_kmp_project/)
+- [I can’t deal with my sisters cats anymore&lpar;she has 4&rpar;. They get litter everywhere, I can’t walk in our hallway without getting fleas on me, and they scratch my door at night. But she wants me to take care of them when she’s in collage and refuses to put them outside, idk what to do anymore](https://www.reddit.com/r/Kotlin/comments/1ku3d2v/i_cant_deal_with_my_sisters_cats_anymoreshe_has_4/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
