@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why learn Kotlin for someone outside of jvm world?](https://www.reddit.com/r/Kotlin/comments/1kvbunz/why_learn_kotlin_for_someone_outside_of_jvm_world/)
+- [Remember the charm of pixel art games? 🕹️ I&#39;ve brought that vibe to a weather app, and it&#39;s got an ML brain! 🧠🌦️](https://www.reddit.com/r/Kotlin/comments/1kv9g0q/remember_the_charm_of_pixel_art_games_ive_brought/)
+- [I know programming and have been studying for 2 years—logic, data structures &lpar;HTML, CSS, JavaScript&rpar;. I started with React and now Node, but sometimes I feel there are things I don’t understand, like coroutines, compiling to smaller binaries, etc. My question is, would it be good to learn other thin](https://www.reddit.com/r/Kotlin/comments/1kuywg0/i_know_programming_and_have_been_studying_for_2/)
+- [Created a Fully Customizable Toolbar in Jetpack Compose – Dynamic Colors, Icon Toggles, Centered Titles &amp; More](https://www.reddit.com/r/Kotlin/comments/1kuxg72/created_a_fully_customizable_toolbar_in_jetpack/)
+- [Kotlin Clean Architecture for Serverless - My KotlinConf Talk Write-Up](https://www.reddit.com/r/Kotlin/comments/1kuv7c7/kotlin_clean_architecture_for_serverless_my/)
 - [Junie is a gamechanger](https://www.reddit.com/r/Kotlin/comments/1kuq6n4/junie_is_a_gamechanger/)
 - [Kotlin and flutter](https://www.reddit.com/r/Kotlin/comments/1kuo3a0/kotlin_and_flutter/)
 - [Anyone Program On Windows 11 Arm with Compose Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1kun7dn/anyone_program_on_windows_11_arm_with_compose/)
 - [book opinion](https://www.reddit.com/r/Kotlin/comments/1kuhf6v/book_opinion/)
 - [I&#39;m building a plugin that allows Swift -&gt; Kotlin Interops Regardless of @objc annotation](https://www.reddit.com/r/Kotlin/comments/1kue2yj/im_building_a_plugin_that_allows_swift_kotlin/)
-- [New Kotlin Multiplatform not available for Windows and Linux](https://www.reddit.com/r/Kotlin/comments/1kuc6nf/new_kotlin_multiplatform_not_available_for/)
-- [Garbage Collector overhead](https://www.reddit.com/r/Kotlin/comments/1ku84p8/garbage_collector_overhead/)
-- [Opinionated wrap-up of 2025&#39;s Devoxx UK, Geecon, and KotlinConf](https://www.reddit.com/r/Kotlin/comments/1ku6s0c/opinionated_wrapup_of_2025s_devoxx_uk_geecon_and/)
-- [Native dependency in KMP project](https://www.reddit.com/r/Kotlin/comments/1ku6mjf/native_dependency_in_kmp_project/)
-- [I can’t deal with my sisters cats anymore&lpar;she has 4&rpar;. They get litter everywhere, I can’t walk in our hallway without getting fleas on me, and they scratch my door at night. But she wants me to take care of them when she’s in collage and refuses to put them outside, idk what to do anymore](https://www.reddit.com/r/Kotlin/comments/1ku3d2v/i_cant_deal_with_my_sisters_cats_anymoreshe_has_4/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
