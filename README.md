@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP library wizard](https://www.reddit.com/r/Kotlin/comments/1kx112d/kmp_library_wizard/)
+- [Need a hand with ktlint](https://www.reddit.com/r/Kotlin/comments/1kwrmvd/need_a_hand_with_ktlint/)
+- [Ktjni - Gradle plugin for generating JNI headers](https://www.reddit.com/r/Kotlin/comments/1kwqy65/ktjni_gradle_plugin_for_generating_jni_headers/)
+- [Tried the new Kotlin Multiplatform plugin? Tell us about your experience in our survey](https://www.reddit.com/r/Kotlin/comments/1kwnblr/tried_the_new_kotlin_multiplatform_plugin_tell_us/)
+- [Creating my first CMP KMP app!](https://www.reddit.com/r/Kotlin/comments/1kwmlim/creating_my_first_cmp_kmp_app/)
+- [Apache Fury serialization framework 0.10.3 released](https://www.reddit.com/r/Kotlin/comments/1kwgk6t/apache_fury_serialization_framework_0103_released/)
+- [React Natives vs KMP](https://www.reddit.com/r/Kotlin/comments/1kwdquf/react_natives_vs_kmp/)
 - [🚀 Thrilled to continue my series, &quot;Getting Started with Real-Time Streaming in Kotlin&quot;!](https://www.reddit.com/r/Kotlin/comments/1kw45vb/thrilled_to_continue_my_series_getting_started/)
 - [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1kw41l6/compose_multiplatform_wizard/)
-- [Is KMP really worth it ?](https://www.reddit.com/r/Kotlin/comments/1kvw8wj/is_kmp_really_worth_it/)
 - [Kotlin Notebook debugging application in breakpoint](https://www.reddit.com/r/Kotlin/comments/1kvv9p6/kotlin_notebook_debugging_application_in/)
-- [Where can I find all the kotlinconf 2025 videos ?](https://www.reddit.com/r/Kotlin/comments/1kvuv4o/where_can_i_find_all_the_kotlinconf_2025_videos/)
-- [Docs for compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1kvtzur/docs_for_compose_multiplatform/)
-- [Why learn Kotlin for someone outside of jvm world?](https://www.reddit.com/r/Kotlin/comments/1kvbunz/why_learn_kotlin_for_someone_outside_of_jvm_world/)
-- [Remember the charm of pixel art games? 🕹️ I&#39;ve brought that vibe to a weather app, and it&#39;s got an ML brain! 🧠🌦️](https://www.reddit.com/r/Kotlin/comments/1kv9g0q/remember_the_charm_of_pixel_art_games_ive_brought/)
-- [I know programming and have been studying for 2 years—logic, data structures &lpar;HTML, CSS, JavaScript&rpar;. I started with React and now Node, but sometimes I feel there are things I don’t understand, like coroutines, compiling to smaller binaries, etc. My question is, would it be good to learn other thin](https://www.reddit.com/r/Kotlin/comments/1kuywg0/i_know_programming_and_have_been_studying_for_2/)
-- [Created a Fully Customizable Toolbar in Jetpack Compose – Dynamic Colors, Icon Toggles, Centered Titles &amp; More](https://www.reddit.com/r/Kotlin/comments/1kuxg72/created_a_fully_customizable_toolbar_in_jetpack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
