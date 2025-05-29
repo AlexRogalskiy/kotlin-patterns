@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🚀 [Tool] New IntelliJ Plugin — Instantly Log anything with Alt+X &lpar;Kotlin Only&rpar;](https://www.reddit.com/r/Kotlin/comments/1kxbd2u/tool_new_intellij_plugin_instantly_log_anything/)
+- [How I Use callbackFlow to Modernize Android Callbacks with Kotlin Flows &lpar;With Real Example&rpar;](https://www.reddit.com/r/Kotlin/comments/1kxaxah/how_i_use_callbackflow_to_modernize_android/)
 - [KMP library wizard](https://www.reddit.com/r/Kotlin/comments/1kx112d/kmp_library_wizard/)
 - [Need a hand with ktlint](https://www.reddit.com/r/Kotlin/comments/1kwrmvd/need_a_hand_with_ktlint/)
 - [Ktjni - Gradle plugin for generating JNI headers](https://www.reddit.com/r/Kotlin/comments/1kwqy65/ktjni_gradle_plugin_for_generating_jni_headers/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Apache Fury serialization framework 0.10.3 released](https://www.reddit.com/r/Kotlin/comments/1kwgk6t/apache_fury_serialization_framework_0103_released/)
 - [React Natives vs KMP](https://www.reddit.com/r/Kotlin/comments/1kwdquf/react_natives_vs_kmp/)
 - [🚀 Thrilled to continue my series, &quot;Getting Started with Real-Time Streaming in Kotlin&quot;!](https://www.reddit.com/r/Kotlin/comments/1kw45vb/thrilled_to_continue_my_series_getting_started/)
-- [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1kw41l6/compose_multiplatform_wizard/)
-- [Kotlin Notebook debugging application in breakpoint](https://www.reddit.com/r/Kotlin/comments/1kvv9p6/kotlin_notebook_debugging_application_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
