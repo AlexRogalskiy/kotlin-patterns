@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which DB service to use for side project?](https://www.reddit.com/r/Kotlin/comments/1kyg3zh/which_db_service_to_use_for_side_project/)
+- [Advice Needed: Small Project Idea to Help Fund My Kotlin Streaming App](https://www.reddit.com/r/Kotlin/comments/1ky9opv/advice_needed_small_project_idea_to_help_fund_my/)
+- [You can now watch the full recording of the KotlinConf 2025 opening keynote online](https://www.reddit.com/r/Kotlin/comments/1ky3hhs/you_can_now_watch_the_full_recording_of_the/)
 - [🚀 [Tool] New IntelliJ Plugin — Instantly Log anything with Alt+X &lpar;Kotlin Only&rpar;](https://www.reddit.com/r/Kotlin/comments/1kxbd2u/tool_new_intellij_plugin_instantly_log_anything/)
 - [How I Use callbackFlow to Modernize Android Callbacks with Kotlin Flows &lpar;With Real Example&rpar;](https://www.reddit.com/r/Kotlin/comments/1kxaxah/how_i_use_callbackflow_to_modernize_android/)
 - [KMP library wizard](https://www.reddit.com/r/Kotlin/comments/1kx112d/kmp_library_wizard/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Ktjni - Gradle plugin for generating JNI headers](https://www.reddit.com/r/Kotlin/comments/1kwqy65/ktjni_gradle_plugin_for_generating_jni_headers/)
 - [Tried the new Kotlin Multiplatform plugin? Tell us about your experience in our survey](https://www.reddit.com/r/Kotlin/comments/1kwnblr/tried_the_new_kotlin_multiplatform_plugin_tell_us/)
 - [Creating my first CMP KMP app!](https://www.reddit.com/r/Kotlin/comments/1kwmlim/creating_my_first_cmp_kmp_app/)
-- [Apache Fury serialization framework 0.10.3 released](https://www.reddit.com/r/Kotlin/comments/1kwgk6t/apache_fury_serialization_framework_0103_released/)
-- [React Natives vs KMP](https://www.reddit.com/r/Kotlin/comments/1kwdquf/react_natives_vs_kmp/)
-- [🚀 Thrilled to continue my series, &quot;Getting Started with Real-Time Streaming in Kotlin&quot;!](https://www.reddit.com/r/Kotlin/comments/1kw45vb/thrilled_to_continue_my_series_getting_started/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
