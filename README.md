@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP - Marvel’s APIs](https://www.reddit.com/r/Kotlin/comments/1l08vaq/kmp_marvels_apis/)
+- [Kotlin MP Native speeds](https://www.reddit.com/r/Kotlin/comments/1kzygtu/kotlin_mp_native_speeds/)
 - [I hate the words &quot;install&quot; and &quot;plugin&quot; in Ktor](https://www.reddit.com/r/Kotlin/comments/1kzbso5/i_hate_the_words_install_and_plugin_in_ktor/)
 - [Build a Responsive &quot;No Internet&quot; Empty State UI with Jetpack Compose Multiplatform &lpar;Android/Desktop/Web&rpar; – 2025 Tutorial](https://www.reddit.com/r/Kotlin/comments/1kzbghq/build_a_responsive_no_internet_empty_state_ui/)
 - [Can Someone Share the APK for This Project?](https://www.reddit.com/r/Kotlin/comments/1kzal8w/can_someone_share_the_apk_for_this_project/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Event Handling in Jetpack Compose: Channels vs SharedFlow vs LiveData — A Practical Comparison](https://www.reddit.com/r/Kotlin/comments/1kyx9zh/event_handling_in_jetpack_compose_channels_vs/)
 - [Which DB service to use for side project?](https://www.reddit.com/r/Kotlin/comments/1kyg3zh/which_db_service_to_use_for_side_project/)
 - [Advice Needed: Small Project Idea to Help Fund My Kotlin Streaming App](https://www.reddit.com/r/Kotlin/comments/1ky9opv/advice_needed_small_project_idea_to_help_fund_my/)
-- [You can now watch the full recording of the KotlinConf 2025 opening keynote online](https://www.reddit.com/r/Kotlin/comments/1ky3hhs/you_can_now_watch_the_full_recording_of_the/)
-- [🚀 [Tool] New IntelliJ Plugin — Instantly Log anything with Alt+X &lpar;Kotlin Only&rpar;](https://www.reddit.com/r/Kotlin/comments/1kxbd2u/tool_new_intellij_plugin_instantly_log_anything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
