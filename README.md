@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Suggest me some resources for Android app development.](https://www.reddit.com/r/Kotlin/comments/1l0uvpa/suggest_me_some_resources_for_android_app/)
+- [Understanding Unidirectional Data Flow &lpar;UDF&rpar; in Jetpack Compose with MVI Architecture — With Example Code](https://www.reddit.com/r/Kotlin/comments/1l0qj3z/understanding_unidirectional_data_flow_udf_in/)
+- [How to use TextToSpeech to speak YOLOv11 detection results in Kotlin Android app?](https://www.reddit.com/r/Kotlin/comments/1l0p09w/how_to_use_texttospeech_to_speak_yolov11/)
+- [Coroutines -- how does a coroutine handle a line of text -- does it suspend?](https://www.reddit.com/r/Kotlin/comments/1l0kxk9/coroutines_how_does_a_coroutine_handle_a_line_of/)
+- [Kotlin and Firebase](https://www.reddit.com/r/Kotlin/comments/1l0et0t/kotlin_and_firebase/)
 - [KMP - Marvel’s APIs](https://www.reddit.com/r/Kotlin/comments/1l08vaq/kmp_marvels_apis/)
 - [Kotlin MP Native speeds](https://www.reddit.com/r/Kotlin/comments/1kzygtu/kotlin_mp_native_speeds/)
 - [I hate the words &quot;install&quot; and &quot;plugin&quot; in Ktor](https://www.reddit.com/r/Kotlin/comments/1kzbso5/i_hate_the_words_install_and_plugin_in_ktor/)
 - [Build a Responsive &quot;No Internet&quot; Empty State UI with Jetpack Compose Multiplatform &lpar;Android/Desktop/Web&rpar; – 2025 Tutorial](https://www.reddit.com/r/Kotlin/comments/1kzbghq/build_a_responsive_no_internet_empty_state_ui/)
 - [Can Someone Share the APK for This Project?](https://www.reddit.com/r/Kotlin/comments/1kzal8w/can_someone_share_the_apk_for_this_project/)
-- [Refactoring to Immutable Data](https://www.reddit.com/r/Kotlin/comments/1kz1jaf/refactoring_to_immutable_data/)
-- [Which of these is faster in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1kyz5zq/which_of_these_is_faster_in_kotlin/)
-- [Event Handling in Jetpack Compose: Channels vs SharedFlow vs LiveData — A Practical Comparison](https://www.reddit.com/r/Kotlin/comments/1kyx9zh/event_handling_in_jetpack_compose_channels_vs/)
-- [Which DB service to use for side project?](https://www.reddit.com/r/Kotlin/comments/1kyg3zh/which_db_service_to_use_for_side_project/)
-- [Advice Needed: Small Project Idea to Help Fund My Kotlin Streaming App](https://www.reddit.com/r/Kotlin/comments/1ky9opv/advice_needed_small_project_idea_to_help_fund_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
