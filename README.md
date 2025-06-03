@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🚀 Excited to share Part 3 of my &quot;Getting Started with Real-Time Streaming in Kotlin&quot; series](https://www.reddit.com/r/Kotlin/comments/1l1ujoe/excited_to_share_part_3_of_my_getting_started/)
+- [Get answers to your Kotlin Multiplatform questions](https://www.reddit.com/r/Kotlin/comments/1l1nray/get_answers_to_your_kotlin_multiplatform_questions/)
+- [Why I Built Koin and Why It Still Matters Today – Arnaud Giuliani](https://www.reddit.com/r/Kotlin/comments/1l1mab8/why_i_built_koin_and_why_it_still_matters_today/)
+- [Is there a way to remotely deploy and debug a Kotlin Multiplatform app targeting iOS?](https://www.reddit.com/r/Kotlin/comments/1l194ln/is_there_a_way_to_remotely_deploy_and_debug_a/)
 - [Suggest me some resources for Android app development.](https://www.reddit.com/r/Kotlin/comments/1l0uvpa/suggest_me_some_resources_for_android_app/)
 - [Understanding Unidirectional Data Flow &lpar;UDF&rpar; in Jetpack Compose with MVI Architecture — With Example Code](https://www.reddit.com/r/Kotlin/comments/1l0qj3z/understanding_unidirectional_data_flow_udf_in/)
 - [How to use TextToSpeech to speak YOLOv11 detection results in Kotlin Android app?](https://www.reddit.com/r/Kotlin/comments/1l0p09w/how_to_use_texttospeech_to_speak_yolov11/)
 - [Coroutines -- how does a coroutine handle a line of text -- does it suspend?](https://www.reddit.com/r/Kotlin/comments/1l0kxk9/coroutines_how_does_a_coroutine_handle_a_line_of/)
 - [Kotlin and Firebase](https://www.reddit.com/r/Kotlin/comments/1l0et0t/kotlin_and_firebase/)
 - [KMP - Marvel’s APIs](https://www.reddit.com/r/Kotlin/comments/1l08vaq/kmp_marvels_apis/)
-- [Kotlin MP Native speeds](https://www.reddit.com/r/Kotlin/comments/1kzygtu/kotlin_mp_native_speeds/)
-- [I hate the words &quot;install&quot; and &quot;plugin&quot; in Ktor](https://www.reddit.com/r/Kotlin/comments/1kzbso5/i_hate_the_words_install_and_plugin_in_ktor/)
-- [Build a Responsive &quot;No Internet&quot; Empty State UI with Jetpack Compose Multiplatform &lpar;Android/Desktop/Web&rpar; – 2025 Tutorial](https://www.reddit.com/r/Kotlin/comments/1kzbghq/build_a_responsive_no_internet_empty_state_ui/)
-- [Can Someone Share the APK for This Project?](https://www.reddit.com/r/Kotlin/comments/1kzal8w/can_someone_share_the_apk_for_this_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
