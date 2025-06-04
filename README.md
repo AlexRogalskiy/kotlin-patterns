@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Kotlin Documentation Survey is closing soon](https://www.reddit.com/r/Kotlin/comments/1l2i4u3/the_kotlin_documentation_survey_is_closing_soon/)
+- [Kotlin for DSA interviews?](https://www.reddit.com/r/Kotlin/comments/1l2b896/kotlin_for_dsa_interviews/)
+- [how to implement clarity in fragments?](https://www.reddit.com/r/Kotlin/comments/1l2akg2/how_to_implement_clarity_in_fragments/)
+- [Kilua Project Wizard for IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1l23lk9/kilua_project_wizard_for_intellij_idea/)
 - [🚀 Excited to share Part 3 of my &quot;Getting Started with Real-Time Streaming in Kotlin&quot; series](https://www.reddit.com/r/Kotlin/comments/1l1ujoe/excited_to_share_part_3_of_my_getting_started/)
 - [Get answers to your Kotlin Multiplatform questions](https://www.reddit.com/r/Kotlin/comments/1l1nray/get_answers_to_your_kotlin_multiplatform_questions/)
 - [Why I Built Koin and Why It Still Matters Today – Arnaud Giuliani](https://www.reddit.com/r/Kotlin/comments/1l1mab8/why_i_built_koin_and_why_it_still_matters_today/)
 - [Is there a way to remotely deploy and debug a Kotlin Multiplatform app targeting iOS?](https://www.reddit.com/r/Kotlin/comments/1l194ln/is_there_a_way_to_remotely_deploy_and_debug_a/)
 - [Suggest me some resources for Android app development.](https://www.reddit.com/r/Kotlin/comments/1l0uvpa/suggest_me_some_resources_for_android_app/)
 - [Understanding Unidirectional Data Flow &lpar;UDF&rpar; in Jetpack Compose with MVI Architecture — With Example Code](https://www.reddit.com/r/Kotlin/comments/1l0qj3z/understanding_unidirectional_data_flow_udf_in/)
-- [How to use TextToSpeech to speak YOLOv11 detection results in Kotlin Android app?](https://www.reddit.com/r/Kotlin/comments/1l0p09w/how_to_use_texttospeech_to_speak_yolov11/)
-- [Coroutines -- how does a coroutine handle a line of text -- does it suspend?](https://www.reddit.com/r/Kotlin/comments/1l0kxk9/coroutines_how_does_a_coroutine_handle_a_line_of/)
-- [Kotlin and Firebase](https://www.reddit.com/r/Kotlin/comments/1l0et0t/kotlin_and_firebase/)
-- [KMP - Marvel’s APIs](https://www.reddit.com/r/Kotlin/comments/1l08vaq/kmp_marvels_apis/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
