@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Consistency in Databases: Beyond basic ACID with @Transactional](https://www.reddit.com/r/Kotlin/comments/1l3hg0n/consistency_in_databases_beyond_basic_acid_with/)
+- [Help in Developing Image Sharing Feature Between Two Apps](https://www.reddit.com/r/Kotlin/comments/1l3hc06/help_in_developing_image_sharing_feature_between/)
+- [Kotlin cozies up to Spring Framework](https://www.reddit.com/r/Kotlin/comments/1l39ysn/kotlin_cozies_up_to_spring_framework/)
+- [Does Nasa have any open source repos?](https://www.reddit.com/r/Kotlin/comments/1l38ibt/does_nasa_have_any_open_source_repos/)
+- [Kotlin freelancers in the UK?](https://www.reddit.com/r/Kotlin/comments/1l37jwy/kotlin_freelancers_in_the_uk/)
+- [Weird error when using environment variables in application.yaml](https://www.reddit.com/r/Kotlin/comments/1l36u4v/weird_error_when_using_environment_variables_in/)
+- [How to package KMP apps into AppImages for linux?](https://www.reddit.com/r/Kotlin/comments/1l36kxo/how_to_package_kmp_apps_into_appimages_for_linux/)
+- [SharedFlow vs StateFlow in Android: Real Use Cases Explained](https://www.reddit.com/r/Kotlin/comments/1l2yl4s/sharedflow_vs_stateflow_in_android_real_use_cases/)
 - [The Kotlin Documentation Survey is closing soon](https://www.reddit.com/r/Kotlin/comments/1l2i4u3/the_kotlin_documentation_survey_is_closing_soon/)
 - [Kotlin for DSA interviews?](https://www.reddit.com/r/Kotlin/comments/1l2b896/kotlin_for_dsa_interviews/)
-- [how to implement clarity in fragments?](https://www.reddit.com/r/Kotlin/comments/1l2akg2/how_to_implement_clarity_in_fragments/)
-- [Kilua Project Wizard for IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1l23lk9/kilua_project_wizard_for_intellij_idea/)
-- [🚀 Excited to share Part 3 of my &quot;Getting Started with Real-Time Streaming in Kotlin&quot; series](https://www.reddit.com/r/Kotlin/comments/1l1ujoe/excited_to_share_part_3_of_my_getting_started/)
-- [Get answers to your Kotlin Multiplatform questions](https://www.reddit.com/r/Kotlin/comments/1l1nray/get_answers_to_your_kotlin_multiplatform_questions/)
-- [Why I Built Koin and Why It Still Matters Today – Arnaud Giuliani](https://www.reddit.com/r/Kotlin/comments/1l1mab8/why_i_built_koin_and_why_it_still_matters_today/)
-- [Is there a way to remotely deploy and debug a Kotlin Multiplatform app targeting iOS?](https://www.reddit.com/r/Kotlin/comments/1l194ln/is_there_a_way_to_remotely_deploy_and_debug_a/)
-- [Suggest me some resources for Android app development.](https://www.reddit.com/r/Kotlin/comments/1l0uvpa/suggest_me_some_resources_for_android_app/)
-- [Understanding Unidirectional Data Flow &lpar;UDF&rpar; in Jetpack Compose with MVI Architecture — With Example Code](https://www.reddit.com/r/Kotlin/comments/1l0qj3z/understanding_unidirectional_data_flow_udf_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
