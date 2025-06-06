@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Summon - Type-safe Kotlin Frontend Framework now on GitHub Packages!](https://www.reddit.com/r/Kotlin/comments/1l4cpnh/summon_typesafe_kotlin_frontend_framework_now_on/)
+- [Exclude debug code from compiling](https://www.reddit.com/r/Kotlin/comments/1l43xck/exclude_debug_code_from_compiling/)
+- [OpenAnimation - KMP App for Beautiful Lottie Animations](https://www.reddit.com/r/Kotlin/comments/1l3ygbb/openanimation_kmp_app_for_beautiful_lottie/)
+- [Introducing Android Mastery Pro: Free Offline Android Prep App &lpar;Kotlin, Jetpack, DSA&rpar; – Feedback Welcome](https://www.reddit.com/r/Kotlin/comments/1l3ufz9/introducing_android_mastery_pro_free_offline/)
+- [Many Happy Early Returns](https://www.reddit.com/r/Kotlin/comments/1l3tz9p/many_happy_early_returns/)
 - [Consistency in Databases: Beyond basic ACID with @Transactional](https://www.reddit.com/r/Kotlin/comments/1l3hg0n/consistency_in_databases_beyond_basic_acid_with/)
 - [Help in Developing Image Sharing Feature Between Two Apps](https://www.reddit.com/r/Kotlin/comments/1l3hc06/help_in_developing_image_sharing_feature_between/)
 - [Kotlin cozies up to Spring Framework](https://www.reddit.com/r/Kotlin/comments/1l39ysn/kotlin_cozies_up_to_spring_framework/)
 - [Does Nasa have any open source repos?](https://www.reddit.com/r/Kotlin/comments/1l38ibt/does_nasa_have_any_open_source_repos/)
 - [Kotlin freelancers in the UK?](https://www.reddit.com/r/Kotlin/comments/1l37jwy/kotlin_freelancers_in_the_uk/)
-- [Weird error when using environment variables in application.yaml](https://www.reddit.com/r/Kotlin/comments/1l36u4v/weird_error_when_using_environment_variables_in/)
-- [How to package KMP apps into AppImages for linux?](https://www.reddit.com/r/Kotlin/comments/1l36kxo/how_to_package_kmp_apps_into_appimages_for_linux/)
-- [SharedFlow vs StateFlow in Android: Real Use Cases Explained](https://www.reddit.com/r/Kotlin/comments/1l2yl4s/sharedflow_vs_stateflow_in_android_real_use_cases/)
-- [The Kotlin Documentation Survey is closing soon](https://www.reddit.com/r/Kotlin/comments/1l2i4u3/the_kotlin_documentation_survey_is_closing_soon/)
-- [Kotlin for DSA interviews?](https://www.reddit.com/r/Kotlin/comments/1l2b896/kotlin_for_dsa_interviews/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
