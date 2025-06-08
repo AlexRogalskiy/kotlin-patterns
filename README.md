@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LSM4K 1.0.0-Alpha published](https://www.reddit.com/r/Kotlin/comments/1l5si6b/lsm4k_100alpha_published/)
+- [A Practical Guide to Tuning Kotlin Microservices for Production](https://www.reddit.com/r/Kotlin/comments/1l5piy6/a_practical_guide_to_tuning_kotlin_microservices/)
+- [My life first interview for a internship as a Mobile app developer.. Please Guide me](https://www.reddit.com/r/Kotlin/comments/1l5n09e/my_life_first_interview_for_a_internship_as_a/)
+- [How to Make Dependency Injection Easier in Kotlin Multiplatform with Koin Annotations](https://www.reddit.com/r/Kotlin/comments/1l5ms4k/how_to_make_dependency_injection_easier_in_kotlin/)
+- [SPM Support For KMP &lpar;Plugin&rpar;](https://www.reddit.com/r/Kotlin/comments/1l5i4d7/spm_support_for_kmp_plugin/)
+- [Is Kotlin the right language for me to learn?](https://www.reddit.com/r/Kotlin/comments/1l5hu3i/is_kotlin_the_right_language_for_me_to_learn/)
 - [Discover, Organize, and Enjoy Your Music with Valfi 🎧 – try it out and share your feedback!](https://www.reddit.com/r/Kotlin/comments/1l4qg8f/discover_organize_and_enjoy_your_music_with_valfi/)
 - [My app has been released](https://www.reddit.com/r/Kotlin/comments/1l4qaxt/my_app_has_been_released/)
 - [Functional Core Imperative Shell - moving IO to the edge](https://www.reddit.com/r/Kotlin/comments/1l4pbyr/functional_core_imperative_shell_moving_io_to_the/)
 - [Jetbrain or Android Studio](https://www.reddit.com/r/Kotlin/comments/1l4meyx/jetbrain_or_android_studio/)
-- [CoroutineScope Best Practices in Android: lifecycleScope, viewModelScope, and Global](https://www.reddit.com/r/Kotlin/comments/1l4kvpo/coroutinescope_best_practices_in_android/)
-- [Summon - Type-safe Kotlin Frontend Framework now on GitHub Packages!](https://www.reddit.com/r/Kotlin/comments/1l4cpnh/summon_typesafe_kotlin_frontend_framework_now_on/)
-- [Exclude debug code from compiling](https://www.reddit.com/r/Kotlin/comments/1l43xck/exclude_debug_code_from_compiling/)
-- [OpenAnimation - KMP App for Beautiful Lottie Animations](https://www.reddit.com/r/Kotlin/comments/1l3ygbb/openanimation_kmp_app_for_beautiful_lottie/)
-- [Introducing Android Mastery Pro: Free Offline Android Prep App &lpar;Kotlin, Jetpack, DSA&rpar; – Feedback Welcome](https://www.reddit.com/r/Kotlin/comments/1l3ufz9/introducing_android_mastery_pro_free_offline/)
-- [Many Happy Early Returns](https://www.reddit.com/r/Kotlin/comments/1l3tz9p/many_happy_early_returns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
