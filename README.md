@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Things I miss from Kotlin when using Java pt 1](https://www.reddit.com/r/Kotlin/comments/1l6g9ou/things_i_miss_from_kotlin_when_using_java_pt_1/)
+- [My love for kotlin is hurting me 😅](https://www.reddit.com/r/Kotlin/comments/1l6949b/my_love_for_kotlin_is_hurting_me/)
 - [LSM4K 1.0.0-Alpha published](https://www.reddit.com/r/Kotlin/comments/1l5si6b/lsm4k_100alpha_published/)
 - [A Practical Guide to Tuning Kotlin Microservices for Production](https://www.reddit.com/r/Kotlin/comments/1l5piy6/a_practical_guide_to_tuning_kotlin_microservices/)
 - [My life first interview for a internship as a Mobile app developer.. Please Guide me](https://www.reddit.com/r/Kotlin/comments/1l5n09e/my_life_first_interview_for_a_internship_as_a/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Is Kotlin the right language for me to learn?](https://www.reddit.com/r/Kotlin/comments/1l5hu3i/is_kotlin_the_right_language_for_me_to_learn/)
 - [Discover, Organize, and Enjoy Your Music with Valfi 🎧 – try it out and share your feedback!](https://www.reddit.com/r/Kotlin/comments/1l4qg8f/discover_organize_and_enjoy_your_music_with_valfi/)
 - [My app has been released](https://www.reddit.com/r/Kotlin/comments/1l4qaxt/my_app_has_been_released/)
-- [Functional Core Imperative Shell - moving IO to the edge](https://www.reddit.com/r/Kotlin/comments/1l4pbyr/functional_core_imperative_shell_moving_io_to_the/)
-- [Jetbrain or Android Studio](https://www.reddit.com/r/Kotlin/comments/1l4meyx/jetbrain_or_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
