@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Things I miss from Kotlin when using Java pt 1](https://www.reddit.com/r/Kotlin/comments/1l6g9ou/things_i_miss_from_kotlin_when_using_java_pt_1/)
-- [My love for kotlin is hurting me 😅](https://www.reddit.com/r/Kotlin/comments/1l6949b/my_love_for_kotlin_is_hurting_me/)
-- [LSM4K 1.0.0-Alpha published](https://www.reddit.com/r/Kotlin/comments/1l5si6b/lsm4k_100alpha_published/)
-- [A Practical Guide to Tuning Kotlin Microservices for Production](https://www.reddit.com/r/Kotlin/comments/1l5piy6/a_practical_guide_to_tuning_kotlin_microservices/)
-- [My life first interview for a internship as a Mobile app developer.. Please Guide me](https://www.reddit.com/r/Kotlin/comments/1l5n09e/my_life_first_interview_for_a_internship_as_a/)
-- [How to Make Dependency Injection Easier in Kotlin Multiplatform with Koin Annotations](https://www.reddit.com/r/Kotlin/comments/1l5ms4k/how_to_make_dependency_injection_easier_in_kotlin/)
-- [SPM Support For KMP &lpar;Plugin&rpar;](https://www.reddit.com/r/Kotlin/comments/1l5i4d7/spm_support_for_kmp_plugin/)
-- [Is Kotlin the right language for me to learn?](https://www.reddit.com/r/Kotlin/comments/1l5hu3i/is_kotlin_the_right_language_for_me_to_learn/)
-- [Discover, Organize, and Enjoy Your Music with Valfi 🎧 – try it out and share your feedback!](https://www.reddit.com/r/Kotlin/comments/1l4qg8f/discover_organize_and_enjoy_your_music_with_valfi/)
-- [My app has been released](https://www.reddit.com/r/Kotlin/comments/1l4qaxt/my_app_has_been_released/)
+- [PixelSafe now offers encryption](https://www.reddit.com/r/Kotlin/comments/1l7hjd7/pixelsafe_now_offers_encryption/)
+- [Compose cupertino](https://www.reddit.com/r/Kotlin/comments/1l7fc1g/compose_cupertino/)
+- [Compose cupertino](https://www.reddit.com/r/Kotlin/comments/1l7fbze/compose_cupertino/)
+- [Koin 4.1 — Safer Configurations, Stronger Integrations &amp; Support](https://www.reddit.com/r/Kotlin/comments/1l78bxc/koin_41_safer_configurations_stronger/)
+- [Kotlin Multiplatform Desktop question](https://www.reddit.com/r/Kotlin/comments/1l737ti/kotlin_multiplatform_desktop_question/)
+- [I want some experienced experts to talk about this! So all beginners will get some advice](https://www.reddit.com/r/Kotlin/comments/1l72cjc/i_want_some_experienced_experts_to_talk_about/)
+- [Kotlin](https://www.reddit.com/r/Kotlin/comments/1l6zy44/kotlin/)
+- [Newbie Searching](https://www.reddit.com/r/Kotlin/comments/1l6zlpa/newbie_searching/)
+- [🆕 Just started a Kotlin learning repo – feedback &amp; ideas welcome!](https://www.reddit.com/r/Kotlin/comments/1l6z1gt/just_started_a_kotlin_learning_repo_feedback/)
+- [Navigation does not limit us!](https://www.reddit.com/r/Kotlin/comments/1l6ylo9/navigation_does_not_limit_us/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
