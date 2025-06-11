@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktjni: Gradle plugin for generating JNI headers - Initial release](https://www.reddit.com/r/Kotlin/comments/1l8bldw/ktjni_gradle_plugin_for_generating_jni_headers/)
+- [Kotlin is better than flutter agree?](https://www.reddit.com/r/Kotlin/comments/1l86yh6/kotlin_is_better_than_flutter_agree/)
+- [KDTO: A library for auto generating DTO classes based on a single source class](https://www.reddit.com/r/Kotlin/comments/1l85l23/kdto_a_library_for_auto_generating_dto_classes/)
+- [Kotlin Multiplatform: Video/Audio Reloading in LazyColumn](https://www.reddit.com/r/Kotlin/comments/1l7xsa3/kotlin_multiplatform_videoaudio_reloading_in/)
+- [Claude Code: Game Changer or Just Hype?](https://www.reddit.com/r/Kotlin/comments/1l7wu0g/claude_code_game_changer_or_just_hype/)
+- [kotlin slowly falling off or still the future for android](https://www.reddit.com/r/Kotlin/comments/1l7v87l/kotlin_slowly_falling_off_or_still_the_future_for/)
+- [Kotlin app generator with nodejs and gradle features](https://www.reddit.com/r/Kotlin/comments/1l7uyf1/kotlin_app_generator_with_nodejs_and_gradle/)
 - [PixelSafe now offers encryption](https://www.reddit.com/r/Kotlin/comments/1l7hjd7/pixelsafe_now_offers_encryption/)
 - [Compose cupertino](https://www.reddit.com/r/Kotlin/comments/1l7fc1g/compose_cupertino/)
 - [Compose cupertino](https://www.reddit.com/r/Kotlin/comments/1l7fbze/compose_cupertino/)
-- [Koin 4.1 — Safer Configurations, Stronger Integrations &amp; Support](https://www.reddit.com/r/Kotlin/comments/1l78bxc/koin_41_safer_configurations_stronger/)
-- [Kotlin Multiplatform Desktop question](https://www.reddit.com/r/Kotlin/comments/1l737ti/kotlin_multiplatform_desktop_question/)
-- [I want some experienced experts to talk about this! So all beginners will get some advice](https://www.reddit.com/r/Kotlin/comments/1l72cjc/i_want_some_experienced_experts_to_talk_about/)
-- [Kotlin](https://www.reddit.com/r/Kotlin/comments/1l6zy44/kotlin/)
-- [Newbie Searching](https://www.reddit.com/r/Kotlin/comments/1l6zlpa/newbie_searching/)
-- [🆕 Just started a Kotlin learning repo – feedback &amp; ideas welcome!](https://www.reddit.com/r/Kotlin/comments/1l6z1gt/just_started_a_kotlin_learning_repo_feedback/)
-- [Navigation does not limit us!](https://www.reddit.com/r/Kotlin/comments/1l6ylo9/navigation_does_not_limit_us/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
