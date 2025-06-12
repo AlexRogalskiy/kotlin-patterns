@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Short &amp; Punchy with a Question](https://www.reddit.com/r/Kotlin/comments/1l8vskc/short_punchy_with_a_question/)
+- [💬 Actors in the UI — Exploring Actor Model Patterns in the Frontend](https://www.reddit.com/r/Kotlin/comments/1l8ufpz/actors_in_the_ui_exploring_actor_model_patterns/)
+- [Advice regarding portfolio as a kotlin , android dev,](https://www.reddit.com/r/Kotlin/comments/1l8sw22/advice_regarding_portfolio_as_a_kotlin_android_dev/)
 - [Ktjni: Gradle plugin for generating JNI headers - Initial release](https://www.reddit.com/r/Kotlin/comments/1l8bldw/ktjni_gradle_plugin_for_generating_jni_headers/)
 - [Kotlin is better than flutter agree?](https://www.reddit.com/r/Kotlin/comments/1l86yh6/kotlin_is_better_than_flutter_agree/)
 - [KDTO: A library for auto generating DTO classes based on a single source class](https://www.reddit.com/r/Kotlin/comments/1l85l23/kdto_a_library_for_auto_generating_dto_classes/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Claude Code: Game Changer or Just Hype?](https://www.reddit.com/r/Kotlin/comments/1l7wu0g/claude_code_game_changer_or_just_hype/)
 - [kotlin slowly falling off or still the future for android](https://www.reddit.com/r/Kotlin/comments/1l7v87l/kotlin_slowly_falling_off_or_still_the_future_for/)
 - [Kotlin app generator with nodejs and gradle features](https://www.reddit.com/r/Kotlin/comments/1l7uyf1/kotlin_app_generator_with_nodejs_and_gradle/)
-- [PixelSafe now offers encryption](https://www.reddit.com/r/Kotlin/comments/1l7hjd7/pixelsafe_now_offers_encryption/)
-- [Compose cupertino](https://www.reddit.com/r/Kotlin/comments/1l7fc1g/compose_cupertino/)
-- [Compose cupertino](https://www.reddit.com/r/Kotlin/comments/1l7fbze/compose_cupertino/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
