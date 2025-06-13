@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apple makes a move against KMP](https://www.reddit.com/r/Kotlin/comments/1l9zqqs/apple_makes_a_move_against_kmp/)
+- [From a complete Kotlin outsider: Liquid Glass could make Kotlin Multiplatform very popular](https://www.reddit.com/r/Kotlin/comments/1l9ywvq/from_a_complete_kotlin_outsider_liquid_glass/)
+- [Buying a Mac Studio for running Kotlin multiplatform. Is M4 max base overkill?](https://www.reddit.com/r/Kotlin/comments/1l9ue9x/buying_a_mac_studio_for_running_kotlin/)
+- [🚀 Bridging Compose Multiplatform with SwiftUI](https://www.reddit.com/r/Kotlin/comments/1l9p16y/bridging_compose_multiplatform_with_swiftui/)
+- [My UI was lagging bad during api calls](https://www.reddit.com/r/Kotlin/comments/1l9p0cw/my_ui_was_lagging_bad_during_api_calls/)
+- [Need help with Bluetooth HID profile in Kotlin](https://www.reddit.com/r/Kotlin/comments/1l9o9ik/need_help_with_bluetooth_hid_profile_in_kotlin/)
+- [How to execute a java script from a Kotlin desktop app?](https://www.reddit.com/r/Kotlin/comments/1l9n5uu/how_to_execute_a_java_script_from_a_kotlin/)
+- [How I Simplified Retrofit Error Handling Using Sealed Classes + Result Wrappers in Kotlin](https://www.reddit.com/r/Kotlin/comments/1l9ljvg/how_i_simplified_retrofit_error_handling_using/)
 - [Short &amp; Punchy with a Question](https://www.reddit.com/r/Kotlin/comments/1l8vskc/short_punchy_with_a_question/)
 - [💬 Actors in the UI — Exploring Actor Model Patterns in the Frontend](https://www.reddit.com/r/Kotlin/comments/1l8ufpz/actors_in_the_ui_exploring_actor_model_patterns/)
-- [Advice regarding portfolio as a kotlin , android dev,](https://www.reddit.com/r/Kotlin/comments/1l8sw22/advice_regarding_portfolio_as_a_kotlin_android_dev/)
-- [Ktjni: Gradle plugin for generating JNI headers - Initial release](https://www.reddit.com/r/Kotlin/comments/1l8bldw/ktjni_gradle_plugin_for_generating_jni_headers/)
-- [Kotlin is better than flutter agree?](https://www.reddit.com/r/Kotlin/comments/1l86yh6/kotlin_is_better_than_flutter_agree/)
-- [KDTO: A library for auto generating DTO classes based on a single source class](https://www.reddit.com/r/Kotlin/comments/1l85l23/kdto_a_library_for_auto_generating_dto_classes/)
-- [Kotlin Multiplatform: Video/Audio Reloading in LazyColumn](https://www.reddit.com/r/Kotlin/comments/1l7xsa3/kotlin_multiplatform_videoaudio_reloading_in/)
-- [Claude Code: Game Changer or Just Hype?](https://www.reddit.com/r/Kotlin/comments/1l7wu0g/claude_code_game_changer_or_just_hype/)
-- [kotlin slowly falling off or still the future for android](https://www.reddit.com/r/Kotlin/comments/1l7v87l/kotlin_slowly_falling_off_or_still_the_future_for/)
-- [Kotlin app generator with nodejs and gradle features](https://www.reddit.com/r/Kotlin/comments/1l7uyf1/kotlin_app_generator_with_nodejs_and_gradle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
