@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🧐 Signed integer overflow...](https://www.reddit.com/r/Kotlin/comments/1lauun0/signed_integer_overflow/)
+- [Data synchronization with a central server using Exposed and Triggers/Views](https://www.reddit.com/r/Kotlin/comments/1lahs69/data_synchronization_with_a_central_server_using/)
+- [How to Simplify Tests by Hiding Side Effects](https://www.reddit.com/r/Kotlin/comments/1laeqtb/how_to_simplify_tests_by_hiding_side_effects/)
+- [Run HTTP Requests in Android Studio](https://www.reddit.com/r/Kotlin/comments/1lab8ge/run_http_requests_in_android_studio/)
+- [Google I/O 2025 Updates [News]](https://www.reddit.com/r/Kotlin/comments/1laapno/google_io_2025_updates_news/)
+- [Prep for Android dev interview](https://www.reddit.com/r/Kotlin/comments/1la8g3l/prep_for_android_dev_interview/)
 - [Apple makes a move against KMP](https://www.reddit.com/r/Kotlin/comments/1l9zqqs/apple_makes_a_move_against_kmp/)
 - [From a complete Kotlin outsider: Liquid Glass could make Kotlin Multiplatform very popular](https://www.reddit.com/r/Kotlin/comments/1l9ywvq/from_a_complete_kotlin_outsider_liquid_glass/)
 - [Buying a Mac Studio for running Kotlin multiplatform. Is M4 max base overkill?](https://www.reddit.com/r/Kotlin/comments/1l9ue9x/buying_a_mac_studio_for_running_kotlin/)
 - [🚀 Bridging Compose Multiplatform with SwiftUI](https://www.reddit.com/r/Kotlin/comments/1l9p16y/bridging_compose_multiplatform_with_swiftui/)
-- [My UI was lagging bad during api calls](https://www.reddit.com/r/Kotlin/comments/1l9p0cw/my_ui_was_lagging_bad_during_api_calls/)
-- [Need help with Bluetooth HID profile in Kotlin](https://www.reddit.com/r/Kotlin/comments/1l9o9ik/need_help_with_bluetooth_hid_profile_in_kotlin/)
-- [How to execute a java script from a Kotlin desktop app?](https://www.reddit.com/r/Kotlin/comments/1l9n5uu/how_to_execute_a_java_script_from_a_kotlin/)
-- [How I Simplified Retrofit Error Handling Using Sealed Classes + Result Wrappers in Kotlin](https://www.reddit.com/r/Kotlin/comments/1l9ljvg/how_i_simplified_retrofit_error_handling_using/)
-- [Short &amp; Punchy with a Question](https://www.reddit.com/r/Kotlin/comments/1l8vskc/short_punchy_with_a_question/)
-- [💬 Actors in the UI — Exploring Actor Model Patterns in the Frontend](https://www.reddit.com/r/Kotlin/comments/1l8ufpz/actors_in_the_ui_exploring_actor_model_patterns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
