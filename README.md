@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to pick up idiomatic Kotlin as a Java Developer?](https://www.reddit.com/r/Kotlin/comments/1lbfkhr/how_to_pick_up_idiomatic_kotlin_as_a_java/)
+- [Sharing progress on my Kotlin Multiplatform pet project](https://www.reddit.com/r/Kotlin/comments/1lbdxq2/sharing_progress_on_my_kotlin_multiplatform_pet/)
+- [What collection should I use to store different type values in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1lb7tnq/what_collection_should_i_use_to_store_different/)
+- [sslContext error](https://www.reddit.com/r/Kotlin/comments/1lb6tvd/sslcontext_error/)
+- [Android questions that can shake your confidence &lpar;part 2&rpar;](https://www.reddit.com/r/Kotlin/comments/1lb3fdn/android_questions_that_can_shake_your_confidence/)
+- [Kotlin Tip of the Day](https://www.reddit.com/r/Kotlin/comments/1lb1831/kotlin_tip_of_the_day/)
 - [🧐 Signed integer overflow...](https://www.reddit.com/r/Kotlin/comments/1lauun0/signed_integer_overflow/)
 - [Data synchronization with a central server using Exposed and Triggers/Views](https://www.reddit.com/r/Kotlin/comments/1lahs69/data_synchronization_with_a_central_server_using/)
 - [How to Simplify Tests by Hiding Side Effects](https://www.reddit.com/r/Kotlin/comments/1laeqtb/how_to_simplify_tests_by_hiding_side_effects/)
 - [Run HTTP Requests in Android Studio](https://www.reddit.com/r/Kotlin/comments/1lab8ge/run_http_requests_in_android_studio/)
-- [Google I/O 2025 Updates [News]](https://www.reddit.com/r/Kotlin/comments/1laapno/google_io_2025_updates_news/)
-- [Prep for Android dev interview](https://www.reddit.com/r/Kotlin/comments/1la8g3l/prep_for_android_dev_interview/)
-- [Apple makes a move against KMP](https://www.reddit.com/r/Kotlin/comments/1l9zqqs/apple_makes_a_move_against_kmp/)
-- [From a complete Kotlin outsider: Liquid Glass could make Kotlin Multiplatform very popular](https://www.reddit.com/r/Kotlin/comments/1l9ywvq/from_a_complete_kotlin_outsider_liquid_glass/)
-- [Buying a Mac Studio for running Kotlin multiplatform. Is M4 max base overkill?](https://www.reddit.com/r/Kotlin/comments/1l9ue9x/buying_a_mac_studio_for_running_kotlin/)
-- [🚀 Bridging Compose Multiplatform with SwiftUI](https://www.reddit.com/r/Kotlin/comments/1l9p16y/bridging_compose_multiplatform_with_swiftui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
