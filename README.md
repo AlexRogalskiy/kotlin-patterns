@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🚀 The journey concludes! I&#39;m excited to share the final installment, Part 5 of my &quot;𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 𝐢𝐧 𝐊𝐨𝐭𝐥𝐢𝐧&quot; series:](https://www.reddit.com/r/Kotlin/comments/1ld6089/the_journey_concludes_im_excited_to_share_the/)
+- [Need helping building an emergency response app. &lpar;SignalSafe&rpar;](https://www.reddit.com/r/Kotlin/comments/1lcw2tt/need_helping_building_an_emergency_response_app/)
+- [kotlin cross platform](https://www.reddit.com/r/Kotlin/comments/1lcoa3w/kotlin_cross_platform/)
 - [LiveData in Kotlin](https://www.reddit.com/r/Kotlin/comments/1lbu5em/livedata_in_kotlin/)
 - [How to pick up idiomatic Kotlin as a Java Developer?](https://www.reddit.com/r/Kotlin/comments/1lbfkhr/how_to_pick_up_idiomatic_kotlin_as_a_java/)
 - [Sharing progress on my Kotlin Multiplatform pet project](https://www.reddit.com/r/Kotlin/comments/1lbdxq2/sharing_progress_on_my_kotlin_multiplatform_pet/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [sslContext error](https://www.reddit.com/r/Kotlin/comments/1lb6tvd/sslcontext_error/)
 - [Android questions that can shake your confidence &lpar;part 2&rpar;](https://www.reddit.com/r/Kotlin/comments/1lb3fdn/android_questions_that_can_shake_your_confidence/)
 - [Kotlin Tip of the Day](https://www.reddit.com/r/Kotlin/comments/1lb1831/kotlin_tip_of_the_day/)
-- [🧐 Signed integer overflow...](https://www.reddit.com/r/Kotlin/comments/1lauun0/signed_integer_overflow/)
-- [Data synchronization with a central server using Exposed and Triggers/Views](https://www.reddit.com/r/Kotlin/comments/1lahs69/data_synchronization_with_a_central_server_using/)
-- [How to Simplify Tests by Hiding Side Effects](https://www.reddit.com/r/Kotlin/comments/1laeqtb/how_to_simplify_tests_by_hiding_side_effects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
