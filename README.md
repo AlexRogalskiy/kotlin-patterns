@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktor 3.2.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1lfgicw/ktor_320_is_now_available/)
+- [Watch KotlinConf 2025 Anytime – Talks and Photos Now Online](https://www.reddit.com/r/Kotlin/comments/1lfehom/watch_kotlinconf_2025_anytime_talks_and_photos/)
+- [KotlinConf 2025 talks available](https://www.reddit.com/r/Kotlin/comments/1lfe8ys/kotlinconf_2025_talks_available/)
+- [I helped build a Kotlin app with 100k+ downloads — is that enough to get hired?](https://www.reddit.com/r/Kotlin/comments/1lf406u/i_helped_build_a_kotlin_app_with_100k_downloads/)
+- [Apache Fory Serialization Framework 0.11.0 Released](https://www.reddit.com/r/Kotlin/comments/1lf10an/apache_fory_serialization_framework_0110_released/)
 - [Decorator Pattern in Kotlin — Embracing Open/Closed Principle](https://www.reddit.com/r/Kotlin/comments/1lej6h6/decorator_pattern_in_kotlin_embracing_openclosed/)
 - [What do u think of Junie](https://www.reddit.com/r/Kotlin/comments/1legk4y/what_do_u_think_of_junie/)
 - [http4k AI - Because AI Without Tests is Just Expensive Random Number Generation](https://www.reddit.com/r/Kotlin/comments/1legdh5/http4k_ai_because_ai_without_tests_is_just/)
 - [Is Kotlin suitable for CLI tools development in 2025 ? &lpar;question revisited&rpar;](https://www.reddit.com/r/Kotlin/comments/1lef59b/is_kotlin_suitable_for_cli_tools_development_in/)
 - [SQLiteNow - new KMP library for SQLite](https://www.reddit.com/r/Kotlin/comments/1le0e3j/sqlitenow_new_kmp_library_for_sqlite/)
-- [need details on functional programming](https://www.reddit.com/r/Kotlin/comments/1ldrh6u/need_details_on_functional_programming/)
-- [Last call: The KMP Plugin Feedback Survey is closing soon!](https://www.reddit.com/r/Kotlin/comments/1ldqlpn/last_call_the_kmp_plugin_feedback_survey_is/)
-- [Kotlin for Developers • Marcin Moskala &amp; Nicola Corti](https://www.reddit.com/r/Kotlin/comments/1ldp5th/kotlin_for_developers_marcin_moskala_nicola_corti/)
-- [Caching Strategies in Android: Room + Network with Single Source of Truth Pattern](https://www.reddit.com/r/Kotlin/comments/1ldjiso/caching_strategies_in_android_room_network_with/)
-- [Serialization Framework Announcement - Apache Fury is Now Apache Fory](https://www.reddit.com/r/Kotlin/comments/1ldhwfo/serialization_framework_announcement_apache_fury/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
