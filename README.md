@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Deploying Ktor Server Module in Kotlin Multiplatform Project &lpar;kotlinx.rpc&rpar; Guidance](https://www.reddit.com/r/Kotlin/comments/1lgkqxq/deploying_ktor_server_module_in_kotlin/)
+- [Gradle Version Conflicts in Android? Here’s a Practical Fix Guide](https://www.reddit.com/r/Kotlin/comments/1lgklkl/gradle_version_conflicts_in_android_heres_a/)
+- [First semi vibe coded production app! &lpar;Please drop feature requests here&rpar;](https://www.reddit.com/r/Kotlin/comments/1lgimu9/first_semi_vibe_coded_production_app_please_drop/)
+- [Given When Then - Refactoring to a Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1lg4e1l/given_when_then_refactoring_to_a_kotlin_dsl/)
+- [Ktor 3.2.0 Is Out!](https://www.reddit.com/r/Kotlin/comments/1lg3oau/ktor_320_is_out/)
+- [Kotlin adoption inside ING, 5 years later](https://www.reddit.com/r/Kotlin/comments/1lfxt15/kotlin_adoption_inside_ing_5_years_later/)
+- [10 Jetpack Compose Techniques That Seriously Boosted My Productivity &lpar;With Code Examples&rpar;](https://www.reddit.com/r/Kotlin/comments/1lftr1k/10_jetpack_compose_techniques_that_seriously/)
 - [Ktor 3.2.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1lfgicw/ktor_320_is_now_available/)
 - [Watch KotlinConf 2025 Anytime – Talks and Photos Now Online](https://www.reddit.com/r/Kotlin/comments/1lfehom/watch_kotlinconf_2025_anytime_talks_and_photos/)
 - [KotlinConf 2025 talks available](https://www.reddit.com/r/Kotlin/comments/1lfe8ys/kotlinconf_2025_talks_available/)
-- [I helped build a Kotlin app with 100k+ downloads — is that enough to get hired?](https://www.reddit.com/r/Kotlin/comments/1lf406u/i_helped_build_a_kotlin_app_with_100k_downloads/)
-- [Apache Fory Serialization Framework 0.11.0 Released](https://www.reddit.com/r/Kotlin/comments/1lf10an/apache_fory_serialization_framework_0110_released/)
-- [Decorator Pattern in Kotlin — Embracing Open/Closed Principle](https://www.reddit.com/r/Kotlin/comments/1lej6h6/decorator_pattern_in_kotlin_embracing_openclosed/)
-- [What do u think of Junie](https://www.reddit.com/r/Kotlin/comments/1legk4y/what_do_u_think_of_junie/)
-- [http4k AI - Because AI Without Tests is Just Expensive Random Number Generation](https://www.reddit.com/r/Kotlin/comments/1legdh5/http4k_ai_because_ai_without_tests_is_just/)
-- [Is Kotlin suitable for CLI tools development in 2025 ? &lpar;question revisited&rpar;](https://www.reddit.com/r/Kotlin/comments/1lef59b/is_kotlin_suitable_for_cli_tools_development_in/)
-- [SQLiteNow - new KMP library for SQLite](https://www.reddit.com/r/Kotlin/comments/1le0e3j/sqlitenow_new_kmp_library_for_sqlite/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
