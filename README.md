@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Open Source &quot;Sign in with Apple&quot; for Android SDK](https://www.reddit.com/r/Kotlin/comments/1lgwbk6/open_source_sign_in_with_apple_for_android_sdk/)
+- [Is Macbook Air M4 base model with 256gb enough for android development?](https://www.reddit.com/r/Kotlin/comments/1lgvium/is_macbook_air_m4_base_model_with_256gb_enough/)
 - [Deploying Ktor Server Module in Kotlin Multiplatform Project &lpar;kotlinx.rpc&rpar; Guidance](https://www.reddit.com/r/Kotlin/comments/1lgkqxq/deploying_ktor_server_module_in_kotlin/)
 - [Gradle Version Conflicts in Android? Here’s a Practical Fix Guide](https://www.reddit.com/r/Kotlin/comments/1lgklkl/gradle_version_conflicts_in_android_heres_a/)
 - [First semi vibe coded production app! &lpar;Please drop feature requests here&rpar;](https://www.reddit.com/r/Kotlin/comments/1lgimu9/first_semi_vibe_coded_production_app_please_drop/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin adoption inside ING, 5 years later](https://www.reddit.com/r/Kotlin/comments/1lfxt15/kotlin_adoption_inside_ing_5_years_later/)
 - [10 Jetpack Compose Techniques That Seriously Boosted My Productivity &lpar;With Code Examples&rpar;](https://www.reddit.com/r/Kotlin/comments/1lftr1k/10_jetpack_compose_techniques_that_seriously/)
 - [Ktor 3.2.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1lfgicw/ktor_320_is_now_available/)
-- [Watch KotlinConf 2025 Anytime – Talks and Photos Now Online](https://www.reddit.com/r/Kotlin/comments/1lfehom/watch_kotlinconf_2025_anytime_talks_and_photos/)
-- [KotlinConf 2025 talks available](https://www.reddit.com/r/Kotlin/comments/1lfe8ys/kotlinconf_2025_talks_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
