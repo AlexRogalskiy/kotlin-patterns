@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A strange, but I hope basic, question about serialization](https://www.reddit.com/r/Kotlin/comments/1liyw7x/a_strange_but_i_hope_basic_question_about/)
+- [🌈 JVM Rainbow - Mixing Kotlin Java Scala and Groovy](https://www.reddit.com/r/Kotlin/comments/1lit8je/jvm_rainbow_mixing_kotlin_java_scala_and_groovy/)
+- [Vanilla Kotlin - A Frameworkless Approach to Backend Microservices Development](https://www.reddit.com/r/Kotlin/comments/1lijxg4/vanilla_kotlin_a_frameworkless_approach_to/)
+- [Kotlin 2.2.0 Released](https://www.reddit.com/r/Kotlin/comments/1lij7fh/kotlin_220_released/)
+- [Is kotlin multiplatform already stable?](https://www.reddit.com/r/Kotlin/comments/1lii2pu/is_kotlin_multiplatform_already_stable/)
 - [Open Source &quot;Sign in with Apple&quot; for Android SDK](https://www.reddit.com/r/Kotlin/comments/1lgwbk6/open_source_sign_in_with_apple_for_android_sdk/)
 - [Is Macbook Air M4 base model with 256gb enough for android development?](https://www.reddit.com/r/Kotlin/comments/1lgvium/is_macbook_air_m4_base_model_with_256gb_enough/)
 - [Deploying Ktor Server Module in Kotlin Multiplatform Project &lpar;kotlinx.rpc&rpar; Guidance](https://www.reddit.com/r/Kotlin/comments/1lgkqxq/deploying_ktor_server_module_in_kotlin/)
 - [Gradle Version Conflicts in Android? Here’s a Practical Fix Guide](https://www.reddit.com/r/Kotlin/comments/1lgklkl/gradle_version_conflicts_in_android_heres_a/)
 - [First semi vibe coded production app! &lpar;Please drop feature requests here&rpar;](https://www.reddit.com/r/Kotlin/comments/1lgimu9/first_semi_vibe_coded_production_app_please_drop/)
-- [Given When Then - Refactoring to a Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1lg4e1l/given_when_then_refactoring_to_a_kotlin_dsl/)
-- [Ktor 3.2.0 Is Out!](https://www.reddit.com/r/Kotlin/comments/1lg3oau/ktor_320_is_out/)
-- [Kotlin adoption inside ING, 5 years later](https://www.reddit.com/r/Kotlin/comments/1lfxt15/kotlin_adoption_inside_ing_5_years_later/)
-- [10 Jetpack Compose Techniques That Seriously Boosted My Productivity &lpar;With Code Examples&rpar;](https://www.reddit.com/r/Kotlin/comments/1lftr1k/10_jetpack_compose_techniques_that_seriously/)
-- [Ktor 3.2.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1lfgicw/ktor_320_is_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
