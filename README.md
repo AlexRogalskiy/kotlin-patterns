@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just coded my first android app with Kotlin in 2 days !](https://www.reddit.com/r/Kotlin/comments/1ljuapz/just_coded_my_first_android_app_with_kotlin_in_2/)
+- [Just Started Learning Android Development with Kotlin – Any Tips or Roadmap Suggestions?](https://www.reddit.com/r/Kotlin/comments/1ljteui/just_started_learning_android_development_with/)
+- [Vibe coded an Al Story App Solo in KMP- and It Paid Off Fast 💰](https://www.reddit.com/r/Kotlin/comments/1ljmgl4/vibe_coded_an_al_story_app_solo_in_kmp_and_it/)
+- [The state of KMP](https://www.reddit.com/r/Kotlin/comments/1ljkxl0/the_state_of_kmp/)
+- [Thoughts on Koog?](https://www.reddit.com/r/Kotlin/comments/1ljiqt8/thoughts_on_koog/)
+- [Why I love Kotlin](https://www.reddit.com/r/Kotlin/comments/1ljhqui/why_i_love_kotlin/)
+- [Introducing NetFlow KMP: Shared Networking for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1ljcids/introducing_netflow_kmp_shared_networking_for/)
+- [I have updated the Kotlin offical document &lpar;Chinese Translation edition&rpar; to version 2.1.20](https://www.reddit.com/r/Kotlin/comments/1ljaems/i_have_updated_the_kotlin_offical_document/)
+- [Problem with Kotlin Serialization on Quarkus](https://www.reddit.com/r/Kotlin/comments/1lja85f/problem_with_kotlin_serialization_on_quarkus/)
 - [A strange, but I hope basic, question about serialization](https://www.reddit.com/r/Kotlin/comments/1liyw7x/a_strange_but_i_hope_basic_question_about/)
-- [🌈 JVM Rainbow - Mixing Kotlin Java Scala and Groovy](https://www.reddit.com/r/Kotlin/comments/1lit8je/jvm_rainbow_mixing_kotlin_java_scala_and_groovy/)
-- [Vanilla Kotlin - A Frameworkless Approach to Backend Microservices Development](https://www.reddit.com/r/Kotlin/comments/1lijxg4/vanilla_kotlin_a_frameworkless_approach_to/)
-- [Kotlin 2.2.0 Released](https://www.reddit.com/r/Kotlin/comments/1lij7fh/kotlin_220_released/)
-- [Is kotlin multiplatform already stable?](https://www.reddit.com/r/Kotlin/comments/1lii2pu/is_kotlin_multiplatform_already_stable/)
-- [Open Source &quot;Sign in with Apple&quot; for Android SDK](https://www.reddit.com/r/Kotlin/comments/1lgwbk6/open_source_sign_in_with_apple_for_android_sdk/)
-- [Is Macbook Air M4 base model with 256gb enough for android development?](https://www.reddit.com/r/Kotlin/comments/1lgvium/is_macbook_air_m4_base_model_with_256gb_enough/)
-- [Deploying Ktor Server Module in Kotlin Multiplatform Project &lpar;kotlinx.rpc&rpar; Guidance](https://www.reddit.com/r/Kotlin/comments/1lgkqxq/deploying_ktor_server_module_in_kotlin/)
-- [Gradle Version Conflicts in Android? Here’s a Practical Fix Guide](https://www.reddit.com/r/Kotlin/comments/1lgklkl/gradle_version_conflicts_in_android_heres_a/)
-- [First semi vibe coded production app! &lpar;Please drop feature requests here&rpar;](https://www.reddit.com/r/Kotlin/comments/1lgimu9/first_semi_vibe_coded_production_app_please_drop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
