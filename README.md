@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just coded my first android app with Kotlin in 2 days !](https://www.reddit.com/r/Kotlin/comments/1ljuapz/just_coded_my_first_android_app_with_kotlin_in_2/)
+- [Announcing the Swift on Android Workgroup](https://www.reddit.com/r/Kotlin/comments/1lko0rv/announcing_the_swift_on_android_workgroup/)
+- [simple yt-dlp gui made by kmm](https://www.reddit.com/r/Kotlin/comments/1lkm54r/simple_ytdlp_gui_made_by_kmm/)
+- [Can Project Loom Emable Go-style Concurrency?](https://www.reddit.com/r/Kotlin/comments/1lklfah/can_project_loom_emable_gostyle_concurrency/)
+- [Watch the Kotlin Notebook Demo](https://www.reddit.com/r/Kotlin/comments/1lk2o7l/watch_the_kotlin_notebook_demo/)
+- [The Potato Cannon - or what do you think about BDD Testing?](https://www.reddit.com/r/Kotlin/comments/1lk0mxi/the_potato_cannon_or_what_do_you_think_about_bdd/)
+- [Error mapping R2DBC query result for a row with a column of array PostgreSQL type](https://www.reddit.com/r/Kotlin/comments/1ljwi0u/error_mapping_r2dbc_query_result_for_a_row_with_a/)
+- [How Misused Kotlin Flow Code Might Be Silently Killing Your App’s Battery](https://www.reddit.com/r/Kotlin/comments/1ljuyt8/how_misused_kotlin_flow_code_might_be_silently/)
 - [Just Started Learning Android Development with Kotlin – Any Tips or Roadmap Suggestions?](https://www.reddit.com/r/Kotlin/comments/1ljteui/just_started_learning_android_development_with/)
 - [Vibe coded an Al Story App Solo in KMP- and It Paid Off Fast 💰](https://www.reddit.com/r/Kotlin/comments/1ljmgl4/vibe_coded_an_al_story_app_solo_in_kmp_and_it/)
 - [The state of KMP](https://www.reddit.com/r/Kotlin/comments/1ljkxl0/the_state_of_kmp/)
-- [Thoughts on Koog?](https://www.reddit.com/r/Kotlin/comments/1ljiqt8/thoughts_on_koog/)
-- [Why I love Kotlin](https://www.reddit.com/r/Kotlin/comments/1ljhqui/why_i_love_kotlin/)
-- [Introducing NetFlow KMP: Shared Networking for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1ljcids/introducing_netflow_kmp_shared_networking_for/)
-- [I have updated the Kotlin offical document &lpar;Chinese Translation edition&rpar; to version 2.1.20](https://www.reddit.com/r/Kotlin/comments/1ljaems/i_have_updated_the_kotlin_offical_document/)
-- [Problem with Kotlin Serialization on Quarkus](https://www.reddit.com/r/Kotlin/comments/1lja85f/problem_with_kotlin_serialization_on_quarkus/)
-- [A strange, but I hope basic, question about serialization](https://www.reddit.com/r/Kotlin/comments/1liyw7x/a_strange_but_i_hope_basic_question_about/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
