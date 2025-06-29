@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Unity Developer, I want to create an application for iOS/Android. Should I learn react native or kotlin?](https://www.reddit.com/r/Kotlin/comments/1lmub6h/unity_developer_i_want_to_create_an_application/)
+- [Is there support for material 3 expressive for compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1lmjcpw/is_there_support_for_material_3_expressive_for/)
+- [kotlin as a language...](https://www.reddit.com/r/Kotlin/comments/1lmhudh/kotlin_as_a_language/)
 - [✨ Just released my first OSS library: **Composive** – effortless responsive UI for Compose Multiplatform!](https://www.reddit.com/r/Kotlin/comments/1llxchx/just_released_my_first_oss_library_composive/)
 - [Kotlin vs Cucumber](https://www.reddit.com/r/Kotlin/comments/1lluo7z/kotlin_vs_cucumber/)
 - [📽️ Livestream: How to Boost JVM Scalability and Performance](https://www.reddit.com/r/Kotlin/comments/1llsmo3/livestream_how_to_boost_jvm_scalability_and/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Upgrading to Kotlin 2.2.0 results in &quot;Identity-sensitive operation on an instance of value type&quot; warnings](https://www.reddit.com/r/Kotlin/comments/1llai61/upgrading_to_kotlin_220_results_in/)
 - [ever had a backend kotlin job where you didn&#39;t have to know or do java at all?](https://www.reddit.com/r/Kotlin/comments/1ll5zt4/ever_had_a_backend_kotlin_job_where_you_didnt/)
 - [Switching from Java to kotlin](https://www.reddit.com/r/Kotlin/comments/1lkxkx2/switching_from_java_to_kotlin/)
-- [Using Gemini, but no vibe coding, a weekly story.](https://www.reddit.com/r/Kotlin/comments/1lkw9id/using_gemini_but_no_vibe_coding_a_weekly_story/)
-- [Announcing the Swift on Android Workgroup](https://www.reddit.com/r/Kotlin/comments/1lko0rv/announcing_the_swift_on_android_workgroup/)
-- [simple yt-dlp gui made by kmm](https://www.reddit.com/r/Kotlin/comments/1lkm54r/simple_ytdlp_gui_made_by_kmm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
