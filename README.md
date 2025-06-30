@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Serious Android/Kotlin Learner Looking for a Mentor or Code Reviewer](https://www.reddit.com/r/Kotlin/comments/1ln693u/serious_androidkotlin_learner_looking_for_a/)
 - [Unity Developer, I want to create an application for iOS/Android. Should I learn react native or kotlin?](https://www.reddit.com/r/Kotlin/comments/1lmub6h/unity_developer_i_want_to_create_an_application/)
 - [Is there support for material 3 expressive for compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1lmjcpw/is_there_support_for_material_3_expressive_for/)
 - [kotlin as a language...](https://www.reddit.com/r/Kotlin/comments/1lmhudh/kotlin_as_a_language/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Why Smart Developers Rely on Libraries](https://www.reddit.com/r/Kotlin/comments/1lljqag/why_smart_developers_rely_on_libraries/)
 - [Upgrading to Kotlin 2.2.0 results in &quot;Identity-sensitive operation on an instance of value type&quot; warnings](https://www.reddit.com/r/Kotlin/comments/1llai61/upgrading_to_kotlin_220_results_in/)
 - [ever had a backend kotlin job where you didn&#39;t have to know or do java at all?](https://www.reddit.com/r/Kotlin/comments/1ll5zt4/ever_had_a_backend_kotlin_job_where_you_didnt/)
-- [Switching from Java to kotlin](https://www.reddit.com/r/Kotlin/comments/1lkxkx2/switching_from_java_to_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
