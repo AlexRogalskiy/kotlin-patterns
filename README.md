@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Analyzing 100k Kolton job postings: Trends and opportunities.](https://www.reddit.com/r/Kotlin/comments/1lont8z/analyzing_100k_kolton_job_postings_trends_and/)
+- [Built this using Kotlin Compose - An AI-powered overlay that analyzes your screen and audio, stays on top, and hides from screen recorders](https://www.reddit.com/r/Kotlin/comments/1lohpdg/built_this_using_kotlin_compose_an_aipowered/)
+- [Update: Deskit v1.3.0](https://www.reddit.com/r/Kotlin/comments/1lohdvg/update_deskit_v130/)
+- [Kotlin Value Class: Type Safety Without Runtime Overhead](https://www.reddit.com/r/Kotlin/comments/1loeo1u/kotlin_value_class_type_safety_without_runtime/)
+- [Understanding CompositionLocalProvider in Jetpack Compose – The Clean Way to Pass Data](https://www.reddit.com/r/Kotlin/comments/1lny41r/understanding_compositionlocalprovider_in_jetpack/)
 - [Serious Android/Kotlin Learner Looking for a Mentor or Code Reviewer](https://www.reddit.com/r/Kotlin/comments/1ln693u/serious_androidkotlin_learner_looking_for_a/)
 - [Unity Developer, I want to create an application for iOS/Android. Should I learn react native or kotlin?](https://www.reddit.com/r/Kotlin/comments/1lmub6h/unity_developer_i_want_to_create_an_application/)
 - [Is there support for material 3 expressive for compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1lmjcpw/is_there_support_for_material_3_expressive_for/)
 - [kotlin as a language...](https://www.reddit.com/r/Kotlin/comments/1lmhudh/kotlin_as_a_language/)
 - [✨ Just released my first OSS library: **Composive** – effortless responsive UI for Compose Multiplatform!](https://www.reddit.com/r/Kotlin/comments/1llxchx/just_released_my_first_oss_library_composive/)
-- [Kotlin vs Cucumber](https://www.reddit.com/r/Kotlin/comments/1lluo7z/kotlin_vs_cucumber/)
-- [📽️ Livestream: How to Boost JVM Scalability and Performance](https://www.reddit.com/r/Kotlin/comments/1llsmo3/livestream_how_to_boost_jvm_scalability_and/)
-- [Why Smart Developers Rely on Libraries](https://www.reddit.com/r/Kotlin/comments/1lljqag/why_smart_developers_rely_on_libraries/)
-- [Upgrading to Kotlin 2.2.0 results in &quot;Identity-sensitive operation on an instance of value type&quot; warnings](https://www.reddit.com/r/Kotlin/comments/1llai61/upgrading_to_kotlin_220_results_in/)
-- [ever had a backend kotlin job where you didn&#39;t have to know or do java at all?](https://www.reddit.com/r/Kotlin/comments/1ll5zt4/ever_had_a_backend_kotlin_job_where_you_didnt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
