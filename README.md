@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The ideal function length - Martin Fowler](https://www.reddit.com/r/Kotlin/comments/1lqdy2c/the_ideal_function_length_martin_fowler/)
+- [How do I use &quot;Kotlin Playground&quot;&#39;s JUnit?](https://www.reddit.com/r/Kotlin/comments/1lq70lk/how_do_i_use_kotlin_playgrounds_junit/)
+- [Burn It With Fire: How to Eliminate an Industry-Wide Supply Chain Vulnerability](https://www.reddit.com/r/Kotlin/comments/1lq3ck2/burn_it_with_fire_how_to_eliminate_an/)
+- [Functions - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lpxvll/functions_dave_leeds_on_kotlin/)
+- [Is Kotlin the language that I&#39;ve always looked for?](https://www.reddit.com/r/Kotlin/comments/1lpsipx/is_kotlin_the_language_that_ive_always_looked_for/)
 - [Don&#39;t use Type-safe Project Accessors with Kotlin Gradle DSL](https://www.reddit.com/r/Kotlin/comments/1lpkfk6/dont_use_typesafe_project_accessors_with_kotlin/)
 - [my first application in kotlin](https://www.reddit.com/r/Kotlin/comments/1lp87eb/my_first_application_in_kotlin/)
 - [Variables, Expressions, and Types - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lp2yhh/variables_expressions_and_types_dave_leeds_on/)
 - [Repetitive CRUD REST APIs in Ktor](https://www.reddit.com/r/Kotlin/comments/1lozonj/repetitive_crud_rest_apis_in_ktor/)
 - [Fee Webinar: Mistakes You’re Making Using Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/1loul8q/fee_webinar_mistakes_youre_making_using_kotlin/)
-- [Meta joins Kotlin](https://www.reddit.com/r/Kotlin/comments/1lorvw7/meta_joins_kotlin/)
-- [Built this using Kotlin Compose - An AI-powered overlay that analyzes your screen and audio, stays on top, and hides from screen recorders](https://www.reddit.com/r/Kotlin/comments/1lohpdg/built_this_using_kotlin_compose_an_aipowered/)
-- [Update: Deskit v1.3.0](https://www.reddit.com/r/Kotlin/comments/1lohdvg/update_deskit_v130/)
-- [Kotlin Value Class: Type Safety Without Runtime Overhead](https://www.reddit.com/r/Kotlin/comments/1loeo1u/kotlin_value_class_type_safety_without_runtime/)
-- [Understanding CompositionLocalProvider in Jetpack Compose – The Clean Way to Pass Data](https://www.reddit.com/r/Kotlin/comments/1lny41r/understanding_compositionlocalprovider_in_jetpack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
