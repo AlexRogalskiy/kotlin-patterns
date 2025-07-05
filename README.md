@@ -272,7 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Context parameters in Kotlin 2.2](https://www.reddit.com/r/Kotlin/comments/1lr2uvi/context_parameters_in_kotlin_22/)
+- [Enum Classes - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lryato/enum_classes_dave_leeds_on_kotlin/)
+- [Screenplay - Refactoring to Expressive Tests](https://www.reddit.com/r/Kotlin/comments/1lrke2c/screenplay_refactoring_to_expressive_tests/)
+- [My Thoughts on Kotlin: Perspectives after 4 years](https://www.reddit.com/r/Kotlin/comments/1lrdb6f/my_thoughts_on_kotlin_perspectives_after_4_years/)
 - [What is the best approach to use Mapbox SDK in Compose Multiplaform?](https://www.reddit.com/r/Kotlin/comments/1lqqvua/what_is_the_best_approach_to_use_mapbox_sdk_in/)
 - [Kotlin Conditionals: When and If - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lqpv8t/kotlin_conditionals_when_and_if_dave_leeds_on/)
 - [Using Gemini, I am playing checkers when it&#39;s playing chess, a weekly story.](https://www.reddit.com/r/Kotlin/comments/1lqpitq/using_gemini_i_am_playing_checkers_when_its/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin 2.2.0 arrives with context parameters, unified management of compiler warnings](https://www.reddit.com/r/Kotlin/comments/1lqm4ae/kotlin_220_arrives_with_context_parameters/)
 - [Biggest App development Myth](https://www.reddit.com/r/Kotlin/comments/1lqggf1/biggest_app_development_myth/)
 - [The ideal function length - Martin Fowler](https://www.reddit.com/r/Kotlin/comments/1lqdy2c/the_ideal_function_length_martin_fowler/)
-- [How do I use &quot;Kotlin Playground&quot;&#39;s JUnit?](https://www.reddit.com/r/Kotlin/comments/1lq70lk/how_do_i_use_kotlin_playgrounds_junit/)
-- [Burn It With Fire: How to Eliminate an Industry-Wide Supply Chain Vulnerability](https://www.reddit.com/r/Kotlin/comments/1lq3ck2/burn_it_with_fire_how_to_eliminate_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
