@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [From Python to Kotlin: Why We Rewrote Our Scraping Framework in Kotlin](https://www.reddit.com/r/Kotlin/comments/1lsnytm/from_python_to_kotlin_why_we_rewrote_our_scraping/)
+- [KReplica: A DTO generator with variants, sealed hierarchy, and value class support](https://www.reddit.com/r/Kotlin/comments/1lskokq/kreplica_a_dto_generator_with_variants_sealed/)
+- [Sol4k 0.5.15 is out adding Kotlin 2.2.0 support](https://www.reddit.com/r/Kotlin/comments/1lsk34s/sol4k_0515_is_out_adding_kotlin_220_support/)
+- [I love Kotlin and wanted to use it for a desktop app, but Compose Multiplatform is trash](https://www.reddit.com/r/Kotlin/comments/1lsiacd/i_love_kotlin_and_wanted_to_use_it_for_a_desktop/)
+- [Can you use any library with KMP on IOS ?](https://www.reddit.com/r/Kotlin/comments/1lsfxg3/can_you_use_any_library_with_kmp_on_ios/)
+- [Kotlin and Spring](https://www.reddit.com/r/Kotlin/comments/1lsdrci/kotlin_and_spring/)
 - [Enum Classes - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lryato/enum_classes_dave_leeds_on_kotlin/)
 - [Screenplay - Refactoring to Expressive Tests](https://www.reddit.com/r/Kotlin/comments/1lrke2c/screenplay_refactoring_to_expressive_tests/)
 - [My Thoughts on Kotlin: Perspectives after 4 years](https://www.reddit.com/r/Kotlin/comments/1lrdb6f/my_thoughts_on_kotlin_perspectives_after_4_years/)
 - [What is the best approach to use Mapbox SDK in Compose Multiplaform?](https://www.reddit.com/r/Kotlin/comments/1lqqvua/what_is_the_best_approach_to_use_mapbox_sdk_in/)
-- [Kotlin Conditionals: When and If - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lqpv8t/kotlin_conditionals_when_and_if_dave_leeds_on/)
-- [Using Gemini, I am playing checkers when it&#39;s playing chess, a weekly story.](https://www.reddit.com/r/Kotlin/comments/1lqpitq/using_gemini_i_am_playing_checkers_when_its/)
-- [Started learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1lqph02/started_learning_kotlin/)
-- [Kotlin 2.2.0 arrives with context parameters, unified management of compiler warnings](https://www.reddit.com/r/Kotlin/comments/1lqm4ae/kotlin_220_arrives_with_context_parameters/)
-- [Biggest App development Myth](https://www.reddit.com/r/Kotlin/comments/1lqggf1/biggest_app_development_myth/)
-- [The ideal function length - Martin Fowler](https://www.reddit.com/r/Kotlin/comments/1lqdy2c/the_ideal_function_length_martin_fowler/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
