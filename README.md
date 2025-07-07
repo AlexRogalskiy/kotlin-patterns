@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lambdas and Function References - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1ltio2w/lambdas_and_function_references_dave_leeds_on/)
+- [I built an open-source tool to help with migrating Android Compose projects to Compose Multiplatform &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1lt5kpr/i_built_an_opensource_tool_to_help_with_migrating/)
+- [Is jetbrains planing to support kmp applications natively &lpar; specifically for desktop &rpar;, which would be compiled to native binaries . &lpar; rather than bundling a jvm with it &rpar;](https://www.reddit.com/r/Kotlin/comments/1lsuq9w/is_jetbrains_planing_to_support_kmp_applications/)
+- [Nulls and Null Safety - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lsse17/nulls_and_null_safety_dave_leeds_on_kotlin/)
 - [From Python to Kotlin: Why We Rewrote Our Scraping Framework in Kotlin](https://www.reddit.com/r/Kotlin/comments/1lsnytm/from_python_to_kotlin_why_we_rewrote_our_scraping/)
 - [KReplica: A DTO generator with variants, sealed hierarchy, and value class support](https://www.reddit.com/r/Kotlin/comments/1lskokq/kreplica_a_dto_generator_with_variants_sealed/)
 - [Sol4k 0.5.15 is out adding Kotlin 2.2.0 support](https://www.reddit.com/r/Kotlin/comments/1lsk34s/sol4k_0515_is_out_adding_kotlin_220_support/)
 - [I love Kotlin and wanted to use it for a desktop app, but Compose Multiplatform is trash](https://www.reddit.com/r/Kotlin/comments/1lsiacd/i_love_kotlin_and_wanted_to_use_it_for_a_desktop/)
 - [Can you use any library with KMP on IOS ?](https://www.reddit.com/r/Kotlin/comments/1lsfxg3/can_you_use_any_library_with_kmp_on_ios/)
 - [Kotlin and Spring](https://www.reddit.com/r/Kotlin/comments/1lsdrci/kotlin_and_spring/)
-- [Enum Classes - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lryato/enum_classes_dave_leeds_on_kotlin/)
-- [Screenplay - Refactoring to Expressive Tests](https://www.reddit.com/r/Kotlin/comments/1lrke2c/screenplay_refactoring_to_expressive_tests/)
-- [My Thoughts on Kotlin: Perspectives after 4 years](https://www.reddit.com/r/Kotlin/comments/1lrdb6f/my_thoughts_on_kotlin_perspectives_after_4_years/)
-- [What is the best approach to use Mapbox SDK in Compose Multiplaform?](https://www.reddit.com/r/Kotlin/comments/1lqqvua/what_is_the_best_approach_to_use_mapbox_sdk_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
