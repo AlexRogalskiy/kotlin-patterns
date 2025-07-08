@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Collections: Lists and Sets - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1ludck8/collections_lists_and_sets_dave_leeds_on_kotlin/)
+- [Does anyone know how to make IDEA&#39;s &quot;Specify return type explicitly&quot; stop making things nullable?](https://www.reddit.com/r/Kotlin/comments/1luajil/does_anyone_know_how_to_make_ideas_specify_return/)
+- [Seeking Resources for Building an In-Memory Distributed Key-Value Database](https://www.reddit.com/r/Kotlin/comments/1lu2qk9/seeking_resources_for_building_an_inmemory/)
+- [JobRunr v8: Kotlin Serialization support + Carbon Aware Jobs](https://www.reddit.com/r/Kotlin/comments/1ltzrrl/jobrunr_v8_kotlin_serialization_support_carbon/)
+- [Kotlin Newbie – Need Tips to Get a Dev Job by Year-End](https://www.reddit.com/r/Kotlin/comments/1ltvm6m/kotlin_newbie_need_tips_to_get_a_dev_job_by/)
+- [Kotlin now lives forever in the biggest glacier of the Alpes! &lpar;This is not pollution, it&#39;s a tradition and the local guide encouraged me to do so&rpar;](https://www.reddit.com/r/Kotlin/comments/1ltodsu/kotlin_now_lives_forever_in_the_biggest_glacier/)
+- [KDTO v1.0.0 released!: Library for auto generating DTOs](https://www.reddit.com/r/Kotlin/comments/1ltmmsi/kdto_v100_released_library_for_auto_generating/)
 - [Lambdas and Function References - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1ltio2w/lambdas_and_function_references_dave_leeds_on/)
 - [I built an open-source tool to help with migrating Android Compose projects to Compose Multiplatform &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1lt5kpr/i_built_an_opensource_tool_to_help_with_migrating/)
 - [Is jetbrains planing to support kmp applications natively &lpar; specifically for desktop &rpar;, which would be compiled to native binaries . &lpar; rather than bundling a jvm with it &rpar;](https://www.reddit.com/r/Kotlin/comments/1lsuq9w/is_jetbrains_planing_to_support_kmp_applications/)
-- [Nulls and Null Safety - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lsse17/nulls_and_null_safety_dave_leeds_on_kotlin/)
-- [From Python to Kotlin: Why We Rewrote Our Scraping Framework in Kotlin](https://www.reddit.com/r/Kotlin/comments/1lsnytm/from_python_to_kotlin_why_we_rewrote_our_scraping/)
-- [KReplica: A DTO generator with variants, sealed hierarchy, and value class support](https://www.reddit.com/r/Kotlin/comments/1lskokq/kreplica_a_dto_generator_with_variants_sealed/)
-- [Sol4k 0.5.15 is out adding Kotlin 2.2.0 support](https://www.reddit.com/r/Kotlin/comments/1lsk34s/sol4k_0515_is_out_adding_kotlin_220_support/)
-- [I love Kotlin and wanted to use it for a desktop app, but Compose Multiplatform is trash](https://www.reddit.com/r/Kotlin/comments/1lsiacd/i_love_kotlin_and_wanted_to_use_it_for_a_desktop/)
-- [Can you use any library with KMP on IOS ?](https://www.reddit.com/r/Kotlin/comments/1lsfxg3/can_you_use_any_library_with_kmp_on_ios/)
-- [Kotlin and Spring](https://www.reddit.com/r/Kotlin/comments/1lsdrci/kotlin_and_spring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
