@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin 2.2 Livestream With the Language Evolution Team | July 10, 2 pm UTC](https://www.reddit.com/r/Kotlin/comments/1lus0xl/kotlin_22_livestream_with_the_language_evolution/)
+- [We ran the same Kotlin app on Firebase and Kotzilla. Here&#39;s what Firebase missed.](https://www.reddit.com/r/Kotlin/comments/1luotra/we_ran_the_same_kotlin_app_on_firebase_and/)
+- [Confusion Around Blocking Calls in Coroutines and Thread Management &lpar;IO vs Default Dispatcher&rpar;](https://www.reddit.com/r/Kotlin/comments/1lunzul/confusion_around_blocking_calls_in_coroutines_and/)
+- [The Holder Pattern in Kotlin for Android Developers](https://www.reddit.com/r/Kotlin/comments/1lul6md/the_holder_pattern_in_kotlin_for_android/)
+- [Handling Lifecycle in Jetpack Compose – From DisposableEffect to repeatOnLifecycle &lpar;Full Guide&rpar;](https://www.reddit.com/r/Kotlin/comments/1lujolh/handling_lifecycle_in_jetpack_compose_from/)
+- [Implementing Google Map service as a beginner.](https://www.reddit.com/r/Kotlin/comments/1lugnsu/implementing_google_map_service_as_a_beginner/)
 - [Collections: Lists and Sets - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1ludck8/collections_lists_and_sets_dave_leeds_on_kotlin/)
 - [Does anyone know how to make IDEA&#39;s &quot;Specify return type explicitly&quot; stop making things nullable?](https://www.reddit.com/r/Kotlin/comments/1luajil/does_anyone_know_how_to_make_ideas_specify_return/)
 - [Seeking Resources for Building an In-Memory Distributed Key-Value Database](https://www.reddit.com/r/Kotlin/comments/1lu2qk9/seeking_resources_for_building_an_inmemory/)
 - [JobRunr v8: Kotlin Serialization support + Carbon Aware Jobs](https://www.reddit.com/r/Kotlin/comments/1ltzrrl/jobrunr_v8_kotlin_serialization_support_carbon/)
-- [Kotlin Newbie – Need Tips to Get a Dev Job by Year-End](https://www.reddit.com/r/Kotlin/comments/1ltvm6m/kotlin_newbie_need_tips_to_get_a_dev_job_by/)
-- [Kotlin now lives forever in the biggest glacier of the Alpes! &lpar;This is not pollution, it&#39;s a tradition and the local guide encouraged me to do so&rpar;](https://www.reddit.com/r/Kotlin/comments/1ltodsu/kotlin_now_lives_forever_in_the_biggest_glacier/)
-- [KDTO v1.0.0 released!: Library for auto generating DTOs](https://www.reddit.com/r/Kotlin/comments/1ltmmsi/kdto_v100_released_library_for_auto_generating/)
-- [Lambdas and Function References - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1ltio2w/lambdas_and_function_references_dave_leeds_on/)
-- [I built an open-source tool to help with migrating Android Compose projects to Compose Multiplatform &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1lt5kpr/i_built_an_opensource_tool_to_help_with_migrating/)
-- [Is jetbrains planing to support kmp applications natively &lpar; specifically for desktop &rpar;, which would be compiled to native binaries . &lpar; rather than bundling a jvm with it &rpar;](https://www.reddit.com/r/Kotlin/comments/1lsuq9w/is_jetbrains_planing_to_support_kmp_applications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
