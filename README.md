@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Receivers and Extensions - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lw0ymk/receivers_and_extensions_dave_leeds_on_kotlin/)
+- [New to this world](https://www.reddit.com/r/Kotlin/comments/1lvrqwn/new_to_this_world/)
+- [How to create an object that extends a class whose main constructor uses context receiver?](https://www.reddit.com/r/Kotlin/comments/1lvo5bl/how_to_create_an_object_that_extends_a_class/)
+- [Launched a platform to help fellow indie devs grow without ads or luck](https://www.reddit.com/r/Kotlin/comments/1lvmpu9/launched_a_platform_to_help_fellow_indie_devs/)
+- [Collections: Maps - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lva00a/collections_maps_dave_leeds_on_kotlin/)
 - [Kotlin 2.2 Livestream With the Language Evolution Team | July 10, 2 pm UTC](https://www.reddit.com/r/Kotlin/comments/1lus0xl/kotlin_22_livestream_with_the_language_evolution/)
 - [We ran the same Kotlin app on Firebase and Kotzilla. Here&#39;s what Firebase missed.](https://www.reddit.com/r/Kotlin/comments/1luotra/we_ran_the_same_kotlin_app_on_firebase_and/)
 - [Confusion Around Blocking Calls in Coroutines and Thread Management &lpar;IO vs Default Dispatcher&rpar;](https://www.reddit.com/r/Kotlin/comments/1lunzul/confusion_around_blocking_calls_in_coroutines_and/)
 - [The Holder Pattern in Kotlin for Android Developers](https://www.reddit.com/r/Kotlin/comments/1lul6md/the_holder_pattern_in_kotlin_for_android/)
 - [Handling Lifecycle in Jetpack Compose – From DisposableEffect to repeatOnLifecycle &lpar;Full Guide&rpar;](https://www.reddit.com/r/Kotlin/comments/1lujolh/handling_lifecycle_in_jetpack_compose_from/)
-- [Implementing Google Map service as a beginner.](https://www.reddit.com/r/Kotlin/comments/1lugnsu/implementing_google_map_service_as_a_beginner/)
-- [Collections: Lists and Sets - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1ludck8/collections_lists_and_sets_dave_leeds_on_kotlin/)
-- [Does anyone know how to make IDEA&#39;s &quot;Specify return type explicitly&quot; stop making things nullable?](https://www.reddit.com/r/Kotlin/comments/1luajil/does_anyone_know_how_to_make_ideas_specify_return/)
-- [Seeking Resources for Building an In-Memory Distributed Key-Value Database](https://www.reddit.com/r/Kotlin/comments/1lu2qk9/seeking_resources_for_building_an_inmemory/)
-- [JobRunr v8: Kotlin Serialization support + Carbon Aware Jobs](https://www.reddit.com/r/Kotlin/comments/1ltzrrl/jobrunr_v8_kotlin_serialization_support_carbon/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
