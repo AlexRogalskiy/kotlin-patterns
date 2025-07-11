@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Recomend Kotling Backend book for learning.](https://www.reddit.com/r/Kotlin/comments/1lwn0mu/recomend_kotling_backend_book_for_learning/)
+- [Es funcional crear un sitio web con Kotlin?](https://www.reddit.com/r/Kotlin/comments/1lwmxke/es_funcional_crear_un_sitio_web_con_kotlin/)
+- [Solo Android devs: Would you use a platform that finds 12 app testers for you?](https://www.reddit.com/r/Kotlin/comments/1lwlt3n/solo_android_devs_would_you_use_a_platform_that/)
+- [KotlinX Serialization - Alternative CSV format](https://www.reddit.com/r/Kotlin/comments/1lwgac9/kotlinx_serialization_alternative_csv_format/)
+- [Using Gemini, resisting temptation..., a weekly story.](https://www.reddit.com/r/Kotlin/comments/1lwbech/using_gemini_resisting_temptation_a_weekly_story/)
+- [Which DI framework are you using right now? &lpar;Quick survey – help us improve Koin&rpar;](https://www.reddit.com/r/Kotlin/comments/1lwa25z/which_di_framework_are_you_using_right_now_quick/)
+- [Let’s Learn Android + Kotlin Together](https://www.reddit.com/r/Kotlin/comments/1lw7has/lets_learn_android_kotlin_together/)
+- [How to learn kotlin on IntelliJ?](https://www.reddit.com/r/Kotlin/comments/1lw340z/how_to_learn_kotlin_on_intellij/)
 - [Receivers and Extensions - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lw0ymk/receivers_and_extensions_dave_leeds_on_kotlin/)
 - [New to this world](https://www.reddit.com/r/Kotlin/comments/1lvrqwn/new_to_this_world/)
-- [How to create an object that extends a class whose main constructor uses context receiver?](https://www.reddit.com/r/Kotlin/comments/1lvo5bl/how_to_create_an_object_that_extends_a_class/)
-- [Launched a platform to help fellow indie devs grow without ads or luck](https://www.reddit.com/r/Kotlin/comments/1lvmpu9/launched_a_platform_to_help_fellow_indie_devs/)
-- [Collections: Maps - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lva00a/collections_maps_dave_leeds_on_kotlin/)
-- [Kotlin 2.2 Livestream With the Language Evolution Team | July 10, 2 pm UTC](https://www.reddit.com/r/Kotlin/comments/1lus0xl/kotlin_22_livestream_with_the_language_evolution/)
-- [We ran the same Kotlin app on Firebase and Kotzilla. Here&#39;s what Firebase missed.](https://www.reddit.com/r/Kotlin/comments/1luotra/we_ran_the_same_kotlin_app_on_firebase_and/)
-- [Confusion Around Blocking Calls in Coroutines and Thread Management &lpar;IO vs Default Dispatcher&rpar;](https://www.reddit.com/r/Kotlin/comments/1lunzul/confusion_around_blocking_calls_in_coroutines_and/)
-- [The Holder Pattern in Kotlin for Android Developers](https://www.reddit.com/r/Kotlin/comments/1lul6md/the_holder_pattern_in_kotlin_for_android/)
-- [Handling Lifecycle in Jetpack Compose – From DisposableEffect to repeatOnLifecycle &lpar;Full Guide&rpar;](https://www.reddit.com/r/Kotlin/comments/1lujolh/handling_lifecycle_in_jetpack_compose_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
