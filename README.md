@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Recomend Kotling Backend book for learning.](https://www.reddit.com/r/Kotlin/comments/1lwn0mu/recomend_kotling_backend_book_for_learning/)
-- [Es funcional crear un sitio web con Kotlin?](https://www.reddit.com/r/Kotlin/comments/1lwmxke/es_funcional_crear_un_sitio_web_con_kotlin/)
-- [Solo Android devs: Would you use a platform that finds 12 app testers for you?](https://www.reddit.com/r/Kotlin/comments/1lwlt3n/solo_android_devs_would_you_use_a_platform_that/)
-- [KotlinX Serialization - Alternative CSV format](https://www.reddit.com/r/Kotlin/comments/1lwgac9/kotlinx_serialization_alternative_csv_format/)
-- [Using Gemini, resisting temptation..., a weekly story.](https://www.reddit.com/r/Kotlin/comments/1lwbech/using_gemini_resisting_temptation_a_weekly_story/)
-- [Which DI framework are you using right now? &lpar;Quick survey – help us improve Koin&rpar;](https://www.reddit.com/r/Kotlin/comments/1lwa25z/which_di_framework_are_you_using_right_now_quick/)
-- [Let’s Learn Android + Kotlin Together](https://www.reddit.com/r/Kotlin/comments/1lw7has/lets_learn_android_kotlin_together/)
-- [How to learn kotlin on IntelliJ?](https://www.reddit.com/r/Kotlin/comments/1lw340z/how_to_learn_kotlin_on_intellij/)
-- [Receivers and Extensions - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lw0ymk/receivers_and_extensions_dave_leeds_on_kotlin/)
-- [New to this world](https://www.reddit.com/r/Kotlin/comments/1lvrqwn/new_to_this_world/)
+- [Is Exposed non-blocking?](https://www.reddit.com/r/Kotlin/comments/1lxh1uq/is_exposed_nonblocking/)
+- [Best course for beginner](https://www.reddit.com/r/Kotlin/comments/1lxcm8m/best_course_for_beginner/)
+- [KPM, a modern package manager and build tool for Kotlin](https://www.reddit.com/r/Kotlin/comments/1lxbrwh/kpm_a_modern_package_manager_and_build_tool_for/)
+- [SwiftUI for Android Developers - Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1lx8jc0/swiftui_for_android_developers_kotlin/)
+- [Any good Kotlin roadmaps\courses?](https://www.reddit.com/r/Kotlin/comments/1lx8fnv/any_good_kotlin_roadmapscourses/)
+- [See one, Do one, Teach one - Training an AI Agent](https://www.reddit.com/r/Kotlin/comments/1lx63j7/see_one_do_one_teach_one_training_an_ai_agent/)
+- [Koltin Layout Size Problems](https://www.reddit.com/r/Kotlin/comments/1lx3ugp/koltin_layout_size_problems/)
+- [importing extension functions that are not globally accessible.](https://www.reddit.com/r/Kotlin/comments/1lx306s/importing_extension_functions_that_are_not/)
+- [Apache Fory Serialization Framework 0.11.2 Released](https://www.reddit.com/r/Kotlin/comments/1lx25kp/apache_fory_serialization_framework_0112_released/)
+- [Mill Build Tool v1.0.0 Release Highlights, now supports Kotlin builds](https://www.reddit.com/r/Kotlin/comments/1lx0v0t/mill_build_tool_v100_release_highlights_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
