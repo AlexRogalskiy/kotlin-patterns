@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Spring Boot with Kotlin a Solid Choice for Backend Development in Mid-2025?](https://www.reddit.com/r/Kotlin/comments/1lyh356/is_spring_boot_with_kotlin_a_solid_choice_for/)
+- [Introduction to Class Delegation - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lyggrr/introduction_to_class_delegation_dave_leeds_on/)
+- [Newby wants app to confirm/correct pothole locations](https://www.reddit.com/r/Kotlin/comments/1lye09n/newby_wants_app_to_confirmcorrect_pothole/)
+- [Pizza value calculator app](https://www.reddit.com/r/Kotlin/comments/1ly75j8/pizza_value_calculator_app/)
+- [Best Kotlin Course to Remember the Basics](https://www.reddit.com/r/Kotlin/comments/1lxv74r/best_kotlin_course_to_remember_the_basics/)
+- [Introduction to Interfaces - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lxrnr4/introduction_to_interfaces_dave_leeds_on_kotlin/)
 - [Is Exposed non-blocking?](https://www.reddit.com/r/Kotlin/comments/1lxh1uq/is_exposed_nonblocking/)
 - [Best course for beginner](https://www.reddit.com/r/Kotlin/comments/1lxcm8m/best_course_for_beginner/)
 - [KPM, a modern package manager and build tool for Kotlin](https://www.reddit.com/r/Kotlin/comments/1lxbrwh/kpm_a_modern_package_manager_and_build_tool_for/)
 - [SwiftUI for Android Developers - Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1lx8jc0/swiftui_for_android_developers_kotlin/)
-- [Any good Kotlin roadmaps\courses?](https://www.reddit.com/r/Kotlin/comments/1lx8fnv/any_good_kotlin_roadmapscourses/)
-- [See one, Do one, Teach one - Training an AI Agent](https://www.reddit.com/r/Kotlin/comments/1lx63j7/see_one_do_one_teach_one_training_an_ai_agent/)
-- [Koltin Layout Size Problems](https://www.reddit.com/r/Kotlin/comments/1lx3ugp/koltin_layout_size_problems/)
-- [importing extension functions that are not globally accessible.](https://www.reddit.com/r/Kotlin/comments/1lx306s/importing_extension_functions_that_are_not/)
-- [Apache Fory Serialization Framework 0.11.2 Released](https://www.reddit.com/r/Kotlin/comments/1lx25kp/apache_fory_serialization_framework_0112_released/)
-- [Mill Build Tool v1.0.0 Release Highlights, now supports Kotlin builds](https://www.reddit.com/r/Kotlin/comments/1lx0v0t/mill_build_tool_v100_release_highlights_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
