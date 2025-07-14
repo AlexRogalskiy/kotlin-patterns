@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Abstract and Open Classes - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lzavh7/abstract_and_open_classes_dave_leeds_on_kotlin/)
+- [I built a Kotlin-based MCP server for OpenRouter](https://www.reddit.com/r/Kotlin/comments/1lz463g/i_built_a_kotlinbased_mcp_server_for_openrouter/)
+- [有没有Kotlin开发的大佬](https://www.reddit.com/r/Kotlin/comments/1lymswl/有没有kotlin开发的大佬/)
+- [Failed to load plugin &#39;libdecor-gtk.so&#39;: failed to init](https://www.reddit.com/r/Kotlin/comments/1lyjtcl/failed_to_load_plugin_libdecorgtkso_failed_to_init/)
 - [Is Spring Boot with Kotlin a Solid Choice for Backend Development in Mid-2025?](https://www.reddit.com/r/Kotlin/comments/1lyh356/is_spring_boot_with_kotlin_a_solid_choice_for/)
 - [Introduction to Class Delegation - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lyggrr/introduction_to_class_delegation_dave_leeds_on/)
 - [Newby wants app to confirm/correct pothole locations](https://www.reddit.com/r/Kotlin/comments/1lye09n/newby_wants_app_to_confirmcorrect_pothole/)
 - [Pizza value calculator app](https://www.reddit.com/r/Kotlin/comments/1ly75j8/pizza_value_calculator_app/)
 - [Best Kotlin Course to Remember the Basics](https://www.reddit.com/r/Kotlin/comments/1lxv74r/best_kotlin_course_to_remember_the_basics/)
 - [Introduction to Interfaces - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lxrnr4/introduction_to_interfaces_dave_leeds_on_kotlin/)
-- [Is Exposed non-blocking?](https://www.reddit.com/r/Kotlin/comments/1lxh1uq/is_exposed_nonblocking/)
-- [Best course for beginner](https://www.reddit.com/r/Kotlin/comments/1lxcm8m/best_course_for_beginner/)
-- [KPM, a modern package manager and build tool for Kotlin](https://www.reddit.com/r/Kotlin/comments/1lxbrwh/kpm_a_modern_package_manager_and_build_tool_for/)
-- [SwiftUI for Android Developers - Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1lx8jc0/swiftui_for_android_developers_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
