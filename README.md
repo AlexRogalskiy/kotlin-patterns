@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Data Classes and Destructuring - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1m05791/data_classes_and_destructuring_dave_leeds_on/)
+- [Ktor Open API Spec generation](https://www.reddit.com/r/Kotlin/comments/1lzvlpt/ktor_open_api_spec_generation/)
+- [Summon - Type-safe Kotlin Frontend Framework now with a Spring Boot example!](https://www.reddit.com/r/Kotlin/comments/1lzvi9n/summon_typesafe_kotlin_frontend_framework_now/)
+- [Beginning Kotlin and OOP](https://www.reddit.com/r/Kotlin/comments/1lzu41a/beginning_kotlin_and_oop/)
+- [Name-based destructuring in Kotlin](https://www.reddit.com/r/Kotlin/comments/1lzoifo/namebased_destructuring_in_kotlin/)
+- [💜 Love Kotlin? Don’t miss out on KotlinConf news!](https://www.reddit.com/r/Kotlin/comments/1lzmuno/love_kotlin_dont_miss_out_on_kotlinconf_news/)
 - [Abstract and Open Classes - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lzavh7/abstract_and_open_classes_dave_leeds_on_kotlin/)
 - [I built a Kotlin-based MCP server for OpenRouter](https://www.reddit.com/r/Kotlin/comments/1lz463g/i_built_a_kotlinbased_mcp_server_for_openrouter/)
 - [有没有Kotlin开发的大佬](https://www.reddit.com/r/Kotlin/comments/1lymswl/有没有kotlin开发的大佬/)
 - [Failed to load plugin &#39;libdecor-gtk.so&#39;: failed to init](https://www.reddit.com/r/Kotlin/comments/1lyjtcl/failed_to_load_plugin_libdecorgtkso_failed_to_init/)
-- [Is Spring Boot with Kotlin a Solid Choice for Backend Development in Mid-2025?](https://www.reddit.com/r/Kotlin/comments/1lyh356/is_spring_boot_with_kotlin_a_solid_choice_for/)
-- [Introduction to Class Delegation - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lyggrr/introduction_to_class_delegation_dave_leeds_on/)
-- [Newby wants app to confirm/correct pothole locations](https://www.reddit.com/r/Kotlin/comments/1lye09n/newby_wants_app_to_confirmcorrect_pothole/)
-- [Pizza value calculator app](https://www.reddit.com/r/Kotlin/comments/1ly75j8/pizza_value_calculator_app/)
-- [Best Kotlin Course to Remember the Basics](https://www.reddit.com/r/Kotlin/comments/1lxv74r/best_kotlin_course_to_remember_the_basics/)
-- [Introduction to Interfaces - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lxrnr4/introduction_to_interfaces_dave_leeds_on_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
