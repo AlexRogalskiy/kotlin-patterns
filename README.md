@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Made a habit tracker with the new navigation 3 library](https://www.reddit.com/r/Kotlin/comments/1m0yyn2/made_a_habit_tracker_with_the_new_navigation_3/)
+- [How I found a $200k Software Engineer job](https://www.reddit.com/r/Kotlin/comments/1m0yol1/how_i_found_a_200k_software_engineer_job/)
+- [Latest version of Kotlin Multiplatform doesn&#39;t build out of the box](https://www.reddit.com/r/Kotlin/comments/1m0scs0/latest_version_of_kotlin_multiplatform_doesnt/)
+- [Problem downloading Kotlin plugin for Eclipse](https://www.reddit.com/r/Kotlin/comments/1m0qkyh/problem_downloading_kotlin_plugin_for_eclipse/)
+- [The XOR trick from the recent Primeagen vid but in the best lang &lpar;find 2 missing or duplicate values in a list&rpar;](https://www.reddit.com/r/Kotlin/comments/1m0n14v/the_xor_trick_from_the_recent_primeagen_vid_but/)
+- [Played around with WebGL and a bug gave me this.](https://www.reddit.com/r/Kotlin/comments/1m0ms3u/played_around_with_webgl_and_a_bug_gave_me_this/)
+- [I developed a library for generating all possible combinations based on a data class](https://www.reddit.com/r/Kotlin/comments/1m0fsu6/i_developed_a_library_for_generating_all_possible/)
+- [You&#39;re Probably Not Using These MutableStateFlow Methods — Here&#39;s Why You Should](https://www.reddit.com/r/Kotlin/comments/1m0dc0h/youre_probably_not_using_these_mutablestateflow/)
+- [Sqlx4k: added support for JVM targets](https://www.reddit.com/r/Kotlin/comments/1m0bzb4/sqlx4k_added_support_for_jvm_targets/)
 - [Data Classes and Destructuring - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1m05791/data_classes_and_destructuring_dave_leeds_on/)
-- [Ktor Open API Spec generation](https://www.reddit.com/r/Kotlin/comments/1lzvlpt/ktor_open_api_spec_generation/)
-- [Summon - Type-safe Kotlin Frontend Framework now with a Spring Boot example!](https://www.reddit.com/r/Kotlin/comments/1lzvi9n/summon_typesafe_kotlin_frontend_framework_now/)
-- [Beginning Kotlin and OOP](https://www.reddit.com/r/Kotlin/comments/1lzu41a/beginning_kotlin_and_oop/)
-- [Name-based destructuring in Kotlin](https://www.reddit.com/r/Kotlin/comments/1lzoifo/namebased_destructuring_in_kotlin/)
-- [💜 Love Kotlin? Don’t miss out on KotlinConf news!](https://www.reddit.com/r/Kotlin/comments/1lzmuno/love_kotlin_dont_miss_out_on_kotlinconf_news/)
-- [Abstract and Open Classes - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1lzavh7/abstract_and_open_classes_dave_leeds_on_kotlin/)
-- [I built a Kotlin-based MCP server for OpenRouter](https://www.reddit.com/r/Kotlin/comments/1lz463g/i_built_a_kotlinbased_mcp_server_for_openrouter/)
-- [有没有Kotlin开发的大佬](https://www.reddit.com/r/Kotlin/comments/1lymswl/有没有kotlin开发的大佬/)
-- [Failed to load plugin &#39;libdecor-gtk.so&#39;: failed to init](https://www.reddit.com/r/Kotlin/comments/1lyjtcl/failed_to_load_plugin_libdecorgtkso_failed_to_init/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
