@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does your app work offline? - curious if this is a common pain point for others](https://www.reddit.com/r/Kotlin/comments/1m1rxqz/does_your_app_work_offline_curious_if_this_is_a/)
+- [What do you think about using Quarkus with Kotlin in production?](https://www.reddit.com/r/Kotlin/comments/1m1k42k/what_do_you_think_about_using_quarkus_with_kotlin/)
+- [FlowMarbles](https://www.reddit.com/r/Kotlin/comments/1m1hmt5/flowmarbles/)
+- [Build smarter AI agents in Kotlin – Koog 0.3.0 released](https://www.reddit.com/r/Kotlin/comments/1m1gmsj/build_smarter_ai_agents_in_kotlin_koog_030/)
+- [Build smarter AI agents in Kotlin – Koog 0.3.0 released](https://www.reddit.com/r/Kotlin/comments/1m1gmrn/build_smarter_ai_agents_in_kotlin_koog_030/)
+- [Build smarter AI agents in Kotlin – Koog 0.3.0 released](https://www.reddit.com/r/Kotlin/comments/1m1gmog/build_smarter_ai_agents_in_kotlin_koog_030/)
+- [Hello, is this an anime channel?](https://www.reddit.com/r/Kotlin/comments/1m1csvf/hello_is_this_an_anime_channel/)
+- [For those interested in code generation in Kotlin. I wrote an article on Medium](https://www.reddit.com/r/Kotlin/comments/1m15apf/for_those_interested_in_code_generation_in_kotlin/)
 - [Made a habit tracker with the new navigation 3 library](https://www.reddit.com/r/Kotlin/comments/1m0yyn2/made_a_habit_tracker_with_the_new_navigation_3/)
-- [How I found a $200k Software Engineer job](https://www.reddit.com/r/Kotlin/comments/1m0yol1/how_i_found_a_200k_software_engineer_job/)
 - [Latest version of Kotlin Multiplatform doesn&#39;t build out of the box](https://www.reddit.com/r/Kotlin/comments/1m0scs0/latest_version_of_kotlin_multiplatform_doesnt/)
-- [Problem downloading Kotlin plugin for Eclipse](https://www.reddit.com/r/Kotlin/comments/1m0qkyh/problem_downloading_kotlin_plugin_for_eclipse/)
-- [The XOR trick from the recent Primeagen vid but in the best lang &lpar;find 2 missing or duplicate values in a list&rpar;](https://www.reddit.com/r/Kotlin/comments/1m0n14v/the_xor_trick_from_the_recent_primeagen_vid_but/)
-- [Played around with WebGL and a bug gave me this.](https://www.reddit.com/r/Kotlin/comments/1m0ms3u/played_around_with_webgl_and_a_bug_gave_me_this/)
-- [I developed a library for generating all possible combinations based on a data class](https://www.reddit.com/r/Kotlin/comments/1m0fsu6/i_developed_a_library_for_generating_all_possible/)
-- [You&#39;re Probably Not Using These MutableStateFlow Methods — Here&#39;s Why You Should](https://www.reddit.com/r/Kotlin/comments/1m0dc0h/youre_probably_not_using_these_mutablestateflow/)
-- [Sqlx4k: added support for JVM targets](https://www.reddit.com/r/Kotlin/comments/1m0bzb4/sqlx4k_added_support_for_jvm_targets/)
-- [Data Classes and Destructuring - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1m05791/data_classes_and_destructuring_dave_leeds_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
