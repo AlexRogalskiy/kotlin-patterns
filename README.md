@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do you think of Ktor?](https://www.reddit.com/r/Kotlin/comments/1m2j0g4/what_do_you_think_of_ktor/)
+- [Planning to create a beginner friendly community around kotlin. Will the use of Kotlin in domain like kotlinforeveryone.org cause any trademark voilation?](https://www.reddit.com/r/Kotlin/comments/1m2ha2s/planning_to_create_a_beginner_friendly_community/)
+- [Is KMP really taking over the market or it&#39;s just hype](https://www.reddit.com/r/Kotlin/comments/1m2awxm/is_kmp_really_taking_over_the_market_or_its_just/)
+- [How is my dev portfolio](https://www.reddit.com/r/Kotlin/comments/1m264y7/how_is_my_dev_portfolio/)
+- [Class doesn&#39;t survive rotation](https://www.reddit.com/r/Kotlin/comments/1m25thz/class_doesnt_survive_rotation/)
+- [Performance monitoring in production KMP apps - sharing on of our users&#39; experience](https://www.reddit.com/r/Kotlin/comments/1m220ha/performance_monitoring_in_production_kmp_apps/)
+- [Sealed Types - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1m1xeuj/sealed_types_dave_leeds_on_kotlin/)
 - [Does your app work offline? - curious if this is a common pain point for others](https://www.reddit.com/r/Kotlin/comments/1m1rxqz/does_your_app_work_offline_curious_if_this_is_a/)
 - [What do you think about using Quarkus with Kotlin in production?](https://www.reddit.com/r/Kotlin/comments/1m1k42k/what_do_you_think_about_using_quarkus_with_kotlin/)
 - [FlowMarbles](https://www.reddit.com/r/Kotlin/comments/1m1hmt5/flowmarbles/)
-- [Build smarter AI agents in Kotlin – Koog 0.3.0 released](https://www.reddit.com/r/Kotlin/comments/1m1gmsj/build_smarter_ai_agents_in_kotlin_koog_030/)
-- [Build smarter AI agents in Kotlin – Koog 0.3.0 released](https://www.reddit.com/r/Kotlin/comments/1m1gmrn/build_smarter_ai_agents_in_kotlin_koog_030/)
-- [Build smarter AI agents in Kotlin – Koog 0.3.0 released](https://www.reddit.com/r/Kotlin/comments/1m1gmog/build_smarter_ai_agents_in_kotlin_koog_030/)
-- [Hello, is this an anime channel?](https://www.reddit.com/r/Kotlin/comments/1m1csvf/hello_is_this_an_anime_channel/)
-- [For those interested in code generation in Kotlin. I wrote an article on Medium](https://www.reddit.com/r/Kotlin/comments/1m15apf/for_those_interested_in_code_generation_in_kotlin/)
-- [Made a habit tracker with the new navigation 3 library](https://www.reddit.com/r/Kotlin/comments/1m0yyn2/made_a_habit_tracker_with_the_new_navigation_3/)
-- [Latest version of Kotlin Multiplatform doesn&#39;t build out of the box](https://www.reddit.com/r/Kotlin/comments/1m0scs0/latest_version_of_kotlin_multiplatform_doesnt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
