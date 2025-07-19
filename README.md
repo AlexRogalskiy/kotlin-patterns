@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin support on leetcode sucks](https://www.reddit.com/r/Kotlin/comments/1m3h37z/kotlin_support_on_leetcode_sucks/)
+- [I built this JetQuotes Desktop Client using Compose for Desktop UI Toolkit](https://www.reddit.com/r/Kotlin/comments/1m3b9qe/i_built_this_jetquotes_desktop_client_using/)
+- [Communicating between Android app and Linux](https://www.reddit.com/r/Kotlin/comments/1m33gok/communicating_between_android_app_and_linux/)
+- [Modular Ktor: Building Backends for Scale &lpar;tutorial&rpar;](https://www.reddit.com/r/Kotlin/comments/1m2y8h5/modular_ktor_building_backends_for_scale_tutorial/)
+- [Ktor 3.2.2 is here!](https://www.reddit.com/r/Kotlin/comments/1m2xwhs/ktor_322_is_here/)
+- [I built a full Android app using just one prompt in Gemini CLI 🤯](https://www.reddit.com/r/Kotlin/comments/1m2x6h8/i_built_a_full_android_app_using_just_one_prompt/)
 - [What do you think of Ktor?](https://www.reddit.com/r/Kotlin/comments/1m2j0g4/what_do_you_think_of_ktor/)
 - [Planning to create a beginner friendly community around kotlin. Will the use of Kotlin in domain like kotlinforeveryone.org cause any trademark voilation?](https://www.reddit.com/r/Kotlin/comments/1m2ha2s/planning_to_create_a_beginner_friendly_community/)
 - [Is KMP really taking over the market or it&#39;s just hype](https://www.reddit.com/r/Kotlin/comments/1m2awxm/is_kmp_really_taking_over_the_market_or_its_just/)
 - [How is my dev portfolio](https://www.reddit.com/r/Kotlin/comments/1m264y7/how_is_my_dev_portfolio/)
-- [Class doesn&#39;t survive rotation](https://www.reddit.com/r/Kotlin/comments/1m25thz/class_doesnt_survive_rotation/)
-- [Performance monitoring in production KMP apps - sharing on of our users&#39; experience](https://www.reddit.com/r/Kotlin/comments/1m220ha/performance_monitoring_in_production_kmp_apps/)
-- [Sealed Types - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1m1xeuj/sealed_types_dave_leeds_on_kotlin/)
-- [Does your app work offline? - curious if this is a common pain point for others](https://www.reddit.com/r/Kotlin/comments/1m1rxqz/does_your_app_work_offline_curious_if_this_is_a/)
-- [What do you think about using Quarkus with Kotlin in production?](https://www.reddit.com/r/Kotlin/comments/1m1k42k/what_do_you_think_about_using_quarkus_with_kotlin/)
-- [FlowMarbles](https://www.reddit.com/r/Kotlin/comments/1m1hmt5/flowmarbles/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
