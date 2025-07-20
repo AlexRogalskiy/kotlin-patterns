@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin support on leetcode sucks](https://www.reddit.com/r/Kotlin/comments/1m3h37z/kotlin_support_on_leetcode_sucks/)
+- [Should I pursue Android development?](https://www.reddit.com/r/Kotlin/comments/1m43dqm/should_i_pursue_android_development/)
+- [Any projects to contribute to open source](https://www.reddit.com/r/Kotlin/comments/1m3y1q4/any_projects_to_contribute_to_open_source/)
+- [How to become a active development and great networking with people and communities?](https://www.reddit.com/r/Kotlin/comments/1m3x0o5/how_to_become_a_active_development_and_great/)
+- [Handling Runtime Exceptions - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1m3lfel/handling_runtime_exceptions_dave_leeds_on_kotlin/)
 - [I built this JetQuotes Desktop Client using Compose for Desktop UI Toolkit](https://www.reddit.com/r/Kotlin/comments/1m3b9qe/i_built_this_jetquotes_desktop_client_using/)
 - [Communicating between Android app and Linux](https://www.reddit.com/r/Kotlin/comments/1m33gok/communicating_between_android_app_and_linux/)
 - [Modular Ktor: Building Backends for Scale &lpar;tutorial&rpar;](https://www.reddit.com/r/Kotlin/comments/1m2y8h5/modular_ktor_building_backends_for_scale_tutorial/)
 - [Ktor 3.2.2 is here!](https://www.reddit.com/r/Kotlin/comments/1m2xwhs/ktor_322_is_here/)
 - [I built a full Android app using just one prompt in Gemini CLI 🤯](https://www.reddit.com/r/Kotlin/comments/1m2x6h8/i_built_a_full_android_app_using_just_one_prompt/)
 - [What do you think of Ktor?](https://www.reddit.com/r/Kotlin/comments/1m2j0g4/what_do_you_think_of_ktor/)
-- [Planning to create a beginner friendly community around kotlin. Will the use of Kotlin in domain like kotlinforeveryone.org cause any trademark voilation?](https://www.reddit.com/r/Kotlin/comments/1m2ha2s/planning_to_create_a_beginner_friendly_community/)
-- [Is KMP really taking over the market or it&#39;s just hype](https://www.reddit.com/r/Kotlin/comments/1m2awxm/is_kmp_really_taking_over_the_market_or_its_just/)
-- [How is my dev portfolio](https://www.reddit.com/r/Kotlin/comments/1m264y7/how_is_my_dev_portfolio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
