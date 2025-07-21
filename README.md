@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for UI/UX design help](https://www.reddit.com/r/Kotlin/comments/1m4wxbf/looking_for_uiux_design_help/)
+- [Have anyone shipped CMP app on ios with Material3?](https://www.reddit.com/r/Kotlin/comments/1m4u5mt/have_anyone_shipped_cmp_app_on_ios_with_material3/)
+- [In compose, when to use a viewmodel &lpar;and how&rpar; vs remembered state?](https://www.reddit.com/r/Kotlin/comments/1m4pvjy/in_compose_when_to_use_a_viewmodel_and_how_vs/)
+- [Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1m4lavs/learning_kotlin/)
+- [Help! Did everything I can, it&#39;s been two days still stuck on this error.](https://www.reddit.com/r/Kotlin/comments/1m4l893/help_did_everything_i_can_its_been_two_days_still/)
+- [Please give me your knowledes for Java interop!](https://www.reddit.com/r/Kotlin/comments/1m4iptr/please_give_me_your_knowledes_for_java_interop/)
 - [Should I pursue Android development?](https://www.reddit.com/r/Kotlin/comments/1m43dqm/should_i_pursue_android_development/)
 - [Any projects to contribute to open source](https://www.reddit.com/r/Kotlin/comments/1m3y1q4/any_projects_to_contribute_to_open_source/)
 - [How to become a active development and great networking with people and communities?](https://www.reddit.com/r/Kotlin/comments/1m3x0o5/how_to_become_a_active_development_and_great/)
 - [Handling Runtime Exceptions - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1m3lfel/handling_runtime_exceptions_dave_leeds_on_kotlin/)
-- [I built this JetQuotes Desktop Client using Compose for Desktop UI Toolkit](https://www.reddit.com/r/Kotlin/comments/1m3b9qe/i_built_this_jetquotes_desktop_client_using/)
-- [Communicating between Android app and Linux](https://www.reddit.com/r/Kotlin/comments/1m33gok/communicating_between_android_app_and_linux/)
-- [Modular Ktor: Building Backends for Scale &lpar;tutorial&rpar;](https://www.reddit.com/r/Kotlin/comments/1m2y8h5/modular_ktor_building_backends_for_scale_tutorial/)
-- [Ktor 3.2.2 is here!](https://www.reddit.com/r/Kotlin/comments/1m2xwhs/ktor_322_is_here/)
-- [I built a full Android app using just one prompt in Gemini CLI 🤯](https://www.reddit.com/r/Kotlin/comments/1m2x6h8/i_built_a_full_android_app_using_just_one_prompt/)
-- [What do you think of Ktor?](https://www.reddit.com/r/Kotlin/comments/1m2j0g4/what_do_you_think_of_ktor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
