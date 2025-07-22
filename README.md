@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Built a tunneling tool out of frustration — would love dev feedback](https://www.reddit.com/r/Kotlin/comments/1m5ttcy/built_a_tunneling_tool_out_of_frustration_would/)
+- [Memory not unloading after aborting strategy analyzer](https://www.reddit.com/r/Kotlin/comments/1m5h4m6/memory_not_unloading_after_aborting_strategy/)
+- [Strategic partnership: Kotlin and Spring](https://www.reddit.com/r/Kotlin/comments/1m5f7tc/strategic_partnership_kotlin_and_spring/)
+- [Compose Multiplatform: Quickly develop a feature-rich text editor.](https://www.reddit.com/r/Kotlin/comments/1m5et96/compose_multiplatform_quickly_develop_a/)
+- [How much time from beginner to being able to build an app?](https://www.reddit.com/r/Kotlin/comments/1m5epal/how_much_time_from_beginner_to_being_able_to/)
+- [[Blog Post] Breaking to Build: Fuzzing the Kotlin Compiler](https://www.reddit.com/r/Kotlin/comments/1m5ejxs/blog_post_breaking_to_build_fuzzing_the_kotlin/)
+- [KodNest](https://www.reddit.com/r/Kotlin/comments/1m5bdqp/kodnest/)
 - [Looking for UI/UX design help](https://www.reddit.com/r/Kotlin/comments/1m4wxbf/looking_for_uiux_design_help/)
 - [Have anyone shipped CMP app on ios with Material3?](https://www.reddit.com/r/Kotlin/comments/1m4u5mt/have_anyone_shipped_cmp_app_on_ios_with_material3/)
 - [In compose, when to use a viewmodel &lpar;and how&rpar; vs remembered state?](https://www.reddit.com/r/Kotlin/comments/1m4pvjy/in_compose_when_to_use_a_viewmodel_and_how_vs/)
-- [Learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1m4lavs/learning_kotlin/)
-- [Help! Did everything I can, it&#39;s been two days still stuck on this error.](https://www.reddit.com/r/Kotlin/comments/1m4l893/help_did_everything_i_can_its_been_two_days_still/)
-- [Please give me your knowledes for Java interop!](https://www.reddit.com/r/Kotlin/comments/1m4iptr/please_give_me_your_knowledes_for_java_interop/)
-- [Should I pursue Android development?](https://www.reddit.com/r/Kotlin/comments/1m43dqm/should_i_pursue_android_development/)
-- [Any projects to contribute to open source](https://www.reddit.com/r/Kotlin/comments/1m3y1q4/any_projects_to_contribute_to_open_source/)
-- [How to become a active development and great networking with people and communities?](https://www.reddit.com/r/Kotlin/comments/1m3x0o5/how_to_become_a_active_development_and_great/)
-- [Handling Runtime Exceptions - Dave Leeds on Kotlin](https://www.reddit.com/r/Kotlin/comments/1m3lfel/handling_runtime_exceptions_dave_leeds_on_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
