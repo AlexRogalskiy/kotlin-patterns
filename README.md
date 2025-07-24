@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is a good book to learn about Flow, StateFlow, SharedFlow, Colllect, intermediate operands etc...?](https://www.reddit.com/r/Kotlin/comments/1m7jdl5/what_is_a_good_book_to_learn_about_flow_stateflow/)
+- [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1m7j514/the_nodkrai_concept_overview_is_now_available/)
+- [A Kotlin DSL &lpar;emphasis on Language&rpar; for runtime JVM bytecode generation.](https://www.reddit.com/r/Kotlin/comments/1m7h8wi/a_kotlin_dsl_emphasis_on_language_for_runtime_jvm/)
+- [Is there a way to automatically add the type of a variable?](https://www.reddit.com/r/Kotlin/comments/1m78mag/is_there_a_way_to_automatically_add_the_type_of_a/)
+- [KMP and compose libraries related strategy](https://www.reddit.com/r/Kotlin/comments/1m76x9f/kmp_and_compose_libraries_related_strategy/)
+- [Kotlin/Compose Multiplatform: A Competitor for Flutter or Reinventing the Wheel?](https://www.reddit.com/r/Kotlin/comments/1m7675z/kotlincompose_multiplatform_a_competitor_for/)
+- [LoremGibson - placeholder text generator.](https://www.reddit.com/r/Kotlin/comments/1m73i4l/loremgibson_placeholder_text_generator/)
 - [Confused about Choosing appropriate language for the mobile app development](https://www.reddit.com/r/Kotlin/comments/1m6wg11/confused_about_choosing_appropriate_language_for/)
 - [KMP Wizard + Compose = 💜](https://www.reddit.com/r/Kotlin/comments/1m6j8fa/kmp_wizard_compose/)
 - [The Kotlin Foundation Grant Program 2025 is now open for applications](https://www.reddit.com/r/Kotlin/comments/1m69sk6/the_kotlin_foundation_grant_program_2025_is_now/)
-- [Built a tunneling tool out of frustration — would love dev feedback](https://www.reddit.com/r/Kotlin/comments/1m5ttcy/built_a_tunneling_tool_out_of_frustration_would/)
-- [Memory not unloading after aborting strategy analyzer](https://www.reddit.com/r/Kotlin/comments/1m5h4m6/memory_not_unloading_after_aborting_strategy/)
-- [Strategic partnership: Kotlin and Spring](https://www.reddit.com/r/Kotlin/comments/1m5f7tc/strategic_partnership_kotlin_and_spring/)
-- [Compose Multiplatform: Quickly develop a feature-rich text editor.](https://www.reddit.com/r/Kotlin/comments/1m5et96/compose_multiplatform_quickly_develop_a/)
-- [How much time from beginner to being able to build an app?](https://www.reddit.com/r/Kotlin/comments/1m5epal/how_much_time_from_beginner_to_being_able_to/)
-- [[Blog Post] Breaking to Build: Fuzzing the Kotlin Compiler](https://www.reddit.com/r/Kotlin/comments/1m5ejxs/blog_post_breaking_to_build_fuzzing_the_kotlin/)
-- [KodNest](https://www.reddit.com/r/Kotlin/comments/1m5bdqp/kodnest/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
