@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with UnifyAI – Setting Up Local LLMs and UI Integration](https://www.reddit.com/r/Kotlin/comments/1m8m8zw/help_with_unifyai_setting_up_local_llms_and_ui/)
+- [hey can anyone help me with this error](https://www.reddit.com/r/Kotlin/comments/1m8akjn/hey_can_anyone_help_me_with_this_error/)
+- [Should each microservice be a separate &lpar;Kotlin&rpar; Spring Boot application?](https://www.reddit.com/r/Kotlin/comments/1m88gv7/should_each_microservice_be_a_separate_kotlin/)
+- [Seamless Android File Sharing Using Ktor Client/Server in Kotlin](https://www.reddit.com/r/Kotlin/comments/1m87mr7/seamless_android_file_sharing_using_ktor/)
+- [Seamless File Transfer Between Android Devices Using Ktor &amp; QR – Offline &amp; Lightweight!](https://www.reddit.com/r/Kotlin/comments/1m876ox/seamless_file_transfer_between_android_devices/)
+- [Down with Context Receivers - Migrating to Context Parameters](https://www.reddit.com/r/Kotlin/comments/1m83wqj/down_with_context_receivers_migrating_to_context/)
+- [Kotlin/Native server ecosystem](https://www.reddit.com/r/Kotlin/comments/1m811mr/kotlinnative_server_ecosystem/)
+- [Is there any doc tool which shows type/function definitions even for dependencies?](https://www.reddit.com/r/Kotlin/comments/1m7v8bb/is_there_any_doc_tool_which_shows_typefunction/)
 - [What is a good book to learn about Flow, StateFlow, SharedFlow, Colllect, intermediate operands etc...?](https://www.reddit.com/r/Kotlin/comments/1m7jdl5/what_is_a_good_book_to_learn_about_flow_stateflow/)
 - [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1m7j514/the_nodkrai_concept_overview_is_now_available/)
-- [A Kotlin DSL &lpar;emphasis on Language&rpar; for runtime JVM bytecode generation.](https://www.reddit.com/r/Kotlin/comments/1m7h8wi/a_kotlin_dsl_emphasis_on_language_for_runtime_jvm/)
-- [Is there a way to automatically add the type of a variable?](https://www.reddit.com/r/Kotlin/comments/1m78mag/is_there_a_way_to_automatically_add_the_type_of_a/)
-- [KMP and compose libraries related strategy](https://www.reddit.com/r/Kotlin/comments/1m76x9f/kmp_and_compose_libraries_related_strategy/)
-- [Kotlin/Compose Multiplatform: A Competitor for Flutter or Reinventing the Wheel?](https://www.reddit.com/r/Kotlin/comments/1m7675z/kotlincompose_multiplatform_a_competitor_for/)
-- [LoremGibson - placeholder text generator.](https://www.reddit.com/r/Kotlin/comments/1m73i4l/loremgibson_placeholder_text_generator/)
-- [Confused about Choosing appropriate language for the mobile app development](https://www.reddit.com/r/Kotlin/comments/1m6wg11/confused_about_choosing_appropriate_language_for/)
-- [KMP Wizard + Compose = 💜](https://www.reddit.com/r/Kotlin/comments/1m6j8fa/kmp_wizard_compose/)
-- [The Kotlin Foundation Grant Program 2025 is now open for applications](https://www.reddit.com/r/Kotlin/comments/1m69sk6/the_kotlin_foundation_grant_program_2025_is_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
