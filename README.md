@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Library building forever](https://www.reddit.com/r/Kotlin/comments/1m95j6a/library_building_forever/)
+- [Room vs Exposed: what would you recommend?](https://www.reddit.com/r/Kotlin/comments/1m95c1o/room_vs_exposed_what_would_you_recommend/)
+- [Check out the Ktor Library Improvement Proposal &lpar;KLIP&rpar; for API documentation](https://www.reddit.com/r/Kotlin/comments/1m92xlq/check_out_the_ktor_library_improvement_proposal/)
+- [Is Kotlin a good language for making a storywriting app?](https://www.reddit.com/r/Kotlin/comments/1m91kvi/is_kotlin_a_good_language_for_making_a/)
+- [Case study: why Kakao Pay chose Kotlin and Spring for backend development](https://www.reddit.com/r/Kotlin/comments/1m8zll7/case_study_why_kakao_pay_chose_kotlin_and_spring/)
+- [Branching strategy and CI tests with KMM](https://www.reddit.com/r/Kotlin/comments/1m8y22f/branching_strategy_and_ci_tests_with_kmm/)
+- [Seeking Advice on Building a Kotlin + Jetpack Compose App for Curtain Visualization](https://www.reddit.com/r/Kotlin/comments/1m8wuzd/seeking_advice_on_building_a_kotlin_jetpack/)
+- [Atlas is a powerful Kotlin Multiplatform &lpar;KMP&rpar; SDK that provides a complete ecosystem for building scalable, structured, and maintainable applications across ALL PLATFORMS. It combines MVVM architecture, navigation, CLI tools, and an IoC container into one seamless experience.](https://www.reddit.com/r/Kotlin/comments/1m8r3k3/atlas_is_a_powerful_kotlin_multiplatform_kmp_sdk/)
 - [Help with UnifyAI – Setting Up Local LLMs and UI Integration](https://www.reddit.com/r/Kotlin/comments/1m8m8zw/help_with_unifyai_setting_up_local_llms_and_ui/)
 - [hey can anyone help me with this error](https://www.reddit.com/r/Kotlin/comments/1m8akjn/hey_can_anyone_help_me_with_this_error/)
-- [Should each microservice be a separate &lpar;Kotlin&rpar; Spring Boot application?](https://www.reddit.com/r/Kotlin/comments/1m88gv7/should_each_microservice_be_a_separate_kotlin/)
-- [Seamless Android File Sharing Using Ktor Client/Server in Kotlin](https://www.reddit.com/r/Kotlin/comments/1m87mr7/seamless_android_file_sharing_using_ktor/)
-- [Seamless File Transfer Between Android Devices Using Ktor &amp; QR – Offline &amp; Lightweight!](https://www.reddit.com/r/Kotlin/comments/1m876ox/seamless_file_transfer_between_android_devices/)
-- [Down with Context Receivers - Migrating to Context Parameters](https://www.reddit.com/r/Kotlin/comments/1m83wqj/down_with_context_receivers_migrating_to_context/)
-- [Kotlin/Native server ecosystem](https://www.reddit.com/r/Kotlin/comments/1m811mr/kotlinnative_server_ecosystem/)
-- [Is there any doc tool which shows type/function definitions even for dependencies?](https://www.reddit.com/r/Kotlin/comments/1m7v8bb/is_there_any_doc_tool_which_shows_typefunction/)
-- [What is a good book to learn about Flow, StateFlow, SharedFlow, Colllect, intermediate operands etc...?](https://www.reddit.com/r/Kotlin/comments/1m7jdl5/what_is_a_good_book_to_learn_about_flow_stateflow/)
-- [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1m7j514/the_nodkrai_concept_overview_is_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
