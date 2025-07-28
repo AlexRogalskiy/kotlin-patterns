@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JetBrains working on higher-abstraction programming language](https://www.reddit.com/r/Kotlin/comments/1maxfkt/jetbrains_working_on_higherabstraction/)
+- [Official Kotlin Language Server and extension for VS Code](https://www.reddit.com/r/Kotlin/comments/1mat7l1/official_kotlin_language_server_and_extension_for/)
+- [Wrote an article, if anyone wants to check it out](https://www.reddit.com/r/Kotlin/comments/1malvvf/wrote_an_article_if_anyone_wants_to_check_it_out/)
+- [How does KMP fare off against JavaFX?](https://www.reddit.com/r/Kotlin/comments/1majfnn/how_does_kmp_fare_off_against_javafx/)
 - [How to Manage Dependencies in libs file?](https://www.reddit.com/r/Kotlin/comments/1m9xojn/how_to_manage_dependencies_in_libs_file/)
 - [All DroidCon Videos](https://www.reddit.com/r/Kotlin/comments/1m9wzqp/all_droidcon_videos/)
 - [Cross-Platform Image Picker for Kotlin Multiplatform &amp; Android Native – Open Source Library](https://www.reddit.com/r/Kotlin/comments/1m9liv8/crossplatform_image_picker_for_kotlin/)
 - [Library building forever](https://www.reddit.com/r/Kotlin/comments/1m95j6a/library_building_forever/)
 - [Room vs Exposed: what would you recommend?](https://www.reddit.com/r/Kotlin/comments/1m95c1o/room_vs_exposed_what_would_you_recommend/)
 - [Check out the Ktor Library Improvement Proposal &lpar;KLIP&rpar; for API documentation](https://www.reddit.com/r/Kotlin/comments/1m92xlq/check_out_the_ktor_library_improvement_proposal/)
-- [Is Kotlin a good language for making a storywriting app?](https://www.reddit.com/r/Kotlin/comments/1m91kvi/is_kotlin_a_good_language_for_making_a/)
-- [Case study: why Kakao Pay chose Kotlin and Spring for backend development](https://www.reddit.com/r/Kotlin/comments/1m8zll7/case_study_why_kakao_pay_chose_kotlin_and_spring/)
-- [Branching strategy and CI tests with KMM](https://www.reddit.com/r/Kotlin/comments/1m8y22f/branching_strategy_and_ci_tests_with_kmm/)
-- [Seeking Advice on Building a Kotlin + Jetpack Compose App for Curtain Visualization](https://www.reddit.com/r/Kotlin/comments/1m8wuzd/seeking_advice_on_building_a_kotlin_jetpack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
