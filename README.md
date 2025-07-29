@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just put together Q&amp;A for interview prep, hope it helps someone out.](https://www.reddit.com/r/Kotlin/comments/1mbqrms/just_put_together_qa_for_interview_prep_hope_it/)
+- [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1mbp0g2/the_nodkrai_concept_overview_is_now_available/)
+- [Pure Kotlin AMQP/RabbitMQ client](https://www.reddit.com/r/Kotlin/comments/1mbjwlj/pure_kotlin_amqprabbitmq_client/)
+- [Kotlin Application Test](https://www.reddit.com/r/Kotlin/comments/1mbh1f7/kotlin_application_test/)
+- [Liquid Glass for jetpack compose](https://www.reddit.com/r/Kotlin/comments/1mbcosy/liquid_glass_for_jetpack_compose/)
+- [Introducing uml-data-model-processor](https://www.reddit.com/r/Kotlin/comments/1mb7um3/introducing_umldatamodelprocessor/)
+- [🚀 Building My 10,000-Hour App – Weekend 1 Recap](https://www.reddit.com/r/Kotlin/comments/1mb6j0v/building_my_10000hour_app_weekend_1_recap/)
 - [JetBrains working on higher-abstraction programming language](https://www.reddit.com/r/Kotlin/comments/1maxfkt/jetbrains_working_on_higherabstraction/)
 - [Official Kotlin Language Server and extension for VS Code](https://www.reddit.com/r/Kotlin/comments/1mat7l1/official_kotlin_language_server_and_extension_for/)
 - [Wrote an article, if anyone wants to check it out](https://www.reddit.com/r/Kotlin/comments/1malvvf/wrote_an_article_if_anyone_wants_to_check_it_out/)
-- [How does KMP fare off against JavaFX?](https://www.reddit.com/r/Kotlin/comments/1majfnn/how_does_kmp_fare_off_against_javafx/)
-- [How to Manage Dependencies in libs file?](https://www.reddit.com/r/Kotlin/comments/1m9xojn/how_to_manage_dependencies_in_libs_file/)
-- [All DroidCon Videos](https://www.reddit.com/r/Kotlin/comments/1m9wzqp/all_droidcon_videos/)
-- [Cross-Platform Image Picker for Kotlin Multiplatform &amp; Android Native – Open Source Library](https://www.reddit.com/r/Kotlin/comments/1m9liv8/crossplatform_image_picker_for_kotlin/)
-- [Library building forever](https://www.reddit.com/r/Kotlin/comments/1m95j6a/library_building_forever/)
-- [Room vs Exposed: what would you recommend?](https://www.reddit.com/r/Kotlin/comments/1m95c1o/room_vs_exposed_what_would_you_recommend/)
-- [Check out the Ktor Library Improvement Proposal &lpar;KLIP&rpar; for API documentation](https://www.reddit.com/r/Kotlin/comments/1m92xlq/check_out_the_ktor_library_improvement_proposal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
