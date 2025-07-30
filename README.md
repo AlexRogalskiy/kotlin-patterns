@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JetBrains’ KotlinConf 2025 — Full Conference Now Free with English, Korean, Japanese, and Vietnamese Subtitles and Dubbing](https://www.reddit.com/r/Kotlin/comments/1mcrr9s/jetbrains_kotlinconf_2025_full_conference_now/)
+- [When Tool-Calling Becomes an Addiction: Debugging LLM Patterns in Koog](https://www.reddit.com/r/Kotlin/comments/1mccuqt/when_toolcalling_becomes_an_addiction_debugging/)
+- [To learn Kotlin, I built a deep email validation library that works on both server &amp; client. It just hit v1.0.0 and I&#39;d love your feedback.](https://www.reddit.com/r/Kotlin/comments/1mc9ofz/to_learn_kotlin_i_built_a_deep_email_validation/)
+- [Kotlin Visibility Modifiers Explained: Who Can See What in Your Code?](https://www.reddit.com/r/Kotlin/comments/1mc2gae/kotlin_visibility_modifiers_explained_who_can_see/)
 - [Just put together Q&amp;A for interview prep, hope it helps someone out.](https://www.reddit.com/r/Kotlin/comments/1mbqrms/just_put_together_qa_for_interview_prep_hope_it/)
-- [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1mbp0g2/the_nodkrai_concept_overview_is_now_available/)
 - [Pure Kotlin AMQP/RabbitMQ client](https://www.reddit.com/r/Kotlin/comments/1mbjwlj/pure_kotlin_amqprabbitmq_client/)
 - [Kotlin Application Test](https://www.reddit.com/r/Kotlin/comments/1mbh1f7/kotlin_application_test/)
 - [Liquid Glass for jetpack compose](https://www.reddit.com/r/Kotlin/comments/1mbcosy/liquid_glass_for_jetpack_compose/)
 - [Introducing uml-data-model-processor](https://www.reddit.com/r/Kotlin/comments/1mb7um3/introducing_umldatamodelprocessor/)
 - [🚀 Building My 10,000-Hour App – Weekend 1 Recap](https://www.reddit.com/r/Kotlin/comments/1mb6j0v/building_my_10000hour_app_weekend_1_recap/)
-- [JetBrains working on higher-abstraction programming language](https://www.reddit.com/r/Kotlin/comments/1maxfkt/jetbrains_working_on_higherabstraction/)
-- [Official Kotlin Language Server and extension for VS Code](https://www.reddit.com/r/Kotlin/comments/1mat7l1/official_kotlin_language_server_and_extension_for/)
-- [Wrote an article, if anyone wants to check it out](https://www.reddit.com/r/Kotlin/comments/1malvvf/wrote_an_article_if_anyone_wants_to_check_it_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
