@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🎉 Ktor 3.2.3 is here!](https://www.reddit.com/r/Kotlin/comments/1md8sly/ktor_323_is_here/)
+- [Been wanting to try KMP and Compose Multiplatform? We&#39;re sponsoring a hackathon with a $55k prize pool — the perfect motivation to dive in.](https://www.reddit.com/r/Kotlin/comments/1md7z8p/been_wanting_to_try_kmp_and_compose_multiplatform/)
 - [JetBrains’ KotlinConf 2025 — Full Conference Now Free with English, Korean, Japanese, and Vietnamese Subtitles and Dubbing](https://www.reddit.com/r/Kotlin/comments/1mcrr9s/jetbrains_kotlinconf_2025_full_conference_now/)
 - [When Tool-Calling Becomes an Addiction: Debugging LLM Patterns in Koog](https://www.reddit.com/r/Kotlin/comments/1mccuqt/when_toolcalling_becomes_an_addiction_debugging/)
 - [To learn Kotlin, I built a deep email validation library that works on both server &amp; client. It just hit v1.0.0 and I&#39;d love your feedback.](https://www.reddit.com/r/Kotlin/comments/1mc9ofz/to_learn_kotlin_i_built_a_deep_email_validation/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Pure Kotlin AMQP/RabbitMQ client](https://www.reddit.com/r/Kotlin/comments/1mbjwlj/pure_kotlin_amqprabbitmq_client/)
 - [Kotlin Application Test](https://www.reddit.com/r/Kotlin/comments/1mbh1f7/kotlin_application_test/)
 - [Liquid Glass for jetpack compose](https://www.reddit.com/r/Kotlin/comments/1mbcosy/liquid_glass_for_jetpack_compose/)
-- [Introducing uml-data-model-processor](https://www.reddit.com/r/Kotlin/comments/1mb7um3/introducing_umldatamodelprocessor/)
-- [🚀 Building My 10,000-Hour App – Weekend 1 Recap](https://www.reddit.com/r/Kotlin/comments/1mb6j0v/building_my_10000hour_app_weekend_1_recap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
