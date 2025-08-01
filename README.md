@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can I do load test using kotlin?](https://www.reddit.com/r/Kotlin/comments/1meikuv/can_i_do_load_test_using_kotlin/)
+- [I&#39;d like to learn kotlin on android without a desktop to make a visual novel?](https://www.reddit.com/r/Kotlin/comments/1mei8aa/id_like_to_learn_kotlin_on_android_without_a/)
+- [OffCrypt – Secure Message Encryption for Android | Open-source](https://www.reddit.com/r/Kotlin/comments/1meclsj/offcrypt_secure_message_encryption_for_android/)
+- [🚀 Kotools Samples 0.4.0 is available!](https://www.reddit.com/r/Kotlin/comments/1meb56t/kotools_samples_040_is_available/)
+- [Ktor Panel: Admin Interface Generation for Ktor Servers](https://www.reddit.com/r/Kotlin/comments/1me5crm/ktor_panel_admin_interface_generation_for_ktor/)
+- [Feedback for new Kotlin Local Storage Generator Plugin](https://www.reddit.com/r/Kotlin/comments/1me4x2j/feedback_for_new_kotlin_local_storage_generator/)
+- [Competitive programming Course in Kotlin](https://www.reddit.com/r/Kotlin/comments/1me19az/competitive_programming_course_in_kotlin/)
+- [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1mdwy1l/the_nodkrai_concept_overview_is_now_available/)
+- [What&#39;s the best game engine to add to an existing jetpack compose project?](https://www.reddit.com/r/Kotlin/comments/1mdvh5j/whats_the_best_game_engine_to_add_to_an_existing/)
 - [🎉 Ktor 3.2.3 is here!](https://www.reddit.com/r/Kotlin/comments/1md8sly/ktor_323_is_here/)
-- [Been wanting to try KMP and Compose Multiplatform? We&#39;re sponsoring a hackathon with a $55k prize pool — the perfect motivation to dive in.](https://www.reddit.com/r/Kotlin/comments/1md7z8p/been_wanting_to_try_kmp_and_compose_multiplatform/)
-- [JetBrains’ KotlinConf 2025 — Full Conference Now Free with English, Korean, Japanese, and Vietnamese Subtitles and Dubbing](https://www.reddit.com/r/Kotlin/comments/1mcrr9s/jetbrains_kotlinconf_2025_full_conference_now/)
-- [When Tool-Calling Becomes an Addiction: Debugging LLM Patterns in Koog](https://www.reddit.com/r/Kotlin/comments/1mccuqt/when_toolcalling_becomes_an_addiction_debugging/)
-- [To learn Kotlin, I built a deep email validation library that works on both server &amp; client. It just hit v1.0.0 and I&#39;d love your feedback.](https://www.reddit.com/r/Kotlin/comments/1mc9ofz/to_learn_kotlin_i_built_a_deep_email_validation/)
-- [Kotlin Visibility Modifiers Explained: Who Can See What in Your Code?](https://www.reddit.com/r/Kotlin/comments/1mc2gae/kotlin_visibility_modifiers_explained_who_can_see/)
-- [Just put together Q&amp;A for interview prep, hope it helps someone out.](https://www.reddit.com/r/Kotlin/comments/1mbqrms/just_put_together_qa_for_interview_prep_hope_it/)
-- [Pure Kotlin AMQP/RabbitMQ client](https://www.reddit.com/r/Kotlin/comments/1mbjwlj/pure_kotlin_amqprabbitmq_client/)
-- [Kotlin Application Test](https://www.reddit.com/r/Kotlin/comments/1mbh1f7/kotlin_application_test/)
-- [Liquid Glass for jetpack compose](https://www.reddit.com/r/Kotlin/comments/1mbcosy/liquid_glass_for_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
