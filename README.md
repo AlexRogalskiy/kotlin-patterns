@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cool library I found that has atomic state for Compose.](https://www.reddit.com/r/Kotlin/comments/1mfdinn/cool_library_i_found_that_has_atomic_state_for/)
+- [Pomolin! A simple Pomodoro timer for Desktop written using KMP.](https://www.reddit.com/r/Kotlin/comments/1mf5t4j/pomolin_a_simple_pomodoro_timer_for_desktop/)
+- [gif.kt - a Kotlin Multiplatform GIF decoding and encoding library](https://www.reddit.com/r/Kotlin/comments/1mf380k/gifkt_a_kotlin_multiplatform_gif_decoding_and/)
+- [I was impressed](https://www.reddit.com/r/Kotlin/comments/1mewx10/i_was_impressed/)
+- [🚨 Exposed 1.0.0-beta-5 is out!](https://www.reddit.com/r/Kotlin/comments/1mevwcs/exposed_100beta5_is_out/)
 - [Can I do load test using kotlin?](https://www.reddit.com/r/Kotlin/comments/1meikuv/can_i_do_load_test_using_kotlin/)
 - [I&#39;d like to learn kotlin on android without a desktop to make a visual novel?](https://www.reddit.com/r/Kotlin/comments/1mei8aa/id_like_to_learn_kotlin_on_android_without_a/)
 - [OffCrypt – Secure Message Encryption for Android | Open-source](https://www.reddit.com/r/Kotlin/comments/1meclsj/offcrypt_secure_message_encryption_for_android/)
 - [🚀 Kotools Samples 0.4.0 is available!](https://www.reddit.com/r/Kotlin/comments/1meb56t/kotools_samples_040_is_available/)
-- [Ktor Panel: Admin Interface Generation for Ktor Servers](https://www.reddit.com/r/Kotlin/comments/1me5crm/ktor_panel_admin_interface_generation_for_ktor/)
 - [Feedback for new Kotlin Local Storage Generator Plugin](https://www.reddit.com/r/Kotlin/comments/1me4x2j/feedback_for_new_kotlin_local_storage_generator/)
-- [Competitive programming Course in Kotlin](https://www.reddit.com/r/Kotlin/comments/1me19az/competitive_programming_course_in_kotlin/)
-- [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1mdwy1l/the_nodkrai_concept_overview_is_now_available/)
-- [What&#39;s the best game engine to add to an existing jetpack compose project?](https://www.reddit.com/r/Kotlin/comments/1mdvh5j/whats_the_best_game_engine_to_add_to_an_existing/)
-- [🎉 Ktor 3.2.3 is here!](https://www.reddit.com/r/Kotlin/comments/1md8sly/ktor_323_is_here/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
