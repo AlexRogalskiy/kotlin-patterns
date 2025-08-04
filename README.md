@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s your opinion about Compose Desktop performance?](https://www.reddit.com/r/Kotlin/comments/1mh20ma/whats_your_opinion_about_compose_desktop/)
+- [Kotlin &lpar;native&rpar; library for scraping web page metadata?](https://www.reddit.com/r/Kotlin/comments/1mgp32v/kotlin_native_library_for_scraping_web_page/)
+- [Developers who made apps in Compose/Multiplatform, how was your experience](https://www.reddit.com/r/Kotlin/comments/1mgejea/developers_who_made_apps_in_composemultiplatform/)
+- [Made a Compose Desktop app to control and mirror Android devices](https://www.reddit.com/r/Kotlin/comments/1mgdq0x/made_a_compose_desktop_app_to_control_and_mirror/)
+- [🧼 [Ksoup v0.2.5 Released] — A Kotlin Multiplatform HTML &amp; XML Parser](https://www.reddit.com/r/Kotlin/comments/1mg870l/ksoup_v025_released_a_kotlin_multiplatform_html/)
+- [Dynamic Loading in a Clean Architecture KMM Engine](https://www.reddit.com/r/Kotlin/comments/1mg366h/dynamic_loading_in_a_clean_architecture_kmm_engine/)
+- [Best Practices for Structuring Large-Scale Kotlin Spring Boot Backends?](https://www.reddit.com/r/Kotlin/comments/1mfli9e/best_practices_for_structuring_largescale_kotlin/)
 - [Cool library I found that has atomic state for Compose.](https://www.reddit.com/r/Kotlin/comments/1mfdinn/cool_library_i_found_that_has_atomic_state_for/)
 - [Pomolin! A simple Pomodoro timer for Desktop written using KMP.](https://www.reddit.com/r/Kotlin/comments/1mf5t4j/pomolin_a_simple_pomodoro_timer_for_desktop/)
 - [gif.kt - a Kotlin Multiplatform GIF decoding and encoding library](https://www.reddit.com/r/Kotlin/comments/1mf380k/gifkt_a_kotlin_multiplatform_gif_decoding_and/)
-- [I was impressed](https://www.reddit.com/r/Kotlin/comments/1mewx10/i_was_impressed/)
-- [🚨 Exposed 1.0.0-beta-5 is out!](https://www.reddit.com/r/Kotlin/comments/1mevwcs/exposed_100beta5_is_out/)
-- [Can I do load test using kotlin?](https://www.reddit.com/r/Kotlin/comments/1meikuv/can_i_do_load_test_using_kotlin/)
-- [I&#39;d like to learn kotlin on android without a desktop to make a visual novel?](https://www.reddit.com/r/Kotlin/comments/1mei8aa/id_like_to_learn_kotlin_on_android_without_a/)
-- [OffCrypt – Secure Message Encryption for Android | Open-source](https://www.reddit.com/r/Kotlin/comments/1meclsj/offcrypt_secure_message_encryption_for_android/)
-- [🚀 Kotools Samples 0.4.0 is available!](https://www.reddit.com/r/Kotlin/comments/1meb56t/kotools_samples_040_is_available/)
-- [Feedback for new Kotlin Local Storage Generator Plugin](https://www.reddit.com/r/Kotlin/comments/1me4x2j/feedback_for_new_kotlin_local_storage_generator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
