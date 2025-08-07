@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [faKeTime — A Kotlin library for easy fake time control in tests](https://www.reddit.com/r/Kotlin/comments/1mjagv7/faketime_a_kotlin_library_for_easy_fake_time/)
+- [Taming Eventual Consistency—Applying Principles of Structured Concurrency to Distributed Systems](https://www.reddit.com/r/Kotlin/comments/1mja1cs/taming_eventual_consistencyapplying_principles_of/)
+- [Kotlin Notebook Meets IntelliJ Platform: Advancing IDE Plugin Development](https://www.reddit.com/r/Kotlin/comments/1mj2k8k/kotlin_notebook_meets_intellij_platform_advancing/)
+- [For your published app, how much do u make a month on average?](https://www.reddit.com/r/Kotlin/comments/1mitgag/for_your_published_app_how_much_do_u_make_a_month/)
 - [Introduction to Structured Concurrency: CoroutineScope &amp; CoroutineContext](https://www.reddit.com/r/Kotlin/comments/1minpe7/introduction_to_structured_concurrency/)
 - [Career Prospects ?](https://www.reddit.com/r/Kotlin/comments/1mid520/career_prospects/)
 - [Should JPA/Hibernate mutate a Kotlin val field in an entity class?](https://www.reddit.com/r/Kotlin/comments/1mia43u/should_jpahibernate_mutate_a_kotlin_val_field_in/)
 - [Creating a universal JAR for Desktop Compose apps](https://www.reddit.com/r/Kotlin/comments/1mi8qwe/creating_a_universal_jar_for_desktop_compose_apps/)
 - [How best to handle GC thrashing tests?](https://www.reddit.com/r/Kotlin/comments/1mi11bg/how_best_to_handle_gc_thrashing_tests/)
 - [What is a Dependency Platform?](https://www.reddit.com/r/Kotlin/comments/1mhw2i3/what_is_a_dependency_platform/)
-- [Kotlin Multiplatform showcase app - Bring!](https://www.reddit.com/r/Kotlin/comments/1mhrh16/kotlin_multiplatform_showcase_app_bring/)
-- [Need suggestions regarding ktor backend logic](https://www.reddit.com/r/Kotlin/comments/1mhi9jw/need_suggestions_regarding_ktor_backend_logic/)
-- [How to select return type nullability in inline method?](https://www.reddit.com/r/Kotlin/comments/1mhgzmy/how_to_select_return_type_nullability_in_inline/)
-- [Compose + Kotlin Notebook = next-level prototyping](https://www.reddit.com/r/Kotlin/comments/1mhc07d/compose_kotlin_notebook_nextlevel_prototyping/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
