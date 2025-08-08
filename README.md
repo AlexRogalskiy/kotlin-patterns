@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [faKeTime — A Kotlin library for easy fake time control in tests](https://www.reddit.com/r/Kotlin/comments/1mjagv7/faketime_a_kotlin_library_for_easy_fake_time/)
+- [Is using a property like this bad practice?](https://www.reddit.com/r/Kotlin/comments/1mk4078/is_using_a_property_like_this_bad_practice/)
+- [I built Prexocore, a Kotlin-first toolkit to kill Android boilerplate &lpar;RecyclerViews, dialogs, TTS, permissions etc. all in one-liners&rpar;](https://www.reddit.com/r/Kotlin/comments/1mk2x46/i_built_prexocore_a_kotlinfirst_toolkit_to_kill/)
+- [Im going for a Junior android developer interview for foodpanda without much knowledge of kotlin](https://www.reddit.com/r/Kotlin/comments/1mjw6oy/im_going_for_a_junior_android_developer_interview/)
+- [Open sourced AI-first visual editor for Compose Multiplatform. Looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1mjvh7p/open_sourced_aifirst_visual_editor_for_compose/)
+- [Next level Kotlin support in Spring Boot 4 by Sébastien Deleuze @ Spring I/O 2025](https://www.reddit.com/r/Kotlin/comments/1mjuwuu/next_level_kotlin_support_in_spring_boot_4_by/)
+- [KAPT to KSP migration issues](https://www.reddit.com/r/Kotlin/comments/1mju82u/kapt_to_ksp_migration_issues/)
+- [On the Value of Abstractions](https://www.reddit.com/r/Kotlin/comments/1mjtn90/on_the_value_of_abstractions/)
+- [Is Kotlin a safe bet for the future?](https://www.reddit.com/r/Kotlin/comments/1mjtjsd/is_kotlin_a_safe_bet_for_the_future/)
+- [Why is the version number in the package name in exposed 1.0 beta ?](https://www.reddit.com/r/Kotlin/comments/1mjsqs1/why_is_the_version_number_in_the_package_name_in/)
 - [Taming Eventual Consistency—Applying Principles of Structured Concurrency to Distributed Systems](https://www.reddit.com/r/Kotlin/comments/1mja1cs/taming_eventual_consistencyapplying_principles_of/)
-- [Kotlin Notebook Meets IntelliJ Platform: Advancing IDE Plugin Development](https://www.reddit.com/r/Kotlin/comments/1mj2k8k/kotlin_notebook_meets_intellij_platform_advancing/)
-- [For your published app, how much do u make a month on average?](https://www.reddit.com/r/Kotlin/comments/1mitgag/for_your_published_app_how_much_do_u_make_a_month/)
-- [Introduction to Structured Concurrency: CoroutineScope &amp; CoroutineContext](https://www.reddit.com/r/Kotlin/comments/1minpe7/introduction_to_structured_concurrency/)
-- [Career Prospects ?](https://www.reddit.com/r/Kotlin/comments/1mid520/career_prospects/)
-- [Should JPA/Hibernate mutate a Kotlin val field in an entity class?](https://www.reddit.com/r/Kotlin/comments/1mia43u/should_jpahibernate_mutate_a_kotlin_val_field_in/)
-- [Creating a universal JAR for Desktop Compose apps](https://www.reddit.com/r/Kotlin/comments/1mi8qwe/creating_a_universal_jar_for_desktop_compose_apps/)
-- [How best to handle GC thrashing tests?](https://www.reddit.com/r/Kotlin/comments/1mi11bg/how_best_to_handle_gc_thrashing_tests/)
-- [What is a Dependency Platform?](https://www.reddit.com/r/Kotlin/comments/1mhw2i3/what_is_a_dependency_platform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
