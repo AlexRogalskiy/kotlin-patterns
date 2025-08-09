@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SDK Design 101: Redirect-based flows](https://www.reddit.com/r/Kotlin/comments/1mld60o/sdk_design_101_redirectbased_flows/)
+- [Need to learn kotlin on a samsung galaxy a36?](https://www.reddit.com/r/Kotlin/comments/1ml3x98/need_to_learn_kotlin_on_a_samsung_galaxy_a36/)
+- [Will Kotlin replace Java for Spring projects?](https://www.reddit.com/r/Kotlin/comments/1ml3d9x/will_kotlin_replace_java_for_spring_projects/)
+- [Kotlin Context Bridges](https://www.reddit.com/r/Kotlin/comments/1mkwh9d/kotlin_context_bridges/)
+- [Join the livestream tonight: Kotlin with GPT-5](https://www.reddit.com/r/Kotlin/comments/1mkv87s/join_the_livestream_tonight_kotlin_with_gpt5/)
+- [11 Kotlin Tricks to Make Your Code Run Faster &lpar;Without Sacrificing Readability&rpar;](https://www.reddit.com/r/Kotlin/comments/1mktrup/11_kotlin_tricks_to_make_your_code_run_faster/)
+- [KMP Support Screensharing &lpar;Beginner&rpar;?](https://www.reddit.com/r/Kotlin/comments/1mktiuq/kmp_support_screensharing_beginner/)
+- [Compose Multiplatform project changes not working properly on ios](https://www.reddit.com/r/Kotlin/comments/1mkrwpo/compose_multiplatform_project_changes_not_working/)
 - [Is using a property like this bad practice?](https://www.reddit.com/r/Kotlin/comments/1mk4078/is_using_a_property_like_this_bad_practice/)
 - [I built Prexocore, a Kotlin-first toolkit to kill Android boilerplate &lpar;RecyclerViews, dialogs, TTS, permissions etc. all in one-liners&rpar;](https://www.reddit.com/r/Kotlin/comments/1mk2x46/i_built_prexocore_a_kotlinfirst_toolkit_to_kill/)
-- [Im going for a Junior android developer interview for foodpanda without much knowledge of kotlin](https://www.reddit.com/r/Kotlin/comments/1mjw6oy/im_going_for_a_junior_android_developer_interview/)
-- [Open sourced AI-first visual editor for Compose Multiplatform. Looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1mjvh7p/open_sourced_aifirst_visual_editor_for_compose/)
-- [Next level Kotlin support in Spring Boot 4 by Sébastien Deleuze @ Spring I/O 2025](https://www.reddit.com/r/Kotlin/comments/1mjuwuu/next_level_kotlin_support_in_spring_boot_4_by/)
-- [KAPT to KSP migration issues](https://www.reddit.com/r/Kotlin/comments/1mju82u/kapt_to_ksp_migration_issues/)
-- [On the Value of Abstractions](https://www.reddit.com/r/Kotlin/comments/1mjtn90/on_the_value_of_abstractions/)
-- [Is Kotlin a safe bet for the future?](https://www.reddit.com/r/Kotlin/comments/1mjtjsd/is_kotlin_a_safe_bet_for_the_future/)
-- [Why is the version number in the package name in exposed 1.0 beta ?](https://www.reddit.com/r/Kotlin/comments/1mjsqs1/why_is_the_version_number_in_the_package_name_in/)
-- [Taming Eventual Consistency—Applying Principles of Structured Concurrency to Distributed Systems](https://www.reddit.com/r/Kotlin/comments/1mja1cs/taming_eventual_consistencyapplying_principles_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
