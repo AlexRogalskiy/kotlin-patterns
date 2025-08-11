@@ -1,6 +1,6 @@
 ---
 # https://pre-commit.com/
-default_stages: [commit, push]
+default_stages: [pre-commit, pre-push]
 default_language_version:
   # force all unspecified Python hooks to run python3
   python: python3
@@ -11,7 +11,7 @@ repos:
       - id: identity
       - id: check-hooks-apply
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v3.4.0
+    rev: v6.0.0
     hooks:
       - id: check-added-large-files
       - id: check-case-conflict
@@ -30,12 +30,12 @@ repos:
   #    - id: forbid-tabs
   #    - id: remove-tabs
   - repo: https://github.com/jumanjihouse/pre-commit-hooks
-    rev: 2.1.5
+    rev: 3.0.0
     hooks:
       - id: shellcheck
       # - id: shfmt
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.0.0
+    rev: v2.4.1
     hooks:
       - id: codespell
         name: Run codespell
