@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java to Kotlin - Good or Bad career move?](https://www.reddit.com/r/Kotlin/comments/1mmwfsj/java_to_kotlin_good_or_bad_career_move/)
+- [Trying to learn Kotlin/Android Studio - need help!](https://www.reddit.com/r/Kotlin/comments/1mmu7wz/trying_to_learn_kotlinandroid_studio_need_help/)
+- [Compile-time metaprogramming with Kotlin](https://www.reddit.com/r/Kotlin/comments/1mmtio5/compiletime_metaprogramming_with_kotlin/)
+- [Pekko-Based Kotlin Concurrency Samples with Claude Code in Vibe Mode](https://www.reddit.com/r/Kotlin/comments/1mmj1ef/pekkobased_kotlin_concurrency_samples_with_claude/)
 - [Best free resources to learn kotlin in 2025?](https://www.reddit.com/r/Kotlin/comments/1mlq9ao/best_free_resources_to_learn_kotlin_in_2025/)
 - [How do I get the Compose for Desktop installer to copy a folder to my app directory?](https://www.reddit.com/r/Kotlin/comments/1mlnyy0/how_do_i_get_the_compose_for_desktop_installer_to/)
 - [Kotlin&#39;s Rich Errors: Native, Typed Errors Without Exceptions](https://www.reddit.com/r/Kotlin/comments/1mllyqx/kotlins_rich_errors_native_typed_errors_without/)
 - [Push to talk app with Bluetooth device](https://www.reddit.com/r/Kotlin/comments/1mlje8e/push_to_talk_app_with_bluetooth_device/)
 - [Livestream: What’s New in IntelliJ IDEA 2025.2. August 12](https://www.reddit.com/r/Kotlin/comments/1mlisvt/livestream_whats_new_in_intellij_idea_20252/)
 - [🎉 IntelliJ IDEA 2025.2 is out](https://www.reddit.com/r/Kotlin/comments/1mli235/intellij_idea_20252_is_out/)
-- [SDK Design 101: Redirect-based flows](https://www.reddit.com/r/Kotlin/comments/1mld60o/sdk_design_101_redirectbased_flows/)
-- [Need to learn kotlin on a samsung galaxy a36?](https://www.reddit.com/r/Kotlin/comments/1ml3x98/need_to_learn_kotlin_on_a_samsung_galaxy_a36/)
-- [Will Kotlin replace Java for Spring projects?](https://www.reddit.com/r/Kotlin/comments/1ml3d9x/will_kotlin_replace_java_for_spring_projects/)
-- [Kotlin Context Bridges](https://www.reddit.com/r/Kotlin/comments/1mkwh9d/kotlin_context_bridges/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
