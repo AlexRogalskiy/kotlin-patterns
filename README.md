@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bazel is now a first-class build tool for Kotlin in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1mnm82z/bazel_is_now_a_firstclass_build_tool_for_kotlin/)
+- [Built Axer — a Kotlin Multiplatform tool for live HTTP, crash, DB &amp; log debugging](https://www.reddit.com/r/Kotlin/comments/1mnbanu/built_axer_a_kotlin_multiplatform_tool_for_live/)
+- [Created a Kotlin MCP Server - Testing and Feedback requested](https://www.reddit.com/r/Kotlin/comments/1mn7n38/created_a_kotlin_mcp_server_testing_and_feedback/)
+- [KotlinX RPC 0.9.1 is out 🎉](https://www.reddit.com/r/Kotlin/comments/1mn6fge/kotlinx_rpc_091_is_out/)
 - [Java to Kotlin - Good or Bad career move?](https://www.reddit.com/r/Kotlin/comments/1mmwfsj/java_to_kotlin_good_or_bad_career_move/)
 - [Trying to learn Kotlin/Android Studio - need help!](https://www.reddit.com/r/Kotlin/comments/1mmu7wz/trying_to_learn_kotlinandroid_studio_need_help/)
 - [Compile-time metaprogramming with Kotlin](https://www.reddit.com/r/Kotlin/comments/1mmtio5/compiletime_metaprogramming_with_kotlin/)
 - [Pekko-Based Kotlin Concurrency Samples with Claude Code in Vibe Mode](https://www.reddit.com/r/Kotlin/comments/1mmj1ef/pekkobased_kotlin_concurrency_samples_with_claude/)
 - [Best free resources to learn kotlin in 2025?](https://www.reddit.com/r/Kotlin/comments/1mlq9ao/best_free_resources_to_learn_kotlin_in_2025/)
 - [How do I get the Compose for Desktop installer to copy a folder to my app directory?](https://www.reddit.com/r/Kotlin/comments/1mlnyy0/how_do_i_get_the_compose_for_desktop_installer_to/)
-- [Kotlin&#39;s Rich Errors: Native, Typed Errors Without Exceptions](https://www.reddit.com/r/Kotlin/comments/1mllyqx/kotlins_rich_errors_native_typed_errors_without/)
-- [Push to talk app with Bluetooth device](https://www.reddit.com/r/Kotlin/comments/1mlje8e/push_to_talk_app_with_bluetooth_device/)
-- [Livestream: What’s New in IntelliJ IDEA 2025.2. August 12](https://www.reddit.com/r/Kotlin/comments/1mlisvt/livestream_whats_new_in_intellij_idea_20252/)
-- [🎉 IntelliJ IDEA 2025.2 is out](https://www.reddit.com/r/Kotlin/comments/1mli235/intellij_idea_20252_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
