@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to online editor using kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1mpi1sd/how_to_online_editor_using_kotlin_dsl/)
+- [Kotlin Compiler plugin to validate Pure and Readonly functions](https://www.reddit.com/r/Kotlin/comments/1mpfjp6/kotlin_compiler_plugin_to_validate_pure_and/)
+- [Made a Google Calendar Clone in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1mpffu3/made_a_google_calendar_clone_in_compose/)
+- [Performance implications of implementing a theme this way](https://www.reddit.com/r/Kotlin/comments/1mpbxzu/performance_implications_of_implementing_a_theme/)
+- [Why are the docs intentionally complicated](https://www.reddit.com/r/Kotlin/comments/1mp3we9/why_are_the_docs_intentionally_complicated/)
+- [Building a WebView control for Compose Desktop](https://www.reddit.com/r/Kotlin/comments/1mozczm/building_a_webview_control_for_compose_desktop/)
+- [Selected for JetBrains’ Ship with Junie Program 🚀 — Building a 10,000-Hour Skill Tracker App](https://www.reddit.com/r/Kotlin/comments/1mou89m/selected_for_jetbrains_ship_with_junie_program/)
 - [I would appreciate any advice](https://www.reddit.com/r/Kotlin/comments/1momfsz/i_would_appreciate_any_advice/)
 - [What performance debugging vampires suck your productivity dry?](https://www.reddit.com/r/Kotlin/comments/1mo7ufp/what_performance_debugging_vampires_suck_your/)
 - [Powerful optimization of the first KMP 3D Globe engine WorldWind Kotlin v1.8.2 released](https://www.reddit.com/r/Kotlin/comments/1mo4mr9/powerful_optimization_of_the_first_kmp_3d_globe/)
-- [Kotlin DSL gets an upgrade in TeamCity](https://www.reddit.com/r/Kotlin/comments/1mo39uu/kotlin_dsl_gets_an_upgrade_in_teamcity/)
-- [Bazel is now a first-class build tool for Kotlin in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1mnm82z/bazel_is_now_a_firstclass_build_tool_for_kotlin/)
-- [Built Axer — a Kotlin Multiplatform tool for live HTTP, crash, DB &amp; log debugging](https://www.reddit.com/r/Kotlin/comments/1mnbanu/built_axer_a_kotlin_multiplatform_tool_for_live/)
-- [Created a Kotlin MCP Server - Testing and Feedback requested](https://www.reddit.com/r/Kotlin/comments/1mn7n38/created_a_kotlin_mcp_server_testing_and_feedback/)
-- [KotlinX RPC 0.9.1 is out 🎉](https://www.reddit.com/r/Kotlin/comments/1mn6fge/kotlinx_rpc_091_is_out/)
-- [Java to Kotlin - Good or Bad career move?](https://www.reddit.com/r/Kotlin/comments/1mmwfsj/java_to_kotlin_good_or_bad_career_move/)
-- [Trying to learn Kotlin/Android Studio - need help!](https://www.reddit.com/r/Kotlin/comments/1mmu7wz/trying_to_learn_kotlinandroid_studio_need_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
