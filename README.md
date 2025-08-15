@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google Search](https://www.reddit.com/r/Kotlin/comments/1mqkvd7/google_search/)
+- [What are your favorite kotlin related podcasts](https://www.reddit.com/r/Kotlin/comments/1mq5cg7/what_are_your_favorite_kotlin_related_podcasts/)
+- [How we moved from Kotlin to Kotlin Multiplatform at Indilingo](https://www.reddit.com/r/Kotlin/comments/1mq4i6n/how_we_moved_from_kotlin_to_kotlin_multiplatform/)
+- [Question on best book to study kotlin](https://www.reddit.com/r/Kotlin/comments/1mq02ev/question_on_best_book_to_study_kotlin/)
+- [SF4 &lpar;created with Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1mpxby2/sf4_created_with_kotlin/)
+- [Stop Crashing Your Kotlin Apps: Type Checking &amp; Casting Explained](https://www.reddit.com/r/Kotlin/comments/1mpp6kz/stop_crashing_your_kotlin_apps_type_checking/)
 - [How to online editor using kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1mpi1sd/how_to_online_editor_using_kotlin_dsl/)
 - [Kotlin Compiler plugin to validate Pure and Readonly functions](https://www.reddit.com/r/Kotlin/comments/1mpfjp6/kotlin_compiler_plugin_to_validate_pure_and/)
 - [Made a Google Calendar Clone in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1mpffu3/made_a_google_calendar_clone_in_compose/)
 - [Performance implications of implementing a theme this way](https://www.reddit.com/r/Kotlin/comments/1mpbxzu/performance_implications_of_implementing_a_theme/)
-- [Why are the docs intentionally complicated](https://www.reddit.com/r/Kotlin/comments/1mp3we9/why_are_the_docs_intentionally_complicated/)
-- [Building a WebView control for Compose Desktop](https://www.reddit.com/r/Kotlin/comments/1mozczm/building_a_webview_control_for_compose_desktop/)
-- [Selected for JetBrains’ Ship with Junie Program 🚀 — Building a 10,000-Hour Skill Tracker App](https://www.reddit.com/r/Kotlin/comments/1mou89m/selected_for_jetbrains_ship_with_junie_program/)
-- [I would appreciate any advice](https://www.reddit.com/r/Kotlin/comments/1momfsz/i_would_appreciate_any_advice/)
-- [What performance debugging vampires suck your productivity dry?](https://www.reddit.com/r/Kotlin/comments/1mo7ufp/what_performance_debugging_vampires_suck_your/)
-- [Powerful optimization of the first KMP 3D Globe engine WorldWind Kotlin v1.8.2 released](https://www.reddit.com/r/Kotlin/comments/1mo4mr9/powerful_optimization_of_the_first_kmp_3d_globe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
