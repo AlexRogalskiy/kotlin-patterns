@@ -272,7 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Search](https://www.reddit.com/r/Kotlin/comments/1mqkvd7/google_search/)
+- [🚀 Build scalable AI agents on the JVM with Kotlin. A talk by Simon Vergauwen](https://www.reddit.com/r/Kotlin/comments/1mraaxy/build_scalable_ai_agents_on_the_jvm_with_kotlin_a/)
+- [Accessing a API with PeriodicWork even with the screen off?](https://www.reddit.com/r/Kotlin/comments/1mqv0ib/accessing_a_api_with_periodicwork_even_with_the/)
 - [What are your favorite kotlin related podcasts](https://www.reddit.com/r/Kotlin/comments/1mq5cg7/what_are_your_favorite_kotlin_related_podcasts/)
 - [How we moved from Kotlin to Kotlin Multiplatform at Indilingo](https://www.reddit.com/r/Kotlin/comments/1mq4i6n/how_we_moved_from_kotlin_to_kotlin_multiplatform/)
 - [Question on best book to study kotlin](https://www.reddit.com/r/Kotlin/comments/1mq02ev/question_on_best_book_to_study_kotlin/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to online editor using kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1mpi1sd/how_to_online_editor_using_kotlin_dsl/)
 - [Kotlin Compiler plugin to validate Pure and Readonly functions](https://www.reddit.com/r/Kotlin/comments/1mpfjp6/kotlin_compiler_plugin_to_validate_pure_and/)
 - [Made a Google Calendar Clone in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1mpffu3/made_a_google_calendar_clone_in_compose/)
-- [Performance implications of implementing a theme this way](https://www.reddit.com/r/Kotlin/comments/1mpbxzu/performance_implications_of_implementing_a_theme/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
