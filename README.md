@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Stuck on a function, help](https://www.reddit.com/r/Kotlin/comments/1ms9zqi/stuck_on_a_function_help/)
+- [Beyond launch + collect: coroutine &amp; flow internals for serious Kotlin devs](https://www.reddit.com/r/Kotlin/comments/1mrotrm/beyond_launch_collect_coroutine_flow_internals/)
 - [🚀 Build scalable AI agents on the JVM with Kotlin. A talk by Simon Vergauwen](https://www.reddit.com/r/Kotlin/comments/1mraaxy/build_scalable_ai_agents_on_the_jvm_with_kotlin_a/)
 - [Accessing a API with PeriodicWork even with the screen off?](https://www.reddit.com/r/Kotlin/comments/1mqv0ib/accessing_a_api_with_periodicwork_even_with_the/)
 - [What are your favorite kotlin related podcasts](https://www.reddit.com/r/Kotlin/comments/1mq5cg7/what_are_your_favorite_kotlin_related_podcasts/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [SF4 &lpar;created with Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1mpxby2/sf4_created_with_kotlin/)
 - [Stop Crashing Your Kotlin Apps: Type Checking &amp; Casting Explained](https://www.reddit.com/r/Kotlin/comments/1mpp6kz/stop_crashing_your_kotlin_apps_type_checking/)
 - [How to online editor using kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1mpi1sd/how_to_online_editor_using_kotlin_dsl/)
-- [Kotlin Compiler plugin to validate Pure and Readonly functions](https://www.reddit.com/r/Kotlin/comments/1mpfjp6/kotlin_compiler_plugin_to_validate_pure_and/)
-- [Made a Google Calendar Clone in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1mpffu3/made_a_google_calendar_clone_in_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
