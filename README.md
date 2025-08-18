@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does the collections API suffer the same performance problems that Java streams experience?](https://www.reddit.com/r/Kotlin/comments/1msvmqf/does_the_collections_api_suffer_the_same/)
+- [Why Kotlin Multiplatform &lpar;KMP&rpar; is a Game-Changer](https://www.reddit.com/r/Kotlin/comments/1mslr84/why_kotlin_multiplatform_kmp_is_a_gamechanger/)
 - [Stuck on a function, help](https://www.reddit.com/r/Kotlin/comments/1ms9zqi/stuck_on_a_function_help/)
 - [Beyond launch + collect: coroutine &amp; flow internals for serious Kotlin devs](https://www.reddit.com/r/Kotlin/comments/1mrotrm/beyond_launch_collect_coroutine_flow_internals/)
 - [🚀 Build scalable AI agents on the JVM with Kotlin. A talk by Simon Vergauwen](https://www.reddit.com/r/Kotlin/comments/1mraaxy/build_scalable_ai_agents_on_the_jvm_with_kotlin_a/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How we moved from Kotlin to Kotlin Multiplatform at Indilingo](https://www.reddit.com/r/Kotlin/comments/1mq4i6n/how_we_moved_from_kotlin_to_kotlin_multiplatform/)
 - [Question on best book to study kotlin](https://www.reddit.com/r/Kotlin/comments/1mq02ev/question_on_best_book_to_study_kotlin/)
 - [SF4 &lpar;created with Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1mpxby2/sf4_created_with_kotlin/)
-- [Stop Crashing Your Kotlin Apps: Type Checking &amp; Casting Explained](https://www.reddit.com/r/Kotlin/comments/1mpp6kz/stop_crashing_your_kotlin_apps_type_checking/)
-- [How to online editor using kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1mpi1sd/how_to_online_editor_using_kotlin_dsl/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
