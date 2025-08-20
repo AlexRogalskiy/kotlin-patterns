@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [NFC Apis are now available in KmpEssentials &lpar;Supports iOS, Android &amp; WearOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1mu61fx/nfc_apis_are_now_available_in_kmpessentials/)
-- [Functional or Object Oriented Programming. Kotlin has both of those beauties](https://www.reddit.com/r/Kotlin/comments/1mtrgtv/functional_or_object_oriented_programming_kotlin/)
-- [Common &quot;web&quot; target!](https://www.reddit.com/r/Kotlin/comments/1mtoni6/common_web_target/)
-- [Apache Fory Graduates to Top-Level Apache Project](https://www.reddit.com/r/Kotlin/comments/1mtknss/apache_fory_graduates_to_toplevel_apache_project/)
-- [Kotlin KMP library for GNU readline](https://www.reddit.com/r/Kotlin/comments/1mtgcst/kotlin_kmp_library_for_gnu_readline/)
-- [Question: Why Does Compose Observe 78 Twice?](https://www.reddit.com/r/Kotlin/comments/1mtdnx6/question_why_does_compose_observe_78_twice/)
-- [Just explored JetBrains Academy – it’s way more than Kotlin](https://www.reddit.com/r/Kotlin/comments/1mtac0j/just_explored_jetbrains_academy_its_way_more_than/)
-- [Does the collections API suffer the same performance problems that Java streams experience?](https://www.reddit.com/r/Kotlin/comments/1msvmqf/does_the_collections_api_suffer_the_same/)
-- [Why Kotlin Multiplatform &lpar;KMP&rpar; is a Game-Changer](https://www.reddit.com/r/Kotlin/comments/1mslr84/why_kotlin_multiplatform_kmp_is_a_gamechanger/)
-- [Stuck on a function, help](https://www.reddit.com/r/Kotlin/comments/1ms9zqi/stuck_on_a_function_help/)
+- [GitHub - eygraber/vice: KMP MVI framework built using Compose for Compose](https://www.reddit.com/r/Kotlin/comments/1muv8l1/github_eygrabervice_kmp_mvi_framework_built_using/)
+- [Tuucho: Navigation Stack and Transitions Animation in a Cross-Platform KMM Engine](https://www.reddit.com/r/Kotlin/comments/1muuir4/tuucho_navigation_stack_and_transitions_animation/)
+- [How to crack GSoC ?](https://www.reddit.com/r/Kotlin/comments/1mumho3/how_to_crack_gsoc/)
+- [Kotlin Developer Survey – Your feedback is crucial!](https://www.reddit.com/r/Kotlin/comments/1muilci/kotlin_developer_survey_your_feedback_is_crucial/)
+- [🚀 New Blog Post: Building a Cross-Platform Text-to-Speech App with Real-time Highlighting using Kotlin Multiplatform and Swift Interoperability](https://www.reddit.com/r/Kotlin/comments/1muhpcn/new_blog_post_building_a_crossplatform/)
+- [First big cohort course about Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/1muh3bk/first_big_cohort_course_about_kotlin_coroutines/)
+- [How to configure Gradle + IntelliJ so Kotlin .kts scripts can use a project module as an API &lpar;with Kotlin 1.9 / K2&rpar;?](https://www.reddit.com/r/Kotlin/comments/1muge9e/how_to_configure_gradle_intellij_so_kotlin_kts/)
+- [100 Kotlin One-Liners That Will Instantly Boost Your Productivity](https://www.reddit.com/r/Kotlin/comments/1mufydz/100_kotlin_oneliners_that_will_instantly_boost/)
+- [How to create a gradient SnackBar | KMP](https://www.reddit.com/r/Kotlin/comments/1mu9oyp/how_to_create_a_gradient_snackbar_kmp/)
+- [KmpAppInsights: A Kotlin Multiplatform library that helps your product connect to Microsoft AppInsights. Supports both iOS &amp; Android](https://www.reddit.com/r/Kotlin/comments/1mu8m8u/kmpappinsights_a_kotlin_multiplatform_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
