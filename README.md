@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need to return a search from a table, but by fields. But I can&#39;t do it.](https://www.reddit.com/r/Kotlin/comments/1mvur1y/i_need_to_return_a_search_from_a_table_but_by/)
 - [GitHub - eygraber/vice: KMP MVI framework built using Compose for Compose](https://www.reddit.com/r/Kotlin/comments/1muv8l1/github_eygrabervice_kmp_mvi_framework_built_using/)
 - [Tuucho: Navigation Stack and Transitions Animation in a Cross-Platform KMM Engine](https://www.reddit.com/r/Kotlin/comments/1muuir4/tuucho_navigation_stack_and_transitions_animation/)
 - [How to crack GSoC ?](https://www.reddit.com/r/Kotlin/comments/1mumho3/how_to_crack_gsoc/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to configure Gradle + IntelliJ so Kotlin .kts scripts can use a project module as an API &lpar;with Kotlin 1.9 / K2&rpar;?](https://www.reddit.com/r/Kotlin/comments/1muge9e/how_to_configure_gradle_intellij_so_kotlin_kts/)
 - [100 Kotlin One-Liners That Will Instantly Boost Your Productivity](https://www.reddit.com/r/Kotlin/comments/1mufydz/100_kotlin_oneliners_that_will_instantly_boost/)
 - [How to create a gradient SnackBar | KMP](https://www.reddit.com/r/Kotlin/comments/1mu9oyp/how_to_create_a_gradient_snackbar_kmp/)
-- [KmpAppInsights: A Kotlin Multiplatform library that helps your product connect to Microsoft AppInsights. Supports both iOS &amp; Android](https://www.reddit.com/r/Kotlin/comments/1mu8m8u/kmpappinsights_a_kotlin_multiplatform_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
