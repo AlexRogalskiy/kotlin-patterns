@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Multiplatform port of polybool-java](https://www.reddit.com/r/Kotlin/comments/1mwoiwf/kotlin_multiplatform_port_of_polybooljava/)
+- [Kotlin Multiplatform vs. Native Android | Do you have any better suggestions?](https://www.reddit.com/r/Kotlin/comments/1mwgbfx/kotlin_multiplatform_vs_native_android_do_you/)
+- [readline4k: Cross-platform Kotlin/Native readline library with history support for interactive console apps.](https://www.reddit.com/r/Kotlin/comments/1mw4947/readline4k_crossplatform_kotlinnative_readline/)
 - [I need to return a search from a table, but by fields. But I can&#39;t do it.](https://www.reddit.com/r/Kotlin/comments/1mvur1y/i_need_to_return_a_search_from_a_table_but_by/)
 - [GitHub - eygraber/vice: KMP MVI framework built using Compose for Compose](https://www.reddit.com/r/Kotlin/comments/1muv8l1/github_eygrabervice_kmp_mvi_framework_built_using/)
 - [Tuucho: Navigation Stack and Transitions Animation in a Cross-Platform KMM Engine](https://www.reddit.com/r/Kotlin/comments/1muuir4/tuucho_navigation_stack_and_transitions_animation/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Developer Survey – Your feedback is crucial!](https://www.reddit.com/r/Kotlin/comments/1muilci/kotlin_developer_survey_your_feedback_is_crucial/)
 - [🚀 New Blog Post: Building a Cross-Platform Text-to-Speech App with Real-time Highlighting using Kotlin Multiplatform and Swift Interoperability](https://www.reddit.com/r/Kotlin/comments/1muhpcn/new_blog_post_building_a_crossplatform/)
 - [First big cohort course about Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/1muh3bk/first_big_cohort_course_about_kotlin_coroutines/)
-- [How to configure Gradle + IntelliJ so Kotlin .kts scripts can use a project module as an API &lpar;with Kotlin 1.9 / K2&rpar;?](https://www.reddit.com/r/Kotlin/comments/1muge9e/how_to_configure_gradle_intellij_so_kotlin_kts/)
-- [100 Kotlin One-Liners That Will Instantly Boost Your Productivity](https://www.reddit.com/r/Kotlin/comments/1mufydz/100_kotlin_oneliners_that_will_instantly_boost/)
-- [How to create a gradient SnackBar | KMP](https://www.reddit.com/r/Kotlin/comments/1mu9oyp/how_to_create_a_gradient_snackbar_kmp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
