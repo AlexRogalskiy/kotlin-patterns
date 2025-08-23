@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Built my first real Android app in Kotlin workout tracker with some unique ideas, would love your thoughts](https://www.reddit.com/r/Kotlin/comments/1mxf6s5/built_my_first_real_android_app_in_kotlin_workout/)
+- [🚀 The first tech preview of OpenAPI support in Ktor is here!](https://www.reddit.com/r/Kotlin/comments/1mx9fbm/the_first_tech_preview_of_openapi_support_in_ktor/)
+- [Competition or Collaboration? Claude Code &amp; Junie](https://www.reddit.com/r/Kotlin/comments/1mx7osb/competition_or_collaboration_claude_code_junie/)
+- [KEEP-0441: Rich Errors, aka Error Union Types: Motivation and Rationale](https://www.reddit.com/r/Kotlin/comments/1mx7fkz/keep0441_rich_errors_aka_error_union_types/)
+- [Converting Java spring app to Kotlin - is there a simple way of doing that?](https://www.reddit.com/r/Kotlin/comments/1mx6hk6/converting_java_spring_app_to_kotlin_is_there_a/)
+- [kotlin worth](https://www.reddit.com/r/Kotlin/comments/1mx4dhp/kotlin_worth/)
+- [🎉 New Talking Kotlin episode – a chat with the author of KotlinX RPC](https://www.reddit.com/r/Kotlin/comments/1mx1oko/new_talking_kotlin_episode_a_chat_with_the_author/)
+- [Call for Creative Android Devs – Build Open Apps for the Haptique RS90](https://www.reddit.com/r/Kotlin/comments/1mwxh73/call_for_creative_android_devs_build_open_apps/)
 - [Kotlin Multiplatform port of polybool-java](https://www.reddit.com/r/Kotlin/comments/1mwoiwf/kotlin_multiplatform_port_of_polybooljava/)
 - [Kotlin Multiplatform vs. Native Android | Do you have any better suggestions?](https://www.reddit.com/r/Kotlin/comments/1mwgbfx/kotlin_multiplatform_vs_native_android_do_you/)
-- [readline4k: Cross-platform Kotlin/Native readline library with history support for interactive console apps.](https://www.reddit.com/r/Kotlin/comments/1mw4947/readline4k_crossplatform_kotlinnative_readline/)
-- [I need to return a search from a table, but by fields. But I can&#39;t do it.](https://www.reddit.com/r/Kotlin/comments/1mvur1y/i_need_to_return_a_search_from_a_table_but_by/)
-- [GitHub - eygraber/vice: KMP MVI framework built using Compose for Compose](https://www.reddit.com/r/Kotlin/comments/1muv8l1/github_eygrabervice_kmp_mvi_framework_built_using/)
-- [Tuucho: Navigation Stack and Transitions Animation in a Cross-Platform KMM Engine](https://www.reddit.com/r/Kotlin/comments/1muuir4/tuucho_navigation_stack_and_transitions_animation/)
-- [How to crack GSoC ?](https://www.reddit.com/r/Kotlin/comments/1mumho3/how_to_crack_gsoc/)
-- [Kotlin Developer Survey – Your feedback is crucial!](https://www.reddit.com/r/Kotlin/comments/1muilci/kotlin_developer_survey_your_feedback_is_crucial/)
-- [🚀 New Blog Post: Building a Cross-Platform Text-to-Speech App with Real-time Highlighting using Kotlin Multiplatform and Swift Interoperability](https://www.reddit.com/r/Kotlin/comments/1muhpcn/new_blog_post_building_a_crossplatform/)
-- [First big cohort course about Kotlin Coroutines](https://www.reddit.com/r/Kotlin/comments/1muh3bk/first_big_cohort_course_about_kotlin_coroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
