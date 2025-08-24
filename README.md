@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Portrait videos corrupted on MALI G series GPUs in Tensor G series chipets](https://www.reddit.com/r/Kotlin/comments/1mydr3u/portrait_videos_corrupted_on_mali_g_series_gpus/)
+- [OffCrypt v2](https://www.reddit.com/r/Kotlin/comments/1my7h06/offcrypt_v2/)
+- [Is this useful to you? &lpar;react-like MutableStateFlow&rpar;](https://www.reddit.com/r/Kotlin/comments/1my72bp/is_this_useful_to_you_reactlike_mutablestateflow/)
+- [Kotlin vs React Native – Which one has better career opportunities &amp; higher salary in 2025?](https://www.reddit.com/r/Kotlin/comments/1mxy4vv/kotlin_vs_react_native_which_one_has_better/)
+- [Best Practices for Interactive Maps in Kotlin Multiplatform &lpar;KMM&rpar;?](https://www.reddit.com/r/Kotlin/comments/1mxtdwd/best_practices_for_interactive_maps_in_kotlin/)
 - [Built my first real Android app in Kotlin workout tracker with some unique ideas, would love your thoughts](https://www.reddit.com/r/Kotlin/comments/1mxf6s5/built_my_first_real_android_app_in_kotlin_workout/)
 - [🚀 The first tech preview of OpenAPI support in Ktor is here!](https://www.reddit.com/r/Kotlin/comments/1mx9fbm/the_first_tech_preview_of_openapi_support_in_ktor/)
 - [Competition or Collaboration? Claude Code &amp; Junie](https://www.reddit.com/r/Kotlin/comments/1mx7osb/competition_or_collaboration_claude_code_junie/)
 - [KEEP-0441: Rich Errors, aka Error Union Types: Motivation and Rationale](https://www.reddit.com/r/Kotlin/comments/1mx7fkz/keep0441_rich_errors_aka_error_union_types/)
 - [Converting Java spring app to Kotlin - is there a simple way of doing that?](https://www.reddit.com/r/Kotlin/comments/1mx6hk6/converting_java_spring_app_to_kotlin_is_there_a/)
-- [kotlin worth](https://www.reddit.com/r/Kotlin/comments/1mx4dhp/kotlin_worth/)
-- [🎉 New Talking Kotlin episode – a chat with the author of KotlinX RPC](https://www.reddit.com/r/Kotlin/comments/1mx1oko/new_talking_kotlin_episode_a_chat_with_the_author/)
-- [Call for Creative Android Devs – Build Open Apps for the Haptique RS90](https://www.reddit.com/r/Kotlin/comments/1mwxh73/call_for_creative_android_devs_build_open_apps/)
-- [Kotlin Multiplatform port of polybool-java](https://www.reddit.com/r/Kotlin/comments/1mwoiwf/kotlin_multiplatform_port_of_polybooljava/)
-- [Kotlin Multiplatform vs. Native Android | Do you have any better suggestions?](https://www.reddit.com/r/Kotlin/comments/1mwgbfx/kotlin_multiplatform_vs_native_android_do_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
