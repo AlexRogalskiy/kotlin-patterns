@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Library] Compose Shape Fitter – Shape Approximation from Points in Kotlin](https://www.reddit.com/r/Kotlin/comments/1mz26sc/library_compose_shape_fitter_shape_approximation/)
+- [Kotlin 2.2.0 Official Release - Full Reference Guide PDF + Updates](https://www.reddit.com/r/Kotlin/comments/1myzlr9/kotlin_220_official_release_full_reference_guide/)
+- [Ship with Junie &lpar;Ep. 1&rpar; — KMP scaffolding + timer UI in Compose, DX metrics inside](https://www.reddit.com/r/Kotlin/comments/1mymxmy/ship_with_junie_ep_1_kmp_scaffolding_timer_ui_in/)
 - [Portrait videos corrupted on MALI G series GPUs in Tensor G series chipets](https://www.reddit.com/r/Kotlin/comments/1mydr3u/portrait_videos_corrupted_on_mali_g_series_gpus/)
 - [OffCrypt v2](https://www.reddit.com/r/Kotlin/comments/1my7h06/offcrypt_v2/)
 - [Is this useful to you? &lpar;react-like MutableStateFlow&rpar;](https://www.reddit.com/r/Kotlin/comments/1my72bp/is_this_useful_to_you_reactlike_mutablestateflow/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Best Practices for Interactive Maps in Kotlin Multiplatform &lpar;KMM&rpar;?](https://www.reddit.com/r/Kotlin/comments/1mxtdwd/best_practices_for_interactive_maps_in_kotlin/)
 - [Built my first real Android app in Kotlin workout tracker with some unique ideas, would love your thoughts](https://www.reddit.com/r/Kotlin/comments/1mxf6s5/built_my_first_real_android_app_in_kotlin_workout/)
 - [🚀 The first tech preview of OpenAPI support in Ktor is here!](https://www.reddit.com/r/Kotlin/comments/1mx9fbm/the_first_tech_preview_of_openapi_support_in_ktor/)
-- [Competition or Collaboration? Claude Code &amp; Junie](https://www.reddit.com/r/Kotlin/comments/1mx7osb/competition_or_collaboration_claude_code_junie/)
-- [KEEP-0441: Rich Errors, aka Error Union Types: Motivation and Rationale](https://www.reddit.com/r/Kotlin/comments/1mx7fkz/keep0441_rich_errors_aka_error_union_types/)
-- [Converting Java spring app to Kotlin - is there a simple way of doing that?](https://www.reddit.com/r/Kotlin/comments/1mx6hk6/converting_java_spring_app_to_kotlin_is_there_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
