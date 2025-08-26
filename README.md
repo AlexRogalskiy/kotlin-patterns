@@ -272,8 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using Kotlin for non Android?](https://www.reddit.com/r/Kotlin/comments/1n08qnl/using_kotlin_for_non_android/)
+- [There’s a new cohort-style course on Kotlin coroutines. I’m curious if folks here find this format helpful?](https://www.reddit.com/r/Kotlin/comments/1mzqlo5/theres_a_new_cohortstyle_course_on_kotlin/)
 - [[Library] Compose Shape Fitter – Shape Approximation from Points in Kotlin](https://www.reddit.com/r/Kotlin/comments/1mz26sc/library_compose_shape_fitter_shape_approximation/)
-- [Kotlin 2.2.0 Official Release - Full Reference Guide PDF + Updates](https://www.reddit.com/r/Kotlin/comments/1myzlr9/kotlin_220_official_release_full_reference_guide/)
 - [Ship with Junie &lpar;Ep. 1&rpar; — KMP scaffolding + timer UI in Compose, DX metrics inside](https://www.reddit.com/r/Kotlin/comments/1mymxmy/ship_with_junie_ep_1_kmp_scaffolding_timer_ui_in/)
 - [Portrait videos corrupted on MALI G series GPUs in Tensor G series chipets](https://www.reddit.com/r/Kotlin/comments/1mydr3u/portrait_videos_corrupted_on_mali_g_series_gpus/)
 - [OffCrypt v2](https://www.reddit.com/r/Kotlin/comments/1my7h06/offcrypt_v2/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin vs React Native – Which one has better career opportunities &amp; higher salary in 2025?](https://www.reddit.com/r/Kotlin/comments/1mxy4vv/kotlin_vs_react_native_which_one_has_better/)
 - [Best Practices for Interactive Maps in Kotlin Multiplatform &lpar;KMM&rpar;?](https://www.reddit.com/r/Kotlin/comments/1mxtdwd/best_practices_for_interactive_maps_in_kotlin/)
 - [Built my first real Android app in Kotlin workout tracker with some unique ideas, would love your thoughts](https://www.reddit.com/r/Kotlin/comments/1mxf6s5/built_my_first_real_android_app_in_kotlin_workout/)
-- [🚀 The first tech preview of OpenAPI support in Ktor is here!](https://www.reddit.com/r/Kotlin/comments/1mx9fbm/the_first_tech_preview_of_openapi_support_in_ktor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
