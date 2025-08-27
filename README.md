@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I wrote a 3-part handbook for my team on unit testing and decided to make it public and free. Hope it&#39;s useful!](https://www.reddit.com/r/Kotlin/comments/1n0snyi/i_wrote_a_3part_handbook_for_my_team_on_unit/)
+- [53k Kotlin Jobs - You can immediately apply!](https://www.reddit.com/r/Kotlin/comments/1n0onk1/53k_kotlin_jobs_you_can_immediately_apply/)
+- [What’s Next for Kotlin Multiplatform and Compose Multiplatform – August 2025 Update](https://www.reddit.com/r/Kotlin/comments/1n0ioc8/whats_next_for_kotlin_multiplatform_and_compose/)
+- [Built my own Hexagonal + DDD sample project - looking for feedback](https://www.reddit.com/r/Kotlin/comments/1n0eeyx/built_my_own_hexagonal_ddd_sample_project_looking/)
 - [Using Kotlin for non Android?](https://www.reddit.com/r/Kotlin/comments/1n08qnl/using_kotlin_for_non_android/)
 - [There’s a new cohort-style course on Kotlin coroutines. I’m curious if folks here find this format helpful?](https://www.reddit.com/r/Kotlin/comments/1mzqlo5/theres_a_new_cohortstyle_course_on_kotlin/)
 - [[Library] Compose Shape Fitter – Shape Approximation from Points in Kotlin](https://www.reddit.com/r/Kotlin/comments/1mz26sc/library_compose_shape_fitter_shape_approximation/)
 - [Ship with Junie &lpar;Ep. 1&rpar; — KMP scaffolding + timer UI in Compose, DX metrics inside](https://www.reddit.com/r/Kotlin/comments/1mymxmy/ship_with_junie_ep_1_kmp_scaffolding_timer_ui_in/)
 - [Portrait videos corrupted on MALI G series GPUs in Tensor G series chipets](https://www.reddit.com/r/Kotlin/comments/1mydr3u/portrait_videos_corrupted_on_mali_g_series_gpus/)
 - [OffCrypt v2](https://www.reddit.com/r/Kotlin/comments/1my7h06/offcrypt_v2/)
-- [Is this useful to you? &lpar;react-like MutableStateFlow&rpar;](https://www.reddit.com/r/Kotlin/comments/1my72bp/is_this_useful_to_you_reactlike_mutablestateflow/)
-- [Kotlin vs React Native – Which one has better career opportunities &amp; higher salary in 2025?](https://www.reddit.com/r/Kotlin/comments/1mxy4vv/kotlin_vs_react_native_which_one_has_better/)
-- [Best Practices for Interactive Maps in Kotlin Multiplatform &lpar;KMM&rpar;?](https://www.reddit.com/r/Kotlin/comments/1mxtdwd/best_practices_for_interactive_maps_in_kotlin/)
-- [Built my first real Android app in Kotlin workout tracker with some unique ideas, would love your thoughts](https://www.reddit.com/r/Kotlin/comments/1mxf6s5/built_my_first_real_android_app_in_kotlin_workout/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
