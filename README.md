@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I wrote a 3-part handbook for my team on unit testing and decided to make it public and free. Hope it&#39;s useful!](https://www.reddit.com/r/Kotlin/comments/1n0snyi/i_wrote_a_3part_handbook_for_my_team_on_unit/)
-- [53k Kotlin Jobs - You can immediately apply!](https://www.reddit.com/r/Kotlin/comments/1n0onk1/53k_kotlin_jobs_you_can_immediately_apply/)
-- [What’s Next for Kotlin Multiplatform and Compose Multiplatform – August 2025 Update](https://www.reddit.com/r/Kotlin/comments/1n0ioc8/whats_next_for_kotlin_multiplatform_and_compose/)
-- [Built my own Hexagonal + DDD sample project - looking for feedback](https://www.reddit.com/r/Kotlin/comments/1n0eeyx/built_my_own_hexagonal_ddd_sample_project_looking/)
-- [Using Kotlin for non Android?](https://www.reddit.com/r/Kotlin/comments/1n08qnl/using_kotlin_for_non_android/)
-- [There’s a new cohort-style course on Kotlin coroutines. I’m curious if folks here find this format helpful?](https://www.reddit.com/r/Kotlin/comments/1mzqlo5/theres_a_new_cohortstyle_course_on_kotlin/)
-- [[Library] Compose Shape Fitter – Shape Approximation from Points in Kotlin](https://www.reddit.com/r/Kotlin/comments/1mz26sc/library_compose_shape_fitter_shape_approximation/)
-- [Ship with Junie &lpar;Ep. 1&rpar; — KMP scaffolding + timer UI in Compose, DX metrics inside](https://www.reddit.com/r/Kotlin/comments/1mymxmy/ship_with_junie_ep_1_kmp_scaffolding_timer_ui_in/)
-- [Portrait videos corrupted on MALI G series GPUs in Tensor G series chipets](https://www.reddit.com/r/Kotlin/comments/1mydr3u/portrait_videos_corrupted_on_mali_g_series_gpus/)
-- [OffCrypt v2](https://www.reddit.com/r/Kotlin/comments/1my7h06/offcrypt_v2/)
+- [Enabling Kotlin incremental compilation on Buck2 - Engineering at Meta](https://www.reddit.com/r/Kotlin/comments/1n1ualz/enabling_kotlin_incremental_compilation_on_buck2/)
+- [Best way to avoid exception as control flow in Kotlin](https://www.reddit.com/r/Kotlin/comments/1n1sdz7/best_way_to_avoid_exception_as_control_flow_in/)
+- [Neovim setup for Kotlin Multiplatform &lpar;Compose&rpar; with full LSP support?](https://www.reddit.com/r/Kotlin/comments/1n1o3qf/neovim_setup_for_kotlin_multiplatform_compose/)
+- [Kotlin vs Java runtime gap on LeetCode — here’s what I found](https://www.reddit.com/r/Kotlin/comments/1n1ga20/kotlin_vs_java_runtime_gap_on_leetcode_heres_what/)
+- [Kotlin vs Java runtime gap on LeetCode — here’s what I found](https://www.reddit.com/r/Kotlin/comments/1n1fzco/kotlin_vs_java_runtime_gap_on_leetcode_heres_what/)
+- [Exploring Data Science With Kotlin: A Powerlifting Case Study](https://www.reddit.com/r/Kotlin/comments/1n1frni/exploring_data_science_with_kotlin_a_powerlifting/)
+- [All server-side talks from KotlinConf 2025](https://www.reddit.com/r/Kotlin/comments/1n1f898/all_serverside_talks_from_kotlinconf_2025/)
+- [Exploring Data Science With Kotlin: A Powerlifting Case Study](https://www.reddit.com/r/Kotlin/comments/1n1f6nv/exploring_data_science_with_kotlin_a_powerlifting/)
+- [Stop Confusing Kotlin Scope Functions — Here’s When to Use let, run, apply, also, and with](https://www.reddit.com/r/Kotlin/comments/1n1c2zw/stop_confusing_kotlin_scope_functions_heres_when/)
+- [Do you create multiple nav Controllers or just one?](https://www.reddit.com/r/Kotlin/comments/1n190jy/do_you_create_multiple_nav_controllers_or_just_one/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
