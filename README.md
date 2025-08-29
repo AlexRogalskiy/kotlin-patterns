@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Features in OpenAnimation: Palette, Drag &amp; Drop, Publish](https://www.reddit.com/r/Kotlin/comments/1n2fmir/new_features_in_openanimation_palette_drag_drop/)
+- [I was tired of ad-ridden music players &amp; youtube to mp3 converters, so I built my own&lpar;no ads, no login, no BS, open src&rpar;. It&#39;s far from perfect tho so any contributions to the project are welcome.](https://www.reddit.com/r/Kotlin/comments/1n2dfec/i_was_tired_of_adridden_music_players_youtube_to/)
+- [Koog 0.4.0 Is Out: Observable, Predictable, and Deployable Anywhere You Build](https://www.reddit.com/r/Kotlin/comments/1n2c9kj/koog_040_is_out_observable_predictable_and/)
+- [main best-practice/design pattern differences between kotlin and non-java-based high-level languages?](https://www.reddit.com/r/Kotlin/comments/1n2c4tk/main_bestpracticedesign_pattern_differences/)
+- [Using ktlint or ktfmt in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1n25oo9/using_ktlint_or_ktfmt_in_intellij_idea/)
+- [Help test a landing page and get rewarded](https://www.reddit.com/r/Kotlin/comments/1n255y4/help_test_a_landing_page_and_get_rewarded/)
 - [Enabling Kotlin incremental compilation on Buck2 - Engineering at Meta](https://www.reddit.com/r/Kotlin/comments/1n1ualz/enabling_kotlin_incremental_compilation_on_buck2/)
 - [Best way to avoid exception as control flow in Kotlin](https://www.reddit.com/r/Kotlin/comments/1n1sdz7/best_way_to_avoid_exception_as_control_flow_in/)
 - [Neovim setup for Kotlin Multiplatform &lpar;Compose&rpar; with full LSP support?](https://www.reddit.com/r/Kotlin/comments/1n1o3qf/neovim_setup_for_kotlin_multiplatform_compose/)
 - [Kotlin vs Java runtime gap on LeetCode — here’s what I found](https://www.reddit.com/r/Kotlin/comments/1n1ga20/kotlin_vs_java_runtime_gap_on_leetcode_heres_what/)
-- [Kotlin vs Java runtime gap on LeetCode — here’s what I found](https://www.reddit.com/r/Kotlin/comments/1n1fzco/kotlin_vs_java_runtime_gap_on_leetcode_heres_what/)
-- [Exploring Data Science With Kotlin: A Powerlifting Case Study](https://www.reddit.com/r/Kotlin/comments/1n1frni/exploring_data_science_with_kotlin_a_powerlifting/)
-- [All server-side talks from KotlinConf 2025](https://www.reddit.com/r/Kotlin/comments/1n1f898/all_serverside_talks_from_kotlinconf_2025/)
-- [Exploring Data Science With Kotlin: A Powerlifting Case Study](https://www.reddit.com/r/Kotlin/comments/1n1f6nv/exploring_data_science_with_kotlin_a_powerlifting/)
-- [Stop Confusing Kotlin Scope Functions — Here’s When to Use let, run, apply, also, and with](https://www.reddit.com/r/Kotlin/comments/1n1c2zw/stop_confusing_kotlin_scope_functions_heres_when/)
-- [Do you create multiple nav Controllers or just one?](https://www.reddit.com/r/Kotlin/comments/1n190jy/do_you_create_multiple_nav_controllers_or_just_one/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
