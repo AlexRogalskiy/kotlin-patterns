@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New Features in OpenAnimation: Palette, Drag &amp; Drop, Publish](https://www.reddit.com/r/Kotlin/comments/1n2fmir/new_features_in_openanimation_palette_drag_drop/)
-- [I was tired of ad-ridden music players &amp; youtube to mp3 converters, so I built my own&lpar;no ads, no login, no BS, open src&rpar;. It&#39;s far from perfect tho so any contributions to the project are welcome.](https://www.reddit.com/r/Kotlin/comments/1n2dfec/i_was_tired_of_adridden_music_players_youtube_to/)
-- [Koog 0.4.0 Is Out: Observable, Predictable, and Deployable Anywhere You Build](https://www.reddit.com/r/Kotlin/comments/1n2c9kj/koog_040_is_out_observable_predictable_and/)
-- [main best-practice/design pattern differences between kotlin and non-java-based high-level languages?](https://www.reddit.com/r/Kotlin/comments/1n2c4tk/main_bestpracticedesign_pattern_differences/)
-- [Using ktlint or ktfmt in IntelliJ IDEA](https://www.reddit.com/r/Kotlin/comments/1n25oo9/using_ktlint_or_ktfmt_in_intellij_idea/)
-- [Help test a landing page and get rewarded](https://www.reddit.com/r/Kotlin/comments/1n255y4/help_test_a_landing_page_and_get_rewarded/)
-- [Enabling Kotlin incremental compilation on Buck2 - Engineering at Meta](https://www.reddit.com/r/Kotlin/comments/1n1ualz/enabling_kotlin_incremental_compilation_on_buck2/)
-- [Best way to avoid exception as control flow in Kotlin](https://www.reddit.com/r/Kotlin/comments/1n1sdz7/best_way_to_avoid_exception_as_control_flow_in/)
-- [Neovim setup for Kotlin Multiplatform &lpar;Compose&rpar; with full LSP support?](https://www.reddit.com/r/Kotlin/comments/1n1o3qf/neovim_setup_for_kotlin_multiplatform_compose/)
-- [Kotlin vs Java runtime gap on LeetCode — here’s what I found](https://www.reddit.com/r/Kotlin/comments/1n1ga20/kotlin_vs_java_runtime_gap_on_leetcode_heres_what/)
+- [Step-by-Step Localization for Kotlin Multiplatform | KMP Localization](https://www.reddit.com/r/Kotlin/comments/1n4is53/stepbystep_localization_for_kotlin_multiplatform/)
+- [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1n46sxq/the_nodkrai_concept_overview_is_now_available/)
+- [slide](https://www.reddit.com/r/Kotlin/comments/1n45jyc/slide/)
+- [How do I solve this problem?](https://www.reddit.com/r/Kotlin/comments/1n45bzz/how_do_i_solve_this_problem/)
+- [I wanted to understand where Kotlin Multiplatform &lpar;KMP&rpar; stands vs Flutter and React Native in 2025](https://www.reddit.com/r/Kotlin/comments/1n44ddd/i_wanted_to_understand_where_kotlin_multiplatform/)
+- [Avro4k now support confluent&#39;s schema registry &amp; spring!](https://www.reddit.com/r/Kotlin/comments/1n42a2y/avro4k_now_support_confluents_schema_registry/)
+- [Hi! Three months ago, I started Android and cross-platform development with Kotlin. Could you suggest any recognized free certifications, bootcamps, or advanced courses to boost my CV?](https://www.reddit.com/r/Kotlin/comments/1n404m4/hi_three_months_ago_i_started_android_and/)
+- [ICPC World Finals Livestream: ecnerwala and SecondThread Speed-Solving Kotlin Challenge](https://www.reddit.com/r/Kotlin/comments/1n3zb5t/icpc_world_finals_livestream_ecnerwala_and/)
+- [Side-Effects in Jetpack Compose Made Simple](https://www.reddit.com/r/Kotlin/comments/1n3yqsl/sideeffects_in_jetpack_compose_made_simple/)
+- [What framework has been good so far when working with Kotlin on the server side?](https://www.reddit.com/r/Kotlin/comments/1n3r06m/what_framework_has_been_good_so_far_when_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
