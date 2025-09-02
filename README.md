@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Step-by-Step Localization for Kotlin Multiplatform | KMP Localization](https://www.reddit.com/r/Kotlin/comments/1n4is53/stepbystep_localization_for_kotlin_multiplatform/)
-- [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1n46sxq/the_nodkrai_concept_overview_is_now_available/)
-- [slide](https://www.reddit.com/r/Kotlin/comments/1n45jyc/slide/)
-- [How do I solve this problem?](https://www.reddit.com/r/Kotlin/comments/1n45bzz/how_do_i_solve_this_problem/)
-- [I wanted to understand where Kotlin Multiplatform &lpar;KMP&rpar; stands vs Flutter and React Native in 2025](https://www.reddit.com/r/Kotlin/comments/1n44ddd/i_wanted_to_understand_where_kotlin_multiplatform/)
-- [Avro4k now support confluent&#39;s schema registry &amp; spring!](https://www.reddit.com/r/Kotlin/comments/1n42a2y/avro4k_now_support_confluents_schema_registry/)
-- [Hi! Three months ago, I started Android and cross-platform development with Kotlin. Could you suggest any recognized free certifications, bootcamps, or advanced courses to boost my CV?](https://www.reddit.com/r/Kotlin/comments/1n404m4/hi_three_months_ago_i_started_android_and/)
-- [ICPC World Finals Livestream: ecnerwala and SecondThread Speed-Solving Kotlin Challenge](https://www.reddit.com/r/Kotlin/comments/1n3zb5t/icpc_world_finals_livestream_ecnerwala_and/)
-- [Side-Effects in Jetpack Compose Made Simple](https://www.reddit.com/r/Kotlin/comments/1n3yqsl/sideeffects_in_jetpack_compose_made_simple/)
-- [What framework has been good so far when working with Kotlin on the server side?](https://www.reddit.com/r/Kotlin/comments/1n3r06m/what_framework_has_been_good_so_far_when_working/)
+- [Kotlin roadmap for beginners](https://www.reddit.com/r/Kotlin/comments/1n5u11c/kotlin_roadmap_for_beginners/)
+- [Kotlin learning resources for beginners](https://www.reddit.com/r/Kotlin/comments/1n5op6s/kotlin_learning_resources_for_beginners/)
+- [🎉 Announcing KStateMachine v0.34.2](https://www.reddit.com/r/Kotlin/comments/1n5loem/announcing_kstatemachine_v0342/)
+- [👋 Have you tried Kotlin’s context parameters?](https://www.reddit.com/r/Kotlin/comments/1n5ic2n/have_you_tried_kotlins_context_parameters/)
+- [Koog 0.4.0 is out](https://www.reddit.com/r/Kotlin/comments/1n5hzcx/koog_040_is_out/)
+- [What are instances](https://www.reddit.com/r/Kotlin/comments/1n5400j/what_are_instances/)
+- [How to use Ktor for network calls in Android: Beginner’s guide in Kotlin](https://www.reddit.com/r/Kotlin/comments/1n513p6/how_to_use_ktor_for_network_calls_in_android/)
+- [Made a Compose Multi Platform LeetCode visualizer app with almost Native UI](https://www.reddit.com/r/Kotlin/comments/1n4vrvh/made_a_compose_multi_platform_leetcode_visualizer/)
+- [How can I make Inheritance-JPA work in Kotlin ?](https://www.reddit.com/r/Kotlin/comments/1n4s77y/how_can_i_make_inheritancejpa_work_in_kotlin/)
+- [Translating Java to Kotlin at Scale](https://www.reddit.com/r/Kotlin/comments/1n4rj8n/translating_java_to_kotlin_at_scale/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
