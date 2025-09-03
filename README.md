@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Stable Values as replacement for Lazy delegate on JVM](https://www.reddit.com/r/Kotlin/comments/1n6z4e8/stable_values_as_replacement_for_lazy_delegate_on/)
+- [Tiny KMP Connectivity Monitor &lpar;Android + iOS&rpar; — single StateFlow, no Pods &lpar;demo + repo&rpar;](https://www.reddit.com/r/Kotlin/comments/1n6tgwb/tiny_kmp_connectivity_monitor_android_ios_single/)
+- [Kotlin Study Buddy](https://www.reddit.com/r/Kotlin/comments/1n6lyre/kotlin_study_buddy/)
+- [🚀 KOOG Roadmap &lpar;v1&rpar;: Build Kotlin-native AI agents](https://www.reddit.com/r/Kotlin/comments/1n694b3/koog_roadmap_v1_build_kotlinnative_ai_agents/)
 - [Kotlin roadmap for beginners](https://www.reddit.com/r/Kotlin/comments/1n5u11c/kotlin_roadmap_for_beginners/)
 - [Kotlin learning resources for beginners](https://www.reddit.com/r/Kotlin/comments/1n5op6s/kotlin_learning_resources_for_beginners/)
 - [🎉 Announcing KStateMachine v0.34.2](https://www.reddit.com/r/Kotlin/comments/1n5loem/announcing_kstatemachine_v0342/)
 - [👋 Have you tried Kotlin’s context parameters?](https://www.reddit.com/r/Kotlin/comments/1n5ic2n/have_you_tried_kotlins_context_parameters/)
 - [Koog 0.4.0 is out](https://www.reddit.com/r/Kotlin/comments/1n5hzcx/koog_040_is_out/)
 - [What are instances](https://www.reddit.com/r/Kotlin/comments/1n5400j/what_are_instances/)
-- [How to use Ktor for network calls in Android: Beginner’s guide in Kotlin](https://www.reddit.com/r/Kotlin/comments/1n513p6/how_to_use_ktor_for_network_calls_in_android/)
-- [Made a Compose Multi Platform LeetCode visualizer app with almost Native UI](https://www.reddit.com/r/Kotlin/comments/1n4vrvh/made_a_compose_multi_platform_leetcode_visualizer/)
-- [How can I make Inheritance-JPA work in Kotlin ?](https://www.reddit.com/r/Kotlin/comments/1n4s77y/how_can_i_make_inheritancejpa_work_in_kotlin/)
-- [Translating Java to Kotlin at Scale](https://www.reddit.com/r/Kotlin/comments/1n4rj8n/translating_java_to_kotlin_at_scale/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
