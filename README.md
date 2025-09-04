@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Article series about Koog - the most advanced JVM framework for building AI agents](https://www.reddit.com/r/Kotlin/comments/1n7gcfp/article_series_about_koog_the_most_advanced_jvm/)
+- [Paging 3 with ObjectBox in Android: Setup Guide and Performance Results](https://www.reddit.com/r/Kotlin/comments/1n7df27/paging_3_with_objectbox_in_android_setup_guide/)
 - [Stable Values as replacement for Lazy delegate on JVM](https://www.reddit.com/r/Kotlin/comments/1n6z4e8/stable_values_as_replacement_for_lazy_delegate_on/)
 - [Tiny KMP Connectivity Monitor &lpar;Android + iOS&rpar; — single StateFlow, no Pods &lpar;demo + repo&rpar;](https://www.reddit.com/r/Kotlin/comments/1n6tgwb/tiny_kmp_connectivity_monitor_android_ios_single/)
 - [Kotlin Study Buddy](https://www.reddit.com/r/Kotlin/comments/1n6lyre/kotlin_study_buddy/)
 - [🚀 KOOG Roadmap &lpar;v1&rpar;: Build Kotlin-native AI agents](https://www.reddit.com/r/Kotlin/comments/1n694b3/koog_roadmap_v1_build_kotlinnative_ai_agents/)
+- [Built a Kotlin-based Gradle plugin for automated Android i18n](https://www.reddit.com/r/Kotlin/comments/1n60oli/built_a_kotlinbased_gradle_plugin_for_automated/)
 - [Kotlin roadmap for beginners](https://www.reddit.com/r/Kotlin/comments/1n5u11c/kotlin_roadmap_for_beginners/)
 - [Kotlin learning resources for beginners](https://www.reddit.com/r/Kotlin/comments/1n5op6s/kotlin_learning_resources_for_beginners/)
 - [🎉 Announcing KStateMachine v0.34.2](https://www.reddit.com/r/Kotlin/comments/1n5loem/announcing_kstatemachine_v0342/)
-- [👋 Have you tried Kotlin’s context parameters?](https://www.reddit.com/r/Kotlin/comments/1n5ic2n/have_you_tried_kotlins_context_parameters/)
-- [Koog 0.4.0 is out](https://www.reddit.com/r/Kotlin/comments/1n5hzcx/koog_040_is_out/)
-- [What are instances](https://www.reddit.com/r/Kotlin/comments/1n5400j/what_are_instances/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
