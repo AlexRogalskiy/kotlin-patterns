@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Article series about Koog - the most advanced JVM framework for building AI agents](https://www.reddit.com/r/Kotlin/comments/1n7gcfp/article_series_about_koog_the_most_advanced_jvm/)
-- [Paging 3 with ObjectBox in Android: Setup Guide and Performance Results](https://www.reddit.com/r/Kotlin/comments/1n7df27/paging_3_with_objectbox_in_android_setup_guide/)
-- [Stable Values as replacement for Lazy delegate on JVM](https://www.reddit.com/r/Kotlin/comments/1n6z4e8/stable_values_as_replacement_for_lazy_delegate_on/)
-- [Tiny KMP Connectivity Monitor &lpar;Android + iOS&rpar; — single StateFlow, no Pods &lpar;demo + repo&rpar;](https://www.reddit.com/r/Kotlin/comments/1n6tgwb/tiny_kmp_connectivity_monitor_android_ios_single/)
-- [Kotlin Study Buddy](https://www.reddit.com/r/Kotlin/comments/1n6lyre/kotlin_study_buddy/)
-- [🚀 KOOG Roadmap &lpar;v1&rpar;: Build Kotlin-native AI agents](https://www.reddit.com/r/Kotlin/comments/1n694b3/koog_roadmap_v1_build_kotlinnative_ai_agents/)
-- [Built a Kotlin-based Gradle plugin for automated Android i18n](https://www.reddit.com/r/Kotlin/comments/1n60oli/built_a_kotlinbased_gradle_plugin_for_automated/)
-- [Kotlin roadmap for beginners](https://www.reddit.com/r/Kotlin/comments/1n5u11c/kotlin_roadmap_for_beginners/)
-- [Kotlin learning resources for beginners](https://www.reddit.com/r/Kotlin/comments/1n5op6s/kotlin_learning_resources_for_beginners/)
-- [🎉 Announcing KStateMachine v0.34.2](https://www.reddit.com/r/Kotlin/comments/1n5loem/announcing_kstatemachine_v0342/)
+- [Kotlin Multiplatform test interceptors with Burst](https://www.reddit.com/r/Kotlin/comments/1n8sua0/kotlin_multiplatform_test_interceptors_with_burst/)
+- [Learning kotlin is a safe choice for future in India?](https://www.reddit.com/r/Kotlin/comments/1n8f6i6/learning_kotlin_is_a_safe_choice_for_future_in/)
+- [Is Atomic Kotlin still a relevant book when the last update was in 2021&lpar;ver. 1.5-1.6&rpar;](https://www.reddit.com/r/Kotlin/comments/1n8djkz/is_atomic_kotlin_still_a_relevant_book_when_the/)
+- [Graph-based strategies in Koog: cooking smarter AI agents](https://www.reddit.com/r/Kotlin/comments/1n8b5hz/graphbased_strategies_in_koog_cooking_smarter_ai/)
+- [High-Performance Skiko Image Processing](https://www.reddit.com/r/Kotlin/comments/1n87lm9/highperformance_skiko_image_processing/)
+- [Kotlin Multiplatform: Very slow iOS debugging in Android Studio?](https://www.reddit.com/r/Kotlin/comments/1n87eut/kotlin_multiplatform_very_slow_ios_debugging_in/)
+- [Livestream: Performance Gains with Kotlin and Azul](https://www.reddit.com/r/Kotlin/comments/1n82rn1/livestream_performance_gains_with_kotlin_and_azul/)
+- [Better ways to handle exceptions in Kotlin: runCatching and Result&lt;T&gt;](https://www.reddit.com/r/Kotlin/comments/1n825yj/better_ways_to_handle_exceptions_in_kotlin/)
+- [KMP Xcode Linker Error: Shared Module Incorrectly Linked to Third-Party Pod](https://www.reddit.com/r/Kotlin/comments/1n7zgwp/kmp_xcode_linker_error_shared_module_incorrectly/)
+- [Kotlin Multiplatform Camera &amp; Gallery Picker &lpar;Android + iOS, Compose support&rpar;](https://www.reddit.com/r/Kotlin/comments/1n7zfmw/kotlin_multiplatform_camera_gallery_picker/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
