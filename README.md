@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin Multiplatform test interceptors with Burst](https://www.reddit.com/r/Kotlin/comments/1n8sua0/kotlin_multiplatform_test_interceptors_with_burst/)
-- [Learning kotlin is a safe choice for future in India?](https://www.reddit.com/r/Kotlin/comments/1n8f6i6/learning_kotlin_is_a_safe_choice_for_future_in/)
-- [Is Atomic Kotlin still a relevant book when the last update was in 2021&lpar;ver. 1.5-1.6&rpar;](https://www.reddit.com/r/Kotlin/comments/1n8djkz/is_atomic_kotlin_still_a_relevant_book_when_the/)
-- [Graph-based strategies in Koog: cooking smarter AI agents](https://www.reddit.com/r/Kotlin/comments/1n8b5hz/graphbased_strategies_in_koog_cooking_smarter_ai/)
-- [High-Performance Skiko Image Processing](https://www.reddit.com/r/Kotlin/comments/1n87lm9/highperformance_skiko_image_processing/)
-- [Kotlin Multiplatform: Very slow iOS debugging in Android Studio?](https://www.reddit.com/r/Kotlin/comments/1n87eut/kotlin_multiplatform_very_slow_ios_debugging_in/)
-- [Livestream: Performance Gains with Kotlin and Azul](https://www.reddit.com/r/Kotlin/comments/1n82rn1/livestream_performance_gains_with_kotlin_and_azul/)
-- [Better ways to handle exceptions in Kotlin: runCatching and Result&lt;T&gt;](https://www.reddit.com/r/Kotlin/comments/1n825yj/better_ways_to_handle_exceptions_in_kotlin/)
-- [KMP Xcode Linker Error: Shared Module Incorrectly Linked to Third-Party Pod](https://www.reddit.com/r/Kotlin/comments/1n7zgwp/kmp_xcode_linker_error_shared_module_incorrectly/)
-- [Kotlin Multiplatform Camera &amp; Gallery Picker &lpar;Android + iOS, Compose support&rpar;](https://www.reddit.com/r/Kotlin/comments/1n7zfmw/kotlin_multiplatform_camera_gallery_picker/)
+- [What kind of database do you use in KMP wasm?](https://www.reddit.com/r/Kotlin/comments/1na3keu/what_kind_of_database_do_you_use_in_kmp_wasm/)
+- [Just launched ZenTrack - An AI productivity app that actually learns YOUR patterns &lpar;not generic advice&rpar;](https://www.reddit.com/r/Kotlin/comments/1na1ej9/just_launched_zentrack_an_ai_productivity_app/)
+- [KmpAppInsights now has AppleWatch support &amp; Crashlytics](https://www.reddit.com/r/Kotlin/comments/1na0r6g/kmpappinsights_now_has_applewatch_support/)
+- [WorldWind Kotlin v1.8.3 with full KML support released](https://www.reddit.com/r/Kotlin/comments/1n9kw6j/worldwind_kotlin_v183_with_full_kml_support/)
+- [What does everyone use for a smartphone?](https://www.reddit.com/r/Kotlin/comments/1n9iijt/what_does_everyone_use_for_a_smartphone/)
+- [Do you guys know how to fix this? My gradle seems to be all sorts of screwed](https://www.reddit.com/r/Kotlin/comments/1n9i79r/do_you_guys_know_how_to_fix_this_my_gradle_seems/)
+- [Deep Link with Oauth2](https://www.reddit.com/r/Kotlin/comments/1n9hf8s/deep_link_with_oauth2/)
+- [Kotlin Roadmap](https://www.reddit.com/r/Kotlin/comments/1n9a03f/kotlin_roadmap/)
+- [Adding Some Style with Twitter Bootstrap](https://www.reddit.com/r/Kotlin/comments/1n97r52/adding_some_style_with_twitter_bootstrap/)
+- [Putting Kotlin Flows Together - merge&lpar;&rpar;, combine&lpar;&rpar;, zip&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1n960ne/putting_kotlin_flows_together_merge_combine_zip/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
