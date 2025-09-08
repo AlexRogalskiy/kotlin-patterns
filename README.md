@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Feel Lost in the Spring Boot journey](https://www.reddit.com/r/Kotlin/comments/1naz78c/feel_lost_in_the_spring_boot_journey/)
+- [Project Idea](https://www.reddit.com/r/Kotlin/comments/1nam0e3/project_idea/)
 - [What kind of database do you use in KMP wasm?](https://www.reddit.com/r/Kotlin/comments/1na3keu/what_kind_of_database_do_you_use_in_kmp_wasm/)
 - [Just launched ZenTrack - An AI productivity app that actually learns YOUR patterns &lpar;not generic advice&rpar;](https://www.reddit.com/r/Kotlin/comments/1na1ej9/just_launched_zentrack_an_ai_productivity_app/)
 - [KmpAppInsights now has AppleWatch support &amp; Crashlytics](https://www.reddit.com/r/Kotlin/comments/1na0r6g/kmpappinsights_now_has_applewatch_support/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Do you guys know how to fix this? My gradle seems to be all sorts of screwed](https://www.reddit.com/r/Kotlin/comments/1n9i79r/do_you_guys_know_how_to_fix_this_my_gradle_seems/)
 - [Deep Link with Oauth2](https://www.reddit.com/r/Kotlin/comments/1n9hf8s/deep_link_with_oauth2/)
 - [Kotlin Roadmap](https://www.reddit.com/r/Kotlin/comments/1n9a03f/kotlin_roadmap/)
-- [Adding Some Style with Twitter Bootstrap](https://www.reddit.com/r/Kotlin/comments/1n97r52/adding_some_style_with_twitter_bootstrap/)
-- [Putting Kotlin Flows Together - merge&lpar;&rpar;, combine&lpar;&rpar;, zip&lpar;&rpar;](https://www.reddit.com/r/Kotlin/comments/1n960ne/putting_kotlin_flows_together_merge_combine_zip/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
