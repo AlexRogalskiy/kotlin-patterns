@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Somehow newbie](https://www.reddit.com/r/Kotlin/comments/1nc1s5r/somehow_newbie/)
+- [How much should I charge for this](https://www.reddit.com/r/Kotlin/comments/1nbyica/how_much_should_i_charge_for_this/)
+- [Opentelemetry implementation in Kotlin &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1nburgk/opentelemetry_implementation_in_kotlin_kmp/)
+- [Tell Kotlin a Java library does accept null values](https://www.reddit.com/r/Kotlin/comments/1nbnmrh/tell_kotlin_a_java_library_does_accept_null_values/)
+- [Can&#39;t do Cinterop, &quot;can&#39;t find .klib&quot;](https://www.reddit.com/r/Kotlin/comments/1nbmgc4/cant_do_cinterop_cant_find_klib/)
+- [The Subtle Art of Taming Flows and Coroutines in Kotlin, or &#39;How Not to DDoS Yourself with Server-Sent Events&#39;](https://www.reddit.com/r/Kotlin/comments/1nbl1jx/the_subtle_art_of_taming_flows_and_coroutines_in/)
+- [The Subtle Art of Taming Flows and Coroutines in Kotlin, or &#39;How Not to DDoS Yourself with Server-Sent Events&#39;](https://www.reddit.com/r/Kotlin/comments/1nbl17l/the_subtle_art_of_taming_flows_and_coroutines_in/)
+- [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1nbjbk9/the_nodkrai_concept_overview_is_now_available/)
+- [Best way to wrap responses in Ktor with custom plugins?](https://www.reddit.com/r/Kotlin/comments/1nbhnpx/best_way_to_wrap_responses_in_ktor_with_custom/)
 - [Feel Lost in the Spring Boot journey](https://www.reddit.com/r/Kotlin/comments/1naz78c/feel_lost_in_the_spring_boot_journey/)
-- [Project Idea](https://www.reddit.com/r/Kotlin/comments/1nam0e3/project_idea/)
-- [What kind of database do you use in KMP wasm?](https://www.reddit.com/r/Kotlin/comments/1na3keu/what_kind_of_database_do_you_use_in_kmp_wasm/)
-- [Just launched ZenTrack - An AI productivity app that actually learns YOUR patterns &lpar;not generic advice&rpar;](https://www.reddit.com/r/Kotlin/comments/1na1ej9/just_launched_zentrack_an_ai_productivity_app/)
-- [KmpAppInsights now has AppleWatch support &amp; Crashlytics](https://www.reddit.com/r/Kotlin/comments/1na0r6g/kmpappinsights_now_has_applewatch_support/)
-- [WorldWind Kotlin v1.8.3 with full KML support released](https://www.reddit.com/r/Kotlin/comments/1n9kw6j/worldwind_kotlin_v183_with_full_kml_support/)
-- [What does everyone use for a smartphone?](https://www.reddit.com/r/Kotlin/comments/1n9iijt/what_does_everyone_use_for_a_smartphone/)
-- [Do you guys know how to fix this? My gradle seems to be all sorts of screwed](https://www.reddit.com/r/Kotlin/comments/1n9i79r/do_you_guys_know_how_to_fix_this_my_gradle_seems/)
-- [Deep Link with Oauth2](https://www.reddit.com/r/Kotlin/comments/1n9hf8s/deep_link_with_oauth2/)
-- [Kotlin Roadmap](https://www.reddit.com/r/Kotlin/comments/1n9a03f/kotlin_roadmap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
