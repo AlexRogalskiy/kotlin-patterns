@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin by lazy vs Eager val 💤](https://www.reddit.com/r/Kotlin/comments/1ndwnor/kotlin_by_lazy_vs_eager_val/)
+- [Kotlin 2.2.20 Released](https://www.reddit.com/r/Kotlin/comments/1ndf96g/kotlin_2220_released/)
+- [SDK for wifi speedtest](https://www.reddit.com/r/Kotlin/comments/1nde3gk/sdk_for_wifi_speedtest/)
+- [Kotlin Arrow Optics &lpar;1.2.4&rpar; - how to do combine traversal and prism?](https://www.reddit.com/r/Kotlin/comments/1nd1noh/kotlin_arrow_optics_124_how_to_do_combine/)
+- [Creating a TTS library for KMP](https://www.reddit.com/r/Kotlin/comments/1ncip8o/creating_a_tts_library_for_kmp/)
+- [New Kotlin Roadmap is out](https://www.reddit.com/r/Kotlin/comments/1ncfte0/new_kotlin_roadmap_is_out/)
+- [Jetpack Compose and KMP Guide - Free Kotlin Learning Roadmap 2025 [Open Source]](https://www.reddit.com/r/Kotlin/comments/1ncf3sv/jetpack_compose_and_kmp_guide_free_kotlin/)
+- [Researching on Kotlin](https://www.reddit.com/r/Kotlin/comments/1nc8wxe/researching_on_kotlin/)
 - [Somehow newbie](https://www.reddit.com/r/Kotlin/comments/1nc1s5r/somehow_newbie/)
 - [How much should I charge for this](https://www.reddit.com/r/Kotlin/comments/1nbyica/how_much_should_i_charge_for_this/)
-- [Opentelemetry implementation in Kotlin &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1nburgk/opentelemetry_implementation_in_kotlin_kmp/)
-- [Tell Kotlin a Java library does accept null values](https://www.reddit.com/r/Kotlin/comments/1nbnmrh/tell_kotlin_a_java_library_does_accept_null_values/)
-- [Can&#39;t do Cinterop, &quot;can&#39;t find .klib&quot;](https://www.reddit.com/r/Kotlin/comments/1nbmgc4/cant_do_cinterop_cant_find_klib/)
-- [The Subtle Art of Taming Flows and Coroutines in Kotlin, or &#39;How Not to DDoS Yourself with Server-Sent Events&#39;](https://www.reddit.com/r/Kotlin/comments/1nbl1jx/the_subtle_art_of_taming_flows_and_coroutines_in/)
-- [The Subtle Art of Taming Flows and Coroutines in Kotlin, or &#39;How Not to DDoS Yourself with Server-Sent Events&#39;](https://www.reddit.com/r/Kotlin/comments/1nbl17l/the_subtle_art_of_taming_flows_and_coroutines_in/)
-- [The Nod-Krai Concept Overview is now available.](https://www.reddit.com/r/Kotlin/comments/1nbjbk9/the_nodkrai_concept_overview_is_now_available/)
-- [Best way to wrap responses in Ktor with custom plugins?](https://www.reddit.com/r/Kotlin/comments/1nbhnpx/best_way_to_wrap_responses_in_ktor_with_custom/)
-- [Feel Lost in the Spring Boot journey](https://www.reddit.com/r/Kotlin/comments/1naz78c/feel_lost_in_the_spring_boot_journey/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
