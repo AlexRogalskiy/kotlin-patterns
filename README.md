@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Liquid: Liquid RuntimeShader effects for Jetpack Compose - Initial release](https://www.reddit.com/r/Kotlin/comments/1nfasab/liquid_liquid_runtimeshader_effects_for_jetpack/)
+- [Checkout Kata in Kotlin - Part 1 - TDD](https://www.reddit.com/r/Kotlin/comments/1nf5cqt/checkout_kata_in_kotlin_part_1_tdd/)
+- [kotlinx.coroutines outperforming the GPU?](https://www.reddit.com/r/Kotlin/comments/1nf3lti/kotlinxcoroutines_outperforming_the_gpu/)
+- [Union type](https://www.reddit.com/r/Kotlin/comments/1nf2ktw/union_type/)
+- [Need help saving an ImageBitmap on WASM in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1neyf3i/need_help_saving_an_imagebitmap_on_wasm_in_kotlin/)
+- [Newbie: In App Purchase throws Unresolved reference &#39;firstOrNull&#39; in BillingViewModel.kt](https://www.reddit.com/r/Kotlin/comments/1nerqc4/newbie_in_app_purchase_throws_unresolved/)
+- [Has anyone gotten ktor server wasmJs to work?](https://www.reddit.com/r/Kotlin/comments/1neelef/has_anyone_gotten_ktor_server_wasmjs_to_work/)
+- [📋 From Python to Kotlin: How JetBrains Revolutionized AI Agent Development](https://www.reddit.com/r/Kotlin/comments/1ne41e5/from_python_to_kotlin_how_jetbrains/)
+- [A Detailed Discussion on WorkManager and Coroutines: Android&#39;s Warhorses of Background Task Execution](https://www.reddit.com/r/Kotlin/comments/1ne0lon/a_detailed_discussion_on_workmanager_and/)
 - [Kotlin by lazy vs Eager val 💤](https://www.reddit.com/r/Kotlin/comments/1ndwnor/kotlin_by_lazy_vs_eager_val/)
-- [Kotlin 2.2.20 Released](https://www.reddit.com/r/Kotlin/comments/1ndf96g/kotlin_2220_released/)
-- [SDK for wifi speedtest](https://www.reddit.com/r/Kotlin/comments/1nde3gk/sdk_for_wifi_speedtest/)
-- [Kotlin Arrow Optics &lpar;1.2.4&rpar; - how to do combine traversal and prism?](https://www.reddit.com/r/Kotlin/comments/1nd1noh/kotlin_arrow_optics_124_how_to_do_combine/)
-- [Creating a TTS library for KMP](https://www.reddit.com/r/Kotlin/comments/1ncip8o/creating_a_tts_library_for_kmp/)
-- [New Kotlin Roadmap is out](https://www.reddit.com/r/Kotlin/comments/1ncfte0/new_kotlin_roadmap_is_out/)
-- [Jetpack Compose and KMP Guide - Free Kotlin Learning Roadmap 2025 [Open Source]](https://www.reddit.com/r/Kotlin/comments/1ncf3sv/jetpack_compose_and_kmp_guide_free_kotlin/)
-- [Researching on Kotlin](https://www.reddit.com/r/Kotlin/comments/1nc8wxe/researching_on_kotlin/)
-- [Somehow newbie](https://www.reddit.com/r/Kotlin/comments/1nc1s5r/somehow_newbie/)
-- [How much should I charge for this](https://www.reddit.com/r/Kotlin/comments/1nbyica/how_much_should_i_charge_for_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
