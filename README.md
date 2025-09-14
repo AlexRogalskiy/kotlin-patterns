@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🧹✨ Clean Validations: Part I](https://www.reddit.com/r/Kotlin/comments/1ng73oe/clean_validations_part_i/)
+- [How to get help and feedback when learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1nfxpsy/how_to_get_help_and_feedback_when_learning_kotlin/)
+- [Dependency management in Kotlin Multiplatform 2 ecosystem](https://www.reddit.com/r/Kotlin/comments/1nfu2ah/dependency_management_in_kotlin_multiplatform_2/)
+- [Use Kotlin for Apache Camel](https://www.reddit.com/r/Kotlin/comments/1nfsv2a/use_kotlin_for_apache_camel/)
+- [Benchmark Battle: But how fast is the GPU really?](https://www.reddit.com/r/Kotlin/comments/1nfqru1/benchmark_battle_but_how_fast_is_the_gpu_really/)
+- [🧠 Kotlin Memory Challenge: Collections vs Loops](https://www.reddit.com/r/Kotlin/comments/1nfqree/kotlin_memory_challenge_collections_vs_loops/)
 - [Liquid: Liquid RuntimeShader effects for Jetpack Compose - Initial release](https://www.reddit.com/r/Kotlin/comments/1nfasab/liquid_liquid_runtimeshader_effects_for_jetpack/)
 - [Checkout Kata in Kotlin - Part 1 - TDD](https://www.reddit.com/r/Kotlin/comments/1nf5cqt/checkout_kata_in_kotlin_part_1_tdd/)
 - [kotlinx.coroutines outperforming the GPU?](https://www.reddit.com/r/Kotlin/comments/1nf3lti/kotlinxcoroutines_outperforming_the_gpu/)
 - [Union type](https://www.reddit.com/r/Kotlin/comments/1nf2ktw/union_type/)
-- [Need help saving an ImageBitmap on WASM in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1neyf3i/need_help_saving_an_imagebitmap_on_wasm_in_kotlin/)
-- [Newbie: In App Purchase throws Unresolved reference &#39;firstOrNull&#39; in BillingViewModel.kt](https://www.reddit.com/r/Kotlin/comments/1nerqc4/newbie_in_app_purchase_throws_unresolved/)
-- [Has anyone gotten ktor server wasmJs to work?](https://www.reddit.com/r/Kotlin/comments/1neelef/has_anyone_gotten_ktor_server_wasmjs_to_work/)
-- [📋 From Python to Kotlin: How JetBrains Revolutionized AI Agent Development](https://www.reddit.com/r/Kotlin/comments/1ne41e5/from_python_to_kotlin_how_jetbrains/)
-- [A Detailed Discussion on WorkManager and Coroutines: Android&#39;s Warhorses of Background Task Execution](https://www.reddit.com/r/Kotlin/comments/1ne0lon/a_detailed_discussion_on_workmanager_and/)
-- [Kotlin by lazy vs Eager val 💤](https://www.reddit.com/r/Kotlin/comments/1ndwnor/kotlin_by_lazy_vs_eager_val/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
