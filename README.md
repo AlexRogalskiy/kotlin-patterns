@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beginner](https://www.reddit.com/r/Kotlin/comments/1nh0i7m/beginner/)
+- [Clean Validations in Android — Part II: Implementation](https://www.reddit.com/r/Kotlin/comments/1ngug4m/clean_validations_in_android_part_ii/)
 - [🧹✨ Clean Validations: Part I](https://www.reddit.com/r/Kotlin/comments/1ng73oe/clean_validations_part_i/)
 - [How to get help and feedback when learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1nfxpsy/how_to_get_help_and_feedback_when_learning_kotlin/)
 - [Dependency management in Kotlin Multiplatform 2 ecosystem](https://www.reddit.com/r/Kotlin/comments/1nfu2ah/dependency_management_in_kotlin_multiplatform_2/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [🧠 Kotlin Memory Challenge: Collections vs Loops](https://www.reddit.com/r/Kotlin/comments/1nfqree/kotlin_memory_challenge_collections_vs_loops/)
 - [Liquid: Liquid RuntimeShader effects for Jetpack Compose - Initial release](https://www.reddit.com/r/Kotlin/comments/1nfasab/liquid_liquid_runtimeshader_effects_for_jetpack/)
 - [Checkout Kata in Kotlin - Part 1 - TDD](https://www.reddit.com/r/Kotlin/comments/1nf5cqt/checkout_kata_in_kotlin_part_1_tdd/)
-- [kotlinx.coroutines outperforming the GPU?](https://www.reddit.com/r/Kotlin/comments/1nf3lti/kotlinxcoroutines_outperforming_the_gpu/)
-- [Union type](https://www.reddit.com/r/Kotlin/comments/1nf2ktw/union_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
