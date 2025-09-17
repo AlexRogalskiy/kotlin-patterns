@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Summon v0.3.2.0 Released - Kotlin Multiplatform UI Framework with SSR now published on Maven &lpar;Need Testers!&rpar;](https://www.reddit.com/r/Kotlin/comments/1niuyhq/summon_v0320_released_kotlin_multiplatform_ui/)
+- [I made a compile-time library to merge data class instances](https://www.reddit.com/r/Kotlin/comments/1nil3cn/i_made_a_compiletime_library_to_merge_data_class/)
+- [Programming is hard.](https://www.reddit.com/r/Kotlin/comments/1nij4y6/programming_is_hard/)
+- [Omittable — Solving the Ambiguity of Null](https://www.reddit.com/r/Kotlin/comments/1niezez/omittable_solving_the_ambiguity_of_null/)
+- [💥 When async yeets your runBlocking even without await&lpar;&rpar;… WTF Kotlin?!](https://www.reddit.com/r/Kotlin/comments/1nidy43/when_async_yeets_your_runblocking_even_without/)
+- [The KotlinConf 2026 Call for Speakers is open](https://www.reddit.com/r/Kotlin/comments/1nia7fz/the_kotlinconf_2026_call_for_speakers_is_open/)
+- [Android dev vs web dev](https://www.reddit.com/r/Kotlin/comments/1ni854l/android_dev_vs_web_dev/)
 - [I have a udemy coupon, any course recommendation?](https://www.reddit.com/r/Kotlin/comments/1ni05e7/i_have_a_udemy_coupon_any_course_recommendation/)
 - [Avro4k schema first approach : the ultimate gradle plug-in to generate Kotlin-native classes is here!](https://www.reddit.com/r/Kotlin/comments/1nhxmwm/avro4k_schema_first_approach_the_ultimate_gradle/)
 - [Android Background Processes &lpar;Kotlin or Hotwire Native?&rpar;](https://www.reddit.com/r/Kotlin/comments/1nhrnrf/android_background_processes_kotlin_or_hotwire/)
-- [Ktor 3.3.0 has been released](https://www.reddit.com/r/Kotlin/comments/1nhgs2f/ktor_330_has_been_released/)
-- [Beginner](https://www.reddit.com/r/Kotlin/comments/1nh0i7m/beginner/)
-- [Clean Validations in Android — Part II: Implementation](https://www.reddit.com/r/Kotlin/comments/1ngug4m/clean_validations_in_android_part_ii/)
-- [🧹✨ Clean Validations: Part I](https://www.reddit.com/r/Kotlin/comments/1ng73oe/clean_validations_part_i/)
-- [How to get help and feedback when learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1nfxpsy/how_to_get_help_and_feedback_when_learning_kotlin/)
-- [Dependency management in Kotlin Multiplatform 2 ecosystem](https://www.reddit.com/r/Kotlin/comments/1nfu2ah/dependency_management_in_kotlin_multiplatform_2/)
-- [Use Kotlin for Apache Camel](https://www.reddit.com/r/Kotlin/comments/1nfsv2a/use_kotlin_for_apache_camel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
