@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google’s strategy: Kotlin and Flutter side by side? What’s the real long-term play?](https://www.reddit.com/r/Kotlin/comments/1njo6a4/googles_strategy_kotlin_and_flutter_side_by_side/)
+- [Where to learn Kotlin in one month?](https://www.reddit.com/r/Kotlin/comments/1njgrme/where_to_learn_kotlin_in_one_month/)
+- [Component Libraries for CMP](https://www.reddit.com/r/Kotlin/comments/1njar4v/component_libraries_for_cmp/)
+- [ZMed – Kotlin Spring Boot Virtual Clinic API with WebSocket Chat](https://www.reddit.com/r/Kotlin/comments/1nj69ac/zmed_kotlin_spring_boot_virtual_clinic_api_with/)
+- [Fraud detection API in Kotlin](https://www.reddit.com/r/Kotlin/comments/1nj56wj/fraud_detection_api_in_kotlin/)
+- [Agent Events in JetBrains Koog: every tool call, every LLM request, every lifecycle tracked](https://www.reddit.com/r/Kotlin/comments/1nj16xm/agent_events_in_jetbrains_koog_every_tool_call/)
 - [Summon v0.3.2.0 Released - Kotlin Multiplatform UI Framework with SSR now published on Maven &lpar;Need Testers!&rpar;](https://www.reddit.com/r/Kotlin/comments/1niuyhq/summon_v0320_released_kotlin_multiplatform_ui/)
 - [I made a compile-time library to merge data class instances](https://www.reddit.com/r/Kotlin/comments/1nil3cn/i_made_a_compiletime_library_to_merge_data_class/)
 - [Programming is hard.](https://www.reddit.com/r/Kotlin/comments/1nij4y6/programming_is_hard/)
 - [Omittable — Solving the Ambiguity of Null](https://www.reddit.com/r/Kotlin/comments/1niezez/omittable_solving_the_ambiguity_of_null/)
-- [💥 When async yeets your runBlocking even without await&lpar;&rpar;… WTF Kotlin?!](https://www.reddit.com/r/Kotlin/comments/1nidy43/when_async_yeets_your_runblocking_even_without/)
-- [The KotlinConf 2026 Call for Speakers is open](https://www.reddit.com/r/Kotlin/comments/1nia7fz/the_kotlinconf_2026_call_for_speakers_is_open/)
-- [Android dev vs web dev](https://www.reddit.com/r/Kotlin/comments/1ni854l/android_dev_vs_web_dev/)
-- [I have a udemy coupon, any course recommendation?](https://www.reddit.com/r/Kotlin/comments/1ni05e7/i_have_a_udemy_coupon_any_course_recommendation/)
-- [Avro4k schema first approach : the ultimate gradle plug-in to generate Kotlin-native classes is here!](https://www.reddit.com/r/Kotlin/comments/1nhxmwm/avro4k_schema_first_approach_the_ultimate_gradle/)
-- [Android Background Processes &lpar;Kotlin or Hotwire Native?&rpar;](https://www.reddit.com/r/Kotlin/comments/1nhrnrf/android_background_processes_kotlin_or_hotwire/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
