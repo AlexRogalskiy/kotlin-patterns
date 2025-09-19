@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin currently down on Kattis &lpar;ICPC website&rpar;](https://www.reddit.com/r/Kotlin/comments/1nkkqo0/kotlin_currently_down_on_kattis_icpc_website/)
+- [Released ExoQuery 1.6 - Schema-First Records with AI Assistance!](https://www.reddit.com/r/Kotlin/comments/1nkk27p/released_exoquery_16_schemafirst_records_with_ai/)
+- [Kotlin beginner](https://www.reddit.com/r/Kotlin/comments/1nkeern/kotlin_beginner/)
+- [Java 25 and GraalVM for JDK 25 Released](https://www.reddit.com/r/Kotlin/comments/1nkaddx/java_25_and_graalvm_for_jdk_25_released/)
+- [Experimenting with Context Parameters in Kotlin 2.2.10. &quot;Compiler Flag&quot; error indicator won&#39;t go away in Android Studio.](https://www.reddit.com/r/Kotlin/comments/1nk9qwe/experimenting_with_context_parameters_in_kotlin/)
+- [Need help with this error. io.ktor.utils.io.charsets.TooLongLineException: Line is longer than limit for request](https://www.reddit.com/r/Kotlin/comments/1nk77mx/need_help_with_this_error/)
+- [📢 Kotlin DataFrame 1.0.0-Beta3 is out!](https://www.reddit.com/r/Kotlin/comments/1nk3yk6/kotlin_dataframe_100beta3_is_out/)
 - [Google’s strategy: Kotlin and Flutter side by side? What’s the real long-term play?](https://www.reddit.com/r/Kotlin/comments/1njo6a4/googles_strategy_kotlin_and_flutter_side_by_side/)
 - [Where to learn Kotlin in one month?](https://www.reddit.com/r/Kotlin/comments/1njgrme/where_to_learn_kotlin_in_one_month/)
 - [Component Libraries for CMP](https://www.reddit.com/r/Kotlin/comments/1njar4v/component_libraries_for_cmp/)
-- [ZMed – Kotlin Spring Boot Virtual Clinic API with WebSocket Chat](https://www.reddit.com/r/Kotlin/comments/1nj69ac/zmed_kotlin_spring_boot_virtual_clinic_api_with/)
-- [Fraud detection API in Kotlin](https://www.reddit.com/r/Kotlin/comments/1nj56wj/fraud_detection_api_in_kotlin/)
-- [Agent Events in JetBrains Koog: every tool call, every LLM request, every lifecycle tracked](https://www.reddit.com/r/Kotlin/comments/1nj16xm/agent_events_in_jetbrains_koog_every_tool_call/)
-- [Summon v0.3.2.0 Released - Kotlin Multiplatform UI Framework with SSR now published on Maven &lpar;Need Testers!&rpar;](https://www.reddit.com/r/Kotlin/comments/1niuyhq/summon_v0320_released_kotlin_multiplatform_ui/)
-- [I made a compile-time library to merge data class instances](https://www.reddit.com/r/Kotlin/comments/1nil3cn/i_made_a_compiletime_library_to_merge_data_class/)
-- [Programming is hard.](https://www.reddit.com/r/Kotlin/comments/1nij4y6/programming_is_hard/)
-- [Omittable — Solving the Ambiguity of Null](https://www.reddit.com/r/Kotlin/comments/1niezez/omittable_solving_the_ambiguity_of_null/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
