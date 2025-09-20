@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [WorldWind Kotlin v1.8.8 - now with GeoPackage vector features and NGA styles support](https://www.reddit.com/r/Kotlin/comments/1nlg8j8/worldwind_kotlin_v188_now_with_geopackage_vector/)
+- [Summon v0.3.2.2 is out with comprehensive documentation AND a JavaScript publishing fix!](https://www.reddit.com/r/Kotlin/comments/1nlfnsa/summon_v0322_is_out_with_comprehensive/)
+- [Android 15+: Are your apps ready for 16KB page support?](https://www.reddit.com/r/Kotlin/comments/1nl34zh/android_15_are_your_apps_ready_for_16kb_page/)
+- [Seeking Beta Testers: My New Mobile Game Where Sudoku is Rewritten with a Challenge &lpar;Android&rpar;](https://www.reddit.com/r/Kotlin/comments/1nl33np/seeking_beta_testers_my_new_mobile_game_where/)
 - [Kotlin currently down on Kattis &lpar;ICPC website&rpar;](https://www.reddit.com/r/Kotlin/comments/1nkkqo0/kotlin_currently_down_on_kattis_icpc_website/)
 - [Released ExoQuery 1.6 - Schema-First Records with AI Assistance!](https://www.reddit.com/r/Kotlin/comments/1nkk27p/released_exoquery_16_schemafirst_records_with_ai/)
 - [Kotlin beginner](https://www.reddit.com/r/Kotlin/comments/1nkeern/kotlin_beginner/)
 - [Java 25 and GraalVM for JDK 25 Released](https://www.reddit.com/r/Kotlin/comments/1nkaddx/java_25_and_graalvm_for_jdk_25_released/)
 - [Experimenting with Context Parameters in Kotlin 2.2.10. &quot;Compiler Flag&quot; error indicator won&#39;t go away in Android Studio.](https://www.reddit.com/r/Kotlin/comments/1nk9qwe/experimenting_with_context_parameters_in_kotlin/)
 - [Need help with this error. io.ktor.utils.io.charsets.TooLongLineException: Line is longer than limit for request](https://www.reddit.com/r/Kotlin/comments/1nk77mx/need_help_with_this_error/)
-- [📢 Kotlin DataFrame 1.0.0-Beta3 is out!](https://www.reddit.com/r/Kotlin/comments/1nk3yk6/kotlin_dataframe_100beta3_is_out/)
-- [Google’s strategy: Kotlin and Flutter side by side? What’s the real long-term play?](https://www.reddit.com/r/Kotlin/comments/1njo6a4/googles_strategy_kotlin_and_flutter_side_by_side/)
-- [Where to learn Kotlin in one month?](https://www.reddit.com/r/Kotlin/comments/1njgrme/where_to_learn_kotlin_in_one_month/)
-- [Component Libraries for CMP](https://www.reddit.com/r/Kotlin/comments/1njar4v/component_libraries_for_cmp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
