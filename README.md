@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Kotlin Multi-platform Project template for jDeploy](https://www.reddit.com/r/Kotlin/comments/1nm7rcp/new_kotlin_multiplatform_project_template_for/)
+- [I made a deep-copy library, looking for feedback](https://www.reddit.com/r/Kotlin/comments/1nm5h27/i_made_a_deepcopy_library_looking_for_feedback/)
+- [looking for contributors for an open-source KMP project to automate office processes](https://www.reddit.com/r/Kotlin/comments/1nltkos/looking_for_contributors_for_an_opensource_kmp/)
+- [anyone here tried Junie from JetBrains?](https://www.reddit.com/r/Kotlin/comments/1nlpww3/anyone_here_tried_junie_from_jetbrains/)
+- [Why Process Death trips up Android devs &lpar;and how to handle it like a pro&rpar;](https://www.reddit.com/r/Kotlin/comments/1nln4zf/why_process_death_trips_up_android_devs_and_how/)
 - [WorldWind Kotlin v1.8.8 - now with GeoPackage vector features and NGA styles support](https://www.reddit.com/r/Kotlin/comments/1nlg8j8/worldwind_kotlin_v188_now_with_geopackage_vector/)
 - [Summon v0.3.2.2 is out with comprehensive documentation AND a JavaScript publishing fix!](https://www.reddit.com/r/Kotlin/comments/1nlfnsa/summon_v0322_is_out_with_comprehensive/)
 - [Android 15+: Are your apps ready for 16KB page support?](https://www.reddit.com/r/Kotlin/comments/1nl34zh/android_15_are_your_apps_ready_for_16kb_page/)
-- [Seeking Beta Testers: My New Mobile Game Where Sudoku is Rewritten with a Challenge &lpar;Android&rpar;](https://www.reddit.com/r/Kotlin/comments/1nl33np/seeking_beta_testers_my_new_mobile_game_where/)
 - [Kotlin currently down on Kattis &lpar;ICPC website&rpar;](https://www.reddit.com/r/Kotlin/comments/1nkkqo0/kotlin_currently_down_on_kattis_icpc_website/)
 - [Released ExoQuery 1.6 - Schema-First Records with AI Assistance!](https://www.reddit.com/r/Kotlin/comments/1nkk27p/released_exoquery_16_schemafirst_records_with_ai/)
-- [Kotlin beginner](https://www.reddit.com/r/Kotlin/comments/1nkeern/kotlin_beginner/)
-- [Java 25 and GraalVM for JDK 25 Released](https://www.reddit.com/r/Kotlin/comments/1nkaddx/java_25_and_graalvm_for_jdk_25_released/)
-- [Experimenting with Context Parameters in Kotlin 2.2.10. &quot;Compiler Flag&quot; error indicator won&#39;t go away in Android Studio.](https://www.reddit.com/r/Kotlin/comments/1nk9qwe/experimenting_with_context_parameters_in_kotlin/)
-- [Need help with this error. io.ktor.utils.io.charsets.TooLongLineException: Line is longer than limit for request](https://www.reddit.com/r/Kotlin/comments/1nk77mx/need_help_with_this_error/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
