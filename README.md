@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are there any Kotlin + SpringBoot backend jobs where you live?](https://www.reddit.com/r/Kotlin/comments/1nn20he/are_there_any_kotlin_springboot_backend_jobs/)
+- [SimShock: A personal project with Kotlin &amp; Jetpack Compose after retiring from medicine](https://www.reddit.com/r/Kotlin/comments/1nmoe8d/simshock_a_personal_project_with_kotlin_jetpack/)
 - [New Kotlin Multi-platform Project template for jDeploy](https://www.reddit.com/r/Kotlin/comments/1nm7rcp/new_kotlin_multiplatform_project_template_for/)
 - [I made a deep-copy library, looking for feedback](https://www.reddit.com/r/Kotlin/comments/1nm5h27/i_made_a_deepcopy_library_looking_for_feedback/)
 - [looking for contributors for an open-source KMP project to automate office processes](https://www.reddit.com/r/Kotlin/comments/1nltkos/looking_for_contributors_for_an_opensource_kmp/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [WorldWind Kotlin v1.8.8 - now with GeoPackage vector features and NGA styles support](https://www.reddit.com/r/Kotlin/comments/1nlg8j8/worldwind_kotlin_v188_now_with_geopackage_vector/)
 - [Summon v0.3.2.2 is out with comprehensive documentation AND a JavaScript publishing fix!](https://www.reddit.com/r/Kotlin/comments/1nlfnsa/summon_v0322_is_out_with_comprehensive/)
 - [Android 15+: Are your apps ready for 16KB page support?](https://www.reddit.com/r/Kotlin/comments/1nl34zh/android_15_are_your_apps_ready_for_16kb_page/)
-- [Kotlin currently down on Kattis &lpar;ICPC website&rpar;](https://www.reddit.com/r/Kotlin/comments/1nkkqo0/kotlin_currently_down_on_kattis_icpc_website/)
-- [Released ExoQuery 1.6 - Schema-First Records with AI Assistance!](https://www.reddit.com/r/Kotlin/comments/1nkk27p/released_exoquery_16_schemafirst_records_with_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
