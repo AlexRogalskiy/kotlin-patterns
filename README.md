@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Your first AI Agent with Kotlin](https://www.reddit.com/r/Kotlin/comments/1nnr1qt/your_first_ai_agent_with_kotlin/)
+- [Compose Multiplatform for web goes Beta in the 1.9.0 release](https://www.reddit.com/r/Kotlin/comments/1nnpo0q/compose_multiplatform_for_web_goes_beta_in_the/)
+- [sqlx4k — first stable release of a high-performance, non-blocking DB driver for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1nnkqeg/sqlx4k_first_stable_release_of_a_highperformance/)
 - [Are there any Kotlin + SpringBoot backend jobs where you live?](https://www.reddit.com/r/Kotlin/comments/1nn20he/are_there_any_kotlin_springboot_backend_jobs/)
 - [SimShock: A personal project with Kotlin &amp; Jetpack Compose after retiring from medicine](https://www.reddit.com/r/Kotlin/comments/1nmoe8d/simshock_a_personal_project_with_kotlin_jetpack/)
 - [New Kotlin Multi-platform Project template for jDeploy](https://www.reddit.com/r/Kotlin/comments/1nm7rcp/new_kotlin_multiplatform_project_template_for/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [looking for contributors for an open-source KMP project to automate office processes](https://www.reddit.com/r/Kotlin/comments/1nltkos/looking_for_contributors_for_an_opensource_kmp/)
 - [anyone here tried Junie from JetBrains?](https://www.reddit.com/r/Kotlin/comments/1nlpww3/anyone_here_tried_junie_from_jetbrains/)
 - [Why Process Death trips up Android devs &lpar;and how to handle it like a pro&rpar;](https://www.reddit.com/r/Kotlin/comments/1nln4zf/why_process_death_trips_up_android_devs_and_how/)
-- [WorldWind Kotlin v1.8.8 - now with GeoPackage vector features and NGA styles support](https://www.reddit.com/r/Kotlin/comments/1nlg8j8/worldwind_kotlin_v188_now_with_geopackage_vector/)
-- [Summon v0.3.2.2 is out with comprehensive documentation AND a JavaScript publishing fix!](https://www.reddit.com/r/Kotlin/comments/1nlfnsa/summon_v0322_is_out_with_comprehensive/)
-- [Android 15+: Are your apps ready for 16KB page support?](https://www.reddit.com/r/Kotlin/comments/1nl34zh/android_15_are_your_apps_ready_for_16kb_page/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
