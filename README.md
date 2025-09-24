@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Multiplatform play PCM audio](https://www.reddit.com/r/Kotlin/comments/1np07vw/kotlin_multiplatform_play_pcm_audio/)
+- [Intellij ultimate - no debugger option for field watchpoint](https://www.reddit.com/r/Kotlin/comments/1novnzg/intellij_ultimate_no_debugger_option_for_field/)
+- [Blog Post: Mill as an Alternative Android Build Tool](https://www.reddit.com/r/Kotlin/comments/1noegvq/blog_post_mill_as_an_alternative_android_build/)
+- [Should I still use commonMain if I’ll never target Android with Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1no7it9/should_i_still_use_commonmain_if_ill_never_target/)
 - [Your first AI Agent with Kotlin](https://www.reddit.com/r/Kotlin/comments/1nnr1qt/your_first_ai_agent_with_kotlin/)
 - [Compose Multiplatform for web goes Beta in the 1.9.0 release](https://www.reddit.com/r/Kotlin/comments/1nnpo0q/compose_multiplatform_for_web_goes_beta_in_the/)
 - [sqlx4k — first stable release of a high-performance, non-blocking DB driver for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1nnkqeg/sqlx4k_first_stable_release_of_a_highperformance/)
 - [Are there any Kotlin + SpringBoot backend jobs where you live?](https://www.reddit.com/r/Kotlin/comments/1nn20he/are_there_any_kotlin_springboot_backend_jobs/)
 - [SimShock: A personal project with Kotlin &amp; Jetpack Compose after retiring from medicine](https://www.reddit.com/r/Kotlin/comments/1nmoe8d/simshock_a_personal_project_with_kotlin_jetpack/)
 - [New Kotlin Multi-platform Project template for jDeploy](https://www.reddit.com/r/Kotlin/comments/1nm7rcp/new_kotlin_multiplatform_project_template_for/)
-- [I made a deep-copy library, looking for feedback](https://www.reddit.com/r/Kotlin/comments/1nm5h27/i_made_a_deepcopy_library_looking_for_feedback/)
-- [looking for contributors for an open-source KMP project to automate office processes](https://www.reddit.com/r/Kotlin/comments/1nltkos/looking_for_contributors_for_an_opensource_kmp/)
-- [anyone here tried Junie from JetBrains?](https://www.reddit.com/r/Kotlin/comments/1nlpww3/anyone_here_tried_junie_from_jetbrains/)
-- [Why Process Death trips up Android devs &lpar;and how to handle it like a pro&rpar;](https://www.reddit.com/r/Kotlin/comments/1nln4zf/why_process_death_trips_up_android_devs_and_how/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
