@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I am looking for: Senior Backend Kotlin Developer](https://www.reddit.com/r/Kotlin/comments/1npku1j/i_am_looking_for_senior_backend_kotlin_developer/)
+- [Kotlin for server-side case study – Wolt](https://www.reddit.com/r/Kotlin/comments/1npgcvf/kotlin_for_serverside_case_study_wolt/)
+- [We added AI prompt generation for Koin debugging: Kotzilla Console 3.14.0](https://www.reddit.com/r/Kotlin/comments/1npeful/we_added_ai_prompt_generation_for_koin_debugging/)
+- [Looking for Advice on Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1npc1sy/looking_for_advice_on_kotlin_multiplatform/)
+- [So I heard the news of CMP get into beta state for web and I want to try it.](https://www.reddit.com/r/Kotlin/comments/1npbjma/so_i_heard_the_news_of_cmp_get_into_beta_state/)
+- [Kotlin Multiplatform utility that brings reactive programming to standard collections](https://www.reddit.com/r/Kotlin/comments/1np854u/kotlin_multiplatform_utility_that_brings_reactive/)
+- [Kotlin + AI: SDKs, Spring AI, MCP, Koog, Junie, and more](https://www.reddit.com/r/Kotlin/comments/1np7bx7/kotlin_ai_sdks_spring_ai_mcp_koog_junie_and_more/)
+- [What are some good , simple and user friendly ides for learning kotlin ?](https://www.reddit.com/r/Kotlin/comments/1np5zug/what_are_some_good_simple_and_user_friendly_ides/)
+- [The Kotlin Multiplatform plugin for IntelliJ IDEA is now on Linux and Windows](https://www.reddit.com/r/Kotlin/comments/1np3k5z/the_kotlin_multiplatform_plugin_for_intellij_idea/)
 - [Kotlin Multiplatform play PCM audio](https://www.reddit.com/r/Kotlin/comments/1np07vw/kotlin_multiplatform_play_pcm_audio/)
-- [Intellij ultimate - no debugger option for field watchpoint](https://www.reddit.com/r/Kotlin/comments/1novnzg/intellij_ultimate_no_debugger_option_for_field/)
-- [Blog Post: Mill as an Alternative Android Build Tool](https://www.reddit.com/r/Kotlin/comments/1noegvq/blog_post_mill_as_an_alternative_android_build/)
-- [Should I still use commonMain if I’ll never target Android with Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1no7it9/should_i_still_use_commonmain_if_ill_never_target/)
-- [Your first AI Agent with Kotlin](https://www.reddit.com/r/Kotlin/comments/1nnr1qt/your_first_ai_agent_with_kotlin/)
-- [Compose Multiplatform for web goes Beta in the 1.9.0 release](https://www.reddit.com/r/Kotlin/comments/1nnpo0q/compose_multiplatform_for_web_goes_beta_in_the/)
-- [sqlx4k — first stable release of a high-performance, non-blocking DB driver for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1nnkqeg/sqlx4k_first_stable_release_of_a_highperformance/)
-- [Are there any Kotlin + SpringBoot backend jobs where you live?](https://www.reddit.com/r/Kotlin/comments/1nn20he/are_there_any_kotlin_springboot_backend_jobs/)
-- [SimShock: A personal project with Kotlin &amp; Jetpack Compose after retiring from medicine](https://www.reddit.com/r/Kotlin/comments/1nmoe8d/simshock_a_personal_project_with_kotlin_jetpack/)
-- [New Kotlin Multi-platform Project template for jDeploy](https://www.reddit.com/r/Kotlin/comments/1nm7rcp/new_kotlin_multiplatform_project_template_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
