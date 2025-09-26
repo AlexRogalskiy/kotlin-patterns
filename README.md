@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Type-safe navigation for beginners in KMP+CMP](https://www.reddit.com/r/Kotlin/comments/1nq7k13/typesafe_navigation_for_beginners_in_kmpcmp/)
+- [The Ktor roadmap for 2025–2026 is here!](https://www.reddit.com/r/Kotlin/comments/1npxx3s/the_ktor_roadmap_for_20252026_is_here/)
 - [I am looking for: Senior Backend Kotlin Developer](https://www.reddit.com/r/Kotlin/comments/1npku1j/i_am_looking_for_senior_backend_kotlin_developer/)
 - [Kotlin for server-side case study – Wolt](https://www.reddit.com/r/Kotlin/comments/1npgcvf/kotlin_for_serverside_case_study_wolt/)
 - [We added AI prompt generation for Koin debugging: Kotzilla Console 3.14.0](https://www.reddit.com/r/Kotlin/comments/1npeful/we_added_ai_prompt_generation_for_koin_debugging/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Multiplatform utility that brings reactive programming to standard collections](https://www.reddit.com/r/Kotlin/comments/1np854u/kotlin_multiplatform_utility_that_brings_reactive/)
 - [Kotlin + AI: SDKs, Spring AI, MCP, Koog, Junie, and more](https://www.reddit.com/r/Kotlin/comments/1np7bx7/kotlin_ai_sdks_spring_ai_mcp_koog_junie_and_more/)
 - [What are some good , simple and user friendly ides for learning kotlin ?](https://www.reddit.com/r/Kotlin/comments/1np5zug/what_are_some_good_simple_and_user_friendly_ides/)
-- [The Kotlin Multiplatform plugin for IntelliJ IDEA is now on Linux and Windows](https://www.reddit.com/r/Kotlin/comments/1np3k5z/the_kotlin_multiplatform_plugin_for_intellij_idea/)
-- [Kotlin Multiplatform play PCM audio](https://www.reddit.com/r/Kotlin/comments/1np07vw/kotlin_multiplatform_play_pcm_audio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
