@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I can&#39;t setup Hilt](https://www.reddit.com/r/Kotlin/comments/1nr89ps/i_cant_setup_hilt/)
+- [Checkout Kata In Kotlin - Part 2 - Refactoring to Functions](https://www.reddit.com/r/Kotlin/comments/1nr2za4/checkout_kata_in_kotlin_part_2_refactoring_to/)
+- [App Mobile](https://www.reddit.com/r/Kotlin/comments/1nqyg97/app_mobile/)
+- [Koog your AI agents for all targets. Multiplatform tutorial](https://www.reddit.com/r/Kotlin/comments/1nqy7vx/koog_your_ai_agents_for_all_targets_multiplatform/)
 - [Type-safe navigation for beginners in KMP+CMP](https://www.reddit.com/r/Kotlin/comments/1nq7k13/typesafe_navigation_for_beginners_in_kmpcmp/)
 - [The Ktor roadmap for 2025–2026 is here!](https://www.reddit.com/r/Kotlin/comments/1npxx3s/the_ktor_roadmap_for_20252026_is_here/)
 - [I am looking for: Senior Backend Kotlin Developer](https://www.reddit.com/r/Kotlin/comments/1npku1j/i_am_looking_for_senior_backend_kotlin_developer/)
 - [Kotlin for server-side case study – Wolt](https://www.reddit.com/r/Kotlin/comments/1npgcvf/kotlin_for_serverside_case_study_wolt/)
 - [We added AI prompt generation for Koin debugging: Kotzilla Console 3.14.0](https://www.reddit.com/r/Kotlin/comments/1npeful/we_added_ai_prompt_generation_for_koin_debugging/)
 - [Looking for Advice on Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1npc1sy/looking_for_advice_on_kotlin_multiplatform/)
-- [So I heard the news of CMP get into beta state for web and I want to try it.](https://www.reddit.com/r/Kotlin/comments/1npbjma/so_i_heard_the_news_of_cmp_get_into_beta_state/)
-- [Kotlin Multiplatform utility that brings reactive programming to standard collections](https://www.reddit.com/r/Kotlin/comments/1np854u/kotlin_multiplatform_utility_that_brings_reactive/)
-- [Kotlin + AI: SDKs, Spring AI, MCP, Koog, Junie, and more](https://www.reddit.com/r/Kotlin/comments/1np7bx7/kotlin_ai_sdks_spring_ai_mcp_koog_junie_and_more/)
-- [What are some good , simple and user friendly ides for learning kotlin ?](https://www.reddit.com/r/Kotlin/comments/1np5zug/what_are_some_good_simple_and_user_friendly_ides/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
