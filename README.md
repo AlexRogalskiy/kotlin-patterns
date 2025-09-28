@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are you developing a cross-platform app for mobile and desktop? Can a serious productivity app target these two very different experiences and not be awful? Share your reflections.](https://www.reddit.com/r/Kotlin/comments/1nsbbvk/are_you_developing_a_crossplatform_app_for_mobile/)
+- [Need help with a topic for a university thesis](https://www.reddit.com/r/Kotlin/comments/1nsb6lb/need_help_with_a_topic_for_a_university_thesis/)
+- [Advice for a SwiftUI/CloudKit developer going to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ns5nyi/advice_for_a_swiftuicloudkit_developer_going_to/)
+- [Compose Multiplatform - White label apps](https://www.reddit.com/r/Kotlin/comments/1ns4zse/compose_multiplatform_white_label_apps/)
+- [Any chance to create SEO-compliant web pages with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ns0nyw/any_chance_to_create_seocompliant_web_pages_with/)
+- [Advice for a Go developer learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1ns0hi6/advice_for_a_go_developer_learning_kotlin/)
 - [I can&#39;t setup Hilt](https://www.reddit.com/r/Kotlin/comments/1nr89ps/i_cant_setup_hilt/)
 - [Checkout Kata In Kotlin - Part 2 - Refactoring to Functions](https://www.reddit.com/r/Kotlin/comments/1nr2za4/checkout_kata_in_kotlin_part_2_refactoring_to/)
 - [App Mobile](https://www.reddit.com/r/Kotlin/comments/1nqyg97/app_mobile/)
 - [Koog your AI agents for all targets. Multiplatform tutorial](https://www.reddit.com/r/Kotlin/comments/1nqy7vx/koog_your_ai_agents_for_all_targets_multiplatform/)
-- [Type-safe navigation for beginners in KMP+CMP](https://www.reddit.com/r/Kotlin/comments/1nq7k13/typesafe_navigation_for_beginners_in_kmpcmp/)
-- [The Ktor roadmap for 2025–2026 is here!](https://www.reddit.com/r/Kotlin/comments/1npxx3s/the_ktor_roadmap_for_20252026_is_here/)
-- [I am looking for: Senior Backend Kotlin Developer](https://www.reddit.com/r/Kotlin/comments/1npku1j/i_am_looking_for_senior_backend_kotlin_developer/)
-- [Kotlin for server-side case study – Wolt](https://www.reddit.com/r/Kotlin/comments/1npgcvf/kotlin_for_serverside_case_study_wolt/)
-- [We added AI prompt generation for Koin debugging: Kotzilla Console 3.14.0](https://www.reddit.com/r/Kotlin/comments/1npeful/we_added_ai_prompt_generation_for_koin_debugging/)
-- [Looking for Advice on Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1npc1sy/looking_for_advice_on_kotlin_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
