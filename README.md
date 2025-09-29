@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which Navigation library do you use for Compose Multiplatform apps?](https://www.reddit.com/r/Kotlin/comments/1nst8xx/which_navigation_library_do_you_use_for_compose/)
 - [Are you developing a cross-platform app for mobile and desktop? Can a serious productivity app target these two very different experiences and not be awful? Share your reflections.](https://www.reddit.com/r/Kotlin/comments/1nsbbvk/are_you_developing_a_crossplatform_app_for_mobile/)
 - [Need help with a topic for a university thesis](https://www.reddit.com/r/Kotlin/comments/1nsb6lb/need_help_with_a_topic_for_a_university_thesis/)
 - [Advice for a SwiftUI/CloudKit developer going to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ns5nyi/advice_for_a_swiftuicloudkit_developer_going_to/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I can&#39;t setup Hilt](https://www.reddit.com/r/Kotlin/comments/1nr89ps/i_cant_setup_hilt/)
 - [Checkout Kata In Kotlin - Part 2 - Refactoring to Functions](https://www.reddit.com/r/Kotlin/comments/1nr2za4/checkout_kata_in_kotlin_part_2_refactoring_to/)
 - [App Mobile](https://www.reddit.com/r/Kotlin/comments/1nqyg97/app_mobile/)
-- [Koog your AI agents for all targets. Multiplatform tutorial](https://www.reddit.com/r/Kotlin/comments/1nqy7vx/koog_your_ai_agents_for_all_targets_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
