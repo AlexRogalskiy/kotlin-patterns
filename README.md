@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java 21 compatibility](https://www.reddit.com/r/Kotlin/comments/1ntsqqk/java_21_compatibility/)
+- [Java 21 compatibility](https://www.reddit.com/r/Kotlin/comments/1ntsqkb/java_21_compatibility/)
+- [ShadowGlow: Advanced Drop Shadows for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1ntpyeh/shadowglow_advanced_drop_shadows_for_jetpack/)
 - [Which Navigation library do you use for Compose Multiplatform apps?](https://www.reddit.com/r/Kotlin/comments/1nst8xx/which_navigation_library_do_you_use_for_compose/)
 - [Are you developing a cross-platform app for mobile and desktop? Can a serious productivity app target these two very different experiences and not be awful? Share your reflections.](https://www.reddit.com/r/Kotlin/comments/1nsbbvk/are_you_developing_a_crossplatform_app_for_mobile/)
 - [Need help with a topic for a university thesis](https://www.reddit.com/r/Kotlin/comments/1nsb6lb/need_help_with_a_topic_for_a_university_thesis/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Compose Multiplatform - White label apps](https://www.reddit.com/r/Kotlin/comments/1ns4zse/compose_multiplatform_white_label_apps/)
 - [Any chance to create SEO-compliant web pages with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ns0nyw/any_chance_to_create_seocompliant_web_pages_with/)
 - [Advice for a Go developer learning Kotlin](https://www.reddit.com/r/Kotlin/comments/1ns0hi6/advice_for_a_go_developer_learning_kotlin/)
-- [I can&#39;t setup Hilt](https://www.reddit.com/r/Kotlin/comments/1nr89ps/i_cant_setup_hilt/)
-- [Checkout Kata In Kotlin - Part 2 - Refactoring to Functions](https://www.reddit.com/r/Kotlin/comments/1nr2za4/checkout_kata_in_kotlin_part_2_refactoring_to/)
-- [App Mobile](https://www.reddit.com/r/Kotlin/comments/1nqyg97/app_mobile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
