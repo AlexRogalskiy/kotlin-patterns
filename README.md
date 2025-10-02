@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin throw detection Intellij plugin](https://www.reddit.com/r/Kotlin/comments/1nvfrwm/kotlin_throw_detection_intellij_plugin/)
+- [Debugging in KMP](https://www.reddit.com/r/Kotlin/comments/1nvdkcp/debugging_in_kmp/)
+- [Best approach to rapidly implement Floating window &lpar;over other applications&rpar; with kotlin.](https://www.reddit.com/r/Kotlin/comments/1nvauwo/best_approach_to_rapidly_implement_floating/)
+- [bluetooth tips pleaseee](https://www.reddit.com/r/Kotlin/comments/1nv9yo8/bluetooth_tips_pleaseee/)
+- [I&#39;m learning Kotlin and I would like to form a Study group, who&#39;s joining?](https://www.reddit.com/r/Kotlin/comments/1nv9kaz/im_learning_kotlin_and_i_would_like_to_form_a/)
+- [The problem with Object Oriented Programming and Deep Inheritance](https://www.reddit.com/r/Kotlin/comments/1nuz4sr/the_problem_with_object_oriented_programming_and/)
 - [Scope of android development](https://www.reddit.com/r/Kotlin/comments/1nuc5kr/scope_of_android_development/)
 - [Building a cross-platform Pedometer with Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1nu8yld/building_a_crossplatform_pedometer_with_compose/)
 - [QuickBall: A Handy Shortcut for Volume &amp; More](https://www.reddit.com/r/Kotlin/comments/1nu7d1k/quickball_a_handy_shortcut_for_volume_more/)
 - [Java 21 compatibility](https://www.reddit.com/r/Kotlin/comments/1ntsqqk/java_21_compatibility/)
-- [Java 21 compatibility](https://www.reddit.com/r/Kotlin/comments/1ntsqkb/java_21_compatibility/)
-- [ShadowGlow: Advanced Drop Shadows for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1ntpyeh/shadowglow_advanced_drop_shadows_for_jetpack/)
-- [Which Navigation library do you use for Compose Multiplatform apps?](https://www.reddit.com/r/Kotlin/comments/1nst8xx/which_navigation_library_do_you_use_for_compose/)
-- [Are you developing a cross-platform app for mobile and desktop? Can a serious productivity app target these two very different experiences and not be awful? Share your reflections.](https://www.reddit.com/r/Kotlin/comments/1nsbbvk/are_you_developing_a_crossplatform_app_for_mobile/)
-- [Need help with a topic for a university thesis](https://www.reddit.com/r/Kotlin/comments/1nsb6lb/need_help_with_a_topic_for_a_university_thesis/)
-- [Advice for a SwiftUI/CloudKit developer going to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ns5nyi/advice_for_a_swiftuicloudkit_developer_going_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
