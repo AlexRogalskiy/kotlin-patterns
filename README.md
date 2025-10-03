@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which are the best course /resources for learn android development?](https://www.reddit.com/r/Kotlin/comments/1nwmqva/which_are_the_best_course_resources_for_learn/)
+- [Collection of Video Games Written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1nwh82q/collection_of_video_games_written_in_kotlin/)
+- [Hey I am new to android app development. I have prior programming experience in Python. Can someone guide me through how to get started with Kotlin. Tutorials, Articles etc. Before this I have never worked on Android app development.](https://www.reddit.com/r/Kotlin/comments/1nwf9an/hey_i_am_new_to_android_app_development_i_have/)
+- [Kotlin learning resources](https://www.reddit.com/r/Kotlin/comments/1nw4h82/kotlin_learning_resources/)
+- [Better immutability in Kotlin with Valhalla #JVMLS](https://www.reddit.com/r/Kotlin/comments/1nvziuj/better_immutability_in_kotlin_with_valhalla_jvmls/)
 - [Kotlin throw detection Intellij plugin](https://www.reddit.com/r/Kotlin/comments/1nvfrwm/kotlin_throw_detection_intellij_plugin/)
 - [Debugging in KMP](https://www.reddit.com/r/Kotlin/comments/1nvdkcp/debugging_in_kmp/)
 - [Best approach to rapidly implement Floating window &lpar;over other applications&rpar; with kotlin.](https://www.reddit.com/r/Kotlin/comments/1nvauwo/best_approach_to_rapidly_implement_floating/)
 - [bluetooth tips pleaseee](https://www.reddit.com/r/Kotlin/comments/1nv9yo8/bluetooth_tips_pleaseee/)
 - [I&#39;m learning Kotlin and I would like to form a Study group, who&#39;s joining?](https://www.reddit.com/r/Kotlin/comments/1nv9kaz/im_learning_kotlin_and_i_would_like_to_form_a/)
-- [The problem with Object Oriented Programming and Deep Inheritance](https://www.reddit.com/r/Kotlin/comments/1nuz4sr/the_problem_with_object_oriented_programming_and/)
-- [Scope of android development](https://www.reddit.com/r/Kotlin/comments/1nuc5kr/scope_of_android_development/)
-- [Building a cross-platform Pedometer with Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1nu8yld/building_a_crossplatform_pedometer_with_compose/)
-- [QuickBall: A Handy Shortcut for Volume &amp; More](https://www.reddit.com/r/Kotlin/comments/1nu7d1k/quickball_a_handy_shortcut_for_volume_more/)
-- [Java 21 compatibility](https://www.reddit.com/r/Kotlin/comments/1ntsqqk/java_21_compatibility/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
