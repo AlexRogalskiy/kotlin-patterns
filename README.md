@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [problema para configurar kotlin](https://www.reddit.com/r/Kotlin/comments/1nyti8w/problema_para_configurar_kotlin/)
+- [Has anyone had issues with the location permission dialog causing their app to hang or never resume properly?](https://www.reddit.com/r/Kotlin/comments/1nyocgb/has_anyone_had_issues_with_the_location/)
+- [The most unrealiable language in the world is Kotlin](https://www.reddit.com/r/Kotlin/comments/1nycypm/the_most_unrealiable_language_in_the_world_is/)
 - [I built a PHP Composer-like Dependency Manager for Kotlin/Java](https://www.reddit.com/r/Kotlin/comments/1ny8py8/i_built_a_php_composerlike_dependency_manager_for/)
 - [Are Kotlin Jobs rare?](https://www.reddit.com/r/Kotlin/comments/1ny7kst/are_kotlin_jobs_rare/)
 - [Amper Update, October 2025 – Compose Hot Reload and UX Improvements](https://www.reddit.com/r/Kotlin/comments/1nxs72b/amper_update_october_2025_compose_hot_reload_and/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [anyone with a subscription app interested in testing a paywall serving SDK for $800?](https://www.reddit.com/r/Kotlin/comments/1nx3nlw/anyone_with_a_subscription_app_interested_in/)
 - [JUnit 6 Released with support for suspend methods](https://www.reddit.com/r/Kotlin/comments/1nwztr7/junit_6_released_with_support_for_suspend_methods/)
 - [What is the oldest mac that would work for KMP development, building for Mac and iOS?](https://www.reddit.com/r/Kotlin/comments/1nwpfha/what_is_the_oldest_mac_that_would_work_for_kmp/)
-- [Which are the best course /resources for learn android development?](https://www.reddit.com/r/Kotlin/comments/1nwmqva/which_are_the_best_course_resources_for_learn/)
-- [Collection of Video Games Written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1nwh82q/collection_of_video_games_written_in_kotlin/)
-- [Hey I am new to android app development. I have prior programming experience in Python. Can someone guide me through how to get started with Kotlin. Tutorials, Articles etc. Before this I have never worked on Android app development.](https://www.reddit.com/r/Kotlin/comments/1nwf9an/hey_i_am_new_to_android_app_development_i_have/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
