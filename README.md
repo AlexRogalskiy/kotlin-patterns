@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Project] GJG – A simple Windows launcher for JVM GUI apps](https://www.reddit.com/r/Kotlin/comments/1o0xzd5/project_gjg_a_simple_windows_launcher_for_jvm_gui/)
+- [Summon 0.4.0.4 is here - Kotlin Multiplatform frontend framework now has SEO-friendly WebAssembly support!](https://www.reddit.com/r/Kotlin/comments/1o0n41x/summon_0404_is_here_kotlin_multiplatform_frontend/)
+- [Kotlin or Flutter for begginer](https://www.reddit.com/r/Kotlin/comments/1o09qpa/kotlin_or_flutter_for_begginer/)
+- [Koog 0.5.0 is out – make your agents connected with A2A support](https://www.reddit.com/r/Kotlin/comments/1nzfw1i/koog_050_is_out_make_your_agents_connected_with/)
+- [Need help with webscrapping](https://www.reddit.com/r/Kotlin/comments/1nzehph/need_help_with_webscrapping/)
+- [TextField content &lpar;text&rpar; is hidden from bottom.](https://www.reddit.com/r/Kotlin/comments/1nze6up/textfield_content_text_is_hidden_from_bottom/)
+- [New version of sqlx4k introduces SQL syntax checking on compile time](https://www.reddit.com/r/Kotlin/comments/1nze6bc/new_version_of_sqlx4k_introduces_sql_syntax/)
+- [A Pomodoro Timer with a Coffee Twist ☕⏰](https://www.reddit.com/r/Kotlin/comments/1nzdzek/a_pomodoro_timer_with_a_coffee_twist/)
 - [problema para configurar kotlin](https://www.reddit.com/r/Kotlin/comments/1nyti8w/problema_para_configurar_kotlin/)
 - [Has anyone had issues with the location permission dialog causing their app to hang or never resume properly?](https://www.reddit.com/r/Kotlin/comments/1nyocgb/has_anyone_had_issues_with_the_location/)
-- [The most unrealiable language in the world is Kotlin](https://www.reddit.com/r/Kotlin/comments/1nycypm/the_most_unrealiable_language_in_the_world_is/)
-- [I built a PHP Composer-like Dependency Manager for Kotlin/Java](https://www.reddit.com/r/Kotlin/comments/1ny8py8/i_built_a_php_composerlike_dependency_manager_for/)
-- [Are Kotlin Jobs rare?](https://www.reddit.com/r/Kotlin/comments/1ny7kst/are_kotlin_jobs_rare/)
-- [Amper Update, October 2025 – Compose Hot Reload and UX Improvements](https://www.reddit.com/r/Kotlin/comments/1nxs72b/amper_update_october_2025_compose_hot_reload_and/)
-- [Build a RESTful API with Quarkus: Step-by-Step Guide](https://www.reddit.com/r/Kotlin/comments/1nx5r82/build_a_restful_api_with_quarkus_stepbystep_guide/)
-- [anyone with a subscription app interested in testing a paywall serving SDK for $800?](https://www.reddit.com/r/Kotlin/comments/1nx3nlw/anyone_with_a_subscription_app_interested_in/)
-- [JUnit 6 Released with support for suspend methods](https://www.reddit.com/r/Kotlin/comments/1nwztr7/junit_6_released_with_support_for_suspend_methods/)
-- [What is the oldest mac that would work for KMP development, building for Mac and iOS?](https://www.reddit.com/r/Kotlin/comments/1nwpfha/what_is_the_oldest_mac_that_would_work_for_kmp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
