@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SQLiteNow v0.2 &lpar;new KMP library for SQLite&rpar;](https://www.reddit.com/r/Kotlin/comments/1o1coqj/sqlitenow_v02_new_kmp_library_for_sqlite/)
+- [Generate class diagram](https://www.reddit.com/r/Kotlin/comments/1o1c52s/generate_class_diagram/)
+- [Little Robots Version Catalog Plugin deleting bundles](https://www.reddit.com/r/Kotlin/comments/1o1410y/little_robots_version_catalog_plugin_deleting/)
+- [Did you know “Share UI” is selected by default in new KMP projects? 🤔](https://www.reddit.com/r/Kotlin/comments/1o0zev1/did_you_know_share_ui_is_selected_by_default_in/)
+- [Wow, KMP is magic! My Kotlin utility works perfectly in Swift!](https://www.reddit.com/r/Kotlin/comments/1o0ze8r/wow_kmp_is_magic_my_kotlin_utility_works/)
 - [[Project] GJG – A simple Windows launcher for JVM GUI apps](https://www.reddit.com/r/Kotlin/comments/1o0xzd5/project_gjg_a_simple_windows_launcher_for_jvm_gui/)
 - [Summon 0.4.0.4 is here - Kotlin Multiplatform frontend framework now has SEO-friendly WebAssembly support!](https://www.reddit.com/r/Kotlin/comments/1o0n41x/summon_0404_is_here_kotlin_multiplatform_frontend/)
 - [Kotlin or Flutter for begginer](https://www.reddit.com/r/Kotlin/comments/1o09qpa/kotlin_or_flutter_for_begginer/)
 - [Koog 0.5.0 is out – make your agents connected with A2A support](https://www.reddit.com/r/Kotlin/comments/1nzfw1i/koog_050_is_out_make_your_agents_connected_with/)
 - [Need help with webscrapping](https://www.reddit.com/r/Kotlin/comments/1nzehph/need_help_with_webscrapping/)
-- [TextField content &lpar;text&rpar; is hidden from bottom.](https://www.reddit.com/r/Kotlin/comments/1nze6up/textfield_content_text_is_hidden_from_bottom/)
-- [New version of sqlx4k introduces SQL syntax checking on compile time](https://www.reddit.com/r/Kotlin/comments/1nze6bc/new_version_of_sqlx4k_introduces_sql_syntax/)
-- [A Pomodoro Timer with a Coffee Twist ☕⏰](https://www.reddit.com/r/Kotlin/comments/1nzdzek/a_pomodoro_timer_with_a_coffee_twist/)
-- [problema para configurar kotlin](https://www.reddit.com/r/Kotlin/comments/1nyti8w/problema_para_configurar_kotlin/)
-- [Has anyone had issues with the location permission dialog causing their app to hang or never resume properly?](https://www.reddit.com/r/Kotlin/comments/1nyocgb/has_anyone_had_issues_with_the_location/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
