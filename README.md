@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tired of writing C/C++ for JNI? Use Kotlin/Native instead!](https://www.reddit.com/r/Kotlin/comments/1o2gzew/tired_of_writing_cc_for_jni_use_kotlinnative/)
+- [OpenAPI request/response validation library](https://www.reddit.com/r/Kotlin/comments/1o2gm77/openapi_requestresponse_validation_library/)
+- [How I Simplified My Android App’s Data Layer with Room and Kotlin](https://www.reddit.com/r/Kotlin/comments/1o2fllz/how_i_simplified_my_android_apps_data_layer_with/)
+- [Key Event Handling in KMP Solved!](https://www.reddit.com/r/Kotlin/comments/1o2cd5t/key_event_handling_in_kmp_solved/)
+- [configurar kotlin](https://www.reddit.com/r/Kotlin/comments/1o2c0hy/configurar_kotlin/)
+- [Kamel Image Loader for KMP](https://www.reddit.com/r/Kotlin/comments/1o20mja/kamel_image_loader_for_kmp/)
+- [Theme randomizer](https://www.reddit.com/r/Kotlin/comments/1o1y5yp/theme_randomizer/)
+- [Help needed with android studio project 🙏🏾](https://www.reddit.com/r/Kotlin/comments/1o1xa0x/help_needed_with_android_studio_project/)
 - [SQLiteNow v0.2 &lpar;new KMP library for SQLite&rpar;](https://www.reddit.com/r/Kotlin/comments/1o1coqj/sqlitenow_v02_new_kmp_library_for_sqlite/)
 - [Generate class diagram](https://www.reddit.com/r/Kotlin/comments/1o1c52s/generate_class_diagram/)
-- [Little Robots Version Catalog Plugin deleting bundles](https://www.reddit.com/r/Kotlin/comments/1o1410y/little_robots_version_catalog_plugin_deleting/)
-- [Did you know “Share UI” is selected by default in new KMP projects? 🤔](https://www.reddit.com/r/Kotlin/comments/1o0zev1/did_you_know_share_ui_is_selected_by_default_in/)
-- [Wow, KMP is magic! My Kotlin utility works perfectly in Swift!](https://www.reddit.com/r/Kotlin/comments/1o0ze8r/wow_kmp_is_magic_my_kotlin_utility_works/)
-- [[Project] GJG – A simple Windows launcher for JVM GUI apps](https://www.reddit.com/r/Kotlin/comments/1o0xzd5/project_gjg_a_simple_windows_launcher_for_jvm_gui/)
-- [Summon 0.4.0.4 is here - Kotlin Multiplatform frontend framework now has SEO-friendly WebAssembly support!](https://www.reddit.com/r/Kotlin/comments/1o0n41x/summon_0404_is_here_kotlin_multiplatform_frontend/)
-- [Kotlin or Flutter for begginer](https://www.reddit.com/r/Kotlin/comments/1o09qpa/kotlin_or_flutter_for_begginer/)
-- [Koog 0.5.0 is out – make your agents connected with A2A support](https://www.reddit.com/r/Kotlin/comments/1nzfw1i/koog_050_is_out_make_your_agents_connected_with/)
-- [Need help with webscrapping](https://www.reddit.com/r/Kotlin/comments/1nzehph/need_help_with_webscrapping/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
