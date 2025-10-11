@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [¿Cómo librarme de una mala compañera?](https://www.reddit.com/r/Kotlin/comments/1o34o9j/cómo_librarme_de_una_mala_compañera/)
+- [🎉 JUnit 6.0 is here, with improved support for Kotlin](https://www.reddit.com/r/Kotlin/comments/1o31zok/junit_60_is_here_with_improved_support_for_kotlin/)
+- [Ktor 3.3.1 is here](https://www.reddit.com/r/Kotlin/comments/1o31kdz/ktor_331_is_here/)
+- [This year’s Kotlin Multiplatform Contest for students and recent graduates is open!](https://www.reddit.com/r/Kotlin/comments/1o31ebo/this_years_kotlin_multiplatform_contest_for/)
+- [We’ve added Compose event tracking to the Kotzilla Platform &lpar;for Kotlin + Compose apps&rpar;](https://www.reddit.com/r/Kotlin/comments/1o31ayu/weve_added_compose_event_tracking_to_the_kotzilla/)
+- [Can you sell me on Kotlin over Java?](https://www.reddit.com/r/Kotlin/comments/1o2plmu/can_you_sell_me_on_kotlin_over_java/)
 - [Tired of writing C/C++ for JNI? Use Kotlin/Native instead!](https://www.reddit.com/r/Kotlin/comments/1o2gzew/tired_of_writing_cc_for_jni_use_kotlinnative/)
 - [OpenAPI request/response validation library](https://www.reddit.com/r/Kotlin/comments/1o2gm77/openapi_requestresponse_validation_library/)
 - [How I Simplified My Android App’s Data Layer with Room and Kotlin](https://www.reddit.com/r/Kotlin/comments/1o2fllz/how_i_simplified_my_android_apps_data_layer_with/)
 - [Key Event Handling in KMP Solved!](https://www.reddit.com/r/Kotlin/comments/1o2cd5t/key_event_handling_in_kmp_solved/)
-- [configurar kotlin](https://www.reddit.com/r/Kotlin/comments/1o2c0hy/configurar_kotlin/)
-- [Kamel Image Loader for KMP](https://www.reddit.com/r/Kotlin/comments/1o20mja/kamel_image_loader_for_kmp/)
-- [Theme randomizer](https://www.reddit.com/r/Kotlin/comments/1o1y5yp/theme_randomizer/)
-- [Help needed with android studio project 🙏🏾](https://www.reddit.com/r/Kotlin/comments/1o1xa0x/help_needed_with_android_studio_project/)
-- [SQLiteNow v0.2 &lpar;new KMP library for SQLite&rpar;](https://www.reddit.com/r/Kotlin/comments/1o1coqj/sqlitenow_v02_new_kmp_library_for_sqlite/)
-- [Generate class diagram](https://www.reddit.com/r/Kotlin/comments/1o1c52s/generate_class_diagram/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
