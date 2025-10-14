@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question: Is it a good idea to build a website entirely using Kotlin Multiplatform &lpar;KMP&rpar;?](https://www.reddit.com/r/Kotlin/comments/1o5laul/question_is_it_a_good_idea_to_build_a_website/)
+- [survey for my bachelor’s thesis on Java/Kotlin UI frameworks.](https://www.reddit.com/r/Kotlin/comments/1o5jd1c/survey_for_my_bachelors_thesis_on_javakotlin_ui/)
+- [Cup a simple build system for Java/Kotlin](https://www.reddit.com/r/Kotlin/comments/1o5j5gi/cup_a_simple_build_system_for_javakotlin/)
+- [http4k Lens content-length](https://www.reddit.com/r/Kotlin/comments/1o5ht0d/http4k_lens_contentlength/)
+- [Open-Sourced an unstyled Tooltip component for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1o4qbkl/opensourced_an_unstyled_tooltip_component_for/)
+- [LiquidScreens - A maintained fork of compose-navigation-reimagined, an awesome jetpack compose navigation library](https://www.reddit.com/r/Kotlin/comments/1o4q1i1/liquidscreens_a_maintained_fork_of/)
+- [What are you using for testing in CMP / KMP projects?](https://www.reddit.com/r/Kotlin/comments/1o4pq7b/what_are_you_using_for_testing_in_cmp_kmp_projects/)
+- [Merely trying to run a hello world app in Android studio?](https://www.reddit.com/r/Kotlin/comments/1o4ohih/merely_trying_to_run_a_hello_world_app_in_android/)
 - [Slow IOS Builds in CMP](https://www.reddit.com/r/Kotlin/comments/1o42g8x/slow_ios_builds_in_cmp/)
 - [Push Notification Navigation causes](https://www.reddit.com/r/Kotlin/comments/1o3wpkk/push_notification_navigation_causes/)
-- [Making this helped me understand some fundamentals](https://www.reddit.com/r/Kotlin/comments/1o3sn0k/making_this_helped_me_understand_some_fundamentals/)
-- [¿Cómo librarme de una mala compañera?](https://www.reddit.com/r/Kotlin/comments/1o34o9j/cómo_librarme_de_una_mala_compañera/)
-- [🎉 JUnit 6.0 is here, with improved support for Kotlin](https://www.reddit.com/r/Kotlin/comments/1o31zok/junit_60_is_here_with_improved_support_for_kotlin/)
-- [Ktor 3.3.1 is here](https://www.reddit.com/r/Kotlin/comments/1o31kdz/ktor_331_is_here/)
-- [This year’s Kotlin Multiplatform Contest for students and recent graduates is open!](https://www.reddit.com/r/Kotlin/comments/1o31ebo/this_years_kotlin_multiplatform_contest_for/)
-- [We’ve added Compose event tracking to the Kotzilla Platform &lpar;for Kotlin + Compose apps&rpar;](https://www.reddit.com/r/Kotlin/comments/1o31ayu/weve_added_compose_event_tracking_to_the_kotzilla/)
-- [Can you sell me on Kotlin over Java?](https://www.reddit.com/r/Kotlin/comments/1o2plmu/can_you_sell_me_on_kotlin_over_java/)
-- [Tired of writing C/C++ for JNI? Use Kotlin/Native instead!](https://www.reddit.com/r/Kotlin/comments/1o2gzew/tired_of_writing_cc_for_jni_use_kotlinnative/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
