@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Transition native UI in KMP project to compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1o6nseb/transition_native_ui_in_kmp_project_to_compose/)
+- [Help with an array transformation using map](https://www.reddit.com/r/Kotlin/comments/1o6adzt/help_with_an_array_transformation_using_map/)
+- [Jetpack Compose Canvas : Creating Custom UI Elements](https://www.reddit.com/r/Kotlin/comments/1o6a581/jetpack_compose_canvas_creating_custom_ui_elements/)
+- [🎙️ Livestream: From Koin to Kotzilla — debunking Koin myths, latest Koin updates, and Android performance monitoring with AI](https://www.reddit.com/r/Kotlin/comments/1o690xk/livestream_from_koin_to_kotzilla_debunking_koin/)
 - [Question: Is it a good idea to build a website entirely using Kotlin Multiplatform &lpar;KMP&rpar;?](https://www.reddit.com/r/Kotlin/comments/1o5laul/question_is_it_a_good_idea_to_build_a_website/)
 - [survey for my bachelor’s thesis on Java/Kotlin UI frameworks.](https://www.reddit.com/r/Kotlin/comments/1o5jd1c/survey_for_my_bachelors_thesis_on_javakotlin_ui/)
 - [Cup a simple build system for Java/Kotlin](https://www.reddit.com/r/Kotlin/comments/1o5j5gi/cup_a_simple_build_system_for_javakotlin/)
 - [http4k Lens content-length](https://www.reddit.com/r/Kotlin/comments/1o5ht0d/http4k_lens_contentlength/)
 - [Open-Sourced an unstyled Tooltip component for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1o4qbkl/opensourced_an_unstyled_tooltip_component_for/)
 - [LiquidScreens - A maintained fork of compose-navigation-reimagined, an awesome jetpack compose navigation library](https://www.reddit.com/r/Kotlin/comments/1o4q1i1/liquidscreens_a_maintained_fork_of/)
-- [What are you using for testing in CMP / KMP projects?](https://www.reddit.com/r/Kotlin/comments/1o4pq7b/what_are_you_using_for_testing_in_cmp_kmp_projects/)
-- [Merely trying to run a hello world app in Android studio?](https://www.reddit.com/r/Kotlin/comments/1o4ohih/merely_trying_to_run_a_hello_world_app_in_android/)
-- [Slow IOS Builds in CMP](https://www.reddit.com/r/Kotlin/comments/1o42g8x/slow_ios_builds_in_cmp/)
-- [Push Notification Navigation causes](https://www.reddit.com/r/Kotlin/comments/1o3wpkk/push_notification_navigation_causes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
