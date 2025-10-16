@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Am i the only who thinks it easier to just copy and paste components from an existing android project + platform agnostic business logic into a CMP desktop app, than it is to try a unify the codebase ?](https://www.reddit.com/r/Kotlin/comments/1o7n28s/am_i_the_only_who_thinks_it_easier_to_just_copy/)
+- [Sharing my kotlin geometry library](https://www.reddit.com/r/Kotlin/comments/1o7hmzj/sharing_my_kotlin_geometry_library/)
+- [Trying to Promote Kotlin Among Students – Am I on the Right Track?](https://www.reddit.com/r/Kotlin/comments/1o7d70h/trying_to_promote_kotlin_among_students_am_i_on/)
+- [sqlx4k 1.3.0 released - Now with PostgreSQL Message Queue &lpar;PGMQ&rpar; support](https://www.reddit.com/r/Kotlin/comments/1o7avti/sqlx4k_130_released_now_with_postgresql_message/)
+- [Crafting Your KotlinConf Proposal: Expert Tips to Help You Stand Out](https://www.reddit.com/r/Kotlin/comments/1o7243f/crafting_your_kotlinconf_proposal_expert_tips_to/)
 - [Transition native UI in KMP project to compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1o6nseb/transition_native_ui_in_kmp_project_to_compose/)
 - [Help with an array transformation using map](https://www.reddit.com/r/Kotlin/comments/1o6adzt/help_with_an_array_transformation_using_map/)
 - [Jetpack Compose Canvas : Creating Custom UI Elements](https://www.reddit.com/r/Kotlin/comments/1o6a581/jetpack_compose_canvas_creating_custom_ui_elements/)
 - [🎙️ Livestream: From Koin to Kotzilla — debunking Koin myths, latest Koin updates, and Android performance monitoring with AI](https://www.reddit.com/r/Kotlin/comments/1o690xk/livestream_from_koin_to_kotzilla_debunking_koin/)
 - [Question: Is it a good idea to build a website entirely using Kotlin Multiplatform &lpar;KMP&rpar;?](https://www.reddit.com/r/Kotlin/comments/1o5laul/question_is_it_a_good_idea_to_build_a_website/)
-- [survey for my bachelor’s thesis on Java/Kotlin UI frameworks.](https://www.reddit.com/r/Kotlin/comments/1o5jd1c/survey_for_my_bachelors_thesis_on_javakotlin_ui/)
-- [Cup a simple build system for Java/Kotlin](https://www.reddit.com/r/Kotlin/comments/1o5j5gi/cup_a_simple_build_system_for_javakotlin/)
-- [http4k Lens content-length](https://www.reddit.com/r/Kotlin/comments/1o5ht0d/http4k_lens_contentlength/)
-- [Open-Sourced an unstyled Tooltip component for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1o4qbkl/opensourced_an_unstyled_tooltip_component_for/)
-- [LiquidScreens - A maintained fork of compose-navigation-reimagined, an awesome jetpack compose navigation library](https://www.reddit.com/r/Kotlin/comments/1o4q1i1/liquidscreens_a_maintained_fork_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
