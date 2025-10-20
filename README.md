@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [No value passed for parameter &#39;onAddToCart&#39;](https://www.reddit.com/r/Kotlin/comments/1ob61p4/no_value_passed_for_parameter_onaddtocart/)
+- [Protecting Your Kotlin Multiplatform Library’s Public API with ABI Validation](https://www.reddit.com/r/Kotlin/comments/1oambtf/protecting_your_kotlin_multiplatform_librarys/)
+- [Managing Resources and Logo](https://www.reddit.com/r/Kotlin/comments/1oaioot/managing_resources_and_logo/)
 - [Will learning Kotlin allow me to apply for Java jobs?](https://www.reddit.com/r/Kotlin/comments/1oabce1/will_learning_kotlin_allow_me_to_apply_for_java/)
 - [🚀 Introducing komposeauth — full-stack authentication for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1o9mdb9/introducing_komposeauth_fullstack_authentication/)
 - [Discussing Kotlin Coroutines with Marcin Moskała | Talking Kotlin 141](https://www.reddit.com/r/Kotlin/comments/1o8yyz3/discussing_kotlin_coroutines_with_marcin_moskała/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [You don’t have to learn graphs to build complex AI workflows](https://www.reddit.com/r/Kotlin/comments/1o8bank/you_dont_have_to_learn_graphs_to_build_complex_ai/)
 - [Help, Unresolved reference: &#39;println&#39;](https://www.reddit.com/r/Kotlin/comments/1o88jj9/help_unresolved_reference_println/)
 - [Is it true that Koin is just a service locator? Catch Arnaud on the TypeAlias Show with Dave Leeds, address this &amp; chat about Kotzilla, tooling using AI to monitor apps using Koin](https://www.reddit.com/r/Kotlin/comments/1o804z6/is_it_true_that_koin_is_just_a_service_locator/)
-- [Engaging the Kotlin community is frictionful](https://www.reddit.com/r/Kotlin/comments/1o7ussr/engaging_the_kotlin_community_is_frictionful/)
-- [Am i the only who thinks it easier to just copy and paste components from an existing android project + platform agnostic business logic into a CMP desktop app, than it is to try a unify the codebase ?](https://www.reddit.com/r/Kotlin/comments/1o7n28s/am_i_the_only_who_thinks_it_easier_to_just_copy/)
-- [Sharing my kotlin geometry library](https://www.reddit.com/r/Kotlin/comments/1o7hmzj/sharing_my_kotlin_geometry_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
