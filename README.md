@@ -272,7 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [No value passed for parameter &#39;onAddToCart&#39;](https://www.reddit.com/r/Kotlin/comments/1ob61p4/no_value_passed_for_parameter_onaddtocart/)
+- [PSA: Making the sqldelight-androidx-driver async](https://www.reddit.com/r/Kotlin/comments/1ob9zs4/psa_making_the_sqldelightandroidxdriver_async/)
 - [Protecting Your Kotlin Multiplatform Library’s Public API with ABI Validation](https://www.reddit.com/r/Kotlin/comments/1oambtf/protecting_your_kotlin_multiplatform_librarys/)
 - [Managing Resources and Logo](https://www.reddit.com/r/Kotlin/comments/1oaioot/managing_resources_and_logo/)
 - [Will learning Kotlin allow me to apply for Java jobs?](https://www.reddit.com/r/Kotlin/comments/1oabce1/will_learning_kotlin_allow_me_to_apply_for_java/)
