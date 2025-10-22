@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [If you could automate one step of your debugging flow, what would it be?](https://www.reddit.com/r/Kotlin/comments/1oc8cxn/if_you_could_automate_one_step_of_your_debugging/)
+- [Best Kotlin Framework for a Scalable Project?](https://www.reddit.com/r/Kotlin/comments/1oc8ayb/best_kotlin_framework_for_a_scalable_project/)
+- [Google play console developer account india](https://www.reddit.com/r/Kotlin/comments/1oc72n8/google_play_console_developer_account_india/)
+- [anthropic-sdk-kotlin: Tool Use Guide](https://www.reddit.com/r/Kotlin/comments/1oc6xhy/anthropicsdkkotlin_tool_use_guide/)
 - [PSA: Making the sqldelight-androidx-driver async](https://www.reddit.com/r/Kotlin/comments/1ob9zs4/psa_making_the_sqldelightandroidxdriver_async/)
 - [Protecting Your Kotlin Multiplatform Library’s Public API with ABI Validation](https://www.reddit.com/r/Kotlin/comments/1oambtf/protecting_your_kotlin_multiplatform_librarys/)
 - [Managing Resources and Logo](https://www.reddit.com/r/Kotlin/comments/1oaioot/managing_resources_and_logo/)
 - [Will learning Kotlin allow me to apply for Java jobs?](https://www.reddit.com/r/Kotlin/comments/1oabce1/will_learning_kotlin_allow_me_to_apply_for_java/)
 - [🚀 Introducing komposeauth — full-stack authentication for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1o9mdb9/introducing_komposeauth_fullstack_authentication/)
 - [Discussing Kotlin Coroutines with Marcin Moskała | Talking Kotlin 141](https://www.reddit.com/r/Kotlin/comments/1o8yyz3/discussing_kotlin_coroutines_with_marcin_moskała/)
-- [Learning Android programming with kotlin on a long flight with no Wi-Fi](https://www.reddit.com/r/Kotlin/comments/1o8qbf9/learning_android_programming_with_kotlin_on_a/)
-- [You don’t have to learn graphs to build complex AI workflows](https://www.reddit.com/r/Kotlin/comments/1o8bank/you_dont_have_to_learn_graphs_to_build_complex_ai/)
-- [Help, Unresolved reference: &#39;println&#39;](https://www.reddit.com/r/Kotlin/comments/1o88jj9/help_unresolved_reference_println/)
-- [Is it true that Koin is just a service locator? Catch Arnaud on the TypeAlias Show with Dave Leeds, address this &amp; chat about Kotzilla, tooling using AI to monitor apps using Koin](https://www.reddit.com/r/Kotlin/comments/1o804z6/is_it_true_that_koin_is_just_a_service_locator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
