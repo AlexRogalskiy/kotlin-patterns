@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android | KMP &lpar;Kotlin Multiplatform&rpar; | Confused whether to learn Ktor or Spring Boot](https://www.reddit.com/r/Kotlin/comments/1odc2h8/android_kmp_kotlin_multiplatform_confused_whether/)
+- [Seeking Feedback: Browser-Based Log Viewer for Developers &amp; Ops](https://www.reddit.com/r/Kotlin/comments/1od83w6/seeking_feedback_browserbased_log_viewer_for/)
+- [How Kotlin reinvented Checked Exceptions](https://www.reddit.com/r/Kotlin/comments/1od46or/how_kotlin_reinvented_checked_exceptions/)
+- [Best docs/book to learn stdlib](https://www.reddit.com/r/Kotlin/comments/1od09c3/best_docsbook_to_learn_stdlib/)
 - [If you could automate one step of your debugging flow, what would it be?](https://www.reddit.com/r/Kotlin/comments/1oc8cxn/if_you_could_automate_one_step_of_your_debugging/)
 - [Best Kotlin Framework for a Scalable Project?](https://www.reddit.com/r/Kotlin/comments/1oc8ayb/best_kotlin_framework_for_a_scalable_project/)
 - [Google play console developer account india](https://www.reddit.com/r/Kotlin/comments/1oc72n8/google_play_console_developer_account_india/)
 - [anthropic-sdk-kotlin: Tool Use Guide](https://www.reddit.com/r/Kotlin/comments/1oc6xhy/anthropicsdkkotlin_tool_use_guide/)
 - [PSA: Making the sqldelight-androidx-driver async](https://www.reddit.com/r/Kotlin/comments/1ob9zs4/psa_making_the_sqldelightandroidxdriver_async/)
 - [Protecting Your Kotlin Multiplatform Library’s Public API with ABI Validation](https://www.reddit.com/r/Kotlin/comments/1oambtf/protecting_your_kotlin_multiplatform_librarys/)
-- [Managing Resources and Logo](https://www.reddit.com/r/Kotlin/comments/1oaioot/managing_resources_and_logo/)
-- [Will learning Kotlin allow me to apply for Java jobs?](https://www.reddit.com/r/Kotlin/comments/1oabce1/will_learning_kotlin_allow_me_to_apply_for_java/)
-- [🚀 Introducing komposeauth — full-stack authentication for Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1o9mdb9/introducing_komposeauth_fullstack_authentication/)
-- [Discussing Kotlin Coroutines with Marcin Moskała | Talking Kotlin 141](https://www.reddit.com/r/Kotlin/comments/1o8yyz3/discussing_kotlin_coroutines_with_marcin_moskała/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
