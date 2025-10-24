@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [can only build app-debug and not app-release?](https://www.reddit.com/r/Kotlin/comments/1oe5hux/can_only_build_appdebug_and_not_apprelease/)
+- [🎥 Testimonial: Worldline powers billions of transactions and smarter customer conversations with Kotlin for server-side](https://www.reddit.com/r/Kotlin/comments/1oe49bw/testimonial_worldline_powers_billions_of/)
+- [🎉 Git Backup Hub v1.0.0 Released! - Cross-platform desktop app Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1oe136y/git_backup_hub_v100_released_crossplatform/)
 - [Android | KMP &lpar;Kotlin Multiplatform&rpar; | Confused whether to learn Ktor or Spring Boot](https://www.reddit.com/r/Kotlin/comments/1odc2h8/android_kmp_kotlin_multiplatform_confused_whether/)
 - [Seeking Feedback: Browser-Based Log Viewer for Developers &amp; Ops](https://www.reddit.com/r/Kotlin/comments/1od83w6/seeking_feedback_browserbased_log_viewer_for/)
 - [How Kotlin reinvented Checked Exceptions](https://www.reddit.com/r/Kotlin/comments/1od46or/how_kotlin_reinvented_checked_exceptions/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [If you could automate one step of your debugging flow, what would it be?](https://www.reddit.com/r/Kotlin/comments/1oc8cxn/if_you_could_automate_one_step_of_your_debugging/)
 - [Best Kotlin Framework for a Scalable Project?](https://www.reddit.com/r/Kotlin/comments/1oc8ayb/best_kotlin_framework_for_a_scalable_project/)
 - [Google play console developer account india](https://www.reddit.com/r/Kotlin/comments/1oc72n8/google_play_console_developer_account_india/)
-- [anthropic-sdk-kotlin: Tool Use Guide](https://www.reddit.com/r/Kotlin/comments/1oc6xhy/anthropicsdkkotlin_tool_use_guide/)
-- [PSA: Making the sqldelight-androidx-driver async](https://www.reddit.com/r/Kotlin/comments/1ob9zs4/psa_making_the_sqldelightandroidxdriver_async/)
-- [Protecting Your Kotlin Multiplatform Library’s Public API with ABI Validation](https://www.reddit.com/r/Kotlin/comments/1oambtf/protecting_your_kotlin_multiplatform_librarys/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
