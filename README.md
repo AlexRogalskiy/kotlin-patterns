@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Unlocking AI Tool-Calling in Kotlin: Generic MCP Client + Hello World Server Tutorial](https://www.reddit.com/r/Kotlin/comments/1ogta72/unlocking_ai_toolcalling_in_kotlin_generic_mcp/)
+- [Native-Kommons supports Locale](https://www.reddit.com/r/Kotlin/comments/1oglmu2/nativekommons_supports_locale/)
+- [State of KMP ecosystem](https://www.reddit.com/r/Kotlin/comments/1ogi3sw/state_of_kmp_ecosystem/)
+- [Best cross-platform framework to learn in 2025 - Flutter or Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1ogi1lx/best_crossplatform_framework_to_learn_in_2025/)
+- [Is there any video compressor libraries for Kotlin?](https://www.reddit.com/r/Kotlin/comments/1oghmfd/is_there_any_video_compressor_libraries_for_kotlin/)
 - [How to use SQLite without GUI? only print console](https://www.reddit.com/r/Kotlin/comments/1og5exd/how_to_use_sqlite_without_gui_only_print_console/)
 - [Parsing Pricing with Claude - Checkout Kata in Kotlin Part 4](https://www.reddit.com/r/Kotlin/comments/1og4iw0/parsing_pricing_with_claude_checkout_kata_in/)
 - [ktor swagger/openapi integration - loosing my santiy](https://www.reddit.com/r/Kotlin/comments/1oftp8y/ktor_swaggeropenapi_integration_loosing_my_santiy/)
 - [Let me know what you think about my SaaS and how it’s working so far!](https://www.reddit.com/r/Kotlin/comments/1ofl3ia/let_me_know_what_you_think_about_my_saas_and_how/)
 - [Made a typing app for code](https://www.reddit.com/r/Kotlin/comments/1of75ym/made_a_typing_app_for_code/)
-- [Examples of CMP for iOS](https://www.reddit.com/r/Kotlin/comments/1of70ys/examples_of_cmp_for_ios/)
-- [[Tool] Thanks Stars — A CLI that automatically stars all GitHub repos from your Gradle project &lpar;now supports Kotlin/Gradle&rpar;](https://www.reddit.com/r/Kotlin/comments/1of0x7e/tool_thanks_stars_a_cli_that_automatically_stars/)
-- [Spring Boot 4.0.0-RC1 available now](https://www.reddit.com/r/Kotlin/comments/1oewpba/spring_boot_400rc1_available_now/)
-- [Need advice: KMP + Backend choice &lpar;Ktor vs Quarkus vs Spring Boot&rpar;](https://www.reddit.com/r/Kotlin/comments/1oevurt/need_advice_kmp_backend_choice_ktor_vs_quarkus_vs/)
-- [can only build app-debug and not app-release?](https://www.reddit.com/r/Kotlin/comments/1oe5hux/can_only_build_appdebug_and_not_apprelease/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
