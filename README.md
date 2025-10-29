@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1oinh1x/compose_multiplatform_wizard/)
+- [App block app](https://www.reddit.com/r/Kotlin/comments/1oij2kp/app_block_app/)
+- [Stop Bugs Before They Happen: Compile-Time Guardrails with Kotlin Context Parameters](https://www.reddit.com/r/Kotlin/comments/1oi8eda/stop_bugs_before_they_happen_compiletime/)
+- [Doubt regarding data passing in KMP](https://www.reddit.com/r/Kotlin/comments/1oi7oll/doubt_regarding_data_passing_in_kmp/)
+- [How Java developers can safely start exploring Kotlin](https://www.reddit.com/r/Kotlin/comments/1oi5vk3/how_java_developers_can_safely_start_exploring/)
+- [Learning from scratch](https://www.reddit.com/r/Kotlin/comments/1oi5p2r/learning_from_scratch/)
+- [KMP+CMP OpenSource Boilerplate v0.3.0! Build apps in days](https://www.reddit.com/r/Kotlin/comments/1oi3sjq/kmpcmp_opensource_boilerplate_v030_build_apps_in/)
+- [Has anyone taken the Dave Leeds “Coroutines” course](https://www.reddit.com/r/Kotlin/comments/1oi3ju2/has_anyone_taken_the_dave_leeds_coroutines_course/)
 - [How to properly scale a Jetpack Compose Canvas game across all Android screen sizes &lpar;no stretching&rpar;?](https://www.reddit.com/r/Kotlin/comments/1ohh7fz/how_to_properly_scale_a_jetpack_compose_canvas/)
 - [How to properly scale a Jetpack Compose Canvas game across all Android screen sizes &lpar;no stretching&rpar;?](https://www.reddit.com/r/Kotlin/comments/1ohh6x0/how_to_properly_scale_a_jetpack_compose_canvas/)
-- [Remote KMP Jobs in Europe/US?](https://www.reddit.com/r/Kotlin/comments/1ohftzf/remote_kmp_jobs_in_europeus/)
-- [Kotlin Weekly #482](https://www.reddit.com/r/Kotlin/comments/1oh9xoo/kotlin_weekly_482/)
-- [Logging for KMP](https://www.reddit.com/r/Kotlin/comments/1oh8sgu/logging_for_kmp/)
-- [Easy way out to make play in browser?](https://www.reddit.com/r/Kotlin/comments/1oh3w7m/easy_way_out_to_make_play_in_browser/)
-- [Trying out Kotlin for the first time and I&#39;m having trouble getting the Hello, World! example to even run.](https://www.reddit.com/r/Kotlin/comments/1oh3sts/trying_out_kotlin_for_the_first_time_and_im/)
-- [Unlocking AI Tool-Calling in Kotlin: Generic MCP Client + Hello World Server Tutorial](https://www.reddit.com/r/Kotlin/comments/1ogta72/unlocking_ai_toolcalling_in_kotlin_generic_mcp/)
-- [Native-Kommons supports Locale](https://www.reddit.com/r/Kotlin/comments/1oglmu2/nativekommons_supports_locale/)
-- [State of KMP ecosystem](https://www.reddit.com/r/Kotlin/comments/1ogi3sw/state_of_kmp_ecosystem/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
