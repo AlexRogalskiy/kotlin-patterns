@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP Wheel Picker released](https://www.reddit.com/r/Kotlin/comments/1ojfrvh/kmp_wheel_picker_released/)
+- [EasyQuery: The Entity Framework Core for Java Developers](https://www.reddit.com/r/Kotlin/comments/1oj8w8c/easyquery_the_entity_framework_core_for_java/)
+- [Using OverloadResolutionByLambdaReturnType?](https://www.reddit.com/r/Kotlin/comments/1oj55pe/using_overloadresolutionbylambdareturntype/)
+- [Finding Order in the Mayhem: A Novel Concurrency Testing Tool that Improved the Kotlin Compiler](https://www.reddit.com/r/Kotlin/comments/1oj4un6/finding_order_in_the_mayhem_a_novel_concurrency/)
+- [breakpoints do nothing i see no variables . no stack frame](https://www.reddit.com/r/Kotlin/comments/1oj3qzh/breakpoints_do_nothing_i_see_no_variables_no/)
+- [🚀 Apache Fory 0.13.0 Released – Major New Features for Java, Plus Native Rust &amp; Python Serialization Powerhouse](https://www.reddit.com/r/Kotlin/comments/1oj1h7v/apache_fory_0130_released_major_new_features_for/)
+- [The Kotlin Multiplatform survey is live. Your experiences matter](https://www.reddit.com/r/Kotlin/comments/1oiy2g6/the_kotlin_multiplatform_survey_is_live_your/)
 - [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1oinh1x/compose_multiplatform_wizard/)
 - [App block app](https://www.reddit.com/r/Kotlin/comments/1oij2kp/app_block_app/)
 - [Stop Bugs Before They Happen: Compile-Time Guardrails with Kotlin Context Parameters](https://www.reddit.com/r/Kotlin/comments/1oi8eda/stop_bugs_before_they_happen_compiletime/)
-- [Doubt regarding data passing in KMP](https://www.reddit.com/r/Kotlin/comments/1oi7oll/doubt_regarding_data_passing_in_kmp/)
-- [How Java developers can safely start exploring Kotlin](https://www.reddit.com/r/Kotlin/comments/1oi5vk3/how_java_developers_can_safely_start_exploring/)
-- [Learning from scratch](https://www.reddit.com/r/Kotlin/comments/1oi5p2r/learning_from_scratch/)
-- [KMP+CMP OpenSource Boilerplate v0.3.0! Build apps in days](https://www.reddit.com/r/Kotlin/comments/1oi3sjq/kmpcmp_opensource_boilerplate_v030_build_apps_in/)
-- [Has anyone taken the Dave Leeds “Coroutines” course](https://www.reddit.com/r/Kotlin/comments/1oi3ju2/has_anyone_taken_the_dave_leeds_coroutines_course/)
-- [How to properly scale a Jetpack Compose Canvas game across all Android screen sizes &lpar;no stretching&rpar;?](https://www.reddit.com/r/Kotlin/comments/1ohh7fz/how_to_properly_scale_a_jetpack_compose_canvas/)
-- [How to properly scale a Jetpack Compose Canvas game across all Android screen sizes &lpar;no stretching&rpar;?](https://www.reddit.com/r/Kotlin/comments/1ohh6x0/how_to_properly_scale_a_jetpack_compose_canvas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
