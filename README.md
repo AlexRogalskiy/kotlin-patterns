@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why should I learn Kotlin what are the benefits over Java?](https://www.reddit.com/r/Kotlin/comments/1ok2nbw/why_should_i_learn_kotlin_what_are_the_benefits/)
+- [🚫📱 Tired of Endless Reels and Shorts? I Built an App That Blocks Them! 🎉🔥](https://www.reddit.com/r/Kotlin/comments/1ok1jzd/tired_of_endless_reels_and_shorts_i_built_an_app/)
+- [Recent JUnit Updates for Kotlin](https://www.reddit.com/r/Kotlin/comments/1ojzlpv/recent_junit_updates_for_kotlin/)
+- [Feeling stuck after learning Kotlin fundamentals - what next ?Compose or XML?](https://www.reddit.com/r/Kotlin/comments/1ojuk18/feeling_stuck_after_learning_kotlin_fundamentals/)
+- [Kotlin Multiplatform implementation of VIP Access protocol](https://www.reddit.com/r/Kotlin/comments/1ojqoab/kotlin_multiplatform_implementation_of_vip_access/)
 - [KMP Wheel Picker released](https://www.reddit.com/r/Kotlin/comments/1ojfrvh/kmp_wheel_picker_released/)
 - [EasyQuery: The Entity Framework Core for Java Developers](https://www.reddit.com/r/Kotlin/comments/1oj8w8c/easyquery_the_entity_framework_core_for_java/)
 - [Using OverloadResolutionByLambdaReturnType?](https://www.reddit.com/r/Kotlin/comments/1oj55pe/using_overloadresolutionbylambdareturntype/)
 - [Finding Order in the Mayhem: A Novel Concurrency Testing Tool that Improved the Kotlin Compiler](https://www.reddit.com/r/Kotlin/comments/1oj4un6/finding_order_in_the_mayhem_a_novel_concurrency/)
-- [breakpoints do nothing i see no variables . no stack frame](https://www.reddit.com/r/Kotlin/comments/1oj3qzh/breakpoints_do_nothing_i_see_no_variables_no/)
 - [🚀 Apache Fory 0.13.0 Released – Major New Features for Java, Plus Native Rust &amp; Python Serialization Powerhouse](https://www.reddit.com/r/Kotlin/comments/1oj1h7v/apache_fory_0130_released_major_new_features_for/)
-- [The Kotlin Multiplatform survey is live. Your experiences matter](https://www.reddit.com/r/Kotlin/comments/1oiy2g6/the_kotlin_multiplatform_survey_is_live_your/)
-- [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1oinh1x/compose_multiplatform_wizard/)
-- [App block app](https://www.reddit.com/r/Kotlin/comments/1oij2kp/app_block_app/)
-- [Stop Bugs Before They Happen: Compile-Time Guardrails with Kotlin Context Parameters](https://www.reddit.com/r/Kotlin/comments/1oi8eda/stop_bugs_before_they_happen_compiletime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
