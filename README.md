@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do you like about Kotlin more than Java?](https://www.reddit.com/r/Kotlin/comments/1olqh4w/what_do_you_like_about_kotlin_more_than_java/)
+- [M3 Expressive CircularWavyProgressIndicator not working with compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1olpnq6/m3_expressive_circularwavyprogressindicator_not/)
+- [Am I stupid or is Android studio not letting me start projects in java anymore?](https://www.reddit.com/r/Kotlin/comments/1olkczc/am_i_stupid_or_is_android_studio_not_letting_me/)
+- [How do you preview UI changes live when developing a custom Android keyboard &lpar;IME&rpar; in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1olgli5/how_do_you_preview_ui_changes_live_when/)
 - [Barcode laser scanner](https://www.reddit.com/r/Kotlin/comments/1ol18xi/barcode_laser_scanner/)
 - [Freeing kotlin from maven and gradle?](https://www.reddit.com/r/Kotlin/comments/1okykil/freeing_kotlin_from_maven_and_gradle/)
 - [Coroutine are just jobs all the way down](https://www.reddit.com/r/Kotlin/comments/1oky3lp/coroutine_are_just_jobs_all_the_way_down/)
 - [Value classes are new data classes](https://www.reddit.com/r/Kotlin/comments/1okww5p/value_classes_are_new_data_classes/)
 - [BOB 2026: Berlin, March 13 - Call open, Early tickets available](https://www.reddit.com/r/Kotlin/comments/1okvdlo/bob_2026_berlin_march_13_call_open_early_tickets/)
 - [When Player Plays It Too Safe: Unlocking Hidden HD Tracks on Android](https://www.reddit.com/r/Kotlin/comments/1okrqjn/when_player_plays_it_too_safe_unlocking_hidden_hd/)
-- [Why should I learn Kotlin what are the benefits over Java?](https://www.reddit.com/r/Kotlin/comments/1ok2nbw/why_should_i_learn_kotlin_what_are_the_benefits/)
-- [🚫📱 Tired of Endless Reels and Shorts? I Built an App That Blocks Them! 🎉🔥](https://www.reddit.com/r/Kotlin/comments/1ok1jzd/tired_of_endless_reels_and_shorts_i_built_an_app/)
-- [Recent JUnit Updates for Kotlin](https://www.reddit.com/r/Kotlin/comments/1ojzlpv/recent_junit_updates_for_kotlin/)
-- [Feeling stuck after learning Kotlin fundamentals - what next ?Compose or XML?](https://www.reddit.com/r/Kotlin/comments/1ojuk18/feeling_stuck_after_learning_kotlin_fundamentals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
