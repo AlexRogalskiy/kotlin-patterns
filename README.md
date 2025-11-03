@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Umm... based?](https://www.reddit.com/r/Kotlin/comments/1omrzav/umm_based/)
+- [Examples of iOS Compose Multiplatform apps?](https://www.reddit.com/r/Kotlin/comments/1omo4ix/examples_of_ios_compose_multiplatform_apps/)
 - [What do you like about Kotlin more than Java?](https://www.reddit.com/r/Kotlin/comments/1olqh4w/what_do_you_like_about_kotlin_more_than_java/)
 - [M3 Expressive CircularWavyProgressIndicator not working with compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1olpnq6/m3_expressive_circularwavyprogressindicator_not/)
 - [Am I stupid or is Android studio not letting me start projects in java anymore?](https://www.reddit.com/r/Kotlin/comments/1olkczc/am_i_stupid_or_is_android_studio_not_letting_me/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Freeing kotlin from maven and gradle?](https://www.reddit.com/r/Kotlin/comments/1okykil/freeing_kotlin_from_maven_and_gradle/)
 - [Coroutine are just jobs all the way down](https://www.reddit.com/r/Kotlin/comments/1oky3lp/coroutine_are_just_jobs_all_the_way_down/)
 - [Value classes are new data classes](https://www.reddit.com/r/Kotlin/comments/1okww5p/value_classes_are_new_data_classes/)
-- [BOB 2026: Berlin, March 13 - Call open, Early tickets available](https://www.reddit.com/r/Kotlin/comments/1okvdlo/bob_2026_berlin_march_13_call_open_early_tickets/)
-- [When Player Plays It Too Safe: Unlocking Hidden HD Tracks on Android](https://www.reddit.com/r/Kotlin/comments/1okrqjn/when_player_plays_it_too_safe_unlocking_hidden_hd/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
