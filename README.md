@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sometimes having a GPU programming perspective produces optimized code](https://www.reddit.com/r/Kotlin/comments/1onskc8/sometimes_having_a_gpu_programming_perspective/)
+- [Am i overdoing extension functions?](https://www.reddit.com/r/Kotlin/comments/1onp2na/am_i_overdoing_extension_functions/)
+- [https://c-fraser.github.io/graph-guard/](https://www.reddit.com/r/Kotlin/comments/1onf8bq/httpscfrasergithubiographguard/)
+- [PROBLEM 🥲:I GOT THIS PROBLEM IN GRADLE IN DAEMON SO I WANNA SOLUTION FOR THIS, ANYONE KOTLIN APP DEVELOPING I EXPERIENCE ANDROID, PLEASE REPLY THIS POST!!!](https://www.reddit.com/r/Kotlin/comments/1ond4wp/problem_i_got_this_problem_in_gradle_in_daemon_so/)
+- [ImagePickerKMP now supports Bytes, Base64, Painter &amp; Bitmap!](https://www.reddit.com/r/Kotlin/comments/1on0nr0/imagepickerkmp_now_supports_bytes_base64_painter/)
 - [Umm... based?](https://www.reddit.com/r/Kotlin/comments/1omrzav/umm_based/)
 - [Examples of iOS Compose Multiplatform apps?](https://www.reddit.com/r/Kotlin/comments/1omo4ix/examples_of_ios_compose_multiplatform_apps/)
 - [What do you like about Kotlin more than Java?](https://www.reddit.com/r/Kotlin/comments/1olqh4w/what_do_you_like_about_kotlin_more_than_java/)
 - [M3 Expressive CircularWavyProgressIndicator not working with compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1olpnq6/m3_expressive_circularwavyprogressindicator_not/)
 - [Am I stupid or is Android studio not letting me start projects in java anymore?](https://www.reddit.com/r/Kotlin/comments/1olkczc/am_i_stupid_or_is_android_studio_not_letting_me/)
-- [How do you preview UI changes live when developing a custom Android keyboard &lpar;IME&rpar; in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1olgli5/how_do_you_preview_ui_changes_live_when/)
-- [Barcode laser scanner](https://www.reddit.com/r/Kotlin/comments/1ol18xi/barcode_laser_scanner/)
-- [Freeing kotlin from maven and gradle?](https://www.reddit.com/r/Kotlin/comments/1okykil/freeing_kotlin_from_maven_and_gradle/)
-- [Coroutine are just jobs all the way down](https://www.reddit.com/r/Kotlin/comments/1oky3lp/coroutine_are_just_jobs_all_the_way_down/)
-- [Value classes are new data classes](https://www.reddit.com/r/Kotlin/comments/1okww5p/value_classes_are_new_data_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
