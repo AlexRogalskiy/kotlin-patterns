@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best search terms for Kotlin jobs](https://www.reddit.com/r/Kotlin/comments/1oopm7z/best_search_terms_for_kotlin_jobs/)
+- [Summon 0.4.2.2 - Compose like frontend framework](https://www.reddit.com/r/Kotlin/comments/1oogz0o/summon_0422_compose_like_frontend_framework/)
+- [Stos - A Kotlin Multiplatform App for Browsing Issues](https://www.reddit.com/r/Kotlin/comments/1oofs4l/stos_a_kotlin_multiplatform_app_for_browsing/)
+- [📖 Blog post: Kotlin is earning trust in financial systems.](https://www.reddit.com/r/Kotlin/comments/1ood0wr/blog_post_kotlin_is_earning_trust_in_financial/)
+- [🎉 DevAnalyzer v1.0.0 Released! - Cross-platform desktop app Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1oo9zpa/devanalyzer_v100_released_crossplatform_desktop/)
+- [Basics of kotlin multiplatform](https://www.reddit.com/r/Kotlin/comments/1oo5337/basics_of_kotlin_multiplatform/)
+- [How Java teams bring Kotlin to production](https://www.reddit.com/r/Kotlin/comments/1oo4o0j/how_java_teams_bring_kotlin_to_production/)
+- [Bro This is the Overall error, what I do??](https://www.reddit.com/r/Kotlin/comments/1onz3uv/bro_this_is_the_overall_error_what_i_do/)
 - [Sometimes having a GPU programming perspective produces optimized code](https://www.reddit.com/r/Kotlin/comments/1onskc8/sometimes_having_a_gpu_programming_perspective/)
 - [Am i overdoing extension functions?](https://www.reddit.com/r/Kotlin/comments/1onp2na/am_i_overdoing_extension_functions/)
-- [https://c-fraser.github.io/graph-guard/](https://www.reddit.com/r/Kotlin/comments/1onf8bq/httpscfrasergithubiographguard/)
-- [PROBLEM 🥲:I GOT THIS PROBLEM IN GRADLE IN DAEMON SO I WANNA SOLUTION FOR THIS, ANYONE KOTLIN APP DEVELOPING I EXPERIENCE ANDROID, PLEASE REPLY THIS POST!!!](https://www.reddit.com/r/Kotlin/comments/1ond4wp/problem_i_got_this_problem_in_gradle_in_daemon_so/)
-- [ImagePickerKMP now supports Bytes, Base64, Painter &amp; Bitmap!](https://www.reddit.com/r/Kotlin/comments/1on0nr0/imagepickerkmp_now_supports_bytes_base64_painter/)
-- [Umm... based?](https://www.reddit.com/r/Kotlin/comments/1omrzav/umm_based/)
-- [Examples of iOS Compose Multiplatform apps?](https://www.reddit.com/r/Kotlin/comments/1omo4ix/examples_of_ios_compose_multiplatform_apps/)
-- [What do you like about Kotlin more than Java?](https://www.reddit.com/r/Kotlin/comments/1olqh4w/what_do_you_like_about_kotlin_more_than_java/)
-- [M3 Expressive CircularWavyProgressIndicator not working with compose multiplatform](https://www.reddit.com/r/Kotlin/comments/1olpnq6/m3_expressive_circularwavyprogressindicator_not/)
-- [Am I stupid or is Android studio not letting me start projects in java anymore?](https://www.reddit.com/r/Kotlin/comments/1olkczc/am_i_stupid_or_is_android_studio_not_letting_me/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
