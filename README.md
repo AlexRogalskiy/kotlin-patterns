@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I kinda needed Package Private in Kotlin](https://www.reddit.com/r/Kotlin/comments/1opgw5u/i_kinda_needed_package_private_in_kotlin/)
+- [How mature is the Compose Multiplatform ecosystem for web development in 2025?](https://www.reddit.com/r/Kotlin/comments/1opdyp4/how_mature_is_the_compose_multiplatform_ecosystem/)
+- [kmp + ktor multi-module architecture](https://www.reddit.com/r/Kotlin/comments/1opafk2/kmp_ktor_multimodule_architecture/)
+- [Migrating from Electron.js &lpar;macOS + Windows&rpar; to Kotlin Multiplatform — looking for best practices &amp; AI-assisted workflow](https://www.reddit.com/r/Kotlin/comments/1op61ht/migrating_from_electronjs_macos_windows_to_kotlin/)
+- [Bad Practice or not ? Confused](https://www.reddit.com/r/Kotlin/comments/1op2g2w/bad_practice_or_not_confused/)
+- [NiceToast – a lightweight Android Toast library with support for both legacy Views and Jetpack Compose 🍞](https://www.reddit.com/r/Kotlin/comments/1ooxg1n/nicetoast_a_lightweight_android_toast_library/)
+- [How should I start learning Kotlin &lpar;coming from Python + Django background&rpar;?](https://www.reddit.com/r/Kotlin/comments/1oougud/how_should_i_start_learning_kotlin_coming_from/)
 - [Best search terms for Kotlin jobs](https://www.reddit.com/r/Kotlin/comments/1oopm7z/best_search_terms_for_kotlin_jobs/)
 - [Summon 0.4.2.2 - Compose like frontend framework](https://www.reddit.com/r/Kotlin/comments/1oogz0o/summon_0422_compose_like_frontend_framework/)
 - [Stos - A Kotlin Multiplatform App for Browsing Issues](https://www.reddit.com/r/Kotlin/comments/1oofs4l/stos_a_kotlin_multiplatform_app_for_browsing/)
-- [📖 Blog post: Kotlin is earning trust in financial systems.](https://www.reddit.com/r/Kotlin/comments/1ood0wr/blog_post_kotlin_is_earning_trust_in_financial/)
-- [🎉 DevAnalyzer v1.0.0 Released! - Cross-platform desktop app Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1oo9zpa/devanalyzer_v100_released_crossplatform_desktop/)
-- [Basics of kotlin multiplatform](https://www.reddit.com/r/Kotlin/comments/1oo5337/basics_of_kotlin_multiplatform/)
-- [How Java teams bring Kotlin to production](https://www.reddit.com/r/Kotlin/comments/1oo4o0j/how_java_teams_bring_kotlin_to_production/)
-- [Bro This is the Overall error, what I do??](https://www.reddit.com/r/Kotlin/comments/1onz3uv/bro_this_is_the_overall_error_what_i_do/)
-- [Sometimes having a GPU programming perspective produces optimized code](https://www.reddit.com/r/Kotlin/comments/1onskc8/sometimes_having_a_gpu_programming_perspective/)
-- [Am i overdoing extension functions?](https://www.reddit.com/r/Kotlin/comments/1onp2na/am_i_overdoing_extension_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
