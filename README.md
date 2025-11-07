@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hello I am a Full Stack Developer in my early 20s and I am looking to expand and connect with felow developers](https://www.reddit.com/r/Kotlin/comments/1oq9wta/hello_i_am_a_full_stack_developer_in_my_early_20s/)
+- [How did you get 20 testers to test your app?](https://www.reddit.com/r/Kotlin/comments/1oq0sxi/how_did_you_get_20_testers_to_test_your_app/)
+- [Have you migrated from Java to Kotlin and kept using MyBatis?](https://www.reddit.com/r/Kotlin/comments/1opxx1p/have_you_migrated_from_java_to_kotlin_and_kept/)
+- [How developers help their teams move to Kotlin](https://www.reddit.com/r/Kotlin/comments/1opvvmi/how_developers_help_their_teams_move_to_kotlin/)
+- [📢 The Ktor Annual Survey is live! We’d love your feedback.](https://www.reddit.com/r/Kotlin/comments/1opug1v/the_ktor_annual_survey_is_live_wed_love_your/)
 - [I kinda needed Package Private in Kotlin](https://www.reddit.com/r/Kotlin/comments/1opgw5u/i_kinda_needed_package_private_in_kotlin/)
 - [How mature is the Compose Multiplatform ecosystem for web development in 2025?](https://www.reddit.com/r/Kotlin/comments/1opdyp4/how_mature_is_the_compose_multiplatform_ecosystem/)
 - [kmp + ktor multi-module architecture](https://www.reddit.com/r/Kotlin/comments/1opafk2/kmp_ktor_multimodule_architecture/)
 - [Migrating from Electron.js &lpar;macOS + Windows&rpar; to Kotlin Multiplatform — looking for best practices &amp; AI-assisted workflow](https://www.reddit.com/r/Kotlin/comments/1op61ht/migrating_from_electronjs_macos_windows_to_kotlin/)
 - [Bad Practice or not ? Confused](https://www.reddit.com/r/Kotlin/comments/1op2g2w/bad_practice_or_not_confused/)
-- [NiceToast – a lightweight Android Toast library with support for both legacy Views and Jetpack Compose 🍞](https://www.reddit.com/r/Kotlin/comments/1ooxg1n/nicetoast_a_lightweight_android_toast_library/)
-- [How should I start learning Kotlin &lpar;coming from Python + Django background&rpar;?](https://www.reddit.com/r/Kotlin/comments/1oougud/how_should_i_start_learning_kotlin_coming_from/)
-- [Best search terms for Kotlin jobs](https://www.reddit.com/r/Kotlin/comments/1oopm7z/best_search_terms_for_kotlin_jobs/)
-- [Summon 0.4.2.2 - Compose like frontend framework](https://www.reddit.com/r/Kotlin/comments/1oogz0o/summon_0422_compose_like_frontend_framework/)
-- [Stos - A Kotlin Multiplatform App for Browsing Issues](https://www.reddit.com/r/Kotlin/comments/1oofs4l/stos_a_kotlin_multiplatform_app_for_browsing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
