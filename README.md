@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hello I am a Full Stack Developer in my early 20s and I am looking to expand and connect with felow developers](https://www.reddit.com/r/Kotlin/comments/1oq9wta/hello_i_am_a_full_stack_developer_in_my_early_20s/)
-- [How did you get 20 testers to test your app?](https://www.reddit.com/r/Kotlin/comments/1oq0sxi/how_did_you_get_20_testers_to_test_your_app/)
-- [Have you migrated from Java to Kotlin and kept using MyBatis?](https://www.reddit.com/r/Kotlin/comments/1opxx1p/have_you_migrated_from_java_to_kotlin_and_kept/)
-- [How developers help their teams move to Kotlin](https://www.reddit.com/r/Kotlin/comments/1opvvmi/how_developers_help_their_teams_move_to_kotlin/)
-- [📢 The Ktor Annual Survey is live! We’d love your feedback.](https://www.reddit.com/r/Kotlin/comments/1opug1v/the_ktor_annual_survey_is_live_wed_love_your/)
-- [I kinda needed Package Private in Kotlin](https://www.reddit.com/r/Kotlin/comments/1opgw5u/i_kinda_needed_package_private_in_kotlin/)
-- [How mature is the Compose Multiplatform ecosystem for web development in 2025?](https://www.reddit.com/r/Kotlin/comments/1opdyp4/how_mature_is_the_compose_multiplatform_ecosystem/)
-- [kmp + ktor multi-module architecture](https://www.reddit.com/r/Kotlin/comments/1opafk2/kmp_ktor_multimodule_architecture/)
-- [Migrating from Electron.js &lpar;macOS + Windows&rpar; to Kotlin Multiplatform — looking for best practices &amp; AI-assisted workflow](https://www.reddit.com/r/Kotlin/comments/1op61ht/migrating_from_electronjs_macos_windows_to_kotlin/)
-- [Bad Practice or not ? Confused](https://www.reddit.com/r/Kotlin/comments/1op2g2w/bad_practice_or_not_confused/)
+- [Ever wondered what really happens when you call setContent {} in Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/1os7ael/ever_wondered_what_really_happens_when_you_call/)
+- [ㅁㄴㅇ](https://www.reddit.com/r/Kotlin/comments/1os6i4z/ㅁㄴㅇ/)
+- [Got published my app in playstore](https://www.reddit.com/r/Kotlin/comments/1ortabl/got_published_my_app_in_playstore/)
+- [From Laravel To Ktor](https://www.reddit.com/r/Kotlin/comments/1orqzya/from_laravel_to_ktor/)
+- [kotlinx.datetime: Localized DayOfWeek and Month names](https://www.reddit.com/r/Kotlin/comments/1orjaz3/kotlinxdatetime_localized_dayofweek_and_month/)
+- [Kotlin in VSCode - Is it possível?](https://www.reddit.com/r/Kotlin/comments/1oraafk/kotlin_in_vscode_is_it_possível/)
+- [Can anyone teach me kotlin?](https://www.reddit.com/r/Kotlin/comments/1or9o6w/can_anyone_teach_me_kotlin/)
+- [Introducing Codanna – semantic code exploration with fresh Kotlin support](https://www.reddit.com/r/Kotlin/comments/1oqypwr/introducing_codanna_semantic_code_exploration/)
+- [scanforge pdf scanner android app video](https://www.reddit.com/r/Kotlin/comments/1oqyaip/scanforge_pdf_scanner_android_app_video/)
+- [Layout app android](https://www.reddit.com/r/Kotlin/comments/1oqvb2h/layout_app_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
