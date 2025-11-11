@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ever wondered what really happens when you call setContent {} in Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/1os7ael/ever_wondered_what_really_happens_when_you_call/)
-- [ㅁㄴㅇ](https://www.reddit.com/r/Kotlin/comments/1os6i4z/ㅁㄴㅇ/)
-- [Got published my app in playstore](https://www.reddit.com/r/Kotlin/comments/1ortabl/got_published_my_app_in_playstore/)
-- [From Laravel To Ktor](https://www.reddit.com/r/Kotlin/comments/1orqzya/from_laravel_to_ktor/)
-- [kotlinx.datetime: Localized DayOfWeek and Month names](https://www.reddit.com/r/Kotlin/comments/1orjaz3/kotlinxdatetime_localized_dayofweek_and_month/)
-- [Kotlin in VSCode - Is it possível?](https://www.reddit.com/r/Kotlin/comments/1oraafk/kotlin_in_vscode_is_it_possível/)
-- [Can anyone teach me kotlin?](https://www.reddit.com/r/Kotlin/comments/1or9o6w/can_anyone_teach_me_kotlin/)
-- [Introducing Codanna – semantic code exploration with fresh Kotlin support](https://www.reddit.com/r/Kotlin/comments/1oqypwr/introducing_codanna_semantic_code_exploration/)
-- [scanforge pdf scanner android app video](https://www.reddit.com/r/Kotlin/comments/1oqyaip/scanforge_pdf_scanner_android_app_video/)
-- [Layout app android](https://www.reddit.com/r/Kotlin/comments/1oqvb2h/layout_app_android/)
+- [Open source encryption for Android](https://www.reddit.com/r/Kotlin/comments/1ottrm1/open_source_encryption_for_android/)
+- [📖 Blog post. From Python to Kotlin: A Transition Worth Making](https://www.reddit.com/r/Kotlin/comments/1otlg7f/blog_post_from_python_to_kotlin_a_transition/)
+- [toon4s: Token-Oriented Object Notation for JVM](https://www.reddit.com/r/Kotlin/comments/1otlf9h/toon4s_tokenoriented_object_notation_for_jvm/)
+- [JobRunr v8.2.1 Released: Full Kotlin 2.2.20 Support &lpar;Fixes JobMethodNotFoundException&rpar; &amp; New Pro Dashboards](https://www.reddit.com/r/Kotlin/comments/1otjm0e/jobrunr_v821_released_full_kotlin_2220_support/)
+- [⏳ There are just three weeks left to submit your talk for KotlinConf’26](https://www.reddit.com/r/Kotlin/comments/1ote3qf/there_are_just_three_weeks_left_to_submit_your/)
+- [We built a 4-week learning path for Android devs to master Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1ota7c0/we_built_a_4week_learning_path_for_android_devs/)
+- [I&#39;ve recently published VocaLearn - An educational game for toddlers, to learn basic words in a fun way](https://www.reddit.com/r/Kotlin/comments/1osnifu/ive_recently_published_vocalearn_an_educational/)
+- [Command Completion and other Refactoring News](https://www.reddit.com/r/Kotlin/comments/1osirog/command_completion_and_other_refactoring_news/)
+- [How do you organize manual dependency injection in Kotlin so it scales without becoming a mess?](https://www.reddit.com/r/Kotlin/comments/1osh5pp/how_do_you_organize_manual_dependency_injection/)
+- [Thoughts about Junie](https://www.reddit.com/r/Kotlin/comments/1os8hby/thoughts_about_junie/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
