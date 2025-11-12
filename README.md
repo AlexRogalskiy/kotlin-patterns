@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing KANSI - A Simple Console Text Colorizer](https://www.reddit.com/r/Kotlin/comments/1oumwk4/introducing_kansi_a_simple_console_text_colorizer/)
+- [MockK: Under the cover](https://www.reddit.com/r/Kotlin/comments/1oucv9j/mockk_under_the_cover/)
+- [Kotlin Gymnastics - How do I get better at Kotlin](https://www.reddit.com/r/Kotlin/comments/1oub21h/kotlin_gymnastics_how_do_i_get_better_at_kotlin/)
+- [FUCK-CODING](https://www.reddit.com/r/Kotlin/comments/1ouayup/fuckcoding/)
+- [Exposed 1.0.0 RC-3 is available](https://www.reddit.com/r/Kotlin/comments/1ou8bnk/exposed_100_rc3_is_available/)
+- [Anyone upgraded to Java 25 for their Kotlin Application yet?](https://www.reddit.com/r/Kotlin/comments/1ou2jl1/anyone_upgraded_to_java_25_for_their_kotlin/)
 - [Open source encryption for Android](https://www.reddit.com/r/Kotlin/comments/1ottrm1/open_source_encryption_for_android/)
 - [📖 Blog post. From Python to Kotlin: A Transition Worth Making](https://www.reddit.com/r/Kotlin/comments/1otlg7f/blog_post_from_python_to_kotlin_a_transition/)
 - [toon4s: Token-Oriented Object Notation for JVM](https://www.reddit.com/r/Kotlin/comments/1otlf9h/toon4s_tokenoriented_object_notation_for_jvm/)
 - [JobRunr v8.2.1 Released: Full Kotlin 2.2.20 Support &lpar;Fixes JobMethodNotFoundException&rpar; &amp; New Pro Dashboards](https://www.reddit.com/r/Kotlin/comments/1otjm0e/jobrunr_v821_released_full_kotlin_2220_support/)
-- [⏳ There are just three weeks left to submit your talk for KotlinConf’26](https://www.reddit.com/r/Kotlin/comments/1ote3qf/there_are_just_three_weeks_left_to_submit_your/)
-- [We built a 4-week learning path for Android devs to master Kotlin Multiplatform.](https://www.reddit.com/r/Kotlin/comments/1ota7c0/we_built_a_4week_learning_path_for_android_devs/)
-- [I&#39;ve recently published VocaLearn - An educational game for toddlers, to learn basic words in a fun way](https://www.reddit.com/r/Kotlin/comments/1osnifu/ive_recently_published_vocalearn_an_educational/)
-- [Command Completion and other Refactoring News](https://www.reddit.com/r/Kotlin/comments/1osirog/command_completion_and_other_refactoring_news/)
-- [How do you organize manual dependency injection in Kotlin so it scales without becoming a mess?](https://www.reddit.com/r/Kotlin/comments/1osh5pp/how_do_you_organize_manual_dependency_injection/)
-- [Thoughts about Junie](https://www.reddit.com/r/Kotlin/comments/1os8hby/thoughts_about_junie/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
