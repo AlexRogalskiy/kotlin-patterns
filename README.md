@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [📖 Blog post. Beyond prompts: Use domain models to rule AI agents instead](https://www.reddit.com/r/Kotlin/comments/1ov8an9/blog_post_beyond_prompts_use_domain_models_to/)
+- [first time using module in expo, Making a ppg&lpar;bpm calculator&rpar; application with react native expo + kotlin module, but getting too many errors&lpar;still getting errors after 2 weeks of decoding&rpar;](https://www.reddit.com/r/Kotlin/comments/1ov35r4/first_time_using_module_in_expo_making_a_ppgbpm/)
+- [Who enjoys using Spring Boot with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ouxm40/who_enjoys_using_spring_boot_with_kotlin/)
 - [Introducing KANSI - A Simple Console Text Colorizer](https://www.reddit.com/r/Kotlin/comments/1oumwk4/introducing_kansi_a_simple_console_text_colorizer/)
 - [MockK: Under the cover](https://www.reddit.com/r/Kotlin/comments/1oucv9j/mockk_under_the_cover/)
 - [Kotlin Gymnastics - How do I get better at Kotlin](https://www.reddit.com/r/Kotlin/comments/1oub21h/kotlin_gymnastics_how_do_i_get_better_at_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Exposed 1.0.0 RC-3 is available](https://www.reddit.com/r/Kotlin/comments/1ou8bnk/exposed_100_rc3_is_available/)
 - [Anyone upgraded to Java 25 for their Kotlin Application yet?](https://www.reddit.com/r/Kotlin/comments/1ou2jl1/anyone_upgraded_to_java_25_for_their_kotlin/)
 - [Open source encryption for Android](https://www.reddit.com/r/Kotlin/comments/1ottrm1/open_source_encryption_for_android/)
-- [📖 Blog post. From Python to Kotlin: A Transition Worth Making](https://www.reddit.com/r/Kotlin/comments/1otlg7f/blog_post_from_python_to_kotlin_a_transition/)
-- [toon4s: Token-Oriented Object Notation for JVM](https://www.reddit.com/r/Kotlin/comments/1otlf9h/toon4s_tokenoriented_object_notation_for_jvm/)
-- [JobRunr v8.2.1 Released: Full Kotlin 2.2.20 Support &lpar;Fixes JobMethodNotFoundException&rpar; &amp; New Pro Dashboards](https://www.reddit.com/r/Kotlin/comments/1otjm0e/jobrunr_v821_released_full_kotlin_2220_support/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
