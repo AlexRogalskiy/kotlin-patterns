@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What tool do you use to turn code into clean shareable images?](https://www.reddit.com/r/Kotlin/comments/1owjdlv/what_tool_do_you_use_to_turn_code_into_clean/)
+- [🚀 Built “Easy Teleprompter for Creators” — No Watermarks, Works Offline, Super Smooth. Try it! 😉](https://www.reddit.com/r/Kotlin/comments/1owcrl1/built_easy_teleprompter_for_creators_no/)
+- [Recover Kotlin coroutine traces with Decoroutinator](https://www.reddit.com/r/Kotlin/comments/1ow7zkc/recover_kotlin_coroutine_traces_with/)
+- [Kotlin+ retrofit](https://www.reddit.com/r/Kotlin/comments/1ow7s3v/kotlin_retrofit/)
+- [Ikokuko — Reactive, type-safe form validation for Compose Multiplatform &lpar;Android &amp; iOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1ovzhgk/ikokuko_reactive_typesafe_form_validation_for/)
+- [Best resource for learning Kotlin with springboot?](https://www.reddit.com/r/Kotlin/comments/1ovvfeh/best_resource_for_learning_kotlin_with_springboot/)
+- [Best Kotlin course for beginners to advanced?](https://www.reddit.com/r/Kotlin/comments/1ovtjso/best_kotlin_course_for_beginners_to_advanced/)
 - [📖 Blog post. Beyond prompts: Use domain models to rule AI agents instead](https://www.reddit.com/r/Kotlin/comments/1ov8an9/blog_post_beyond_prompts_use_domain_models_to/)
 - [first time using module in expo, Making a ppg&lpar;bpm calculator&rpar; application with react native expo + kotlin module, but getting too many errors&lpar;still getting errors after 2 weeks of decoding&rpar;](https://www.reddit.com/r/Kotlin/comments/1ov35r4/first_time_using_module_in_expo_making_a_ppgbpm/)
 - [Who enjoys using Spring Boot with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1ouxm40/who_enjoys_using_spring_boot_with_kotlin/)
-- [Introducing KANSI - A Simple Console Text Colorizer](https://www.reddit.com/r/Kotlin/comments/1oumwk4/introducing_kansi_a_simple_console_text_colorizer/)
-- [MockK: Under the cover](https://www.reddit.com/r/Kotlin/comments/1oucv9j/mockk_under_the_cover/)
-- [Kotlin Gymnastics - How do I get better at Kotlin](https://www.reddit.com/r/Kotlin/comments/1oub21h/kotlin_gymnastics_how_do_i_get_better_at_kotlin/)
-- [FUCK-CODING](https://www.reddit.com/r/Kotlin/comments/1ouayup/fuckcoding/)
-- [Exposed 1.0.0 RC-3 is available](https://www.reddit.com/r/Kotlin/comments/1ou8bnk/exposed_100_rc3_is_available/)
-- [Anyone upgraded to Java 25 for their Kotlin Application yet?](https://www.reddit.com/r/Kotlin/comments/1ou2jl1/anyone_upgraded_to_java_25_for_their_kotlin/)
-- [Open source encryption for Android](https://www.reddit.com/r/Kotlin/comments/1ottrm1/open_source_encryption_for_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
