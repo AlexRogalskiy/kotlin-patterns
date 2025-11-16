@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for high quality up to date Kotlin for android dev tutorial.](https://www.reddit.com/r/Kotlin/comments/1oy2q1f/looking_for_high_quality_up_to_date_kotlin_for/)
 - [Explicit in your face transaction boundaries for exposed and others.](https://www.reddit.com/r/Kotlin/comments/1oxaps9/explicit_in_your_face_transaction_boundaries_for/)
 - [Neo4j SDK with minimal cognitive load for an LLM](https://www.reddit.com/r/Kotlin/comments/1owyn92/neo4j_sdk_with_minimal_cognitive_load_for_an_llm/)
 - [⚡ The Kotlin Power-assert is now available for 🪶 Maven](https://www.reddit.com/r/Kotlin/comments/1owvo9n/the_kotlin_powerassert_is_now_available_for_maven/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What tool do you use to turn code into clean shareable images?](https://www.reddit.com/r/Kotlin/comments/1owjdlv/what_tool_do_you_use_to_turn_code_into_clean/)
 - [🚀 Built “Easy Teleprompter for Creators” — No Watermarks, Works Offline, Super Smooth. Try it! 😉](https://www.reddit.com/r/Kotlin/comments/1owcrl1/built_easy_teleprompter_for_creators_no/)
 - [Recover Kotlin coroutine traces with Decoroutinator](https://www.reddit.com/r/Kotlin/comments/1ow7zkc/recover_kotlin_coroutine_traces_with/)
-- [Kotlin+ retrofit](https://www.reddit.com/r/Kotlin/comments/1ow7s3v/kotlin_retrofit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
