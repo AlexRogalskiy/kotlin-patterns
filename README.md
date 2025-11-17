@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I got tired of js frameworks… so I wrote my own in Kotlin](https://www.reddit.com/r/Kotlin/comments/1oyt9fz/i_got_tired_of_js_frameworks_so_i_wrote_my_own_in/)
 - [Looking for high quality up to date Kotlin for android dev tutorial.](https://www.reddit.com/r/Kotlin/comments/1oy2q1f/looking_for_high_quality_up_to_date_kotlin_for/)
 - [Explicit in your face transaction boundaries for exposed and others.](https://www.reddit.com/r/Kotlin/comments/1oxaps9/explicit_in_your_face_transaction_boundaries_for/)
 - [Neo4j SDK with minimal cognitive load for an LLM](https://www.reddit.com/r/Kotlin/comments/1owyn92/neo4j_sdk_with_minimal_cognitive_load_for_an_llm/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What other jobs except backend web dev and android dev I can get after learning kotlin ?](https://www.reddit.com/r/Kotlin/comments/1owojz3/what_other_jobs_except_backend_web_dev_and/)
 - [What tool do you use to turn code into clean shareable images?](https://www.reddit.com/r/Kotlin/comments/1owjdlv/what_tool_do_you_use_to_turn_code_into_clean/)
 - [🚀 Built “Easy Teleprompter for Creators” — No Watermarks, Works Offline, Super Smooth. Try it! 😉](https://www.reddit.com/r/Kotlin/comments/1owcrl1/built_easy_teleprompter_for_creators_no/)
-- [Recover Kotlin coroutine traces with Decoroutinator](https://www.reddit.com/r/Kotlin/comments/1ow7zkc/recover_kotlin_coroutine_traces_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
