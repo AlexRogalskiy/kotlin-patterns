@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Device specs](https://www.reddit.com/r/Kotlin/comments/1p2ebhn/device_specs/)
+- [Koin IDE Plugin 1.5.1 Released: Koin Annotations 2.2 and JSR-330 Support](https://www.reddit.com/r/Kotlin/comments/1p26gpe/koin_ide_plugin_151_released_koin_annotations_22/)
+- [🚀 Kotools Types 5.1.1 is available!](https://www.reddit.com/r/Kotlin/comments/1p21049/kotools_types_511_is_available/)
+- [Fixing Dataflow issues](https://www.reddit.com/r/Kotlin/comments/1p1v98c/fixing_dataflow_issues/)
 - [Joy of Kotlin: on-local returns for refactoring duplicate code with early exits!](https://www.reddit.com/r/Kotlin/comments/1p1p5uv/joy_of_kotlin_onlocal_returns_for_refactoring/)
 - [Just released SimShock: A realistic Medical Simulator built with Kotlin Multiplatform &lpar;Android &amp; Windows&rpar; - 100% Free](https://www.reddit.com/r/Kotlin/comments/1p1n33d/just_released_simshock_a_realistic_medical/)
 - [In this code the problem is when i move to list mode and scroll down the images start to disappear suddenly what the reason anyone can help me with that](https://www.reddit.com/r/Kotlin/comments/1p1cuuv/in_this_code_the_problem_is_when_i_move_to_list/)
 - [In this code the problem is when i move to list mode and scroll down the images start to disappear suddenly what the reason anyone can help me with that](https://www.reddit.com/r/Kotlin/comments/1p1cuc9/in_this_code_the_problem_is_when_i_move_to_list/)
 - [⏳ The Kotlin Multiplatform survey is closing soon](https://www.reddit.com/r/Kotlin/comments/1p122xt/the_kotlin_multiplatform_survey_is_closing_soon/)
 - [Built a blockchain voting system with Compose Multiplatform - Votum | Public voting is open, would appreciate your support!](https://www.reddit.com/r/Kotlin/comments/1p0udvs/built_a_blockchain_voting_system_with_compose/)
-- [Jetpack Compose Modifiers - The Complete 2025 Breakdown [Tips &amp; Tricks]](https://www.reddit.com/r/Kotlin/comments/1p0mcjq/jetpack_compose_modifiers_the_complete_2025/)
-- [What kind of work do people actually do with .NET? Is it possible to have a dynamic job like in Android/Kotlin?](https://www.reddit.com/r/Kotlin/comments/1p0gjul/what_kind_of_work_do_people_actually_do_with_net/)
-- [Inject Koin dependencies in Swift](https://www.reddit.com/r/Kotlin/comments/1p0fhna/inject_koin_dependencies_in_swift/)
-- [Kotlin or Groovy for spring boot web app](https://www.reddit.com/r/Kotlin/comments/1p0cuq4/kotlin_or_groovy_for_spring_boot_web_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
