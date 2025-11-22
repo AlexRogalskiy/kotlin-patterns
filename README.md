@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Weak References in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1p38kig/weak_references_in_kotlin_multiplatform/)
+- [Kotlin as first programming language](https://www.reddit.com/r/Kotlin/comments/1p37lzt/kotlin_as_first_programming_language/)
+- [Help us improve the Kotlin documentation! 💬](https://www.reddit.com/r/Kotlin/comments/1p2swno/help_us_improve_the_kotlin_documentation/)
+- [Spring Boot 4: Leaner, Safer Apps and a New Kotlin Baseline](https://www.reddit.com/r/Kotlin/comments/1p2rdd6/spring_boot_4_leaner_safer_apps_and_a_new_kotlin/)
+- [Spring Boot 4.0 released](https://www.reddit.com/r/Kotlin/comments/1p2pq4s/spring_boot_40_released/)
 - [Device specs](https://www.reddit.com/r/Kotlin/comments/1p2ebhn/device_specs/)
 - [Koin IDE Plugin 1.5.1 Released: Koin Annotations 2.2 and JSR-330 Support](https://www.reddit.com/r/Kotlin/comments/1p26gpe/koin_ide_plugin_151_released_koin_annotations_22/)
 - [🚀 Kotools Types 5.1.1 is available!](https://www.reddit.com/r/Kotlin/comments/1p21049/kotools_types_511_is_available/)
 - [Fixing Dataflow issues](https://www.reddit.com/r/Kotlin/comments/1p1v98c/fixing_dataflow_issues/)
 - [Joy of Kotlin: on-local returns for refactoring duplicate code with early exits!](https://www.reddit.com/r/Kotlin/comments/1p1p5uv/joy_of_kotlin_onlocal_returns_for_refactoring/)
-- [Just released SimShock: A realistic Medical Simulator built with Kotlin Multiplatform &lpar;Android &amp; Windows&rpar; - 100% Free](https://www.reddit.com/r/Kotlin/comments/1p1n33d/just_released_simshock_a_realistic_medical/)
-- [In this code the problem is when i move to list mode and scroll down the images start to disappear suddenly what the reason anyone can help me with that](https://www.reddit.com/r/Kotlin/comments/1p1cuuv/in_this_code_the_problem_is_when_i_move_to_list/)
-- [In this code the problem is when i move to list mode and scroll down the images start to disappear suddenly what the reason anyone can help me with that](https://www.reddit.com/r/Kotlin/comments/1p1cuc9/in_this_code_the_problem_is_when_i_move_to_list/)
-- [⏳ The Kotlin Multiplatform survey is closing soon](https://www.reddit.com/r/Kotlin/comments/1p122xt/the_kotlin_multiplatform_survey_is_closing_soon/)
-- [Built a blockchain voting system with Compose Multiplatform - Votum | Public voting is open, would appreciate your support!](https://www.reddit.com/r/Kotlin/comments/1p0udvs/built_a_blockchain_voting_system_with_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
