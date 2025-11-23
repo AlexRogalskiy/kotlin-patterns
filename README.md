@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ComposeToPdf - A pure Kotlin &lpar;Compose&rpar; to generate PDFs without XML/HTML](https://www.reddit.com/r/Kotlin/comments/1p3ycy5/composetopdf_a_pure_kotlin_compose_to_generate/)
+- [Is Pluralsight a good platform to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/1p3vxvu/is_pluralsight_a_good_platform_to_learn_kotlin/)
+- [Is it possible to build multiple apps &lpar;Admin + Client + POS&rpar; in one Compose Multiplatform project with separate Android + iOS apps?](https://www.reddit.com/r/Kotlin/comments/1p3l02y/is_it_possible_to_build_multiple_apps_admin/)
 - [Weak References in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1p38kig/weak_references_in_kotlin_multiplatform/)
 - [Kotlin as first programming language](https://www.reddit.com/r/Kotlin/comments/1p37lzt/kotlin_as_first_programming_language/)
 - [Help us improve the Kotlin documentation! 💬](https://www.reddit.com/r/Kotlin/comments/1p2swno/help_us_improve_the_kotlin_documentation/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Spring Boot 4.0 released](https://www.reddit.com/r/Kotlin/comments/1p2pq4s/spring_boot_40_released/)
 - [Device specs](https://www.reddit.com/r/Kotlin/comments/1p2ebhn/device_specs/)
 - [Koin IDE Plugin 1.5.1 Released: Koin Annotations 2.2 and JSR-330 Support](https://www.reddit.com/r/Kotlin/comments/1p26gpe/koin_ide_plugin_151_released_koin_annotations_22/)
-- [🚀 Kotools Types 5.1.1 is available!](https://www.reddit.com/r/Kotlin/comments/1p21049/kotools_types_511_is_available/)
-- [Fixing Dataflow issues](https://www.reddit.com/r/Kotlin/comments/1p1v98c/fixing_dataflow_issues/)
-- [Joy of Kotlin: on-local returns for refactoring duplicate code with early exits!](https://www.reddit.com/r/Kotlin/comments/1p1p5uv/joy_of_kotlin_onlocal_returns_for_refactoring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
