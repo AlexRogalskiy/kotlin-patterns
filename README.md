@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This is what happens when I’m to busy to rehearse - Saved by the Tests - Meal Deals in the Checkout Kata](https://www.reddit.com/r/Kotlin/comments/1p4zyfx/this_is_what_happens_when_im_to_busy_to_rehearse/)
+- [PHP as Kotlin Backend](https://www.reddit.com/r/Kotlin/comments/1p4uz1b/php_as_kotlin_backend/)
 - [ComposeToPdf - A pure Kotlin &lpar;Compose&rpar; to generate PDFs without XML/HTML](https://www.reddit.com/r/Kotlin/comments/1p3ycy5/composetopdf_a_pure_kotlin_compose_to_generate/)
 - [Is Pluralsight a good platform to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/1p3vxvu/is_pluralsight_a_good_platform_to_learn_kotlin/)
 - [Is it possible to build multiple apps &lpar;Admin + Client + POS&rpar; in one Compose Multiplatform project with separate Android + iOS apps?](https://www.reddit.com/r/Kotlin/comments/1p3l02y/is_it_possible_to_build_multiple_apps_admin/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Help us improve the Kotlin documentation! 💬](https://www.reddit.com/r/Kotlin/comments/1p2swno/help_us_improve_the_kotlin_documentation/)
 - [Spring Boot 4: Leaner, Safer Apps and a New Kotlin Baseline](https://www.reddit.com/r/Kotlin/comments/1p2rdd6/spring_boot_4_leaner_safer_apps_and_a_new_kotlin/)
 - [Spring Boot 4.0 released](https://www.reddit.com/r/Kotlin/comments/1p2pq4s/spring_boot_40_released/)
-- [Device specs](https://www.reddit.com/r/Kotlin/comments/1p2ebhn/device_specs/)
-- [Koin IDE Plugin 1.5.1 Released: Koin Annotations 2.2 and JSR-330 Support](https://www.reddit.com/r/Kotlin/comments/1p26gpe/koin_ide_plugin_151_released_koin_annotations_22/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
