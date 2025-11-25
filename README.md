@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [This is what happens when I’m to busy to rehearse - Saved by the Tests - Meal Deals in the Checkout Kata](https://www.reddit.com/r/Kotlin/comments/1p4zyfx/this_is_what_happens_when_im_to_busy_to_rehearse/)
-- [PHP as Kotlin Backend](https://www.reddit.com/r/Kotlin/comments/1p4uz1b/php_as_kotlin_backend/)
-- [ComposeToPdf - A pure Kotlin &lpar;Compose&rpar; to generate PDFs without XML/HTML](https://www.reddit.com/r/Kotlin/comments/1p3ycy5/composetopdf_a_pure_kotlin_compose_to_generate/)
-- [Is Pluralsight a good platform to learn Kotlin?](https://www.reddit.com/r/Kotlin/comments/1p3vxvu/is_pluralsight_a_good_platform_to_learn_kotlin/)
-- [Is it possible to build multiple apps &lpar;Admin + Client + POS&rpar; in one Compose Multiplatform project with separate Android + iOS apps?](https://www.reddit.com/r/Kotlin/comments/1p3l02y/is_it_possible_to_build_multiple_apps_admin/)
-- [Weak References in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1p38kig/weak_references_in_kotlin_multiplatform/)
-- [Kotlin as first programming language](https://www.reddit.com/r/Kotlin/comments/1p37lzt/kotlin_as_first_programming_language/)
-- [Help us improve the Kotlin documentation! 💬](https://www.reddit.com/r/Kotlin/comments/1p2swno/help_us_improve_the_kotlin_documentation/)
-- [Spring Boot 4: Leaner, Safer Apps and a New Kotlin Baseline](https://www.reddit.com/r/Kotlin/comments/1p2rdd6/spring_boot_4_leaner_safer_apps_and_a_new_kotlin/)
-- [Spring Boot 4.0 released](https://www.reddit.com/r/Kotlin/comments/1p2pq4s/spring_boot_40_released/)
+- [Kotlin and SAP usage?](https://www.reddit.com/r/Kotlin/comments/1p5y3mm/kotlin_and_sap_usage/)
+- [I compared 17 Kotlin MVI libraries across 103 criteria - here are THE BEST 4](https://www.reddit.com/r/Kotlin/comments/1p5ufd6/i_compared_17_kotlin_mvi_libraries_across_103/)
+- [Interactive learning website for Kotlin](https://www.reddit.com/r/Kotlin/comments/1p5tox0/interactive_learning_website_for_kotlin/)
+- [The Ultimate KMP Watchlist + Free Compose Multiplatform Crash Course + Career Webinar &lpar;KMP Level Up Update&rpar;](https://www.reddit.com/r/Kotlin/comments/1p5rkbh/the_ultimate_kmp_watchlist_free_compose/)
+- [A blog on how we made our app Indilingo 100% crash free](https://www.reddit.com/r/Kotlin/comments/1p5pb7d/a_blog_on_how_we_made_our_app_indilingo_100_crash/)
+- [[Showcase] I built a customizable TV Guide/EPG library with Compose Multiplatform &lpar;Android, Desktop, iOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1p5m4m7/showcase_i_built_a_customizable_tv_guideepg/)
+- [KDoc not working for fields/properties - Only works for types](https://www.reddit.com/r/Kotlin/comments/1p5m10h/kdoc_not_working_for_fieldsproperties_only_works/)
+- [Video: Preventing Race Conditions in Coroutines](https://www.reddit.com/r/Kotlin/comments/1p5k02k/video_preventing_race_conditions_in_coroutines/)
+- [The KotlinConf 2026 Call for Speakers is wrapping up soon!](https://www.reddit.com/r/Kotlin/comments/1p5i88x/the_kotlinconf_2026_call_for_speakers_is_wrapping/)
+- [What exactly is an annotation?](https://www.reddit.com/r/Kotlin/comments/1p5gupu/what_exactly_is_an_annotation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
