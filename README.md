@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [white screen on my app when implemented supabase](https://www.reddit.com/r/Kotlin/comments/1p6jgii/white_screen_on_my_app_when_implemented_supabase/)
+- [New to Kotlin? Join our onboarding study](https://www.reddit.com/r/Kotlin/comments/1p6h4jy/new_to_kotlin_join_our_onboarding_study/)
+- [PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export](https://www.reddit.com/r/Kotlin/comments/1p69hof/passvault_v080beta_open_source_password_manager/)
+- [How does the val keyword actually work?](https://www.reddit.com/r/Kotlin/comments/1p67u6z/how_does_the_val_keyword_actually_work/)
+- [Compose Multiplatform for web use cases](https://www.reddit.com/r/Kotlin/comments/1p67r85/compose_multiplatform_for_web_use_cases/)
 - [Kotlin and SAP usage?](https://www.reddit.com/r/Kotlin/comments/1p5y3mm/kotlin_and_sap_usage/)
 - [I compared 17 Kotlin MVI libraries across 103 criteria - here are THE BEST 4](https://www.reddit.com/r/Kotlin/comments/1p5ufd6/i_compared_17_kotlin_mvi_libraries_across_103/)
 - [Interactive learning website for Kotlin](https://www.reddit.com/r/Kotlin/comments/1p5tox0/interactive_learning_website_for_kotlin/)
 - [The Ultimate KMP Watchlist + Free Compose Multiplatform Crash Course + Career Webinar &lpar;KMP Level Up Update&rpar;](https://www.reddit.com/r/Kotlin/comments/1p5rkbh/the_ultimate_kmp_watchlist_free_compose/)
-- [A blog on how we made our app Indilingo 100% crash free](https://www.reddit.com/r/Kotlin/comments/1p5pb7d/a_blog_on_how_we_made_our_app_indilingo_100_crash/)
 - [[Showcase] I built a customizable TV Guide/EPG library with Compose Multiplatform &lpar;Android, Desktop, iOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1p5m4m7/showcase_i_built_a_customizable_tv_guideepg/)
-- [KDoc not working for fields/properties - Only works for types](https://www.reddit.com/r/Kotlin/comments/1p5m10h/kdoc_not_working_for_fieldsproperties_only_works/)
-- [Video: Preventing Race Conditions in Coroutines](https://www.reddit.com/r/Kotlin/comments/1p5k02k/video_preventing_race_conditions_in_coroutines/)
-- [The KotlinConf 2026 Call for Speakers is wrapping up soon!](https://www.reddit.com/r/Kotlin/comments/1p5i88x/the_kotlinconf_2026_call_for_speakers_is_wrapping/)
-- [What exactly is an annotation?](https://www.reddit.com/r/Kotlin/comments/1p5gupu/what_exactly_is_an_annotation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
