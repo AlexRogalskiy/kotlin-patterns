@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fitness App Backend &amp; Architecture Plan](https://www.reddit.com/r/Kotlin/comments/1p7h8c3/fitness_app_backend_architecture_plan/)
+- [AocKt v0.3.0 Released &lpar;Library for Advent of Code in Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1p76z57/aockt_v030_released_library_for_advent_of_code_in/)
+- [🖤 Black Friday, but make it Kotlin 💜](https://www.reddit.com/r/Kotlin/comments/1p748ks/black_friday_but_make_it_kotlin/)
+- [15 most-watched Kotlin conference talks of 2025 so far](https://www.reddit.com/r/Kotlin/comments/1p71246/15_mostwatched_kotlin_conference_talks_of_2025_so/)
 - [white screen on my app when implemented supabase](https://www.reddit.com/r/Kotlin/comments/1p6jgii/white_screen_on_my_app_when_implemented_supabase/)
 - [New to Kotlin? Join our onboarding study](https://www.reddit.com/r/Kotlin/comments/1p6h4jy/new_to_kotlin_join_our_onboarding_study/)
 - [PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export](https://www.reddit.com/r/Kotlin/comments/1p69hof/passvault_v080beta_open_source_password_manager/)
 - [How does the val keyword actually work?](https://www.reddit.com/r/Kotlin/comments/1p67u6z/how_does_the_val_keyword_actually_work/)
 - [Compose Multiplatform for web use cases](https://www.reddit.com/r/Kotlin/comments/1p67r85/compose_multiplatform_for_web_use_cases/)
 - [Kotlin and SAP usage?](https://www.reddit.com/r/Kotlin/comments/1p5y3mm/kotlin_and_sap_usage/)
-- [I compared 17 Kotlin MVI libraries across 103 criteria - here are THE BEST 4](https://www.reddit.com/r/Kotlin/comments/1p5ufd6/i_compared_17_kotlin_mvi_libraries_across_103/)
-- [Interactive learning website for Kotlin](https://www.reddit.com/r/Kotlin/comments/1p5tox0/interactive_learning_website_for_kotlin/)
-- [The Ultimate KMP Watchlist + Free Compose Multiplatform Crash Course + Career Webinar &lpar;KMP Level Up Update&rpar;](https://www.reddit.com/r/Kotlin/comments/1p5rkbh/the_ultimate_kmp_watchlist_free_compose/)
-- [[Showcase] I built a customizable TV Guide/EPG library with Compose Multiplatform &lpar;Android, Desktop, iOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1p5m4m7/showcase_i_built_a_customizable_tv_guideepg/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
