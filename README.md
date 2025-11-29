@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fitness App Backend &amp; Architecture Plan](https://www.reddit.com/r/Kotlin/comments/1p7h8c3/fitness_app_backend_architecture_plan/)
-- [AocKt v0.3.0 Released &lpar;Library for Advent of Code in Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1p76z57/aockt_v030_released_library_for_advent_of_code_in/)
-- [🖤 Black Friday, but make it Kotlin 💜](https://www.reddit.com/r/Kotlin/comments/1p748ks/black_friday_but_make_it_kotlin/)
-- [15 most-watched Kotlin conference talks of 2025 so far](https://www.reddit.com/r/Kotlin/comments/1p71246/15_mostwatched_kotlin_conference_talks_of_2025_so/)
-- [white screen on my app when implemented supabase](https://www.reddit.com/r/Kotlin/comments/1p6jgii/white_screen_on_my_app_when_implemented_supabase/)
-- [New to Kotlin? Join our onboarding study](https://www.reddit.com/r/Kotlin/comments/1p6h4jy/new_to_kotlin_join_our_onboarding_study/)
-- [PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export](https://www.reddit.com/r/Kotlin/comments/1p69hof/passvault_v080beta_open_source_password_manager/)
-- [How does the val keyword actually work?](https://www.reddit.com/r/Kotlin/comments/1p67u6z/how_does_the_val_keyword_actually_work/)
-- [Compose Multiplatform for web use cases](https://www.reddit.com/r/Kotlin/comments/1p67r85/compose_multiplatform_for_web_use_cases/)
-- [Kotlin and SAP usage?](https://www.reddit.com/r/Kotlin/comments/1p5y3mm/kotlin_and_sap_usage/)
+- [Advent of Code is almost here, and we’re in again this year! 🎄](https://www.reddit.com/r/Kotlin/comments/1p8zf3e/advent_of_code_is_almost_here_and_were_in_again/)
+- [Android vs. iOS number of jobs?](https://www.reddit.com/r/Kotlin/comments/1p8wmrf/android_vs_ios_number_of_jobs/)
+- [How thorough is IDEA&#39;s Kotlin refactoring support?](https://www.reddit.com/r/Kotlin/comments/1p8v9th/how_thorough_is_ideas_kotlin_refactoring_support/)
+- [Building AI agents in Kotlin – Part 2: How to teach your agent to run code](https://www.reddit.com/r/Kotlin/comments/1p8uvv4/building_ai_agents_in_kotlin_part_2_how_to_teach/)
+- [If a tool analyzed your GitHub activity to give you “human insights”, what would you actually want it to tell you?](https://www.reddit.com/r/Kotlin/comments/1p8ugd5/if_a_tool_analyzed_your_github_activity_to_give/)
+- [Kotlin/Wasm with Zalim Bashorov - Chrome for developers](https://www.reddit.com/r/Kotlin/comments/1p8rp9b/kotlinwasm_with_zalim_bashorov_chrome_for/)
+- [Amo Kotlin](https://www.reddit.com/r/Kotlin/comments/1p8otwj/amo_kotlin/)
+- [Building Multi-Direction Navigation Logic for Accessibility in React Native Kiosk App](https://www.reddit.com/r/Kotlin/comments/1p8ncf1/building_multidirection_navigation_logic_for/)
+- [WE ARE IN SHOCK!!!!](https://www.reddit.com/r/Kotlin/comments/1p8el30/we_are_in_shock/)
+- [What does your GitHub history say about your working style? I ran an experiment.](https://www.reddit.com/r/Kotlin/comments/1p87052/what_does_your_github_history_say_about_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
