@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [If else condition](https://www.reddit.com/r/Kotlin/comments/1pa4ent/if_else_condition/)
+- [Finger Shadows in Compose](https://www.reddit.com/r/Kotlin/comments/1pa37u3/finger_shadows_in_compose/)
+- [Spring JPA Specification Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1p9ygex/spring_jpa_specification_kotlin_dsl/)
+- [How I Self-Hosted a Ktor Kotlin Backend](https://www.reddit.com/r/Kotlin/comments/1p9nic1/how_i_selfhosted_a_ktor_kotlin_backend/)
+- [App](https://www.reddit.com/r/Kotlin/comments/1p9lew2/app/)
+- [⏰ The KotlinConf 2026 Call for Speakers is closing soon](https://www.reddit.com/r/Kotlin/comments/1p9l6tf/the_kotlinconf_2026_call_for_speakers_is_closing/)
+- [O que preciso saber de Kotlin antes de estudar Android?](https://www.reddit.com/r/Kotlin/comments/1p9hetb/o_que_preciso_saber_de_kotlin_antes_de_estudar/)
+- [Conditionals in Kotlin &lpar;syntax of if statement&rpar;](https://www.reddit.com/r/Kotlin/comments/1p9fu9a/conditionals_in_kotlin_syntax_of_if_statement/)
 - [Advent of Code is almost here, and we’re in again this year! 🎄](https://www.reddit.com/r/Kotlin/comments/1p8zf3e/advent_of_code_is_almost_here_and_were_in_again/)
 - [Android vs. iOS number of jobs?](https://www.reddit.com/r/Kotlin/comments/1p8wmrf/android_vs_ios_number_of_jobs/)
-- [How thorough is IDEA&#39;s Kotlin refactoring support?](https://www.reddit.com/r/Kotlin/comments/1p8v9th/how_thorough_is_ideas_kotlin_refactoring_support/)
-- [Building AI agents in Kotlin – Part 2: How to teach your agent to run code](https://www.reddit.com/r/Kotlin/comments/1p8uvv4/building_ai_agents_in_kotlin_part_2_how_to_teach/)
-- [If a tool analyzed your GitHub activity to give you “human insights”, what would you actually want it to tell you?](https://www.reddit.com/r/Kotlin/comments/1p8ugd5/if_a_tool_analyzed_your_github_activity_to_give/)
-- [Kotlin/Wasm with Zalim Bashorov - Chrome for developers](https://www.reddit.com/r/Kotlin/comments/1p8rp9b/kotlinwasm_with_zalim_bashorov_chrome_for/)
-- [Amo Kotlin](https://www.reddit.com/r/Kotlin/comments/1p8otwj/amo_kotlin/)
-- [Building Multi-Direction Navigation Logic for Accessibility in React Native Kiosk App](https://www.reddit.com/r/Kotlin/comments/1p8ncf1/building_multidirection_navigation_logic_for/)
-- [WE ARE IN SHOCK!!!!](https://www.reddit.com/r/Kotlin/comments/1p8el30/we_are_in_shock/)
-- [What does your GitHub history say about your working style? I ran an experiment.](https://www.reddit.com/r/Kotlin/comments/1p87052/what_does_your_github_history_say_about_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
