@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Traffic Light&lpar;using if else&rpar;](https://www.reddit.com/r/Kotlin/comments/1payhps/traffic_lightusing_if_else/)
+- [Compose Multiplatform PDF viewer](https://www.reddit.com/r/Kotlin/comments/1paxpog/compose_multiplatform_pdf_viewer/)
+- [How cinterop actually works?](https://www.reddit.com/r/Kotlin/comments/1palunh/how_cinterop_actually_works/)
+- [What counts as a statement in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1paiyiv/what_counts_as_a_statement_in_kotlin/)
+- [I built a KMP frontend framework with a Compose-like API. The new docs site is live &lpar;and built 100% with Summon!&rpar;](https://www.reddit.com/r/Kotlin/comments/1paicyq/i_built_a_kmp_frontend_framework_with_a/)
+- [🔥 The KotlinConf 2026 Black Friday special ends soon](https://www.reddit.com/r/Kotlin/comments/1pahroo/the_kotlinconf_2026_black_friday_special_ends_soon/)
 - [If else condition](https://www.reddit.com/r/Kotlin/comments/1pa4ent/if_else_condition/)
 - [Finger Shadows in Compose](https://www.reddit.com/r/Kotlin/comments/1pa37u3/finger_shadows_in_compose/)
 - [Spring JPA Specification Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1p9ygex/spring_jpa_specification_kotlin_dsl/)
 - [How I Self-Hosted a Ktor Kotlin Backend](https://www.reddit.com/r/Kotlin/comments/1p9nic1/how_i_selfhosted_a_ktor_kotlin_backend/)
-- [App](https://www.reddit.com/r/Kotlin/comments/1p9lew2/app/)
-- [⏰ The KotlinConf 2026 Call for Speakers is closing soon](https://www.reddit.com/r/Kotlin/comments/1p9l6tf/the_kotlinconf_2026_call_for_speakers_is_closing/)
-- [O que preciso saber de Kotlin antes de estudar Android?](https://www.reddit.com/r/Kotlin/comments/1p9hetb/o_que_preciso_saber_de_kotlin_antes_de_estudar/)
-- [Conditionals in Kotlin &lpar;syntax of if statement&rpar;](https://www.reddit.com/r/Kotlin/comments/1p9fu9a/conditionals_in_kotlin_syntax_of_if_statement/)
-- [Advent of Code is almost here, and we’re in again this year! 🎄](https://www.reddit.com/r/Kotlin/comments/1p8zf3e/advent_of_code_is_almost_here_and_were_in_again/)
-- [Android vs. iOS number of jobs?](https://www.reddit.com/r/Kotlin/comments/1p8wmrf/android_vs_ios_number_of_jobs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
