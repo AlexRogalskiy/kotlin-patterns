@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why using single quotes might cause an error in my code?](https://www.reddit.com/r/Kotlin/comments/1pbssgz/why_using_single_quotes_might_cause_an_error_in/)
+- [traffic Light [using When statement]](https://www.reddit.com/r/Kotlin/comments/1pbsoqx/traffic_light_using_when_statement/)
+- [navigation3-browser](https://www.reddit.com/r/Kotlin/comments/1pbjod9/navigation3browser/)
+- [[Event] &quot;In 5 years, the role &#39;Android Developer&#39; won&#39;t exist.&quot; — Join us for a live debate with mobile industry experts](https://www.reddit.com/r/Kotlin/comments/1pbhxpl/event_in_5_years_the_role_android_developer_wont/)
+- [Secure implementation of Gemini API Key in Android/Kotlin struggles](https://www.reddit.com/r/Kotlin/comments/1pbd4jp/secure_implementation_of_gemini_api_key_in/)
+- [KMM for new project?](https://www.reddit.com/r/Kotlin/comments/1pbblck/kmm_for_new_project/)
+- [How to skip the cell execution in Kotlin Notebook?](https://www.reddit.com/r/Kotlin/comments/1pbakjj/how_to_skip_the_cell_execution_in_kotlin_notebook/)
+- [Kotlin + Next JS!](https://www.reddit.com/r/Kotlin/comments/1pb90al/kotlin_next_js/)
 - [Traffic Light&lpar;using if else&rpar;](https://www.reddit.com/r/Kotlin/comments/1payhps/traffic_lightusing_if_else/)
 - [Compose Multiplatform PDF viewer](https://www.reddit.com/r/Kotlin/comments/1paxpog/compose_multiplatform_pdf_viewer/)
-- [How cinterop actually works?](https://www.reddit.com/r/Kotlin/comments/1palunh/how_cinterop_actually_works/)
-- [What counts as a statement in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1paiyiv/what_counts_as_a_statement_in_kotlin/)
-- [I built a KMP frontend framework with a Compose-like API. The new docs site is live &lpar;and built 100% with Summon!&rpar;](https://www.reddit.com/r/Kotlin/comments/1paicyq/i_built_a_kmp_frontend_framework_with_a/)
-- [🔥 The KotlinConf 2026 Black Friday special ends soon](https://www.reddit.com/r/Kotlin/comments/1pahroo/the_kotlinconf_2026_black_friday_special_ends_soon/)
-- [If else condition](https://www.reddit.com/r/Kotlin/comments/1pa4ent/if_else_condition/)
-- [Finger Shadows in Compose](https://www.reddit.com/r/Kotlin/comments/1pa37u3/finger_shadows_in_compose/)
-- [Spring JPA Specification Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1p9ygex/spring_jpa_specification_kotlin_dsl/)
-- [How I Self-Hosted a Ktor Kotlin Backend](https://www.reddit.com/r/Kotlin/comments/1p9nic1/how_i_selfhosted_a_ktor_kotlin_backend/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
