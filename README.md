@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why is KMP not as mainstream as react native or flutter?](https://www.reddit.com/r/Kotlin/comments/1pcr59z/why_is_kmp_not_as_mainstream_as_react_native_or/)
+- [I&#39;m about to learn Kotlin and have few questions](https://www.reddit.com/r/Kotlin/comments/1pcr3nm/im_about_to_learn_kotlin_and_have_few_questions/)
+- [i tried to create a function that changes the value of a variable from 3 to 4, but doesn&#39;t work? why doesn&#39;t it work? How do I create a function that changes the value of a variable from three to four? &lpar;not with var = 4 but with a *function*&rpar;](https://www.reddit.com/r/Kotlin/comments/1pchscs/i_tried_to_create_a_function_that_changes_the/)
+- [Kotlin - back-end data processing](https://www.reddit.com/r/Kotlin/comments/1pcaovu/kotlin_backend_data_processing/)
+- [We launched exoquery.com - an interactive playground where you can try ExoQuery &lpar;SQL composition for Kotlin&rpar; in your browser](https://www.reddit.com/r/Kotlin/comments/1pca11g/we_launched_exoquerycom_an_interactive_playground/)
+- [Philipp Lackner just posted a really solid breakdown of his Top 3 Koin DI Tips, and it’s worth a watch if you&#39;re using Koin](https://www.reddit.com/r/Kotlin/comments/1pc3jap/philipp_lackner_just_posted_a_really_solid/)
 - [Why using single quotes might cause an error in my code?](https://www.reddit.com/r/Kotlin/comments/1pbssgz/why_using_single_quotes_might_cause_an_error_in/)
 - [traffic Light [using When statement]](https://www.reddit.com/r/Kotlin/comments/1pbsoqx/traffic_light_using_when_statement/)
 - [navigation3-browser](https://www.reddit.com/r/Kotlin/comments/1pbjod9/navigation3browser/)
 - [[Event] &quot;In 5 years, the role &#39;Android Developer&#39; won&#39;t exist.&quot; — Join us for a live debate with mobile industry experts](https://www.reddit.com/r/Kotlin/comments/1pbhxpl/event_in_5_years_the_role_android_developer_wont/)
-- [Secure implementation of Gemini API Key in Android/Kotlin struggles](https://www.reddit.com/r/Kotlin/comments/1pbd4jp/secure_implementation_of_gemini_api_key_in/)
-- [KMM for new project?](https://www.reddit.com/r/Kotlin/comments/1pbblck/kmm_for_new_project/)
-- [How to skip the cell execution in Kotlin Notebook?](https://www.reddit.com/r/Kotlin/comments/1pbakjj/how_to_skip_the_cell_execution_in_kotlin_notebook/)
-- [Kotlin + Next JS!](https://www.reddit.com/r/Kotlin/comments/1pb90al/kotlin_next_js/)
-- [Traffic Light&lpar;using if else&rpar;](https://www.reddit.com/r/Kotlin/comments/1payhps/traffic_lightusing_if_else/)
-- [Compose Multiplatform PDF viewer](https://www.reddit.com/r/Kotlin/comments/1paxpog/compose_multiplatform_pdf_viewer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
