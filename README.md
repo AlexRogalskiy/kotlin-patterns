@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it possible to test Rich Errors?](https://www.reddit.com/r/Kotlin/comments/1peh8x1/is_it_possible_to_test_rich_errors/)
+- [Unresolved reference error in kotlin ?](https://www.reddit.com/r/Kotlin/comments/1pefivv/unresolved_reference_error_in_kotlin/)
+- [Why We Built ExoQuery](https://www.reddit.com/r/Kotlin/comments/1pe6btd/why_we_built_exoquery/)
+- [Solving Advent of Code in Notebooks](https://www.reddit.com/r/Kotlin/comments/1pe252t/solving_advent_of_code_in_notebooks/)
+- [Show case of Java desktop application using Jetbrain Compose for UI &lpar;Kotlin&rpar; and GraalVM native.](https://www.reddit.com/r/Kotlin/comments/1pdzvm7/show_case_of_java_desktop_application_using/)
+- [Kotlin Ecosystem AMA – December 11 &lpar;3–7 pm CET&rpar;](https://www.reddit.com/r/Kotlin/comments/1pdvlft/kotlin_ecosystem_ama_december_11_37_pm_cet/)
+- [The biggest coroutine anti-pattern - and how to fix it](https://www.reddit.com/r/Kotlin/comments/1pduyk1/the_biggest_coroutine_antipattern_and_how_to_fix/)
+- [Can anyone suggest me kotlin course in udemy.](https://www.reddit.com/r/Kotlin/comments/1pdr92r/can_anyone_suggest_me_kotlin_course_in_udemy/)
+- [Kotlin with vim](https://www.reddit.com/r/Kotlin/comments/1pdoctv/kotlin_with_vim/)
 - [Why put data classes under Object?](https://www.reddit.com/r/Kotlin/comments/1pdcc2f/why_put_data_classes_under_object/)
-- [How can I use PMtiles as a static picture in my Android project?](https://www.reddit.com/r/Kotlin/comments/1pd96kn/how_can_i_use_pmtiles_as_a_static_picture_in_my/)
-- [Materia: The &quot;missing Three.js&quot; for Kotlin Multiplatform &lpar;First Alpha Release&rpar;](https://www.reddit.com/r/Kotlin/comments/1pd4wmb/materia_the_missing_threejs_for_kotlin/)
-- [Should I use UseCases in app and backend development?](https://www.reddit.com/r/Kotlin/comments/1pd163d/should_i_use_usecases_in_app_and_backend/)
-- [What exactly is a lambda expression?](https://www.reddit.com/r/Kotlin/comments/1pczo38/what_exactly_is_a_lambda_expression/)
-- [Why is KMP not as mainstream as react native or flutter?](https://www.reddit.com/r/Kotlin/comments/1pcr59z/why_is_kmp_not_as_mainstream_as_react_native_or/)
-- [I&#39;m about to learn Kotlin and have few questions](https://www.reddit.com/r/Kotlin/comments/1pcr3nm/im_about_to_learn_kotlin_and_have_few_questions/)
-- [i tried to create a function that changes the value of a variable from 3 to 4, but doesn&#39;t work? why doesn&#39;t it work? How do I create a function that changes the value of a variable from three to four? &lpar;not with var = 4 but with a *function*&rpar;](https://www.reddit.com/r/Kotlin/comments/1pchscs/i_tried_to_create_a_function_that_changes_the/)
-- [Kotlin - back-end data processing](https://www.reddit.com/r/Kotlin/comments/1pcaovu/kotlin_backend_data_processing/)
-- [Philipp Lackner just posted a really solid breakdown of his Top 3 Koin DI Tips, and it’s worth a watch if you&#39;re using Koin](https://www.reddit.com/r/Kotlin/comments/1pc3jap/philipp_lackner_just_posted_a_really_solid/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
