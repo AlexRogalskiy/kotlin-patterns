@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kotlin without xml](https://www.reddit.com/r/Kotlin/comments/1pfd91d/kotlin_without_xml/)
+- [I&#39;m new to programming and I have an big problem](https://www.reddit.com/r/Kotlin/comments/1pf1j5q/im_new_to_programming_and_i_have_an_big_problem/)
+- [🆕 Updated tutorial: Adding Kotlin to a Java project](https://www.reddit.com/r/Kotlin/comments/1pex0u5/updated_tutorial_adding_kotlin_to_a_java_project/)
+- [Stove 0.19.0 is here! testcontainer-less mode and other useful features](https://www.reddit.com/r/Kotlin/comments/1per248/stove_0190_is_here_testcontainerless_mode_and/)
 - [Is it possible to test Rich Errors?](https://www.reddit.com/r/Kotlin/comments/1peh8x1/is_it_possible_to_test_rich_errors/)
 - [Unresolved reference error in kotlin ?](https://www.reddit.com/r/Kotlin/comments/1pefivv/unresolved_reference_error_in_kotlin/)
 - [Why We Built ExoQuery](https://www.reddit.com/r/Kotlin/comments/1pe6btd/why_we_built_exoquery/)
 - [Solving Advent of Code in Notebooks](https://www.reddit.com/r/Kotlin/comments/1pe252t/solving_advent_of_code_in_notebooks/)
 - [Show case of Java desktop application using Jetbrain Compose for UI &lpar;Kotlin&rpar; and GraalVM native.](https://www.reddit.com/r/Kotlin/comments/1pdzvm7/show_case_of_java_desktop_application_using/)
 - [Kotlin Ecosystem AMA – December 11 &lpar;3–7 pm CET&rpar;](https://www.reddit.com/r/Kotlin/comments/1pdvlft/kotlin_ecosystem_ama_december_11_37_pm_cet/)
-- [The biggest coroutine anti-pattern - and how to fix it](https://www.reddit.com/r/Kotlin/comments/1pduyk1/the_biggest_coroutine_antipattern_and_how_to_fix/)
-- [Can anyone suggest me kotlin course in udemy.](https://www.reddit.com/r/Kotlin/comments/1pdr92r/can_anyone_suggest_me_kotlin_course_in_udemy/)
-- [Kotlin with vim](https://www.reddit.com/r/Kotlin/comments/1pdoctv/kotlin_with_vim/)
-- [Why put data classes under Object?](https://www.reddit.com/r/Kotlin/comments/1pdcc2f/why_put_data_classes_under_object/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
