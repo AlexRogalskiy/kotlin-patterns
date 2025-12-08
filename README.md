@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can&#39;t connect to DB Ktor](https://www.reddit.com/r/Kotlin/comments/1pgivhf/cant_connect_to_db_ktor/)
+- [Components of KOTLIN](https://www.reddit.com/r/Kotlin/comments/1pghj6j/components_of_kotlin/)
+- [Made a CLI tool to make Compose Multiplatform apps from the terminal](https://www.reddit.com/r/Kotlin/comments/1pggll9/made_a_cli_tool_to_make_compose_multiplatform/)
+- [Why do we need to specify the keyword val/var when defining characteristics?](https://www.reddit.com/r/Kotlin/comments/1pgdjc1/why_do_we_need_to_specify_the_keyword_valvar_when/)
+- [Built a TOON data format serializer for Kotlin](https://www.reddit.com/r/Kotlin/comments/1pg9enw/built_a_toon_data_format_serializer_for_kotlin/)
 - [KMP iOS DevX](https://www.reddit.com/r/Kotlin/comments/1pfxp8z/kmp_ios_devx/)
 - [Need help to create an Android app using Kotlin](https://www.reddit.com/r/Kotlin/comments/1pfxoc4/need_help_to_create_an_android_app_using_kotlin/)
 - [EasyQuery: The ORM like EF Core for Java Developers](https://www.reddit.com/r/Kotlin/comments/1pfsb0o/easyquery_the_orm_like_ef_core_for_java_developers/)
 - [I made a chart to help visualize the default KMP project structure](https://www.reddit.com/r/Kotlin/comments/1pfqrjo/i_made_a_chart_to_help_visualize_the_default_kmp/)
 - [kotlin without xml](https://www.reddit.com/r/Kotlin/comments/1pfd91d/kotlin_without_xml/)
-- [I&#39;m new to programming and I have an big problem](https://www.reddit.com/r/Kotlin/comments/1pf1j5q/im_new_to_programming_and_i_have_an_big_problem/)
-- [🆕 Updated tutorial: Adding Kotlin to a Java project](https://www.reddit.com/r/Kotlin/comments/1pex0u5/updated_tutorial_adding_kotlin_to_a_java_project/)
-- [Stove 0.19.0 is here! testcontainer-less mode and other useful features](https://www.reddit.com/r/Kotlin/comments/1per248/stove_0190_is_here_testcontainerless_mode_and/)
-- [Is it possible to test Rich Errors?](https://www.reddit.com/r/Kotlin/comments/1peh8x1/is_it_possible_to_test_rich_errors/)
-- [Unresolved reference error in kotlin ?](https://www.reddit.com/r/Kotlin/comments/1pefivv/unresolved_reference_error_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
