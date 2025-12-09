@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ktoon: Sharing my TOON library for Kotlin](https://www.reddit.com/r/Kotlin/comments/1phqfr9/ktoon_sharing_my_toon_library_for_kotlin/)
+- [🎥 Testimonial: How Mercedes-Benz.io shifted gears with Kotlin for their backend systems](https://www.reddit.com/r/Kotlin/comments/1phhbn4/testimonial_how_mercedesbenzio_shifted_gears_with/)
+- [Swift for Android vs. Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1phgph5/swift_for_android_vs_kotlin_multiplatform/)
+- [ExoQuery 2.0: JSON Column extraction for the price of a dot](https://www.reddit.com/r/Kotlin/comments/1phf3ra/exoquery_20_json_column_extraction_for_the_price/)
+- [why is my code not working?](https://www.reddit.com/r/Kotlin/comments/1phabps/why_is_my_code_not_working/)
+- [Event Library - A lightweight, zero boilerplate, high performance event bus for Kotlin/JVM](https://www.reddit.com/r/Kotlin/comments/1ph7oij/event_library_a_lightweight_zero_boilerplate_high/)
+- [About android components](https://www.reddit.com/r/Kotlin/comments/1ph1tx3/about_android_components/)
+- [HashSmith – High-performance open-addressing hash tables for Java/Kotlin &lpar;SwissTable / Robin Hood&rpar;](https://www.reddit.com/r/Kotlin/comments/1ph18xi/hashsmith_highperformance_openaddressing_hash/)
 - [Can&#39;t connect to DB Ktor](https://www.reddit.com/r/Kotlin/comments/1pgivhf/cant_connect_to_db_ktor/)
 - [Components of KOTLIN](https://www.reddit.com/r/Kotlin/comments/1pghj6j/components_of_kotlin/)
-- [Made a CLI tool to make Compose Multiplatform apps from the terminal](https://www.reddit.com/r/Kotlin/comments/1pggll9/made_a_cli_tool_to_make_compose_multiplatform/)
-- [Why do we need to specify the keyword val/var when defining characteristics?](https://www.reddit.com/r/Kotlin/comments/1pgdjc1/why_do_we_need_to_specify_the_keyword_valvar_when/)
-- [Built a TOON data format serializer for Kotlin](https://www.reddit.com/r/Kotlin/comments/1pg9enw/built_a_toon_data_format_serializer_for_kotlin/)
-- [KMP iOS DevX](https://www.reddit.com/r/Kotlin/comments/1pfxp8z/kmp_ios_devx/)
-- [Need help to create an Android app using Kotlin](https://www.reddit.com/r/Kotlin/comments/1pfxoc4/need_help_to_create_an_android_app_using_kotlin/)
-- [EasyQuery: The ORM like EF Core for Java Developers](https://www.reddit.com/r/Kotlin/comments/1pfsb0o/easyquery_the_orm_like_ef_core_for_java_developers/)
-- [I made a chart to help visualize the default KMP project structure](https://www.reddit.com/r/Kotlin/comments/1pfqrjo/i_made_a_chart_to_help_visualize_the_default_kmp/)
-- [kotlin without xml](https://www.reddit.com/r/Kotlin/comments/1pfd91d/kotlin_without_xml/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
