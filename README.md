@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How many returns should a function have](https://www.reddit.com/r/Kotlin/comments/1piodfk/how_many_returns_should_a_function_have/)
+- [Skiko based hobby generative art project](https://www.reddit.com/r/Kotlin/comments/1piigh3/skiko_based_hobby_generative_art_project/)
+- [Topic for Course and Books](https://www.reddit.com/r/Kotlin/comments/1pi87pw/topic_for_course_and_books/)
+- [I feel Skiko deserves more love than this](https://www.reddit.com/r/Kotlin/comments/1pi54tp/i_feel_skiko_deserves_more_love_than_this/)
+- [Let iOS Developers Choose Dependencies in Your KMP SDK](https://www.reddit.com/r/Kotlin/comments/1phzo1x/let_ios_developers_choose_dependencies_in_your/)
 - [ktoon: Sharing my TOON library for Kotlin](https://www.reddit.com/r/Kotlin/comments/1phqfr9/ktoon_sharing_my_toon_library_for_kotlin/)
 - [🎥 Testimonial: How Mercedes-Benz.io shifted gears with Kotlin for their backend systems](https://www.reddit.com/r/Kotlin/comments/1phhbn4/testimonial_how_mercedesbenzio_shifted_gears_with/)
 - [Swift for Android vs. Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1phgph5/swift_for_android_vs_kotlin_multiplatform/)
 - [ExoQuery 2.0: JSON Column extraction for the price of a dot](https://www.reddit.com/r/Kotlin/comments/1phf3ra/exoquery_20_json_column_extraction_for_the_price/)
 - [why is my code not working?](https://www.reddit.com/r/Kotlin/comments/1phabps/why_is_my_code_not_working/)
-- [Event Library - A lightweight, zero boilerplate, high performance event bus for Kotlin/JVM](https://www.reddit.com/r/Kotlin/comments/1ph7oij/event_library_a_lightweight_zero_boilerplate_high/)
-- [About android components](https://www.reddit.com/r/Kotlin/comments/1ph1tx3/about_android_components/)
-- [HashSmith – High-performance open-addressing hash tables for Java/Kotlin &lpar;SwissTable / Robin Hood&rpar;](https://www.reddit.com/r/Kotlin/comments/1ph18xi/hashsmith_highperformance_openaddressing_hash/)
-- [Can&#39;t connect to DB Ktor](https://www.reddit.com/r/Kotlin/comments/1pgivhf/cant_connect_to_db_ktor/)
-- [Components of KOTLIN](https://www.reddit.com/r/Kotlin/comments/1pghj6j/components_of_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
