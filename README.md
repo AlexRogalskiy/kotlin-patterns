@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need help regarding the sendBroadcast of ApplicationContext](https://www.reddit.com/r/Kotlin/comments/1pjgx3q/need_help_regarding_the_sendbroadcast_of/)
+- [KMP Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/1pj45q7/kmp_kotlinjs/)
+- [Android Studio for Kotlin Android dev: Any lightweight alternatives like VSCode for Flutter?](https://www.reddit.com/r/Kotlin/comments/1pj2rj4/android_studio_for_kotlin_android_dev_any/)
+- [I need help](https://www.reddit.com/r/Kotlin/comments/1piy4s9/i_need_help/)
+- [Never learn coding blindly without any plan](https://www.reddit.com/r/Kotlin/comments/1piu9w4/never_learn_coding_blindly_without_any_plan/)
 - [How many returns should a function have](https://www.reddit.com/r/Kotlin/comments/1piodfk/how_many_returns_should_a_function_have/)
 - [Skiko based hobby generative art project](https://www.reddit.com/r/Kotlin/comments/1piigh3/skiko_based_hobby_generative_art_project/)
 - [Topic for Course and Books](https://www.reddit.com/r/Kotlin/comments/1pi87pw/topic_for_course_and_books/)
 - [I feel Skiko deserves more love than this](https://www.reddit.com/r/Kotlin/comments/1pi54tp/i_feel_skiko_deserves_more_love_than_this/)
 - [Let iOS Developers Choose Dependencies in Your KMP SDK](https://www.reddit.com/r/Kotlin/comments/1phzo1x/let_ios_developers_choose_dependencies_in_your/)
-- [ktoon: Sharing my TOON library for Kotlin](https://www.reddit.com/r/Kotlin/comments/1phqfr9/ktoon_sharing_my_toon_library_for_kotlin/)
-- [🎥 Testimonial: How Mercedes-Benz.io shifted gears with Kotlin for their backend systems](https://www.reddit.com/r/Kotlin/comments/1phhbn4/testimonial_how_mercedesbenzio_shifted_gears_with/)
-- [Swift for Android vs. Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1phgph5/swift_for_android_vs_kotlin_multiplatform/)
-- [ExoQuery 2.0: JSON Column extraction for the price of a dot](https://www.reddit.com/r/Kotlin/comments/1phf3ra/exoquery_20_json_column_extraction_for_the_price/)
-- [why is my code not working?](https://www.reddit.com/r/Kotlin/comments/1phabps/why_is_my_code_not_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
