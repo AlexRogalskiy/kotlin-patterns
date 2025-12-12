@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Backend Deployment](https://www.reddit.com/r/Kotlin/comments/1pk5qh6/backend_deployment/)
+- [Technical details of annotations](https://www.reddit.com/r/Kotlin/comments/1pk1kft/technical_details_of_annotations/)
+- [Has anyone here used Exposed ORM? What&#39;s your experience with it?](https://www.reddit.com/r/Kotlin/comments/1pk1fzr/has_anyone_here_used_exposed_orm_whats_your/)
+- [do you know that just one boolean take one bytes instead of one bite so we are handling this case look at our library](https://www.reddit.com/r/Kotlin/comments/1pk0bmi/do_you_know_that_just_one_boolean_take_one_bytes/)
+- [KMP Library options when all code is based on existing native Kotlin...](https://www.reddit.com/r/Kotlin/comments/1pjzsp1/kmp_library_options_when_all_code_is_based_on/)
+- [Alpha Release of TENUM – Lua on Kotlin Multiplatform &lpar;Open Source&rpar;](https://www.reddit.com/r/Kotlin/comments/1pjwzpv/alpha_release_of_tenum_lua_on_kotlin/)
+- [Denis panjuta&#39;s udemy course](https://www.reddit.com/r/Kotlin/comments/1pjssgx/denis_panjutas_udemy_course/)
+- [Kotlin Ecosystem AMA – December 11 &lpar;3–7 pm CET&rpar;](https://www.reddit.com/r/Kotlin/comments/1pjs3bd/kotlin_ecosystem_ama_december_11_37_pm_cet/)
+- [Doubt about recomposition](https://www.reddit.com/r/Kotlin/comments/1pjpu0u/doubt_about_recomposition/)
 - [Need help regarding the sendBroadcast of ApplicationContext](https://www.reddit.com/r/Kotlin/comments/1pjgx3q/need_help_regarding_the_sendbroadcast_of/)
-- [KMP Kotlin/JS](https://www.reddit.com/r/Kotlin/comments/1pj45q7/kmp_kotlinjs/)
-- [Android Studio for Kotlin Android dev: Any lightweight alternatives like VSCode for Flutter?](https://www.reddit.com/r/Kotlin/comments/1pj2rj4/android_studio_for_kotlin_android_dev_any/)
-- [I need help](https://www.reddit.com/r/Kotlin/comments/1piy4s9/i_need_help/)
-- [Never learn coding blindly without any plan](https://www.reddit.com/r/Kotlin/comments/1piu9w4/never_learn_coding_blindly_without_any_plan/)
-- [How many returns should a function have](https://www.reddit.com/r/Kotlin/comments/1piodfk/how_many_returns_should_a_function_have/)
-- [Skiko based hobby generative art project](https://www.reddit.com/r/Kotlin/comments/1piigh3/skiko_based_hobby_generative_art_project/)
-- [Topic for Course and Books](https://www.reddit.com/r/Kotlin/comments/1pi87pw/topic_for_course_and_books/)
-- [I feel Skiko deserves more love than this](https://www.reddit.com/r/Kotlin/comments/1pi54tp/i_feel_skiko_deserves_more_love_than_this/)
-- [Let iOS Developers Choose Dependencies in Your KMP SDK](https://www.reddit.com/r/Kotlin/comments/1phzo1x/let_ios_developers_choose_dependencies_in_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
