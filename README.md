@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Refactoring Masterclass - Adding Receipts in the Checkout Kata](https://www.reddit.com/r/Kotlin/comments/1pkvf58/refactoring_masterclass_adding_receipts_in_the/)
+- [My story for building a KMP app](https://www.reddit.com/r/Kotlin/comments/1pks7se/my_story_for_building_a_kmp_app/)
+- [Encryptable - Zero-knowledge MongoDB ODM where not even the developer can access user data](https://www.reddit.com/r/Kotlin/comments/1pkii55/encryptable_zeroknowledge_mongodb_odm_where_not/)
 - [Backend Deployment](https://www.reddit.com/r/Kotlin/comments/1pk5qh6/backend_deployment/)
 - [Technical details of annotations](https://www.reddit.com/r/Kotlin/comments/1pk1kft/technical_details_of_annotations/)
 - [Has anyone here used Exposed ORM? What&#39;s your experience with it?](https://www.reddit.com/r/Kotlin/comments/1pk1fzr/has_anyone_here_used_exposed_orm_whats_your/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [KMP Library options when all code is based on existing native Kotlin...](https://www.reddit.com/r/Kotlin/comments/1pjzsp1/kmp_library_options_when_all_code_is_based_on/)
 - [Alpha Release of TENUM – Lua on Kotlin Multiplatform &lpar;Open Source&rpar;](https://www.reddit.com/r/Kotlin/comments/1pjwzpv/alpha_release_of_tenum_lua_on_kotlin/)
 - [Denis panjuta&#39;s udemy course](https://www.reddit.com/r/Kotlin/comments/1pjssgx/denis_panjutas_udemy_course/)
-- [Kotlin Ecosystem AMA – December 11 &lpar;3–7 pm CET&rpar;](https://www.reddit.com/r/Kotlin/comments/1pjs3bd/kotlin_ecosystem_ama_december_11_37_pm_cet/)
-- [Doubt about recomposition](https://www.reddit.com/r/Kotlin/comments/1pjpu0u/doubt_about_recomposition/)
-- [Need help regarding the sendBroadcast of ApplicationContext](https://www.reddit.com/r/Kotlin/comments/1pjgx3q/need_help_regarding_the_sendbroadcast_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
