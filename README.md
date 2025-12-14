@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Adobe Bridge not showing thumbnails windows 11 all codecs in the place no idea what to do](https://www.reddit.com/r/Kotlin/comments/1plru4v/adobe_bridge_not_showing_thumbnails_windows_11/)
+- [How much comp would you forgo to be able to write Kotlin instead of Java](https://www.reddit.com/r/Kotlin/comments/1plqxgx/how_much_comp_would_you_forgo_to_be_able_to_write/)
+- [Want help with generic in and out in kotlin.](https://www.reddit.com/r/Kotlin/comments/1pln6rl/want_help_with_generic_in_and_out_in_kotlin/)
+- [Inferring client-side requests from openapi spec](https://www.reddit.com/r/Kotlin/comments/1pljw6x/inferring_clientside_requests_from_openapi_spec/)
+- [Looking for cheap and reliable hosting for Ktor backend &lpar;1k+ users&rpar;](https://www.reddit.com/r/Kotlin/comments/1plguts/looking_for_cheap_and_reliable_hosting_for_ktor/)
+- [Building a Fast, Memory-Efficient Hash Table in Java &lpar;by borrowing the best ideas&rpar;](https://www.reddit.com/r/Kotlin/comments/1plbhua/building_a_fast_memoryefficient_hash_table_in/)
 - [Refactoring Masterclass - Adding Receipts in the Checkout Kata](https://www.reddit.com/r/Kotlin/comments/1pkvf58/refactoring_masterclass_adding_receipts_in_the/)
 - [My story for building a KMP app](https://www.reddit.com/r/Kotlin/comments/1pks7se/my_story_for_building_a_kmp_app/)
 - [Encryptable - Zero-knowledge MongoDB ODM where not even the developer can access user data](https://www.reddit.com/r/Kotlin/comments/1pkii55/encryptable_zeroknowledge_mongodb_odm_where_not/)
 - [Backend Deployment](https://www.reddit.com/r/Kotlin/comments/1pk5qh6/backend_deployment/)
-- [Technical details of annotations](https://www.reddit.com/r/Kotlin/comments/1pk1kft/technical_details_of_annotations/)
-- [Has anyone here used Exposed ORM? What&#39;s your experience with it?](https://www.reddit.com/r/Kotlin/comments/1pk1fzr/has_anyone_here_used_exposed_orm_whats_your/)
-- [do you know that just one boolean take one bytes instead of one bite so we are handling this case look at our library](https://www.reddit.com/r/Kotlin/comments/1pk0bmi/do_you_know_that_just_one_boolean_take_one_bytes/)
-- [KMP Library options when all code is based on existing native Kotlin...](https://www.reddit.com/r/Kotlin/comments/1pjzsp1/kmp_library_options_when_all_code_is_based_on/)
-- [Alpha Release of TENUM – Lua on Kotlin Multiplatform &lpar;Open Source&rpar;](https://www.reddit.com/r/Kotlin/comments/1pjwzpv/alpha_release_of_tenum_lua_on_kotlin/)
-- [Denis panjuta&#39;s udemy course](https://www.reddit.com/r/Kotlin/comments/1pjssgx/denis_panjutas_udemy_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
