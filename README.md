@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Problem you face while learning](https://www.reddit.com/r/Kotlin/comments/1pmaejz/problem_you_face_while_learning/)
 - [Adobe Bridge not showing thumbnails windows 11 all codecs in the place no idea what to do](https://www.reddit.com/r/Kotlin/comments/1plru4v/adobe_bridge_not_showing_thumbnails_windows_11/)
 - [How much comp would you forgo to be able to write Kotlin instead of Java](https://www.reddit.com/r/Kotlin/comments/1plqxgx/how_much_comp_would_you_forgo_to_be_able_to_write/)
 - [Want help with generic in and out in kotlin.](https://www.reddit.com/r/Kotlin/comments/1pln6rl/want_help_with_generic_in_and_out_in_kotlin/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Refactoring Masterclass - Adding Receipts in the Checkout Kata](https://www.reddit.com/r/Kotlin/comments/1pkvf58/refactoring_masterclass_adding_receipts_in_the/)
 - [My story for building a KMP app](https://www.reddit.com/r/Kotlin/comments/1pks7se/my_story_for_building_a_kmp_app/)
 - [Encryptable - Zero-knowledge MongoDB ODM where not even the developer can access user data](https://www.reddit.com/r/Kotlin/comments/1pkii55/encryptable_zeroknowledge_mongodb_odm_where_not/)
-- [Backend Deployment](https://www.reddit.com/r/Kotlin/comments/1pk5qh6/backend_deployment/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
