@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TWA PWA shows blank screen after AdMob splash ad](https://www.reddit.com/r/Kotlin/comments/1pn9ity/twa_pwa_shows_blank_screen_after_admob_splash_ad/)
+- [Ktor dev vs prod environment configuration – routing confusion &lpar;beginner&rpar;](https://www.reddit.com/r/Kotlin/comments/1pn90d3/ktor_dev_vs_prod_environment_configuration/)
+- [How can I set google OAuth and 2FA with google authenticator in my kotlin spring framework](https://www.reddit.com/r/Kotlin/comments/1pn6lje/how_can_i_set_google_oauth_and_2fa_with_google/)
+- [Live reloading on JVM](https://www.reddit.com/r/Kotlin/comments/1pn26q8/live_reloading_on_jvm/)
+- [KOTLIN VS FLUTTER](https://www.reddit.com/r/Kotlin/comments/1pn12pd/kotlin_vs_flutter/)
+- [Multi-tenant database design](https://www.reddit.com/r/Kotlin/comments/1pmwws5/multitenant_database_design/)
 - [Problem you face while learning](https://www.reddit.com/r/Kotlin/comments/1pmaejz/problem_you_face_while_learning/)
 - [Adobe Bridge not showing thumbnails windows 11 all codecs in the place no idea what to do](https://www.reddit.com/r/Kotlin/comments/1plru4v/adobe_bridge_not_showing_thumbnails_windows_11/)
 - [How much comp would you forgo to be able to write Kotlin instead of Java](https://www.reddit.com/r/Kotlin/comments/1plqxgx/how_much_comp_would_you_forgo_to_be_able_to_write/)
 - [Want help with generic in and out in kotlin.](https://www.reddit.com/r/Kotlin/comments/1pln6rl/want_help_with_generic_in_and_out_in_kotlin/)
-- [Inferring client-side requests from openapi spec](https://www.reddit.com/r/Kotlin/comments/1pljw6x/inferring_clientside_requests_from_openapi_spec/)
-- [Looking for cheap and reliable hosting for Ktor backend &lpar;1k+ users&rpar;](https://www.reddit.com/r/Kotlin/comments/1plguts/looking_for_cheap_and_reliable_hosting_for_ktor/)
-- [Building a Fast, Memory-Efficient Hash Table in Java &lpar;by borrowing the best ideas&rpar;](https://www.reddit.com/r/Kotlin/comments/1plbhua/building_a_fast_memoryefficient_hash_table_in/)
-- [Refactoring Masterclass - Adding Receipts in the Checkout Kata](https://www.reddit.com/r/Kotlin/comments/1pkvf58/refactoring_masterclass_adding_receipts_in_the/)
-- [My story for building a KMP app](https://www.reddit.com/r/Kotlin/comments/1pks7se/my_story_for_building_a_kmp_app/)
-- [Encryptable - Zero-knowledge MongoDB ODM where not even the developer can access user data](https://www.reddit.com/r/Kotlin/comments/1pkii55/encryptable_zeroknowledge_mongodb_odm_where_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
