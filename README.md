@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TWA PWA shows blank screen after AdMob splash ad](https://www.reddit.com/r/Kotlin/comments/1pn9ity/twa_pwa_shows_blank_screen_after_admob_splash_ad/)
+- [SQL badly needs Polymorphism. ExoQuery brings it.](https://www.reddit.com/r/Kotlin/comments/1pod2m5/sql_badly_needs_polymorphism_exoquery_brings_it/)
+- [🎥 Testimonial: Why did ING turn to Kotlin to power their mobile app backend?](https://www.reddit.com/r/Kotlin/comments/1po5y95/testimonial_why_did_ing_turn_to_kotlin_to_power/)
+- [I Got Compose Multiplatform Running on Apple TV](https://www.reddit.com/r/Kotlin/comments/1po33ht/i_got_compose_multiplatform_running_on_apple_tv/)
+- [[New Article] Building AI Agents in Kotlin – Part 3: Under Observation](https://www.reddit.com/r/Kotlin/comments/1po28xz/new_article_building_ai_agents_in_kotlin_part_3/)
+- [The BOB program is up - early-bird tickets are still available!](https://www.reddit.com/r/Kotlin/comments/1pny0el/the_bob_program_is_up_earlybird_tickets_are_still/)
+- [Built a Linux-native Android Backup tool using Kotlin Compose Desktop. My first KMP project!](https://www.reddit.com/r/Kotlin/comments/1pnvm26/built_a_linuxnative_android_backup_tool_using/)
 - [Ktor dev vs prod environment configuration – routing confusion &lpar;beginner&rpar;](https://www.reddit.com/r/Kotlin/comments/1pn90d3/ktor_dev_vs_prod_environment_configuration/)
 - [How can I set google OAuth and 2FA with google authenticator in my kotlin spring framework](https://www.reddit.com/r/Kotlin/comments/1pn6lje/how_can_i_set_google_oauth_and_2fa_with_google/)
 - [Live reloading on JVM](https://www.reddit.com/r/Kotlin/comments/1pn26q8/live_reloading_on_jvm/)
 - [KOTLIN VS FLUTTER](https://www.reddit.com/r/Kotlin/comments/1pn12pd/kotlin_vs_flutter/)
-- [Multi-tenant database design](https://www.reddit.com/r/Kotlin/comments/1pmwws5/multitenant_database_design/)
-- [Problem you face while learning](https://www.reddit.com/r/Kotlin/comments/1pmaejz/problem_you_face_while_learning/)
-- [Adobe Bridge not showing thumbnails windows 11 all codecs in the place no idea what to do](https://www.reddit.com/r/Kotlin/comments/1plru4v/adobe_bridge_not_showing_thumbnails_windows_11/)
-- [How much comp would you forgo to be able to write Kotlin instead of Java](https://www.reddit.com/r/Kotlin/comments/1plqxgx/how_much_comp_would_you_forgo_to_be_able_to_write/)
-- [Want help with generic in and out in kotlin.](https://www.reddit.com/r/Kotlin/comments/1pln6rl/want_help_with_generic_in_and_out_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
