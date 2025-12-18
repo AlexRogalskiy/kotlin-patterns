@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin shared code with backend and frontend?](https://www.reddit.com/r/Kotlin/comments/1pp71op/kotlin_shared_code_with_backend_and_frontend/)
+- [Further Optimizing my Java SwissTable: Profile Pollution and SWAR Probing](https://www.reddit.com/r/Kotlin/comments/1pp1t6f/further_optimizing_my_java_swisstable_profile/)
+- [Coroutines need a scope... and that&#39;s a good thing!](https://www.reddit.com/r/Kotlin/comments/1pp0y94/coroutines_need_a_scope_and_thats_a_good_thing/)
+- [I built a Three.js alternative for KMP &lpar;Materia&rpar; and a Compose wrapper &lpar;Sigil&rpar;](https://www.reddit.com/r/Kotlin/comments/1poznd1/i_built_a_threejs_alternative_for_kmp_materia_and/)
+- [Migrating a Jetpack Compose app to Kotlin Multiplatform – Guide](https://www.reddit.com/r/Kotlin/comments/1poyple/migrating_a_jetpack_compose_app_to_kotlin/)
+- [benchMark of inline functions](https://www.reddit.com/r/Kotlin/comments/1postgc/benchmark_of_inline_functions/)
 - [SQL badly needs Polymorphism. ExoQuery brings it.](https://www.reddit.com/r/Kotlin/comments/1pod2m5/sql_badly_needs_polymorphism_exoquery_brings_it/)
 - [🎥 Testimonial: Why did ING turn to Kotlin to power their mobile app backend?](https://www.reddit.com/r/Kotlin/comments/1po5y95/testimonial_why_did_ing_turn_to_kotlin_to_power/)
 - [I Got Compose Multiplatform Running on Apple TV](https://www.reddit.com/r/Kotlin/comments/1po33ht/i_got_compose_multiplatform_running_on_apple_tv/)
 - [[New Article] Building AI Agents in Kotlin – Part 3: Under Observation](https://www.reddit.com/r/Kotlin/comments/1po28xz/new_article_building_ai_agents_in_kotlin_part_3/)
-- [The BOB program is up - early-bird tickets are still available!](https://www.reddit.com/r/Kotlin/comments/1pny0el/the_bob_program_is_up_earlybird_tickets_are_still/)
-- [Built a Linux-native Android Backup tool using Kotlin Compose Desktop. My first KMP project!](https://www.reddit.com/r/Kotlin/comments/1pnvm26/built_a_linuxnative_android_backup_tool_using/)
-- [Ktor dev vs prod environment configuration – routing confusion &lpar;beginner&rpar;](https://www.reddit.com/r/Kotlin/comments/1pn90d3/ktor_dev_vs_prod_environment_configuration/)
-- [How can I set google OAuth and 2FA with google authenticator in my kotlin spring framework](https://www.reddit.com/r/Kotlin/comments/1pn6lje/how_can_i_set_google_oauth_and_2fa_with_google/)
-- [Live reloading on JVM](https://www.reddit.com/r/Kotlin/comments/1pn26q8/live_reloading_on_jvm/)
-- [KOTLIN VS FLUTTER](https://www.reddit.com/r/Kotlin/comments/1pn12pd/kotlin_vs_flutter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
