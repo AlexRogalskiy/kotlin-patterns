@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where to implement unit tests in KMP project](https://www.reddit.com/r/Kotlin/comments/1pq8vrz/where_to_implement_unit_tests_in_kmp_project/)
+- [Designing a standalone Linux admin CLI with Kotlin &lpar;tools &amp; pitfalls&rpar;](https://www.reddit.com/r/Kotlin/comments/1pq4omx/designing_a_standalone_linux_admin_cli_with/)
+- [Introducing ExoQuery MCP Server - No more hallucinated query code!](https://www.reddit.com/r/Kotlin/comments/1ppyq3v/introducing_exoquery_mcp_server_no_more/)
+- [help](https://www.reddit.com/r/Kotlin/comments/1ppt4w1/help/)
+- [Next level Kotlin support in Spring Boot 4](https://www.reddit.com/r/Kotlin/comments/1ppqm1n/next_level_kotlin_support_in_spring_boot_4/)
+- [KotlinConf 2026: Workshops, templates for approval, and hands-on learning](https://www.reddit.com/r/Kotlin/comments/1pppvkt/kotlinconf_2026_workshops_templates_for_approval/)
+- [Migrated to CMP + KMP… Android is perfect, KMP feels broken. How do you move fast from here?](https://www.reddit.com/r/Kotlin/comments/1ppglbk/migrated_to_cmp_kmp_android_is_perfect_kmp_feels/)
+- [Why am I getting errors when running Kotlin code in Android Studio?](https://www.reddit.com/r/Kotlin/comments/1ppg1v3/why_am_i_getting_errors_when_running_kotlin_code/)
 - [Kotlin shared code with backend and frontend?](https://www.reddit.com/r/Kotlin/comments/1pp71op/kotlin_shared_code_with_backend_and_frontend/)
 - [Further Optimizing my Java SwissTable: Profile Pollution and SWAR Probing](https://www.reddit.com/r/Kotlin/comments/1pp1t6f/further_optimizing_my_java_swisstable_profile/)
-- [Coroutines need a scope... and that&#39;s a good thing!](https://www.reddit.com/r/Kotlin/comments/1pp0y94/coroutines_need_a_scope_and_thats_a_good_thing/)
-- [I built a Three.js alternative for KMP &lpar;Materia&rpar; and a Compose wrapper &lpar;Sigil&rpar;](https://www.reddit.com/r/Kotlin/comments/1poznd1/i_built_a_threejs_alternative_for_kmp_materia_and/)
-- [Migrating a Jetpack Compose app to Kotlin Multiplatform – Guide](https://www.reddit.com/r/Kotlin/comments/1poyple/migrating_a_jetpack_compose_app_to_kotlin/)
-- [benchMark of inline functions](https://www.reddit.com/r/Kotlin/comments/1postgc/benchmark_of_inline_functions/)
-- [SQL badly needs Polymorphism. ExoQuery brings it.](https://www.reddit.com/r/Kotlin/comments/1pod2m5/sql_badly_needs_polymorphism_exoquery_brings_it/)
-- [🎥 Testimonial: Why did ING turn to Kotlin to power their mobile app backend?](https://www.reddit.com/r/Kotlin/comments/1po5y95/testimonial_why_did_ing_turn_to_kotlin_to_power/)
-- [I Got Compose Multiplatform Running on Apple TV](https://www.reddit.com/r/Kotlin/comments/1po33ht/i_got_compose_multiplatform_running_on_apple_tv/)
-- [[New Article] Building AI Agents in Kotlin – Part 3: Under Observation](https://www.reddit.com/r/Kotlin/comments/1po28xz/new_article_building_ai_agents_in_kotlin_part_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
