@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Database migrations with Exposed](https://www.reddit.com/r/Kotlin/comments/1pqw8zv/database_migrations_with_exposed/)
+- [The complete Kotlin Adoption Guide &lpar;PDF&rpar;](https://www.reddit.com/r/Kotlin/comments/1pqlmx3/the_complete_kotlin_adoption_guide_pdf/)
+- [Ideas for hackathon](https://www.reddit.com/r/Kotlin/comments/1pqlj2s/ideas_for_hackathon/)
+- [Golden Kodee Community Awards at KotlinConf 2026](https://www.reddit.com/r/Kotlin/comments/1pqiasl/golden_kodee_community_awards_at_kotlinconf_2026/)
+- [Kotlin 2.3.0 Released](https://www.reddit.com/r/Kotlin/comments/1pqbonw/kotlin_230_released/)
 - [Where to implement unit tests in KMP project](https://www.reddit.com/r/Kotlin/comments/1pq8vrz/where_to_implement_unit_tests_in_kmp_project/)
 - [Designing a standalone Linux admin CLI with Kotlin &lpar;tools &amp; pitfalls&rpar;](https://www.reddit.com/r/Kotlin/comments/1pq4omx/designing_a_standalone_linux_admin_cli_with/)
 - [Introducing ExoQuery MCP Server - No more hallucinated query code!](https://www.reddit.com/r/Kotlin/comments/1ppyq3v/introducing_exoquery_mcp_server_no_more/)
 - [help](https://www.reddit.com/r/Kotlin/comments/1ppt4w1/help/)
 - [Next level Kotlin support in Spring Boot 4](https://www.reddit.com/r/Kotlin/comments/1ppqm1n/next_level_kotlin_support_in_spring_boot_4/)
-- [KotlinConf 2026: Workshops, templates for approval, and hands-on learning](https://www.reddit.com/r/Kotlin/comments/1pppvkt/kotlinconf_2026_workshops_templates_for_approval/)
-- [Migrated to CMP + KMP… Android is perfect, KMP feels broken. How do you move fast from here?](https://www.reddit.com/r/Kotlin/comments/1ppglbk/migrated_to_cmp_kmp_android_is_perfect_kmp_feels/)
-- [Why am I getting errors when running Kotlin code in Android Studio?](https://www.reddit.com/r/Kotlin/comments/1ppg1v3/why_am_i_getting_errors_when_running_kotlin_code/)
-- [Kotlin shared code with backend and frontend?](https://www.reddit.com/r/Kotlin/comments/1pp71op/kotlin_shared_code_with_backend_and_frontend/)
-- [Further Optimizing my Java SwissTable: Profile Pollution and SWAR Probing](https://www.reddit.com/r/Kotlin/comments/1pp1t6f/further_optimizing_my_java_swisstable_profile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
