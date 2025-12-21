@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it a bad idea to use Flow as a publisher + observer model for backend?](https://www.reddit.com/r/Kotlin/comments/1prrih3/is_it_a_bad_idea_to_use_flow_as_a_publisher/)
+- [Ktor auth: java-jwt + bcrypt, good choice?](https://www.reddit.com/r/Kotlin/comments/1prl9a8/ktor_auth_javajwt_bcrypt_good_choice/)
+- [Split UI, shared logic. CMP](https://www.reddit.com/r/Kotlin/comments/1prbfcj/split_ui_shared_logic_cmp/)
 - [Database migrations with Exposed](https://www.reddit.com/r/Kotlin/comments/1pqw8zv/database_migrations_with_exposed/)
 - [The complete Kotlin Adoption Guide &lpar;PDF&rpar;](https://www.reddit.com/r/Kotlin/comments/1pqlmx3/the_complete_kotlin_adoption_guide_pdf/)
 - [Ideas for hackathon](https://www.reddit.com/r/Kotlin/comments/1pqlj2s/ideas_for_hackathon/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin 2.3.0 Released](https://www.reddit.com/r/Kotlin/comments/1pqbonw/kotlin_230_released/)
 - [Where to implement unit tests in KMP project](https://www.reddit.com/r/Kotlin/comments/1pq8vrz/where_to_implement_unit_tests_in_kmp_project/)
 - [Designing a standalone Linux admin CLI with Kotlin &lpar;tools &amp; pitfalls&rpar;](https://www.reddit.com/r/Kotlin/comments/1pq4omx/designing_a_standalone_linux_admin_cli_with/)
-- [Introducing ExoQuery MCP Server - No more hallucinated query code!](https://www.reddit.com/r/Kotlin/comments/1ppyq3v/introducing_exoquery_mcp_server_no_more/)
-- [help](https://www.reddit.com/r/Kotlin/comments/1ppt4w1/help/)
-- [Next level Kotlin support in Spring Boot 4](https://www.reddit.com/r/Kotlin/comments/1ppqm1n/next_level_kotlin_support_in_spring_boot_4/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
