@@ -272,7 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [People keep asking for my old Google Play Console account… is this normal?](https://www.reddit.com/r/Kotlin/comments/1ps26x6/people_keep_asking_for_my_old_google_play_console/)
+- [New in mobile development](https://www.reddit.com/r/Kotlin/comments/1pthlcs/new_in_mobile_development/)
+- [[Project] I built a performant Isometric Game Engine using 100% Pure Kotlin and Compose](https://www.reddit.com/r/Kotlin/comments/1pss0s5/project_i_built_a_performant_isometric_game/)
 - [Is it a bad idea to use Flow as a publisher + observer model for backend?](https://www.reddit.com/r/Kotlin/comments/1prrih3/is_it_a_bad_idea_to_use_flow_as_a_publisher/)
 - [Ktor auth: java-jwt + bcrypt, good choice?](https://www.reddit.com/r/Kotlin/comments/1prl9a8/ktor_auth_javajwt_bcrypt_good_choice/)
 - [Split UI, shared logic. CMP](https://www.reddit.com/r/Kotlin/comments/1prbfcj/split_ui_shared_logic_cmp/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Ideas for hackathon](https://www.reddit.com/r/Kotlin/comments/1pqlj2s/ideas_for_hackathon/)
 - [Golden Kodee Community Awards at KotlinConf 2026](https://www.reddit.com/r/Kotlin/comments/1pqiasl/golden_kodee_community_awards_at_kotlinconf_2026/)
 - [Kotlin 2.3.0 Released](https://www.reddit.com/r/Kotlin/comments/1pqbonw/kotlin_230_released/)
-- [Where to implement unit tests in KMP project](https://www.reddit.com/r/Kotlin/comments/1pq8vrz/where_to_implement_unit_tests_in_kmp_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
