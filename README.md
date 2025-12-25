@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are AI Doom Predictions Overhyped?](https://www.reddit.com/r/Kotlin/comments/1pv17ys/are_ai_doom_predictions_overhyped/)
+- [Best practice for password hashing in Ktor &lpar;PostgreSQL auth&rpar;](https://www.reddit.com/r/Kotlin/comments/1puvu4k/best_practice_for_password_hashing_in_ktor/)
+- [Software ray tracer in kotlin](https://www.reddit.com/r/Kotlin/comments/1purcjg/software_ray_tracer_in_kotlin/)
+- [Generating rich link previews 10x faster](https://www.reddit.com/r/Kotlin/comments/1pu8hci/generating_rich_link_previews_10x_faster/)
+- [From Exceptions to Rich Errors: Rethinking Error Handling in Kotlin I Michail Zarečenskij](https://www.reddit.com/r/Kotlin/comments/1pu6djk/from_exceptions_to_rich_errors_rethinking_error/)
+- [Suno’s Kotlin-based app](https://www.reddit.com/r/Kotlin/comments/1pu3it4/sunos_kotlinbased_app/)
+- [I Solved Advent of Code 2025 in Kotlin: Here&#39;s How It Went](https://www.reddit.com/r/Kotlin/comments/1ptvvaf/i_solved_advent_of_code_2025_in_kotlin_heres_how/)
+- [[Open Source] Built the first Local Stable Diffusion client using Kotlin Multiplatform &lpar;Android &amp; Desktop&rpar; 🚀](https://www.reddit.com/r/Kotlin/comments/1ptvamg/open_source_built_the_first_local_stable/)
+- [WindowSizeClass not yet available on Compose Multiplatform 1.9.3?](https://www.reddit.com/r/Kotlin/comments/1ptswd5/windowsizeclass_not_yet_available_on_compose/)
 - [New in mobile development](https://www.reddit.com/r/Kotlin/comments/1pthlcs/new_in_mobile_development/)
-- [[Project] I built a performant Isometric Game Engine using 100% Pure Kotlin and Compose](https://www.reddit.com/r/Kotlin/comments/1pss0s5/project_i_built_a_performant_isometric_game/)
-- [Is it a bad idea to use Flow as a publisher + observer model for backend?](https://www.reddit.com/r/Kotlin/comments/1prrih3/is_it_a_bad_idea_to_use_flow_as_a_publisher/)
-- [Ktor auth: java-jwt + bcrypt, good choice?](https://www.reddit.com/r/Kotlin/comments/1prl9a8/ktor_auth_javajwt_bcrypt_good_choice/)
-- [Split UI, shared logic. CMP](https://www.reddit.com/r/Kotlin/comments/1prbfcj/split_ui_shared_logic_cmp/)
-- [Database migrations with Exposed](https://www.reddit.com/r/Kotlin/comments/1pqw8zv/database_migrations_with_exposed/)
-- [The complete Kotlin Adoption Guide &lpar;PDF&rpar;](https://www.reddit.com/r/Kotlin/comments/1pqlmx3/the_complete_kotlin_adoption_guide_pdf/)
-- [Ideas for hackathon](https://www.reddit.com/r/Kotlin/comments/1pqlj2s/ideas_for_hackathon/)
-- [Golden Kodee Community Awards at KotlinConf 2026](https://www.reddit.com/r/Kotlin/comments/1pqiasl/golden_kodee_community_awards_at_kotlinconf_2026/)
-- [Kotlin 2.3.0 Released](https://www.reddit.com/r/Kotlin/comments/1pqbonw/kotlin_230_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
