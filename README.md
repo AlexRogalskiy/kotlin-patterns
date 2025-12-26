@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Day one of becoming a senior java developer in just 6 months . M I N G . F I G.](https://www.reddit.com/r/Kotlin/comments/1pvta3b/day_one_of_becoming_a_senior_java_developer_in/)
+- [How should a multi-tenant application architecture be implemented in KMP, and which libraries should be used?](https://www.reddit.com/r/Kotlin/comments/1pvsj4c/how_should_a_multitenant_application_architecture/)
+- [Have you ever tried AI mock interview](https://www.reddit.com/r/Kotlin/comments/1pvkis4/have_you_ever_tried_ai_mock_interview/)
+- [androidTarget Deprecated](https://www.reddit.com/r/Kotlin/comments/1pvhkkn/androidtarget_deprecated/)
+- [[Closed Beta Testers Needed] Local Android Prayer Times App on Google Play](https://www.reddit.com/r/Kotlin/comments/1pvg8k1/closed_beta_testers_needed_local_android_prayer/)
+- [The Dot Parse Library Released](https://www.reddit.com/r/Kotlin/comments/1pv6mv6/the_dot_parse_library_released/)
 - [Are AI Doom Predictions Overhyped?](https://www.reddit.com/r/Kotlin/comments/1pv17ys/are_ai_doom_predictions_overhyped/)
 - [Best practice for password hashing in Ktor &lpar;PostgreSQL auth&rpar;](https://www.reddit.com/r/Kotlin/comments/1puvu4k/best_practice_for_password_hashing_in_ktor/)
 - [Software ray tracer in kotlin](https://www.reddit.com/r/Kotlin/comments/1purcjg/software_ray_tracer_in_kotlin/)
 - [Generating rich link previews 10x faster](https://www.reddit.com/r/Kotlin/comments/1pu8hci/generating_rich_link_previews_10x_faster/)
-- [From Exceptions to Rich Errors: Rethinking Error Handling in Kotlin I Michail Zarečenskij](https://www.reddit.com/r/Kotlin/comments/1pu6djk/from_exceptions_to_rich_errors_rethinking_error/)
-- [Suno’s Kotlin-based app](https://www.reddit.com/r/Kotlin/comments/1pu3it4/sunos_kotlinbased_app/)
-- [I Solved Advent of Code 2025 in Kotlin: Here&#39;s How It Went](https://www.reddit.com/r/Kotlin/comments/1ptvvaf/i_solved_advent_of_code_2025_in_kotlin_heres_how/)
-- [[Open Source] Built the first Local Stable Diffusion client using Kotlin Multiplatform &lpar;Android &amp; Desktop&rpar; 🚀](https://www.reddit.com/r/Kotlin/comments/1ptvamg/open_source_built_the_first_local_stable/)
-- [WindowSizeClass not yet available on Compose Multiplatform 1.9.3?](https://www.reddit.com/r/Kotlin/comments/1ptswd5/windowsizeclass_not_yet_available_on_compose/)
-- [New in mobile development](https://www.reddit.com/r/Kotlin/comments/1pthlcs/new_in_mobile_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
