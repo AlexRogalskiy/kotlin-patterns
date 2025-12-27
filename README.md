@@ -272,8 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Reklamation/redigering](https://www.reddit.com/r/Kotlin/comments/1pw7eco/reklamationredigering/)
 - [Day one of becoming a senior java developer in just 6 months . M I N G . F I G.](https://www.reddit.com/r/Kotlin/comments/1pvta3b/day_one_of_becoming_a_senior_java_developer_in/)
-- [How should a multi-tenant application architecture be implemented in KMP, and which libraries should be used?](https://www.reddit.com/r/Kotlin/comments/1pvsj4c/how_should_a_multitenant_application_architecture/)
 - [Have you ever tried AI mock interview](https://www.reddit.com/r/Kotlin/comments/1pvkis4/have_you_ever_tried_ai_mock_interview/)
 - [androidTarget Deprecated](https://www.reddit.com/r/Kotlin/comments/1pvhkkn/androidtarget_deprecated/)
 - [[Closed Beta Testers Needed] Local Android Prayer Times App on Google Play](https://www.reddit.com/r/Kotlin/comments/1pvg8k1/closed_beta_testers_needed_local_android_prayer/)
