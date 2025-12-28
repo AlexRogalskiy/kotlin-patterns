@@ -272,7 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Reklamation/redigering](https://www.reddit.com/r/Kotlin/comments/1pw7eco/reklamationredigering/)
+- [Kotlin Multiplatform App - Mine StableDiffusion 1.3.2](https://www.reddit.com/r/Kotlin/comments/1pwxpda/kotlin_multiplatform_app_mine_stablediffusion_132/)
+- [Building a workout counter app - is MediaPipe the best choice for accurate rep counting?](https://www.reddit.com/r/Kotlin/comments/1pwtvdz/building_a_workout_counter_app_is_mediapipe_the/)
 - [Day one of becoming a senior java developer in just 6 months . M I N G . F I G.](https://www.reddit.com/r/Kotlin/comments/1pvta3b/day_one_of_becoming_a_senior_java_developer_in/)
 - [Have you ever tried AI mock interview](https://www.reddit.com/r/Kotlin/comments/1pvkis4/have_you_ever_tried_ai_mock_interview/)
 - [androidTarget Deprecated](https://www.reddit.com/r/Kotlin/comments/1pvhkkn/androidtarget_deprecated/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Are AI Doom Predictions Overhyped?](https://www.reddit.com/r/Kotlin/comments/1pv17ys/are_ai_doom_predictions_overhyped/)
 - [Best practice for password hashing in Ktor &lpar;PostgreSQL auth&rpar;](https://www.reddit.com/r/Kotlin/comments/1puvu4k/best_practice_for_password_hashing_in_ktor/)
 - [Software ray tracer in kotlin](https://www.reddit.com/r/Kotlin/comments/1purcjg/software_ray_tracer_in_kotlin/)
-- [Generating rich link previews 10x faster](https://www.reddit.com/r/Kotlin/comments/1pu8hci/generating_rich_link_previews_10x_faster/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
