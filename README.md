@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kuiver: Graph Visualization Library for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1pzntni/kuiver_graph_visualization_library_for_compose/)
+- [Seemake - CMake project analyzer written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1pzbogf/seemake_cmake_project_analyzer_written_in_kotlin/)
+- [Been working on a web framework for Kotlin](https://www.reddit.com/r/Kotlin/comments/1pyp1x1/been_working_on_a_web_framework_for_kotlin/)
+- [New Compose Multiplatform camera library: compose-camera](https://www.reddit.com/r/Kotlin/comments/1pyfagh/new_compose_multiplatform_camera_library/)
 - [Disabled proguard on compose desktop](https://www.reddit.com/r/Kotlin/comments/1py7qj6/disabled_proguard_on_compose_desktop/)
 - [Stepping down as maintainer after 10 years](https://www.reddit.com/r/Kotlin/comments/1py3m2f/stepping_down_as_maintainer_after_10_years/)
 - [Kotlin practice exercises to develop muscle memory for LC](https://www.reddit.com/r/Kotlin/comments/1pxvk1g/kotlin_practice_exercises_to_develop_muscle/)
 - [codestutorial.com - please review &amp; feedback](https://www.reddit.com/r/Kotlin/comments/1pxpxc9/codestutorialcom_please_review_feedback/)
 - [Type specification when creating an empty list](https://www.reddit.com/r/Kotlin/comments/1pxmid0/type_specification_when_creating_an_empty_list/)
 - [Kotlin Multiplatform App - Mine StableDiffusion 1.3.2](https://www.reddit.com/r/Kotlin/comments/1pwxpda/kotlin_multiplatform_app_mine_stablediffusion_132/)
-- [Building a workout counter app - is MediaPipe the best choice for accurate rep counting?](https://www.reddit.com/r/Kotlin/comments/1pwtvdz/building_a_workout_counter_app_is_mediapipe_the/)
-- [Day one of becoming a senior java developer in just 6 months . M I N G . F I G.](https://www.reddit.com/r/Kotlin/comments/1pvta3b/day_one_of_becoming_a_senior_java_developer_in/)
-- [Have you ever tried AI mock interview](https://www.reddit.com/r/Kotlin/comments/1pvkis4/have_you_ever_tried_ai_mock_interview/)
-- [androidTarget Deprecated](https://www.reddit.com/r/Kotlin/comments/1pvhkkn/androidtarget_deprecated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
