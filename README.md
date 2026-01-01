@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need Help Learning iOS Deployment and CI/CD for a Compose Multiplatform App](https://www.reddit.com/r/Kotlin/comments/1q0q2da/need_help_learning_ios_deployment_and_cicd_for_a/)
+- [sortedSetOf sort of me drives me crazy](https://www.reddit.com/r/Kotlin/comments/1q0pvbt/sortedsetof_sort_of_me_drives_me_crazy/)
+- [I was tired of writing expect/actual for Amplitude SDK in each project, so I wrapped that in a library once for all](https://www.reddit.com/r/Kotlin/comments/1q09mtz/i_was_tired_of_writing_expectactual_for_amplitude/)
 - [Kuiver: Graph Visualization Library for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1pzntni/kuiver_graph_visualization_library_for_compose/)
 - [Seemake - CMake project analyzer written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1pzbogf/seemake_cmake_project_analyzer_written_in_kotlin/)
 - [Been working on a web framework for Kotlin](https://www.reddit.com/r/Kotlin/comments/1pyp1x1/been_working_on_a_web_framework_for_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Disabled proguard on compose desktop](https://www.reddit.com/r/Kotlin/comments/1py7qj6/disabled_proguard_on_compose_desktop/)
 - [Stepping down as maintainer after 10 years](https://www.reddit.com/r/Kotlin/comments/1py3m2f/stepping_down_as_maintainer_after_10_years/)
 - [Kotlin practice exercises to develop muscle memory for LC](https://www.reddit.com/r/Kotlin/comments/1pxvk1g/kotlin_practice_exercises_to_develop_muscle/)
-- [codestutorial.com - please review &amp; feedback](https://www.reddit.com/r/Kotlin/comments/1pxpxc9/codestutorialcom_please_review_feedback/)
-- [Type specification when creating an empty list](https://www.reddit.com/r/Kotlin/comments/1pxmid0/type_specification_when_creating_an_empty_list/)
-- [Kotlin Multiplatform App - Mine StableDiffusion 1.3.2](https://www.reddit.com/r/Kotlin/comments/1pwxpda/kotlin_multiplatform_app_mine_stablediffusion_132/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
