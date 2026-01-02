@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Low-cost hosting options for a small Ktor backend &lpar;SQLite, &lt;500 users&rpar;](https://www.reddit.com/r/Kotlin/comments/1q0zvyb/lowcost_hosting_options_for_a_small_ktor_backend/)
 - [Need Help Learning iOS Deployment and CI/CD for a Compose Multiplatform App](https://www.reddit.com/r/Kotlin/comments/1q0q2da/need_help_learning_ios_deployment_and_cicd_for_a/)
 - [sortedSetOf sort of me drives me crazy](https://www.reddit.com/r/Kotlin/comments/1q0pvbt/sortedsetof_sort_of_me_drives_me_crazy/)
 - [I was tired of writing expect/actual for Amplitude SDK in each project, so I wrapped that in a library once for all](https://www.reddit.com/r/Kotlin/comments/1q09mtz/i_was_tired_of_writing_expectactual_for_amplitude/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [New Compose Multiplatform camera library: compose-camera](https://www.reddit.com/r/Kotlin/comments/1pyfagh/new_compose_multiplatform_camera_library/)
 - [Disabled proguard on compose desktop](https://www.reddit.com/r/Kotlin/comments/1py7qj6/disabled_proguard_on_compose_desktop/)
 - [Stepping down as maintainer after 10 years](https://www.reddit.com/r/Kotlin/comments/1py3m2f/stepping_down_as_maintainer_after_10_years/)
-- [Kotlin practice exercises to develop muscle memory for LC](https://www.reddit.com/r/Kotlin/comments/1pxvk1g/kotlin_practice_exercises_to_develop_muscle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
