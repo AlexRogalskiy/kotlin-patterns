@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Develop outside IntelliJ](https://www.reddit.com/r/Kotlin/comments/1q2fxp9/develop_outside_intellij/)
+- [I am struggling with kmp and cmp](https://www.reddit.com/r/Kotlin/comments/1q2bi11/i_am_struggling_with_kmp_and_cmp/)
+- [An coroutine safe Chrome DevTools Protocol in Kotlin.](https://www.reddit.com/r/Kotlin/comments/1q24fnp/an_coroutine_safe_chrome_devtools_protocol_in/)
+- [Refactoring to Simple](https://www.reddit.com/r/Kotlin/comments/1q1yw58/refactoring_to_simple/)
+- [Ktor: where to enforce tenant level authorization?](https://www.reddit.com/r/Kotlin/comments/1q1y811/ktor_where_to_enforce_tenant_level_authorization/)
+- [More lightweight way to use Kotlin?](https://www.reddit.com/r/Kotlin/comments/1q1tqeh/more_lightweight_way_to_use_kotlin/)
+- [[Showcase] A game engine in Rust, wgpu and ...Kotlin?](https://www.reddit.com/r/Kotlin/comments/1q1q9wc/showcase_a_game_engine_in_rust_wgpu_and_kotlin/)
+- [Need a partner](https://www.reddit.com/r/Kotlin/comments/1q1ofev/need_a_partner/)
 - [Low-cost hosting options for a small Ktor backend &lpar;SQLite, &lt;500 users&rpar;](https://www.reddit.com/r/Kotlin/comments/1q0zvyb/lowcost_hosting_options_for_a_small_ktor_backend/)
 - [Need Help Learning iOS Deployment and CI/CD for a Compose Multiplatform App](https://www.reddit.com/r/Kotlin/comments/1q0q2da/need_help_learning_ios_deployment_and_cicd_for_a/)
-- [sortedSetOf sort of me drives me crazy](https://www.reddit.com/r/Kotlin/comments/1q0pvbt/sortedsetof_sort_of_me_drives_me_crazy/)
-- [I was tired of writing expect/actual for Amplitude SDK in each project, so I wrapped that in a library once for all](https://www.reddit.com/r/Kotlin/comments/1q09mtz/i_was_tired_of_writing_expectactual_for_amplitude/)
-- [Kuiver: Graph Visualization Library for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1pzntni/kuiver_graph_visualization_library_for_compose/)
-- [Seemake - CMake project analyzer written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1pzbogf/seemake_cmake_project_analyzer_written_in_kotlin/)
-- [Been working on a web framework for Kotlin](https://www.reddit.com/r/Kotlin/comments/1pyp1x1/been_working_on_a_web_framework_for_kotlin/)
-- [New Compose Multiplatform camera library: compose-camera](https://www.reddit.com/r/Kotlin/comments/1pyfagh/new_compose_multiplatform_camera_library/)
-- [Disabled proguard on compose desktop](https://www.reddit.com/r/Kotlin/comments/1py7qj6/disabled_proguard_on_compose_desktop/)
-- [Stepping down as maintainer after 10 years](https://www.reddit.com/r/Kotlin/comments/1py3m2f/stepping_down_as_maintainer_after_10_years/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
