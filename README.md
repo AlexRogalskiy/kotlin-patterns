@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How We Cut Our Cloud Bill by $15,000/Month Migrating 5 Million Users From Java to Ktor/Kotlin](https://www.reddit.com/r/Kotlin/comments/1q3cptk/how_we_cut_our_cloud_bill_by_15000month_migrating/)
+- [Beyond shared logic &lpar;white label app with kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1q30yhi/beyond_shared_logic_white_label_app_with_kotlin/)
+- [How to make the Icon appear half in the dialog box and the other half in the background?](https://www.reddit.com/r/Kotlin/comments/1q2qeo3/how_to_make_the_icon_appear_half_in_the_dialog/)
 - [Develop outside IntelliJ](https://www.reddit.com/r/Kotlin/comments/1q2fxp9/develop_outside_intellij/)
 - [I am struggling with kmp and cmp](https://www.reddit.com/r/Kotlin/comments/1q2bi11/i_am_struggling_with_kmp_and_cmp/)
 - [An coroutine safe Chrome DevTools Protocol in Kotlin.](https://www.reddit.com/r/Kotlin/comments/1q24fnp/an_coroutine_safe_chrome_devtools_protocol_in/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Ktor: where to enforce tenant level authorization?](https://www.reddit.com/r/Kotlin/comments/1q1y811/ktor_where_to_enforce_tenant_level_authorization/)
 - [More lightweight way to use Kotlin?](https://www.reddit.com/r/Kotlin/comments/1q1tqeh/more_lightweight_way_to_use_kotlin/)
 - [[Showcase] A game engine in Rust, wgpu and ...Kotlin?](https://www.reddit.com/r/Kotlin/comments/1q1q9wc/showcase_a_game_engine_in_rust_wgpu_and_kotlin/)
-- [Need a partner](https://www.reddit.com/r/Kotlin/comments/1q1ofev/need_a_partner/)
-- [Low-cost hosting options for a small Ktor backend &lpar;SQLite, &lt;500 users&rpar;](https://www.reddit.com/r/Kotlin/comments/1q0zvyb/lowcost_hosting_options_for_a_small_ktor_backend/)
-- [Need Help Learning iOS Deployment and CI/CD for a Compose Multiplatform App](https://www.reddit.com/r/Kotlin/comments/1q0q2da/need_help_learning_ios_deployment_and_cicd_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
