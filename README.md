@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMM: Best way to support multiple client-branded apps with different package/bundle IDs?](https://www.reddit.com/r/Kotlin/comments/1q41bcu/kmm_best_way_to_support_multiple_clientbranded/)
+- [Seeking feedback: Offline “keep-in-touch” reminders app &lpar;no server, privacy-first&rpar;](https://www.reddit.com/r/Kotlin/comments/1q3o3me/seeking_feedback_offline_keepintouch_reminders/)
+- [Accessing Swift-only API &lpar;ASAuthorizationAccountCreationProvider&rpar; in KMP iosMain?](https://www.reddit.com/r/Kotlin/comments/1q3m6g6/accessing_swiftonly_api/)
 - [How We Cut Our Cloud Bill by $15,000/Month Migrating 5 Million Users From Java to Ktor/Kotlin](https://www.reddit.com/r/Kotlin/comments/1q3cptk/how_we_cut_our_cloud_bill_by_15000month_migrating/)
 - [Beyond shared logic &lpar;white label app with kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1q30yhi/beyond_shared_logic_white_label_app_with_kotlin/)
 - [How to make the Icon appear half in the dialog box and the other half in the background?](https://www.reddit.com/r/Kotlin/comments/1q2qeo3/how_to_make_the_icon_appear_half_in_the_dialog/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I am struggling with kmp and cmp](https://www.reddit.com/r/Kotlin/comments/1q2bi11/i_am_struggling_with_kmp_and_cmp/)
 - [An coroutine safe Chrome DevTools Protocol in Kotlin.](https://www.reddit.com/r/Kotlin/comments/1q24fnp/an_coroutine_safe_chrome_devtools_protocol_in/)
 - [Refactoring to Simple](https://www.reddit.com/r/Kotlin/comments/1q1yw58/refactoring_to_simple/)
-- [Ktor: where to enforce tenant level authorization?](https://www.reddit.com/r/Kotlin/comments/1q1y811/ktor_where_to_enforce_tenant_level_authorization/)
-- [More lightweight way to use Kotlin?](https://www.reddit.com/r/Kotlin/comments/1q1tqeh/more_lightweight_way_to_use_kotlin/)
-- [[Showcase] A game engine in Rust, wgpu and ...Kotlin?](https://www.reddit.com/r/Kotlin/comments/1q1q9wc/showcase_a_game_engine_in_rust_wgpu_and_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
