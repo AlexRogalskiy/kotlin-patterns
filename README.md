@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The road to Summon 1.0 - Feature list and Refresher](https://www.reddit.com/r/Kotlin/comments/1q4lnth/the_road_to_summon_10_feature_list_and_refresher/)
 - [KMM: Best way to support multiple client-branded apps with different package/bundle IDs?](https://www.reddit.com/r/Kotlin/comments/1q41bcu/kmm_best_way_to_support_multiple_clientbranded/)
 - [Seeking feedback: Offline “keep-in-touch” reminders app &lpar;no server, privacy-first&rpar;](https://www.reddit.com/r/Kotlin/comments/1q3o3me/seeking_feedback_offline_keepintouch_reminders/)
 - [Accessing Swift-only API &lpar;ASAuthorizationAccountCreationProvider&rpar; in KMP iosMain?](https://www.reddit.com/r/Kotlin/comments/1q3m6g6/accessing_swiftonly_api/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Develop outside IntelliJ](https://www.reddit.com/r/Kotlin/comments/1q2fxp9/develop_outside_intellij/)
 - [I am struggling with kmp and cmp](https://www.reddit.com/r/Kotlin/comments/1q2bi11/i_am_struggling_with_kmp_and_cmp/)
 - [An coroutine safe Chrome DevTools Protocol in Kotlin.](https://www.reddit.com/r/Kotlin/comments/1q24fnp/an_coroutine_safe_chrome_devtools_protocol_in/)
-- [Refactoring to Simple](https://www.reddit.com/r/Kotlin/comments/1q1yw58/refactoring_to_simple/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
