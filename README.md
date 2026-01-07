@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Wearable + Mobile Communication Library for KMP + Android](https://www.reddit.com/r/Kotlin/comments/1q5yjz3/wearable_mobile_communication_library_for_kmp/)
+- [Agents and Gradle Dont Get Along - I Fixed It in Two Commands](https://www.reddit.com/r/Kotlin/comments/1q5semq/agents_and_gradle_dont_get_along_i_fixed_it_in/)
+- [Kotzilla 3.17.0: Now tracking Min/Max durations to help pinpoint ANRs and freezes](https://www.reddit.com/r/Kotlin/comments/1q5j1y4/kotzilla_3170_now_tracking_minmax_durations_to/)
+- [kotlin.jar](https://www.reddit.com/r/Kotlin/comments/1q5htod/kotlinjar/)
 - [The road to Summon 1.0 - Feature list and Refresher](https://www.reddit.com/r/Kotlin/comments/1q4lnth/the_road_to_summon_10_feature_list_and_refresher/)
 - [KMM: Best way to support multiple client-branded apps with different package/bundle IDs?](https://www.reddit.com/r/Kotlin/comments/1q41bcu/kmm_best_way_to_support_multiple_clientbranded/)
 - [Seeking feedback: Offline “keep-in-touch” reminders app &lpar;no server, privacy-first&rpar;](https://www.reddit.com/r/Kotlin/comments/1q3o3me/seeking_feedback_offline_keepintouch_reminders/)
 - [Accessing Swift-only API &lpar;ASAuthorizationAccountCreationProvider&rpar; in KMP iosMain?](https://www.reddit.com/r/Kotlin/comments/1q3m6g6/accessing_swiftonly_api/)
 - [How We Cut Our Cloud Bill by $15,000/Month Migrating 5 Million Users From Java to Ktor/Kotlin](https://www.reddit.com/r/Kotlin/comments/1q3cptk/how_we_cut_our_cloud_bill_by_15000month_migrating/)
 - [Beyond shared logic &lpar;white label app with kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1q30yhi/beyond_shared_logic_white_label_app_with_kotlin/)
-- [How to make the Icon appear half in the dialog box and the other half in the background?](https://www.reddit.com/r/Kotlin/comments/1q2qeo3/how_to_make_the_icon_appear_half_in_the_dialog/)
-- [Develop outside IntelliJ](https://www.reddit.com/r/Kotlin/comments/1q2fxp9/develop_outside_intellij/)
-- [I am struggling with kmp and cmp](https://www.reddit.com/r/Kotlin/comments/1q2bi11/i_am_struggling_with_kmp_and_cmp/)
-- [An coroutine safe Chrome DevTools Protocol in Kotlin.](https://www.reddit.com/r/Kotlin/comments/1q24fnp/an_coroutine_safe_chrome_devtools_protocol_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
