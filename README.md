@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT Market Landscape 2026: Python, Java &amp; Kotlin Analysis](https://www.reddit.com/r/Kotlin/comments/1q6pujw/it_market_landscape_2026_python_java_kotlin/)
+- [Unable to share resource module](https://www.reddit.com/r/Kotlin/comments/1q6kf4q/unable_to_share_resource_module/)
+- [Htmx like library but with kotlinx-html static builders and all server side. For an easier way to develop web applications.](https://www.reddit.com/r/Kotlin/comments/1q6ii5o/htmx_like_library_but_with_kotlinxhtml_static/)
+- [Question about property delegation](https://www.reddit.com/r/Kotlin/comments/1q6ajb8/question_about_property_delegation/)
 - [Wearable + Mobile Communication Library for KMP + Android](https://www.reddit.com/r/Kotlin/comments/1q5yjz3/wearable_mobile_communication_library_for_kmp/)
 - [Agents and Gradle Dont Get Along - I Fixed It in Two Commands](https://www.reddit.com/r/Kotlin/comments/1q5semq/agents_and_gradle_dont_get_along_i_fixed_it_in/)
 - [Kotzilla 3.17.0: Now tracking Min/Max durations to help pinpoint ANRs and freezes](https://www.reddit.com/r/Kotlin/comments/1q5j1y4/kotzilla_3170_now_tracking_minmax_durations_to/)
 - [kotlin.jar](https://www.reddit.com/r/Kotlin/comments/1q5htod/kotlinjar/)
 - [The road to Summon 1.0 - Feature list and Refresher](https://www.reddit.com/r/Kotlin/comments/1q4lnth/the_road_to_summon_10_feature_list_and_refresher/)
 - [KMM: Best way to support multiple client-branded apps with different package/bundle IDs?](https://www.reddit.com/r/Kotlin/comments/1q41bcu/kmm_best_way_to_support_multiple_clientbranded/)
-- [Seeking feedback: Offline “keep-in-touch” reminders app &lpar;no server, privacy-first&rpar;](https://www.reddit.com/r/Kotlin/comments/1q3o3me/seeking_feedback_offline_keepintouch_reminders/)
-- [Accessing Swift-only API &lpar;ASAuthorizationAccountCreationProvider&rpar; in KMP iosMain?](https://www.reddit.com/r/Kotlin/comments/1q3m6g6/accessing_swiftonly_api/)
-- [How We Cut Our Cloud Bill by $15,000/Month Migrating 5 Million Users From Java to Ktor/Kotlin](https://www.reddit.com/r/Kotlin/comments/1q3cptk/how_we_cut_our_cloud_bill_by_15000month_migrating/)
-- [Beyond shared logic &lpar;white label app with kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1q30yhi/beyond_shared_logic_white_label_app_with_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
