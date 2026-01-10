@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Custom agent is insane 🤯](https://www.reddit.com/r/Kotlin/comments/1q8ranq/custom_agent_is_insane/)
+- [What tutorial can help me learn Kotlin effectively?](https://www.reddit.com/r/Kotlin/comments/1q8lc4s/what_tutorial_can_help_me_learn_kotlin_effectively/)
+- [question about storing and using api keys securely](https://www.reddit.com/r/Kotlin/comments/1q8i8i3/question_about_storing_and_using_api_keys_securely/)
+- [Jindong — a declarative haptics library for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1q8du2e/jindong_a_declarative_haptics_library_for_compose/)
+- [Better Logging for Ktor with MDC](https://www.reddit.com/r/Kotlin/comments/1q823fx/better_logging_for_ktor_with_mdc/)
 - [Built a runtime that lets you run Kotlin like Python &lpar;no build step, instant execution&rpar;](https://www.reddit.com/r/Kotlin/comments/1q7uilf/built_a_runtime_that_lets_you_run_kotlin_like/)
 - [I built Kotlin Wrapper for Java Swing &lpar;swing-plus&rpar;!](https://www.reddit.com/r/Kotlin/comments/1q7ksm2/i_built_kotlin_wrapper_for_java_swing_swingplus/)
 - [I created an efficient graph library for Kotlin/JVM - up to 68x faster than Guava Graphs and 44x faster than JGraphT for BFS](https://www.reddit.com/r/Kotlin/comments/1q7icss/i_created_an_efficient_graph_library_for/)
 - [Everything you might have missed in Java in 2025](https://www.reddit.com/r/Kotlin/comments/1q7d1by/everything_you_might_have_missed_in_java_in_2025/)
 - [IT Market Landscape 2026: Python, Java &amp; Kotlin Analysis](https://www.reddit.com/r/Kotlin/comments/1q6pujw/it_market_landscape_2026_python_java_kotlin/)
-- [Unable to share resource module](https://www.reddit.com/r/Kotlin/comments/1q6kf4q/unable_to_share_resource_module/)
-- [Htmx like library but with kotlinx-html static builders and all server side. For an easier way to develop web applications.](https://www.reddit.com/r/Kotlin/comments/1q6ii5o/htmx_like_library_but_with_kotlinxhtml_static/)
-- [Question about property delegation](https://www.reddit.com/r/Kotlin/comments/1q6ajb8/question_about_property_delegation/)
-- [Wearable + Mobile Communication Library for KMP + Android](https://www.reddit.com/r/Kotlin/comments/1q5yjz3/wearable_mobile_communication_library_for_kmp/)
-- [Agents and Gradle Dont Get Along - I Fixed It in Two Commands](https://www.reddit.com/r/Kotlin/comments/1q5semq/agents_and_gradle_dont_get_along_i_fixed_it_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
