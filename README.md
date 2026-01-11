@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cursos bons pra Kotlin](https://www.reddit.com/r/Kotlin/comments/1q9aqh8/cursos_bons_pra_kotlin/)
+- [Does Ktor Have Built-in Caching, and When Does It Make Sense to Use Redis?](https://www.reddit.com/r/Kotlin/comments/1q9ak44/does_ktor_have_builtin_caching_and_when_does_it/)
+- [Software renderer in kotlin](https://www.reddit.com/r/Kotlin/comments/1q8zx66/software_renderer_in_kotlin/)
+- [I built a desktop tool to debug Android Deep Links &amp; App Links](https://www.reddit.com/r/Kotlin/comments/1q8y0q1/i_built_a_desktop_tool_to_debug_android_deep/)
+- [Tracing User Journey with Coroutines in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1q8xc2g/tracing_user_journey_with_coroutines_in_kotlin/)
 - [Custom agent is insane 🤯](https://www.reddit.com/r/Kotlin/comments/1q8ranq/custom_agent_is_insane/)
 - [What tutorial can help me learn Kotlin effectively?](https://www.reddit.com/r/Kotlin/comments/1q8lc4s/what_tutorial_can_help_me_learn_kotlin_effectively/)
 - [question about storing and using api keys securely](https://www.reddit.com/r/Kotlin/comments/1q8i8i3/question_about_storing_and_using_api_keys_securely/)
 - [Jindong — a declarative haptics library for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1q8du2e/jindong_a_declarative_haptics_library_for_compose/)
 - [Better Logging for Ktor with MDC](https://www.reddit.com/r/Kotlin/comments/1q823fx/better_logging_for_ktor_with_mdc/)
-- [Built a runtime that lets you run Kotlin like Python &lpar;no build step, instant execution&rpar;](https://www.reddit.com/r/Kotlin/comments/1q7uilf/built_a_runtime_that_lets_you_run_kotlin_like/)
-- [I built Kotlin Wrapper for Java Swing &lpar;swing-plus&rpar;!](https://www.reddit.com/r/Kotlin/comments/1q7ksm2/i_built_kotlin_wrapper_for_java_swing_swingplus/)
-- [I created an efficient graph library for Kotlin/JVM - up to 68x faster than Guava Graphs and 44x faster than JGraphT for BFS](https://www.reddit.com/r/Kotlin/comments/1q7icss/i_created_an_efficient_graph_library_for/)
-- [Everything you might have missed in Java in 2025](https://www.reddit.com/r/Kotlin/comments/1q7d1by/everything_you_might_have_missed_in_java_in_2025/)
-- [IT Market Landscape 2026: Python, Java &amp; Kotlin Analysis](https://www.reddit.com/r/Kotlin/comments/1q6pujw/it_market_landscape_2026_python_java_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
