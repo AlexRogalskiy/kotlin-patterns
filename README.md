@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Backend API design: single agenda endpoint for past + future scheduled data?](https://www.reddit.com/r/Kotlin/comments/1qabqn2/backend_api_design_single_agenda_endpoint_for/)
+- [webidl-kt: WebIDL parser for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1qa7obw/webidlkt_webidl_parser_for_kotlin_multiplatform/)
+- [What AI is good for Kotlin coding?](https://www.reddit.com/r/Kotlin/comments/1qa6bmg/what_ai_is_good_for_kotlin_coding/)
+- [[Showcase] Blitzy: A lightweight 2D game engine](https://www.reddit.com/r/Kotlin/comments/1qa5tei/showcase_blitzy_a_lightweight_2d_game_engine/)
 - [Cursos bons pra Kotlin](https://www.reddit.com/r/Kotlin/comments/1q9aqh8/cursos_bons_pra_kotlin/)
 - [Does Ktor Have Built-in Caching, and When Does It Make Sense to Use Redis?](https://www.reddit.com/r/Kotlin/comments/1q9ak44/does_ktor_have_builtin_caching_and_when_does_it/)
 - [Software renderer in kotlin](https://www.reddit.com/r/Kotlin/comments/1q8zx66/software_renderer_in_kotlin/)
 - [I built a desktop tool to debug Android Deep Links &amp; App Links](https://www.reddit.com/r/Kotlin/comments/1q8y0q1/i_built_a_desktop_tool_to_debug_android_deep/)
 - [Tracing User Journey with Coroutines in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1q8xc2g/tracing_user_journey_with_coroutines_in_kotlin/)
 - [Custom agent is insane 🤯](https://www.reddit.com/r/Kotlin/comments/1q8ranq/custom_agent_is_insane/)
-- [What tutorial can help me learn Kotlin effectively?](https://www.reddit.com/r/Kotlin/comments/1q8lc4s/what_tutorial_can_help_me_learn_kotlin_effectively/)
-- [question about storing and using api keys securely](https://www.reddit.com/r/Kotlin/comments/1q8i8i3/question_about_storing_and_using_api_keys_securely/)
-- [Jindong — a declarative haptics library for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1q8du2e/jindong_a_declarative_haptics_library_for_compose/)
-- [Better Logging for Ktor with MDC](https://www.reddit.com/r/Kotlin/comments/1q823fx/better_logging_for_ktor_with_mdc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
