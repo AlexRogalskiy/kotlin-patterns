@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for advice for a coding challenge, planning phase.](https://www.reddit.com/r/Kotlin/comments/1qcaonq/looking_for_advice_for_a_coding_challenge/)
+- [State of Kotlin 2026](https://www.reddit.com/r/Kotlin/comments/1qca4ix/state_of_kotlin_2026/)
+- [🌈 JVM Rainbow - Mixing Java Kotlin Scala Clojure and Groovy](https://www.reddit.com/r/Kotlin/comments/1qc4j4m/jvm_rainbow_mixing_java_kotlin_scala_clojure_and/)
+- [Why I Think Kotlin Feels More Functional for Serious Projects](https://www.reddit.com/r/Kotlin/comments/1qc2n9s/why_i_think_kotlin_feels_more_functional_for/)
+- [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1qbvkz5/compose_multiplatform_wizard/)
+- [https://terrakok.github.io/mobicon](https://www.reddit.com/r/Kotlin/comments/1qbudyi/httpsterrakokgithubiomobicon/)
+- [Compose Multiplatform 1.10.0 released](https://www.reddit.com/r/Kotlin/comments/1qbshn8/compose_multiplatform_1100_released/)
+- [hi. full time deped teacher ako pero recently nahire ako full time din sa isang BPO company sa pinas, WFH sya and night shift so no prob sa sked. magkakaroon pa ako ng problema if ever since 2 employer ko? advice plsss.](https://www.reddit.com/r/Kotlin/comments/1qbradz/hi_full_time_deped_teacher_ako_pero_recently/)
 - [Built an Android SDK for collecting device signals and fingerprinting, would love feedback/tips.](https://www.reddit.com/r/Kotlin/comments/1qb17s0/built_an_android_sdk_for_collecting_device/)
 - [Backend API design: single agenda endpoint for past + future scheduled data?](https://www.reddit.com/r/Kotlin/comments/1qabqn2/backend_api_design_single_agenda_endpoint_for/)
-- [webidl-kt: WebIDL parser for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1qa7obw/webidlkt_webidl_parser_for_kotlin_multiplatform/)
-- [What AI is good for Kotlin coding?](https://www.reddit.com/r/Kotlin/comments/1qa6bmg/what_ai_is_good_for_kotlin_coding/)
-- [[Showcase] Blitzy: A lightweight 2D game engine](https://www.reddit.com/r/Kotlin/comments/1qa5tei/showcase_blitzy_a_lightweight_2d_game_engine/)
-- [Cursos bons pra Kotlin](https://www.reddit.com/r/Kotlin/comments/1q9aqh8/cursos_bons_pra_kotlin/)
-- [Does Ktor Have Built-in Caching, and When Does It Make Sense to Use Redis?](https://www.reddit.com/r/Kotlin/comments/1q9ak44/does_ktor_have_builtin_caching_and_when_does_it/)
-- [Software renderer in kotlin](https://www.reddit.com/r/Kotlin/comments/1q8zx66/software_renderer_in_kotlin/)
-- [I built a desktop tool to debug Android Deep Links &amp; App Links](https://www.reddit.com/r/Kotlin/comments/1q8y0q1/i_built_a_desktop_tool_to_debug_android_deep/)
-- [Tracing User Journey with Coroutines in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1q8xc2g/tracing_user_journey_with_coroutines_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
