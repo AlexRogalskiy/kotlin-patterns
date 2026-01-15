@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for advice for a coding challenge, planning phase.](https://www.reddit.com/r/Kotlin/comments/1qcaonq/looking_for_advice_for_a_coding_challenge/)
+- [Getting real users for Android apps via Reddit , what actually works?](https://www.reddit.com/r/Kotlin/comments/1qcvb3f/getting_real_users_for_android_apps_via_reddit/)
+- [JobRunr v8.4.0: Now works with Bazel rules_kotlin and auto-configures kotlinx.serialization](https://www.reddit.com/r/Kotlin/comments/1qctmnb/jobrunr_v840_now_works_with_bazel_rules_kotlin/)
+- [Building AI Agents in Kotlin – Part 4: Delegation and Sub-Agents](https://www.reddit.com/r/Kotlin/comments/1qctl8j/building_ai_agents_in_kotlin_part_4_delegation/)
+- [I missed System.currentTimeMillis&lpar;&rpar; a lot in KMP, so I made a wrapper targetting Android and iOS using kotlinx.datetime](https://www.reddit.com/r/Kotlin/comments/1qcrtmf/i_missed_systemcurrenttimemillis_a_lot_in_kmp_so/)
+- [I missed System.currentTimeMillis&lpar;&rpar; a lot in KMP, so I made a wrapper targetting Android and iOS using kotlinx.datetime](https://www.reddit.com/r/Kotlin/comments/1qcrrdb/i_missed_systemcurrenttimemillis_a_lot_in_kmp_so/)
+- [Looking for Kotlin experts for a “State of Kotlin” interview](https://www.reddit.com/r/Kotlin/comments/1qcosp1/looking_for_kotlin_experts_for_a_state_of_kotlin/)
 - [State of Kotlin 2026](https://www.reddit.com/r/Kotlin/comments/1qca4ix/state_of_kotlin_2026/)
 - [🌈 JVM Rainbow - Mixing Java Kotlin Scala Clojure and Groovy](https://www.reddit.com/r/Kotlin/comments/1qc4j4m/jvm_rainbow_mixing_java_kotlin_scala_clojure_and/)
 - [Why I Think Kotlin Feels More Functional for Serious Projects](https://www.reddit.com/r/Kotlin/comments/1qc2n9s/why_i_think_kotlin_feels_more_functional_for/)
 - [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1qbvkz5/compose_multiplatform_wizard/)
-- [https://terrakok.github.io/mobicon](https://www.reddit.com/r/Kotlin/comments/1qbudyi/httpsterrakokgithubiomobicon/)
-- [Compose Multiplatform 1.10.0 released](https://www.reddit.com/r/Kotlin/comments/1qbshn8/compose_multiplatform_1100_released/)
-- [hi. full time deped teacher ako pero recently nahire ako full time din sa isang BPO company sa pinas, WFH sya and night shift so no prob sa sked. magkakaroon pa ako ng problema if ever since 2 employer ko? advice plsss.](https://www.reddit.com/r/Kotlin/comments/1qbradz/hi_full_time_deped_teacher_ako_pero_recently/)
-- [Built an Android SDK for collecting device signals and fingerprinting, would love feedback/tips.](https://www.reddit.com/r/Kotlin/comments/1qb17s0/built_an_android_sdk_for_collecting_device/)
-- [Backend API design: single agenda endpoint for past + future scheduled data?](https://www.reddit.com/r/Kotlin/comments/1qabqn2/backend_api_design_single_agenda_endpoint_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
