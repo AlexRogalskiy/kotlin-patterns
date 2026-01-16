@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Getting real users for Android apps via Reddit , what actually works?](https://www.reddit.com/r/Kotlin/comments/1qcvb3f/getting_real_users_for_android_apps_via_reddit/)
+- [[Project] KMP 🔥](https://www.reddit.com/r/Kotlin/comments/1qds4yz/project_kmp/)
+- [How to get the right CoroutineScope](https://www.reddit.com/r/Kotlin/comments/1qdm9mw/how_to_get_the_right_coroutinescope/)
+- [Abt uhhh app development](https://www.reddit.com/r/Kotlin/comments/1qdj3kj/abt_uhhh_app_development/)
+- [I couldn&#39;t find a KMP background library that handled iOS reliability properly, so I built one &lpar;supports Chains, State Restoration &amp; Progress&rpar;](https://www.reddit.com/r/Kotlin/comments/1qda621/i_couldnt_find_a_kmp_background_library_that/)
 - [JobRunr v8.4.0: Now works with Bazel rules_kotlin and auto-configures kotlinx.serialization](https://www.reddit.com/r/Kotlin/comments/1qctmnb/jobrunr_v840_now_works_with_bazel_rules_kotlin/)
 - [Building AI Agents in Kotlin – Part 4: Delegation and Sub-Agents](https://www.reddit.com/r/Kotlin/comments/1qctl8j/building_ai_agents_in_kotlin_part_4_delegation/)
 - [I missed System.currentTimeMillis&lpar;&rpar; a lot in KMP, so I made a wrapper targetting Android and iOS using kotlinx.datetime](https://www.reddit.com/r/Kotlin/comments/1qcrtmf/i_missed_systemcurrenttimemillis_a_lot_in_kmp_so/)
 - [I missed System.currentTimeMillis&lpar;&rpar; a lot in KMP, so I made a wrapper targetting Android and iOS using kotlinx.datetime](https://www.reddit.com/r/Kotlin/comments/1qcrrdb/i_missed_systemcurrenttimemillis_a_lot_in_kmp_so/)
 - [Looking for Kotlin experts for a “State of Kotlin” interview](https://www.reddit.com/r/Kotlin/comments/1qcosp1/looking_for_kotlin_experts_for_a_state_of_kotlin/)
 - [State of Kotlin 2026](https://www.reddit.com/r/Kotlin/comments/1qca4ix/state_of_kotlin_2026/)
-- [🌈 JVM Rainbow - Mixing Java Kotlin Scala Clojure and Groovy](https://www.reddit.com/r/Kotlin/comments/1qc4j4m/jvm_rainbow_mixing_java_kotlin_scala_clojure_and/)
-- [Why I Think Kotlin Feels More Functional for Serious Projects](https://www.reddit.com/r/Kotlin/comments/1qc2n9s/why_i_think_kotlin_feels_more_functional_for/)
-- [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1qbvkz5/compose_multiplatform_wizard/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
