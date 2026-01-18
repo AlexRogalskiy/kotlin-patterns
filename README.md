@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Kotlin ecosystem might not choose a strict &#39;SemVer&#39; notation](https://www.reddit.com/r/Kotlin/comments/1qflqbn/the_kotlin_ecosystem_might_not_choose_a_strict/)
+- [We just launched our iOS app built with Kotlin Multiplatform 🚀](https://www.reddit.com/r/Kotlin/comments/1qfeeno/we_just_launched_our_ios_app_built_with_kotlin/)
+- [NFC Transactions](https://www.reddit.com/r/Kotlin/comments/1qf9a1h/nfc_transactions/)
 - [Email sending for my app](https://www.reddit.com/r/Kotlin/comments/1qeiyp6/email_sending_for_my_app/)
-- [I built a JVM architecture enforcement tool &lpar;PSI + ASM&rpar; that can run in IDE and CI](https://www.reddit.com/r/Kotlin/comments/1qeexnz/i_built_a_jvm_architecture_enforcement_tool_psi/)
 - [Arrow&#39;s Either: The Kotlin Chapter of our Scary Words Saga](https://www.reddit.com/r/Kotlin/comments/1qecxk6/arrows_either_the_kotlin_chapter_of_our_scary/)
 - [[Project] KMP 🔥](https://www.reddit.com/r/Kotlin/comments/1qds4yz/project_kmp/)
 - [How to get the right CoroutineScope](https://www.reddit.com/r/Kotlin/comments/1qdm9mw/how_to_get_the_right_coroutinescope/)
 - [Abt uhhh app development](https://www.reddit.com/r/Kotlin/comments/1qdj3kj/abt_uhhh_app_development/)
 - [I couldn&#39;t find a KMP background library that handled iOS reliability properly, so I built one &lpar;supports Chains, State Restoration &amp; Progress&rpar;](https://www.reddit.com/r/Kotlin/comments/1qda621/i_couldnt_find_a_kmp_background_library_that/)
 - [JobRunr v8.4.0: Now works with Bazel rules_kotlin and auto-configures kotlinx.serialization](https://www.reddit.com/r/Kotlin/comments/1qctmnb/jobrunr_v840_now_works_with_bazel_rules_kotlin/)
-- [Building AI Agents in Kotlin – Part 4: Delegation and Sub-Agents](https://www.reddit.com/r/Kotlin/comments/1qctl8j/building_ai_agents_in_kotlin_part_4_delegation/)
-- [I missed System.currentTimeMillis&lpar;&rpar; a lot in KMP, so I made a wrapper targetting Android and iOS using kotlinx.datetime](https://www.reddit.com/r/Kotlin/comments/1qcrtmf/i_missed_systemcurrenttimemillis_a_lot_in_kmp_so/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
