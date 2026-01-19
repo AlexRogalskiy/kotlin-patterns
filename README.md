@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cms options?](https://www.reddit.com/r/Kotlin/comments/1qglb2c/cms_options/)
+- [Hi everyone I was wondering if kotlinOrg will participate in GSOC26 ?](https://www.reddit.com/r/Kotlin/comments/1qgiryq/hi_everyone_i_was_wondering_if_kotlinorg_will/)
+- [I keep hearing things about Kotlin that sound more like myths.](https://www.reddit.com/r/Kotlin/comments/1qg9axl/i_keep_hearing_things_about_kotlin_that_sound/)
+- [Using Antigravity IDE for Kotlin projects? &lpar;Experience, workflow, alternatives?&rpar;](https://www.reddit.com/r/Kotlin/comments/1qg516j/using_antigravity_ide_for_kotlin_projects/)
+- [Blue pill or red pill for polyglot debugging?](https://www.reddit.com/r/Kotlin/comments/1qg2exc/blue_pill_or_red_pill_for_polyglot_debugging/)
+- [I built a JVM architecture enforcement tool with dual engines &lpar;PSI + ASM&rpar;](https://www.reddit.com/r/Kotlin/comments/1qfygst/i_built_a_jvm_architecture_enforcement_tool_with/)
 - [The Kotlin ecosystem might not choose a strict &#39;SemVer&#39; notation](https://www.reddit.com/r/Kotlin/comments/1qflqbn/the_kotlin_ecosystem_might_not_choose_a_strict/)
 - [We just launched our iOS app built with Kotlin Multiplatform 🚀](https://www.reddit.com/r/Kotlin/comments/1qfeeno/we_just_launched_our_ios_app_built_with_kotlin/)
 - [NFC Transactions](https://www.reddit.com/r/Kotlin/comments/1qf9a1h/nfc_transactions/)
 - [Email sending for my app](https://www.reddit.com/r/Kotlin/comments/1qeiyp6/email_sending_for_my_app/)
-- [Arrow&#39;s Either: The Kotlin Chapter of our Scary Words Saga](https://www.reddit.com/r/Kotlin/comments/1qecxk6/arrows_either_the_kotlin_chapter_of_our_scary/)
-- [[Project] KMP 🔥](https://www.reddit.com/r/Kotlin/comments/1qds4yz/project_kmp/)
-- [How to get the right CoroutineScope](https://www.reddit.com/r/Kotlin/comments/1qdm9mw/how_to_get_the_right_coroutinescope/)
-- [Abt uhhh app development](https://www.reddit.com/r/Kotlin/comments/1qdj3kj/abt_uhhh_app_development/)
-- [I couldn&#39;t find a KMP background library that handled iOS reliability properly, so I built one &lpar;supports Chains, State Restoration &amp; Progress&rpar;](https://www.reddit.com/r/Kotlin/comments/1qda621/i_couldnt_find_a_kmp_background_library_that/)
-- [JobRunr v8.4.0: Now works with Bazel rules_kotlin and auto-configures kotlinx.serialization](https://www.reddit.com/r/Kotlin/comments/1qctmnb/jobrunr_v840_now_works_with_bazel_rules_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
