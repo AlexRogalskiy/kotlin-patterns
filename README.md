@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I Built a Game with Compose Multiplatform—and Here’s Why](https://www.reddit.com/r/Kotlin/comments/1qhdwyb/i_built_a_game_with_compose_multiplatformand/)
+- [What&#39;s New in Kotlin 2.3](https://www.reddit.com/r/Kotlin/comments/1qhaf2l/whats_new_in_kotlin_23/)
+- [Building a Text Sentiment Classifier in Kotlin Multiplatform &lpar;Android, iOS and JVM&rpar;](https://www.reddit.com/r/Kotlin/comments/1qh6vvv/building_a_text_sentiment_classifier_in_kotlin/)
+- [The Journey to Compose Hot Reload 1.0.0](https://www.reddit.com/r/Kotlin/comments/1qh665w/the_journey_to_compose_hot_reload_100/)
+- [commonMain.dev - The Kotlin Multiplatform Newsletter](https://www.reddit.com/r/Kotlin/comments/1qh5tw1/commonmaindev_the_kotlin_multiplatform_newsletter/)
+- [Best AI for Kotlin/ Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1qh22bg/best_ai_for_kotlin_compose_multiplatform/)
+- [I Fixed My Kotlin Logging With One Ktor Plugin](https://www.reddit.com/r/Kotlin/comments/1qh1rny/i_fixed_my_kotlin_logging_with_one_ktor_plugin/)
 - [Cms options?](https://www.reddit.com/r/Kotlin/comments/1qglb2c/cms_options/)
 - [Hi everyone I was wondering if kotlinOrg will participate in GSOC26 ?](https://www.reddit.com/r/Kotlin/comments/1qgiryq/hi_everyone_i_was_wondering_if_kotlinorg_will/)
 - [I keep hearing things about Kotlin that sound more like myths.](https://www.reddit.com/r/Kotlin/comments/1qg9axl/i_keep_hearing_things_about_kotlin_that_sound/)
-- [Using Antigravity IDE for Kotlin projects? &lpar;Experience, workflow, alternatives?&rpar;](https://www.reddit.com/r/Kotlin/comments/1qg516j/using_antigravity_ide_for_kotlin_projects/)
-- [Blue pill or red pill for polyglot debugging?](https://www.reddit.com/r/Kotlin/comments/1qg2exc/blue_pill_or_red_pill_for_polyglot_debugging/)
-- [I built a JVM architecture enforcement tool with dual engines &lpar;PSI + ASM&rpar;](https://www.reddit.com/r/Kotlin/comments/1qfygst/i_built_a_jvm_architecture_enforcement_tool_with/)
-- [The Kotlin ecosystem might not choose a strict &#39;SemVer&#39; notation](https://www.reddit.com/r/Kotlin/comments/1qflqbn/the_kotlin_ecosystem_might_not_choose_a_strict/)
-- [We just launched our iOS app built with Kotlin Multiplatform 🚀](https://www.reddit.com/r/Kotlin/comments/1qfeeno/we_just_launched_our_ios_app_built_with_kotlin/)
-- [NFC Transactions](https://www.reddit.com/r/Kotlin/comments/1qf9a1h/nfc_transactions/)
-- [Email sending for my app](https://www.reddit.com/r/Kotlin/comments/1qeiyp6/email_sending_for_my_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
