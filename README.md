@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [inkaartbrenger - Moving from ZIO Scala to Kotlin - looking for honest feedback on 1st real world Kotlin project - sitemap generator](https://www.reddit.com/r/Kotlin/comments/1qj74u1/inkaartbrenger_moving_from_zio_scala_to_kotlin/)
+- [I built a KMP starter template with RevenueCat and Firebase auth already wired - what am I missing?](https://www.reddit.com/r/Kotlin/comments/1qivcy1/i_built_a_kmp_starter_template_with_revenuecat/)
+- [Upgrading to AGP9 Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1qitwcm/upgrading_to_agp9_kotlin_multiplatform/)
+- [Public UI Github Project](https://www.reddit.com/r/Kotlin/comments/1qis64r/public_ui_github_project/)
 - [Development Update: [sqlx4k] Advanced Code Generation for Type-Safe Database Access](https://www.reddit.com/r/Kotlin/comments/1qi1zwr/development_update_sqlx4k_advanced_code/)
 - [AGP 9.0 is Out, and Its a Disaster. Heres Full Migration Guide so you dont have to suffer](https://www.reddit.com/r/Kotlin/comments/1qi1117/agp_90_is_out_and_its_a_disaster_heres_full/)
 - [I Built a Game with Compose Multiplatform—and Here’s Why](https://www.reddit.com/r/Kotlin/comments/1qhdwyb/i_built_a_game_with_compose_multiplatformand/)
 - [What&#39;s New in Kotlin 2.3](https://www.reddit.com/r/Kotlin/comments/1qhaf2l/whats_new_in_kotlin_23/)
 - [Building a Text Sentiment Classifier in Kotlin Multiplatform &lpar;Android, iOS and JVM&rpar;](https://www.reddit.com/r/Kotlin/comments/1qh6vvv/building_a_text_sentiment_classifier_in_kotlin/)
 - [The Journey to Compose Hot Reload 1.0.0](https://www.reddit.com/r/Kotlin/comments/1qh665w/the_journey_to_compose_hot_reload_100/)
-- [commonMain.dev - The Kotlin Multiplatform Newsletter](https://www.reddit.com/r/Kotlin/comments/1qh5tw1/commonmaindev_the_kotlin_multiplatform_newsletter/)
-- [Best AI for Kotlin/ Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1qh22bg/best_ai_for_kotlin_compose_multiplatform/)
-- [I Fixed My Kotlin Logging With One Ktor Plugin](https://www.reddit.com/r/Kotlin/comments/1qh1rny/i_fixed_my_kotlin_logging_with_one_ktor_plugin/)
-- [Cms options?](https://www.reddit.com/r/Kotlin/comments/1qglb2c/cms_options/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
