@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The reality of being a solo dev: Late nights, unhealthy habits, and the &quot;one more feature&quot; trap.](https://www.reddit.com/r/Kotlin/comments/1qk6e69/the_reality_of_being_a_solo_dev_late_nights/)
+- [Framework para leer un DNI](https://www.reddit.com/r/Kotlin/comments/1qk32x7/framework_para_leer_un_dni/)
+- [How can coroutine run on more than one thread?](https://www.reddit.com/r/Kotlin/comments/1qjl612/how_can_coroutine_run_on_more_than_one_thread/)
 - [inkaartbrenger - Moving from ZIO Scala to Kotlin - looking for honest feedback on 1st real world Kotlin project - sitemap generator](https://www.reddit.com/r/Kotlin/comments/1qj74u1/inkaartbrenger_moving_from_zio_scala_to_kotlin/)
 - [I built a KMP starter template with RevenueCat and Firebase auth already wired - what am I missing?](https://www.reddit.com/r/Kotlin/comments/1qivcy1/i_built_a_kmp_starter_template_with_revenuecat/)
 - [Upgrading to AGP9 Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1qitwcm/upgrading_to_agp9_kotlin_multiplatform/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Development Update: [sqlx4k] Advanced Code Generation for Type-Safe Database Access](https://www.reddit.com/r/Kotlin/comments/1qi1zwr/development_update_sqlx4k_advanced_code/)
 - [AGP 9.0 is Out, and Its a Disaster. Heres Full Migration Guide so you dont have to suffer](https://www.reddit.com/r/Kotlin/comments/1qi1117/agp_90_is_out_and_its_a_disaster_heres_full/)
 - [I Built a Game with Compose Multiplatform—and Here’s Why](https://www.reddit.com/r/Kotlin/comments/1qhdwyb/i_built_a_game_with_compose_multiplatformand/)
-- [What&#39;s New in Kotlin 2.3](https://www.reddit.com/r/Kotlin/comments/1qhaf2l/whats_new_in_kotlin_23/)
-- [Building a Text Sentiment Classifier in Kotlin Multiplatform &lpar;Android, iOS and JVM&rpar;](https://www.reddit.com/r/Kotlin/comments/1qh6vvv/building_a_text_sentiment_classifier_in_kotlin/)
-- [The Journey to Compose Hot Reload 1.0.0](https://www.reddit.com/r/Kotlin/comments/1qh665w/the_journey_to_compose_hot_reload_100/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
