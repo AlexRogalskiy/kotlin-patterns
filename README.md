@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Zoom In/Zoon Out Camera](https://www.reddit.com/r/Kotlin/comments/1ql0ibt/kotlin_zoom_inzoon_out_camera/)
+- [Ktor 3.4.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1qkzx2d/ktor_340_is_now_available/)
+- [Exposed 1.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1qkw2vk/exposed_10_is_now_available/)
+- [[KMP] Introducing KRelay: A &quot;Fire-and-Forget&quot; bridge for calling Native UI from Shared Code &lpar;Leak-free, Sticky Queue&rpar;](https://www.reddit.com/r/Kotlin/comments/1qkscx5/kmp_introducing_krelay_a_fireandforget_bridge_for/)
+- [A library that lets agents click through Compose Desktop apps](https://www.reddit.com/r/Kotlin/comments/1qkr1t1/a_library_that_lets_agents_click_through_compose/)
+- [Compose Particle effect](https://www.reddit.com/r/Kotlin/comments/1qkpspf/compose_particle_effect/)
+- [Dimitry Jemerov on IntelliJ @ 25, Kotlin, and so much more](https://www.reddit.com/r/Kotlin/comments/1qkp33m/dimitry_jemerov_on_intellij_25_kotlin_and_so_much/)
+- [If you could start all over, what would you do differently?](https://www.reddit.com/r/Kotlin/comments/1qkm2zi/if_you_could_start_all_over_what_would_you_do/)
+- [Java/Kotlin developer with 20+ years of experience — confused about where to start with AI product development](https://www.reddit.com/r/Kotlin/comments/1qklxh4/javakotlin_developer_with_20_years_of_experience/)
 - [The reality of being a solo dev: Late nights, unhealthy habits, and the &quot;one more feature&quot; trap.](https://www.reddit.com/r/Kotlin/comments/1qk6e69/the_reality_of_being_a_solo_dev_late_nights/)
-- [Framework para leer un DNI](https://www.reddit.com/r/Kotlin/comments/1qk32x7/framework_para_leer_un_dni/)
-- [How can coroutine run on more than one thread?](https://www.reddit.com/r/Kotlin/comments/1qjl612/how_can_coroutine_run_on_more_than_one_thread/)
-- [inkaartbrenger - Moving from ZIO Scala to Kotlin - looking for honest feedback on 1st real world Kotlin project - sitemap generator](https://www.reddit.com/r/Kotlin/comments/1qj74u1/inkaartbrenger_moving_from_zio_scala_to_kotlin/)
-- [I built a KMP starter template with RevenueCat and Firebase auth already wired - what am I missing?](https://www.reddit.com/r/Kotlin/comments/1qivcy1/i_built_a_kmp_starter_template_with_revenuecat/)
-- [Upgrading to AGP9 Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1qitwcm/upgrading_to_agp9_kotlin_multiplatform/)
-- [Public UI Github Project](https://www.reddit.com/r/Kotlin/comments/1qis64r/public_ui_github_project/)
-- [Development Update: [sqlx4k] Advanced Code Generation for Type-Safe Database Access](https://www.reddit.com/r/Kotlin/comments/1qi1zwr/development_update_sqlx4k_advanced_code/)
-- [AGP 9.0 is Out, and Its a Disaster. Heres Full Migration Guide so you dont have to suffer](https://www.reddit.com/r/Kotlin/comments/1qi1117/agp_90_is_out_and_its_a_disaster_heres_full/)
-- [I Built a Game with Compose Multiplatform—and Here’s Why](https://www.reddit.com/r/Kotlin/comments/1qhdwyb/i_built_a_game_with_compose_multiplatformand/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
