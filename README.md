@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Road Map for Kotlin Android and Kotlin MP for RaspberryOS](https://www.reddit.com/r/Kotlin/comments/1qm5r0s/road_map_for_kotlin_android_and_kotlin_mp_for/)
+- [KMP Wizard Template updated for AGP 9.0.0 &lpar;Public GitHub Template&rpar; 🍉](https://www.reddit.com/r/Kotlin/comments/1qm0so2/kmp_wizard_template_updated_for_agp_900_public/)
+- [I build a SaaS](https://www.reddit.com/r/Kotlin/comments/1qltxt5/i_build_a_saas/)
 - [Kotlin Zoom In/Zoon Out Camera](https://www.reddit.com/r/Kotlin/comments/1ql0ibt/kotlin_zoom_inzoon_out_camera/)
 - [Ktor 3.4.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1qkzx2d/ktor_340_is_now_available/)
 - [Exposed 1.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1qkw2vk/exposed_10_is_now_available/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [A library that lets agents click through Compose Desktop apps](https://www.reddit.com/r/Kotlin/comments/1qkr1t1/a_library_that_lets_agents_click_through_compose/)
 - [Compose Particle effect](https://www.reddit.com/r/Kotlin/comments/1qkpspf/compose_particle_effect/)
 - [Dimitry Jemerov on IntelliJ @ 25, Kotlin, and so much more](https://www.reddit.com/r/Kotlin/comments/1qkp33m/dimitry_jemerov_on_intellij_25_kotlin_and_so_much/)
-- [If you could start all over, what would you do differently?](https://www.reddit.com/r/Kotlin/comments/1qkm2zi/if_you_could_start_all_over_what_would_you_do/)
-- [Java/Kotlin developer with 20+ years of experience — confused about where to start with AI product development](https://www.reddit.com/r/Kotlin/comments/1qklxh4/javakotlin_developer_with_20_years_of_experience/)
-- [The reality of being a solo dev: Late nights, unhealthy habits, and the &quot;one more feature&quot; trap.](https://www.reddit.com/r/Kotlin/comments/1qk6e69/the_reality_of_being_a_solo_dev_late_nights/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
