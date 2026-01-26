@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Elide runs Kotlin scripts 36x faster than kotlinc &lpar;benchmark inside&rpar;](https://www.reddit.com/r/Kotlin/comments/1qn0oj4/elide_runs_kotlin_scripts_36x_faster_than_kotlinc/)
+- [Curso Kotlin Multiplatform desde cero 🚀 &lpar;Android + iOS + Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1qn04ou/curso_kotlin_multiplatform_desde_cero_android_ios/)
+- [&lpar;noob question&rpar; Is this how functions are done in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1qmv7re/noob_question_is_this_how_functions_are_done_in/)
+- [Identity Verification for P2P iransactions](https://www.reddit.com/r/Kotlin/comments/1qmpwx9/identity_verification_for_p2p_iransactions/)
+- [Refactoring to Functional - Where Does the State Live?](https://www.reddit.com/r/Kotlin/comments/1qmf46y/refactoring_to_functional_where_does_the_state/)
 - [Road Map for Kotlin Android and Kotlin MP for RaspberryOS](https://www.reddit.com/r/Kotlin/comments/1qm5r0s/road_map_for_kotlin_android_and_kotlin_mp_for/)
 - [KMP Wizard Template updated for AGP 9.0.0 &lpar;Public GitHub Template&rpar; 🍉](https://www.reddit.com/r/Kotlin/comments/1qm0so2/kmp_wizard_template_updated_for_agp_900_public/)
 - [I build a SaaS](https://www.reddit.com/r/Kotlin/comments/1qltxt5/i_build_a_saas/)
 - [Kotlin Zoom In/Zoon Out Camera](https://www.reddit.com/r/Kotlin/comments/1ql0ibt/kotlin_zoom_inzoon_out_camera/)
 - [Ktor 3.4.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1qkzx2d/ktor_340_is_now_available/)
-- [Exposed 1.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1qkw2vk/exposed_10_is_now_available/)
-- [[KMP] Introducing KRelay: A &quot;Fire-and-Forget&quot; bridge for calling Native UI from Shared Code &lpar;Leak-free, Sticky Queue&rpar;](https://www.reddit.com/r/Kotlin/comments/1qkscx5/kmp_introducing_krelay_a_fireandforget_bridge_for/)
-- [A library that lets agents click through Compose Desktop apps](https://www.reddit.com/r/Kotlin/comments/1qkr1t1/a_library_that_lets_agents_click_through_compose/)
-- [Compose Particle effect](https://www.reddit.com/r/Kotlin/comments/1qkpspf/compose_particle_effect/)
-- [Dimitry Jemerov on IntelliJ @ 25, Kotlin, and so much more](https://www.reddit.com/r/Kotlin/comments/1qkp33m/dimitry_jemerov_on_intellij_25_kotlin_and_so_much/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
