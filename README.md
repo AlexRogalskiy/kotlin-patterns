@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CLI native app wit kotlin](https://www.reddit.com/r/Kotlin/comments/1qnskwj/cli_native_app_wit_kotlin/)
+- [Has anyone tried the Qt Bridges Early Access Code? For Java/Kotlin](https://www.reddit.com/r/Kotlin/comments/1qnlwyb/has_anyone_tried_the_qt_bridges_early_access_code/)
+- [Kotlin is open sauce](https://www.reddit.com/r/Kotlin/comments/1qnj9ts/kotlin_is_open_sauce/)
+- [OpenAI Codex inside IntelliJ IDEA: Launch demo on a KMP app](https://www.reddit.com/r/Kotlin/comments/1qnixlq/openai_codex_inside_intellij_idea_launch_demo_on/)
+- [Kotlin Intrinsics on Android](https://www.reddit.com/r/Kotlin/comments/1qncspx/kotlin_intrinsics_on_android/)
+- [What’s the fastest way to render tons of points in Compose &lpar;Wasm/JS&rpar;?](https://www.reddit.com/r/Kotlin/comments/1qn4u00/whats_the_fastest_way_to_render_tons_of_points_in/)
+- [Better Kotlin compiler errors](https://www.reddit.com/r/Kotlin/comments/1qn4ky5/better_kotlin_compiler_errors/)
 - [Elide runs Kotlin scripts 36x faster than kotlinc &lpar;benchmark inside&rpar;](https://www.reddit.com/r/Kotlin/comments/1qn0oj4/elide_runs_kotlin_scripts_36x_faster_than_kotlinc/)
 - [Curso Kotlin Multiplatform desde cero 🚀 &lpar;Android + iOS + Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1qn04ou/curso_kotlin_multiplatform_desde_cero_android_ios/)
 - [&lpar;noob question&rpar; Is this how functions are done in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1qmv7re/noob_question_is_this_how_functions_are_done_in/)
-- [Identity Verification for P2P iransactions](https://www.reddit.com/r/Kotlin/comments/1qmpwx9/identity_verification_for_p2p_iransactions/)
-- [Refactoring to Functional - Where Does the State Live?](https://www.reddit.com/r/Kotlin/comments/1qmf46y/refactoring_to_functional_where_does_the_state/)
-- [Road Map for Kotlin Android and Kotlin MP for RaspberryOS](https://www.reddit.com/r/Kotlin/comments/1qm5r0s/road_map_for_kotlin_android_and_kotlin_mp_for/)
-- [KMP Wizard Template updated for AGP 9.0.0 &lpar;Public GitHub Template&rpar; 🍉](https://www.reddit.com/r/Kotlin/comments/1qm0so2/kmp_wizard_template_updated_for_agp_900_public/)
-- [I build a SaaS](https://www.reddit.com/r/Kotlin/comments/1qltxt5/i_build_a_saas/)
-- [Kotlin Zoom In/Zoon Out Camera](https://www.reddit.com/r/Kotlin/comments/1ql0ibt/kotlin_zoom_inzoon_out_camera/)
-- [Ktor 3.4.0 Is Now Available](https://www.reddit.com/r/Kotlin/comments/1qkzx2d/ktor_340_is_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
