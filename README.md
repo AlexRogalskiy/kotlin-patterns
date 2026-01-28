@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made an app that gently reminds you time is passing.](https://www.reddit.com/r/Kotlin/comments/1qoza8p/i_made_an_app_that_gently_reminds_you_time_is/)
+- [Simpler JVM Project Setup with Mill 1.1.0](https://www.reddit.com/r/Kotlin/comments/1qocg0m/simpler_jvm_project_setup_with_mill_110/)
+- [A starting point](https://www.reddit.com/r/Kotlin/comments/1qoarnu/a_starting_point/)
+- [Real Estate Broker Software](https://www.reddit.com/r/Kotlin/comments/1qo7nhf/real_estate_broker_software/)
 - [CLI native app wit kotlin](https://www.reddit.com/r/Kotlin/comments/1qnskwj/cli_native_app_wit_kotlin/)
 - [Has anyone tried the Qt Bridges Early Access Code? For Java/Kotlin](https://www.reddit.com/r/Kotlin/comments/1qnlwyb/has_anyone_tried_the_qt_bridges_early_access_code/)
 - [Kotlin is open sauce](https://www.reddit.com/r/Kotlin/comments/1qnj9ts/kotlin_is_open_sauce/)
 - [OpenAI Codex inside IntelliJ IDEA: Launch demo on a KMP app](https://www.reddit.com/r/Kotlin/comments/1qnixlq/openai_codex_inside_intellij_idea_launch_demo_on/)
-- [Kotlin Intrinsics on Android](https://www.reddit.com/r/Kotlin/comments/1qncspx/kotlin_intrinsics_on_android/)
 - [What’s the fastest way to render tons of points in Compose &lpar;Wasm/JS&rpar;?](https://www.reddit.com/r/Kotlin/comments/1qn4u00/whats_the_fastest_way_to_render_tons_of_points_in/)
 - [Better Kotlin compiler errors](https://www.reddit.com/r/Kotlin/comments/1qn4ky5/better_kotlin_compiler_errors/)
-- [Elide runs Kotlin scripts 36x faster than kotlinc &lpar;benchmark inside&rpar;](https://www.reddit.com/r/Kotlin/comments/1qn0oj4/elide_runs_kotlin_scripts_36x_faster_than_kotlinc/)
-- [Curso Kotlin Multiplatform desde cero 🚀 &lpar;Android + iOS + Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1qn04ou/curso_kotlin_multiplatform_desde_cero_android_ios/)
-- [&lpar;noob question&rpar; Is this how functions are done in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1qmv7re/noob_question_is_this_how_functions_are_done_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
