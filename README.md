@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made an app that gently reminds you time is passing.](https://www.reddit.com/r/Kotlin/comments/1qoza8p/i_made_an_app_that_gently_reminds_you_time_is/)
-- [Simpler JVM Project Setup with Mill 1.1.0](https://www.reddit.com/r/Kotlin/comments/1qocg0m/simpler_jvm_project_setup_with_mill_110/)
-- [A starting point](https://www.reddit.com/r/Kotlin/comments/1qoarnu/a_starting_point/)
-- [Real Estate Broker Software](https://www.reddit.com/r/Kotlin/comments/1qo7nhf/real_estate_broker_software/)
-- [CLI native app wit kotlin](https://www.reddit.com/r/Kotlin/comments/1qnskwj/cli_native_app_wit_kotlin/)
-- [Has anyone tried the Qt Bridges Early Access Code? For Java/Kotlin](https://www.reddit.com/r/Kotlin/comments/1qnlwyb/has_anyone_tried_the_qt_bridges_early_access_code/)
-- [Kotlin is open sauce](https://www.reddit.com/r/Kotlin/comments/1qnj9ts/kotlin_is_open_sauce/)
-- [OpenAI Codex inside IntelliJ IDEA: Launch demo on a KMP app](https://www.reddit.com/r/Kotlin/comments/1qnixlq/openai_codex_inside_intellij_idea_launch_demo_on/)
-- [What’s the fastest way to render tons of points in Compose &lpar;Wasm/JS&rpar;?](https://www.reddit.com/r/Kotlin/comments/1qn4u00/whats_the_fastest_way_to_render_tons_of_points_in/)
-- [Better Kotlin compiler errors](https://www.reddit.com/r/Kotlin/comments/1qn4ky5/better_kotlin_compiler_errors/)
+- [kotlinx.css reference?](https://www.reddit.com/r/Kotlin/comments/1qpu3fo/kotlinxcss_reference/)
+- [New major version of androidx.tracing &lpar;2.0.0-alpha01&rpar;](https://www.reddit.com/r/Kotlin/comments/1qppaug/new_major_version_of_androidxtracing_200alpha01/)
+- [How can i extract a zip file that is in bytearray and give output as a bytearray on ios side. My android one works safely](https://www.reddit.com/r/Kotlin/comments/1qpiwlm/how_can_i_extract_a_zip_file_that_is_in_bytearray/)
+- [Remote Jobs on Upwork Competition Analysis: Python, Java, and Kotlin by Specialization &lpar;2025–2026&rpar;](https://www.reddit.com/r/Kotlin/comments/1qpi79s/remote_jobs_on_upwork_competition_analysis_python/)
+- [Explicit Backing Fields in Kotlin 2.3 - What You Need to Know](https://www.reddit.com/r/Kotlin/comments/1qpfknv/explicit_backing_fields_in_kotlin_23_what_you/)
+- [Tool to create App Store Screenshots &amp; Mockups without any watermarks](https://www.reddit.com/r/Kotlin/comments/1qpdgpw/tool_to_create_app_store_screenshots_mockups/)
+- [Best resource to learn kotlin](https://www.reddit.com/r/Kotlin/comments/1qpb3eo/best_resource_to_learn_kotlin/)
+- [New version of Jindong: KMP Haptic Library released 🚀](https://www.reddit.com/r/Kotlin/comments/1qp8brg/new_version_of_jindong_kmp_haptic_library_released/)
+- [Win a free ticket to KotlinConf&#39;26](https://www.reddit.com/r/Kotlin/comments/1qp867r/win_a_free_ticket_to_kotlinconf26/)
+- [MVI timetravel library](https://www.reddit.com/r/Kotlin/comments/1qp6na1/mvi_timetravel_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
