@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tired of bind&lpar;lifecycle&rpar; for permissions? I built &quot;Grant&quot; - a purely Headless KMP library that handles Permissions + GPS/Bluetooth checks in one flow.](https://www.reddit.com/r/Kotlin/comments/1qqcce7/tired_of_bindlifecycle_for_permissions_i_built/)
+- [I made an app that puts tiny animated buddies on top of your screen 🐾](https://www.reddit.com/r/Kotlin/comments/1qqbpyz/i_made_an_app_that_puts_tiny_animated_buddies_on/)
+- [Case Study: How I Sped Up Android App Start by 10x](https://www.reddit.com/r/Kotlin/comments/1qq915f/case_study_how_i_sped_up_android_app_start_by_10x/)
 - [kotlinx.css reference?](https://www.reddit.com/r/Kotlin/comments/1qpu3fo/kotlinxcss_reference/)
 - [New major version of androidx.tracing &lpar;2.0.0-alpha01&rpar;](https://www.reddit.com/r/Kotlin/comments/1qppaug/new_major_version_of_androidxtracing_200alpha01/)
 - [How can i extract a zip file that is in bytearray and give output as a bytearray on ios side. My android one works safely](https://www.reddit.com/r/Kotlin/comments/1qpiwlm/how_can_i_extract_a_zip_file_that_is_in_bytearray/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Explicit Backing Fields in Kotlin 2.3 - What You Need to Know](https://www.reddit.com/r/Kotlin/comments/1qpfknv/explicit_backing_fields_in_kotlin_23_what_you/)
 - [Tool to create App Store Screenshots &amp; Mockups without any watermarks](https://www.reddit.com/r/Kotlin/comments/1qpdgpw/tool_to_create_app_store_screenshots_mockups/)
 - [Best resource to learn kotlin](https://www.reddit.com/r/Kotlin/comments/1qpb3eo/best_resource_to_learn_kotlin/)
-- [New version of Jindong: KMP Haptic Library released 🚀](https://www.reddit.com/r/Kotlin/comments/1qp8brg/new_version_of_jindong_kmp_haptic_library_released/)
-- [Win a free ticket to KotlinConf&#39;26](https://www.reddit.com/r/Kotlin/comments/1qp867r/win_a_free_ticket_to_kotlinconf26/)
-- [MVI timetravel library](https://www.reddit.com/r/Kotlin/comments/1qp6na1/mvi_timetravel_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
