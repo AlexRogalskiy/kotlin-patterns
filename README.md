@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a Regex DSL for my first open-source project. Looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1qsbjsj/i_built_a_regex_dsl_for_my_first_opensource/)
+- [STOP throwing Errors! Raise them instead](https://www.reddit.com/r/Kotlin/comments/1qs4cnu/stop_throwing_errors_raise_them_instead/)
+- [Suggestion for lowering the learning curve of KMP and Coroutines](https://www.reddit.com/r/Kotlin/comments/1qs23oj/suggestion_for_lowering_the_learning_curve_of_kmp/)
+- [: I built a Language Translator App using Jetpack Compose &amp; Clean Architecture.](https://www.reddit.com/r/Kotlin/comments/1qrwj4h/i_built_a_language_translator_app_using_jetpack/)
+- [Null Safety Deep Dive: Kotlin vs Java](https://www.reddit.com/r/Kotlin/comments/1qrs4fa/null_safety_deep_dive_kotlin_vs_java/)
 - [What use TikTok for there gift animations like Universum and others ?](https://www.reddit.com/r/Kotlin/comments/1qrahjv/what_use_tiktok_for_there_gift_animations_like/)
 - [Coroutines question: How does viewModelScope.launch let me call suspend functions?](https://www.reddit.com/r/Kotlin/comments/1qr7dul/coroutines_question_how_does_viewmodelscopelaunch/)
 - [Ktor 3.4.0: HTML Fragments, HTMX, and Finally Proper SSE Cleanup](https://www.reddit.com/r/Kotlin/comments/1qr05z3/ktor_340_html_fragments_htmx_and_finally_proper/)
 - [How to Generate a Factory Function?](https://www.reddit.com/r/Kotlin/comments/1qqzxt5/how_to_generate_a_factory_function/)
-- [Shamash vs ArchUnit: what I built differently](https://www.reddit.com/r/Kotlin/comments/1qqyqgj/shamash_vs_archunit_what_i_built_differently/)
 - [Kotlin map getOrPut behavior when value is a primitive type](https://www.reddit.com/r/Kotlin/comments/1qqwkh2/kotlin_map_getorput_behavior_when_value_is_a/)
-- [Tired of bind&lpar;lifecycle&rpar; for permissions? I built &quot;Grant&quot; - a purely Headless KMP library that handles Permissions + GPS/Bluetooth checks in one flow.](https://www.reddit.com/r/Kotlin/comments/1qqcce7/tired_of_bindlifecycle_for_permissions_i_built/)
-- [I made an app that puts tiny animated buddies on top of your screen 🐾](https://www.reddit.com/r/Kotlin/comments/1qqbpyz/i_made_an_app_that_puts_tiny_animated_buddies_on/)
-- [Case Study: How I Sped Up Android App Start by 10x](https://www.reddit.com/r/Kotlin/comments/1qq915f/case_study_how_i_sped_up_android_app_start_by_10x/)
-- [kotlinx.css reference?](https://www.reddit.com/r/Kotlin/comments/1qpu3fo/kotlinxcss_reference/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
