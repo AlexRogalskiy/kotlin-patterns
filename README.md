@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Snaptube I want to created app something similar](https://www.reddit.com/r/Kotlin/comments/1qt3sd3/snaptube_i_want_to_created_app_something_similar/)
+- [Gave Spring Boot a shot, but I am back to Ktor.](https://www.reddit.com/r/Kotlin/comments/1qszmkt/gave_spring_boot_a_shot_but_i_am_back_to_ktor/)
 - [I built a Regex DSL for my first open-source project. Looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1qsbjsj/i_built_a_regex_dsl_for_my_first_opensource/)
 - [STOP throwing Errors! Raise them instead](https://www.reddit.com/r/Kotlin/comments/1qs4cnu/stop_throwing_errors_raise_them_instead/)
 - [Suggestion for lowering the learning curve of KMP and Coroutines](https://www.reddit.com/r/Kotlin/comments/1qs23oj/suggestion_for_lowering_the_learning_curve_of_kmp/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What use TikTok for there gift animations like Universum and others ?](https://www.reddit.com/r/Kotlin/comments/1qrahjv/what_use_tiktok_for_there_gift_animations_like/)
 - [Coroutines question: How does viewModelScope.launch let me call suspend functions?](https://www.reddit.com/r/Kotlin/comments/1qr7dul/coroutines_question_how_does_viewmodelscopelaunch/)
 - [Ktor 3.4.0: HTML Fragments, HTMX, and Finally Proper SSE Cleanup](https://www.reddit.com/r/Kotlin/comments/1qr05z3/ktor_340_html_fragments_htmx_and_finally_proper/)
-- [How to Generate a Factory Function?](https://www.reddit.com/r/Kotlin/comments/1qqzxt5/how_to_generate_a_factory_function/)
-- [Kotlin map getOrPut behavior when value is a primitive type](https://www.reddit.com/r/Kotlin/comments/1qqwkh2/kotlin_map_getorput_behavior_when_value_is_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
