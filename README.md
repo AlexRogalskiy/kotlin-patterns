@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Did someone say multiple selection?](https://www.reddit.com/r/Kotlin/comments/1qu1twi/did_someone_say_multiple_selection/)
+- [Aether: A Django-like Kotlin Multiplatform framework that runs on JVM and Wasm](https://www.reddit.com/r/Kotlin/comments/1qtvx6z/aether_a_djangolike_kotlin_multiplatform/)
+- [Are there any issue with Kotlin that trouble you?](https://www.reddit.com/r/Kotlin/comments/1qtr07e/are_there_any_issue_with_kotlin_that_trouble_you/)
+- [getting to kotlin and kmp](https://www.reddit.com/r/Kotlin/comments/1qtojrp/getting_to_kotlin_and_kmp/)
 - [Snaptube I want to created app something similar](https://www.reddit.com/r/Kotlin/comments/1qt3sd3/snaptube_i_want_to_created_app_something_similar/)
 - [Gave Spring Boot a shot, but I am back to Ktor.](https://www.reddit.com/r/Kotlin/comments/1qszmkt/gave_spring_boot_a_shot_but_i_am_back_to_ktor/)
 - [I built a Regex DSL for my first open-source project. Looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1qsbjsj/i_built_a_regex_dsl_for_my_first_opensource/)
 - [STOP throwing Errors! Raise them instead](https://www.reddit.com/r/Kotlin/comments/1qs4cnu/stop_throwing_errors_raise_them_instead/)
 - [Suggestion for lowering the learning curve of KMP and Coroutines](https://www.reddit.com/r/Kotlin/comments/1qs23oj/suggestion_for_lowering_the_learning_curve_of_kmp/)
 - [: I built a Language Translator App using Jetpack Compose &amp; Clean Architecture.](https://www.reddit.com/r/Kotlin/comments/1qrwj4h/i_built_a_language_translator_app_using_jetpack/)
-- [Null Safety Deep Dive: Kotlin vs Java](https://www.reddit.com/r/Kotlin/comments/1qrs4fa/null_safety_deep_dive_kotlin_vs_java/)
-- [What use TikTok for there gift animations like Universum and others ?](https://www.reddit.com/r/Kotlin/comments/1qrahjv/what_use_tiktok_for_there_gift_animations_like/)
-- [Coroutines question: How does viewModelScope.launch let me call suspend functions?](https://www.reddit.com/r/Kotlin/comments/1qr7dul/coroutines_question_how_does_viewmodelscopelaunch/)
-- [Ktor 3.4.0: HTML Fragments, HTMX, and Finally Proper SSE Cleanup](https://www.reddit.com/r/Kotlin/comments/1qr05z3/ktor_340_html_fragments_htmx_and_finally_proper/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
