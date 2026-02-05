@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Did someone say multiple selection?](https://www.reddit.com/r/Kotlin/comments/1qu1twi/did_someone_say_multiple_selection/)
-- [Aether: A Django-like Kotlin Multiplatform framework that runs on JVM and Wasm](https://www.reddit.com/r/Kotlin/comments/1qtvx6z/aether_a_djangolike_kotlin_multiplatform/)
-- [Are there any issue with Kotlin that trouble you?](https://www.reddit.com/r/Kotlin/comments/1qtr07e/are_there_any_issue_with_kotlin_that_trouble_you/)
-- [getting to kotlin and kmp](https://www.reddit.com/r/Kotlin/comments/1qtojrp/getting_to_kotlin_and_kmp/)
-- [Snaptube I want to created app something similar](https://www.reddit.com/r/Kotlin/comments/1qt3sd3/snaptube_i_want_to_created_app_something_similar/)
-- [Gave Spring Boot a shot, but I am back to Ktor.](https://www.reddit.com/r/Kotlin/comments/1qszmkt/gave_spring_boot_a_shot_but_i_am_back_to_ktor/)
-- [I built a Regex DSL for my first open-source project. Looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1qsbjsj/i_built_a_regex_dsl_for_my_first_opensource/)
-- [STOP throwing Errors! Raise them instead](https://www.reddit.com/r/Kotlin/comments/1qs4cnu/stop_throwing_errors_raise_them_instead/)
-- [Suggestion for lowering the learning curve of KMP and Coroutines](https://www.reddit.com/r/Kotlin/comments/1qs23oj/suggestion_for_lowering_the_learning_curve_of_kmp/)
-- [: I built a Language Translator App using Jetpack Compose &amp; Clean Architecture.](https://www.reddit.com/r/Kotlin/comments/1qrwj4h/i_built_a_language_translator_app_using_jetpack/)
+- [I build a mobile app testing agent that runs on just one prompt.](https://www.reddit.com/r/Kotlin/comments/1qw4zwf/i_build_a_mobile_app_testing_agent_that_runs_on/)
+- [Agentic UI developer Android smartphone](https://www.reddit.com/r/Kotlin/comments/1qvqol3/agentic_ui_developer_android_smartphone/)
+- [Building AI Agents in Kotlin – Part 5: Teaching Agents to Forget](https://www.reddit.com/r/Kotlin/comments/1qvlfee/building_ai_agents_in_kotlin_part_5_teaching/)
+- [🚀 KotlinConf 2026 is taking shape – meet the first speakers!](https://www.reddit.com/r/Kotlin/comments/1qvkgij/kotlinconf_2026_is_taking_shape_meet_the_first/)
+- [Experiences debugging coroutines](https://www.reddit.com/r/Kotlin/comments/1qvd0wo/experiences_debugging_coroutines/)
+- [How To Publish to Maven Central Easily with Mill](https://www.reddit.com/r/Kotlin/comments/1qvd0ey/how_to_publish_to_maven_central_easily_with_mill/)
+- [Do you think Java has caught up with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1qv36fr/do_you_think_java_has_caught_up_with_kotlin/)
+- [CustomIndy: a Kotlin compiler plugin that lets you use JVM invokedynamic](https://www.reddit.com/r/Kotlin/comments/1qv16f3/customindy_a_kotlin_compiler_plugin_that_lets_you/)
+- [A minimalistic app that reminds you time is passing - now you can make the wallpaper yours!!](https://www.reddit.com/r/Kotlin/comments/1qurl6c/a_minimalistic_app_that_reminds_you_time_is/)
+- [Kilua framework has a new website](https://www.reddit.com/r/Kotlin/comments/1qukmu5/kilua_framework_has_a_new_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
