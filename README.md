@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [blamed users for &#39;fat fingering&#39; our form inputs. They were right to be angry.](https://www.reddit.com/r/Kotlin/comments/1qwup21/blamed_users_for_fat_fingering_our_form_inputs/)
+- [Is there is a problem with Mapbox for Kotlin/AndroidStudio ?](https://www.reddit.com/r/Kotlin/comments/1qwrfn0/is_there_is_a_problem_with_mapbox_for/)
+- [Agentic UI developer Android smartphones](https://www.reddit.com/r/Kotlin/comments/1qwoe5v/agentic_ui_developer_android_smartphones/)
+- [QRT: A screen-to-camera data transfer protocol, using QR codes &lpar;proof of concept&rpar;](https://www.reddit.com/r/Kotlin/comments/1qwnsig/qrt_a_screentocamera_data_transfer_protocol_using/)
+- [Koog x ACP: Connect an Agent to Your IDE and More](https://www.reddit.com/r/Kotlin/comments/1qwm89t/koog_x_acp_connect_an_agent_to_your_ide_and_more/)
+- [Working on a KMP Feature Flag library &lpar;FF4K&rpar; - Looking for API feedbacks](https://www.reddit.com/r/Kotlin/comments/1qwg2zn/working_on_a_kmp_feature_flag_library_ff4k/)
 - [I build a mobile app testing agent that runs on just one prompt.](https://www.reddit.com/r/Kotlin/comments/1qw4zwf/i_build_a_mobile_app_testing_agent_that_runs_on/)
 - [Agentic UI developer Android smartphone](https://www.reddit.com/r/Kotlin/comments/1qvqol3/agentic_ui_developer_android_smartphone/)
 - [Building AI Agents in Kotlin – Part 5: Teaching Agents to Forget](https://www.reddit.com/r/Kotlin/comments/1qvlfee/building_ai_agents_in_kotlin_part_5_teaching/)
 - [🚀 KotlinConf 2026 is taking shape – meet the first speakers!](https://www.reddit.com/r/Kotlin/comments/1qvkgij/kotlinconf_2026_is_taking_shape_meet_the_first/)
-- [Experiences debugging coroutines](https://www.reddit.com/r/Kotlin/comments/1qvd0wo/experiences_debugging_coroutines/)
-- [How To Publish to Maven Central Easily with Mill](https://www.reddit.com/r/Kotlin/comments/1qvd0ey/how_to_publish_to_maven_central_easily_with_mill/)
-- [Do you think Java has caught up with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1qv36fr/do_you_think_java_has_caught_up_with_kotlin/)
-- [CustomIndy: a Kotlin compiler plugin that lets you use JVM invokedynamic](https://www.reddit.com/r/Kotlin/comments/1qv16f3/customindy_a_kotlin_compiler_plugin_that_lets_you/)
-- [A minimalistic app that reminds you time is passing - now you can make the wallpaper yours!!](https://www.reddit.com/r/Kotlin/comments/1qurl6c/a_minimalistic_app_that_reminds_you_time_is/)
-- [Kilua framework has a new website](https://www.reddit.com/r/Kotlin/comments/1qukmu5/kilua_framework_has_a_new_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
