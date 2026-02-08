@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How I brought the declarative pattern to Vaadin with reactive signals in Kotlin](https://www.reddit.com/r/Kotlin/comments/1qyk4gg/how_i_brought_the_declarative_pattern_to_vaadin/)
+- [What AI coding assistants are you all using for Kotlin lately?](https://www.reddit.com/r/Kotlin/comments/1qy7fuz/what_ai_coding_assistants_are_you_all_using_for/)
+- [Stack + pricing sanity check for Android booking app &lpar;India&rpar;](https://www.reddit.com/r/Kotlin/comments/1qy6vxh/stack_pricing_sanity_check_for_android_booking/)
+- [Exploring Kotlin Multiplatform with Jetpack Compose + SwiftUI — thoughts?](https://www.reddit.com/r/Kotlin/comments/1qy5d31/exploring_kotlin_multiplatform_with_jetpack/)
 - [The usage of AI Agent nowadays](https://www.reddit.com/r/Kotlin/comments/1qxxrig/the_usage_of_ai_agent_nowadays/)
 - [Introducing Synapse: Reactive Flows!](https://www.reddit.com/r/Kotlin/comments/1qxww3x/introducing_synapse_reactive_flows/)
 - [🚀 Using Exposed in your projects? We’d love your feedback!](https://www.reddit.com/r/Kotlin/comments/1qxmrtp/using_exposed_in_your_projects_wed_love_your/)
 - [I feel like learning Ktor makes Spring Boot easier.](https://www.reddit.com/r/Kotlin/comments/1qxg5ds/i_feel_like_learning_ktor_makes_spring_boot_easier/)
 - [blamed users for &#39;fat fingering&#39; our form inputs. They were right to be angry.](https://www.reddit.com/r/Kotlin/comments/1qwup21/blamed_users_for_fat_fingering_our_form_inputs/)
 - [Is there is a problem with Mapbox for Kotlin/AndroidStudio ?](https://www.reddit.com/r/Kotlin/comments/1qwrfn0/is_there_is_a_problem_with_mapbox_for/)
-- [Agentic UI developer Android smartphones](https://www.reddit.com/r/Kotlin/comments/1qwoe5v/agentic_ui_developer_android_smartphones/)
-- [QRT: A screen-to-camera data transfer protocol, using QR codes &lpar;proof of concept&rpar;](https://www.reddit.com/r/Kotlin/comments/1qwnsig/qrt_a_screentocamera_data_transfer_protocol_using/)
-- [Koog x ACP: Connect an Agent to Your IDE and More](https://www.reddit.com/r/Kotlin/comments/1qwm89t/koog_x_acp_connect_an_agent_to_your_ide_and_more/)
-- [Working on a KMP Feature Flag library &lpar;FF4K&rpar; - Looking for API feedbacks](https://www.reddit.com/r/Kotlin/comments/1qwg2zn/working_on_a_kmp_feature_flag_library_ff4k/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
