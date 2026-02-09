@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AGP 9 upgrade of a Compose Multiplatform App with Koin &amp; platform-specific modules](https://www.reddit.com/r/Kotlin/comments/1qz73cg/agp_9_upgrade_of_a_compose_multiplatform_app_with/)
 - [How I brought the declarative pattern to Vaadin with reactive signals in Kotlin](https://www.reddit.com/r/Kotlin/comments/1qyk4gg/how_i_brought_the_declarative_pattern_to_vaadin/)
 - [What AI coding assistants are you all using for Kotlin lately?](https://www.reddit.com/r/Kotlin/comments/1qy7fuz/what_ai_coding_assistants_are_you_all_using_for/)
 - [Stack + pricing sanity check for Android booking app &lpar;India&rpar;](https://www.reddit.com/r/Kotlin/comments/1qy6vxh/stack_pricing_sanity_check_for_android_booking/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [🚀 Using Exposed in your projects? We’d love your feedback!](https://www.reddit.com/r/Kotlin/comments/1qxmrtp/using_exposed_in_your_projects_wed_love_your/)
 - [I feel like learning Ktor makes Spring Boot easier.](https://www.reddit.com/r/Kotlin/comments/1qxg5ds/i_feel_like_learning_ktor_makes_spring_boot_easier/)
 - [blamed users for &#39;fat fingering&#39; our form inputs. They were right to be angry.](https://www.reddit.com/r/Kotlin/comments/1qwup21/blamed_users_for_fat_fingering_our_form_inputs/)
-- [Is there is a problem with Mapbox for Kotlin/AndroidStudio ?](https://www.reddit.com/r/Kotlin/comments/1qwrfn0/is_there_is_a_problem_with_mapbox_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
