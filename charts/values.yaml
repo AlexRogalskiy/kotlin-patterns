@@ -1,0 +1,222 @@
+# Provide a custom message
+message: ""
+
+general:
+  debug: false
+  replicaCount: 1
+  nameOverride: ""
+  fullnameOverride: ""
+  logLevel: info
+  host: #0.0.0.0
+  backend: #http://backend-podinfo:9898/echo
+  backends: []
+
+image:
+  repository: styled-kotlin-patterns
+  tag: latest
+  pullPolicy: IfNotPresent
+  pullSecrets: {}
+  # command: ['./run.sh']
+  # args: []
+
+podSecurityContext:
+  fsGroup: 1000
+
+configMaps:
+  create: false
+  data:
+    debug: info
+    serverPort: "8000"
+    appName: "styled-kotlin-patterns"
+
+secrets:
+  create: false
+  additionalLabels:
+    app.kubernetes.io/component: vault
+  data:
+    baseUrl: ""
+    baseToken: ""
+
+ui:
+  color: "#34577c"
+  message: ""
+  logo: ""
+
+# failure conditions
+faults:
+  delay: false
+  error: false
+  unhealthy: false
+  unready: false
+  testFail: false
+  testTimeout: false
+
+service:
+  enabled: true
+  annotations: {}
+  type: ClusterIP
+#   port: 8193
+#   portName: http
+  httpPort: 8000
+  externalPort: 8000
+  nodePort: 8000
+  # the port used to bind the http port to the host
+  # NOTE: requires privileged container with NET_BIND_SERVICE capability -- this is useful for testing
+  # in local clusters such as kind without port forwarding
+  hostPort:
+
+# enable h2c protocol (non-TLS version of HTTP/2)
+h2c:
+  enabled: false
+
+# enable tls on the podinfo service
+tls:
+  enabled: false
+  # the name of the secret used to mount the certificate key pair
+  secretName:
+  # the path where the certificate key pair will be mounted
+  certPath: /data/cert
+  # the port used to host the tls endpoint on the service
+  httpPort: 8000
+  externalPort: 8000
+  # the port used to bind the tls port to the host
+  # NOTE: requires privileged container with NET_BIND_SERVICE capability -- this is useful for testing
+  # in local clusters such as kind without port forwarding
+  hostPort:
+
+# create a certificate manager certificate (cert-manager required)
+certificate:
+  create: false
+  # the issuer used to issue the certificate
+  issuerRef:
+    kind: ClusterIssuer
+    name: self-signed
+  # the hostname / subject alternative names for the certificate
+  dnsNames:
+    - localhost
+
+# metrics-server add-on required
+hpa:
+  enabled: true
+  minReplicas: 2
+  maxReplicas: 10
+  targetCPUUtilizationPercentage: 80
+  targetMemoryUtilizationPercentage: 80
+  # average total CPU usage per pod (1-100)
+  cpu:
+  # average memory usage per pod (100Mi-1Gi)
+  memory:
+  # average http requests per second per pod (k8s-prometheus-adapter)
+  requests:
+
+serviceAccount:
+  enabled: false
+  # Specifies whether a service account should be created
+  create: true
+  # Annotations to add to the service account
+  annotations: {}
+  # The name of the service account to use.
+  # If not set and create is true, a name is generated using the fullname template
+  name: ""
+
+# set container security context
+securityContext: {}
+  # capabilities:
+  #   drop:
+  #   - ALL
+  # readOnlyRootFilesystem: true
+  # runAsNonRoot: true
+  # runAsUser: 1000
+
+# Remember to set service.type=ClusterIP if you are using an ingress
+ingress:
+  enabled: false
+  className: ""
+  annotations: {}
+    # kubernetes.io/ingress.class: nginx
+    # kubernetes.io/tls-acme: "true"
+  configured: false
+  rewritePath: true
+  pathPrefix: ""
+  hosts:
+    - host: podinfo.local
+      paths:
+        - path: /
+          pathType: ImplementationSpecific
+  tls: []
+  #  - secretName: chart-example-tls
+  #    hosts:
+  #      - chart-example.local
+
+linkerd:
+  profile:
+    enabled: false
+
+# create Prometheus Operator monitor
+serviceMonitor:
+  enabled: false
+  interval: 15s
+  additionalLabels: {}
+
+virtualservice:
+  enabled: false
+  annotations: []
+  hosts:
+    - host: ""
+      names: []
+      uris: {}
+      rewrites: []
+  serviceHost: ""
+
+resources:
+  limits:
+    cpu: 500m
+    memory: 1024Mi
+  requests:
+    cpu: 100m
+    memory: 512Mi
+
+deployment:
+  replicaCount: 2
+  container:
+    image:
+      repository: "styled-kotlin-patterns"
+      tag: "latest" # uses chart appVersion if not provided
+      pullPolicy: IfNotPresent
+    port: 8000
+
+  resources:
+    limits:
+    requests:
+      cpu: 1m
+      memory: 16Mi
+
+  # An arbitrary use of livenessProbe could make a lot of service interruption, use it wisely.
+  livenessProbe:
+    enabled: false
+    config:
+      httpGet:
+        path: /actuator/health
+        port: http
+      initialDelaySeconds: 210
+      periodSeconds: 60
+
+  readinessProbe:
+    enabled: false
+    config:
+      httpGet:
+        path: /actuator/health
+        port: http
+      initialDelaySeconds: 180
+      periodSeconds: 60
+
+  # Currently only linux images on amd64 architecture are supported - support for arm64 and windows/amd64 coming ...
+  nodeSelector: {}
+#    kubernetes.io/os: linux
+#    kubernetes.io/arch: amd64
+
+  tolerations: []
+
+  affinity: {}
+
+  podAnnotations: {}
