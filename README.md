@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [AGP 9 upgrade of a Compose Multiplatform App with Koin &amp; platform-specific modules](https://www.reddit.com/r/Kotlin/comments/1qz73cg/agp_9_upgrade_of_a_compose_multiplatform_app_with/)
-- [How I brought the declarative pattern to Vaadin with reactive signals in Kotlin](https://www.reddit.com/r/Kotlin/comments/1qyk4gg/how_i_brought_the_declarative_pattern_to_vaadin/)
-- [What AI coding assistants are you all using for Kotlin lately?](https://www.reddit.com/r/Kotlin/comments/1qy7fuz/what_ai_coding_assistants_are_you_all_using_for/)
-- [Stack + pricing sanity check for Android booking app &lpar;India&rpar;](https://www.reddit.com/r/Kotlin/comments/1qy6vxh/stack_pricing_sanity_check_for_android_booking/)
-- [Exploring Kotlin Multiplatform with Jetpack Compose + SwiftUI — thoughts?](https://www.reddit.com/r/Kotlin/comments/1qy5d31/exploring_kotlin_multiplatform_with_jetpack/)
-- [The usage of AI Agent nowadays](https://www.reddit.com/r/Kotlin/comments/1qxxrig/the_usage_of_ai_agent_nowadays/)
-- [Introducing Synapse: Reactive Flows!](https://www.reddit.com/r/Kotlin/comments/1qxww3x/introducing_synapse_reactive_flows/)
-- [🚀 Using Exposed in your projects? We’d love your feedback!](https://www.reddit.com/r/Kotlin/comments/1qxmrtp/using_exposed_in_your_projects_wed_love_your/)
-- [I feel like learning Ktor makes Spring Boot easier.](https://www.reddit.com/r/Kotlin/comments/1qxg5ds/i_feel_like_learning_ktor_makes_spring_boot_easier/)
-- [blamed users for &#39;fat fingering&#39; our form inputs. They were right to be angry.](https://www.reddit.com/r/Kotlin/comments/1qwup21/blamed_users_for_fat_fingering_our_form_inputs/)
+- [Making WebAssembly a first-class language on the Web](https://www.reddit.com/r/Kotlin/comments/1rflqy0/making_webassembly_a_firstclass_language_on_the/)
+- [Summon 0.7.0.2: Kotlin Multiplatform UI framework gets HTML DSL, multi-window support, responsive breakpoints, and more](https://www.reddit.com/r/Kotlin/comments/1rfd1k1/summon_0702_kotlin_multiplatform_ui_framework/)
+- [Why is Kotlin losing popularity?](https://www.reddit.com/r/Kotlin/comments/1rf7o99/why_is_kotlin_losing_popularity/)
+- [How would you design Flow and StateFlow if Kotlin doesn&#39;t provide it. Got this question asked in an interview. Can someone help out how to answer it properly ?](https://www.reddit.com/r/Kotlin/comments/1rf4cl1/how_would_you_design_flow_and_stateflow_if_kotlin/)
+- [Multiplatform reflection is finally here*](https://www.reddit.com/r/Kotlin/comments/1rev98u/multiplatform_reflection_is_finally_here/)
+- [Jesse Wilson: From SourceForge to OkHttp, and Why WebAssembly Beats the AI Hype](https://www.reddit.com/r/Kotlin/comments/1req7py/jesse_wilson_from_sourceforge_to_okhttp_and_why/)
+- [Intro to Kotlin&#39;s Flow API - first video in new series](https://www.reddit.com/r/Kotlin/comments/1rehyma/intro_to_kotlins_flow_api_first_video_in_new/)
+- [How to reduce Kotlin LSP RAM usage?](https://www.reddit.com/r/Kotlin/comments/1regsti/how_to_reduce_kotlin_lsp_ram_usage/)
+- [I built a digital asset management service using ktor](https://www.reddit.com/r/Kotlin/comments/1re1shz/i_built_a_digital_asset_management_service_using/)
+- [Kotlin/CMP Boilerplate &lpar;open source&rpar;](https://www.reddit.com/r/Kotlin/comments/1rdrt6e/kotlincmp_boilerplate_open_source/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
