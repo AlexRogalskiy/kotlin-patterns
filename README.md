@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why does mobile QA still feel like it&#39;s 10 years behind web testing? Am I missing something?](https://www.reddit.com/r/Kotlin/comments/1rg8gvs/why_does_mobile_qa_still_feel_like_its_10_years/)
+- [Open-source plugin to visualize your project structure, I think most people writing Kotlin use IDEA/Android Studio, so I’m sharing this here:](https://www.reddit.com/r/Kotlin/comments/1rg5fo4/opensource_plugin_to_visualize_your_project/)
+- [New Discord community for Kotlin Multiplatform developers](https://www.reddit.com/r/Kotlin/comments/1rfyht7/new_discord_community_for_kotlin_multiplatform/)
 - [Making WebAssembly a first-class language on the Web](https://www.reddit.com/r/Kotlin/comments/1rflqy0/making_webassembly_a_firstclass_language_on_the/)
 - [Summon 0.7.0.2: Kotlin Multiplatform UI framework gets HTML DSL, multi-window support, responsive breakpoints, and more](https://www.reddit.com/r/Kotlin/comments/1rfd1k1/summon_0702_kotlin_multiplatform_ui_framework/)
 - [Why is Kotlin losing popularity?](https://www.reddit.com/r/Kotlin/comments/1rf7o99/why_is_kotlin_losing_popularity/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Multiplatform reflection is finally here*](https://www.reddit.com/r/Kotlin/comments/1rev98u/multiplatform_reflection_is_finally_here/)
 - [Jesse Wilson: From SourceForge to OkHttp, and Why WebAssembly Beats the AI Hype](https://www.reddit.com/r/Kotlin/comments/1req7py/jesse_wilson_from_sourceforge_to_okhttp_and_why/)
 - [Intro to Kotlin&#39;s Flow API - first video in new series](https://www.reddit.com/r/Kotlin/comments/1rehyma/intro_to_kotlins_flow_api_first_video_in_new/)
-- [How to reduce Kotlin LSP RAM usage?](https://www.reddit.com/r/Kotlin/comments/1regsti/how_to_reduce_kotlin_lsp_ram_usage/)
-- [I built a digital asset management service using ktor](https://www.reddit.com/r/Kotlin/comments/1re1shz/i_built_a_digital_asset_management_service_using/)
-- [Kotlin/CMP Boilerplate &lpar;open source&rpar;](https://www.reddit.com/r/Kotlin/comments/1rdrt6e/kotlincmp_boilerplate_open_source/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
