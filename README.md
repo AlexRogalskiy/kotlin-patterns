@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Migrating Kotlin projects to Android Gradle plugin 9.0](https://www.reddit.com/r/Kotlin/comments/1rj42or/migrating_kotlin_projects_to_android_gradle/)
+- [I&#39;m building a unified crash reporter and analytics tool for KMP teams — would love feedback](https://www.reddit.com/r/Kotlin/comments/1rj3aiv/im_building_a_unified_crash_reporter_and/)
+- [Are there any good &quot;vibe coding&quot; AI tools for KMP yet?](https://www.reddit.com/r/Kotlin/comments/1rj0pjf/are_there_any_good_vibe_coding_ai_tools_for_kmp/)
+- [asking for design advice](https://www.reddit.com/r/Kotlin/comments/1rimifi/asking_for_design_advice/)
+- [Konvoy - Kotlin/Native build tool built in Rust for simpler native projects](https://www.reddit.com/r/Kotlin/comments/1riicen/konvoy_kotlinnative_build_tool_built_in_rust_for/)
+- [[Hiring] [Remote] [Worldwide] — Freelance Kotlin Engineers @ Parsewave](https://www.reddit.com/r/Kotlin/comments/1rieigf/hiring_remote_worldwide_freelance_kotlin/)
+- [Open source library to embed Dokka documentation into a Material for MkDocs website](https://www.reddit.com/r/Kotlin/comments/1ri37ea/open_source_library_to_embed_dokka_documentation/)
 - [Why does mobile QA still feel like it&#39;s 10 years behind web testing? Am I missing something?](https://www.reddit.com/r/Kotlin/comments/1rg8gvs/why_does_mobile_qa_still_feel_like_its_10_years/)
 - [Open-source plugin to visualize your project structure, I think most people writing Kotlin use IDEA/Android Studio, so I’m sharing this here:](https://www.reddit.com/r/Kotlin/comments/1rg5fo4/opensource_plugin_to_visualize_your_project/)
 - [New Discord community for Kotlin Multiplatform developers](https://www.reddit.com/r/Kotlin/comments/1rfyht7/new_discord_community_for_kotlin_multiplatform/)
-- [Making WebAssembly a first-class language on the Web](https://www.reddit.com/r/Kotlin/comments/1rflqy0/making_webassembly_a_firstclass_language_on_the/)
-- [Summon 0.7.0.2: Kotlin Multiplatform UI framework gets HTML DSL, multi-window support, responsive breakpoints, and more](https://www.reddit.com/r/Kotlin/comments/1rfd1k1/summon_0702_kotlin_multiplatform_ui_framework/)
-- [Why is Kotlin losing popularity?](https://www.reddit.com/r/Kotlin/comments/1rf7o99/why_is_kotlin_losing_popularity/)
-- [How would you design Flow and StateFlow if Kotlin doesn&#39;t provide it. Got this question asked in an interview. Can someone help out how to answer it properly ?](https://www.reddit.com/r/Kotlin/comments/1rf4cl1/how_would_you_design_flow_and_stateflow_if_kotlin/)
-- [Multiplatform reflection is finally here*](https://www.reddit.com/r/Kotlin/comments/1rev98u/multiplatform_reflection_is_finally_here/)
-- [Jesse Wilson: From SourceForge to OkHttp, and Why WebAssembly Beats the AI Hype](https://www.reddit.com/r/Kotlin/comments/1req7py/jesse_wilson_from_sourceforge_to_okhttp_and_why/)
-- [Intro to Kotlin&#39;s Flow API - first video in new series](https://www.reddit.com/r/Kotlin/comments/1rehyma/intro_to_kotlins_flow_api_first_video_in_new/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
