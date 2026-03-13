@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Migrating Kotlin projects to Android Gradle plugin 9.0](https://www.reddit.com/r/Kotlin/comments/1rj42or/migrating_kotlin_projects_to_android_gradle/)
-- [I&#39;m building a unified crash reporter and analytics tool for KMP teams — would love feedback](https://www.reddit.com/r/Kotlin/comments/1rj3aiv/im_building_a_unified_crash_reporter_and/)
-- [Are there any good &quot;vibe coding&quot; AI tools for KMP yet?](https://www.reddit.com/r/Kotlin/comments/1rj0pjf/are_there_any_good_vibe_coding_ai_tools_for_kmp/)
-- [asking for design advice](https://www.reddit.com/r/Kotlin/comments/1rimifi/asking_for_design_advice/)
-- [Konvoy - Kotlin/Native build tool built in Rust for simpler native projects](https://www.reddit.com/r/Kotlin/comments/1riicen/konvoy_kotlinnative_build_tool_built_in_rust_for/)
-- [[Hiring] [Remote] [Worldwide] — Freelance Kotlin Engineers @ Parsewave](https://www.reddit.com/r/Kotlin/comments/1rieigf/hiring_remote_worldwide_freelance_kotlin/)
-- [Open source library to embed Dokka documentation into a Material for MkDocs website](https://www.reddit.com/r/Kotlin/comments/1ri37ea/open_source_library_to_embed_dokka_documentation/)
-- [Why does mobile QA still feel like it&#39;s 10 years behind web testing? Am I missing something?](https://www.reddit.com/r/Kotlin/comments/1rg8gvs/why_does_mobile_qa_still_feel_like_its_10_years/)
-- [Open-source plugin to visualize your project structure, I think most people writing Kotlin use IDEA/Android Studio, so I’m sharing this here:](https://www.reddit.com/r/Kotlin/comments/1rg5fo4/opensource_plugin_to_visualize_your_project/)
-- [New Discord community for Kotlin Multiplatform developers](https://www.reddit.com/r/Kotlin/comments/1rfyht7/new_discord_community_for_kotlin_multiplatform/)
+- [I got tired of slow, bloated formatting sites, so I built a lightning-fast local alternative.](https://www.reddit.com/r/Kotlin/comments/1rs41uo/i_got_tired_of_slow_bloated_formatting_sites_so_i/)
+- [kotlin roleplay bot](https://www.reddit.com/r/Kotlin/comments/1rrz8n5/kotlin_roleplay_bot/)
+- [Repost: ViewModels for List Items and Pages: The New Way](https://www.reddit.com/r/Kotlin/comments/1rrhg33/repost_viewmodels_for_list_items_and_pages_the/)
+- [Hidden tab in developer option in motorola](https://www.reddit.com/r/Kotlin/comments/1rrgciy/hidden_tab_in_developer_option_in_motorola/)
+- [Introducing Tracy: The AI Observability Library for Kotlin](https://www.reddit.com/r/Kotlin/comments/1rrc0g1/introducing_tracy_the_ai_observability_library/)
+- [Looking for a &quot;JBang-like&quot; experience for Kotlin](https://www.reddit.com/r/Kotlin/comments/1rr4t11/looking_for_a_jbanglike_experience_for_kotlin/)
+- [Number of remote Python, Java, and Kotlin job postings worldwide on hirify in March 2026](https://www.reddit.com/r/Kotlin/comments/1rr1g4g/number_of_remote_python_java_and_kotlin_job/)
+- [Jam: a JVM build tool where your build script is just code](https://www.reddit.com/r/Kotlin/comments/1rr0sv4/jam_a_jvm_build_tool_where_your_build_script_is/)
+- [Flow Operators &lpar;...the ones you won&#39;t find on collections or sequences&rpar;](https://www.reddit.com/r/Kotlin/comments/1rqwkfl/flow_operators_the_ones_you_wont_find_on/)
+- [problem with client js cookies](https://www.reddit.com/r/Kotlin/comments/1rquvhh/problem_with_client_js_cookies/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
