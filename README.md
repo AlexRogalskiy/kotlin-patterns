@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KMP mobile rebuild: hire specialist team or one senior dev?](https://www.reddit.com/r/Kotlin/comments/1rt7n8f/kmp_mobile_rebuild_hire_specialist_team_or_one/)
+- [OpenUISpec - A single source of truth design language for AI-native, platform-native app development.](https://www.reddit.com/r/Kotlin/comments/1rst30d/openuispec_a_single_source_of_truth_design/)
+- [DroidToolKit-Device Info](https://www.reddit.com/r/Kotlin/comments/1rsq79y/droidtoolkitdevice_info/)
+- [Conditional method in sealed class for returning same type](https://www.reddit.com/r/Kotlin/comments/1rsm6w0/conditional_method_in_sealed_class_for_returning/)
 - [I got tired of slow, bloated formatting sites, so I built a lightning-fast local alternative.](https://www.reddit.com/r/Kotlin/comments/1rs41uo/i_got_tired_of_slow_bloated_formatting_sites_so_i/)
 - [kotlin roleplay bot](https://www.reddit.com/r/Kotlin/comments/1rrz8n5/kotlin_roleplay_bot/)
 - [Repost: ViewModels for List Items and Pages: The New Way](https://www.reddit.com/r/Kotlin/comments/1rrhg33/repost_viewmodels_for_list_items_and_pages_the/)
 - [Hidden tab in developer option in motorola](https://www.reddit.com/r/Kotlin/comments/1rrgciy/hidden_tab_in_developer_option_in_motorola/)
 - [Introducing Tracy: The AI Observability Library for Kotlin](https://www.reddit.com/r/Kotlin/comments/1rrc0g1/introducing_tracy_the_ai_observability_library/)
 - [Looking for a &quot;JBang-like&quot; experience for Kotlin](https://www.reddit.com/r/Kotlin/comments/1rr4t11/looking_for_a_jbanglike_experience_for_kotlin/)
-- [Number of remote Python, Java, and Kotlin job postings worldwide on hirify in March 2026](https://www.reddit.com/r/Kotlin/comments/1rr1g4g/number_of_remote_python_java_and_kotlin_job/)
-- [Jam: a JVM build tool where your build script is just code](https://www.reddit.com/r/Kotlin/comments/1rr0sv4/jam_a_jvm_build_tool_where_your_build_script_is/)
-- [Flow Operators &lpar;...the ones you won&#39;t find on collections or sequences&rpar;](https://www.reddit.com/r/Kotlin/comments/1rqwkfl/flow_operators_the_ones_you_wont_find_on/)
-- [problem with client js cookies](https://www.reddit.com/r/Kotlin/comments/1rquvhh/problem_with_client_js_cookies/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
