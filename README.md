@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Zero-dependency refinement types with Kotlin extensions — NonBlankString, PositiveInt, NonEmptyList and 200+ more](https://www.reddit.com/r/Kotlin/comments/1rvurnx/zerodependency_refinement_types_with_kotlin/)
+- [Built a CLI tool in Kotlin + GraalVM Native Image — here&#39;s what I learned](https://www.reddit.com/r/Kotlin/comments/1rvjv4y/built_a_cli_tool_in_kotlin_graalvm_native_image/)
+- [Am I crazy to wanna try to build a personal AI assistant in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1rvbh3o/am_i_crazy_to_wanna_try_to_build_a_personal_ai/)
+- [I built an AI-powered JVM profiler that pinpoints the exact line of code causing your performance issues](https://www.reddit.com/r/Kotlin/comments/1rv8jjo/i_built_an_aipowered_jvm_profiler_that_pinpoints/)
+- [Kotlin in last line](https://www.reddit.com/r/Kotlin/comments/1rv5la5/kotlin_in_last_line/)
+- [ai coding platform recommendations that actually understand Kotlin idioms?](https://www.reddit.com/r/Kotlin/comments/1rv29mz/ai_coding_platform_recommendations_that_actually/)
 - [Seeking feedback: advanced Android Studio plugin for variable-tracking debugging](https://www.reddit.com/r/Kotlin/comments/1ruhd93/seeking_feedback_advanced_android_studio_plugin/)
 - [Where can I learn kotlin for free?](https://www.reddit.com/r/Kotlin/comments/1rub384/where_can_i_learn_kotlin_for_free/)
 - [App](https://www.reddit.com/r/Kotlin/comments/1ru7zzt/app/)
 - [I Ran Kotlin HumanEval on 11 Local LLMs. An 8GB Model Beat Several 30B Models](https://www.reddit.com/r/Kotlin/comments/1ru6vpg/i_ran_kotlin_humaneval_on_11_local_llms_an_8gb/)
-- [What&#39;s next for JPM](https://www.reddit.com/r/Kotlin/comments/1ru5wby/whats_next_for_jpm/)
-- [Kotlin in neovim](https://www.reddit.com/r/Kotlin/comments/1ru13yi/kotlin_in_neovim/)
-- [Estudei como os principais ATS do mercado funcionam por dentro. O que encontrei explica por que devs bons somem no processo seletivo](https://www.reddit.com/r/Kotlin/comments/1rtznqd/estudei_como_os_principais_ats_do_mercado/)
-- [I want to learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1rtl72u/i_want_to_learn_kotlin/)
-- [KOTLIN JETPACK COMPOSE](https://www.reddit.com/r/Kotlin/comments/1rteylj/kotlin_jetpack_compose/)
-- [Does anyone wants to be my friend who&#39;s knows kotlin and English](https://www.reddit.com/r/Kotlin/comments/1rt9n3m/does_anyone_wants_to_be_my_friend_whos_knows/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
