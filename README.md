@@ -272,7 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Zero-dependency refinement types with Kotlin extensions — NonBlankString, PositiveInt, NonEmptyList and 200+ more](https://www.reddit.com/r/Kotlin/comments/1rvurnx/zerodependency_refinement_types_with_kotlin/)
+- [I built a deck-building roguelike card game entirely in Compose Multiplatform — targeting Android, iOS, Desktop, and Meta Quest VR](https://www.reddit.com/r/Kotlin/comments/1rwqfuc/i_built_a_deckbuilding_roguelike_card_game/)
+- [I built an open-source self-hosted auth server that doesn&#39;t require a PhD to configure — v1.0.0](https://www.reddit.com/r/Kotlin/comments/1rwlrkk/i_built_an_opensource_selfhosted_auth_server_that/)
+- [An MCP Server That Fits in a Tweet &lpar;and MCP Apps That Don&#39;t Need To&rpar;](https://www.reddit.com/r/Kotlin/comments/1rw0keq/an_mcp_server_that_fits_in_a_tweet_and_mcp_apps/)
 - [Built a CLI tool in Kotlin + GraalVM Native Image — here&#39;s what I learned](https://www.reddit.com/r/Kotlin/comments/1rvjv4y/built_a_cli_tool_in_kotlin_graalvm_native_image/)
 - [Am I crazy to wanna try to build a personal AI assistant in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1rvbh3o/am_i_crazy_to_wanna_try_to_build_a_personal_ai/)
 - [I built an AI-powered JVM profiler that pinpoints the exact line of code causing your performance issues](https://www.reddit.com/r/Kotlin/comments/1rv8jjo/i_built_an_aipowered_jvm_profiler_that_pinpoints/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [ai coding platform recommendations that actually understand Kotlin idioms?](https://www.reddit.com/r/Kotlin/comments/1rv29mz/ai_coding_platform_recommendations_that_actually/)
 - [Seeking feedback: advanced Android Studio plugin for variable-tracking debugging](https://www.reddit.com/r/Kotlin/comments/1ruhd93/seeking_feedback_advanced_android_studio_plugin/)
 - [Where can I learn kotlin for free?](https://www.reddit.com/r/Kotlin/comments/1rub384/where_can_i_learn_kotlin_for_free/)
-- [App](https://www.reddit.com/r/Kotlin/comments/1ru7zzt/app/)
-- [I Ran Kotlin HumanEval on 11 Local LLMs. An 8GB Model Beat Several 30B Models](https://www.reddit.com/r/Kotlin/comments/1ru6vpg/i_ran_kotlin_humaneval_on_11_local_llms_an_8gb/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
