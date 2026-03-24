@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a deck-building roguelike card game entirely in Compose Multiplatform — targeting Android, iOS, Desktop, and Meta Quest VR](https://www.reddit.com/r/Kotlin/comments/1rwqfuc/i_built_a_deckbuilding_roguelike_card_game/)
-- [I built an open-source self-hosted auth server that doesn&#39;t require a PhD to configure — v1.0.0](https://www.reddit.com/r/Kotlin/comments/1rwlrkk/i_built_an_opensource_selfhosted_auth_server_that/)
-- [An MCP Server That Fits in a Tweet &lpar;and MCP Apps That Don&#39;t Need To&rpar;](https://www.reddit.com/r/Kotlin/comments/1rw0keq/an_mcp_server_that_fits_in_a_tweet_and_mcp_apps/)
-- [Built a CLI tool in Kotlin + GraalVM Native Image — here&#39;s what I learned](https://www.reddit.com/r/Kotlin/comments/1rvjv4y/built_a_cli_tool_in_kotlin_graalvm_native_image/)
-- [Am I crazy to wanna try to build a personal AI assistant in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1rvbh3o/am_i_crazy_to_wanna_try_to_build_a_personal_ai/)
-- [I built an AI-powered JVM profiler that pinpoints the exact line of code causing your performance issues](https://www.reddit.com/r/Kotlin/comments/1rv8jjo/i_built_an_aipowered_jvm_profiler_that_pinpoints/)
-- [Kotlin in last line](https://www.reddit.com/r/Kotlin/comments/1rv5la5/kotlin_in_last_line/)
-- [ai coding platform recommendations that actually understand Kotlin idioms?](https://www.reddit.com/r/Kotlin/comments/1rv29mz/ai_coding_platform_recommendations_that_actually/)
-- [Seeking feedback: advanced Android Studio plugin for variable-tracking debugging](https://www.reddit.com/r/Kotlin/comments/1ruhd93/seeking_feedback_advanced_android_studio_plugin/)
-- [Where can I learn kotlin for free?](https://www.reddit.com/r/Kotlin/comments/1rub384/where_can_i_learn_kotlin_for_free/)
+- [Needing help with importing scala files into kotlin](https://www.reddit.com/r/Kotlin/comments/1s1rdg5/needing_help_with_importing_scala_files_into/)
+- [Swift Package Management Import for Kotlin Multiplatform is here! &lpar;Experimental&rpar;](https://www.reddit.com/r/Kotlin/comments/1s1pvsm/swift_package_management_import_for_kotlin/)
+- [GSoC 2026 Is Here: Contribute to Kotlin](https://www.reddit.com/r/Kotlin/comments/1s1hdsr/gsoc_2026_is_here_contribute_to_kotlin/)
+- [iOS - Impossible to find crash reason?](https://www.reddit.com/r/Kotlin/comments/1s1gayr/ios_impossible_to_find_crash_reason/)
+- [New Liquid Glass support for Compose](https://www.reddit.com/r/Kotlin/comments/1s1avhc/new_liquid_glass_support_for_compose/)
+- [KotlinConf 2026: Talks to Help You Navigate the Schedule](https://www.reddit.com/r/Kotlin/comments/1s18h5q/kotlinconf_2026_talks_to_help_you_navigate_the/)
+- [Konvoy update - Maven resolution, VS Code extension &lpar;and IntelliJ plugin&rpar;, compiler plugins, and upstream work](https://www.reddit.com/r/Kotlin/comments/1s1173x/konvoy_update_maven_resolution_vs_code_extension/)
+- [Kotlin Beginner — Need Help With My First School App Project](https://www.reddit.com/r/Kotlin/comments/1s0yq4d/kotlin_beginner_need_help_with_my_first_school/)
+- [Problem with Android Emulator](https://www.reddit.com/r/Kotlin/comments/1s0vysu/problem_with_android_emulator/)
+- [My Journey from Kotlin to AI-Driven Development](https://www.reddit.com/r/Kotlin/comments/1s0t4dr/my_journey_from_kotlin_to_aidriven_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
