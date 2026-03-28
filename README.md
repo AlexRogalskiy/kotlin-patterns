@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Needing help with importing scala files into kotlin](https://www.reddit.com/r/Kotlin/comments/1s1rdg5/needing_help_with_importing_scala_files_into/)
-- [Swift Package Management Import for Kotlin Multiplatform is here! &lpar;Experimental&rpar;](https://www.reddit.com/r/Kotlin/comments/1s1pvsm/swift_package_management_import_for_kotlin/)
-- [GSoC 2026 Is Here: Contribute to Kotlin](https://www.reddit.com/r/Kotlin/comments/1s1hdsr/gsoc_2026_is_here_contribute_to_kotlin/)
-- [iOS - Impossible to find crash reason?](https://www.reddit.com/r/Kotlin/comments/1s1gayr/ios_impossible_to_find_crash_reason/)
-- [New Liquid Glass support for Compose](https://www.reddit.com/r/Kotlin/comments/1s1avhc/new_liquid_glass_support_for_compose/)
-- [KotlinConf 2026: Talks to Help You Navigate the Schedule](https://www.reddit.com/r/Kotlin/comments/1s18h5q/kotlinconf_2026_talks_to_help_you_navigate_the/)
-- [Konvoy update - Maven resolution, VS Code extension &lpar;and IntelliJ plugin&rpar;, compiler plugins, and upstream work](https://www.reddit.com/r/Kotlin/comments/1s1173x/konvoy_update_maven_resolution_vs_code_extension/)
-- [Kotlin Beginner — Need Help With My First School App Project](https://www.reddit.com/r/Kotlin/comments/1s0yq4d/kotlin_beginner_need_help_with_my_first_school/)
-- [Problem with Android Emulator](https://www.reddit.com/r/Kotlin/comments/1s0vysu/problem_with_android_emulator/)
-- [My Journey from Kotlin to AI-Driven Development](https://www.reddit.com/r/Kotlin/comments/1s0t4dr/my_journey_from_kotlin_to_aidriven_development/)
+- [Ripple effect causing ui jank/stutter in kotlin compose mobile development](https://www.reddit.com/r/Kotlin/comments/1s5833p/ripple_effect_causing_ui_jankstutter_in_kotlin/)
+- [Shipped a 60 FPS game using Compose Multiplatform — Glow Spin, a rhythm-reflex game on Android + iOS](https://www.reddit.com/r/Kotlin/comments/1s51xj1/shipped_a_60_fps_game_using_compose_multiplatform/)
+- [KotlinConf’26 Speakers: In Conversation with Josh Long](https://www.reddit.com/r/Kotlin/comments/1s4z4qp/kotlinconf26_speakers_in_conversation_with_josh/)
+- [TelegramKitty 2.0.6: Kotlin Telegram bot library update](https://www.reddit.com/r/Kotlin/comments/1s4hdiu/telegramkitty_206_kotlin_telegram_bot_library/)
+- [Standards-first WebAuthn/passkey library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1s4gk84/standardsfirst_webauthnpasskey_library_for_kotlin/)
+- [Multiline paste in terminal, how do you handle it?](https://www.reddit.com/r/Kotlin/comments/1s4d725/multiline_paste_in_terminal_how_do_you_handle_it/)
+- [gradle build jibbuildtar parameters](https://www.reddit.com/r/Kotlin/comments/1s45d1k/gradle_build_jibbuildtar_parameters/)
+- [I built Kayan: a Kotlin Gradle plugin for typed layered JSON/YAML config in KMP, JVM, and Android](https://www.reddit.com/r/Kotlin/comments/1s3l09y/i_built_kayan_a_kotlin_gradle_plugin_for_typed/)
+- [Elide v1 Release! &lpar;Promotional&rpar;](https://www.reddit.com/r/Kotlin/comments/1s3iwsb/elide_v1_release_promotional/)
+- [Kotlin 2.3.20, Android Bench, and more - TypeAlias Show #10](https://www.reddit.com/r/Kotlin/comments/1s3d7i4/kotlin_2320_android_bench_and_more_typealias_show/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
