@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ripple effect causing ui jank/stutter in kotlin compose mobile development](https://www.reddit.com/r/Kotlin/comments/1s5833p/ripple_effect_causing_ui_jankstutter_in_kotlin/)
-- [Shipped a 60 FPS game using Compose Multiplatform — Glow Spin, a rhythm-reflex game on Android + iOS](https://www.reddit.com/r/Kotlin/comments/1s51xj1/shipped_a_60_fps_game_using_compose_multiplatform/)
-- [KotlinConf’26 Speakers: In Conversation with Josh Long](https://www.reddit.com/r/Kotlin/comments/1s4z4qp/kotlinconf26_speakers_in_conversation_with_josh/)
-- [TelegramKitty 2.0.6: Kotlin Telegram bot library update](https://www.reddit.com/r/Kotlin/comments/1s4hdiu/telegramkitty_206_kotlin_telegram_bot_library/)
-- [Standards-first WebAuthn/passkey library for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1s4gk84/standardsfirst_webauthnpasskey_library_for_kotlin/)
-- [Multiline paste in terminal, how do you handle it?](https://www.reddit.com/r/Kotlin/comments/1s4d725/multiline_paste_in_terminal_how_do_you_handle_it/)
-- [gradle build jibbuildtar parameters](https://www.reddit.com/r/Kotlin/comments/1s45d1k/gradle_build_jibbuildtar_parameters/)
-- [I built Kayan: a Kotlin Gradle plugin for typed layered JSON/YAML config in KMP, JVM, and Android](https://www.reddit.com/r/Kotlin/comments/1s3l09y/i_built_kayan_a_kotlin_gradle_plugin_for_typed/)
-- [Elide v1 Release! &lpar;Promotional&rpar;](https://www.reddit.com/r/Kotlin/comments/1s3iwsb/elide_v1_release_promotional/)
-- [Kotlin 2.3.20, Android Bench, and more - TypeAlias Show #10](https://www.reddit.com/r/Kotlin/comments/1s3d7i4/kotlin_2320_android_bench_and_more_typealias_show/)
+- [A evolução do Kotlin Multiplatform &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1sb1rk5/a_evolução_do_kotlin_multiplatform_kmp/)
+- [Building modern web apps with Kotlin and WebAssembly by Zalim Bashorov - @ Wasm I/O 2026](https://www.reddit.com/r/Kotlin/comments/1sawage/building_modern_web_apps_with_kotlin_and/)
+- [Released open source on GitHub: offline Android app for meeting transcription + AI summaries](https://www.reddit.com/r/Kotlin/comments/1sap3qm/released_open_source_on_github_offline_android/)
+- [I built a 100% offline app to stop &quot;Bank Balance Lies&quot;](https://www.reddit.com/r/Kotlin/comments/1san4iq/i_built_a_100_offline_app_to_stop_bank_balance/)
+- [Built an open-source, offline-first Social Feed to learn Mobile System Design &lpar;Jetpack Compose + Spring Boot DDD&rpar;](https://www.reddit.com/r/Kotlin/comments/1sajqrj/built_an_opensource_offlinefirst_social_feed_to/)
+- [cryptography-kotlin: native cryptography for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1saiguk/cryptographykotlin_native_cryptography_for_kotlin/)
+- [Do you miss working with JasperReports, or is it just me?](https://www.reddit.com/r/Kotlin/comments/1sahvb9/do_you_miss_working_with_jasperreports_or_is_it/)
+- [Fuzzy string matching for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1sag9o7/fuzzy_string_matching_for_kotlin_multiplatform/)
+- [Will a Kotlin app suceed this way?](https://www.reddit.com/r/Kotlin/comments/1sae648/will_a_kotlin_app_suceed_this_way/)
+- [How to use Python Modules in my Android Kotlin App to fetch data from APIs?](https://www.reddit.com/r/Kotlin/comments/1sae56o/how_to_use_python_modules_in_my_android_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
