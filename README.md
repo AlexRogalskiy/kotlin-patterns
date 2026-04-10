@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A evolução do Kotlin Multiplatform &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1sb1rk5/a_evolução_do_kotlin_multiplatform_kmp/)
-- [Building modern web apps with Kotlin and WebAssembly by Zalim Bashorov - @ Wasm I/O 2026](https://www.reddit.com/r/Kotlin/comments/1sawage/building_modern_web_apps_with_kotlin_and/)
-- [Released open source on GitHub: offline Android app for meeting transcription + AI summaries](https://www.reddit.com/r/Kotlin/comments/1sap3qm/released_open_source_on_github_offline_android/)
-- [I built a 100% offline app to stop &quot;Bank Balance Lies&quot;](https://www.reddit.com/r/Kotlin/comments/1san4iq/i_built_a_100_offline_app_to_stop_bank_balance/)
-- [Built an open-source, offline-first Social Feed to learn Mobile System Design &lpar;Jetpack Compose + Spring Boot DDD&rpar;](https://www.reddit.com/r/Kotlin/comments/1sajqrj/built_an_opensource_offlinefirst_social_feed_to/)
-- [cryptography-kotlin: native cryptography for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1saiguk/cryptographykotlin_native_cryptography_for_kotlin/)
-- [Do you miss working with JasperReports, or is it just me?](https://www.reddit.com/r/Kotlin/comments/1sahvb9/do_you_miss_working_with_jasperreports_or_is_it/)
-- [Fuzzy string matching for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1sag9o7/fuzzy_string_matching_for_kotlin_multiplatform/)
-- [Will a Kotlin app suceed this way?](https://www.reddit.com/r/Kotlin/comments/1sae648/will_a_kotlin_app_suceed_this_way/)
-- [How to use Python Modules in my Android Kotlin App to fetch data from APIs?](https://www.reddit.com/r/Kotlin/comments/1sae56o/how_to_use_python_modules_in_my_android_kotlin/)
+- [Some motivation with kotlin](https://www.reddit.com/r/Kotlin/comments/1sguyzk/some_motivation_with_kotlin/)
+- [If you like to have music while coding to help you focus, here what I use](https://www.reddit.com/r/Kotlin/comments/1sga4ig/if_you_like_to_have_music_while_coding_to_help/)
+- [intellij &amp; kotlin - help me please](https://www.reddit.com/r/Kotlin/comments/1sg0mlm/intellij_kotlin_help_me_please/)
+- [Flow API - Context Preservation and Multi-Coroutine Flows](https://www.reddit.com/r/Kotlin/comments/1sfvsqb/flow_api_context_preservation_and_multicoroutine/)
+- [I automated the worst part of my dev workflow. It wasn&#39;t the coding.](https://www.reddit.com/r/Kotlin/comments/1sfvdux/i_automated_the_worst_part_of_my_dev_workflow_it/)
+- [Unofficial kotlin-lsp 0.3.10 -&gt; rust based, for fast browsing, without error checking, but works everywhere](https://www.reddit.com/r/Kotlin/comments/1sfv2vp/unofficial_kotlinlsp_0310_rust_based_for_fast/)
+- [Looking for a KotlinConf &#39;26 ticket](https://www.reddit.com/r/Kotlin/comments/1sfqxtm/looking_for_a_kotlinconf_26_ticket/)
+- [commonMain.dev KMP Newsletter #12 is rolling out!](https://www.reddit.com/r/Kotlin/comments/1sf01mc/commonmaindev_kmp_newsletter_12_is_rolling_out/)
+- [Kotlin + WebAssembly server example &lpar;wasi-http, Component Model&rpar;](https://www.reddit.com/r/Kotlin/comments/1sezw04/kotlin_webassembly_server_example_wasihttp/)
+- [Unified Material components to include the JS DOM &lpar;Compose HTML&rpar; target in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1seznw2/unified_material_components_to_include_the_js_dom/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
