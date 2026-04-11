@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kotlin-itertools v1.1.0 - adds powerset, derangements, cycle, interleave, intersperse and more](https://www.reddit.com/r/Kotlin/comments/1shrcll/kotlinitertools_v110_adds_powerset_derangements/)
+- [The death of &quot;global&quot; remote work &lpar;Remote Global is falling&rpar;](https://www.reddit.com/r/Kotlin/comments/1shjsqt/the_death_of_global_remote_work_remote_global_is/)
 - [Some motivation with kotlin](https://www.reddit.com/r/Kotlin/comments/1sguyzk/some_motivation_with_kotlin/)
 - [If you like to have music while coding to help you focus, here what I use](https://www.reddit.com/r/Kotlin/comments/1sga4ig/if_you_like_to_have_music_while_coding_to_help/)
 - [intellij &amp; kotlin - help me please](https://www.reddit.com/r/Kotlin/comments/1sg0mlm/intellij_kotlin_help_me_please/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Unofficial kotlin-lsp 0.3.10 -&gt; rust based, for fast browsing, without error checking, but works everywhere](https://www.reddit.com/r/Kotlin/comments/1sfv2vp/unofficial_kotlinlsp_0310_rust_based_for_fast/)
 - [Looking for a KotlinConf &#39;26 ticket](https://www.reddit.com/r/Kotlin/comments/1sfqxtm/looking_for_a_kotlinconf_26_ticket/)
 - [commonMain.dev KMP Newsletter #12 is rolling out!](https://www.reddit.com/r/Kotlin/comments/1sf01mc/commonmaindev_kmp_newsletter_12_is_rolling_out/)
-- [Kotlin + WebAssembly server example &lpar;wasi-http, Component Model&rpar;](https://www.reddit.com/r/Kotlin/comments/1sezw04/kotlin_webassembly_server_example_wasihttp/)
-- [Unified Material components to include the JS DOM &lpar;Compose HTML&rpar; target in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1seznw2/unified_material_components_to_include_the_js_dom/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
