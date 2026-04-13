@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Finally, 4 years after the first release, we are pleased to introduce you the fully capable JVM version of our KMP 3D Globe engine WorldWind Kotlin](https://www.reddit.com/r/Kotlin/comments/1sjxddi/finally_4_years_after_the_first_release_we_are/)
+- [Finally, 4 years after the first release, we are pleased to introduce you the fully capable JVM version of our KMP 3D Globe engine WorldWind Kotlin](https://www.reddit.com/r/Kotlin/comments/1sjxcz9/finally_4_years_after_the_first_release_we_are/)
+- [Aprendendo Kotlin](https://www.reddit.com/r/Kotlin/comments/1sjj2tc/aprendendo_kotlin/)
+- [Have any of you used Kobweb to build websites? How did it turn out?](https://www.reddit.com/r/Kotlin/comments/1siraxm/have_any_of_you_used_kobweb_to_build_websites_how/)
+- [Keep pushing 👊](https://www.reddit.com/r/Kotlin/comments/1sir8jc/keep_pushing/)
+- [What happens to TornadoFX now that the GitHub repository is gone?](https://www.reddit.com/r/Kotlin/comments/1siihcv/what_happens_to_tornadofx_now_that_the_github/)
+- [Large sealed classes](https://www.reddit.com/r/Kotlin/comments/1siibe1/large_sealed_classes/)
+- [Sharing my experimental project.](https://www.reddit.com/r/Kotlin/comments/1siel4m/sharing_my_experimental_project/)
 - [kotlin-itertools v1.1.0 - adds powerset, derangements, cycle, interleave, intersperse and more](https://www.reddit.com/r/Kotlin/comments/1shrcll/kotlinitertools_v110_adds_powerset_derangements/)
 - [The death of &quot;global&quot; remote work &lpar;Remote Global is falling&rpar;](https://www.reddit.com/r/Kotlin/comments/1shjsqt/the_death_of_global_remote_work_remote_global_is/)
-- [Some motivation with kotlin](https://www.reddit.com/r/Kotlin/comments/1sguyzk/some_motivation_with_kotlin/)
-- [If you like to have music while coding to help you focus, here what I use](https://www.reddit.com/r/Kotlin/comments/1sga4ig/if_you_like_to_have_music_while_coding_to_help/)
-- [intellij &amp; kotlin - help me please](https://www.reddit.com/r/Kotlin/comments/1sg0mlm/intellij_kotlin_help_me_please/)
-- [Flow API - Context Preservation and Multi-Coroutine Flows](https://www.reddit.com/r/Kotlin/comments/1sfvsqb/flow_api_context_preservation_and_multicoroutine/)
-- [I automated the worst part of my dev workflow. It wasn&#39;t the coding.](https://www.reddit.com/r/Kotlin/comments/1sfvdux/i_automated_the_worst_part_of_my_dev_workflow_it/)
-- [Unofficial kotlin-lsp 0.3.10 -&gt; rust based, for fast browsing, without error checking, but works everywhere](https://www.reddit.com/r/Kotlin/comments/1sfv2vp/unofficial_kotlinlsp_0310_rust_based_for_fast/)
-- [Looking for a KotlinConf &#39;26 ticket](https://www.reddit.com/r/Kotlin/comments/1sfqxtm/looking_for_a_kotlinconf_26_ticket/)
-- [commonMain.dev KMP Newsletter #12 is rolling out!](https://www.reddit.com/r/Kotlin/comments/1sf01mc/commonmaindev_kmp_newsletter_12_is_rolling_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
