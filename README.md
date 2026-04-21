@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Finally, 4 years after the first release, we are pleased to introduce you the fully capable JVM version of our KMP 3D Globe engine WorldWind Kotlin](https://www.reddit.com/r/Kotlin/comments/1sjxddi/finally_4_years_after_the_first_release_we_are/)
-- [Finally, 4 years after the first release, we are pleased to introduce you the fully capable JVM version of our KMP 3D Globe engine WorldWind Kotlin](https://www.reddit.com/r/Kotlin/comments/1sjxcz9/finally_4_years_after_the_first_release_we_are/)
-- [Aprendendo Kotlin](https://www.reddit.com/r/Kotlin/comments/1sjj2tc/aprendendo_kotlin/)
-- [Have any of you used Kobweb to build websites? How did it turn out?](https://www.reddit.com/r/Kotlin/comments/1siraxm/have_any_of_you_used_kobweb_to_build_websites_how/)
-- [Keep pushing 👊](https://www.reddit.com/r/Kotlin/comments/1sir8jc/keep_pushing/)
-- [What happens to TornadoFX now that the GitHub repository is gone?](https://www.reddit.com/r/Kotlin/comments/1siihcv/what_happens_to_tornadofx_now_that_the_github/)
-- [Large sealed classes](https://www.reddit.com/r/Kotlin/comments/1siibe1/large_sealed_classes/)
-- [Sharing my experimental project.](https://www.reddit.com/r/Kotlin/comments/1siel4m/sharing_my_experimental_project/)
-- [kotlin-itertools v1.1.0 - adds powerset, derangements, cycle, interleave, intersperse and more](https://www.reddit.com/r/Kotlin/comments/1shrcll/kotlinitertools_v110_adds_powerset_derangements/)
-- [The death of &quot;global&quot; remote work &lpar;Remote Global is falling&rpar;](https://www.reddit.com/r/Kotlin/comments/1shjsqt/the_death_of_global_remote_work_remote_global_is/)
+- [How to handle custom URI scheme &lpar;turbo://&rpar; in Android Media3 / ExoPlayer?](https://www.reddit.com/r/Kotlin/comments/1sr5v34/how_to_handle_custom_uri_scheme_turbo_in_android/)
+- [Classes cannot have data members than only differ in case?](https://www.reddit.com/r/Kotlin/comments/1sr33p9/classes_cannot_have_data_members_than_only_differ/)
+- [Type-safe user journey modeling library for Kotlin](https://www.reddit.com/r/Kotlin/comments/1squjms/typesafe_user_journey_modeling_library_for_kotlin/)
+- [Just published a short post on shipping a Koog + Bedrock AI agent to production on AWS Lambda.](https://www.reddit.com/r/Kotlin/comments/1sqpw5h/just_published_a_short_post_on_shipping_a_koog/)
+- [OnHandCache - A global cache management library](https://www.reddit.com/r/Kotlin/comments/1sqdy2h/onhandcache_a_global_cache_management_library/)
+- [Kotlinx Serialization PreWarming](https://www.reddit.com/r/Kotlin/comments/1sq1npf/kotlinx_serialization_prewarming/)
+- [FocusFlow: An Android Productivity Blocker with a Rust Core and Zero-Alloc Memory](https://www.reddit.com/r/Kotlin/comments/1spr3xv/focusflow_an_android_productivity_blocker_with_a/)
+- [Showcase: AutoFlow - A Kotlin-based Automation Framework for Android](https://www.reddit.com/r/Kotlin/comments/1sppuis/showcase_autoflow_a_kotlinbased_automation/)
+- [ExTra: An Android Native Expense Tracker](https://www.reddit.com/r/Kotlin/comments/1spkybw/extra_an_android_native_expense_tracker/)
+- [Is Kotlin fully open source?](https://www.reddit.com/r/Kotlin/comments/1spjnin/is_kotlin_fully_open_source/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
