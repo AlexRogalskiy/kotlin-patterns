@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Library] FabriKt: 7 years of idiomatic OpenAPI code generation for Kotlin](https://www.reddit.com/r/Kotlin/comments/1ssxaz3/library_fabrikt_7_years_of_idiomatic_openapi_code/)
+- [Resources for learning the mobile side of Kotlin, as an already experienced Kotlin backend developer](https://www.reddit.com/r/Kotlin/comments/1ssuyg0/resources_for_learning_the_mobile_side_of_kotlin/)
+- [Apache Fory 0.17.0 Released: Virtual Threads Supported, and new NodeJS, and Dart Support](https://www.reddit.com/r/Kotlin/comments/1sspqb1/apache_fory_0170_released_virtual_threads/)
+- [Buffering, Conflating, and Debouncing in Multi-Coroutine Flows](https://www.reddit.com/r/Kotlin/comments/1ssoidq/buffering_conflating_and_debouncing_in/)
 - [How to handle custom URI scheme &lpar;turbo://&rpar; in Android Media3 / ExoPlayer?](https://www.reddit.com/r/Kotlin/comments/1sr5v34/how_to_handle_custom_uri_scheme_turbo_in_android/)
 - [Classes cannot have data members than only differ in case?](https://www.reddit.com/r/Kotlin/comments/1sr33p9/classes_cannot_have_data_members_than_only_differ/)
 - [Type-safe user journey modeling library for Kotlin](https://www.reddit.com/r/Kotlin/comments/1squjms/typesafe_user_journey_modeling_library_for_kotlin/)
 - [Just published a short post on shipping a Koog + Bedrock AI agent to production on AWS Lambda.](https://www.reddit.com/r/Kotlin/comments/1sqpw5h/just_published_a_short_post_on_shipping_a_koog/)
 - [OnHandCache - A global cache management library](https://www.reddit.com/r/Kotlin/comments/1sqdy2h/onhandcache_a_global_cache_management_library/)
 - [Kotlinx Serialization PreWarming](https://www.reddit.com/r/Kotlin/comments/1sq1npf/kotlinx_serialization_prewarming/)
-- [FocusFlow: An Android Productivity Blocker with a Rust Core and Zero-Alloc Memory](https://www.reddit.com/r/Kotlin/comments/1spr3xv/focusflow_an_android_productivity_blocker_with_a/)
-- [Showcase: AutoFlow - A Kotlin-based Automation Framework for Android](https://www.reddit.com/r/Kotlin/comments/1sppuis/showcase_autoflow_a_kotlinbased_automation/)
-- [ExTra: An Android Native Expense Tracker](https://www.reddit.com/r/Kotlin/comments/1spkybw/extra_an_android_native_expense_tracker/)
-- [Is Kotlin fully open source?](https://www.reddit.com/r/Kotlin/comments/1spjnin/is_kotlin_fully_open_source/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
