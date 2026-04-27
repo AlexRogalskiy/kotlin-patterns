@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[Library] FabriKt: 7 years of idiomatic OpenAPI code generation for Kotlin](https://www.reddit.com/r/Kotlin/comments/1ssxaz3/library_fabrikt_7_years_of_idiomatic_openapi_code/)
-- [Resources for learning the mobile side of Kotlin, as an already experienced Kotlin backend developer](https://www.reddit.com/r/Kotlin/comments/1ssuyg0/resources_for_learning_the_mobile_side_of_kotlin/)
-- [Apache Fory 0.17.0 Released: Virtual Threads Supported, and new NodeJS, and Dart Support](https://www.reddit.com/r/Kotlin/comments/1sspqb1/apache_fory_0170_released_virtual_threads/)
-- [Buffering, Conflating, and Debouncing in Multi-Coroutine Flows](https://www.reddit.com/r/Kotlin/comments/1ssoidq/buffering_conflating_and_debouncing_in/)
-- [How to handle custom URI scheme &lpar;turbo://&rpar; in Android Media3 / ExoPlayer?](https://www.reddit.com/r/Kotlin/comments/1sr5v34/how_to_handle_custom_uri_scheme_turbo_in_android/)
-- [Classes cannot have data members than only differ in case?](https://www.reddit.com/r/Kotlin/comments/1sr33p9/classes_cannot_have_data_members_than_only_differ/)
-- [Type-safe user journey modeling library for Kotlin](https://www.reddit.com/r/Kotlin/comments/1squjms/typesafe_user_journey_modeling_library_for_kotlin/)
-- [Just published a short post on shipping a Koog + Bedrock AI agent to production on AWS Lambda.](https://www.reddit.com/r/Kotlin/comments/1sqpw5h/just_published_a_short_post_on_shipping_a_koog/)
-- [OnHandCache - A global cache management library](https://www.reddit.com/r/Kotlin/comments/1sqdy2h/onhandcache_a_global_cache_management_library/)
-- [Kotlinx Serialization PreWarming](https://www.reddit.com/r/Kotlin/comments/1sq1npf/kotlinx_serialization_prewarming/)
+- [How we built iShape using 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/1swh4ez/how_we_built_ishape_using_100_kotlin/)
+- [DSL for keyboard shortcuts on Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1sweyh8/dsl_for_keyboard_shortcuts_on_compose/)
+- [Design advice: mobile notifications + caller ID app &lpar;ASP.NET backend, Android first&rpar;](https://www.reddit.com/r/Kotlin/comments/1sw61bb/design_advice_mobile_notifications_caller_id_app/)
+- [Need 12 testers for my first Wear OS app](https://www.reddit.com/r/Kotlin/comments/1svjsrb/need_12_testers_for_my_first_wear_os_app/)
+- [KMP + LLM: treating AI as progressive enhancement not a hard dependency](https://www.reddit.com/r/Kotlin/comments/1svdluw/kmp_llm_treating_ai_as_progressive_enhancement/)
+- [Open-sourced 3 working Android apps I no longer want to maintain &lpar;full SSH client, linux monitor and Teslamate companion&rpar;](https://www.reddit.com/r/Kotlin/comments/1sv8nzh/opensourced_3_working_android_apps_i_no_longer/)
+- [🎉 Ktor 3.4.3 has been released!](https://www.reddit.com/r/Kotlin/comments/1sudg4y/ktor_343_has_been_released/)
+- [freepath: An information network that lives in your pocket and spreads through human contact](https://www.reddit.com/r/Kotlin/comments/1su8i5b/freepath_an_information_network_that_lives_in/)
+- [Some feedback with my idea for a project? thank you very much appreciated your help](https://www.reddit.com/r/Kotlin/comments/1su3y03/some_feedback_with_my_idea_for_a_project_thank/)
+- [Built a custom kotlinx.serialization format for packing state into tiny URL-safe strings](https://www.reddit.com/r/Kotlin/comments/1stturk/built_a_custom_kotlinxserialization_format_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
