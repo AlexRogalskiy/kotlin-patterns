@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building a Postman-like API tool with Kotlin Multiplatform — looking for feedback](https://www.reddit.com/r/Kotlin/comments/1sxd2ta/building_a_postmanlike_api_tool_with_kotlin/)
+- [Spring Data JPA with Kotlin: Definitive Guide](https://www.reddit.com/r/Kotlin/comments/1sxbq71/spring_data_jpa_with_kotlin_definitive_guide/)
+- [http4k Mastery, On Tap for Your AI Coding Agent](https://www.reddit.com/r/Kotlin/comments/1sx943j/http4k_mastery_on_tap_for_your_ai_coding_agent/)
+- [GCP + Kotlin](https://www.reddit.com/r/Kotlin/comments/1sx8kvt/gcp_kotlin/)
+- [i build a open sourse app that tell you exactly what anime to watch and no more endless scrolling](https://www.reddit.com/r/Kotlin/comments/1sx3i6g/i_build_a_open_sourse_app_that_tell_you_exactly/)
 - [How we built iShape using 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/1swh4ez/how_we_built_ishape_using_100_kotlin/)
 - [DSL for keyboard shortcuts on Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1sweyh8/dsl_for_keyboard_shortcuts_on_compose/)
 - [Design advice: mobile notifications + caller ID app &lpar;ASP.NET backend, Android first&rpar;](https://www.reddit.com/r/Kotlin/comments/1sw61bb/design_advice_mobile_notifications_caller_id_app/)
 - [Need 12 testers for my first Wear OS app](https://www.reddit.com/r/Kotlin/comments/1svjsrb/need_12_testers_for_my_first_wear_os_app/)
 - [KMP + LLM: treating AI as progressive enhancement not a hard dependency](https://www.reddit.com/r/Kotlin/comments/1svdluw/kmp_llm_treating_ai_as_progressive_enhancement/)
-- [Open-sourced 3 working Android apps I no longer want to maintain &lpar;full SSH client, linux monitor and Teslamate companion&rpar;](https://www.reddit.com/r/Kotlin/comments/1sv8nzh/opensourced_3_working_android_apps_i_no_longer/)
-- [🎉 Ktor 3.4.3 has been released!](https://www.reddit.com/r/Kotlin/comments/1sudg4y/ktor_343_has_been_released/)
-- [freepath: An information network that lives in your pocket and spreads through human contact](https://www.reddit.com/r/Kotlin/comments/1su8i5b/freepath_an_information_network_that_lives_in/)
-- [Some feedback with my idea for a project? thank you very much appreciated your help](https://www.reddit.com/r/Kotlin/comments/1su3y03/some_feedback_with_my_idea_for_a_project_thank/)
-- [Built a custom kotlinx.serialization format for packing state into tiny URL-safe strings](https://www.reddit.com/r/Kotlin/comments/1stturk/built_a_custom_kotlinxserialization_format_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
