@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building a Postman-like API tool with Kotlin Multiplatform — looking for feedback](https://www.reddit.com/r/Kotlin/comments/1sxd2ta/building_a_postmanlike_api_tool_with_kotlin/)
-- [Spring Data JPA with Kotlin: Definitive Guide](https://www.reddit.com/r/Kotlin/comments/1sxbq71/spring_data_jpa_with_kotlin_definitive_guide/)
-- [http4k Mastery, On Tap for Your AI Coding Agent](https://www.reddit.com/r/Kotlin/comments/1sx943j/http4k_mastery_on_tap_for_your_ai_coding_agent/)
-- [GCP + Kotlin](https://www.reddit.com/r/Kotlin/comments/1sx8kvt/gcp_kotlin/)
-- [i build a open sourse app that tell you exactly what anime to watch and no more endless scrolling](https://www.reddit.com/r/Kotlin/comments/1sx3i6g/i_build_a_open_sourse_app_that_tell_you_exactly/)
-- [How we built iShape using 100% Kotlin](https://www.reddit.com/r/Kotlin/comments/1swh4ez/how_we_built_ishape_using_100_kotlin/)
-- [DSL for keyboard shortcuts on Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1sweyh8/dsl_for_keyboard_shortcuts_on_compose/)
-- [Design advice: mobile notifications + caller ID app &lpar;ASP.NET backend, Android first&rpar;](https://www.reddit.com/r/Kotlin/comments/1sw61bb/design_advice_mobile_notifications_caller_id_app/)
-- [Need 12 testers for my first Wear OS app](https://www.reddit.com/r/Kotlin/comments/1svjsrb/need_12_testers_for_my_first_wear_os_app/)
-- [KMP + LLM: treating AI as progressive enhancement not a hard dependency](https://www.reddit.com/r/Kotlin/comments/1svdluw/kmp_llm_treating_ai_as_progressive_enhancement/)
+- [markanywhere: Incremental Markdown parser that emits streams of semantic events, plus tools to manipulate them - designed for real-time rendering of streamed LLM output.](https://www.reddit.com/r/Kotlin/comments/1t7hnvg/markanywhere_incremental_markdown_parser_that/)
+- [Skopx - AI analytics platform replacing BI for mobile teams](https://www.reddit.com/r/Kotlin/comments/1t7g8oe/skopx_ai_analytics_platform_replacing_bi_for/)
+- [I’ll work on a legacy Kotlin project](https://www.reddit.com/r/Kotlin/comments/1t77rk3/ill_work_on_a_legacy_kotlin_project/)
+- [A FULL KMP Project kAryadina: Study &amp; Flashcards](https://www.reddit.com/r/Kotlin/comments/1t759uo/a_full_kmp_project_karyadina_study_flashcards/)
+- [IT Market Report: 3-Month Trends for Python, Java, and Kotlin &lpar;May 2026 Update&rpar;](https://www.reddit.com/r/Kotlin/comments/1t73mqr/it_market_report_3month_trends_for_python_java/)
+- [Roadmap/Learning path Android dev](https://www.reddit.com/r/Kotlin/comments/1t6zynt/roadmaplearning_path_android_dev/)
+- [Testing a Go app with Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1t6krpl/testing_a_go_app_with_kotlin_dsl/)
+- [I created a complete Android SDE2/SDE3 interview roadmap covering Compose, Coroutines, System Design, and debugging scenarios](https://www.reddit.com/r/Kotlin/comments/1t6fsdp/i_created_a_complete_android_sde2sde3_interview/)
+- [iOS App start times are 2 minutes+](https://www.reddit.com/r/Kotlin/comments/1t6ctuy/ios_app_start_times_are_2_minutes/)
+- [FileLogger: A Coroutine-Driven Android Logger with Multiple Sink Support &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1t6by6z/filelogger_a_coroutinedriven_android_logger_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
