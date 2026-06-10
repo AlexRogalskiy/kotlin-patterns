@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [markanywhere: Incremental Markdown parser that emits streams of semantic events, plus tools to manipulate them - designed for real-time rendering of streamed LLM output.](https://www.reddit.com/r/Kotlin/comments/1t7hnvg/markanywhere_incremental_markdown_parser_that/)
-- [Skopx - AI analytics platform replacing BI for mobile teams](https://www.reddit.com/r/Kotlin/comments/1t7g8oe/skopx_ai_analytics_platform_replacing_bi_for/)
-- [I’ll work on a legacy Kotlin project](https://www.reddit.com/r/Kotlin/comments/1t77rk3/ill_work_on_a_legacy_kotlin_project/)
-- [A FULL KMP Project kAryadina: Study &amp; Flashcards](https://www.reddit.com/r/Kotlin/comments/1t759uo/a_full_kmp_project_karyadina_study_flashcards/)
-- [IT Market Report: 3-Month Trends for Python, Java, and Kotlin &lpar;May 2026 Update&rpar;](https://www.reddit.com/r/Kotlin/comments/1t73mqr/it_market_report_3month_trends_for_python_java/)
-- [Roadmap/Learning path Android dev](https://www.reddit.com/r/Kotlin/comments/1t6zynt/roadmaplearning_path_android_dev/)
-- [Testing a Go app with Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1t6krpl/testing_a_go_app_with_kotlin_dsl/)
-- [I created a complete Android SDE2/SDE3 interview roadmap covering Compose, Coroutines, System Design, and debugging scenarios](https://www.reddit.com/r/Kotlin/comments/1t6fsdp/i_created_a_complete_android_sde2sde3_interview/)
-- [iOS App start times are 2 minutes+](https://www.reddit.com/r/Kotlin/comments/1t6ctuy/ios_app_start_times_are_2_minutes/)
-- [FileLogger: A Coroutine-Driven Android Logger with Multiple Sink Support &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1t6by6z/filelogger_a_coroutinedriven_android_logger_with/)
+- [Showing widgets on lockscreen in Android 13+](https://www.reddit.com/r/Kotlin/comments/1u1s96k/showing_widgets_on_lockscreen_in_android_13/)
+- [Busco un Selector de Colores](https://www.reddit.com/r/Kotlin/comments/1u1q9la/busco_un_selector_de_colores/)
+- [Built a CMP library for platform-native navigation bars — Material 3 on Android, Liquid Glass on iOS](https://www.reddit.com/r/Kotlin/comments/1u1ph4n/built_a_cmp_library_for_platformnative_navigation/)
+- [Luban 2 ships a native .so and dropped target-size — so I maintain a pure-JVM fork &lpar;PixelDiet&rpar;](https://www.reddit.com/r/Kotlin/comments/1u1c7x0/luban_2_ships_a_native_so_and_dropped_targetsize/)
+- [commonMain.dev KMP newsletter has surpassed 300 subscribers! 🎉](https://www.reddit.com/r/Kotlin/comments/1u15ugi/commonmaindev_kmp_newsletter_has_surpassed_300/)
+- [My Steam game is open sourced now.](https://www.reddit.com/r/Kotlin/comments/1u14xlm/my_steam_game_is_open_sourced_now/)
+- [Looking for some guides on learning Kotlin for a project I&#39;m working on](https://www.reddit.com/r/Kotlin/comments/1u148m3/looking_for_some_guides_on_learning_kotlin_for_a/)
+- [I taught my Compose Desktop terminal to speak MCP — AI agents now drive my real terminal](https://www.reddit.com/r/Kotlin/comments/1u0ht67/i_taught_my_compose_desktop_terminal_to_speak_mcp/)
+- [[Rant] As a C++ programmer Kotlin&#39;s class definitions make me irrationally angry](https://www.reddit.com/r/Kotlin/comments/1u0ear5/rant_as_a_c_programmer_kotlins_class_definitions/)
+- [Interactive kotlinx.coroutines flow diagrams](https://www.reddit.com/r/Kotlin/comments/1tznsvz/interactive_kotlinxcoroutines_flow_diagrams/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
