@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Showing widgets on lockscreen in Android 13+](https://www.reddit.com/r/Kotlin/comments/1u1s96k/showing_widgets_on_lockscreen_in_android_13/)
-- [Busco un Selector de Colores](https://www.reddit.com/r/Kotlin/comments/1u1q9la/busco_un_selector_de_colores/)
-- [Built a CMP library for platform-native navigation bars — Material 3 on Android, Liquid Glass on iOS](https://www.reddit.com/r/Kotlin/comments/1u1ph4n/built_a_cmp_library_for_platformnative_navigation/)
-- [Luban 2 ships a native .so and dropped target-size — so I maintain a pure-JVM fork &lpar;PixelDiet&rpar;](https://www.reddit.com/r/Kotlin/comments/1u1c7x0/luban_2_ships_a_native_so_and_dropped_targetsize/)
-- [commonMain.dev KMP newsletter has surpassed 300 subscribers! 🎉](https://www.reddit.com/r/Kotlin/comments/1u15ugi/commonmaindev_kmp_newsletter_has_surpassed_300/)
-- [My Steam game is open sourced now.](https://www.reddit.com/r/Kotlin/comments/1u14xlm/my_steam_game_is_open_sourced_now/)
-- [Looking for some guides on learning Kotlin for a project I&#39;m working on](https://www.reddit.com/r/Kotlin/comments/1u148m3/looking_for_some_guides_on_learning_kotlin_for_a/)
-- [I taught my Compose Desktop terminal to speak MCP — AI agents now drive my real terminal](https://www.reddit.com/r/Kotlin/comments/1u0ht67/i_taught_my_compose_desktop_terminal_to_speak_mcp/)
-- [[Rant] As a C++ programmer Kotlin&#39;s class definitions make me irrationally angry](https://www.reddit.com/r/Kotlin/comments/1u0ear5/rant_as_a_c_programmer_kotlins_class_definitions/)
-- [Interactive kotlinx.coroutines flow diagrams](https://www.reddit.com/r/Kotlin/comments/1tznsvz/interactive_kotlinxcoroutines_flow_diagrams/)
+- [How to customize that icon](https://www.reddit.com/r/Kotlin/comments/1u4aw87/how_to_customize_that_icon/)
+- [Open-sourced a JetBrains plugin in Kotlin — GitHub issues/PRs directly in your IDE.](https://www.reddit.com/r/Kotlin/comments/1u45iwg/opensourced_a_jetbrains_plugin_in_kotlin_github/)
+- [Nox: a Kotlin based sandboxed programming language with dynamic permission grants](https://www.reddit.com/r/Kotlin/comments/1u43r85/nox_a_kotlin_based_sandboxed_programming_language/)
+- [The Three Kotlin Versions in a Gradle Project](https://www.reddit.com/r/Kotlin/comments/1u42afu/the_three_kotlin_versions_in_a_gradle_project/)
+- [🎉 KStateMachine v0.37.0 is out!](https://www.reddit.com/r/Kotlin/comments/1u35oxo/kstatemachine_v0370_is_out/)
+- [🎮 Kodee vs. Friction is here!](https://www.reddit.com/r/Kotlin/comments/1u31ir1/kodee_vs_friction_is_here/)
+- [Android: Forcing HTTP requests over cellular while connected to a Wi-Fi network with no internet &lpar;React Native + Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1u2zxr1/android_forcing_http_requests_over_cellular_while/)
+- [I shipped a KMP bilingual e-reader with on-device AI translation &lpar;Android + macOS&rpar;. Here&#39;s what the architecture looks like.](https://www.reddit.com/r/Kotlin/comments/1u23ia0/i_shipped_a_kmp_bilingual_ereader_with_ondevice/)
+- [kexpresso – fluent Kotlin DSL that makes regex readable &lpar;KMP, on Maven Central, 0% overhead&rpar;](https://www.reddit.com/r/Kotlin/comments/1u1zmln/kexpresso_fluent_kotlin_dsl_that_makes_regex/)
+- [A Kotlin cheat sheet](https://www.reddit.com/r/Kotlin/comments/1u1uhzi/a_kotlin_cheat_sheet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
