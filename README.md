@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a Kotlin library for stable per-call-site values](https://www.reddit.com/r/Kotlin/comments/1u54zs4/i_made_a_kotlin_library_for_stable_percallsite/)
+- [Stop writing GraphQL boilerplate in Kotlin — GraphLink generates everything](https://www.reddit.com/r/Kotlin/comments/1u54lge/stop_writing_graphql_boilerplate_in_kotlin/)
+- [Updated Mythos benchmarks](https://www.reddit.com/r/Kotlin/comments/1u4vmwj/updated_mythos_benchmarks/)
+- [Things I wish I knew before starting a Kotlin/JS &amp; Kotlin/WASM project with Compose](https://www.reddit.com/r/Kotlin/comments/1u4vgeh/things_i_wish_i_knew_before_starting_a_kotlinjs/)
+- [Pythonic language for GPU programming on Mobile Devices](https://www.reddit.com/r/Kotlin/comments/1u4ru2e/pythonic_language_for_gpu_programming_on_mobile/)
+- [⚠️ The Kotlin Multiplatform division-by-zero trap](https://www.reddit.com/r/Kotlin/comments/1u4qaea/the_kotlin_multiplatform_divisionbyzero_trap/)
+- [KMP vs Flutter in 2026 — Genuine career dilemma for an Android dev. Need advice from people actually using KMP in production.](https://www.reddit.com/r/Kotlin/comments/1u4lfuf/kmp_vs_flutter_in_2026_genuine_career_dilemma_for/)
 - [How to customize that icon](https://www.reddit.com/r/Kotlin/comments/1u4aw87/how_to_customize_that_icon/)
 - [Open-sourced a JetBrains plugin in Kotlin — GitHub issues/PRs directly in your IDE.](https://www.reddit.com/r/Kotlin/comments/1u45iwg/opensourced_a_jetbrains_plugin_in_kotlin_github/)
 - [Nox: a Kotlin based sandboxed programming language with dynamic permission grants](https://www.reddit.com/r/Kotlin/comments/1u43r85/nox_a_kotlin_based_sandboxed_programming_language/)
-- [The Three Kotlin Versions in a Gradle Project](https://www.reddit.com/r/Kotlin/comments/1u42afu/the_three_kotlin_versions_in_a_gradle_project/)
-- [🎉 KStateMachine v0.37.0 is out!](https://www.reddit.com/r/Kotlin/comments/1u35oxo/kstatemachine_v0370_is_out/)
-- [🎮 Kodee vs. Friction is here!](https://www.reddit.com/r/Kotlin/comments/1u31ir1/kodee_vs_friction_is_here/)
-- [Android: Forcing HTTP requests over cellular while connected to a Wi-Fi network with no internet &lpar;React Native + Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1u2zxr1/android_forcing_http_requests_over_cellular_while/)
-- [I shipped a KMP bilingual e-reader with on-device AI translation &lpar;Android + macOS&rpar;. Here&#39;s what the architecture looks like.](https://www.reddit.com/r/Kotlin/comments/1u23ia0/i_shipped_a_kmp_bilingual_ereader_with_ondevice/)
-- [kexpresso – fluent Kotlin DSL that makes regex readable &lpar;KMP, on Maven Central, 0% overhead&rpar;](https://www.reddit.com/r/Kotlin/comments/1u1zmln/kexpresso_fluent_kotlin_dsl_that_makes_regex/)
-- [A Kotlin cheat sheet](https://www.reddit.com/r/Kotlin/comments/1u1uhzi/a_kotlin_cheat_sheet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
