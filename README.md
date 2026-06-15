@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tired of over-processed Android photos? I built ProCameraX—a custom camera app with true Ultra HDR, 10-bit Video, and Auto Night Mode &lpar;Built with Antigravity AI &amp; Gemini&rpar;](https://www.reddit.com/r/Kotlin/comments/1u654zs/tired_of_overprocessed_android_photos_i_built/)
+- [Graphql client for kotlin? Graphlink.dev is the answer.](https://www.reddit.com/r/Kotlin/comments/1u5qwwj/graphql_client_for_kotlin_graphlinkdev_is_the/)
 - [I made a Kotlin library for stable per-call-site values](https://www.reddit.com/r/Kotlin/comments/1u54zs4/i_made_a_kotlin_library_for_stable_percallsite/)
 - [Stop writing GraphQL boilerplate in Kotlin — GraphLink generates everything](https://www.reddit.com/r/Kotlin/comments/1u54lge/stop_writing_graphql_boilerplate_in_kotlin/)
-- [Updated Mythos benchmarks](https://www.reddit.com/r/Kotlin/comments/1u4vmwj/updated_mythos_benchmarks/)
 - [Things I wish I knew before starting a Kotlin/JS &amp; Kotlin/WASM project with Compose](https://www.reddit.com/r/Kotlin/comments/1u4vgeh/things_i_wish_i_knew_before_starting_a_kotlinjs/)
 - [Pythonic language for GPU programming on Mobile Devices](https://www.reddit.com/r/Kotlin/comments/1u4ru2e/pythonic_language_for_gpu_programming_on_mobile/)
 - [⚠️ The Kotlin Multiplatform division-by-zero trap](https://www.reddit.com/r/Kotlin/comments/1u4qaea/the_kotlin_multiplatform_divisionbyzero_trap/)
 - [KMP vs Flutter in 2026 — Genuine career dilemma for an Android dev. Need advice from people actually using KMP in production.](https://www.reddit.com/r/Kotlin/comments/1u4lfuf/kmp_vs_flutter_in_2026_genuine_career_dilemma_for/)
 - [How to customize that icon](https://www.reddit.com/r/Kotlin/comments/1u4aw87/how_to_customize_that_icon/)
 - [Open-sourced a JetBrains plugin in Kotlin — GitHub issues/PRs directly in your IDE.](https://www.reddit.com/r/Kotlin/comments/1u45iwg/opensourced_a_jetbrains_plugin_in_kotlin_github/)
-- [Nox: a Kotlin based sandboxed programming language with dynamic permission grants](https://www.reddit.com/r/Kotlin/comments/1u43r85/nox_a_kotlin_based_sandboxed_programming_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
