@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Nanowar of Steel - Kotlin &lpar;Official Power Point Video&rpar;](https://www.reddit.com/r/Kotlin/comments/1u7m1k8/nanowar_of_steel_kotlin_official_power_point_video/)
+- [Python, Java, or Kotlin? The AI Revolution is Reshaping Remote Work in 2026](https://www.reddit.com/r/Kotlin/comments/1u7iogc/python_java_or_kotlin_the_ai_revolution_is/)
+- [Apache Fory Serialization 1.2.0 released: JDK 25/26 support without sun.misc.Unsafe and Kotlin Grpc support with Fory Serialization](https://www.reddit.com/r/Kotlin/comments/1u7iabw/apache_fory_serialization_120_released_jdk_2526/)
+- [Tale of the tape: Claude vs the http4k codebase](https://www.reddit.com/r/Kotlin/comments/1u7ewyf/tale_of_the_tape_claude_vs_the_http4k_codebase/)
+- [KMP Briefing: Swift Export vs SKIE, Kotlin Foundation Grants, Wasm Web App Lessons, and Coil 3](https://www.reddit.com/r/Kotlin/comments/1u7dfjc/kmp_briefing_swift_export_vs_skie_kotlin/)
+- [⚠️ The Kotlin Multiplatform division-by-zero trap](https://www.reddit.com/r/Kotlin/comments/1u7ad1d/the_kotlin_multiplatform_divisionbyzero_trap/)
+- [Why Maven Central Will &quot;Die&quot; in the AI Era &lpar;If It Doesn&#39;t Change&rpar;](https://www.reddit.com/r/Kotlin/comments/1u79otp/why_maven_central_will_die_in_the_ai_era_if_it/)
 - [Is Compose Multiplatform ready for an offline-first B2B SaaS desktop app?](https://www.reddit.com/r/Kotlin/comments/1u6v53b/is_compose_multiplatform_ready_for_an/)
 - [Tired of over-processed Android photos? I built ProCameraX—a custom camera app with true Ultra HDR, 10-bit Video, and Auto Night Mode &lpar;Built with Antigravity AI &amp; Gemini&rpar;](https://www.reddit.com/r/Kotlin/comments/1u654zs/tired_of_overprocessed_android_photos_i_built/)
 - [I made a Kotlin library for stable per-call-site values](https://www.reddit.com/r/Kotlin/comments/1u54zs4/i_made_a_kotlin_library_for_stable_percallsite/)
-- [Stop writing GraphQL boilerplate in Kotlin — GraphLink generates everything](https://www.reddit.com/r/Kotlin/comments/1u54lge/stop_writing_graphql_boilerplate_in_kotlin/)
-- [Things I wish I knew before starting a Kotlin/JS &amp; Kotlin/WASM project with Compose](https://www.reddit.com/r/Kotlin/comments/1u4vgeh/things_i_wish_i_knew_before_starting_a_kotlinjs/)
-- [Pythonic language for GPU programming on Mobile Devices](https://www.reddit.com/r/Kotlin/comments/1u4ru2e/pythonic_language_for_gpu_programming_on_mobile/)
-- [KMP vs Flutter in 2026 — Genuine career dilemma for an Android dev. Need advice from people actually using KMP in production.](https://www.reddit.com/r/Kotlin/comments/1u4lfuf/kmp_vs_flutter_in_2026_genuine_career_dilemma_for/)
-- [How to customize that icon](https://www.reddit.com/r/Kotlin/comments/1u4aw87/how_to_customize_that_icon/)
-- [Open-sourced a JetBrains plugin in Kotlin — GitHub issues/PRs directly in your IDE.](https://www.reddit.com/r/Kotlin/comments/1u45iwg/opensourced_a_jetbrains_plugin_in_kotlin_github/)
-- [Nox: a Kotlin based sandboxed programming language with dynamic permission grants](https://www.reddit.com/r/Kotlin/comments/1u43r85/nox_a_kotlin_based_sandboxed_programming_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
