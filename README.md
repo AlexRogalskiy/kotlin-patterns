@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Collection Literals - Been looking forward to this feature!](https://www.reddit.com/r/Kotlin/comments/1u8d983/collection_literals_been_looking_forward_to_this/)
+- [The lysine contingency – Jake Wharton](https://www.reddit.com/r/Kotlin/comments/1u8cotp/the_lysine_contingency_jake_wharton/)
+- [Reading your Kotlin/Wasm compiler output in the IDE — badge per function, click to jump back to the .kt declaration](https://www.reddit.com/r/Kotlin/comments/1u87r9y/reading_your_kotlinwasm_compiler_output_in_the/)
+- [The Kotlin Effect in Real Life](https://www.reddit.com/r/Kotlin/comments/1u86pzd/the_kotlin_effect_in_real_life/)
+- [WorldWindKotin 2.0.3 multiplatform 3D globe engine now supports OGC/Cesium 3D Tiles &lpar;mesh, point cloud and gaussian splatting&rpar;](https://www.reddit.com/r/Kotlin/comments/1u85wui/worldwindkotin_203_multiplatform_3d_globe_engine/)
 - [Nanowar of Steel - Kotlin &lpar;Official Power Point Video&rpar;](https://www.reddit.com/r/Kotlin/comments/1u7m1k8/nanowar_of_steel_kotlin_official_power_point_video/)
-- [Python, Java, or Kotlin? The AI Revolution is Reshaping Remote Work in 2026](https://www.reddit.com/r/Kotlin/comments/1u7iogc/python_java_or_kotlin_the_ai_revolution_is/)
 - [Apache Fory Serialization 1.2.0 released: JDK 25/26 support without sun.misc.Unsafe and Kotlin Grpc support with Fory Serialization](https://www.reddit.com/r/Kotlin/comments/1u7iabw/apache_fory_serialization_120_released_jdk_2526/)
 - [Tale of the tape: Claude vs the http4k codebase](https://www.reddit.com/r/Kotlin/comments/1u7ewyf/tale_of_the_tape_claude_vs_the_http4k_codebase/)
 - [KMP Briefing: Swift Export vs SKIE, Kotlin Foundation Grants, Wasm Web App Lessons, and Coil 3](https://www.reddit.com/r/Kotlin/comments/1u7dfjc/kmp_briefing_swift_export_vs_skie_kotlin/)
 - [⚠️ The Kotlin Multiplatform division-by-zero trap](https://www.reddit.com/r/Kotlin/comments/1u7ad1d/the_kotlin_multiplatform_divisionbyzero_trap/)
-- [Why Maven Central Will &quot;Die&quot; in the AI Era &lpar;If It Doesn&#39;t Change&rpar;](https://www.reddit.com/r/Kotlin/comments/1u79otp/why_maven_central_will_die_in_the_ai_era_if_it/)
-- [Is Compose Multiplatform ready for an offline-first B2B SaaS desktop app?](https://www.reddit.com/r/Kotlin/comments/1u6v53b/is_compose_multiplatform_ready_for_an/)
-- [Tired of over-processed Android photos? I built ProCameraX—a custom camera app with true Ultra HDR, 10-bit Video, and Auto Night Mode &lpar;Built with Antigravity AI &amp; Gemini&rpar;](https://www.reddit.com/r/Kotlin/comments/1u654zs/tired_of_overprocessed_android_photos_i_built/)
-- [I made a Kotlin library for stable per-call-site values](https://www.reddit.com/r/Kotlin/comments/1u54zs4/i_made_a_kotlin_library_for_stable_percallsite/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
