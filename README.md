@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.reddit.com/r/Kotlin/comments/1u9f26c/project_valhalla_explained_how_a_decade_of_work/)
 - [Collection Literals - Been looking forward to this feature!](https://www.reddit.com/r/Kotlin/comments/1u8d983/collection_literals_been_looking_forward_to_this/)
 - [The lysine contingency – Jake Wharton](https://www.reddit.com/r/Kotlin/comments/1u8cotp/the_lysine_contingency_jake_wharton/)
 - [Reading your Kotlin/Wasm compiler output in the IDE — badge per function, click to jump back to the .kt declaration](https://www.reddit.com/r/Kotlin/comments/1u87r9y/reading_your_kotlinwasm_compiler_output_in_the/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Apache Fory Serialization 1.2.0 released: JDK 25/26 support without sun.misc.Unsafe and Kotlin Grpc support with Fory Serialization](https://www.reddit.com/r/Kotlin/comments/1u7iabw/apache_fory_serialization_120_released_jdk_2526/)
 - [Tale of the tape: Claude vs the http4k codebase](https://www.reddit.com/r/Kotlin/comments/1u7ewyf/tale_of_the_tape_claude_vs_the_http4k_codebase/)
 - [KMP Briefing: Swift Export vs SKIE, Kotlin Foundation Grants, Wasm Web App Lessons, and Coil 3](https://www.reddit.com/r/Kotlin/comments/1u7dfjc/kmp_briefing_swift_export_vs_skie_kotlin/)
-- [⚠️ The Kotlin Multiplatform division-by-zero trap](https://www.reddit.com/r/Kotlin/comments/1u7ad1d/the_kotlin_multiplatform_divisionbyzero_trap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
