@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [We shipped Kotlin Multiplatform to production and it&#39;s the first cross-platform approach I don&#39;t regret](https://www.reddit.com/r/Kotlin/comments/1ua5t5u/we_shipped_kotlin_multiplatform_to_production_and/)
+- [My Kotlin stack after 2 years solo - this language is such a joy](https://www.reddit.com/r/Kotlin/comments/1ua0tq0/my_kotlin_stack_after_2_years_solo_this_language/)
+- [tree-sitter-language-pack 1.9 - 306 tree-sitter parsers with an Android binding &lpar;AAR, JNI&rpar;](https://www.reddit.com/r/Kotlin/comments/1u9wnk9/treesitterlanguagepack_19_306_treesitter_parsers/)
 - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.reddit.com/r/Kotlin/comments/1u9f26c/project_valhalla_explained_how_a_decade_of_work/)
 - [Collection Literals - Been looking forward to this feature!](https://www.reddit.com/r/Kotlin/comments/1u8d983/collection_literals_been_looking_forward_to_this/)
 - [The lysine contingency – Jake Wharton](https://www.reddit.com/r/Kotlin/comments/1u8cotp/the_lysine_contingency_jake_wharton/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [The Kotlin Effect in Real Life](https://www.reddit.com/r/Kotlin/comments/1u86pzd/the_kotlin_effect_in_real_life/)
 - [WorldWindKotin 2.0.3 multiplatform 3D globe engine now supports OGC/Cesium 3D Tiles &lpar;mesh, point cloud and gaussian splatting&rpar;](https://www.reddit.com/r/Kotlin/comments/1u85wui/worldwindkotin_203_multiplatform_3d_globe_engine/)
 - [Nanowar of Steel - Kotlin &lpar;Official Power Point Video&rpar;](https://www.reddit.com/r/Kotlin/comments/1u7m1k8/nanowar_of_steel_kotlin_official_power_point_video/)
-- [Apache Fory Serialization 1.2.0 released: JDK 25/26 support without sun.misc.Unsafe and Kotlin Grpc support with Fory Serialization](https://www.reddit.com/r/Kotlin/comments/1u7iabw/apache_fory_serialization_120_released_jdk_2526/)
-- [Tale of the tape: Claude vs the http4k codebase](https://www.reddit.com/r/Kotlin/comments/1u7ewyf/tale_of_the_tape_claude_vs_the_http4k_codebase/)
-- [KMP Briefing: Swift Export vs SKIE, Kotlin Foundation Grants, Wasm Web App Lessons, and Coil 3](https://www.reddit.com/r/Kotlin/comments/1u7dfjc/kmp_briefing_swift_export_vs_skie_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
