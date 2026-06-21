@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for feedback on the architecture of my Android article reader](https://www.reddit.com/r/Kotlin/comments/1ub6970/looking_for_feedback_on_the_architecture_of_my/)
 - [We shipped Kotlin Multiplatform to production and it&#39;s the first cross-platform approach I don&#39;t regret](https://www.reddit.com/r/Kotlin/comments/1ua5t5u/we_shipped_kotlin_multiplatform_to_production_and/)
 - [My Kotlin stack after 2 years solo - this language is such a joy](https://www.reddit.com/r/Kotlin/comments/1ua0tq0/my_kotlin_stack_after_2_years_solo_this_language/)
 - [tree-sitter-language-pack 1.9 - 306 tree-sitter parsers with an Android binding &lpar;AAR, JNI&rpar;](https://www.reddit.com/r/Kotlin/comments/1u9wnk9/treesitterlanguagepack_19_306_treesitter_parsers/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Reading your Kotlin/Wasm compiler output in the IDE — badge per function, click to jump back to the .kt declaration](https://www.reddit.com/r/Kotlin/comments/1u87r9y/reading_your_kotlinwasm_compiler_output_in_the/)
 - [The Kotlin Effect in Real Life](https://www.reddit.com/r/Kotlin/comments/1u86pzd/the_kotlin_effect_in_real_life/)
 - [WorldWindKotin 2.0.3 multiplatform 3D globe engine now supports OGC/Cesium 3D Tiles &lpar;mesh, point cloud and gaussian splatting&rpar;](https://www.reddit.com/r/Kotlin/comments/1u85wui/worldwindkotin_203_multiplatform_3d_globe_engine/)
-- [Nanowar of Steel - Kotlin &lpar;Official Power Point Video&rpar;](https://www.reddit.com/r/Kotlin/comments/1u7m1k8/nanowar_of_steel_kotlin_official_power_point_video/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
