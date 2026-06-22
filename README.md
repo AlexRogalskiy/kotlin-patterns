@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Simple utility for validation](https://www.reddit.com/r/Kotlin/comments/1ucakir/simple_utility_for_validation/)
+- [I built a macOS menu bar app that gives the Android Emulator real Bluetooth — no dongles, no Python](https://www.reddit.com/r/Kotlin/comments/1uc1pmk/i_built_a_macos_menu_bar_app_that_gives_the/)
 - [Looking for feedback on the architecture of my Android article reader](https://www.reddit.com/r/Kotlin/comments/1ub6970/looking_for_feedback_on_the_architecture_of_my/)
 - [We shipped Kotlin Multiplatform to production and it&#39;s the first cross-platform approach I don&#39;t regret](https://www.reddit.com/r/Kotlin/comments/1ua5t5u/we_shipped_kotlin_multiplatform_to_production_and/)
 - [My Kotlin stack after 2 years solo - this language is such a joy](https://www.reddit.com/r/Kotlin/comments/1ua0tq0/my_kotlin_stack_after_2_years_solo_this_language/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Collection Literals - Been looking forward to this feature!](https://www.reddit.com/r/Kotlin/comments/1u8d983/collection_literals_been_looking_forward_to_this/)
 - [The lysine contingency – Jake Wharton](https://www.reddit.com/r/Kotlin/comments/1u8cotp/the_lysine_contingency_jake_wharton/)
 - [Reading your Kotlin/Wasm compiler output in the IDE — badge per function, click to jump back to the .kt declaration](https://www.reddit.com/r/Kotlin/comments/1u87r9y/reading_your_kotlinwasm_compiler_output_in_the/)
-- [The Kotlin Effect in Real Life](https://www.reddit.com/r/Kotlin/comments/1u86pzd/the_kotlin_effect_in_real_life/)
-- [WorldWindKotin 2.0.3 multiplatform 3D globe engine now supports OGC/Cesium 3D Tiles &lpar;mesh, point cloud and gaussian splatting&rpar;](https://www.reddit.com/r/Kotlin/comments/1u85wui/worldwindkotin_203_multiplatform_3d_globe_engine/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
