@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sealed Class in Kotlin](https://www.reddit.com/r/Kotlin/comments/1ucr379/sealed_class_in_kotlin/)
+- [The 2026 Kotlin Foundation Grant Program for library authors is open!](https://www.reddit.com/r/Kotlin/comments/1ucnx0s/the_2026_kotlin_foundation_grant_program_for/)
 - [Simple utility for validation](https://www.reddit.com/r/Kotlin/comments/1ucakir/simple_utility_for_validation/)
 - [I built a macOS menu bar app that gives the Android Emulator real Bluetooth — no dongles, no Python](https://www.reddit.com/r/Kotlin/comments/1uc1pmk/i_built_a_macos_menu_bar_app_that_gives_the/)
 - [Looking for feedback on the architecture of my Android article reader](https://www.reddit.com/r/Kotlin/comments/1ub6970/looking_for_feedback_on_the_architecture_of_my/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [tree-sitter-language-pack 1.9 - 306 tree-sitter parsers with an Android binding &lpar;AAR, JNI&rpar;](https://www.reddit.com/r/Kotlin/comments/1u9wnk9/treesitterlanguagepack_19_306_treesitter_parsers/)
 - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.reddit.com/r/Kotlin/comments/1u9f26c/project_valhalla_explained_how_a_decade_of_work/)
 - [Collection Literals - Been looking forward to this feature!](https://www.reddit.com/r/Kotlin/comments/1u8d983/collection_literals_been_looking_forward_to_this/)
-- [The lysine contingency – Jake Wharton](https://www.reddit.com/r/Kotlin/comments/1u8cotp/the_lysine_contingency_jake_wharton/)
-- [Reading your Kotlin/Wasm compiler output in the IDE — badge per function, click to jump back to the .kt declaration](https://www.reddit.com/r/Kotlin/comments/1u87r9y/reading_your_kotlinwasm_compiler_output_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
