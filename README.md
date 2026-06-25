@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AccessibilityService inconsistent behavior in Chrome URL bar and YouTube search — need instant text detection across all input fields](https://www.reddit.com/r/Kotlin/comments/1ueidra/accessibilityservice_inconsistent_behavior_in/)
+- [Most Claude skills for Kotlin Multiplatform were too generic, so I built this repo](https://www.reddit.com/r/Kotlin/comments/1ueh431/most_claude_skills_for_kotlin_multiplatform_were/)
+- [Building an audio app — Kotlin, C++, or Rust? Which gives the least headache for low-level audio on Android?](https://www.reddit.com/r/Kotlin/comments/1uegfxc/building_an_audio_app_kotlin_c_or_rust_which/)
+- [Kotlin Toolchain 0.11: The Next Step for Amper](https://www.reddit.com/r/Kotlin/comments/1uegcjp/kotlin_toolchain_011_the_next_step_for_amper/)
 - [Sealed Class in Kotlin](https://www.reddit.com/r/Kotlin/comments/1ucr379/sealed_class_in_kotlin/)
 - [The 2026 Kotlin Foundation Grant Program for library authors is open!](https://www.reddit.com/r/Kotlin/comments/1ucnx0s/the_2026_kotlin_foundation_grant_program_for/)
 - [Simple utility for validation](https://www.reddit.com/r/Kotlin/comments/1ucakir/simple_utility_for_validation/)
 - [I built a macOS menu bar app that gives the Android Emulator real Bluetooth — no dongles, no Python](https://www.reddit.com/r/Kotlin/comments/1uc1pmk/i_built_a_macos_menu_bar_app_that_gives_the/)
+- [New to Kotlin](https://www.reddit.com/r/Kotlin/comments/1ubxn36/new_to_kotlin/)
 - [Looking for feedback on the architecture of my Android article reader](https://www.reddit.com/r/Kotlin/comments/1ub6970/looking_for_feedback_on_the_architecture_of_my/)
-- [We shipped Kotlin Multiplatform to production and it&#39;s the first cross-platform approach I don&#39;t regret](https://www.reddit.com/r/Kotlin/comments/1ua5t5u/we_shipped_kotlin_multiplatform_to_production_and/)
-- [My Kotlin stack after 2 years solo - this language is such a joy](https://www.reddit.com/r/Kotlin/comments/1ua0tq0/my_kotlin_stack_after_2_years_solo_this_language/)
-- [tree-sitter-language-pack 1.9 - 306 tree-sitter parsers with an Android binding &lpar;AAR, JNI&rpar;](https://www.reddit.com/r/Kotlin/comments/1u9wnk9/treesitterlanguagepack_19_306_treesitter_parsers/)
-- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.reddit.com/r/Kotlin/comments/1u9f26c/project_valhalla_explained_how_a_decade_of_work/)
-- [Collection Literals - Been looking forward to this feature!](https://www.reddit.com/r/Kotlin/comments/1u8d983/collection_literals_been_looking_forward_to_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
