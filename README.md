@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need Advice for my Android Dev Internship](https://www.reddit.com/r/Kotlin/comments/1ugs8z1/need_advice_for_my_android_dev_internship/)
+- [Are you waiting for a Kotlin feature that hasn&#39;t been implemented yet?](https://www.reddit.com/r/Kotlin/comments/1ugqi1r/are_you_waiting_for_a_kotlin_feature_that_hasnt/)
+- [New open source library- Constraints](https://www.reddit.com/r/Kotlin/comments/1ugiwok/new_open_source_library_constraints/)
 - [Best way to structure a background service in Kotlin that handles both NotificationListenerService events and on-device LLM inference without blocking?](https://www.reddit.com/r/Kotlin/comments/1ufrdln/best_way_to_structure_a_background_service_in/)
 - [MiniKotlin I built a Kotlin WASM-GC compiler from scratch in C &lpar;runs fully in the browser, no server&rpar;](https://www.reddit.com/r/Kotlin/comments/1ufdqtp/minikotlin_i_built_a_kotlin_wasmgc_compiler_from/)
 - [🎉 Kotlin turns 15!](https://www.reddit.com/r/Kotlin/comments/1ufayrm/kotlin_turns_15/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [AccessibilityService inconsistent behavior in Chrome URL bar and YouTube search — need instant text detection across all input fields](https://www.reddit.com/r/Kotlin/comments/1ueidra/accessibilityservice_inconsistent_behavior_in/)
 - [Most Claude skills for Kotlin Multiplatform were too generic, so I built this repo](https://www.reddit.com/r/Kotlin/comments/1ueh431/most_claude_skills_for_kotlin_multiplatform_were/)
 - [Building an audio app — Kotlin, C++, or Rust? Which gives the least headache for low-level audio on Android?](https://www.reddit.com/r/Kotlin/comments/1uegfxc/building_an_audio_app_kotlin_c_or_rust_which/)
-- [Kotlin Toolchain 0.11: The Next Step for Amper](https://www.reddit.com/r/Kotlin/comments/1uegcjp/kotlin_toolchain_011_the_next_step_for_amper/)
-- [The 2026 Kotlin Foundation Grant Program for library authors is open!](https://www.reddit.com/r/Kotlin/comments/1ucnx0s/the_2026_kotlin_foundation_grant_program_for/)
-- [Simple utility for validation](https://www.reddit.com/r/Kotlin/comments/1ucakir/simple_utility_for_validation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
