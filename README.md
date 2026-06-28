@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is SwiftUI’s scroll-edge blur/dissolve header effect possible in Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/1uhb9wu/is_swiftuis_scrolledge_blurdissolve_header_effect/)
+- [Making Kotlin&#39;s In / Out Type Variant Easier to remember](https://www.reddit.com/r/Kotlin/comments/1uh6ux0/making_kotlins_in_out_type_variant_easier_to/)
 - [Need Advice for my Android Dev Internship](https://www.reddit.com/r/Kotlin/comments/1ugs8z1/need_advice_for_my_android_dev_internship/)
 - [Are you waiting for a Kotlin feature that hasn&#39;t been implemented yet?](https://www.reddit.com/r/Kotlin/comments/1ugqi1r/are_you_waiting_for_a_kotlin_feature_that_hasnt/)
 - [New open source library- Constraints](https://www.reddit.com/r/Kotlin/comments/1ugiwok/new_open_source_library_constraints/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [🎉 Kotlin turns 15!](https://www.reddit.com/r/Kotlin/comments/1ufayrm/kotlin_turns_15/)
 - [Combined L2CS-Net &lpar;ONNX&rpar; with MediaPipe FaceLandmarker for actual usable gaze tracking — sharing what I learned](https://www.reddit.com/r/Kotlin/comments/1uf3c5g/combined_l2csnet_onnx_with_mediapipe/)
 - [AccessibilityService inconsistent behavior in Chrome URL bar and YouTube search — need instant text detection across all input fields](https://www.reddit.com/r/Kotlin/comments/1ueidra/accessibilityservice_inconsistent_behavior_in/)
-- [Most Claude skills for Kotlin Multiplatform were too generic, so I built this repo](https://www.reddit.com/r/Kotlin/comments/1ueh431/most_claude_skills_for_kotlin_multiplatform_were/)
-- [Building an audio app — Kotlin, C++, or Rust? Which gives the least headache for low-level audio on Android?](https://www.reddit.com/r/Kotlin/comments/1uegfxc/building_an_audio_app_kotlin_c_or_rust_which/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
