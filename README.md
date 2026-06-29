@@ -272,8 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Navigation3 example for compose and compose multi-platform project](https://www.reddit.com/r/Kotlin/comments/1ui3ped/navigation3_example_for_compose_and_compose/)
+- [I built a Jetpack Compose library for Material 3 Expressive Settings with adaptive corners and shared transitions](https://www.reddit.com/r/Kotlin/comments/1uht3ja/i_built_a_jetpack_compose_library_for_material_3/)
 - [Is SwiftUI’s scroll-edge blur/dissolve header effect possible in Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/1uhb9wu/is_swiftuis_scrolledge_blurdissolve_header_effect/)
-- [Making Kotlin&#39;s In / Out Type Variant Easier to remember](https://www.reddit.com/r/Kotlin/comments/1uh6ux0/making_kotlins_in_out_type_variant_easier_to/)
 - [Need Advice for my Android Dev Internship](https://www.reddit.com/r/Kotlin/comments/1ugs8z1/need_advice_for_my_android_dev_internship/)
 - [Are you waiting for a Kotlin feature that hasn&#39;t been implemented yet?](https://www.reddit.com/r/Kotlin/comments/1ugqi1r/are_you_waiting_for_a_kotlin_feature_that_hasnt/)
 - [New open source library- Constraints](https://www.reddit.com/r/Kotlin/comments/1ugiwok/new_open_source_library_constraints/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [MiniKotlin I built a Kotlin WASM-GC compiler from scratch in C &lpar;runs fully in the browser, no server&rpar;](https://www.reddit.com/r/Kotlin/comments/1ufdqtp/minikotlin_i_built_a_kotlin_wasmgc_compiler_from/)
 - [🎉 Kotlin turns 15!](https://www.reddit.com/r/Kotlin/comments/1ufayrm/kotlin_turns_15/)
 - [Combined L2CS-Net &lpar;ONNX&rpar; with MediaPipe FaceLandmarker for actual usable gaze tracking — sharing what I learned](https://www.reddit.com/r/Kotlin/comments/1uf3c5g/combined_l2csnet_onnx_with_mediapipe/)
-- [AccessibilityService inconsistent behavior in Chrome URL bar and YouTube search — need instant text detection across all input fields](https://www.reddit.com/r/Kotlin/comments/1ueidra/accessibilityservice_inconsistent_behavior_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
