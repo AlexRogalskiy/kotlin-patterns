@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s Changing for Kotlin Notebook](https://www.reddit.com/r/Kotlin/comments/1uj5kai/whats_changing_for_kotlin_notebook/)
+- [ara ajudar alguém indeciso indicando a Hashtag](https://www.reddit.com/r/Kotlin/comments/1uj36yb/ara_ajudar_alguém_indeciso_indicando_a_hashtag/)
+- [⏳ Kotlin Release Survey closes Sunday, July 5 - last chance to share your feedback!](https://www.reddit.com/r/Kotlin/comments/1uiu110/kotlin_release_survey_closes_sunday_july_5_last/)
+- [Building an open-source SDK for accessible STEM visualizations – I&#39;d love your feedback before I go too far](https://www.reddit.com/r/Kotlin/comments/1uip5zm/building_an_opensource_sdk_for_accessible_stem/)
 - [Navigation3 example for compose and compose multi-platform project](https://www.reddit.com/r/Kotlin/comments/1ui3ped/navigation3_example_for_compose_and_compose/)
 - [I built a Jetpack Compose library for Material 3 Expressive Settings with adaptive corners and shared transitions](https://www.reddit.com/r/Kotlin/comments/1uht3ja/i_built_a_jetpack_compose_library_for_material_3/)
 - [Is SwiftUI’s scroll-edge blur/dissolve header effect possible in Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/1uhb9wu/is_swiftuis_scrolledge_blurdissolve_header_effect/)
 - [Need Advice for my Android Dev Internship](https://www.reddit.com/r/Kotlin/comments/1ugs8z1/need_advice_for_my_android_dev_internship/)
 - [Are you waiting for a Kotlin feature that hasn&#39;t been implemented yet?](https://www.reddit.com/r/Kotlin/comments/1ugqi1r/are_you_waiting_for_a_kotlin_feature_that_hasnt/)
 - [New open source library- Constraints](https://www.reddit.com/r/Kotlin/comments/1ugiwok/new_open_source_library_constraints/)
-- [Best way to structure a background service in Kotlin that handles both NotificationListenerService events and on-device LLM inference without blocking?](https://www.reddit.com/r/Kotlin/comments/1ufrdln/best_way_to_structure_a_background_service_in/)
-- [MiniKotlin I built a Kotlin WASM-GC compiler from scratch in C &lpar;runs fully in the browser, no server&rpar;](https://www.reddit.com/r/Kotlin/comments/1ufdqtp/minikotlin_i_built_a_kotlin_wasmgc_compiler_from/)
-- [🎉 Kotlin turns 15!](https://www.reddit.com/r/Kotlin/comments/1ufayrm/kotlin_turns_15/)
-- [Combined L2CS-Net &lpar;ONNX&rpar; with MediaPipe FaceLandmarker for actual usable gaze tracking — sharing what I learned](https://www.reddit.com/r/Kotlin/comments/1uf3c5g/combined_l2csnet_onnx_with_mediapipe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
