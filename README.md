@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Readout – Turn PDFs, DOCS &amp; EPUBs into audiobooks with new enhanced on-device voices &amp; built-in translation &lpar;Free &amp; Open Source&rpar;](https://www.reddit.com/r/Kotlin/comments/1ujyj42/readout_turn_pdfs_docs_epubs_into_audiobooks_with/)
+- [Passing a SupervisorJob to launch&lpar;&rpar; is a silent bug](https://www.reddit.com/r/Kotlin/comments/1ujw3md/passing_a_supervisorjob_to_launch_is_a_silent_bug/)
+- [Switching a million lines of code from Java threads to Kotlin coroutines, by rewriting three files](https://www.reddit.com/r/Kotlin/comments/1ujqm7z/switching_a_million_lines_of_code_from_java/)
+- [I built Laydr: file-based, type-safe navigation for Compose Multiplatform and Android Compose](https://www.reddit.com/r/Kotlin/comments/1uji1s3/i_built_laydr_filebased_typesafe_navigation_for/)
+- [CoKit: A Kotlin client library for Codex App Server](https://www.reddit.com/r/Kotlin/comments/1ujgyxb/cokit_a_kotlin_client_library_for_codex_app_server/)
 - [What&#39;s Changing for Kotlin Notebook](https://www.reddit.com/r/Kotlin/comments/1uj5kai/whats_changing_for_kotlin_notebook/)
 - [ara ajudar alguém indeciso indicando a Hashtag](https://www.reddit.com/r/Kotlin/comments/1uj36yb/ara_ajudar_alguém_indeciso_indicando_a_hashtag/)
 - [⏳ Kotlin Release Survey closes Sunday, July 5 - last chance to share your feedback!](https://www.reddit.com/r/Kotlin/comments/1uiu110/kotlin_release_survey_closes_sunday_july_5_last/)
 - [Building an open-source SDK for accessible STEM visualizations – I&#39;d love your feedback before I go too far](https://www.reddit.com/r/Kotlin/comments/1uip5zm/building_an_opensource_sdk_for_accessible_stem/)
 - [Navigation3 example for compose and compose multi-platform project](https://www.reddit.com/r/Kotlin/comments/1ui3ped/navigation3_example_for_compose_and_compose/)
-- [I built a Jetpack Compose library for Material 3 Expressive Settings with adaptive corners and shared transitions](https://www.reddit.com/r/Kotlin/comments/1uht3ja/i_built_a_jetpack_compose_library_for_material_3/)
-- [Is SwiftUI’s scroll-edge blur/dissolve header effect possible in Jetpack Compose?](https://www.reddit.com/r/Kotlin/comments/1uhb9wu/is_swiftuis_scrolledge_blurdissolve_header_effect/)
-- [Need Advice for my Android Dev Internship](https://www.reddit.com/r/Kotlin/comments/1ugs8z1/need_advice_for_my_android_dev_internship/)
-- [Are you waiting for a Kotlin feature that hasn&#39;t been implemented yet?](https://www.reddit.com/r/Kotlin/comments/1ugqi1r/are_you_waiting_for_a_kotlin_feature_that_hasnt/)
-- [New open source library- Constraints](https://www.reddit.com/r/Kotlin/comments/1ugiwok/new_open_source_library_constraints/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
