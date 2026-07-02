@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jetpack Compose Modifier Guessing Game](https://www.reddit.com/r/Kotlin/comments/1ukoq5v/jetpack_compose_modifier_guessing_game/)
+- [Callbacks -&gt; Coroutines](https://www.reddit.com/r/Kotlin/comments/1ukopbq/callbacks_coroutines/)
+- [Kotlin support is now available in BlueJ 💙](https://www.reddit.com/r/Kotlin/comments/1ukm6dy/kotlin_support_is_now_available_in_bluej/)
+- [We&#39;ve spent years fixing JVM startup. What if that&#39;s the wrong problem?](https://www.reddit.com/r/Kotlin/comments/1ukj7c6/weve_spent_years_fixing_jvm_startup_what_if_thats/)
+- [Meet KetraTerm: a modern, high-performance terminal](https://www.reddit.com/r/Kotlin/comments/1ukhkfi/meet_ketraterm_a_modern_highperformance_terminal/)
+- [Is learning Kotlin worth it? Where?](https://www.reddit.com/r/Kotlin/comments/1ukfpz8/is_learning_kotlin_worth_it_where/)
+- [Argentum — a Magic: The Gathering rules engine in Kotlin](https://www.reddit.com/r/Kotlin/comments/1uke61g/argentum_a_magic_the_gathering_rules_engine_in/)
 - [Readout – Turn PDFs, DOCS &amp; EPUBs into audiobooks with new enhanced on-device voices &amp; built-in translation &lpar;Free &amp; Open Source&rpar;](https://www.reddit.com/r/Kotlin/comments/1ujyj42/readout_turn_pdfs_docs_epubs_into_audiobooks_with/)
 - [Passing a SupervisorJob to launch&lpar;&rpar; is a silent bug](https://www.reddit.com/r/Kotlin/comments/1ujw3md/passing_a_supervisorjob_to_launch_is_a_silent_bug/)
 - [Switching a million lines of code from Java threads to Kotlin coroutines, by rewriting three files](https://www.reddit.com/r/Kotlin/comments/1ujqm7z/switching_a_million_lines_of_code_from_java/)
-- [I built Laydr: file-based, type-safe navigation for Compose Multiplatform and Android Compose](https://www.reddit.com/r/Kotlin/comments/1uji1s3/i_built_laydr_filebased_typesafe_navigation_for/)
-- [CoKit: A Kotlin client library for Codex App Server](https://www.reddit.com/r/Kotlin/comments/1ujgyxb/cokit_a_kotlin_client_library_for_codex_app_server/)
-- [What&#39;s Changing for Kotlin Notebook](https://www.reddit.com/r/Kotlin/comments/1uj5kai/whats_changing_for_kotlin_notebook/)
-- [ara ajudar alguém indeciso indicando a Hashtag](https://www.reddit.com/r/Kotlin/comments/1uj36yb/ara_ajudar_alguém_indeciso_indicando_a_hashtag/)
-- [⏳ Kotlin Release Survey closes Sunday, July 5 - last chance to share your feedback!](https://www.reddit.com/r/Kotlin/comments/1uiu110/kotlin_release_survey_closes_sunday_july_5_last/)
-- [Building an open-source SDK for accessible STEM visualizations – I&#39;d love your feedback before I go too far](https://www.reddit.com/r/Kotlin/comments/1uip5zm/building_an_opensource_sdk_for_accessible_stem/)
-- [Navigation3 example for compose and compose multi-platform project](https://www.reddit.com/r/Kotlin/comments/1ui3ped/navigation3_example_for_compose_and_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
