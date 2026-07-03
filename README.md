@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Probabilistic Programming Language Interpreter](https://www.reddit.com/r/Kotlin/comments/1um1u5d/probabilistic_programming_language_interpreter/)
+- [Graphlink generated a 400Mb source file!](https://www.reddit.com/r/Kotlin/comments/1ulyb3k/graphlink_generated_a_400mb_source_file/)
+- [What are you currently working on, and how&#39;s it going?](https://www.reddit.com/r/Kotlin/comments/1ulu6d4/what_are_you_currently_working_on_and_hows_it/)
+- [Show Kotlin: Stopgap - A Helidon SE template for Kotlin](https://www.reddit.com/r/Kotlin/comments/1ulb9bo/show_kotlin_stopgap_a_helidon_se_template_for/)
 - [Jetpack Compose Modifier Guessing Game](https://www.reddit.com/r/Kotlin/comments/1ukoq5v/jetpack_compose_modifier_guessing_game/)
 - [Callbacks -&gt; Coroutines](https://www.reddit.com/r/Kotlin/comments/1ukopbq/callbacks_coroutines/)
 - [Kotlin support is now available in BlueJ 💙](https://www.reddit.com/r/Kotlin/comments/1ukm6dy/kotlin_support_is_now_available_in_bluej/)
 - [We&#39;ve spent years fixing JVM startup. What if that&#39;s the wrong problem?](https://www.reddit.com/r/Kotlin/comments/1ukj7c6/weve_spent_years_fixing_jvm_startup_what_if_thats/)
 - [Meet KetraTerm: a modern, high-performance terminal](https://www.reddit.com/r/Kotlin/comments/1ukhkfi/meet_ketraterm_a_modern_highperformance_terminal/)
 - [Is learning Kotlin worth it? Where?](https://www.reddit.com/r/Kotlin/comments/1ukfpz8/is_learning_kotlin_worth_it_where/)
-- [Argentum — a Magic: The Gathering rules engine in Kotlin](https://www.reddit.com/r/Kotlin/comments/1uke61g/argentum_a_magic_the_gathering_rules_engine_in/)
-- [Readout – Turn PDFs, DOCS &amp; EPUBs into audiobooks with new enhanced on-device voices &amp; built-in translation &lpar;Free &amp; Open Source&rpar;](https://www.reddit.com/r/Kotlin/comments/1ujyj42/readout_turn_pdfs_docs_epubs_into_audiobooks_with/)
-- [Passing a SupervisorJob to launch&lpar;&rpar; is a silent bug](https://www.reddit.com/r/Kotlin/comments/1ujw3md/passing_a_supervisorjob_to_launch_is_a_silent_bug/)
-- [Switching a million lines of code from Java threads to Kotlin coroutines, by rewriting three files](https://www.reddit.com/r/Kotlin/comments/1ujqm7z/switching_a_million_lines_of_code_from_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
