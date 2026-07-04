@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MVI/UDF: Best way to model two flows?](https://www.reddit.com/r/Kotlin/comments/1umsvex/mviudf_best_way_to_model_two_flows/)
+- [Kotlin Future in Backend Development](https://www.reddit.com/r/Kotlin/comments/1umo5lj/kotlin_future_in_backend_development/)
+- [🚀 Kotools Types 5.2.0: a faster Integer, exact Decimal arithmetic, and sign as a type](https://www.reddit.com/r/Kotlin/comments/1umj8gl/kotools_types_520_a_faster_integer_exact_decimal/)
 - [Probabilistic Programming Language Interpreter](https://www.reddit.com/r/Kotlin/comments/1um1u5d/probabilistic_programming_language_interpreter/)
 - [Graphlink generated a 400Mb source file!](https://www.reddit.com/r/Kotlin/comments/1ulyb3k/graphlink_generated_a_400mb_source_file/)
 - [What are you currently working on, and how&#39;s it going?](https://www.reddit.com/r/Kotlin/comments/1ulu6d4/what_are_you_currently_working_on_and_hows_it/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Jetpack Compose Modifier Guessing Game](https://www.reddit.com/r/Kotlin/comments/1ukoq5v/jetpack_compose_modifier_guessing_game/)
 - [Callbacks -&gt; Coroutines](https://www.reddit.com/r/Kotlin/comments/1ukopbq/callbacks_coroutines/)
 - [Kotlin support is now available in BlueJ 💙](https://www.reddit.com/r/Kotlin/comments/1ukm6dy/kotlin_support_is_now_available_in_bluej/)
-- [We&#39;ve spent years fixing JVM startup. What if that&#39;s the wrong problem?](https://www.reddit.com/r/Kotlin/comments/1ukj7c6/weve_spent_years_fixing_jvm_startup_what_if_thats/)
-- [Meet KetraTerm: a modern, high-performance terminal](https://www.reddit.com/r/Kotlin/comments/1ukhkfi/meet_ketraterm_a_modern_highperformance_terminal/)
-- [Is learning Kotlin worth it? Where?](https://www.reddit.com/r/Kotlin/comments/1ukfpz8/is_learning_kotlin_worth_it_where/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
