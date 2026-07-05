@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New to KMP? Here&#39;s the Fastest Way to Create a Project](https://www.reddit.com/r/Kotlin/comments/1unbxio/new_to_kmp_heres_the_fastest_way_to_create_a/)
+- [Is Kotlin becoming too bloated? Why I am sticking to a &quot;Minimalist&quot; subset of the language.](https://www.reddit.com/r/Kotlin/comments/1un4dkp/is_kotlin_becoming_too_bloated_why_i_am_sticking/)
+- [which has better overall performance in this implementation?](https://www.reddit.com/r/Kotlin/comments/1un3fzj/which_has_better_overall_performance_in_this/)
+- [SyncForge - offline-first sync for Kotlin Multiplatform &lpar;Android, IOS, JVM, macOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1un2p5r/syncforge_offlinefirst_sync_for_kotlin/)
 - [MVI/UDF: Best way to model two flows?](https://www.reddit.com/r/Kotlin/comments/1umsvex/mviudf_best_way_to_model_two_flows/)
 - [Kotlin Future in Backend Development](https://www.reddit.com/r/Kotlin/comments/1umo5lj/kotlin_future_in_backend_development/)
 - [🚀 Kotools Types 5.2.0: a faster Integer, exact Decimal arithmetic, and sign as a type](https://www.reddit.com/r/Kotlin/comments/1umj8gl/kotools_types_520_a_faster_integer_exact_decimal/)
 - [Probabilistic Programming Language Interpreter](https://www.reddit.com/r/Kotlin/comments/1um1u5d/probabilistic_programming_language_interpreter/)
 - [Graphlink generated a 400Mb source file!](https://www.reddit.com/r/Kotlin/comments/1ulyb3k/graphlink_generated_a_400mb_source_file/)
 - [What are you currently working on, and how&#39;s it going?](https://www.reddit.com/r/Kotlin/comments/1ulu6d4/what_are_you_currently_working_on_and_hows_it/)
-- [Show Kotlin: Stopgap - A Helidon SE template for Kotlin](https://www.reddit.com/r/Kotlin/comments/1ulb9bo/show_kotlin_stopgap_a_helidon_se_template_for/)
-- [Jetpack Compose Modifier Guessing Game](https://www.reddit.com/r/Kotlin/comments/1ukoq5v/jetpack_compose_modifier_guessing_game/)
-- [Callbacks -&gt; Coroutines](https://www.reddit.com/r/Kotlin/comments/1ukopbq/callbacks_coroutines/)
-- [Kotlin support is now available in BlueJ 💙](https://www.reddit.com/r/Kotlin/comments/1ukm6dy/kotlin_support_is_now_available_in_bluej/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
