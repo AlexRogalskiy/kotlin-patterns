@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I was in for quite a surprise when I launched IntelliJ IDEA this morning. Happy birthday, Kotlin!](https://www.reddit.com/r/Kotlin/comments/1uol02s/i_was_in_for_quite_a_surprise_when_i_launched/)
+- [Rotlin. Kotlin but for GenZ](https://www.reddit.com/r/Kotlin/comments/1uofkha/rotlin_kotlin_but_for_genz/)
+- [Introducing Kide 1.0: A Kotlin Multiplatform MVI library designed for AI Code Agent support. Looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1uodmpw/introducing_kide_10_a_kotlin_multiplatform_mvi/)
+- [What is your opinion about this code?](https://www.reddit.com/r/Kotlin/comments/1uobmdx/what_is_your_opinion_about_this_code/)
+- [WorldWind Kotlin v2.0.5 release - new 3D Tiles archoeve formats support](https://www.reddit.com/r/Kotlin/comments/1uo1zp3/worldwind_kotlin_v205_release_new_3d_tiles/)
+- [WorldWind Kotlin v2.0.5 release - new 3D Tiles archoeve formats support](https://www.reddit.com/r/Kotlin/comments/1uo1zi4/worldwind_kotlin_v205_release_new_3d_tiles/)
+- [19 KotlinConf recordings are up](https://www.reddit.com/r/Kotlin/comments/1uo0ahc/19_kotlinconf_recordings_are_up/)
+- [I built a tool that generates a full Android project from a plain description, not just boilerplate](https://www.reddit.com/r/Kotlin/comments/1untldq/i_built_a_tool_that_generates_a_full_android/)
 - [New to KMP? Here&#39;s the Fastest Way to Create a Project](https://www.reddit.com/r/Kotlin/comments/1unbxio/new_to_kmp_heres_the_fastest_way_to_create_a/)
 - [Is Kotlin becoming too bloated? Why I am sticking to a &quot;Minimalist&quot; subset of the language.](https://www.reddit.com/r/Kotlin/comments/1un4dkp/is_kotlin_becoming_too_bloated_why_i_am_sticking/)
-- [which has better overall performance in this implementation?](https://www.reddit.com/r/Kotlin/comments/1un3fzj/which_has_better_overall_performance_in_this/)
-- [SyncForge - offline-first sync for Kotlin Multiplatform &lpar;Android, IOS, JVM, macOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1un2p5r/syncforge_offlinefirst_sync_for_kotlin/)
-- [MVI/UDF: Best way to model two flows?](https://www.reddit.com/r/Kotlin/comments/1umsvex/mviudf_best_way_to_model_two_flows/)
-- [Kotlin Future in Backend Development](https://www.reddit.com/r/Kotlin/comments/1umo5lj/kotlin_future_in_backend_development/)
-- [🚀 Kotools Types 5.2.0: a faster Integer, exact Decimal arithmetic, and sign as a type](https://www.reddit.com/r/Kotlin/comments/1umj8gl/kotools_types_520_a_faster_integer_exact_decimal/)
-- [Probabilistic Programming Language Interpreter](https://www.reddit.com/r/Kotlin/comments/1um1u5d/probabilistic_programming_language_interpreter/)
-- [Graphlink generated a 400Mb source file!](https://www.reddit.com/r/Kotlin/comments/1ulyb3k/graphlink_generated_a_400mb_source_file/)
-- [What are you currently working on, and how&#39;s it going?](https://www.reddit.com/r/Kotlin/comments/1ulu6d4/what_are_you_currently_working_on_and_hows_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
