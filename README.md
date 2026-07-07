@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learned Android &lpar;Kotlin, Compose&rpar; + Spring Boot backend, now scared AI is making it pointless](https://www.reddit.com/r/Kotlin/comments/1upjk8c/learned_android_kotlin_compose_spring_boot/)
+- [Couldn&#39;t Find a Good Mindful Eating App, So I Made One](https://www.reddit.com/r/Kotlin/comments/1upcixz/couldnt_find_a_good_mindful_eating_app_so_i_made/)
+- [I built kUML — a Kotlin-native UML/SysML tool designed from day one for the LLM era](https://www.reddit.com/r/Kotlin/comments/1up3pv0/i_built_kuml_a_kotlinnative_umlsysml_tool/)
+- [Built a custom animated progress gauge in Jetpack Compose &lpar;Canvas, no libraries&rpar;](https://www.reddit.com/r/Kotlin/comments/1uoxgfk/built_a_custom_animated_progress_gauge_in_jetpack/)
+- [Hikage - A real-time Android View runtime powered by Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1uouofp/hikage_a_realtime_android_view_runtime_powered_by/)
+- [I made a Kotlin cheat sheet for last-minute interview prep](https://www.reddit.com/r/Kotlin/comments/1uorml5/i_made_a_kotlin_cheat_sheet_for_lastminute/)
 - [I was in for quite a surprise when I launched IntelliJ IDEA this morning. Happy birthday, Kotlin!](https://www.reddit.com/r/Kotlin/comments/1uol02s/i_was_in_for_quite_a_surprise_when_i_launched/)
 - [Rotlin. Kotlin but for GenZ](https://www.reddit.com/r/Kotlin/comments/1uofkha/rotlin_kotlin_but_for_genz/)
 - [Introducing Kide 1.0: A Kotlin Multiplatform MVI library designed for AI Code Agent support. Looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1uodmpw/introducing_kide_10_a_kotlin_multiplatform_mvi/)
 - [What is your opinion about this code?](https://www.reddit.com/r/Kotlin/comments/1uobmdx/what_is_your_opinion_about_this_code/)
-- [WorldWind Kotlin v2.0.5 release - new 3D Tiles archoeve formats support](https://www.reddit.com/r/Kotlin/comments/1uo1zp3/worldwind_kotlin_v205_release_new_3d_tiles/)
-- [WorldWind Kotlin v2.0.5 release - new 3D Tiles archoeve formats support](https://www.reddit.com/r/Kotlin/comments/1uo1zi4/worldwind_kotlin_v205_release_new_3d_tiles/)
-- [19 KotlinConf recordings are up](https://www.reddit.com/r/Kotlin/comments/1uo0ahc/19_kotlinconf_recordings_are_up/)
-- [I built a tool that generates a full Android project from a plain description, not just boilerplate](https://www.reddit.com/r/Kotlin/comments/1untldq/i_built_a_tool_that_generates_a_full_android/)
-- [New to KMP? Here&#39;s the Fastest Way to Create a Project](https://www.reddit.com/r/Kotlin/comments/1unbxio/new_to_kmp_heres_the_fastest_way_to_create_a/)
-- [Is Kotlin becoming too bloated? Why I am sticking to a &quot;Minimalist&quot; subset of the language.](https://www.reddit.com/r/Kotlin/comments/1un4dkp/is_kotlin_becoming_too_bloated_why_i_am_sticking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
