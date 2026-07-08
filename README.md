@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gradle Plugin for embedding KDoc inside generated typescript definitions](https://www.reddit.com/r/Kotlin/comments/1uq7a61/gradle_plugin_for_embedding_kdoc_inside_generated/)
+- [Advice to Kotlin Multiplatform newbies](https://www.reddit.com/r/Kotlin/comments/1uq78th/advice_to_kotlin_multiplatform_newbies/)
+- [Sidstuga 2.0.8 — offline downloads, catch-up TV and rebuilt Cloud Sync &lpar;BYO-playlist IPTV player for Android TV, Fire TV &amp; mobile&rpar;](https://www.reddit.com/r/Kotlin/comments/1upwcbx/sidstuga_208_offline_downloads_catchup_tv_and/)
+- [I ported Kotlin&#39;s List/Set/Map API to PHP 8.4, what would you have done differently and why? Curious what I could improve for v0.2](https://www.reddit.com/r/Kotlin/comments/1upsw9o/i_ported_kotlins_listsetmap_api_to_php_84_what/)
+- [rootkt: a pure Kotlin library for reading CERN ROOT files](https://www.reddit.com/r/Kotlin/comments/1uppgvu/rootkt_a_pure_kotlin_library_for_reading_cern/)
+- [I built a fully offline notification filter for Android &lpar;Kotlin + Rust/JNI + on-device ML&rpar; because every &quot;smart filter&quot; app ships your OTPs to a cloud server](https://www.reddit.com/r/Kotlin/comments/1upp8wu/i_built_a_fully_offline_notification_filter_for/)
 - [Learned Android &lpar;Kotlin, Compose&rpar; + Spring Boot backend, now scared AI is making it pointless](https://www.reddit.com/r/Kotlin/comments/1upjk8c/learned_android_kotlin_compose_spring_boot/)
 - [Couldn&#39;t Find a Good Mindful Eating App, So I Made One](https://www.reddit.com/r/Kotlin/comments/1upcixz/couldnt_find_a_good_mindful_eating_app_so_i_made/)
 - [I built kUML — a Kotlin-native UML/SysML tool designed from day one for the LLM era](https://www.reddit.com/r/Kotlin/comments/1up3pv0/i_built_kuml_a_kotlinnative_umlsysml_tool/)
-- [Built a custom animated progress gauge in Jetpack Compose &lpar;Canvas, no libraries&rpar;](https://www.reddit.com/r/Kotlin/comments/1uoxgfk/built_a_custom_animated_progress_gauge_in_jetpack/)
 - [Hikage - A real-time Android View runtime powered by Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1uouofp/hikage_a_realtime_android_view_runtime_powered_by/)
-- [I made a Kotlin cheat sheet for last-minute interview prep](https://www.reddit.com/r/Kotlin/comments/1uorml5/i_made_a_kotlin_cheat_sheet_for_lastminute/)
-- [I was in for quite a surprise when I launched IntelliJ IDEA this morning. Happy birthday, Kotlin!](https://www.reddit.com/r/Kotlin/comments/1uol02s/i_was_in_for_quite_a_surprise_when_i_launched/)
-- [Rotlin. Kotlin but for GenZ](https://www.reddit.com/r/Kotlin/comments/1uofkha/rotlin_kotlin_but_for_genz/)
-- [Introducing Kide 1.0: A Kotlin Multiplatform MVI library designed for AI Code Agent support. Looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1uodmpw/introducing_kide_10_a_kotlin_multiplatform_mvi/)
-- [What is your opinion about this code?](https://www.reddit.com/r/Kotlin/comments/1uobmdx/what_is_your_opinion_about_this_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
