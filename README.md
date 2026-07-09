@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing the Kotlin Benchmark for AI coding agents](https://www.reddit.com/r/Kotlin/comments/1uqsinr/introducing_the_kotlin_benchmark_for_ai_coding/)
+- [Entirely Kotlin-Based SysML v2 tool &lpar;w/ Compose, Spring, Installer&rpar;](https://www.reddit.com/r/Kotlin/comments/1uqp8re/entirely_kotlinbased_sysml_v2_tool_w_compose/)
 - [Gradle Plugin for embedding KDoc inside generated typescript definitions](https://www.reddit.com/r/Kotlin/comments/1uq7a61/gradle_plugin_for_embedding_kdoc_inside_generated/)
 - [Advice to Kotlin Multiplatform newbies](https://www.reddit.com/r/Kotlin/comments/1uq78th/advice_to_kotlin_multiplatform_newbies/)
 - [Sidstuga 2.0.8 — offline downloads, catch-up TV and rebuilt Cloud Sync &lpar;BYO-playlist IPTV player for Android TV, Fire TV &amp; mobile&rpar;](https://www.reddit.com/r/Kotlin/comments/1upwcbx/sidstuga_208_offline_downloads_catchup_tv_and/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I built a fully offline notification filter for Android &lpar;Kotlin + Rust/JNI + on-device ML&rpar; because every &quot;smart filter&quot; app ships your OTPs to a cloud server](https://www.reddit.com/r/Kotlin/comments/1upp8wu/i_built_a_fully_offline_notification_filter_for/)
 - [Learned Android &lpar;Kotlin, Compose&rpar; + Spring Boot backend, now scared AI is making it pointless](https://www.reddit.com/r/Kotlin/comments/1upjk8c/learned_android_kotlin_compose_spring_boot/)
 - [Couldn&#39;t Find a Good Mindful Eating App, So I Made One](https://www.reddit.com/r/Kotlin/comments/1upcixz/couldnt_find_a_good_mindful_eating_app_so_i_made/)
-- [I built kUML — a Kotlin-native UML/SysML tool designed from day one for the LLM era](https://www.reddit.com/r/Kotlin/comments/1up3pv0/i_built_kuml_a_kotlinnative_umlsysml_tool/)
-- [Hikage - A real-time Android View runtime powered by Kotlin DSL](https://www.reddit.com/r/Kotlin/comments/1uouofp/hikage_a_realtime_android_view_runtime_powered_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
