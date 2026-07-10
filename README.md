@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Speed up your high-traffic KMP endpoints by 66% using 50% less memory—without touching your legacy APIs](https://www.reddit.com/r/Kotlin/comments/1usb4zf/speed_up_your_hightraffic_kmp_endpoints_by_66/)
+- [coroutines, definition is it accurate?](https://www.reddit.com/r/Kotlin/comments/1us98ee/coroutines_definition_is_it_accurate/)
+- [Compose DND update with Kanban Demo](https://www.reddit.com/r/Kotlin/comments/1urwlly/compose_dnd_update_with_kanban_demo/)
+- [At what point does a DI framework actually earn its keep? We shipped a KMP app on a hand-wired composition root instead.](https://www.reddit.com/r/Kotlin/comments/1urtkmi/at_what_point_does_a_di_framework_actually_earn/)
+- [We just released the initial version of Enriched Markdown for native Android 🚀](https://www.reddit.com/r/Kotlin/comments/1urrzz1/we_just_released_the_initial_version_of_enriched/)
+- [Kotlin as a part time language ?](https://www.reddit.com/r/Kotlin/comments/1urita1/kotlin_as_a_part_time_language/)
 - [Introducing the Kotlin Benchmark for AI coding agents](https://www.reddit.com/r/Kotlin/comments/1uqsinr/introducing_the_kotlin_benchmark_for_ai_coding/)
 - [Entirely Kotlin-Based SysML v2 tool &lpar;w/ Compose, Spring, Installer&rpar;](https://www.reddit.com/r/Kotlin/comments/1uqp8re/entirely_kotlinbased_sysml_v2_tool_w_compose/)
 - [Gradle Plugin for embedding KDoc inside generated typescript definitions](https://www.reddit.com/r/Kotlin/comments/1uq7a61/gradle_plugin_for_embedding_kdoc_inside_generated/)
 - [Advice to Kotlin Multiplatform newbies](https://www.reddit.com/r/Kotlin/comments/1uq78th/advice_to_kotlin_multiplatform_newbies/)
-- [Sidstuga 2.0.8 — offline downloads, catch-up TV and rebuilt Cloud Sync &lpar;BYO-playlist IPTV player for Android TV, Fire TV &amp; mobile&rpar;](https://www.reddit.com/r/Kotlin/comments/1upwcbx/sidstuga_208_offline_downloads_catchup_tv_and/)
-- [I ported Kotlin&#39;s List/Set/Map API to PHP 8.4, what would you have done differently and why? Curious what I could improve for v0.2](https://www.reddit.com/r/Kotlin/comments/1upsw9o/i_ported_kotlins_listsetmap_api_to_php_84_what/)
-- [rootkt: a pure Kotlin library for reading CERN ROOT files](https://www.reddit.com/r/Kotlin/comments/1uppgvu/rootkt_a_pure_kotlin_library_for_reading_cern/)
-- [I built a fully offline notification filter for Android &lpar;Kotlin + Rust/JNI + on-device ML&rpar; because every &quot;smart filter&quot; app ships your OTPs to a cloud server](https://www.reddit.com/r/Kotlin/comments/1upp8wu/i_built_a_fully_offline_notification_filter_for/)
-- [Learned Android &lpar;Kotlin, Compose&rpar; + Spring Boot backend, now scared AI is making it pointless](https://www.reddit.com/r/Kotlin/comments/1upjk8c/learned_android_kotlin_compose_spring_boot/)
-- [Couldn&#39;t Find a Good Mindful Eating App, So I Made One](https://www.reddit.com/r/Kotlin/comments/1upcixz/couldnt_find_a_good_mindful_eating_app_so_i_made/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
