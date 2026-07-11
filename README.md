@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tend: An offline-first, open-source personal CRM to help you stay in touch with family and friends.](https://www.reddit.com/r/Kotlin/comments/1ut6opu/tend_an_offlinefirst_opensource_personal_crm_to/)
+- [other than for initial adoption, why has Kotlin not overtaken JAVA yet?](https://www.reddit.com/r/Kotlin/comments/1usm5z4/other_than_for_initial_adoption_why_has_kotlin/)
 - [Speed up your high-traffic KMP endpoints by 66% using 50% less memory—without touching your legacy APIs](https://www.reddit.com/r/Kotlin/comments/1usb4zf/speed_up_your_hightraffic_kmp_endpoints_by_66/)
 - [coroutines, definition is it accurate?](https://www.reddit.com/r/Kotlin/comments/1us98ee/coroutines_definition_is_it_accurate/)
 - [Compose DND update with Kanban Demo](https://www.reddit.com/r/Kotlin/comments/1urwlly/compose_dnd_update_with_kanban_demo/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin as a part time language ?](https://www.reddit.com/r/Kotlin/comments/1urita1/kotlin_as_a_part_time_language/)
 - [Introducing the Kotlin Benchmark for AI coding agents](https://www.reddit.com/r/Kotlin/comments/1uqsinr/introducing_the_kotlin_benchmark_for_ai_coding/)
 - [Entirely Kotlin-Based SysML v2 tool &lpar;w/ Compose, Spring, Installer&rpar;](https://www.reddit.com/r/Kotlin/comments/1uqp8re/entirely_kotlinbased_sysml_v2_tool_w_compose/)
-- [Gradle Plugin for embedding KDoc inside generated typescript definitions](https://www.reddit.com/r/Kotlin/comments/1uq7a61/gradle_plugin_for_embedding_kdoc_inside_generated/)
-- [Advice to Kotlin Multiplatform newbies](https://www.reddit.com/r/Kotlin/comments/1uq78th/advice_to_kotlin_multiplatform_newbies/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
