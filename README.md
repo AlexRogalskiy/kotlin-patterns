@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kUML v0.27.0](https://www.reddit.com/r/Kotlin/comments/1utp06y/kuml_v0270/)
+- [GPT 5.6 sol or Opus 4.8/Fable for android kotlin](https://www.reddit.com/r/Kotlin/comments/1utlpfo/gpt_56_sol_or_opus_48fable_for_android_kotlin/)
 - [Tend: An offline-first, open-source personal CRM to help you stay in touch with family and friends.](https://www.reddit.com/r/Kotlin/comments/1ut6opu/tend_an_offlinefirst_opensource_personal_crm_to/)
 - [other than for initial adoption, why has Kotlin not overtaken JAVA yet?](https://www.reddit.com/r/Kotlin/comments/1usm5z4/other_than_for_initial_adoption_why_has_kotlin/)
 - [Speed up your high-traffic KMP endpoints by 66% using 50% less memory—without touching your legacy APIs](https://www.reddit.com/r/Kotlin/comments/1usb4zf/speed_up_your_hightraffic_kmp_endpoints_by_66/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [At what point does a DI framework actually earn its keep? We shipped a KMP app on a hand-wired composition root instead.](https://www.reddit.com/r/Kotlin/comments/1urtkmi/at_what_point_does_a_di_framework_actually_earn/)
 - [We just released the initial version of Enriched Markdown for native Android 🚀](https://www.reddit.com/r/Kotlin/comments/1urrzz1/we_just_released_the_initial_version_of_enriched/)
 - [Kotlin as a part time language ?](https://www.reddit.com/r/Kotlin/comments/1urita1/kotlin_as_a_part_time_language/)
-- [Introducing the Kotlin Benchmark for AI coding agents](https://www.reddit.com/r/Kotlin/comments/1uqsinr/introducing_the_kotlin_benchmark_for_ai_coding/)
-- [Entirely Kotlin-Based SysML v2 tool &lpar;w/ Compose, Spring, Installer&rpar;](https://www.reddit.com/r/Kotlin/comments/1uqp8re/entirely_kotlinbased_sysml_v2_tool_w_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
