@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kdrant — an idiomatic, coroutine-first Kotlin client for Qdrant &lpar;the official one is Java-clunky&rpar;](https://www.reddit.com/r/Kotlin/comments/1uulwij/kdrant_an_idiomatic_coroutinefirst_kotlin_client/)
+- [Building an open-source Compose Multiplatform image comparison library — looking for API and architecture feedback](https://www.reddit.com/r/Kotlin/comments/1uud2qj/building_an_opensource_compose_multiplatform/)
 - [kUML v0.27.0](https://www.reddit.com/r/Kotlin/comments/1utp06y/kuml_v0270/)
 - [GPT 5.6 sol or Opus 4.8/Fable for android kotlin](https://www.reddit.com/r/Kotlin/comments/1utlpfo/gpt_56_sol_or_opus_48fable_for_android_kotlin/)
 - [Tend: An offline-first, open-source personal CRM to help you stay in touch with family and friends.](https://www.reddit.com/r/Kotlin/comments/1ut6opu/tend_an_offlinefirst_opensource_personal_crm_to/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [coroutines, definition is it accurate?](https://www.reddit.com/r/Kotlin/comments/1us98ee/coroutines_definition_is_it_accurate/)
 - [Compose DND update with Kanban Demo](https://www.reddit.com/r/Kotlin/comments/1urwlly/compose_dnd_update_with_kanban_demo/)
 - [At what point does a DI framework actually earn its keep? We shipped a KMP app on a hand-wired composition root instead.](https://www.reddit.com/r/Kotlin/comments/1urtkmi/at_what_point_does_a_di_framework_actually_earn/)
-- [We just released the initial version of Enriched Markdown for native Android 🚀](https://www.reddit.com/r/Kotlin/comments/1urrzz1/we_just_released_the_initial_version_of_enriched/)
-- [Kotlin as a part time language ?](https://www.reddit.com/r/Kotlin/comments/1urita1/kotlin_as_a_part_time_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
