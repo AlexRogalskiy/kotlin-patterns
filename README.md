@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kotlin-lib-mcp — an MCP server that lets AI assistants read the actual sources, API and KDoc of any Maven-published Kotlin/Java library](https://www.reddit.com/r/Kotlin/comments/1uvit81/kotlinlibmcp_an_mcp_server_that_lets_ai/)
+- [Everyone recommends ConnectRPC for end-to-end type-safe Kotlin ↔ TS. I tried it and bounced hard. What are you actually using?](https://www.reddit.com/r/Kotlin/comments/1uvdn13/everyone_recommends_connectrpc_for_endtoend/)
 - [Kdrant — an idiomatic, coroutine-first Kotlin client for Qdrant &lpar;the official one is Java-clunky&rpar;](https://www.reddit.com/r/Kotlin/comments/1uulwij/kdrant_an_idiomatic_coroutinefirst_kotlin_client/)
 - [Building an open-source Compose Multiplatform image comparison library — looking for API and architecture feedback](https://www.reddit.com/r/Kotlin/comments/1uud2qj/building_an_opensource_compose_multiplatform/)
 - [kUML v0.27.0](https://www.reddit.com/r/Kotlin/comments/1utp06y/kuml_v0270/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [other than for initial adoption, why has Kotlin not overtaken JAVA yet?](https://www.reddit.com/r/Kotlin/comments/1usm5z4/other_than_for_initial_adoption_why_has_kotlin/)
 - [Speed up your high-traffic KMP endpoints by 66% using 50% less memory—without touching your legacy APIs](https://www.reddit.com/r/Kotlin/comments/1usb4zf/speed_up_your_hightraffic_kmp_endpoints_by_66/)
 - [coroutines, definition is it accurate?](https://www.reddit.com/r/Kotlin/comments/1us98ee/coroutines_definition_is_it_accurate/)
-- [Compose DND update with Kanban Demo](https://www.reddit.com/r/Kotlin/comments/1urwlly/compose_dnd_update_with_kanban_demo/)
-- [At what point does a DI framework actually earn its keep? We shipped a KMP app on a hand-wired composition root instead.](https://www.reddit.com/r/Kotlin/comments/1urtkmi/at_what_point_does_a_di_framework_actually_earn/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
