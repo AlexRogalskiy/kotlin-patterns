@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sidstuga 2.1.1 foi lançado - busca adequada no catch-up, atualização automática do EPG em segundo plano, gravação em TS, e uma nova barra de navegação unificada para TV](https://www.reddit.com/r/Kotlin/comments/1uwtw3z/sidstuga_211_foi_lançado_busca_adequada_no/)
+- [One Biometric API for Android, Touch ID, and Windows Hello](https://www.reddit.com/r/Kotlin/comments/1uwhq4y/one_biometric_api_for_android_touch_id_and/)
+- [🔊 Library grant program – last call](https://www.reddit.com/r/Kotlin/comments/1uw30l5/library_grant_program_last_call/)
 - [kotlin-lib-mcp — an MCP server that lets AI assistants read the actual sources, API and KDoc of any Maven-published Kotlin/Java library](https://www.reddit.com/r/Kotlin/comments/1uvit81/kotlinlibmcp_an_mcp_server_that_lets_ai/)
 - [Everyone recommends ConnectRPC for end-to-end type-safe Kotlin ↔ TS. I tried it and bounced hard. What are you actually using?](https://www.reddit.com/r/Kotlin/comments/1uvdn13/everyone_recommends_connectrpc_for_endtoend/)
 - [Kdrant — an idiomatic, coroutine-first Kotlin client for Qdrant &lpar;the official one is Java-clunky&rpar;](https://www.reddit.com/r/Kotlin/comments/1uulwij/kdrant_an_idiomatic_coroutinefirst_kotlin_client/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [kUML v0.27.0](https://www.reddit.com/r/Kotlin/comments/1utp06y/kuml_v0270/)
 - [GPT 5.6 sol or Opus 4.8/Fable for android kotlin](https://www.reddit.com/r/Kotlin/comments/1utlpfo/gpt_56_sol_or_opus_48fable_for_android_kotlin/)
 - [Tend: An offline-first, open-source personal CRM to help you stay in touch with family and friends.](https://www.reddit.com/r/Kotlin/comments/1ut6opu/tend_an_offlinefirst_opensource_personal_crm_to/)
-- [other than for initial adoption, why has Kotlin not overtaken JAVA yet?](https://www.reddit.com/r/Kotlin/comments/1usm5z4/other_than_for_initial_adoption_why_has_kotlin/)
-- [Speed up your high-traffic KMP endpoints by 66% using 50% less memory—without touching your legacy APIs](https://www.reddit.com/r/Kotlin/comments/1usb4zf/speed_up_your_hightraffic_kmp_endpoints_by_66/)
-- [coroutines, definition is it accurate?](https://www.reddit.com/r/Kotlin/comments/1us98ee/coroutines_definition_is_it_accurate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
