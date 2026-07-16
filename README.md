@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How JPA Defaults Broke Our Kotlin Microservice](https://www.reddit.com/r/Kotlin/comments/1uxngdc/how_jpa_defaults_broke_our_kotlin_microservice/)
+- [[OC] Compiler plugins are amazing](https://www.reddit.com/r/Kotlin/comments/1uxjxgh/oc_compiler_plugins_are_amazing/)
+- [Compose + GraalVM + Tao windows manager = 🚀](https://www.reddit.com/r/Kotlin/comments/1uxiwnu/compose_graalvm_tao_windows_manager/)
+- [UKPT - a full-stack Kotlin Multiplatform template for Claude/Codex &lpar;self-promo&rpar;](https://www.reddit.com/r/Kotlin/comments/1uxhhh1/ukpt_a_fullstack_kotlin_multiplatform_template/)
+- [When Flows Won&#39;t Cut It](https://www.reddit.com/r/Kotlin/comments/1ux8rss/when_flows_wont_cut_it/)
+- [Type-safe multiplatform navigation + offline-aware MVI in Kotlin — looking for API feedback](https://www.reddit.com/r/Kotlin/comments/1uwykxl/typesafe_multiplatform_navigation_offlineaware/)
+- [SyncForge 2.0 — offline-first sync library in pure Kotlin &lpar;outbox + conflicts&rpar;, multiplatform, on Maven Central](https://www.reddit.com/r/Kotlin/comments/1uwxdmk/syncforge_20_offlinefirst_sync_library_in_pure/)
+- [I built a runtime WCAG accessibility scanner for Jetpack Compose — open source, built after 3 years on UBS Mobile Banking](https://www.reddit.com/r/Kotlin/comments/1uww4o2/i_built_a_runtime_wcag_accessibility_scanner_for/)
 - [Sidstuga 2.1.1 foi lançado - busca adequada no catch-up, atualização automática do EPG em segundo plano, gravação em TS, e uma nova barra de navegação unificada para TV](https://www.reddit.com/r/Kotlin/comments/1uwtw3z/sidstuga_211_foi_lançado_busca_adequada_no/)
 - [One Biometric API for Android, Touch ID, and Windows Hello](https://www.reddit.com/r/Kotlin/comments/1uwhq4y/one_biometric_api_for_android_touch_id_and/)
-- [🔊 Library grant program – last call](https://www.reddit.com/r/Kotlin/comments/1uw30l5/library_grant_program_last_call/)
-- [kotlin-lib-mcp — an MCP server that lets AI assistants read the actual sources, API and KDoc of any Maven-published Kotlin/Java library](https://www.reddit.com/r/Kotlin/comments/1uvit81/kotlinlibmcp_an_mcp_server_that_lets_ai/)
-- [Everyone recommends ConnectRPC for end-to-end type-safe Kotlin ↔ TS. I tried it and bounced hard. What are you actually using?](https://www.reddit.com/r/Kotlin/comments/1uvdn13/everyone_recommends_connectrpc_for_endtoend/)
-- [Kdrant — an idiomatic, coroutine-first Kotlin client for Qdrant &lpar;the official one is Java-clunky&rpar;](https://www.reddit.com/r/Kotlin/comments/1uulwij/kdrant_an_idiomatic_coroutinefirst_kotlin_client/)
-- [Building an open-source Compose Multiplatform image comparison library — looking for API and architecture feedback](https://www.reddit.com/r/Kotlin/comments/1uud2qj/building_an_opensource_compose_multiplatform/)
-- [kUML v0.27.0](https://www.reddit.com/r/Kotlin/comments/1utp06y/kuml_v0270/)
-- [GPT 5.6 sol or Opus 4.8/Fable for android kotlin](https://www.reddit.com/r/Kotlin/comments/1utlpfo/gpt_56_sol_or_opus_48fable_for_android_kotlin/)
-- [Tend: An offline-first, open-source personal CRM to help you stay in touch with family and friends.](https://www.reddit.com/r/Kotlin/comments/1ut6opu/tend_an_offlinefirst_opensource_personal_crm_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
