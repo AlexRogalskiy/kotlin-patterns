@@ -272,8 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Music Player Based on YT Music &quot;LyriK&quot; &lpar;Opinions?&rpar;](https://www.reddit.com/r/Kotlin/comments/1uxs4yw/music_player_based_on_yt_music_lyrik_opinions/)
 - [How JPA Defaults Broke Our Kotlin Microservice](https://www.reddit.com/r/Kotlin/comments/1uxngdc/how_jpa_defaults_broke_our_kotlin_microservice/)
-- [[OC] Compiler plugins are amazing](https://www.reddit.com/r/Kotlin/comments/1uxjxgh/oc_compiler_plugins_are_amazing/)
 - [Compose + GraalVM + Tao windows manager = 🚀](https://www.reddit.com/r/Kotlin/comments/1uxiwnu/compose_graalvm_tao_windows_manager/)
 - [UKPT - a full-stack Kotlin Multiplatform template for Claude/Codex &lpar;self-promo&rpar;](https://www.reddit.com/r/Kotlin/comments/1uxhhh1/ukpt_a_fullstack_kotlin_multiplatform_template/)
 - [When Flows Won&#39;t Cut It](https://www.reddit.com/r/Kotlin/comments/1ux8rss/when_flows_wont_cut_it/)
