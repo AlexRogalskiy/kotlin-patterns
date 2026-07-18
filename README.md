@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [WonderFood: Kotlin Android app for local-first food planning and reviewable AI proposals](https://www.reddit.com/r/Kotlin/comments/1uzl28u/wonderfood_kotlin_android_app_for_localfirst_food/)
+- [Codecks: Kotlin Android command deck, Bluetooth HID trackpad, and local automation surface](https://www.reddit.com/r/Kotlin/comments/1uzl12x/codecks_kotlin_android_command_deck_bluetooth_hid/)
+- [I Built My First Android VPN App with Kotlin + Jetpack Compose + Xray Core 🚀](https://www.reddit.com/r/Kotlin/comments/1uz0498/i_built_my_first_android_vpn_app_with_kotlin/)
+- [Question on self-documenting code](https://www.reddit.com/r/Kotlin/comments/1uyxanf/question_on_selfdocumenting_code/)
+- [What&#39;s the number one tool you&#39;d recommend to improve your gradle setup?](https://www.reddit.com/r/Kotlin/comments/1uyq53b/whats_the_number_one_tool_youd_recommend_to/)
 - [Music Player Based on YT Music &quot;LyriK&quot; &lpar;Opinions?&rpar;](https://www.reddit.com/r/Kotlin/comments/1uxs4yw/music_player_based_on_yt_music_lyrik_opinions/)
 - [How JPA Defaults Broke Our Kotlin Microservice](https://www.reddit.com/r/Kotlin/comments/1uxngdc/how_jpa_defaults_broke_our_kotlin_microservice/)
 - [Compose + GraalVM + Tao windows manager = 🚀](https://www.reddit.com/r/Kotlin/comments/1uxiwnu/compose_graalvm_tao_windows_manager/)
 - [UKPT - a full-stack Kotlin Multiplatform template for Claude/Codex &lpar;self-promo&rpar;](https://www.reddit.com/r/Kotlin/comments/1uxhhh1/ukpt_a_fullstack_kotlin_multiplatform_template/)
 - [When Flows Won&#39;t Cut It](https://www.reddit.com/r/Kotlin/comments/1ux8rss/when_flows_wont_cut_it/)
-- [Type-safe multiplatform navigation + offline-aware MVI in Kotlin — looking for API feedback](https://www.reddit.com/r/Kotlin/comments/1uwykxl/typesafe_multiplatform_navigation_offlineaware/)
-- [SyncForge 2.0 — offline-first sync library in pure Kotlin &lpar;outbox + conflicts&rpar;, multiplatform, on Maven Central](https://www.reddit.com/r/Kotlin/comments/1uwxdmk/syncforge_20_offlinefirst_sync_library_in_pure/)
-- [I built a runtime WCAG accessibility scanner for Jetpack Compose — open source, built after 3 years on UBS Mobile Banking](https://www.reddit.com/r/Kotlin/comments/1uww4o2/i_built_a_runtime_wcag_accessibility_scanner_for/)
-- [Sidstuga 2.1.1 foi lançado - busca adequada no catch-up, atualização automática do EPG em segundo plano, gravação em TS, e uma nova barra de navegação unificada para TV](https://www.reddit.com/r/Kotlin/comments/1uwtw3z/sidstuga_211_foi_lançado_busca_adequada_no/)
-- [One Biometric API for Android, Touch ID, and Windows Hello](https://www.reddit.com/r/Kotlin/comments/1uwhq4y/one_biometric_api_for_android_touch_id_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
