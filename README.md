@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A full offline voice agent &lpar;VAD → STT → 270M LLM tool calls → TTS&rpar; driven from Kotlin through one Flow](https://www.reddit.com/r/Kotlin/comments/1v02735/a_full_offline_voice_agent_vad_stt_270m_llm_tool/)
+- [Bring your KMP library to NuGet 📦](https://www.reddit.com/r/Kotlin/comments/1v12tvi/bring_your_kmp_library_to_nuget/)
+- [PROYECTO GÉNESIS: MRD:[Ciencia Ciudadana]](https://www.reddit.com/r/Kotlin/comments/1v0u81l/proyecto_génesis_mrdciencia_ciudadana/)
+- [🧹 Eliminating mapper boilerplate in Kotlin](https://www.reddit.com/r/Kotlin/comments/1v0t46t/eliminating_mapper_boilerplate_in_kotlin/)
+- [Next.js-like full-stack framework for Kotlin with unified deployment?](https://www.reddit.com/r/Kotlin/comments/1v0spes/nextjslike_fullstack_framework_for_kotlin_with/)
+- [Rich Text Editor: TextKit](https://www.reddit.com/r/Kotlin/comments/1v0q5x6/rich_text_editor_textkit/)
+- [Building AI features in KMP: define the interface, iterate locally with Koog, move to the backend when done](https://www.reddit.com/r/Kotlin/comments/1v0lbp4/building_ai_features_in_kmp_define_the_interface/)
 - [Bulletproofing User Sync: Handling Clerk and Auth0 Webhook Failures](https://www.reddit.com/r/Kotlin/comments/1v00qd3/bulletproofing_user_sync_handling_clerk_and_auth0/)
 - [ktlsp: a fast language server for java and kotlin](https://www.reddit.com/r/Kotlin/comments/1uzybzj/ktlsp_a_fast_language_server_for_java_and_kotlin/)
 - [sqlx4k: can now generate in-memory repositories for unit testing &lpar;Kotlin Multiplatform, KSP&rpar;](https://www.reddit.com/r/Kotlin/comments/1uzthpw/sqlx4k_can_now_generate_inmemory_repositories_for/)
 - [OpenScanVision – open‑source Android OMR + QR scanning library](https://www.reddit.com/r/Kotlin/comments/1uzqs5r/openscanvision_opensource_android_omr_qr_scanning/)
-- [OpenScanVision – open‑source Android OMR + QR scanning library](https://www.reddit.com/r/Kotlin/comments/1uzlav2/openscanvision_opensource_android_omr_qr_scanning/)
-- [Question on self-documenting code](https://www.reddit.com/r/Kotlin/comments/1uyxanf/question_on_selfdocumenting_code/)
-- [What&#39;s the number one tool you&#39;d recommend to improve your gradle setup?](https://www.reddit.com/r/Kotlin/comments/1uyq53b/whats_the_number_one_tool_youd_recommend_to/)
-- [Music Player Based on YT Music &quot;LyriK&quot; &lpar;Opinions?&rpar;](https://www.reddit.com/r/Kotlin/comments/1uxs4yw/music_player_based_on_yt_music_lyrik_opinions/)
-- [How JPA Defaults Broke Our Kotlin Microservice](https://www.reddit.com/r/Kotlin/comments/1uxngdc/how_jpa_defaults_broke_our_kotlin_microservice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
