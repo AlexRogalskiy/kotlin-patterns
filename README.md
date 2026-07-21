@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[ Removed by Reddit ]](https://www.reddit.com/r/Kotlin/comments/1v27dvf/removed_by_reddit/)
+- [Looking for review of a homebrew X3DH-lite + Double Ratchet + sender-keys messenger protocol &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1v20nax/looking_for_review_of_a_homebrew_x3dhlite_double/)
+- [Kuri: A standards-faithful URI and URL library for Kotlin Multiplatform and Java!](https://www.reddit.com/r/Kotlin/comments/1v1w03o/kuri_a_standardsfaithful_uri_and_url_library_for/)
+- [I built a Gradle plugin to verify what R8 actually obfuscated](https://www.reddit.com/r/Kotlin/comments/1v1pkwo/i_built_a_gradle_plugin_to_verify_what_r8/)
+- [Must-Use Return Value: unused values and apply vs let](https://www.reddit.com/r/Kotlin/comments/1v1oo80/mustuse_return_value_unused_values_and_apply_vs/)
+- [Emacs Eglot for Kotlin &lpar;JVM&rpar; and some nifty workarounds for day-to-day usage](https://www.reddit.com/r/Kotlin/comments/1v1mv2x/emacs_eglot_for_kotlin_jvm_and_some_nifty/)
+- [Comprehensive JVM Primitive Hashtable Benchmarks](https://www.reddit.com/r/Kotlin/comments/1v1lr4k/comprehensive_jvm_primitive_hashtable_benchmarks/)
+- [Kotlin turns 15: Leave a note for its future](https://www.reddit.com/r/Kotlin/comments/1v1j57r/kotlin_turns_15_leave_a_note_for_its_future/)
+- [Built a CLI to inspect Java/Kotlin libraries without source code – looking for feedback](https://www.reddit.com/r/Kotlin/comments/1v1g8et/built_a_cli_to_inspect_javakotlin_libraries/)
 - [Bring your KMP library to NuGet 📦](https://www.reddit.com/r/Kotlin/comments/1v12tvi/bring_your_kmp_library_to_nuget/)
-- [PROYECTO GÉNESIS: MRD:[Ciencia Ciudadana]](https://www.reddit.com/r/Kotlin/comments/1v0u81l/proyecto_génesis_mrdciencia_ciudadana/)
-- [🧹 Eliminating mapper boilerplate in Kotlin](https://www.reddit.com/r/Kotlin/comments/1v0t46t/eliminating_mapper_boilerplate_in_kotlin/)
-- [Next.js-like full-stack framework for Kotlin with unified deployment?](https://www.reddit.com/r/Kotlin/comments/1v0spes/nextjslike_fullstack_framework_for_kotlin_with/)
-- [Rich Text Editor: TextKit](https://www.reddit.com/r/Kotlin/comments/1v0q5x6/rich_text_editor_textkit/)
-- [Building AI features in KMP: define the interface, iterate locally with Koog, move to the backend when done](https://www.reddit.com/r/Kotlin/comments/1v0lbp4/building_ai_features_in_kmp_define_the_interface/)
-- [Bulletproofing User Sync: Handling Clerk and Auth0 Webhook Failures](https://www.reddit.com/r/Kotlin/comments/1v00qd3/bulletproofing_user_sync_handling_clerk_and_auth0/)
-- [ktlsp: a fast language server for java and kotlin](https://www.reddit.com/r/Kotlin/comments/1uzybzj/ktlsp_a_fast_language_server_for_java_and_kotlin/)
-- [sqlx4k: can now generate in-memory repositories for unit testing &lpar;Kotlin Multiplatform, KSP&rpar;](https://www.reddit.com/r/Kotlin/comments/1uzthpw/sqlx4k_can_now_generate_inmemory_repositories_for/)
-- [OpenScanVision – open‑source Android OMR + QR scanning library](https://www.reddit.com/r/Kotlin/comments/1uzqs5r/openscanvision_opensource_android_omr_qr_scanning/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
