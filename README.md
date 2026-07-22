@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[ Removed by Reddit ]](https://www.reddit.com/r/Kotlin/comments/1v27dvf/removed_by_reddit/)
-- [Looking for review of a homebrew X3DH-lite + Double Ratchet + sender-keys messenger protocol &lpar;Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1v20nax/looking_for_review_of_a_homebrew_x3dhlite_double/)
-- [Kuri: A standards-faithful URI and URL library for Kotlin Multiplatform and Java!](https://www.reddit.com/r/Kotlin/comments/1v1w03o/kuri_a_standardsfaithful_uri_and_url_library_for/)
-- [I built a Gradle plugin to verify what R8 actually obfuscated](https://www.reddit.com/r/Kotlin/comments/1v1pkwo/i_built_a_gradle_plugin_to_verify_what_r8/)
-- [Must-Use Return Value: unused values and apply vs let](https://www.reddit.com/r/Kotlin/comments/1v1oo80/mustuse_return_value_unused_values_and_apply_vs/)
-- [Emacs Eglot for Kotlin &lpar;JVM&rpar; and some nifty workarounds for day-to-day usage](https://www.reddit.com/r/Kotlin/comments/1v1mv2x/emacs_eglot_for_kotlin_jvm_and_some_nifty/)
-- [Comprehensive JVM Primitive Hashtable Benchmarks](https://www.reddit.com/r/Kotlin/comments/1v1lr4k/comprehensive_jvm_primitive_hashtable_benchmarks/)
-- [Kotlin turns 15: Leave a note for its future](https://www.reddit.com/r/Kotlin/comments/1v1j57r/kotlin_turns_15_leave_a_note_for_its_future/)
-- [Built a CLI to inspect Java/Kotlin libraries without source code – looking for feedback](https://www.reddit.com/r/Kotlin/comments/1v1g8et/built_a_cli_to_inspect_javakotlin_libraries/)
-- [Bring your KMP library to NuGet 📦](https://www.reddit.com/r/Kotlin/comments/1v12tvi/bring_your_kmp_library_to_nuget/)
+- [The original post got deleted for some reason so I created a community to post about graphlink. this tool relieves the pain you have when using complexe graphql api and support everything graphql has to offer. in fact, I believe it is among the best client generators for graphql out there. star us!](https://www.reddit.com/r/Kotlin/comments/1v2zo8u/the_original_post_got_deleted_for_some_reason_so/)
+- [I made a Gradle Plugin to format TOML files](https://www.reddit.com/r/Kotlin/comments/1v2yh52/i_made_a_gradle_plugin_to_format_toml_files/)
+- [I published a KMM library that renders an interactive 3D globe — because nothing crossplatform existed &lpar;io.github.advait8:core-globe&rpar;](https://www.reddit.com/r/Kotlin/comments/1v2roku/i_published_a_kmm_library_that_renders_an/)
+- [Kuri: A standards-faithful URI and URL library for Kotlin Multiplatform and Java!](https://www.reddit.com/r/Kotlin/comments/1v2g2ar/kuri_a_standardsfaithful_uri_and_url_library_for/)
+- [who has the best learning resources for Android development](https://www.reddit.com/r/Kotlin/comments/1v2fwiz/who_has_the_best_learning_resources_for_android/)
+- [I built an Android + iOS app from 7 Claude Code commands and wrote down every prompt and timing](https://www.reddit.com/r/Kotlin/comments/1v2fule/i_built_an_android_ios_app_from_7_claude_code/)
+- [We open-sourced BOSS — a non-trivial Compose Multiplatform desktop app &lpar;Apache-2.0&rpar;. Happy to talk architecture: runtime plugin hot-reload, JVM multithreading, JxBrowser interop.](https://www.reddit.com/r/Kotlin/comments/1v2ev22/we_opensourced_boss_a_nontrivial_compose/)
+- [Kotlin + Gradle codegen: using TOML specs instead of AI-generated boilerplate](https://www.reddit.com/r/Kotlin/comments/1v2cp9l/kotlin_gradle_codegen_using_toml_specs_instead_of/)
+- [Hi Learning Kotlin, Can i use this rust pattern to abstract dealing with null values in my future projects?](https://www.reddit.com/r/Kotlin/comments/1v2co88/hi_learning_kotlin_can_i_use_this_rust_pattern_to/)
+- [What is the easiest way to migrate a completed Android app to iOS: SwiftUI, Compose Multiplatform, or a hybrid approach?](https://www.reddit.com/r/Kotlin/comments/1v2c5os/what_is_the_easiest_way_to_migrate_a_completed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
