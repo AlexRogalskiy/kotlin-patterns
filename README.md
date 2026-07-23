@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Replacing an unreliable touch-target-size rule in my Jetpack Compose accessibility scanner](https://www.reddit.com/r/Kotlin/comments/1v42267/replacing_an_unreliable_touchtargetsize_rule_in/)
+- [Migrating to Kotlin KMP with native views, what should I know?](https://www.reddit.com/r/Kotlin/comments/1v3v02a/migrating_to_kotlin_kmp_with_native_views_what/)
+- [AnvilAI – Open-source Android app to run local LLMs 100% offline with Vulkan GPU acceleration &amp; SQLCipher](https://www.reddit.com/r/Kotlin/comments/1v3nc97/anvilai_opensource_android_app_to_run_local_llms/)
+- [KotlinConf - Kotlin/JS: Past, Present and Future](https://www.reddit.com/r/Kotlin/comments/1v3mz88/kotlinconf_kotlinjs_past_present_and_future/)
+- [A multiplatform Flighty UI clone sample made in a day with Compose](https://www.reddit.com/r/Kotlin/comments/1v3mc3w/a_multiplatform_flighty_ui_clone_sample_made_in_a/)
+- [New to kotlin, is this normal ram usage for kotlin-lsp?&lpar;1.4G&rpar;](https://www.reddit.com/r/Kotlin/comments/1v3k02w/new_to_kotlin_is_this_normal_ram_usage_for/)
 - [The original post got deleted for some reason so I created a community to post about graphlink. this tool relieves the pain you have when using complexe graphql api and support everything graphql has to offer. in fact, I believe it is among the best client generators for graphql out there. star us!](https://www.reddit.com/r/Kotlin/comments/1v2zo8u/the_original_post_got_deleted_for_some_reason_so/)
 - [I made a Gradle Plugin to format TOML files](https://www.reddit.com/r/Kotlin/comments/1v2yh52/i_made_a_gradle_plugin_to_format_toml_files/)
 - [I published a KMM library that renders an interactive 3D globe — because nothing crossplatform existed &lpar;io.github.advait8:core-globe&rpar;](https://www.reddit.com/r/Kotlin/comments/1v2roku/i_published_a_kmm_library_that_renders_an/)
 - [Kuri: A standards-faithful URI and URL library for Kotlin Multiplatform and Java!](https://www.reddit.com/r/Kotlin/comments/1v2g2ar/kuri_a_standardsfaithful_uri_and_url_library_for/)
-- [who has the best learning resources for Android development](https://www.reddit.com/r/Kotlin/comments/1v2fwiz/who_has_the_best_learning_resources_for_android/)
-- [I built an Android + iOS app from 7 Claude Code commands and wrote down every prompt and timing](https://www.reddit.com/r/Kotlin/comments/1v2fule/i_built_an_android_ios_app_from_7_claude_code/)
-- [We open-sourced BOSS — a non-trivial Compose Multiplatform desktop app &lpar;Apache-2.0&rpar;. Happy to talk architecture: runtime plugin hot-reload, JVM multithreading, JxBrowser interop.](https://www.reddit.com/r/Kotlin/comments/1v2ev22/we_opensourced_boss_a_nontrivial_compose/)
-- [Kotlin + Gradle codegen: using TOML specs instead of AI-generated boilerplate](https://www.reddit.com/r/Kotlin/comments/1v2cp9l/kotlin_gradle_codegen_using_toml_specs_instead_of/)
-- [Hi Learning Kotlin, Can i use this rust pattern to abstract dealing with null values in my future projects?](https://www.reddit.com/r/Kotlin/comments/1v2co88/hi_learning_kotlin_can_i_use_this_rust_pattern_to/)
-- [What is the easiest way to migrate a completed Android app to iOS: SwiftUI, Compose Multiplatform, or a hybrid approach?](https://www.reddit.com/r/Kotlin/comments/1v2c5os/what_is_the_easiest_way_to_migrate_a_completed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
