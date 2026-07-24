@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[DEV] MeshAid — an open-source offline Bluetooth mesh messenger for internet blackouts, hiking and off-grid groups](https://www.reddit.com/r/Kotlin/comments/1v4oj7a/dev_meshaid_an_opensource_offline_bluetooth_mesh/)
+- [Will Typealias helps me to learn kotlin advance level](https://www.reddit.com/r/Kotlin/comments/1v4dv0p/will_typealias_helps_me_to_learn_kotlin_advance/)
+- [Kotlin Architecture Tests: What They Are and Why They Matter - Part 1/3](https://www.reddit.com/r/Kotlin/comments/1v45gdq/kotlin_architecture_tests_what_they_are_and_why/)
+- [Designing a Multi-Region, Highly Available Webhook Ingress Architecture](https://www.reddit.com/r/Kotlin/comments/1v43vk3/designing_a_multiregion_highly_available_webhook/)
 - [Replacing an unreliable touch-target-size rule in my Jetpack Compose accessibility scanner](https://www.reddit.com/r/Kotlin/comments/1v42267/replacing_an_unreliable_touchtargetsize_rule_in/)
 - [Migrating to Kotlin KMP with native views, what should I know?](https://www.reddit.com/r/Kotlin/comments/1v3v02a/migrating_to_kotlin_kmp_with_native_views_what/)
 - [AnvilAI – Open-source Android app to run local LLMs 100% offline with Vulkan GPU acceleration &amp; SQLCipher](https://www.reddit.com/r/Kotlin/comments/1v3nc97/anvilai_opensource_android_app_to_run_local_llms/)
 - [KotlinConf - Kotlin/JS: Past, Present and Future](https://www.reddit.com/r/Kotlin/comments/1v3mz88/kotlinconf_kotlinjs_past_present_and_future/)
 - [A multiplatform Flighty UI clone sample made in a day with Compose](https://www.reddit.com/r/Kotlin/comments/1v3mc3w/a_multiplatform_flighty_ui_clone_sample_made_in_a/)
 - [New to kotlin, is this normal ram usage for kotlin-lsp?&lpar;1.4G&rpar;](https://www.reddit.com/r/Kotlin/comments/1v3k02w/new_to_kotlin_is_this_normal_ram_usage_for/)
-- [The original post got deleted for some reason so I created a community to post about graphlink. this tool relieves the pain you have when using complexe graphql api and support everything graphql has to offer. in fact, I believe it is among the best client generators for graphql out there. star us!](https://www.reddit.com/r/Kotlin/comments/1v2zo8u/the_original_post_got_deleted_for_some_reason_so/)
-- [I made a Gradle Plugin to format TOML files](https://www.reddit.com/r/Kotlin/comments/1v2yh52/i_made_a_gradle_plugin_to_format_toml_files/)
-- [I published a KMM library that renders an interactive 3D globe — because nothing crossplatform existed &lpar;io.github.advait8:core-globe&rpar;](https://www.reddit.com/r/Kotlin/comments/1v2roku/i_published_a_kmm_library_that_renders_an/)
-- [Kuri: A standards-faithful URI and URL library for Kotlin Multiplatform and Java!](https://www.reddit.com/r/Kotlin/comments/1v2g2ar/kuri_a_standardsfaithful_uri_and_url_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
