@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Evolving my Pure Kotlin &amp; Compose RPG Engine: Migrating world rendering to Filament for an 8x performance boost](https://www.reddit.com/r/Kotlin/comments/1v5afcz/evolving_my_pure_kotlin_compose_rpg_engine/)
+- [Klocale — comprehensive locale-aware number/value formatting for Kotlin Multiplatform &lpar;my first OSS library, feedback very welcome&rpar;](https://www.reddit.com/r/Kotlin/comments/1v59i69/klocale_comprehensive_localeaware_numbervalue/)
+- [EEvent Mesh vs Webhooks - The Internal Webhooks Anti-Pattern: Why Service-to-Service HTTP Callbacks Don&#39;t Scale](https://www.reddit.com/r/Kotlin/comments/1v54gfh/eevent_mesh_vs_webhooks_the_internal_webhooks/)
 - [[DEV] MeshAid — an open-source offline Bluetooth mesh messenger for internet blackouts, hiking and off-grid groups](https://www.reddit.com/r/Kotlin/comments/1v4oj7a/dev_meshaid_an_opensource_offline_bluetooth_mesh/)
 - [Will Typealias helps me to learn kotlin advance level](https://www.reddit.com/r/Kotlin/comments/1v4dv0p/will_typealias_helps_me_to_learn_kotlin_advance/)
 - [Kotlin Architecture Tests: What They Are and Why They Matter - Part 1/3](https://www.reddit.com/r/Kotlin/comments/1v45gdq/kotlin_architecture_tests_what_they_are_and_why/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Replacing an unreliable touch-target-size rule in my Jetpack Compose accessibility scanner](https://www.reddit.com/r/Kotlin/comments/1v42267/replacing_an_unreliable_touchtargetsize_rule_in/)
 - [Migrating to Kotlin KMP with native views, what should I know?](https://www.reddit.com/r/Kotlin/comments/1v3v02a/migrating_to_kotlin_kmp_with_native_views_what/)
 - [AnvilAI – Open-source Android app to run local LLMs 100% offline with Vulkan GPU acceleration &amp; SQLCipher](https://www.reddit.com/r/Kotlin/comments/1v3nc97/anvilai_opensource_android_app_to_run_local_llms/)
-- [KotlinConf - Kotlin/JS: Past, Present and Future](https://www.reddit.com/r/Kotlin/comments/1v3mz88/kotlinconf_kotlinjs_past_present_and_future/)
-- [A multiplatform Flighty UI clone sample made in a day with Compose](https://www.reddit.com/r/Kotlin/comments/1v3mc3w/a_multiplatform_flighty_ui_clone_sample_made_in_a/)
-- [New to kotlin, is this normal ram usage for kotlin-lsp?&lpar;1.4G&rpar;](https://www.reddit.com/r/Kotlin/comments/1v3k02w/new_to_kotlin_is_this_normal_ram_usage_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
