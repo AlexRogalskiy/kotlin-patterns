@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I recently released Library Insight v1.1.0.](https://www.reddit.com/r/Kotlin/comments/1v6atja/i_recently_released_library_insight_v110/)
+- [Kotlin Architecture Tests with Konture: A Practical Guide - Part 3](https://www.reddit.com/r/Kotlin/comments/1v69el9/kotlin_architecture_tests_with_konture_a/)
+- [Kotlin Architecture Tests: Why Konture Exists - Part 2](https://www.reddit.com/r/Kotlin/comments/1v69api/kotlin_architecture_tests_why_konture_exists_part/)
+- [E2E Testing for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1v680qe/e2e_testing_for_compose_multiplatform/)
+- [E2E Testing for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1v641d5/e2e_testing_for_compose_multiplatform/)
+- [E2E Testing for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1v63ent/e2e_testing_for_compose_multiplatform/)
+- [E2E Testing for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1v632ma/e2e_testing_for_compose_multiplatform/)
 - [Evolving my Pure Kotlin &amp; Compose RPG Engine: Migrating world rendering to Filament for an 8x performance boost](https://www.reddit.com/r/Kotlin/comments/1v5afcz/evolving_my_pure_kotlin_compose_rpg_engine/)
 - [Klocale — comprehensive locale-aware number/value formatting for Kotlin Multiplatform &lpar;my first OSS library, feedback very welcome&rpar;](https://www.reddit.com/r/Kotlin/comments/1v59i69/klocale_comprehensive_localeaware_numbervalue/)
 - [EEvent Mesh vs Webhooks - The Internal Webhooks Anti-Pattern: Why Service-to-Service HTTP Callbacks Don&#39;t Scale](https://www.reddit.com/r/Kotlin/comments/1v54gfh/eevent_mesh_vs_webhooks_the_internal_webhooks/)
-- [[DEV] MeshAid — an open-source offline Bluetooth mesh messenger for internet blackouts, hiking and off-grid groups](https://www.reddit.com/r/Kotlin/comments/1v4oj7a/dev_meshaid_an_opensource_offline_bluetooth_mesh/)
-- [Will Typealias helps me to learn kotlin advance level](https://www.reddit.com/r/Kotlin/comments/1v4dv0p/will_typealias_helps_me_to_learn_kotlin_advance/)
-- [Kotlin Architecture Tests: What They Are and Why They Matter - Part 1/3](https://www.reddit.com/r/Kotlin/comments/1v45gdq/kotlin_architecture_tests_what_they_are_and_why/)
-- [Designing a Multi-Region, Highly Available Webhook Ingress Architecture](https://www.reddit.com/r/Kotlin/comments/1v43vk3/designing_a_multiregion_highly_available_webhook/)
-- [Replacing an unreliable touch-target-size rule in my Jetpack Compose accessibility scanner](https://www.reddit.com/r/Kotlin/comments/1v42267/replacing_an_unreliable_touchtargetsize_rule_in/)
-- [Migrating to Kotlin KMP with native views, what should I know?](https://www.reddit.com/r/Kotlin/comments/1v3v02a/migrating_to_kotlin_kmp_with_native_views_what/)
-- [AnvilAI – Open-source Android app to run local LLMs 100% offline with Vulkan GPU acceleration &amp; SQLCipher](https://www.reddit.com/r/Kotlin/comments/1v3nc97/anvilai_opensource_android_app_to_run_local_llms/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
