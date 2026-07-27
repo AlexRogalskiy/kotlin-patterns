@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kdrant 1.1 and Kmemo 1.0: suspend-first Qdrant client, and an LLM cache that refuses to serve the wrong answer](https://www.reddit.com/r/Kotlin/comments/1v6zvo4/kdrant_11_and_kmemo_10_suspendfirst_qdrant_client/)
+- [Switching from Web Development to Kotlin – Any advice before I start?](https://www.reddit.com/r/Kotlin/comments/1v6ztto/switching_from_web_development_to_kotlin_any/)
+- [How to Prevent Webhook Traffic Spikes from Crashing Your API](https://www.reddit.com/r/Kotlin/comments/1v6xoxx/how_to_prevent_webhook_traffic_spikes_from/)
+- [log4k 2.3.0 — a Kotlin IR compiler plugin that instruments your functions with tracing, logging and metrics](https://www.reddit.com/r/Kotlin/comments/1v6x5wp/log4k_230_a_kotlin_ir_compiler_plugin_that/)
 - [I recently released Library Insight v1.1.0.](https://www.reddit.com/r/Kotlin/comments/1v6atja/i_recently_released_library_insight_v110/)
 - [Kotlin Architecture Tests with Konture: A Practical Guide - Part 3](https://www.reddit.com/r/Kotlin/comments/1v69el9/kotlin_architecture_tests_with_konture_a/)
 - [Kotlin Architecture Tests: Why Konture Exists - Part 2](https://www.reddit.com/r/Kotlin/comments/1v69api/kotlin_architecture_tests_why_konture_exists_part/)
 - [E2E Testing for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1v680qe/e2e_testing_for_compose_multiplatform/)
 - [E2E Testing for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1v641d5/e2e_testing_for_compose_multiplatform/)
 - [E2E Testing for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1v63ent/e2e_testing_for_compose_multiplatform/)
-- [E2E Testing for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1v632ma/e2e_testing_for_compose_multiplatform/)
-- [Evolving my Pure Kotlin &amp; Compose RPG Engine: Migrating world rendering to Filament for an 8x performance boost](https://www.reddit.com/r/Kotlin/comments/1v5afcz/evolving_my_pure_kotlin_compose_rpg_engine/)
-- [Klocale — comprehensive locale-aware number/value formatting for Kotlin Multiplatform &lpar;my first OSS library, feedback very welcome&rpar;](https://www.reddit.com/r/Kotlin/comments/1v59i69/klocale_comprehensive_localeaware_numbervalue/)
-- [EEvent Mesh vs Webhooks - The Internal Webhooks Anti-Pattern: Why Service-to-Service HTTP Callbacks Don&#39;t Scale](https://www.reddit.com/r/Kotlin/comments/1v54gfh/eevent_mesh_vs_webhooks_the_internal_webhooks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
