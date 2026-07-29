@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Kotlin case study: GoodData built an AI agent in Kotlin to triage production alerts, cutting investigation time by about 90%.](https://www.reddit.com/r/Kotlin/comments/1v8wqu9/new_kotlin_case_study_gooddata_built_an_ai_agent/)
 - [Convert kotlin program to exe](https://www.reddit.com/r/Kotlin/comments/1v8inab/convert_kotlin_program_to_exe/)
 - [Dúvida sobre AI Agent](https://www.reddit.com/r/Kotlin/comments/1v89rgk/dúvida_sobre_ai_agent/)
 - [Open-source LAN audio streaming app in Kotlin &lpar;Coroutines, Ktor sockets&rpar;](https://www.reddit.com/r/Kotlin/comments/1v87pqw/opensource_lan_audio_streaming_app_in_kotlin/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [How to Prevent Webhook Traffic Spikes from Crashing Your API](https://www.reddit.com/r/Kotlin/comments/1v6xoxx/how_to_prevent_webhook_traffic_spikes_from/)
 - [log4k 2.3.0 — a Kotlin IR compiler plugin that instruments your functions with tracing, logging and metrics](https://www.reddit.com/r/Kotlin/comments/1v6x5wp/log4k_230_a_kotlin_ir_compiler_plugin_that/)
 - [I recently released Library Insight v1.1.0.](https://www.reddit.com/r/Kotlin/comments/1v6atja/i_recently_released_library_insight_v110/)
-- [Kotlin Architecture Tests with Konture: A Practical Guide - Part 3](https://www.reddit.com/r/Kotlin/comments/1v69el9/kotlin_architecture_tests_with_konture_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
