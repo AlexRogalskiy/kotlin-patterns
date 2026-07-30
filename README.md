@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KotlinLLM is Going Open Source](https://www.reddit.com/r/Kotlin/comments/1vacdj7/kotlinllm_is_going_open_source/)
+- [RevenueCat Shipaton 2026: Ship your Kotlin Multiplatform app and compete for the Ship Kotlin Everywhere Award](https://www.reddit.com/r/Kotlin/comments/1v9rqjw/revenuecat_shipaton_2026_ship_your_kotlin/)
+- [Can someone please explain kotlinllm and why we need it?](https://www.reddit.com/r/Kotlin/comments/1v9qwzv/can_someone_please_explain_kotlinllm_and_why_we/)
+- [Built an offline mesh messenger with a pure-Kotlin core that runs identically on Android, a JVM simulator, and a desktop CLI — feedback welcome](https://www.reddit.com/r/Kotlin/comments/1v9mfmz/built_an_offline_mesh_messenger_with_a_purekotlin/)
 - [New Kotlin case study: GoodData built an AI agent in Kotlin to triage production alerts, cutting investigation time by about 90%.](https://www.reddit.com/r/Kotlin/comments/1v8wqu9/new_kotlin_case_study_gooddata_built_an_ai_agent/)
 - [Convert kotlin program to exe](https://www.reddit.com/r/Kotlin/comments/1v8inab/convert_kotlin_program_to_exe/)
 - [Dúvida sobre AI Agent](https://www.reddit.com/r/Kotlin/comments/1v89rgk/dúvida_sobre_ai_agent/)
 - [Open-source LAN audio streaming app in Kotlin &lpar;Coroutines, Ktor sockets&rpar;](https://www.reddit.com/r/Kotlin/comments/1v87pqw/opensource_lan_audio_streaming_app_in_kotlin/)
 - [made a fuel mileage tracker app for android, didnt even know kotlin before this lol](https://www.reddit.com/r/Kotlin/comments/1v7rjkc/made_a_fuel_mileage_tracker_app_for_android_didnt/)
 - [Kdrant 1.1 and Kmemo 1.0: suspend-first Qdrant client, and an LLM cache that refuses to serve the wrong answer](https://www.reddit.com/r/Kotlin/comments/1v6zvo4/kdrant_11_and_kmemo_10_suspendfirst_qdrant_client/)
-- [Switching from Web Development to Kotlin – Any advice before I start?](https://www.reddit.com/r/Kotlin/comments/1v6ztto/switching_from_web_development_to_kotlin_any/)
-- [How to Prevent Webhook Traffic Spikes from Crashing Your API](https://www.reddit.com/r/Kotlin/comments/1v6xoxx/how_to_prevent_webhook_traffic_spikes_from/)
-- [log4k 2.3.0 — a Kotlin IR compiler plugin that instruments your functions with tracing, logging and metrics](https://www.reddit.com/r/Kotlin/comments/1v6x5wp/log4k_230_a_kotlin_ir_compiler_plugin_that/)
-- [I recently released Library Insight v1.1.0.](https://www.reddit.com/r/Kotlin/comments/1v6atja/i_recently_released_library_insight_v110/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
