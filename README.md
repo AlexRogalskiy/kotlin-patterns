@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JEP 401: Value Objects And JEP 539: Strict Field Initialization Merged Into JDK](https://www.reddit.com/r/Kotlin/comments/1vbd0la/jep_401_value_objects_and_jep_539_strict_field/)
+- [Kotlin &quot;Full Value Classes&quot; feature?](https://www.reddit.com/r/Kotlin/comments/1vbak3y/kotlin_full_value_classes_feature/)
+- [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1vb7wts/compose_multiplatform_wizard/)
+- [Three Gradle Talks from KotlinConf 2026](https://www.reddit.com/r/Kotlin/comments/1vb1hhq/three_gradle_talks_from_kotlinconf_2026/)
+- [LWP+ - a live wallpaper that gives you control over Material-You colors, like on Android 17](https://www.reddit.com/r/Kotlin/comments/1vanxfp/lwp_a_live_wallpaper_that_gives_you_control_over/)
 - [KotlinLLM is Going Open Source](https://www.reddit.com/r/Kotlin/comments/1vacdj7/kotlinllm_is_going_open_source/)
 - [RevenueCat Shipaton 2026: Ship your Kotlin Multiplatform app and compete for the Ship Kotlin Everywhere Award](https://www.reddit.com/r/Kotlin/comments/1v9rqjw/revenuecat_shipaton_2026_ship_your_kotlin/)
 - [Can someone please explain kotlinllm and why we need it?](https://www.reddit.com/r/Kotlin/comments/1v9qwzv/can_someone_please_explain_kotlinllm_and_why_we/)
 - [Built an offline mesh messenger with a pure-Kotlin core that runs identically on Android, a JVM simulator, and a desktop CLI — feedback welcome](https://www.reddit.com/r/Kotlin/comments/1v9mfmz/built_an_offline_mesh_messenger_with_a_purekotlin/)
 - [New Kotlin case study: GoodData built an AI agent in Kotlin to triage production alerts, cutting investigation time by about 90%.](https://www.reddit.com/r/Kotlin/comments/1v8wqu9/new_kotlin_case_study_gooddata_built_an_ai_agent/)
-- [Convert kotlin program to exe](https://www.reddit.com/r/Kotlin/comments/1v8inab/convert_kotlin_program_to_exe/)
-- [Dúvida sobre AI Agent](https://www.reddit.com/r/Kotlin/comments/1v89rgk/dúvida_sobre_ai_agent/)
-- [Open-source LAN audio streaming app in Kotlin &lpar;Coroutines, Ktor sockets&rpar;](https://www.reddit.com/r/Kotlin/comments/1v87pqw/opensource_lan_audio_streaming_app_in_kotlin/)
-- [made a fuel mileage tracker app for android, didnt even know kotlin before this lol](https://www.reddit.com/r/Kotlin/comments/1v7rjkc/made_a_fuel_mileage_tracker_app_for_android_didnt/)
-- [Kdrant 1.1 and Kmemo 1.0: suspend-first Qdrant client, and an LLM cache that refuses to serve the wrong answer](https://www.reddit.com/r/Kotlin/comments/1v6zvo4/kdrant_11_and_kmemo_10_suspendfirst_qdrant_client/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
