@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can i make any kotlin friends?](https://www.reddit.com/r/Kotlin/comments/1vbw94i/can_i_make_any_kotlin_friends/)
+- [🚀 Library Insight v1.3.0 Released](https://www.reddit.com/r/Kotlin/comments/1vbpaoy/library_insight_v130_released/)
+- [Kotlin based Resersch Browser is fastest in world!](https://www.reddit.com/r/Kotlin/comments/1vbohln/kotlin_based_resersch_browser_is_fastest_in_world/)
+- [What is your KMP stack?](https://www.reddit.com/r/Kotlin/comments/1vbheg4/what_is_your_kmp_stack/)
+- [🚀 Looking for 12 Android Beta Testers &lpar;Free&rpar;](https://www.reddit.com/r/Kotlin/comments/1vbgpqm/looking_for_12_android_beta_testers_free/)
 - [JEP 401: Value Objects And JEP 539: Strict Field Initialization Merged Into JDK](https://www.reddit.com/r/Kotlin/comments/1vbd0la/jep_401_value_objects_and_jep_539_strict_field/)
 - [Kotlin &quot;Full Value Classes&quot; feature?](https://www.reddit.com/r/Kotlin/comments/1vbak3y/kotlin_full_value_classes_feature/)
 - [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1vb7wts/compose_multiplatform_wizard/)
 - [Three Gradle Talks from KotlinConf 2026](https://www.reddit.com/r/Kotlin/comments/1vb1hhq/three_gradle_talks_from_kotlinconf_2026/)
 - [LWP+ - a live wallpaper that gives you control over Material-You colors, like on Android 17](https://www.reddit.com/r/Kotlin/comments/1vanxfp/lwp_a_live_wallpaper_that_gives_you_control_over/)
-- [KotlinLLM is Going Open Source](https://www.reddit.com/r/Kotlin/comments/1vacdj7/kotlinllm_is_going_open_source/)
-- [RevenueCat Shipaton 2026: Ship your Kotlin Multiplatform app and compete for the Ship Kotlin Everywhere Award](https://www.reddit.com/r/Kotlin/comments/1v9rqjw/revenuecat_shipaton_2026_ship_your_kotlin/)
-- [Can someone please explain kotlinllm and why we need it?](https://www.reddit.com/r/Kotlin/comments/1v9qwzv/can_someone_please_explain_kotlinllm_and_why_we/)
-- [Built an offline mesh messenger with a pure-Kotlin core that runs identically on Android, a JVM simulator, and a desktop CLI — feedback welcome](https://www.reddit.com/r/Kotlin/comments/1v9mfmz/built_an_offline_mesh_messenger_with_a_purekotlin/)
-- [New Kotlin case study: GoodData built an AI agent in Kotlin to triage production alerts, cutting investigation time by about 90%.](https://www.reddit.com/r/Kotlin/comments/1v8wqu9/new_kotlin_case_study_gooddata_built_an_ai_agent/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
