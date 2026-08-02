@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [⚡ Kotools Types 5.2.0: Why Kotools Types&#39; `Integer` no longer stores its value as a `String`](https://www.reddit.com/r/Kotlin/comments/1vcx0b3/kotools_types_520_why_kotools_types_integer_no/)
+- [I think i built the best Push up game, what do you think of it?](https://www.reddit.com/r/Kotlin/comments/1vcr9k9/i_think_i_built_the_best_push_up_game_what_do_you/)
 - [Can i make any kotlin friends?](https://www.reddit.com/r/Kotlin/comments/1vbw94i/can_i_make_any_kotlin_friends/)
 - [🚀 Library Insight v1.3.0 Released](https://www.reddit.com/r/Kotlin/comments/1vbpaoy/library_insight_v130_released/)
 - [Kotlin based Resersch Browser is fastest in world!](https://www.reddit.com/r/Kotlin/comments/1vbohln/kotlin_based_resersch_browser_is_fastest_in_world/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [JEP 401: Value Objects And JEP 539: Strict Field Initialization Merged Into JDK](https://www.reddit.com/r/Kotlin/comments/1vbd0la/jep_401_value_objects_and_jep_539_strict_field/)
 - [Kotlin &quot;Full Value Classes&quot; feature?](https://www.reddit.com/r/Kotlin/comments/1vbak3y/kotlin_full_value_classes_feature/)
 - [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1vb7wts/compose_multiplatform_wizard/)
-- [Three Gradle Talks from KotlinConf 2026](https://www.reddit.com/r/Kotlin/comments/1vb1hhq/three_gradle_talks_from_kotlinconf_2026/)
-- [LWP+ - a live wallpaper that gives you control over Material-You colors, like on Android 17](https://www.reddit.com/r/Kotlin/comments/1vanxfp/lwp_a_live_wallpaper_that_gives_you_control_over/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
