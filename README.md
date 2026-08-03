@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OpenScanVision – Looking for Feedback on a Major Refactor](https://www.reddit.com/r/Kotlin/comments/1vdsdfs/openscanvision_looking_for_feedback_on_a_major/)
+- [I don&#39;t think shared Compose Multiplatform UI is the future for iOS &lpar;yet&rpar;](https://www.reddit.com/r/Kotlin/comments/1vdqsbn/i_dont_think_shared_compose_multiplatform_ui_is/)
+- [I wanted my Compose previews on a Figma-style canvas — so I built Artboard](https://www.reddit.com/r/Kotlin/comments/1vdi2mt/i_wanted_my_compose_previews_on_a_figmastyle/)
+- [Can you explain ViewModel concepts in the simplest possible way?](https://www.reddit.com/r/Kotlin/comments/1vdhcsp/can_you_explain_viewmodel_concepts_in_the/)
+- [OpenScanVision – Looking for Feedback on a Major Refactor](https://www.reddit.com/r/Kotlin/comments/1vd9kia/openscanvision_looking_for_feedback_on_a_major/)
 - [⚡ Kotools Types 5.2.0: Why Kotools Types&#39; `Integer` no longer stores its value as a `String`](https://www.reddit.com/r/Kotlin/comments/1vcx0b3/kotools_types_520_why_kotools_types_integer_no/)
 - [I think i built the best Push up game, what do you think of it?](https://www.reddit.com/r/Kotlin/comments/1vcr9k9/i_think_i_built_the_best_push_up_game_what_do_you/)
 - [Can i make any kotlin friends?](https://www.reddit.com/r/Kotlin/comments/1vbw94i/can_i_make_any_kotlin_friends/)
 - [🚀 Library Insight v1.3.0 Released](https://www.reddit.com/r/Kotlin/comments/1vbpaoy/library_insight_v130_released/)
 - [Kotlin based Resersch Browser is fastest in world!](https://www.reddit.com/r/Kotlin/comments/1vbohln/kotlin_based_resersch_browser_is_fastest_in_world/)
-- [What is your KMP stack?](https://www.reddit.com/r/Kotlin/comments/1vbheg4/what_is_your_kmp_stack/)
-- [🚀 Looking for 12 Android Beta Testers &lpar;Free&rpar;](https://www.reddit.com/r/Kotlin/comments/1vbgpqm/looking_for_12_android_beta_testers_free/)
-- [JEP 401: Value Objects And JEP 539: Strict Field Initialization Merged Into JDK](https://www.reddit.com/r/Kotlin/comments/1vbd0la/jep_401_value_objects_and_jep_539_strict_field/)
-- [Kotlin &quot;Full Value Classes&quot; feature?](https://www.reddit.com/r/Kotlin/comments/1vbak3y/kotlin_full_value_classes_feature/)
-- [Compose Multiplatform Wizard](https://www.reddit.com/r/Kotlin/comments/1vb7wts/compose_multiplatform_wizard/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
