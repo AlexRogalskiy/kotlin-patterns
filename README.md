@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [An architecture library.](https://www.reddit.com/r/Kotlin/comments/1vekc57/an_architecture_library/)
+- [A native macOS and Linux app with Compose? Now it is.](https://www.reddit.com/r/Kotlin/comments/1veaieb/a_native_macos_and_linux_app_with_compose_now_it/)
+- [14 YOE in Android, feeling like mobile is dying. Is pivoting to Kotlin backend realistic?](https://www.reddit.com/r/Kotlin/comments/1ve9a9f/14_yoe_in_android_feeling_like_mobile_is_dying_is/)
+- [Beginner kotlin](https://www.reddit.com/r/Kotlin/comments/1ve8y28/beginner_kotlin/)
+- [Introducing KitFlow – A Kotlin Multiplatform Library for Adaptive Compose UIs](https://www.reddit.com/r/Kotlin/comments/1ve8rom/introducing_kitflow_a_kotlin_multiplatform/)
+- [Building RippleCheck taught me a few useful ts-morph tricks](https://www.reddit.com/r/Kotlin/comments/1ve8703/building_ripplecheck_taught_me_a_few_useful/)
 - [OpenScanVision – Looking for Feedback on a Major Refactor](https://www.reddit.com/r/Kotlin/comments/1vdsdfs/openscanvision_looking_for_feedback_on_a_major/)
 - [I don&#39;t think shared Compose Multiplatform UI is the future for iOS &lpar;yet&rpar;](https://www.reddit.com/r/Kotlin/comments/1vdqsbn/i_dont_think_shared_compose_multiplatform_ui_is/)
 - [I wanted my Compose previews on a Figma-style canvas — so I built Artboard](https://www.reddit.com/r/Kotlin/comments/1vdi2mt/i_wanted_my_compose_previews_on_a_figmastyle/)
 - [Can you explain ViewModel concepts in the simplest possible way?](https://www.reddit.com/r/Kotlin/comments/1vdhcsp/can_you_explain_viewmodel_concepts_in_the/)
-- [OpenScanVision – Looking for Feedback on a Major Refactor](https://www.reddit.com/r/Kotlin/comments/1vd9kia/openscanvision_looking_for_feedback_on_a_major/)
-- [⚡ Kotools Types 5.2.0: Why Kotools Types&#39; `Integer` no longer stores its value as a `String`](https://www.reddit.com/r/Kotlin/comments/1vcx0b3/kotools_types_520_why_kotools_types_integer_no/)
-- [I think i built the best Push up game, what do you think of it?](https://www.reddit.com/r/Kotlin/comments/1vcr9k9/i_think_i_built_the_best_push_up_game_what_do_you/)
-- [Can i make any kotlin friends?](https://www.reddit.com/r/Kotlin/comments/1vbw94i/can_i_make_any_kotlin_friends/)
-- [🚀 Library Insight v1.3.0 Released](https://www.reddit.com/r/Kotlin/comments/1vbpaoy/library_insight_v130_released/)
-- [Kotlin based Resersch Browser is fastest in world!](https://www.reddit.com/r/Kotlin/comments/1vbohln/kotlin_based_resersch_browser_is_fastest_in_world/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
