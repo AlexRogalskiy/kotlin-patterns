@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;IntelliJ IDEA Goes LSP&quot; - Kotlin LSP comes to your IDE of choice](https://www.reddit.com/r/Kotlin/comments/1vfnqd7/intellij_idea_goes_lsp_kotlin_lsp_comes_to_your/)
+- [I built an open-source desktop app to analyze Android projects and clean development resources](https://www.reddit.com/r/Kotlin/comments/1vffp45/i_built_an_opensource_desktop_app_to_analyze/)
 - [An architecture library.](https://www.reddit.com/r/Kotlin/comments/1vekc57/an_architecture_library/)
 - [A native macOS and Linux app with Compose? Now it is.](https://www.reddit.com/r/Kotlin/comments/1veaieb/a_native_macos_and_linux_app_with_compose_now_it/)
 - [14 YOE in Android, feeling like mobile is dying. Is pivoting to Kotlin backend realistic?](https://www.reddit.com/r/Kotlin/comments/1ve9a9f/14_yoe_in_android_feeling_like_mobile_is_dying_is/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Building RippleCheck taught me a few useful ts-morph tricks](https://www.reddit.com/r/Kotlin/comments/1ve8703/building_ripplecheck_taught_me_a_few_useful/)
 - [OpenScanVision – Looking for Feedback on a Major Refactor](https://www.reddit.com/r/Kotlin/comments/1vdsdfs/openscanvision_looking_for_feedback_on_a_major/)
 - [I don&#39;t think shared Compose Multiplatform UI is the future for iOS &lpar;yet&rpar;](https://www.reddit.com/r/Kotlin/comments/1vdqsbn/i_dont_think_shared_compose_multiplatform_ui_is/)
-- [I wanted my Compose previews on a Figma-style canvas — so I built Artboard](https://www.reddit.com/r/Kotlin/comments/1vdi2mt/i_wanted_my_compose_previews_on_a_figmastyle/)
-- [Can you explain ViewModel concepts in the simplest possible way?](https://www.reddit.com/r/Kotlin/comments/1vdhcsp/can_you_explain_viewmodel_concepts_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
