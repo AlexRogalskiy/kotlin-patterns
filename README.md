@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Every Learning Platform has the same issue](https://www.reddit.com/r/Kotlin/comments/1vgqimf/every_learning_platform_has_the_same_issue/)
+- [CMP vs React Native in 2026](https://www.reddit.com/r/Kotlin/comments/1vgfwl9/cmp_vs_react_native_in_2026/)
+- [Everything you need to make the case for Kotlin](https://www.reddit.com/r/Kotlin/comments/1vgfhat/everything_you_need_to_make_the_case_for_kotlin/)
+- [I&#39;m a beginner...](https://www.reddit.com/r/Kotlin/comments/1vgdvoa/im_a_beginner/)
+- [I built an open-source desktop tool to analyze Gradle/KMP projects and clean development resources](https://www.reddit.com/r/Kotlin/comments/1vg25jg/i_built_an_opensource_desktop_tool_to_analyze/)
 - [&quot;IntelliJ IDEA Goes LSP&quot; - Kotlin LSP comes to your IDE of choice](https://www.reddit.com/r/Kotlin/comments/1vfnqd7/intellij_idea_goes_lsp_kotlin_lsp_comes_to_your/)
-- [I built an open-source desktop app to analyze Android projects and clean development resources](https://www.reddit.com/r/Kotlin/comments/1vffp45/i_built_an_opensource_desktop_app_to_analyze/)
 - [An architecture library.](https://www.reddit.com/r/Kotlin/comments/1vekc57/an_architecture_library/)
 - [A native macOS and Linux app with Compose? Now it is.](https://www.reddit.com/r/Kotlin/comments/1veaieb/a_native_macos_and_linux_app_with_compose_now_it/)
 - [14 YOE in Android, feeling like mobile is dying. Is pivoting to Kotlin backend realistic?](https://www.reddit.com/r/Kotlin/comments/1ve9a9f/14_yoe_in_android_feeling_like_mobile_is_dying_is/)
 - [Beginner kotlin](https://www.reddit.com/r/Kotlin/comments/1ve8y28/beginner_kotlin/)
-- [Introducing KitFlow – A Kotlin Multiplatform Library for Adaptive Compose UIs](https://www.reddit.com/r/Kotlin/comments/1ve8rom/introducing_kitflow_a_kotlin_multiplatform/)
-- [Building RippleCheck taught me a few useful ts-morph tricks](https://www.reddit.com/r/Kotlin/comments/1ve8703/building_ripplecheck_taught_me_a_few_useful/)
-- [OpenScanVision – Looking for Feedback on a Major Refactor](https://www.reddit.com/r/Kotlin/comments/1vdsdfs/openscanvision_looking_for_feedback_on_a_major/)
-- [I don&#39;t think shared Compose Multiplatform UI is the future for iOS &lpar;yet&rpar;](https://www.reddit.com/r/Kotlin/comments/1vdqsbn/i_dont_think_shared_compose_multiplatform_ui_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
