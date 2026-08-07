@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OSS for Kotlin : AADD library for reachability analysis](https://www.reddit.com/r/Kotlin/comments/1vhklus/oss_for_kotlin_aadd_library_for_reachability/)
+- [Built an AI HR Assistant with Koog Framework + Kotlin Multiplatform &lpar;Android, iOS &amp; Desktop&rpar;](https://www.reddit.com/r/Kotlin/comments/1vh9kgx/built_an_ai_hr_assistant_with_koog_framework/)
+- [I built Latch — a tiny Kotlin library that makes listener lifecycle cleanup automatic](https://www.reddit.com/r/Kotlin/comments/1vh5vyw/i_built_latch_a_tiny_kotlin_library_that_makes/)
+- [Install, Launch, Update: Shipping a CLI on Five Platforms](https://www.reddit.com/r/Kotlin/comments/1vh5lag/install_launch_update_shipping_a_cli_on_five/)
+- [KMP WARP - Widget Abstraction Rendering Pipeline](https://www.reddit.com/r/Kotlin/comments/1vh1e92/kmp_warp_widget_abstraction_rendering_pipeline/)
+- [Sharing Ktor endpoints between client and server, across platforms](https://www.reddit.com/r/Kotlin/comments/1vgykgk/sharing_ktor_endpoints_between_client_and_server/)
+- [Generating typed JDBC code from .sql files](https://www.reddit.com/r/Kotlin/comments/1vgwif9/generating_typed_jdbc_code_from_sql_files/)
 - [Every Learning Platform has the same issue](https://www.reddit.com/r/Kotlin/comments/1vgqimf/every_learning_platform_has_the_same_issue/)
 - [CMP vs React Native in 2026](https://www.reddit.com/r/Kotlin/comments/1vgfwl9/cmp_vs_react_native_in_2026/)
 - [Everything you need to make the case for Kotlin](https://www.reddit.com/r/Kotlin/comments/1vgfhat/everything_you_need_to_make_the_case_for_kotlin/)
-- [I&#39;m a beginner...](https://www.reddit.com/r/Kotlin/comments/1vgdvoa/im_a_beginner/)
-- [I built an open-source desktop tool to analyze Gradle/KMP projects and clean development resources](https://www.reddit.com/r/Kotlin/comments/1vg25jg/i_built_an_opensource_desktop_tool_to_analyze/)
-- [&quot;IntelliJ IDEA Goes LSP&quot; - Kotlin LSP comes to your IDE of choice](https://www.reddit.com/r/Kotlin/comments/1vfnqd7/intellij_idea_goes_lsp_kotlin_lsp_comes_to_your/)
-- [An architecture library.](https://www.reddit.com/r/Kotlin/comments/1vekc57/an_architecture_library/)
-- [A native macOS and Linux app with Compose? Now it is.](https://www.reddit.com/r/Kotlin/comments/1veaieb/a_native_macos_and_linux_app_with_compose_now_it/)
-- [14 YOE in Android, feeling like mobile is dying. Is pivoting to Kotlin backend realistic?](https://www.reddit.com/r/Kotlin/comments/1ve9a9f/14_yoe_in_android_feeling_like_mobile_is_dying_is/)
-- [Beginner kotlin](https://www.reddit.com/r/Kotlin/comments/1ve8y28/beginner_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
