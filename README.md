@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building a Thymeleaf-like template engine with compile-safety](https://www.reddit.com/r/Kotlin/comments/1vihyx3/building_a_thymeleaflike_template_engine_with/)
+- [Народ, я создал свой анонимный чат в вебе](https://www.reddit.com/r/Kotlin/comments/1vicm2k/народ_я_создал_свой_анонимный_чат_в_вебе/)
 - [OSS for Kotlin : AADD library for reachability analysis](https://www.reddit.com/r/Kotlin/comments/1vhklus/oss_for_kotlin_aadd_library_for_reachability/)
 - [Built an AI HR Assistant with Koog Framework + Kotlin Multiplatform &lpar;Android, iOS &amp; Desktop&rpar;](https://www.reddit.com/r/Kotlin/comments/1vh9kgx/built_an_ai_hr_assistant_with_koog_framework/)
 - [I built Latch — a tiny Kotlin library that makes listener lifecycle cleanup automatic](https://www.reddit.com/r/Kotlin/comments/1vh5vyw/i_built_latch_a_tiny_kotlin_library_that_makes/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Sharing Ktor endpoints between client and server, across platforms](https://www.reddit.com/r/Kotlin/comments/1vgykgk/sharing_ktor_endpoints_between_client_and_server/)
 - [Generating typed JDBC code from .sql files](https://www.reddit.com/r/Kotlin/comments/1vgwif9/generating_typed_jdbc_code_from_sql_files/)
 - [Every Learning Platform has the same issue](https://www.reddit.com/r/Kotlin/comments/1vgqimf/every_learning_platform_has_the_same_issue/)
-- [CMP vs React Native in 2026](https://www.reddit.com/r/Kotlin/comments/1vgfwl9/cmp_vs_react_native_in_2026/)
-- [Everything you need to make the case for Kotlin](https://www.reddit.com/r/Kotlin/comments/1vgfhat/everything_you_need_to_make_the_case_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
