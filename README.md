@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Open sourced accessibility library for jetpack composed](https://www.reddit.com/r/Kotlin/comments/1vj9vay/open_sourced_accessibility_library_for_jetpack/)
+- [GitHub - miwayomi/miwayomi: Self-contained JVM server that runs Aniyomi/Tachiyomi-format catalog extensions without Android](https://www.reddit.com/r/Kotlin/comments/1vj733m/github_miwayomimiwayomi_selfcontained_jvm_server/)
+- [Ho bloccato gli attacchi xss e l&#39;estrazione della chiave API nel browser modificando monkey-patch crypto.subtle. Perché non lo fa nessun altro?](https://www.reddit.com/r/Kotlin/comments/1vj6eco/ho_bloccato_gli_attacchi_xss_e_lestrazione_della/)
+- [I built a local comic, manga, and webtoon reader](https://www.reddit.com/r/Kotlin/comments/1vj1bn1/i_built_a_local_comic_manga_and_webtoon_reader/)
 - [Building a Thymeleaf-like template engine with compile-safety](https://www.reddit.com/r/Kotlin/comments/1vihyx3/building_a_thymeleaflike_template_engine_with/)
-- [Народ, я создал свой анонимный чат в вебе](https://www.reddit.com/r/Kotlin/comments/1vicm2k/народ_я_создал_свой_анонимный_чат_в_вебе/)
 - [OSS for Kotlin : AADD library for reachability analysis](https://www.reddit.com/r/Kotlin/comments/1vhklus/oss_for_kotlin_aadd_library_for_reachability/)
 - [Built an AI HR Assistant with Koog Framework + Kotlin Multiplatform &lpar;Android, iOS &amp; Desktop&rpar;](https://www.reddit.com/r/Kotlin/comments/1vh9kgx/built_an_ai_hr_assistant_with_koog_framework/)
 - [I built Latch — a tiny Kotlin library that makes listener lifecycle cleanup automatic](https://www.reddit.com/r/Kotlin/comments/1vh5vyw/i_built_latch_a_tiny_kotlin_library_that_makes/)
 - [Install, Launch, Update: Shipping a CLI on Five Platforms](https://www.reddit.com/r/Kotlin/comments/1vh5lag/install_launch_update_shipping_a_cli_on_five/)
 - [KMP WARP - Widget Abstraction Rendering Pipeline](https://www.reddit.com/r/Kotlin/comments/1vh1e92/kmp_warp_widget_abstraction_rendering_pipeline/)
-- [Sharing Ktor endpoints between client and server, across platforms](https://www.reddit.com/r/Kotlin/comments/1vgykgk/sharing_ktor_endpoints_between_client_and_server/)
-- [Generating typed JDBC code from .sql files](https://www.reddit.com/r/Kotlin/comments/1vgwif9/generating_typed_jdbc_code_from_sql_files/)
-- [Every Learning Platform has the same issue](https://www.reddit.com/r/Kotlin/comments/1vgqimf/every_learning_platform_has_the_same_issue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
