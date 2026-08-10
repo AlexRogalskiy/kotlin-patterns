@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Supports Numination.](https://www.reddit.com/r/Kotlin/comments/1vk2w0v/supports_numination/)
+- [Supports Numination.](https://www.reddit.com/r/Kotlin/comments/1vk2vun/supports_numination/)
+- [I built audio-stream-player: A KMP library for playing low-latency audio, such as text-to-speech or realtime voice APIs](https://www.reddit.com/r/Kotlin/comments/1vjrclp/i_built_audiostreamplayer_a_kmp_library_for/)
 - [Open sourced accessibility library for jetpack composed](https://www.reddit.com/r/Kotlin/comments/1vj9vay/open_sourced_accessibility_library_for_jetpack/)
 - [GitHub - miwayomi/miwayomi: Self-contained JVM server that runs Aniyomi/Tachiyomi-format catalog extensions without Android](https://www.reddit.com/r/Kotlin/comments/1vj733m/github_miwayomimiwayomi_selfcontained_jvm_server/)
-- [Ho bloccato gli attacchi xss e l&#39;estrazione della chiave API nel browser modificando monkey-patch crypto.subtle. Perché non lo fa nessun altro?](https://www.reddit.com/r/Kotlin/comments/1vj6eco/ho_bloccato_gli_attacchi_xss_e_lestrazione_della/)
 - [I built a local comic, manga, and webtoon reader](https://www.reddit.com/r/Kotlin/comments/1vj1bn1/i_built_a_local_comic_manga_and_webtoon_reader/)
 - [Building a Thymeleaf-like template engine with compile-safety](https://www.reddit.com/r/Kotlin/comments/1vihyx3/building_a_thymeleaflike_template_engine_with/)
 - [OSS for Kotlin : AADD library for reachability analysis](https://www.reddit.com/r/Kotlin/comments/1vhklus/oss_for_kotlin_aadd_library_for_reachability/)
 - [Built an AI HR Assistant with Koog Framework + Kotlin Multiplatform &lpar;Android, iOS &amp; Desktop&rpar;](https://www.reddit.com/r/Kotlin/comments/1vh9kgx/built_an_ai_hr_assistant_with_koog_framework/)
 - [I built Latch — a tiny Kotlin library that makes listener lifecycle cleanup automatic](https://www.reddit.com/r/Kotlin/comments/1vh5vyw/i_built_latch_a_tiny_kotlin_library_that_makes/)
-- [Install, Launch, Update: Shipping a CLI on Five Platforms](https://www.reddit.com/r/Kotlin/comments/1vh5lag/install_launch_update_shipping_a_cli_on_five/)
-- [KMP WARP - Widget Abstraction Rendering Pipeline](https://www.reddit.com/r/Kotlin/comments/1vh1e92/kmp_warp_widget_abstraction_rendering_pipeline/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
