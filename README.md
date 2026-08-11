@@ -272,7 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Supports Numination.](https://www.reddit.com/r/Kotlin/comments/1vk2w0v/supports_numination/)
+- [[Library] Gbéewá, typed result handoff for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vkffwr/library_gbéewá_typed_result_handoff_for_compose/)
+- [Open Source Bookmark Manager App made With Kotlin](https://www.reddit.com/r/Kotlin/comments/1vkdwq9/open_source_bookmark_manager_app_made_with_kotlin/)
+- [An end-to-end Auth Example with Exposed and Ktor](https://www.reddit.com/r/Kotlin/comments/1vka4lw/an_endtoend_auth_example_with_exposed_and_ktor/)
 - [Supports Numination.](https://www.reddit.com/r/Kotlin/comments/1vk2vun/supports_numination/)
 - [I built audio-stream-player: A KMP library for playing low-latency audio, such as text-to-speech or realtime voice APIs](https://www.reddit.com/r/Kotlin/comments/1vjrclp/i_built_audiostreamplayer_a_kmp_library_for/)
 - [Open sourced accessibility library for jetpack composed](https://www.reddit.com/r/Kotlin/comments/1vj9vay/open_sourced_accessibility_library_for_jetpack/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I built a local comic, manga, and webtoon reader](https://www.reddit.com/r/Kotlin/comments/1vj1bn1/i_built_a_local_comic_manga_and_webtoon_reader/)
 - [Building a Thymeleaf-like template engine with compile-safety](https://www.reddit.com/r/Kotlin/comments/1vihyx3/building_a_thymeleaflike_template_engine_with/)
 - [OSS for Kotlin : AADD library for reachability analysis](https://www.reddit.com/r/Kotlin/comments/1vhklus/oss_for_kotlin_aadd_library_for_reachability/)
-- [Built an AI HR Assistant with Koog Framework + Kotlin Multiplatform &lpar;Android, iOS &amp; Desktop&rpar;](https://www.reddit.com/r/Kotlin/comments/1vh9kgx/built_an_ai_hr_assistant_with_koog_framework/)
-- [I built Latch — a tiny Kotlin library that makes listener lifecycle cleanup automatic](https://www.reddit.com/r/Kotlin/comments/1vh5vyw/i_built_latch_a_tiny_kotlin_library_that_makes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
