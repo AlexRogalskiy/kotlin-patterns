@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Konifer - an OSS self-hosted image management platform](https://www.reddit.com/r/Kotlin/comments/1vm19st/konifer_an_oss_selfhosted_image_management/)
+- [A single KMP dependency dyld-crashed our iOS app at launch on every device below iOS 26 — and no simulator caught it. Here&#39;s the trap.](https://www.reddit.com/r/Kotlin/comments/1vm184r/a_single_kmp_dependency_dyldcrashed_our_ios_app/)
+- [Apache Fory™ JSON: 10x Faster JSON Serialization Framework for Java](https://www.reddit.com/r/Kotlin/comments/1vly6v5/apache_fory_json_10x_faster_json_serialization/)
+- [Coding Styles Examples](https://www.reddit.com/r/Kotlin/comments/1vly4zg/coding_styles_examples/)
+- [[LANZAMIENTO] Fluxa v1.0.0 &lpar;Estable&rpar; — Cliente alternativo de YouTube, de código abierto y libre de anuncios &lpar;Kotlin + Jetpack Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1vlx2yd/lanzamiento_fluxa_v100_estable_cliente/)
+- [ondevice-ai: A multiplatform library for on-device LLMs](https://www.reddit.com/r/Kotlin/comments/1vlv2ci/ondeviceai_a_multiplatform_library_for_ondevice/)
+- [How to Ban a Class or Method in Code &lpar;And Why You Should&rpar;](https://www.reddit.com/r/Kotlin/comments/1vla001/how_to_ban_a_class_or_method_in_code_and_why_you/)
 - [[Library] Gbéewá, typed result handoff for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vkffwr/library_gbéewá_typed_result_handoff_for_compose/)
 - [Open Source Bookmark Manager App made With Kotlin](https://www.reddit.com/r/Kotlin/comments/1vkdwq9/open_source_bookmark_manager_app_made_with_kotlin/)
 - [An end-to-end Auth Example with Exposed and Ktor](https://www.reddit.com/r/Kotlin/comments/1vka4lw/an_endtoend_auth_example_with_exposed_and_ktor/)
-- [Supports Numination.](https://www.reddit.com/r/Kotlin/comments/1vk2vun/supports_numination/)
-- [I built audio-stream-player: A KMP library for playing low-latency audio, such as text-to-speech or realtime voice APIs](https://www.reddit.com/r/Kotlin/comments/1vjrclp/i_built_audiostreamplayer_a_kmp_library_for/)
-- [Open sourced accessibility library for jetpack composed](https://www.reddit.com/r/Kotlin/comments/1vj9vay/open_sourced_accessibility_library_for_jetpack/)
-- [GitHub - miwayomi/miwayomi: Self-contained JVM server that runs Aniyomi/Tachiyomi-format catalog extensions without Android](https://www.reddit.com/r/Kotlin/comments/1vj733m/github_miwayomimiwayomi_selfcontained_jvm_server/)
-- [I built a local comic, manga, and webtoon reader](https://www.reddit.com/r/Kotlin/comments/1vj1bn1/i_built_a_local_comic_manga_and_webtoon_reader/)
-- [Building a Thymeleaf-like template engine with compile-safety](https://www.reddit.com/r/Kotlin/comments/1vihyx3/building_a_thymeleaflike_template_engine_with/)
-- [OSS for Kotlin : AADD library for reachability analysis](https://www.reddit.com/r/Kotlin/comments/1vhklus/oss_for_kotlin_aadd_library_for_reachability/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
