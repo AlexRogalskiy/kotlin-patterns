@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Quiet Grid: Logic Puzzles made with Kotlin](https://www.reddit.com/r/Kotlin/comments/1vmot1g/quiet_grid_logic_puzzles_made_with_kotlin/)
+- [Apache Fory was 10× slower than kotlinx.serialization](https://www.reddit.com/r/Kotlin/comments/1vmf6jc/apache_fory_was_10_slower_than/)
+- [Koin Plugin 1.6.0 update : Your AI assistant can now query real production performance data for apps using Koin](https://www.reddit.com/r/Kotlin/comments/1vmaj44/koin_plugin_160_update_your_ai_assistant_can_now/)
 - [Konifer - an OSS self-hosted image management platform](https://www.reddit.com/r/Kotlin/comments/1vm19st/konifer_an_oss_selfhosted_image_management/)
 - [A single KMP dependency dyld-crashed our iOS app at launch on every device below iOS 26 — and no simulator caught it. Here&#39;s the trap.](https://www.reddit.com/r/Kotlin/comments/1vm184r/a_single_kmp_dependency_dyldcrashed_our_ios_app/)
 - [Apache Fory™ JSON: 10x Faster JSON Serialization Framework for Java](https://www.reddit.com/r/Kotlin/comments/1vly6v5/apache_fory_json_10x_faster_json_serialization/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [[LANZAMIENTO] Fluxa v1.0.0 &lpar;Estable&rpar; — Cliente alternativo de YouTube, de código abierto y libre de anuncios &lpar;Kotlin + Jetpack Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1vlx2yd/lanzamiento_fluxa_v100_estable_cliente/)
 - [ondevice-ai: A multiplatform library for on-device LLMs](https://www.reddit.com/r/Kotlin/comments/1vlv2ci/ondeviceai_a_multiplatform_library_for_ondevice/)
 - [How to Ban a Class or Method in Code &lpar;And Why You Should&rpar;](https://www.reddit.com/r/Kotlin/comments/1vla001/how_to_ban_a_class_or_method_in_code_and_why_you/)
-- [[Library] Gbéewá, typed result handoff for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vkffwr/library_gbéewá_typed_result_handoff_for_compose/)
-- [Open Source Bookmark Manager App made With Kotlin](https://www.reddit.com/r/Kotlin/comments/1vkdwq9/open_source_bookmark_manager_app_made_with_kotlin/)
-- [An end-to-end Auth Example with Exposed and Ktor](https://www.reddit.com/r/Kotlin/comments/1vka4lw/an_endtoend_auth_example_with_exposed_and_ktor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
