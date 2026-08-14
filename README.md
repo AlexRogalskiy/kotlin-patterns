@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Almost all languages with generics have intersection types](https://www.reddit.com/r/Kotlin/comments/1vn8ol6/almost_all_languages_with_generics_have/)
+- [5 Experimental Kotlin Features You Don&#39;t Want to Miss](https://www.reddit.com/r/Kotlin/comments/1vn8hu9/5_experimental_kotlin_features_you_dont_want_to/)
+- [I couldn&#39;t find a clean way to add AdMob in Compose Multiplatform, so I built one](https://www.reddit.com/r/Kotlin/comments/1vn55z4/i_couldnt_find_a_clean_way_to_add_admob_in/)
+- [I built a zero-reflection validation engine for Kotlin using KSP — looking for feedback](https://www.reddit.com/r/Kotlin/comments/1vn3gat/i_built_a_zeroreflection_validation_engine_for/)
 - [Quiet Grid: Logic Puzzles made with Kotlin](https://www.reddit.com/r/Kotlin/comments/1vmot1g/quiet_grid_logic_puzzles_made_with_kotlin/)
 - [Apache Fory was 10× slower than kotlinx.serialization](https://www.reddit.com/r/Kotlin/comments/1vmf6jc/apache_fory_was_10_slower_than/)
 - [Koin Plugin 1.6.0 update : Your AI assistant can now query real production performance data for apps using Koin](https://www.reddit.com/r/Kotlin/comments/1vmaj44/koin_plugin_160_update_your_ai_assistant_can_now/)
 - [Konifer - an OSS self-hosted image management platform](https://www.reddit.com/r/Kotlin/comments/1vm19st/konifer_an_oss_selfhosted_image_management/)
 - [A single KMP dependency dyld-crashed our iOS app at launch on every device below iOS 26 — and no simulator caught it. Here&#39;s the trap.](https://www.reddit.com/r/Kotlin/comments/1vm184r/a_single_kmp_dependency_dyldcrashed_our_ios_app/)
 - [Apache Fory™ JSON: 10x Faster JSON Serialization Framework for Java](https://www.reddit.com/r/Kotlin/comments/1vly6v5/apache_fory_json_10x_faster_json_serialization/)
-- [Coding Styles Examples](https://www.reddit.com/r/Kotlin/comments/1vly4zg/coding_styles_examples/)
-- [[LANZAMIENTO] Fluxa v1.0.0 &lpar;Estable&rpar; — Cliente alternativo de YouTube, de código abierto y libre de anuncios &lpar;Kotlin + Jetpack Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1vlx2yd/lanzamiento_fluxa_v100_estable_cliente/)
-- [ondevice-ai: A multiplatform library for on-device LLMs](https://www.reddit.com/r/Kotlin/comments/1vlv2ci/ondeviceai_a_multiplatform_library_for_ondevice/)
-- [How to Ban a Class or Method in Code &lpar;And Why You Should&rpar;](https://www.reddit.com/r/Kotlin/comments/1vla001/how_to_ban_a_class_or_method_in_code_and_why_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
