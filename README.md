@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Offline AI app android fully built with kotlin, but looking for 12 early testers from the community](https://www.reddit.com/r/Kotlin/comments/1vobf09/offline_ai_app_android_fully_built_with_kotlin/)
+- [Google AdMob in Compose Multiplatform shouldn&#39;t be painful. 💡](https://www.reddit.com/r/Kotlin/comments/1vo21ru/google_admob_in_compose_multiplatform_shouldnt_be/)
+- [How many of you are using Kotlin with SpringBoot as opposed to something else?](https://www.reddit.com/r/Kotlin/comments/1vnxe3g/how_many_of_you_are_using_kotlin_with_springboot/)
+- [New AI Offline Translator in Kotlin and Compose !](https://www.reddit.com/r/Kotlin/comments/1vnx4wr/new_ai_offline_translator_in_kotlin_and_compose/)
+- [Is there a way to bypass the &quot;Restricted setting&quot; on Android 15 using code within an APK?](https://www.reddit.com/r/Kotlin/comments/1vnwxbb/is_there_a_way_to_bypass_the_restricted_setting/)
 - [Almost all languages with generics have intersection types](https://www.reddit.com/r/Kotlin/comments/1vn8ol6/almost_all_languages_with_generics_have/)
 - [5 Experimental Kotlin Features You Don&#39;t Want to Miss](https://www.reddit.com/r/Kotlin/comments/1vn8hu9/5_experimental_kotlin_features_you_dont_want_to/)
 - [I couldn&#39;t find a clean way to add AdMob in Compose Multiplatform, so I built one](https://www.reddit.com/r/Kotlin/comments/1vn55z4/i_couldnt_find_a_clean_way_to_add_admob_in/)
-- [I built a zero-reflection validation engine for Kotlin using KSP — looking for feedback](https://www.reddit.com/r/Kotlin/comments/1vn3gat/i_built_a_zeroreflection_validation_engine_for/)
 - [Quiet Grid: Logic Puzzles made with Kotlin](https://www.reddit.com/r/Kotlin/comments/1vmot1g/quiet_grid_logic_puzzles_made_with_kotlin/)
 - [Apache Fory was 10× slower than kotlinx.serialization](https://www.reddit.com/r/Kotlin/comments/1vmf6jc/apache_fory_was_10_slower_than/)
-- [Koin Plugin 1.6.0 update : Your AI assistant can now query real production performance data for apps using Koin](https://www.reddit.com/r/Kotlin/comments/1vmaj44/koin_plugin_160_update_your_ai_assistant_can_now/)
-- [Konifer - an OSS self-hosted image management platform](https://www.reddit.com/r/Kotlin/comments/1vm19st/konifer_an_oss_selfhosted_image_management/)
-- [A single KMP dependency dyld-crashed our iOS app at launch on every device below iOS 26 — and no simulator caught it. Here&#39;s the trap.](https://www.reddit.com/r/Kotlin/comments/1vm184r/a_single_kmp_dependency_dyldcrashed_our_ios_app/)
-- [Apache Fory™ JSON: 10x Faster JSON Serialization Framework for Java](https://www.reddit.com/r/Kotlin/comments/1vly6v5/apache_fory_json_10x_faster_json_serialization/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
