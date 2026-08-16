@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a 100% Offline, True-Vector PDF N-Up Merger using Jetpack Compose &amp; PdfBox-Android. Looking for feedback! 🚀](https://www.reddit.com/r/Kotlin/comments/1vp8d1l/i_built_a_100_offline_truevector_pdf_nup_merger/)
 - [Offline AI app android fully built with kotlin, but looking for 12 early testers from the community](https://www.reddit.com/r/Kotlin/comments/1vobf09/offline_ai_app_android_fully_built_with_kotlin/)
 - [Google AdMob in Compose Multiplatform shouldn&#39;t be painful. 💡](https://www.reddit.com/r/Kotlin/comments/1vo21ru/google_admob_in_compose_multiplatform_shouldnt_be/)
 - [How many of you are using Kotlin with SpringBoot as opposed to something else?](https://www.reddit.com/r/Kotlin/comments/1vnxe3g/how_many_of_you_are_using_kotlin_with_springboot/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [5 Experimental Kotlin Features You Don&#39;t Want to Miss](https://www.reddit.com/r/Kotlin/comments/1vn8hu9/5_experimental_kotlin_features_you_dont_want_to/)
 - [I couldn&#39;t find a clean way to add AdMob in Compose Multiplatform, so I built one](https://www.reddit.com/r/Kotlin/comments/1vn55z4/i_couldnt_find_a_clean_way_to_add_admob_in/)
 - [Quiet Grid: Logic Puzzles made with Kotlin](https://www.reddit.com/r/Kotlin/comments/1vmot1g/quiet_grid_logic_puzzles_made_with_kotlin/)
-- [Apache Fory was 10× slower than kotlinx.serialization](https://www.reddit.com/r/Kotlin/comments/1vmf6jc/apache_fory_was_10_slower_than/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
