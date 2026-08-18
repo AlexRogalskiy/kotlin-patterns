@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Have you tried the Kotlin compiler Native Image build?](https://www.reddit.com/r/Kotlin/comments/1vqvg8n/have_you_tried_the_kotlin_compiler_native_image/)
 - [DNS on android is not working using kotlin.](https://www.reddit.com/r/Kotlin/comments/1vq7iug/dns_on_android_is_not_working_using_kotlin/)
 - [Any news on the konsist library?](https://www.reddit.com/r/Kotlin/comments/1vq5bce/any_news_on_the_konsist_library/)
 - [What do you think about the future of Kotlin/Native in the AI / Vibe Coding era?](https://www.reddit.com/r/Kotlin/comments/1vpwa01/what_do_you_think_about_the_future_of/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Offline AI app android fully built with kotlin, but looking for 12 early testers from the community](https://www.reddit.com/r/Kotlin/comments/1vobf09/offline_ai_app_android_fully_built_with_kotlin/)
 - [Google AdMob in Compose Multiplatform shouldn&#39;t be painful. 💡](https://www.reddit.com/r/Kotlin/comments/1vo21ru/google_admob_in_compose_multiplatform_shouldnt_be/)
 - [How many of you are using Kotlin with SpringBoot as opposed to something else?](https://www.reddit.com/r/Kotlin/comments/1vnxe3g/how_many_of_you_are_using_kotlin_with_springboot/)
-- [New AI Offline Translator in Kotlin and Compose !](https://www.reddit.com/r/Kotlin/comments/1vnx4wr/new_ai_offline_translator_in_kotlin_and_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
