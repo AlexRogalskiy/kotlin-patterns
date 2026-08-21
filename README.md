@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Great Android Stack Reset: Mobile System Design History](https://www.reddit.com/r/Kotlin/comments/1vtkqce/the_great_android_stack_reset_mobile_system/)
+- [Kotlin DataFrame 1.0.0-rc01 is out.](https://www.reddit.com/r/Kotlin/comments/1vteeec/kotlin_dataframe_100rc01_is_out/)
+- [kUML — Local LLM Benchmark](https://www.reddit.com/r/Kotlin/comments/1vtc0bt/kuml_local_llm_benchmark/)
+- [I’m building an ElevenLabs SDK for Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vtbatu/im_building_an_elevenlabs_sdk_for_kotlin/)
+- [I updated my annotation to include the agent and model](https://www.reddit.com/r/Kotlin/comments/1vtb7c8/i_updated_my_annotation_to_include_the_agent_and/)
 - [Building a set of Gradle Agent Skills](https://www.reddit.com/r/Kotlin/comments/1vsqxla/building_a_set_of_gradle_agent_skills/)
 - [I built RetryKt, a lightweight Kotlin Multiplatform retry library, so I&#39;m looking for feedback](https://www.reddit.com/r/Kotlin/comments/1vsnd2i/i_built_retrykt_a_lightweight_kotlin/)
 - [I added rendered text-contrast detection to my Jetpack Compose accessibility scanner](https://www.reddit.com/r/Kotlin/comments/1vsllx6/i_added_rendered_textcontrast_detection_to_my/)
 - [What are the trade-offs of KSP-generated validation in Kotlin?](https://www.reddit.com/r/Kotlin/comments/1vsjkjj/what_are_the_tradeoffs_of_kspgenerated_validation/)
 - [Exploring Compose HTML for Server Side Rendering](https://www.reddit.com/r/Kotlin/comments/1vsis20/exploring_compose_html_for_server_side_rendering/)
-- [I open-sourced an AdMob SDK for Compose Multiplatform — all six ad formats from one commonMain API &lpar;Android + iOS&rpar;](https://www.reddit.com/r/Kotlin/comments/1vsg28n/i_opensourced_an_admob_sdk_for_compose/)
-- [📢 Immutable Arrays v0.7.0 brings substantial performance improvements](https://www.reddit.com/r/Kotlin/comments/1vsfc1d/immutable_arrays_v070_brings_substantial/)
-- [Inside the Mind of a Spring Framework Maintainer - Sébastien Deleuze | T...](https://www.reddit.com/r/Kotlin/comments/1vrn2jx/inside_the_mind_of_a_spring_framework_maintainer/)
-- [Open-source Kotlin SDK for semantic video search](https://www.reddit.com/r/Kotlin/comments/1vrhai3/opensource_kotlin_sdk_for_semantic_video_search/)
-- [Does transpilation always take this long?](https://www.reddit.com/r/Kotlin/comments/1vreczz/does_transpilation_always_take_this_long/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
