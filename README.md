@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A country code picker for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vwnkvk/a_country_code_picker_for_compose_multiplatform/)
+- [kAryadina: Study &amp; Flashcards - Free](https://www.reddit.com/r/Kotlin/comments/1vw8xo6/karyadina_study_flashcards_free/)
+- [vitre: KMP WebView automation library / framework](https://www.reddit.com/r/Kotlin/comments/1vvzh02/vitre_kmp_webview_automation_library_framework/)
 - [A taxonomy for modeling success and failure](https://www.reddit.com/r/Kotlin/comments/1vvubib/a_taxonomy_for_modeling_success_and_failure/)
 - [kmprofiler - A Gradle plugin to profile and clean up Kotlin Multiplatform iOS export surfaces](https://www.reddit.com/r/Kotlin/comments/1vvfspz/kmprofiler_a_gradle_plugin_to_profile_and_clean/)
 - [Opensource: Simple env variables loading in Kotlin](https://www.reddit.com/r/Kotlin/comments/1vvfpsc/opensource_simple_env_variables_loading_in_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Issue in using a spell checker in a custom Canva-based text editor](https://www.reddit.com/r/Kotlin/comments/1vv36wv/issue_in_using_a_spell_checker_in_a_custom/)
 - [IntelliJ vs Android Studio - Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1vuv71x/intellij_vs_android_studio_kotlin_multiplatform/)
 - [📢 Immutable Arrays v0.7.0 brings substantial performance improvements](https://www.reddit.com/r/Kotlin/comments/1vuoszp/immutable_arrays_v070_brings_substantial/)
-- [Kotlin DSL - &#39;Blind&#39; Imports](https://www.reddit.com/r/Kotlin/comments/1vukmrd/kotlin_dsl_blind_imports/)
-- [Using Compose Multiplatform and want more people to find your app?](https://www.reddit.com/r/Kotlin/comments/1vuht3q/using_compose_multiplatform_and_want_more_people/)
-- [Best practices for Android and iOS](https://www.reddit.com/r/Kotlin/comments/1vuc7lp/best_practices_for_android_and_ios/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
