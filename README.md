@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [anyone else seeing weird patterns in AI-generated java code lately?](https://www.reddit.com/r/Kotlin/comments/1vxjcdi/anyone_else_seeing_weird_patterns_in_aigenerated/)
+- [Using Kotlin and Coroutines for Robotics &amp; Hardware Control on Raspberry Pi](https://www.reddit.com/r/Kotlin/comments/1vxh32j/using_kotlin_and_coroutines_for_robotics_hardware/)
+- [A practical framework for building a business case for Kotlin](https://www.reddit.com/r/Kotlin/comments/1vx4u0s/a_practical_framework_for_building_a_business/)
+- [How I bridged the Vitality SDK, Apple Watch, and Live Activities strictly through Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vx1c8t/how_i_bridged_the_vitality_sdk_apple_watch_and/)
 - [A country code picker for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vwnkvk/a_country_code_picker_for_compose_multiplatform/)
-- [kAryadina: Study &amp; Flashcards - Free](https://www.reddit.com/r/Kotlin/comments/1vw8xo6/karyadina_study_flashcards_free/)
 - [vitre: KMP WebView automation library / framework](https://www.reddit.com/r/Kotlin/comments/1vvzh02/vitre_kmp_webview_automation_library_framework/)
 - [A taxonomy for modeling success and failure](https://www.reddit.com/r/Kotlin/comments/1vvubib/a_taxonomy_for_modeling_success_and_failure/)
 - [kmprofiler - A Gradle plugin to profile and clean up Kotlin Multiplatform iOS export surfaces](https://www.reddit.com/r/Kotlin/comments/1vvfspz/kmprofiler_a_gradle_plugin_to_profile_and_clean/)
 - [Opensource: Simple env variables loading in Kotlin](https://www.reddit.com/r/Kotlin/comments/1vvfpsc/opensource_simple_env_variables_loading_in_kotlin/)
 - [Open Source: Kotlin/Android MQTT Client](https://www.reddit.com/r/Kotlin/comments/1vvecj9/open_source_kotlinandroid_mqtt_client/)
-- [Issue in using a spell checker in a custom Canva-based text editor](https://www.reddit.com/r/Kotlin/comments/1vv36wv/issue_in_using_a_spell_checker_in_a_custom/)
-- [IntelliJ vs Android Studio - Kotlin Multiplatform?](https://www.reddit.com/r/Kotlin/comments/1vuv71x/intellij_vs_android_studio_kotlin_multiplatform/)
-- [📢 Immutable Arrays v0.7.0 brings substantial performance improvements](https://www.reddit.com/r/Kotlin/comments/1vuoszp/immutable_arrays_v070_brings_substantial/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
