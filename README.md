@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kUML v0.53.0](https://www.reddit.com/r/Kotlin/comments/1vy7hf3/kuml_v0530/)
+- [using android studio in kotlin language autoclicker app - dispatchGesture&lpar;&rpar; returns queued=true but never taps anything, callback never fires - OEM-specific bug?](https://www.reddit.com/r/Kotlin/comments/1vxwjg8/using_android_studio_in_kotlin_language/)
+- [هل ينصح بتعلم Kotlin](https://www.reddit.com/r/Kotlin/comments/1vxvu9s/هل_ينصح_بتعلم_kotlin/)
+- [kmatch – RapidFuzz-compatible fuzzy string matching for Kotlin Multiplatform &lpar;bit-exact parity, benchmarked&rpar;](https://www.reddit.com/r/Kotlin/comments/1vxs6co/kmatch_rapidfuzzcompatible_fuzzy_string_matching/)
+- [I built a KSP persistence layer that generates separate new/persisted model types — worth open-sourcing?](https://www.reddit.com/r/Kotlin/comments/1vxmuz5/i_built_a_ksp_persistence_layer_that_generates/)
 - [anyone else seeing weird patterns in AI-generated java code lately?](https://www.reddit.com/r/Kotlin/comments/1vxjcdi/anyone_else_seeing_weird_patterns_in_aigenerated/)
 - [Using Kotlin and Coroutines for Robotics &amp; Hardware Control on Raspberry Pi](https://www.reddit.com/r/Kotlin/comments/1vxh32j/using_kotlin_and_coroutines_for_robotics_hardware/)
 - [A practical framework for building a business case for Kotlin](https://www.reddit.com/r/Kotlin/comments/1vx4u0s/a_practical_framework_for_building_a_business/)
 - [How I bridged the Vitality SDK, Apple Watch, and Live Activities strictly through Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vx1c8t/how_i_bridged_the_vitality_sdk_apple_watch_and/)
 - [A country code picker for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vwnkvk/a_country_code_picker_for_compose_multiplatform/)
-- [vitre: KMP WebView automation library / framework](https://www.reddit.com/r/Kotlin/comments/1vvzh02/vitre_kmp_webview_automation_library_framework/)
-- [A taxonomy for modeling success and failure](https://www.reddit.com/r/Kotlin/comments/1vvubib/a_taxonomy_for_modeling_success_and_failure/)
-- [kmprofiler - A Gradle plugin to profile and clean up Kotlin Multiplatform iOS export surfaces](https://www.reddit.com/r/Kotlin/comments/1vvfspz/kmprofiler_a_gradle_plugin_to_profile_and_clean/)
-- [Opensource: Simple env variables loading in Kotlin](https://www.reddit.com/r/Kotlin/comments/1vvfpsc/opensource_simple_env_variables_loading_in_kotlin/)
-- [Open Source: Kotlin/Android MQTT Client](https://www.reddit.com/r/Kotlin/comments/1vvecj9/open_source_kotlinandroid_mqtt_client/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
