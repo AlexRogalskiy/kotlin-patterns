@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What to choose : Junit or Kotlin test](https://www.reddit.com/r/Kotlin/comments/1vz6paq/what_to_choose_junit_or_kotlin_test/)
+- [Compose Multiplatform 1.12.0 Released](https://www.reddit.com/r/Kotlin/comments/1vz0wjj/compose_multiplatform_1120_released/)
+- [ktkit 0.4.0 — compile-time OpenAPI generation and a Gradle plugin for Ktor server apps](https://www.reddit.com/r/Kotlin/comments/1vyq1z0/ktkit_040_compiletime_openapi_generation_and_a/)
+- [Question for senior devs: Are you still studying core protocols &lpar;like MCP/LLM internals&rpar;, or have you fully embraced &quot;vibe coding&quot;?](https://www.reddit.com/r/Kotlin/comments/1vymoxy/question_for_senior_devs_are_you_still_studying/)
 - [kUML v0.53.0](https://www.reddit.com/r/Kotlin/comments/1vy7hf3/kuml_v0530/)
 - [using android studio in kotlin language autoclicker app - dispatchGesture&lpar;&rpar; returns queued=true but never taps anything, callback never fires - OEM-specific bug?](https://www.reddit.com/r/Kotlin/comments/1vxwjg8/using_android_studio_in_kotlin_language/)
 - [هل ينصح بتعلم Kotlin](https://www.reddit.com/r/Kotlin/comments/1vxvu9s/هل_ينصح_بتعلم_kotlin/)
 - [kmatch – RapidFuzz-compatible fuzzy string matching for Kotlin Multiplatform &lpar;bit-exact parity, benchmarked&rpar;](https://www.reddit.com/r/Kotlin/comments/1vxs6co/kmatch_rapidfuzzcompatible_fuzzy_string_matching/)
 - [I built a KSP persistence layer that generates separate new/persisted model types — worth open-sourcing?](https://www.reddit.com/r/Kotlin/comments/1vxmuz5/i_built_a_ksp_persistence_layer_that_generates/)
 - [anyone else seeing weird patterns in AI-generated java code lately?](https://www.reddit.com/r/Kotlin/comments/1vxjcdi/anyone_else_seeing_weird_patterns_in_aigenerated/)
-- [Using Kotlin and Coroutines for Robotics &amp; Hardware Control on Raspberry Pi](https://www.reddit.com/r/Kotlin/comments/1vxh32j/using_kotlin_and_coroutines_for_robotics_hardware/)
-- [A practical framework for building a business case for Kotlin](https://www.reddit.com/r/Kotlin/comments/1vx4u0s/a_practical_framework_for_building_a_business/)
-- [How I bridged the Vitality SDK, Apple Watch, and Live Activities strictly through Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vx1c8t/how_i_bridged_the_vitality_sdk_apple_watch_and/)
-- [A country code picker for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1vwnkvk/a_country_code_picker_for_compose_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
