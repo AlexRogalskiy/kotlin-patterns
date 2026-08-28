@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Has Kotlin and KMP entered their &quot;boring phase&quot; like Java?](https://www.reddit.com/r/Kotlin/comments/1w0n3f7/has_kotlin_and_kmp_entered_their_boring_phase/)
+- [xtsc: TypeScript compiler, also lowering to native / WebAssembly / JVM bytecode &lpar;experimental&rpar;](https://www.reddit.com/r/Kotlin/comments/1w0is2t/xtsc_typescript_compiler_also_lowering_to_native/)
+- [tests hitting s3/dynamo/sqs - how do you keep them fast?](https://www.reddit.com/r/Kotlin/comments/1w0cz53/tests_hitting_s3dynamosqs_how_do_you_keep_them/)
+- [I built a dashboard for keeping track of dozens of git repos in Compose Desktop &lpar;FOSS, GPLv3&rpar;](https://www.reddit.com/r/Kotlin/comments/1w087ak/i_built_a_dashboard_for_keeping_track_of_dozens/)
+- [Kmp-lsp - unofficial language server v0.26! &lpar;renamed from unofficial kotlin-lsp&rpar;](https://www.reddit.com/r/Kotlin/comments/1vzyfft/kmplsp_unofficial_language_server_v026_renamed/)
 - [What to choose : Junit or Kotlin test](https://www.reddit.com/r/Kotlin/comments/1vz6paq/what_to_choose_junit_or_kotlin_test/)
 - [Compose Multiplatform 1.12.0 Released](https://www.reddit.com/r/Kotlin/comments/1vz0wjj/compose_multiplatform_1120_released/)
 - [ktkit 0.4.0 — compile-time OpenAPI generation and a Gradle plugin for Ktor server apps](https://www.reddit.com/r/Kotlin/comments/1vyq1z0/ktkit_040_compiletime_openapi_generation_and_a/)
 - [Question for senior devs: Are you still studying core protocols &lpar;like MCP/LLM internals&rpar;, or have you fully embraced &quot;vibe coding&quot;?](https://www.reddit.com/r/Kotlin/comments/1vymoxy/question_for_senior_devs_are_you_still_studying/)
 - [kUML v0.53.0](https://www.reddit.com/r/Kotlin/comments/1vy7hf3/kuml_v0530/)
-- [using android studio in kotlin language autoclicker app - dispatchGesture&lpar;&rpar; returns queued=true but never taps anything, callback never fires - OEM-specific bug?](https://www.reddit.com/r/Kotlin/comments/1vxwjg8/using_android_studio_in_kotlin_language/)
-- [هل ينصح بتعلم Kotlin](https://www.reddit.com/r/Kotlin/comments/1vxvu9s/هل_ينصح_بتعلم_kotlin/)
-- [kmatch – RapidFuzz-compatible fuzzy string matching for Kotlin Multiplatform &lpar;bit-exact parity, benchmarked&rpar;](https://www.reddit.com/r/Kotlin/comments/1vxs6co/kmatch_rapidfuzzcompatible_fuzzy_string_matching/)
-- [I built a KSP persistence layer that generates separate new/persisted model types — worth open-sourcing?](https://www.reddit.com/r/Kotlin/comments/1vxmuz5/i_built_a_ksp_persistence_layer_that_generates/)
-- [anyone else seeing weird patterns in AI-generated java code lately?](https://www.reddit.com/r/Kotlin/comments/1vxjcdi/anyone_else_seeing_weird_patterns_in_aigenerated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
