@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Error when install Quail 3. Can&#39;t unzip Gradle file jbrsdk_jcef-21-JetBrains-21.0.10-windows-x64-b1163.108. So Android Studio can´t update gradles files an can´t compile.](https://www.reddit.com/r/Kotlin/comments/1w0y81g/error_when_install_quail_3_cant_unzip_gradle_file/)
+- [Where can i get Free lyrics for my app?](https://www.reddit.com/r/Kotlin/comments/1w0wc9u/where_can_i_get_free_lyrics_for_my_app/)
 - [Has Kotlin and KMP entered their &quot;boring phase&quot; like Java?](https://www.reddit.com/r/Kotlin/comments/1w0n3f7/has_kotlin_and_kmp_entered_their_boring_phase/)
 - [xtsc: TypeScript compiler, also lowering to native / WebAssembly / JVM bytecode &lpar;experimental&rpar;](https://www.reddit.com/r/Kotlin/comments/1w0is2t/xtsc_typescript_compiler_also_lowering_to_native/)
 - [tests hitting s3/dynamo/sqs - how do you keep them fast?](https://www.reddit.com/r/Kotlin/comments/1w0cz53/tests_hitting_s3dynamosqs_how_do_you_keep_them/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What to choose : Junit or Kotlin test](https://www.reddit.com/r/Kotlin/comments/1vz6paq/what_to_choose_junit_or_kotlin_test/)
 - [Compose Multiplatform 1.12.0 Released](https://www.reddit.com/r/Kotlin/comments/1vz0wjj/compose_multiplatform_1120_released/)
 - [ktkit 0.4.0 — compile-time OpenAPI generation and a Gradle plugin for Ktor server apps](https://www.reddit.com/r/Kotlin/comments/1vyq1z0/ktkit_040_compiletime_openapi_generation_and_a/)
-- [Question for senior devs: Are you still studying core protocols &lpar;like MCP/LLM internals&rpar;, or have you fully embraced &quot;vibe coding&quot;?](https://www.reddit.com/r/Kotlin/comments/1vymoxy/question_for_senior_devs_are_you_still_studying/)
-- [kUML v0.53.0](https://www.reddit.com/r/Kotlin/comments/1vy7hf3/kuml_v0530/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
