@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google Maps vs Mapbox for Android navigation?](https://www.reddit.com/r/Kotlin/comments/1w1qkhv/google_maps_vs_mapbox_for_android_navigation/)
+- [What should be the correct ordering for lifecycle callbacks and state changes ?](https://www.reddit.com/r/Kotlin/comments/1w1i967/what_should_be_the_correct_ordering_for_lifecycle/)
+- [What should I catch : Throwable or Exception ?](https://www.reddit.com/r/Kotlin/comments/1w1hvnr/what_should_i_catch_throwable_or_exception/)
 - [Error when install Quail 3. Can&#39;t unzip Gradle file jbrsdk_jcef-21-JetBrains-21.0.10-windows-x64-b1163.108. So Android Studio can´t update gradles files an can´t compile.](https://www.reddit.com/r/Kotlin/comments/1w0y81g/error_when_install_quail_3_cant_unzip_gradle_file/)
 - [Where can i get Free lyrics for my app?](https://www.reddit.com/r/Kotlin/comments/1w0wc9u/where_can_i_get_free_lyrics_for_my_app/)
 - [Has Kotlin and KMP entered their &quot;boring phase&quot; like Java?](https://www.reddit.com/r/Kotlin/comments/1w0n3f7/has_kotlin_and_kmp_entered_their_boring_phase/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [tests hitting s3/dynamo/sqs - how do you keep them fast?](https://www.reddit.com/r/Kotlin/comments/1w0cz53/tests_hitting_s3dynamosqs_how_do_you_keep_them/)
 - [I built a dashboard for keeping track of dozens of git repos in Compose Desktop &lpar;FOSS, GPLv3&rpar;](https://www.reddit.com/r/Kotlin/comments/1w087ak/i_built_a_dashboard_for_keeping_track_of_dozens/)
 - [Kmp-lsp - unofficial language server v0.26! &lpar;renamed from unofficial kotlin-lsp&rpar;](https://www.reddit.com/r/Kotlin/comments/1vzyfft/kmplsp_unofficial_language_server_v026_renamed/)
-- [What to choose : Junit or Kotlin test](https://www.reddit.com/r/Kotlin/comments/1vz6paq/what_to_choose_junit_or_kotlin_test/)
-- [Compose Multiplatform 1.12.0 Released](https://www.reddit.com/r/Kotlin/comments/1vz0wjj/compose_multiplatform_1120_released/)
-- [ktkit 0.4.0 — compile-time OpenAPI generation and a Gradle plugin for Ktor server apps](https://www.reddit.com/r/Kotlin/comments/1vyq1z0/ktkit_040_compiletime_openapi_generation_and_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
