@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/Native desktop still doesn’t feel productive for real applications](https://www.reddit.com/r/Kotlin/comments/1w2bioe/kotlinnative_desktop_still_doesnt_feel_productive/)
 - [Google Maps vs Mapbox for Android navigation?](https://www.reddit.com/r/Kotlin/comments/1w1qkhv/google_maps_vs_mapbox_for_android_navigation/)
 - [What should be the correct ordering for lifecycle callbacks and state changes ?](https://www.reddit.com/r/Kotlin/comments/1w1i967/what_should_be_the_correct_ordering_for_lifecycle/)
 - [What should I catch : Throwable or Exception ?](https://www.reddit.com/r/Kotlin/comments/1w1hvnr/what_should_i_catch_throwable_or_exception/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [xtsc: TypeScript compiler, also lowering to native / WebAssembly / JVM bytecode &lpar;experimental&rpar;](https://www.reddit.com/r/Kotlin/comments/1w0is2t/xtsc_typescript_compiler_also_lowering_to_native/)
 - [tests hitting s3/dynamo/sqs - how do you keep them fast?](https://www.reddit.com/r/Kotlin/comments/1w0cz53/tests_hitting_s3dynamosqs_how_do_you_keep_them/)
 - [I built a dashboard for keeping track of dozens of git repos in Compose Desktop &lpar;FOSS, GPLv3&rpar;](https://www.reddit.com/r/Kotlin/comments/1w087ak/i_built_a_dashboard_for_keeping_track_of_dozens/)
-- [Kmp-lsp - unofficial language server v0.26! &lpar;renamed from unofficial kotlin-lsp&rpar;](https://www.reddit.com/r/Kotlin/comments/1vzyfft/kmplsp_unofficial_language_server_v026_renamed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
