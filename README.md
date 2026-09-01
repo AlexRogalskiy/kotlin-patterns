@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ReqLab &lpar;Open-source Desktop API Client&rpar; now features full MCP Client support and JSON5 out-of-the-box! Looking for your feedback](https://www.reddit.com/r/Kotlin/comments/1w3mob3/reqlab_opensource_desktop_api_client_now_features/)
+- [Would you rewrite a small Kotlin library in Java just to avoid stdlib ?](https://www.reddit.com/r/Kotlin/comments/1w3f2fj/would_you_rewrite_a_small_kotlin_library_in_java/)
 - [Kotlin/Native desktop still doesn’t feel productive for real applications](https://www.reddit.com/r/Kotlin/comments/1w2bioe/kotlinnative_desktop_still_doesnt_feel_productive/)
 - [Google Maps vs Mapbox for Android navigation?](https://www.reddit.com/r/Kotlin/comments/1w1qkhv/google_maps_vs_mapbox_for_android_navigation/)
 - [What should be the correct ordering for lifecycle callbacks and state changes ?](https://www.reddit.com/r/Kotlin/comments/1w1i967/what_should_be_the_correct_ordering_for_lifecycle/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Where can i get Free lyrics for my app?](https://www.reddit.com/r/Kotlin/comments/1w0wc9u/where_can_i_get_free_lyrics_for_my_app/)
 - [Has Kotlin and KMP entered their &quot;boring phase&quot; like Java?](https://www.reddit.com/r/Kotlin/comments/1w0n3f7/has_kotlin_and_kmp_entered_their_boring_phase/)
 - [xtsc: TypeScript compiler, also lowering to native / WebAssembly / JVM bytecode &lpar;experimental&rpar;](https://www.reddit.com/r/Kotlin/comments/1w0is2t/xtsc_typescript_compiler_also_lowering_to_native/)
-- [tests hitting s3/dynamo/sqs - how do you keep them fast?](https://www.reddit.com/r/Kotlin/comments/1w0cz53/tests_hitting_s3dynamosqs_how_do_you_keep_them/)
-- [I built a dashboard for keeping track of dozens of git repos in Compose Desktop &lpar;FOSS, GPLv3&rpar;](https://www.reddit.com/r/Kotlin/comments/1w087ak/i_built_a_dashboard_for_keeping_track_of_dozens/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
