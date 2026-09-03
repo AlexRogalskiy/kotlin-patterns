@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Kotlin Result&lt;T, E&gt; that also tells you the kind of success and failure](https://www.reddit.com/r/Kotlin/comments/1w5ua5d/a_kotlin_resultt_e_that_also_tells_you_the_kind/)
+- [K/JS usability issues explored](https://www.reddit.com/r/Kotlin/comments/1w5ljya/kjs_usability_issues_explored/)
+- [My JSON parser was silently returning the wrong number for ~40% of ordinary decimals](https://www.reddit.com/r/Kotlin/comments/1w5gn69/my_json_parser_was_silently_returning_the_wrong/)
+- [i want to wipe the terminal after asking questions](https://www.reddit.com/r/Kotlin/comments/1w5asn8/i_want_to_wipe_the_terminal_after_asking_questions/)
+- [I got Compose Multiplatform running on Apple tvOS, published on Maven Central, one line in settings.gradle.kts](https://www.reddit.com/r/Kotlin/comments/1w54mxe/i_got_compose_multiplatform_running_on_apple_tvos/)
+- [Elegance never goes out of style — iterating LocalDate with Kotlin ranges](https://www.reddit.com/r/Kotlin/comments/1w51jbm/elegance_never_goes_out_of_style_iterating/)
 - [ReqLab &lpar;Open-source Desktop API Client&rpar; now features full MCP Client support and JSON5 out-of-the-box! Looking for your feedback](https://www.reddit.com/r/Kotlin/comments/1w3mob3/reqlab_opensource_desktop_api_client_now_features/)
 - [Would you rewrite a small Kotlin library in Java just to avoid stdlib ?](https://www.reddit.com/r/Kotlin/comments/1w3f2fj/would_you_rewrite_a_small_kotlin_library_in_java/)
 - [Kotlin/Native desktop still doesn’t feel productive for real applications](https://www.reddit.com/r/Kotlin/comments/1w2bioe/kotlinnative_desktop_still_doesnt_feel_productive/)
 - [Google Maps vs Mapbox for Android navigation?](https://www.reddit.com/r/Kotlin/comments/1w1qkhv/google_maps_vs_mapbox_for_android_navigation/)
-- [What should be the correct ordering for lifecycle callbacks and state changes ?](https://www.reddit.com/r/Kotlin/comments/1w1i967/what_should_be_the_correct_ordering_for_lifecycle/)
-- [What should I catch : Throwable or Exception ?](https://www.reddit.com/r/Kotlin/comments/1w1hvnr/what_should_i_catch_throwable_or_exception/)
-- [Error when install Quail 3. Can&#39;t unzip Gradle file jbrsdk_jcef-21-JetBrains-21.0.10-windows-x64-b1163.108. So Android Studio can´t update gradles files an can´t compile.](https://www.reddit.com/r/Kotlin/comments/1w0y81g/error_when_install_quail_3_cant_unzip_gradle_file/)
-- [Where can i get Free lyrics for my app?](https://www.reddit.com/r/Kotlin/comments/1w0wc9u/where_can_i_get_free_lyrics_for_my_app/)
-- [Has Kotlin and KMP entered their &quot;boring phase&quot; like Java?](https://www.reddit.com/r/Kotlin/comments/1w0n3f7/has_kotlin_and_kmp_entered_their_boring_phase/)
-- [xtsc: TypeScript compiler, also lowering to native / WebAssembly / JVM bytecode &lpar;experimental&rpar;](https://www.reddit.com/r/Kotlin/comments/1w0is2t/xtsc_typescript_compiler_also_lowering_to_native/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
