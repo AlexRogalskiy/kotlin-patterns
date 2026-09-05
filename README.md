@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sealed-class-enumizer — a K2 compiler plugin that gives sealed hierarchies an enum-like API &lpar;entries / valueOf / label&rpar;, without reflection](https://www.reddit.com/r/Kotlin/comments/1w7qm5z/sealedclassenumizer_a_k2_compiler_plugin_that/)
+- [KMP Mindset](https://www.reddit.com/r/Kotlin/comments/1w7pehn/kmp_mindset/)
+- [GraalVM got 8-12% faster across Java, Kotlin, and Scala in the last update in my benchmark suite](https://www.reddit.com/r/Kotlin/comments/1w7lxbd/graalvm_got_812_faster_across_java_kotlin_and/)
+- [Music player](https://www.reddit.com/r/Kotlin/comments/1w7806c/music_player/)
+- [Null safety makes me write better code](https://www.reddit.com/r/Kotlin/comments/1w6ynxl/null_safety_makes_me_write_better_code/)
 - [I built a product tour library for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1w6nvcu/i_built_a_product_tour_library_for_compose/)
 - [Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps](https://www.reddit.com/r/Kotlin/comments/1w6cbgd/kotlin_toolchain_012_multiplatform_library/)
 - [New JetBrains research: devs switch to Kotlin for the experience, not because they&#39;re forced to](https://www.reddit.com/r/Kotlin/comments/1w69r4z/new_jetbrains_research_devs_switch_to_kotlin_for/)
 - [Stopped hardcoding dp breakpoints for WindowSizeClass — modeled it as a sealed class instead](https://www.reddit.com/r/Kotlin/comments/1w5yqqg/stopped_hardcoding_dp_breakpoints_for/)
 - [A Kotlin Result&lt;T, E&gt; that also tells you the kind of success and failure](https://www.reddit.com/r/Kotlin/comments/1w5ua5d/a_kotlin_resultt_e_that_also_tells_you_the_kind/)
-- [K/JS usability issues explored](https://www.reddit.com/r/Kotlin/comments/1w5ljya/kjs_usability_issues_explored/)
-- [i want to wipe the terminal after asking questions](https://www.reddit.com/r/Kotlin/comments/1w5asn8/i_want_to_wipe_the_terminal_after_asking_questions/)
-- [I got Compose Multiplatform running on Apple tvOS, published on Maven Central, one line in settings.gradle.kts](https://www.reddit.com/r/Kotlin/comments/1w54mxe/i_got_compose_multiplatform_running_on_apple_tvos/)
-- [Elegance never goes out of style — iterating LocalDate with Kotlin ranges](https://www.reddit.com/r/Kotlin/comments/1w51jbm/elegance_never_goes_out_of_style_iterating/)
-- [ReqLab &lpar;Open-source Desktop API Client&rpar; now features full MCP Client support and JSON5 out-of-the-box! Looking for your feedback](https://www.reddit.com/r/Kotlin/comments/1w3mob3/reqlab_opensource_desktop_api_client_now_features/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
