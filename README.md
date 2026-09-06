@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I spent a year working around pgjdbc, so I wrote the driver instead — octavius-postgresql 1.0.0](https://www.reddit.com/r/Kotlin/comments/1w80xze/i_spent_a_year_working_around_pgjdbc_so_i_wrote/)
+- [KMP logging design notes: Android-style call sites + composing loggers like arithmetic](https://www.reddit.com/r/Kotlin/comments/1w7tg1o/kmp_logging_design_notes_androidstyle_call_sites/)
 - [sealed-class-enumizer — a K2 compiler plugin that gives sealed hierarchies an enum-like API &lpar;entries / valueOf / label&rpar;, without reflection](https://www.reddit.com/r/Kotlin/comments/1w7qm5z/sealedclassenumizer_a_k2_compiler_plugin_that/)
 - [KMP Mindset](https://www.reddit.com/r/Kotlin/comments/1w7pehn/kmp_mindset/)
-- [GraalVM got 8-12% faster across Java, Kotlin, and Scala in the last update in my benchmark suite](https://www.reddit.com/r/Kotlin/comments/1w7lxbd/graalvm_got_812_faster_across_java_kotlin_and/)
 - [Music player](https://www.reddit.com/r/Kotlin/comments/1w7806c/music_player/)
 - [Null safety makes me write better code](https://www.reddit.com/r/Kotlin/comments/1w6ynxl/null_safety_makes_me_write_better_code/)
 - [I built a product tour library for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1w6nvcu/i_built_a_product_tour_library_for_compose/)
 - [Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps](https://www.reddit.com/r/Kotlin/comments/1w6cbgd/kotlin_toolchain_012_multiplatform_library/)
 - [New JetBrains research: devs switch to Kotlin for the experience, not because they&#39;re forced to](https://www.reddit.com/r/Kotlin/comments/1w69r4z/new_jetbrains_research_devs_switch_to_kotlin_for/)
 - [Stopped hardcoding dp breakpoints for WindowSizeClass — modeled it as a sealed class instead](https://www.reddit.com/r/Kotlin/comments/1w5yqqg/stopped_hardcoding_dp_breakpoints_for/)
-- [A Kotlin Result&lt;T, E&gt; that also tells you the kind of success and failure](https://www.reddit.com/r/Kotlin/comments/1w5ua5d/a_kotlin_resultt_e_that_also_tells_you_the_kind/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
