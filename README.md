@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Neton: would Kotlin developers use a Spring Boot-like server framework built entirely on Kotlin/Native?](https://www.reddit.com/r/Kotlin/comments/1w96rj7/neton_would_kotlin_developers_use_a_spring/)
+- [Detroit KUG Meetup - September](https://www.reddit.com/r/Kotlin/comments/1w8t4i8/detroit_kug_meetup_september/)
 - [I spent a year working around pgjdbc, so I wrote the driver instead — octavius-postgresql 1.0.0](https://www.reddit.com/r/Kotlin/comments/1w80xze/i_spent_a_year_working_around_pgjdbc_so_i_wrote/)
 - [KMP logging design notes: Android-style call sites + composing loggers like arithmetic](https://www.reddit.com/r/Kotlin/comments/1w7tg1o/kmp_logging_design_notes_androidstyle_call_sites/)
 - [sealed-class-enumizer — a K2 compiler plugin that gives sealed hierarchies an enum-like API &lpar;entries / valueOf / label&rpar;, without reflection](https://www.reddit.com/r/Kotlin/comments/1w7qm5z/sealedclassenumizer_a_k2_compiler_plugin_that/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Null safety makes me write better code](https://www.reddit.com/r/Kotlin/comments/1w6ynxl/null_safety_makes_me_write_better_code/)
 - [I built a product tour library for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1w6nvcu/i_built_a_product_tour_library_for_compose/)
 - [Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps](https://www.reddit.com/r/Kotlin/comments/1w6cbgd/kotlin_toolchain_012_multiplatform_library/)
-- [New JetBrains research: devs switch to Kotlin for the experience, not because they&#39;re forced to](https://www.reddit.com/r/Kotlin/comments/1w69r4z/new_jetbrains_research_devs_switch_to_kotlin_for/)
-- [Stopped hardcoding dp breakpoints for WindowSizeClass — modeled it as a sealed class instead](https://www.reddit.com/r/Kotlin/comments/1w5yqqg/stopped_hardcoding_dp_breakpoints_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
