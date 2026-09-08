@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A web developer experimenting with Agentic AI + Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1waeng9/a_web_developer_experimenting_with_agentic_ai/)
+- [A web developer experimenting with Agentic AI + Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1wael0e/a_web_developer_experimenting_with_agentic_ai/)
+- [Mutflow: mutation testing for Kotlin Multiplatform &lpar;JVM and Native targets&rpar;](https://www.reddit.com/r/Kotlin/comments/1wadqlc/mutflow_mutation_testing_for_kotlin_multiplatform/)
+- [Gradle is very confusing](https://www.reddit.com/r/Kotlin/comments/1wab9wr/gradle_is_very_confusing/)
+- [Animating code snippets from first principles using Compose, and Shared Element transitions](https://www.reddit.com/r/Kotlin/comments/1wa7p1o/animating_code_snippets_from_first_principles/)
+- [Kotlin 2.4.20 Released](https://www.reddit.com/r/Kotlin/comments/1w9rsr8/kotlin_2420_released/)
 - [Neton: would Kotlin developers use a Spring Boot-like server framework built entirely on Kotlin/Native?](https://www.reddit.com/r/Kotlin/comments/1w96rj7/neton_would_kotlin_developers_use_a_spring/)
 - [Detroit KUG Meetup - September](https://www.reddit.com/r/Kotlin/comments/1w8t4i8/detroit_kug_meetup_september/)
 - [I spent a year working around pgjdbc, so I wrote the driver instead — octavius-postgresql 1.0.0](https://www.reddit.com/r/Kotlin/comments/1w80xze/i_spent_a_year_working_around_pgjdbc_so_i_wrote/)
 - [KMP logging design notes: Android-style call sites + composing loggers like arithmetic](https://www.reddit.com/r/Kotlin/comments/1w7tg1o/kmp_logging_design_notes_androidstyle_call_sites/)
-- [sealed-class-enumizer — a K2 compiler plugin that gives sealed hierarchies an enum-like API &lpar;entries / valueOf / label&rpar;, without reflection](https://www.reddit.com/r/Kotlin/comments/1w7qm5z/sealedclassenumizer_a_k2_compiler_plugin_that/)
-- [KMP Mindset](https://www.reddit.com/r/Kotlin/comments/1w7pehn/kmp_mindset/)
-- [Music player](https://www.reddit.com/r/Kotlin/comments/1w7806c/music_player/)
-- [Null safety makes me write better code](https://www.reddit.com/r/Kotlin/comments/1w6ynxl/null_safety_makes_me_write_better_code/)
-- [I built a product tour library for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1w6nvcu/i_built_a_product_tour_library_for_compose/)
-- [Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps](https://www.reddit.com/r/Kotlin/comments/1w6cbgd/kotlin_toolchain_012_multiplatform_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
