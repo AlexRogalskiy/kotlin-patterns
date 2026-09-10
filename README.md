@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bypass API](https://www.reddit.com/r/Kotlin/comments/1wc97ef/bypass_api/)
+- [Full-stack Kotlin &lpar;Ktor + KVision + Kilua RPC + Exposed&rpar; for a real production app — plus a UML→Exposed/Flyway code-gen pipeline I&#39;d like feedback on](https://www.reddit.com/r/Kotlin/comments/1wbwy85/fullstack_kotlin_ktor_kvision_kilua_rpc_exposed/)
 - [Kotlin Toolchain 0.12](https://www.reddit.com/r/Kotlin/comments/1wb727e/kotlin_toolchain_012/)
 - [Mutflow: mutation testing for Kotlin Multiplatform &lpar;JVM and Native targets&rpar;](https://www.reddit.com/r/Kotlin/comments/1wadqlc/mutflow_mutation_testing_for_kotlin_multiplatform/)
 - [Gradle is very confusing](https://www.reddit.com/r/Kotlin/comments/1wab9wr/gradle_is_very_confusing/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Neton: would Kotlin developers use a Spring Boot-like server framework built entirely on Kotlin/Native?](https://www.reddit.com/r/Kotlin/comments/1w96rj7/neton_would_kotlin_developers_use_a_spring/)
 - [Detroit KUG Meetup - September](https://www.reddit.com/r/Kotlin/comments/1w8t4i8/detroit_kug_meetup_september/)
 - [I spent a year working around pgjdbc, so I wrote the driver instead — octavius-postgresql 1.0.0](https://www.reddit.com/r/Kotlin/comments/1w80xze/i_spent_a_year_working_around_pgjdbc_so_i_wrote/)
-- [KMP logging design notes: Android-style call sites + composing loggers like arithmetic](https://www.reddit.com/r/Kotlin/comments/1w7tg1o/kmp_logging_design_notes_androidstyle_call_sites/)
-- [sealed-class-enumizer — a K2 compiler plugin that gives sealed hierarchies an enum-like API &lpar;entries / valueOf / label&rpar;, without reflection](https://www.reddit.com/r/Kotlin/comments/1w7qm5z/sealedclassenumizer_a_k2_compiler_plugin_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
