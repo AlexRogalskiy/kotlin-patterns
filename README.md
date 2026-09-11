@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Bypass API](https://www.reddit.com/r/Kotlin/comments/1wc97ef/bypass_api/)
+- [My first app built with Kotlin Multiplatform &lpar;Smart Assistant with Video calls&rpar;](https://www.reddit.com/r/Kotlin/comments/1wcr75n/my_first_app_built_with_kotlin_multiplatform/)
+- [Custom pull-to-refresh animation with Rive + Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1wcoid3/custom_pulltorefresh_animation_with_rive_jetpack/)
+- [Kotlin 2026: Layoffs, AI, Google — Is the Golden Age Over? Jake Wharton Explains](https://www.reddit.com/r/Kotlin/comments/1wco6gy/kotlin_2026_layoffs_ai_google_is_the_golden_age/)
+- [Kromium – A zero-bloat Chromium engine for Java, Kotlin, and Compose Desktop](https://www.reddit.com/r/Kotlin/comments/1wc4l7m/kromium_a_zerobloat_chromium_engine_for_java/)
 - [Full-stack Kotlin &lpar;Ktor + KVision + Kilua RPC + Exposed&rpar; for a real production app — plus a UML→Exposed/Flyway code-gen pipeline I&#39;d like feedback on](https://www.reddit.com/r/Kotlin/comments/1wbwy85/fullstack_kotlin_ktor_kvision_kilua_rpc_exposed/)
 - [Kotlin Toolchain 0.12](https://www.reddit.com/r/Kotlin/comments/1wb727e/kotlin_toolchain_012/)
 - [Mutflow: mutation testing for Kotlin Multiplatform &lpar;JVM and Native targets&rpar;](https://www.reddit.com/r/Kotlin/comments/1wadqlc/mutflow_mutation_testing_for_kotlin_multiplatform/)
-- [Gradle is very confusing](https://www.reddit.com/r/Kotlin/comments/1wab9wr/gradle_is_very_confusing/)
 - [Animating code snippets from first principles using Compose, and Shared Element transitions](https://www.reddit.com/r/Kotlin/comments/1wa7p1o/animating_code_snippets_from_first_principles/)
 - [Kotlin 2.4.20 Released](https://www.reddit.com/r/Kotlin/comments/1w9rsr8/kotlin_2420_released/)
 - [Neton: would Kotlin developers use a Spring Boot-like server framework built entirely on Kotlin/Native?](https://www.reddit.com/r/Kotlin/comments/1w96rj7/neton_would_kotlin_developers_use_a_spring/)
-- [Detroit KUG Meetup - September](https://www.reddit.com/r/Kotlin/comments/1w8t4i8/detroit_kug_meetup_september/)
-- [I spent a year working around pgjdbc, so I wrote the driver instead — octavius-postgresql 1.0.0](https://www.reddit.com/r/Kotlin/comments/1w80xze/i_spent_a_year_working_around_pgjdbc_so_i_wrote/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
