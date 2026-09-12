@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Migrating Shop app from React Native to native &lpar;2026&rpar;](https://www.reddit.com/r/Kotlin/comments/1wdxr07/migrating_shop_app_from_react_native_to_native/)
+- [Pehra is live on the Apple TV App Store, and the whole UI is Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1wdllh3/pehra_is_live_on_the_apple_tv_app_store_and_the/)
 - [My first app built with Kotlin Multiplatform &lpar;Smart Assistant with Video calls&rpar;](https://www.reddit.com/r/Kotlin/comments/1wcr75n/my_first_app_built_with_kotlin_multiplatform/)
 - [Custom pull-to-refresh animation with Rive + Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1wcoid3/custom_pulltorefresh_animation_with_rive_jetpack/)
 - [Kotlin 2026: Layoffs, AI, Google — Is the Golden Age Over? Jake Wharton Explains](https://www.reddit.com/r/Kotlin/comments/1wco6gy/kotlin_2026_layoffs_ai_google_is_the_golden_age/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Toolchain 0.12](https://www.reddit.com/r/Kotlin/comments/1wb727e/kotlin_toolchain_012/)
 - [Mutflow: mutation testing for Kotlin Multiplatform &lpar;JVM and Native targets&rpar;](https://www.reddit.com/r/Kotlin/comments/1wadqlc/mutflow_mutation_testing_for_kotlin_multiplatform/)
 - [Animating code snippets from first principles using Compose, and Shared Element transitions](https://www.reddit.com/r/Kotlin/comments/1wa7p1o/animating_code_snippets_from_first_principles/)
-- [Kotlin 2.4.20 Released](https://www.reddit.com/r/Kotlin/comments/1w9rsr8/kotlin_2420_released/)
-- [Neton: would Kotlin developers use a Spring Boot-like server framework built entirely on Kotlin/Native?](https://www.reddit.com/r/Kotlin/comments/1w96rj7/neton_would_kotlin_developers_use_a_spring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
