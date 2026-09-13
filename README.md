@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Keeps scrambling the contents of the CSV. Need Help](https://www.reddit.com/r/Kotlin/comments/1weus73/keeps_scrambling_the_contents_of_the_csv_need_help/)
 - [Migrating Shop app from React Native to native &lpar;2026&rpar;](https://www.reddit.com/r/Kotlin/comments/1wdxr07/migrating_shop_app_from_react_native_to_native/)
 - [Pehra is live on the Apple TV App Store, and the whole UI is Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1wdllh3/pehra_is_live_on_the_apple_tv_app_store_and_the/)
 - [My first app built with Kotlin Multiplatform &lpar;Smart Assistant with Video calls&rpar;](https://www.reddit.com/r/Kotlin/comments/1wcr75n/my_first_app_built_with_kotlin_multiplatform/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Full-stack Kotlin &lpar;Ktor + KVision + Kilua RPC + Exposed&rpar; for a real production app — plus a UML→Exposed/Flyway code-gen pipeline I&#39;d like feedback on](https://www.reddit.com/r/Kotlin/comments/1wbwy85/fullstack_kotlin_ktor_kvision_kilua_rpc_exposed/)
 - [Kotlin Toolchain 0.12](https://www.reddit.com/r/Kotlin/comments/1wb727e/kotlin_toolchain_012/)
 - [Mutflow: mutation testing for Kotlin Multiplatform &lpar;JVM and Native targets&rpar;](https://www.reddit.com/r/Kotlin/comments/1wadqlc/mutflow_mutation_testing_for_kotlin_multiplatform/)
-- [Animating code snippets from first principles using Compose, and Shared Element transitions](https://www.reddit.com/r/Kotlin/comments/1wa7p1o/animating_code_snippets_from_first_principles/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
