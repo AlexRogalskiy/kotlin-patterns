@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Launched my second book](https://www.reddit.com/r/Kotlin/comments/1wgqiy1/launched_my_second_book/)
+- [Firebase logins are intermittently succeeding and failing.](https://www.reddit.com/r/Kotlin/comments/1wgq4z8/firebase_logins_are_intermittently_succeeding_and/)
+- [Anyone developed Desktop apps with KMP? How was the experience](https://www.reddit.com/r/Kotlin/comments/1wgcdbf/anyone_developed_desktop_apps_with_kmp_how_was/)
+- [My first app in Kotlin](https://www.reddit.com/r/Kotlin/comments/1wga9cp/my_first_app_in_kotlin/)
+- [What&#39;s New in Kotlin 2.4.20](https://www.reddit.com/r/Kotlin/comments/1wg4nhd/whats_new_in_kotlin_2420/)
 - [Open-sourcing an Android &amp; Android TV streaming client built with Media3 ExoPlayer and Leanback UI](https://www.reddit.com/r/Kotlin/comments/1wf9jcf/opensourcing_an_android_android_tv_streaming/)
 - [Open-sourcing my Compose Multiplatform Music Player &lpar;Android/Windows/Linux&rpar; - Looking for architecture feedback!](https://www.reddit.com/r/Kotlin/comments/1wf2cpp/opensourcing_my_compose_multiplatform_music/)
 - [Keeps scrambling the contents of the CSV. Need Help](https://www.reddit.com/r/Kotlin/comments/1weus73/keeps_scrambling_the_contents_of_the_csv_need_help/)
 - [Migrating Shop app from React Native to native &lpar;2026&rpar;](https://www.reddit.com/r/Kotlin/comments/1wdxr07/migrating_shop_app_from_react_native_to_native/)
 - [Pehra is live on the Apple TV App Store, and the whole UI is Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1wdllh3/pehra_is_live_on_the_apple_tv_app_store_and_the/)
-- [My first app built with Kotlin Multiplatform &lpar;Smart Assistant with Video calls&rpar;](https://www.reddit.com/r/Kotlin/comments/1wcr75n/my_first_app_built_with_kotlin_multiplatform/)
-- [Custom pull-to-refresh animation with Rive + Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1wcoid3/custom_pulltorefresh_animation_with_rive_jetpack/)
-- [Kotlin 2026: Layoffs, AI, Google — Is the Golden Age Over? Jake Wharton Explains](https://www.reddit.com/r/Kotlin/comments/1wco6gy/kotlin_2026_layoffs_ai_google_is_the_golden_age/)
-- [Kromium – A zero-bloat Chromium engine for Java, Kotlin, and Compose Desktop](https://www.reddit.com/r/Kotlin/comments/1wc4l7m/kromium_a_zerobloat_chromium_engine_for_java/)
-- [Full-stack Kotlin &lpar;Ktor + KVision + Kilua RPC + Exposed&rpar; for a real production app — plus a UML→Exposed/Flyway code-gen pipeline I&#39;d like feedback on](https://www.reddit.com/r/Kotlin/comments/1wbwy85/fullstack_kotlin_ktor_kvision_kilua_rpc_exposed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
