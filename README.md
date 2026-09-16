@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Launched my second book](https://www.reddit.com/r/Kotlin/comments/1wgqiy1/launched_my_second_book/)
+- [Is native Android kotlin dead ?](https://www.reddit.com/r/Kotlin/comments/1whb5v7/is_native_android_kotlin_dead/)
+- [Kotlin Coroutines User Research — Looking for Participants](https://www.reddit.com/r/Kotlin/comments/1wgya2b/kotlin_coroutines_user_research_looking_for/)
+- [Symbanta: how to improve Fabrikt + OpenAPI gen? code review would be very helpful! free &amp; open-source privacy-friendly web analytics API + dashboard](https://www.reddit.com/r/Kotlin/comments/1wgx256/symbanta_how_to_improve_fabrikt_openapi_gen_code/)
+- [I Made an Android Developer Roadmap — What Would You Add or Change?](https://www.reddit.com/r/Kotlin/comments/1wgtg3b/i_made_an_android_developer_roadmap_what_would/)
 - [Firebase logins are intermittently succeeding and failing.](https://www.reddit.com/r/Kotlin/comments/1wgq4z8/firebase_logins_are_intermittently_succeeding_and/)
 - [Anyone developed Desktop apps with KMP? How was the experience](https://www.reddit.com/r/Kotlin/comments/1wgcdbf/anyone_developed_desktop_apps_with_kmp_how_was/)
-- [My first app in Kotlin](https://www.reddit.com/r/Kotlin/comments/1wga9cp/my_first_app_in_kotlin/)
 - [What&#39;s New in Kotlin 2.4.20](https://www.reddit.com/r/Kotlin/comments/1wg4nhd/whats_new_in_kotlin_2420/)
 - [Open-sourcing an Android &amp; Android TV streaming client built with Media3 ExoPlayer and Leanback UI](https://www.reddit.com/r/Kotlin/comments/1wf9jcf/opensourcing_an_android_android_tv_streaming/)
 - [Open-sourcing my Compose Multiplatform Music Player &lpar;Android/Windows/Linux&rpar; - Looking for architecture feedback!](https://www.reddit.com/r/Kotlin/comments/1wf2cpp/opensourcing_my_compose_multiplatform_music/)
 - [Keeps scrambling the contents of the CSV. Need Help](https://www.reddit.com/r/Kotlin/comments/1weus73/keeps_scrambling_the_contents_of_the_csv_need_help/)
-- [Migrating Shop app from React Native to native &lpar;2026&rpar;](https://www.reddit.com/r/Kotlin/comments/1wdxr07/migrating_shop_app_from_react_native_to_native/)
-- [Pehra is live on the Apple TV App Store, and the whole UI is Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1wdllh3/pehra_is_live_on_the_apple_tv_app_store_and_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
