@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I released ComposeA11yScanner 3.0.0 — a runtime accessibility scanner for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1wik6qq/i_released_composea11yscanner_300_a_runtime/)
+- [[Java/Kt] Your GraphQL client shouldn&#39;t make you write its generics for it](https://www.reddit.com/r/Kotlin/comments/1wie7xv/javakt_your_graphql_client_shouldnt_make_you/)
+- [Introducing Apache Fory JSON for Kotlin/JVM: High-Performance JSON Serialization with up to 12.12× Throughput](https://www.reddit.com/r/Kotlin/comments/1wi1vzo/introducing_apache_fory_json_for_kotlinjvm/)
 - [Is native Android kotlin dead ?](https://www.reddit.com/r/Kotlin/comments/1whb5v7/is_native_android_kotlin_dead/)
 - [Kotlin Coroutines User Research — Looking for Participants](https://www.reddit.com/r/Kotlin/comments/1wgya2b/kotlin_coroutines_user_research_looking_for/)
 - [Symbanta: how to improve Fabrikt + OpenAPI gen? code review would be very helpful! free &amp; open-source privacy-friendly web analytics API + dashboard](https://www.reddit.com/r/Kotlin/comments/1wgx256/symbanta_how_to_improve_fabrikt_openapi_gen_code/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Firebase logins are intermittently succeeding and failing.](https://www.reddit.com/r/Kotlin/comments/1wgq4z8/firebase_logins_are_intermittently_succeeding_and/)
 - [Anyone developed Desktop apps with KMP? How was the experience](https://www.reddit.com/r/Kotlin/comments/1wgcdbf/anyone_developed_desktop_apps_with_kmp_how_was/)
 - [What&#39;s New in Kotlin 2.4.20](https://www.reddit.com/r/Kotlin/comments/1wg4nhd/whats_new_in_kotlin_2420/)
-- [Open-sourcing an Android &amp; Android TV streaming client built with Media3 ExoPlayer and Leanback UI](https://www.reddit.com/r/Kotlin/comments/1wf9jcf/opensourcing_an_android_android_tv_streaming/)
-- [Open-sourcing my Compose Multiplatform Music Player &lpar;Android/Windows/Linux&rpar; - Looking for architecture feedback!](https://www.reddit.com/r/Kotlin/comments/1wf2cpp/opensourcing_my_compose_multiplatform_music/)
-- [Keeps scrambling the contents of the CSV. Need Help](https://www.reddit.com/r/Kotlin/comments/1weus73/keeps_scrambling_the_contents_of_the_csv_need_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
