@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CivicScope: an offline-first Congress tracker in Kotlin/Compose &lpar;solo project, 100% Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1wjdmca/civicscope_an_offlinefirst_congress_tracker_in/)
+- [JDK 27 is here](https://www.reddit.com/r/Kotlin/comments/1wiw83s/jdk_27_is_here/)
+- [This year&#39;s all-in-one Kotlin Developer Survey &lpar;2026&rpar;](https://www.reddit.com/r/Kotlin/comments/1wis93l/this_years_allinone_kotlin_developer_survey_2026/)
 - [I released ComposeA11yScanner 3.0.0 — a runtime accessibility scanner for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1wik6qq/i_released_composea11yscanner_300_a_runtime/)
 - [[Java/Kt] Your GraphQL client shouldn&#39;t make you write its generics for it](https://www.reddit.com/r/Kotlin/comments/1wie7xv/javakt_your_graphql_client_shouldnt_make_you/)
 - [Introducing Apache Fory JSON for Kotlin/JVM: High-Performance JSON Serialization with up to 12.12× Throughput](https://www.reddit.com/r/Kotlin/comments/1wi1vzo/introducing_apache_fory_json_for_kotlinjvm/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Kotlin Coroutines User Research — Looking for Participants](https://www.reddit.com/r/Kotlin/comments/1wgya2b/kotlin_coroutines_user_research_looking_for/)
 - [Symbanta: how to improve Fabrikt + OpenAPI gen? code review would be very helpful! free &amp; open-source privacy-friendly web analytics API + dashboard](https://www.reddit.com/r/Kotlin/comments/1wgx256/symbanta_how_to_improve_fabrikt_openapi_gen_code/)
 - [I Made an Android Developer Roadmap — What Would You Add or Change?](https://www.reddit.com/r/Kotlin/comments/1wgtg3b/i_made_an_android_developer_roadmap_what_would/)
-- [Firebase logins are intermittently succeeding and failing.](https://www.reddit.com/r/Kotlin/comments/1wgq4z8/firebase_logins_are_intermittently_succeeding_and/)
-- [Anyone developed Desktop apps with KMP? How was the experience](https://www.reddit.com/r/Kotlin/comments/1wgcdbf/anyone_developed_desktop_apps_with_kmp_how_was/)
-- [What&#39;s New in Kotlin 2.4.20](https://www.reddit.com/r/Kotlin/comments/1wg4nhd/whats_new_in_kotlin_2420/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
