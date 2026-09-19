@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Drawer | Compose Unstyled](https://www.reddit.com/r/Kotlin/comments/1wk9p43/drawer_compose_unstyled/)
+- [Coroutine mutex starvation from one failed child](https://www.reddit.com/r/Kotlin/comments/1wk1ylg/coroutine_mutex_starvation_from_one_failed_child/)
 - [CivicScope: an offline-first Congress tracker in Kotlin/Compose &lpar;solo project, 100% Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1wjdmca/civicscope_an_offlinefirst_congress_tracker_in/)
 - [JDK 27 is here](https://www.reddit.com/r/Kotlin/comments/1wiw83s/jdk_27_is_here/)
 - [This year&#39;s all-in-one Kotlin Developer Survey &lpar;2026&rpar;](https://www.reddit.com/r/Kotlin/comments/1wis93l/this_years_allinone_kotlin_developer_survey_2026/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Introducing Apache Fory JSON for Kotlin/JVM: High-Performance JSON Serialization with up to 12.12× Throughput](https://www.reddit.com/r/Kotlin/comments/1wi1vzo/introducing_apache_fory_json_for_kotlinjvm/)
 - [Is native Android kotlin dead ?](https://www.reddit.com/r/Kotlin/comments/1whb5v7/is_native_android_kotlin_dead/)
 - [Kotlin Coroutines User Research — Looking for Participants](https://www.reddit.com/r/Kotlin/comments/1wgya2b/kotlin_coroutines_user_research_looking_for/)
-- [Symbanta: how to improve Fabrikt + OpenAPI gen? code review would be very helpful! free &amp; open-source privacy-friendly web analytics API + dashboard](https://www.reddit.com/r/Kotlin/comments/1wgx256/symbanta_how_to_improve_fabrikt_openapi_gen_code/)
-- [I Made an Android Developer Roadmap — What Would You Add or Change?](https://www.reddit.com/r/Kotlin/comments/1wgtg3b/i_made_an_android_developer_roadmap_what_would/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
