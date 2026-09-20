@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Chasm 2.0 - Kotlin Multiplatform Wasm runtime](https://www.reddit.com/r/Kotlin/comments/1wkzcfa/chasm_20_kotlin_multiplatform_wasm_runtime/)
+- [Building Datasmith - an interactive ERD canvas with Compose Multiplatform/Desktop](https://www.reddit.com/r/Kotlin/comments/1wkip2m/building_datasmith_an_interactive_erd_canvas_with/)
 - [Drawer | Compose Unstyled](https://www.reddit.com/r/Kotlin/comments/1wk9p43/drawer_compose_unstyled/)
 - [Coroutine mutex starvation from one failed child](https://www.reddit.com/r/Kotlin/comments/1wk1ylg/coroutine_mutex_starvation_from_one_failed_child/)
 - [CivicScope: an offline-first Congress tracker in Kotlin/Compose &lpar;solo project, 100% Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1wjdmca/civicscope_an_offlinefirst_congress_tracker_in/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I released ComposeA11yScanner 3.0.0 — a runtime accessibility scanner for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1wik6qq/i_released_composea11yscanner_300_a_runtime/)
 - [[Java/Kt] Your GraphQL client shouldn&#39;t make you write its generics for it](https://www.reddit.com/r/Kotlin/comments/1wie7xv/javakt_your_graphql_client_shouldnt_make_you/)
 - [Introducing Apache Fory JSON for Kotlin/JVM: High-Performance JSON Serialization with up to 12.12× Throughput](https://www.reddit.com/r/Kotlin/comments/1wi1vzo/introducing_apache_fory_json_for_kotlinjvm/)
-- [Is native Android kotlin dead ?](https://www.reddit.com/r/Kotlin/comments/1whb5v7/is_native_android_kotlin_dead/)
-- [Kotlin Coroutines User Research — Looking for Participants](https://www.reddit.com/r/Kotlin/comments/1wgya2b/kotlin_coroutines_user_research_looking_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
