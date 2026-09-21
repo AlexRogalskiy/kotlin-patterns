@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What if Kotlin/Native evolved into an ARC-based general-purpose native systems language?](https://www.reddit.com/r/Kotlin/comments/1wlibdi/what_if_kotlinnative_evolved_into_an_arcbased/)
+- [It is possible to get a remote work as a developer with years of experience who recently switched to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1wlfu99/it_is_possible_to_get_a_remote_work_as_a/)
 - [Chasm 2.0 - Kotlin Multiplatform Wasm runtime](https://www.reddit.com/r/Kotlin/comments/1wkzcfa/chasm_20_kotlin_multiplatform_wasm_runtime/)
 - [Building Datasmith - an interactive ERD canvas with Compose Multiplatform/Desktop](https://www.reddit.com/r/Kotlin/comments/1wkip2m/building_datasmith_an_interactive_erd_canvas_with/)
 - [Drawer | Compose Unstyled](https://www.reddit.com/r/Kotlin/comments/1wk9p43/drawer_compose_unstyled/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [JDK 27 is here](https://www.reddit.com/r/Kotlin/comments/1wiw83s/jdk_27_is_here/)
 - [This year&#39;s all-in-one Kotlin Developer Survey &lpar;2026&rpar;](https://www.reddit.com/r/Kotlin/comments/1wis93l/this_years_allinone_kotlin_developer_survey_2026/)
 - [I released ComposeA11yScanner 3.0.0 — a runtime accessibility scanner for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1wik6qq/i_released_composea11yscanner_300_a_runtime/)
-- [[Java/Kt] Your GraphQL client shouldn&#39;t make you write its generics for it](https://www.reddit.com/r/Kotlin/comments/1wie7xv/javakt_your_graphql_client_shouldnt_make_you/)
-- [Introducing Apache Fory JSON for Kotlin/JVM: High-Performance JSON Serialization with up to 12.12× Throughput](https://www.reddit.com/r/Kotlin/comments/1wi1vzo/introducing_apache_fory_json_for_kotlinjvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
