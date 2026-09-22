@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ktor 3.6.0 Is Now Available!](https://www.reddit.com/r/Kotlin/comments/1wmawpo/ktor_360_is_now_available/)
+- [Kotlin vs Java, Is Java still worth learning?](https://www.reddit.com/r/Kotlin/comments/1wm44ds/kotlin_vs_java_is_java_still_worth_learning/)
 - [What if Kotlin/Native evolved into an ARC-based general-purpose native systems language?](https://www.reddit.com/r/Kotlin/comments/1wlibdi/what_if_kotlinnative_evolved_into_an_arcbased/)
 - [It is possible to get a remote work as a developer with years of experience who recently switched to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1wlfu99/it_is_possible_to_get_a_remote_work_as_a/)
 - [Chasm 2.0 - Kotlin Multiplatform Wasm runtime](https://www.reddit.com/r/Kotlin/comments/1wkzcfa/chasm_20_kotlin_multiplatform_wasm_runtime/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Coroutine mutex starvation from one failed child](https://www.reddit.com/r/Kotlin/comments/1wk1ylg/coroutine_mutex_starvation_from_one_failed_child/)
 - [CivicScope: an offline-first Congress tracker in Kotlin/Compose &lpar;solo project, 100% Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1wjdmca/civicscope_an_offlinefirst_congress_tracker_in/)
 - [JDK 27 is here](https://www.reddit.com/r/Kotlin/comments/1wiw83s/jdk_27_is_here/)
-- [This year&#39;s all-in-one Kotlin Developer Survey &lpar;2026&rpar;](https://www.reddit.com/r/Kotlin/comments/1wis93l/this_years_allinone_kotlin_developer_survey_2026/)
-- [I released ComposeA11yScanner 3.0.0 — a runtime accessibility scanner for Jetpack Compose](https://www.reddit.com/r/Kotlin/comments/1wik6qq/i_released_composea11yscanner_300_a_runtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
