@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fixing coroutine stack traces with Decoroutinator](https://www.reddit.com/r/Kotlin/comments/1wnn8lp/fixing_coroutine_stack_traces_with_decoroutinator/)
+- [JavaFX 27 as a GraalVM Native Image on a Raspberry Pi 5](https://www.reddit.com/r/Kotlin/comments/1wngfwt/javafx_27_as_a_graalvm_native_image_on_a/)
+- [Haze 2.0](https://www.reddit.com/r/Kotlin/comments/1wn6xka/haze_20/)
+- [Is kotlin used for all application development too ?](https://www.reddit.com/r/Kotlin/comments/1wn67o3/is_kotlin_used_for_all_application_development_too/)
 - [Ktor 3.6.0 Is Now Available!](https://www.reddit.com/r/Kotlin/comments/1wmawpo/ktor_360_is_now_available/)
 - [Kotlin vs Java, Is Java still worth learning?](https://www.reddit.com/r/Kotlin/comments/1wm44ds/kotlin_vs_java_is_java_still_worth_learning/)
 - [What if Kotlin/Native evolved into an ARC-based general-purpose native systems language?](https://www.reddit.com/r/Kotlin/comments/1wlibdi/what_if_kotlinnative_evolved_into_an_arcbased/)
 - [It is possible to get a remote work as a developer with years of experience who recently switched to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1wlfu99/it_is_possible_to_get_a_remote_work_as_a/)
 - [Chasm 2.0 - Kotlin Multiplatform Wasm runtime](https://www.reddit.com/r/Kotlin/comments/1wkzcfa/chasm_20_kotlin_multiplatform_wasm_runtime/)
 - [Building Datasmith - an interactive ERD canvas with Compose Multiplatform/Desktop](https://www.reddit.com/r/Kotlin/comments/1wkip2m/building_datasmith_an_interactive_erd_canvas_with/)
-- [Drawer | Compose Unstyled](https://www.reddit.com/r/Kotlin/comments/1wk9p43/drawer_compose_unstyled/)
-- [Coroutine mutex starvation from one failed child](https://www.reddit.com/r/Kotlin/comments/1wk1ylg/coroutine_mutex_starvation_from_one_failed_child/)
-- [CivicScope: an offline-first Congress tracker in Kotlin/Compose &lpar;solo project, 100% Kotlin&rpar;](https://www.reddit.com/r/Kotlin/comments/1wjdmca/civicscope_an_offlinefirst_congress_tracker_in/)
-- [JDK 27 is here](https://www.reddit.com/r/Kotlin/comments/1wiw83s/jdk_27_is_here/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
