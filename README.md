@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just realized I have this habit of not pushing to GitHub till I’m completely done with the project](https://www.reddit.com/r/Kotlin/comments/1wpcbt8/just_realized_i_have_this_habit_of_not_pushing_to/)
+- [Coroutines: why does parent coroutine get cancelled when child throws an exception?](https://www.reddit.com/r/Kotlin/comments/1wp5obg/coroutines_why_does_parent_coroutine_get/)
+- [Should Java developers move to Kotlin ??](https://www.reddit.com/r/Kotlin/comments/1wp2qkr/should_java_developers_move_to_kotlin/)
+- [Kotlin can now access NVIDIA’s CUDA and cuTile through TornadoVM](https://www.reddit.com/r/Kotlin/comments/1wp2jx0/kotlin_can_now_access_nvidias_cuda_and_cutile/)
+- [I built an open-source Android Device Owner app for locally restricting apps](https://www.reddit.com/r/Kotlin/comments/1wovlgy/i_built_an_opensource_android_device_owner_app/)
 - [Fixing coroutine stack traces with Decoroutinator](https://www.reddit.com/r/Kotlin/comments/1wnn8lp/fixing_coroutine_stack_traces_with_decoroutinator/)
 - [JavaFX 27 as a GraalVM Native Image on a Raspberry Pi 5](https://www.reddit.com/r/Kotlin/comments/1wngfwt/javafx_27_as_a_graalvm_native_image_on_a/)
 - [Haze 2.0](https://www.reddit.com/r/Kotlin/comments/1wn6xka/haze_20/)
 - [Is kotlin used for all application development too ?](https://www.reddit.com/r/Kotlin/comments/1wn67o3/is_kotlin_used_for_all_application_development_too/)
 - [Ktor 3.6.0 Is Now Available!](https://www.reddit.com/r/Kotlin/comments/1wmawpo/ktor_360_is_now_available/)
-- [Kotlin vs Java, Is Java still worth learning?](https://www.reddit.com/r/Kotlin/comments/1wm44ds/kotlin_vs_java_is_java_still_worth_learning/)
-- [What if Kotlin/Native evolved into an ARC-based general-purpose native systems language?](https://www.reddit.com/r/Kotlin/comments/1wlibdi/what_if_kotlinnative_evolved_into_an_arcbased/)
-- [It is possible to get a remote work as a developer with years of experience who recently switched to Kotlin?](https://www.reddit.com/r/Kotlin/comments/1wlfu99/it_is_possible_to_get_a_remote_work_as_a/)
-- [Chasm 2.0 - Kotlin Multiplatform Wasm runtime](https://www.reddit.com/r/Kotlin/comments/1wkzcfa/chasm_20_kotlin_multiplatform_wasm_runtime/)
-- [Building Datasmith - an interactive ERD canvas with Compose Multiplatform/Desktop](https://www.reddit.com/r/Kotlin/comments/1wkip2m/building_datasmith_an_interactive_erd_canvas_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
