@@ -272,9 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just realized I have this habit of not pushing to GitHub till I’m completely done with the project](https://www.reddit.com/r/Kotlin/comments/1wpcbt8/just_realized_i_have_this_habit_of_not_pushing_to/)
+- [Why are some coroutine scope creators suspending functions?](https://www.reddit.com/r/Kotlin/comments/1wqhuce/why_are_some_coroutine_scope_creators_suspending/)
+- [midden: a fast MAT alternative for JVM heap dumps](https://www.reddit.com/r/Kotlin/comments/1wpvyvq/midden_a_fast_mat_alternative_for_jvm_heap_dumps/)
 - [Coroutines: why does parent coroutine get cancelled when child throws an exception?](https://www.reddit.com/r/Kotlin/comments/1wp5obg/coroutines_why_does_parent_coroutine_get/)
-- [Should Java developers move to Kotlin ??](https://www.reddit.com/r/Kotlin/comments/1wp2qkr/should_java_developers_move_to_kotlin/)
 - [Kotlin can now access NVIDIA’s CUDA and cuTile through TornadoVM](https://www.reddit.com/r/Kotlin/comments/1wp2jx0/kotlin_can_now_access_nvidias_cuda_and_cutile/)
 - [I built an open-source Android Device Owner app for locally restricting apps](https://www.reddit.com/r/Kotlin/comments/1wovlgy/i_built_an_opensource_android_device_owner_app/)
 - [Fixing coroutine stack traces with Decoroutinator](https://www.reddit.com/r/Kotlin/comments/1wnn8lp/fixing_coroutine_stack_traces_with_decoroutinator/)
