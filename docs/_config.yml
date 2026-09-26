@@ -4,7 +4,9 @@ permalink: pretty
 
 baseurl: https://github.com/AlexRogalskiy/android-patterns
 title: Kotlin Design Patterns
-description: Explores different architectural concepts and design principles for Kotlin applications
+description:
+  Explores different architectural concepts and design principles for Kotlin
+  applications
 
 author: Alexander Rogalskiy
 
