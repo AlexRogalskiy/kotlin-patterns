@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Union class in Kotlin](https://www.reddit.com/r/Kotlin/comments/1wqoz4f/union_class_in_kotlin/)
+- [I am selling my Android app &lpar;BeatBrand&rpar;, it bassically a app for people with local business and have to create images for there new products- this app takes images and auto add there brand logo , product name, price, etc in beautifull templates.....](https://www.reddit.com/r/Kotlin/comments/1wqnh0d/i_am_selling_my_android_app_beatbrand_it/)
+- [I built dimock: inspect and mock OkHttp responses on the device, by hand or through Claude Code / Cursor](https://www.reddit.com/r/Kotlin/comments/1wqnd8v/i_built_dimock_inspect_and_mock_okhttp_responses/)
 - [Why are some coroutine scope creators suspending functions?](https://www.reddit.com/r/Kotlin/comments/1wqhuce/why_are_some_coroutine_scope_creators_suspending/)
 - [midden: a fast MAT alternative for JVM heap dumps](https://www.reddit.com/r/Kotlin/comments/1wpvyvq/midden_a_fast_mat_alternative_for_jvm_heap_dumps/)
 - [Coroutines: why does parent coroutine get cancelled when child throws an exception?](https://www.reddit.com/r/Kotlin/comments/1wp5obg/coroutines_why_does_parent_coroutine_get/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I built an open-source Android Device Owner app for locally restricting apps](https://www.reddit.com/r/Kotlin/comments/1wovlgy/i_built_an_opensource_android_device_owner_app/)
 - [Fixing coroutine stack traces with Decoroutinator](https://www.reddit.com/r/Kotlin/comments/1wnn8lp/fixing_coroutine_stack_traces_with_decoroutinator/)
 - [JavaFX 27 as a GraalVM Native Image on a Raspberry Pi 5](https://www.reddit.com/r/Kotlin/comments/1wngfwt/javafx_27_as_a_graalvm_native_image_on_a/)
-- [Haze 2.0](https://www.reddit.com/r/Kotlin/comments/1wn6xka/haze_20/)
-- [Is kotlin used for all application development too ?](https://www.reddit.com/r/Kotlin/comments/1wn67o3/is_kotlin_used_for_all_application_development_too/)
-- [Ktor 3.6.0 Is Now Available!](https://www.reddit.com/r/Kotlin/comments/1wmawpo/ktor_360_is_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
