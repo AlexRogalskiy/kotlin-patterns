@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing the Builder Lambda plug-in](https://www.reddit.com/r/Kotlin/comments/1wsobth/announcing_the_builder_lambda_plugin/)
+- [A More Reliable Compilation Scheme for Kotlin Multiplatform Modules](https://www.reddit.com/r/Kotlin/comments/1wsh0r4/a_more_reliable_compilation_scheme_for_kotlin/)
 - [I made a tool that turns your @Composable Previews into embeddable scripts for your blogs, docs and websites](https://www.reddit.com/r/Kotlin/comments/1ws6gns/i_made_a_tool_that_turns_your_composable_previews/)
 - [How we&#39;re using Kotlin Multiplatform for Mobile, Desktop, Web and Server — as a single developer](https://www.reddit.com/r/Kotlin/comments/1ws62ta/how_were_using_kotlin_multiplatform_for_mobile/)
 - [Which Companies Are Best for Modernizing Legacy Enterprise Applications?](https://www.reddit.com/r/Kotlin/comments/1wrvxa8/which_companies_are_best_for_modernizing_legacy/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Finally built the app idea I&#39;d been sitting on for years, entirely in Kotlin](https://www.reddit.com/r/Kotlin/comments/1wrd0ug/finally_built_the_app_idea_id_been_sitting_on_for/)
 - [Union class in Kotlin](https://www.reddit.com/r/Kotlin/comments/1wqoz4f/union_class_in_kotlin/)
 - [I am selling my Android app &lpar;BeatBrand&rpar;, it bassically a app for people with local business and have to create images for there new products- this app takes images and auto add there brand logo , product name, price, etc in beautifull templates.....](https://www.reddit.com/r/Kotlin/comments/1wqnh0d/i_am_selling_my_android_app_beatbrand_it/)
-- [I built dimock: inspect and mock OkHttp responses on the device, by hand or through Claude Code / Cursor](https://www.reddit.com/r/Kotlin/comments/1wqnd8v/i_built_dimock_inspect_and_mock_okhttp_responses/)
-- [Why are some coroutine scope creators suspending functions?](https://www.reddit.com/r/Kotlin/comments/1wqhuce/why_are_some_coroutine_scope_creators_suspending/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
