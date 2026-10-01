@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Offline Support for Compose Multiplatform Web Apps · terrakok](https://www.reddit.com/r/Kotlin/comments/1wuoqhx/offline_support_for_compose_multiplatform_web/)
+- [Have anyone here tried XR with Kotlin? What&#39;s your take on XR + AI](https://www.reddit.com/r/Kotlin/comments/1wubaow/have_anyone_here_tried_xr_with_kotlin_whats_your/)
+- [I built a CLI to set up Firebase in Kotlin Multiplatform / Compose Multiplatform projects](https://www.reddit.com/r/Kotlin/comments/1wuaorh/i_built_a_cli_to_set_up_firebase_in_kotlin/)
+- [The State of Kotlin in 2026 Report](https://www.reddit.com/r/Kotlin/comments/1wu51ai/the_state_of_kotlin_in_2026_report/)
+- [Take part in a JetBrains research interview: How do you use AI with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1wu4b16/take_part_in_a_jetbrains_research_interview_how/)
 - [KitePlayer v0.2.0: the first Kotlin/Native media player for KMP that doesn&#39;t wrap ExoPlayer or AVPlayer](https://www.reddit.com/r/Kotlin/comments/1wtqyb8/kiteplayer_v020_the_first_kotlinnative_media/)
 - [Announcing the Builder Lambda plug-in](https://www.reddit.com/r/Kotlin/comments/1wsobth/announcing_the_builder_lambda_plugin/)
 - [A More Reliable Compilation Scheme for Kotlin Multiplatform Modules](https://www.reddit.com/r/Kotlin/comments/1wsh0r4/a_more_reliable_compilation_scheme_for_kotlin/)
 - [I made a tool that turns your @Composable Previews into embeddable scripts for your blogs, docs and websites](https://www.reddit.com/r/Kotlin/comments/1ws6gns/i_made_a_tool_that_turns_your_composable_previews/)
 - [How we&#39;re using Kotlin Multiplatform for Mobile, Desktop, Web and Server — as a single developer](https://www.reddit.com/r/Kotlin/comments/1ws62ta/how_were_using_kotlin_multiplatform_for_mobile/)
-- [Which Companies Are Best for Modernizing Legacy Enterprise Applications?](https://www.reddit.com/r/Kotlin/comments/1wrvxa8/which_companies_are_best_for_modernizing_legacy/)
-- [I kept getting lost in Find Usages rabbit holes, so I built a call graph plugin for IntelliJ / Android Studio](https://www.reddit.com/r/Kotlin/comments/1wrkw3n/i_kept_getting_lost_in_find_usages_rabbit_holes/)
-- [Finally built the app idea I&#39;d been sitting on for years, entirely in Kotlin](https://www.reddit.com/r/Kotlin/comments/1wrd0ug/finally_built_the_app_idea_id_been_sitting_on_for/)
-- [Union class in Kotlin](https://www.reddit.com/r/Kotlin/comments/1wqoz4f/union_class_in_kotlin/)
-- [I am selling my Android app &lpar;BeatBrand&rpar;, it bassically a app for people with local business and have to create images for there new products- this app takes images and auto add there brand logo , product name, price, etc in beautifull templates.....](https://www.reddit.com/r/Kotlin/comments/1wqnh0d/i_am_selling_my_android_app_beatbrand_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
