@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin vs Flutter? When to Choose One Over the Other](https://www.reddit.com/r/Kotlin/comments/1wv6odg/kotlin_vs_flutter_when_to_choose_one_over_the/)
+- [We built e2e - open source AI testing framework for Android apps](https://www.reddit.com/r/Kotlin/comments/1wv618j/we_built_e2e_open_source_ai_testing_framework_for/)
+- [Kotlin, Android, and community with Martin Bonnin](https://www.reddit.com/r/Kotlin/comments/1wv4ofv/kotlin_android_and_community_with_martin_bonnin/)
 - [Offline Support for Compose Multiplatform Web Apps · terrakok](https://www.reddit.com/r/Kotlin/comments/1wuoqhx/offline_support_for_compose_multiplatform_web/)
 - [Have anyone here tried XR with Kotlin? What&#39;s your take on XR + AI](https://www.reddit.com/r/Kotlin/comments/1wubaow/have_anyone_here_tried_xr_with_kotlin_whats_your/)
 - [I built a CLI to set up Firebase in Kotlin Multiplatform / Compose Multiplatform projects](https://www.reddit.com/r/Kotlin/comments/1wuaorh/i_built_a_cli_to_set_up_firebase_in_kotlin/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Take part in a JetBrains research interview: How do you use AI with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1wu4b16/take_part_in_a_jetbrains_research_interview_how/)
 - [KitePlayer v0.2.0: the first Kotlin/Native media player for KMP that doesn&#39;t wrap ExoPlayer or AVPlayer](https://www.reddit.com/r/Kotlin/comments/1wtqyb8/kiteplayer_v020_the_first_kotlinnative_media/)
 - [Announcing the Builder Lambda plug-in](https://www.reddit.com/r/Kotlin/comments/1wsobth/announcing_the_builder_lambda_plugin/)
-- [A More Reliable Compilation Scheme for Kotlin Multiplatform Modules](https://www.reddit.com/r/Kotlin/comments/1wsh0r4/a_more_reliable_compilation_scheme_for_kotlin/)
-- [I made a tool that turns your @Composable Previews into embeddable scripts for your blogs, docs and websites](https://www.reddit.com/r/Kotlin/comments/1ws6gns/i_made_a_tool_that_turns_your_composable_previews/)
-- [How we&#39;re using Kotlin Multiplatform for Mobile, Desktop, Web and Server — as a single developer](https://www.reddit.com/r/Kotlin/comments/1ws62ta/how_were_using_kotlin_multiplatform_for_mobile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
