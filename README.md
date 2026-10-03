@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lapis Net — a fully decentralized P2P social network protocol in Kotlin/JVM &lpar;Apache 2.0&rpar;. Prototype stage, looking for feedback and criticism](https://www.reddit.com/r/Kotlin/comments/1ww1v5p/lapis_net_a_fully_decentralized_p2p_social/)
+- [sqlx4k 1.14.0 released: optimistic locking, savepoints, MariaDB batch inserts](https://www.reddit.com/r/Kotlin/comments/1wvzzod/sqlx4k_1140_released_optimistic_locking/)
+- [GitHub Action for Kotlin Toolchain CLI &lpar;Amper&rpar; with caching](https://www.reddit.com/r/Kotlin/comments/1wvoklo/github_action_for_kotlin_toolchain_cli_amper_with/)
+- [Uncaught exceptions and Supervisor Jobs](https://www.reddit.com/r/Kotlin/comments/1wvmik5/uncaught_exceptions_and_supervisor_jobs/)
 - [Kotlin vs Flutter? When to Choose One Over the Other](https://www.reddit.com/r/Kotlin/comments/1wv6odg/kotlin_vs_flutter_when_to_choose_one_over_the/)
 - [We built e2e - open source AI testing framework for Android apps](https://www.reddit.com/r/Kotlin/comments/1wv618j/we_built_e2e_open_source_ai_testing_framework_for/)
 - [Kotlin, Android, and community with Martin Bonnin](https://www.reddit.com/r/Kotlin/comments/1wv4ofv/kotlin_android_and_community_with_martin_bonnin/)
 - [Offline Support for Compose Multiplatform Web Apps · terrakok](https://www.reddit.com/r/Kotlin/comments/1wuoqhx/offline_support_for_compose_multiplatform_web/)
 - [Have anyone here tried XR with Kotlin? What&#39;s your take on XR + AI](https://www.reddit.com/r/Kotlin/comments/1wubaow/have_anyone_here_tried_xr_with_kotlin_whats_your/)
 - [I built a CLI to set up Firebase in Kotlin Multiplatform / Compose Multiplatform projects](https://www.reddit.com/r/Kotlin/comments/1wuaorh/i_built_a_cli_to_set_up_firebase_in_kotlin/)
-- [The State of Kotlin in 2026 Report](https://www.reddit.com/r/Kotlin/comments/1wu51ai/the_state_of_kotlin_in_2026_report/)
-- [Take part in a JetBrains research interview: How do you use AI with Kotlin?](https://www.reddit.com/r/Kotlin/comments/1wu4b16/take_part_in_a_jetbrains_research_interview_how/)
-- [KitePlayer v0.2.0: the first Kotlin/Native media player for KMP that doesn&#39;t wrap ExoPlayer or AVPlayer](https://www.reddit.com/r/Kotlin/comments/1wtqyb8/kiteplayer_v020_the_first_kotlinnative_media/)
-- [Announcing the Builder Lambda plug-in](https://www.reddit.com/r/Kotlin/comments/1wsobth/announcing_the_builder_lambda_plugin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
