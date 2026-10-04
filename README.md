@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Prosa.kt - Declarative code generation for Kotlin](https://www.reddit.com/r/Kotlin/comments/1wx8g00/prosakt_declarative_code_generation_for_kotlin/)
+- [Which is best kotlin course on udemy or youtube!!?](https://www.reddit.com/r/Kotlin/comments/1wwudzc/which_is_best_kotlin_course_on_udemy_or_youtube/)
+- [Even if Premium, still open-sauce. 🍅](https://www.reddit.com/r/Kotlin/comments/1wwuagv/even_if_premium_still_opensauce/)
+- [5 years into Android, 8 months of heavy Claude Code use — am I getting too dependent on AI?](https://www.reddit.com/r/Kotlin/comments/1wwrpnc/5_years_into_android_8_months_of_heavy_claude/)
+- [CashBuddy — an Android expense tracker with on-device processing + Notification Listener](https://www.reddit.com/r/Kotlin/comments/1wwjk23/cashbuddy_an_android_expense_tracker_with/)
+- [The time has come to separate Kotlin from Java.](https://www.reddit.com/r/Kotlin/comments/1wwfn8j/the_time_has_come_to_separate_kotlin_from_java/)
 - [Lapis Net — a fully decentralized P2P social network protocol in Kotlin/JVM &lpar;Apache 2.0&rpar;. Prototype stage, looking for feedback and criticism](https://www.reddit.com/r/Kotlin/comments/1ww1v5p/lapis_net_a_fully_decentralized_p2p_social/)
 - [sqlx4k 1.14.0 released: optimistic locking, savepoints, MariaDB batch inserts](https://www.reddit.com/r/Kotlin/comments/1wvzzod/sqlx4k_1140_released_optimistic_locking/)
 - [GitHub Action for Kotlin Toolchain CLI &lpar;Amper&rpar; with caching](https://www.reddit.com/r/Kotlin/comments/1wvoklo/github_action_for_kotlin_toolchain_cli_amper_with/)
 - [Uncaught exceptions and Supervisor Jobs](https://www.reddit.com/r/Kotlin/comments/1wvmik5/uncaught_exceptions_and_supervisor_jobs/)
-- [Kotlin vs Flutter? When to Choose One Over the Other](https://www.reddit.com/r/Kotlin/comments/1wv6odg/kotlin_vs_flutter_when_to_choose_one_over_the/)
-- [We built e2e - open source AI testing framework for Android apps](https://www.reddit.com/r/Kotlin/comments/1wv618j/we_built_e2e_open_source_ai_testing_framework_for/)
-- [Kotlin, Android, and community with Martin Bonnin](https://www.reddit.com/r/Kotlin/comments/1wv4ofv/kotlin_android_and_community_with_martin_bonnin/)
-- [Offline Support for Compose Multiplatform Web Apps · terrakok](https://www.reddit.com/r/Kotlin/comments/1wuoqhx/offline_support_for_compose_multiplatform_web/)
-- [Have anyone here tried XR with Kotlin? What&#39;s your take on XR + AI](https://www.reddit.com/r/Kotlin/comments/1wubaow/have_anyone_here_tried_xr_with_kotlin_whats_your/)
-- [I built a CLI to set up Firebase in Kotlin Multiplatform / Compose Multiplatform projects](https://www.reddit.com/r/Kotlin/comments/1wuaorh/i_built_a_cli_to_set_up_firebase_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
