@@ -272,10 +272,10 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Toolchain will eventually drop Gradle for Android &lpar;via Joffrey Bion on Slack&rpar;](https://www.reddit.com/r/Kotlin/comments/1wxal9y/kotlin_toolchain_will_eventually_drop_gradle_for/)
 - [Prosa.kt - Declarative code generation for Kotlin](https://www.reddit.com/r/Kotlin/comments/1wx8g00/prosakt_declarative_code_generation_for_kotlin/)
 - [Which is best kotlin course on udemy or youtube!!?](https://www.reddit.com/r/Kotlin/comments/1wwudzc/which_is_best_kotlin_course_on_udemy_or_youtube/)
 - [Even if Premium, still open-sauce. 🍅](https://www.reddit.com/r/Kotlin/comments/1wwuagv/even_if_premium_still_opensauce/)
-- [5 years into Android, 8 months of heavy Claude Code use — am I getting too dependent on AI?](https://www.reddit.com/r/Kotlin/comments/1wwrpnc/5_years_into_android_8_months_of_heavy_claude/)
 - [CashBuddy — an Android expense tracker with on-device processing + Notification Listener](https://www.reddit.com/r/Kotlin/comments/1wwjk23/cashbuddy_an_android_expense_tracker_with/)
 - [The time has come to separate Kotlin from Java.](https://www.reddit.com/r/Kotlin/comments/1wwfn8j/the_time_has_come_to_separate_kotlin_from_java/)
 - [Lapis Net — a fully decentralized P2P social network protocol in Kotlin/JVM &lpar;Apache 2.0&rpar;. Prototype stage, looking for feedback and criticism](https://www.reddit.com/r/Kotlin/comments/1ww1v5p/lapis_net_a_fully_decentralized_p2p_social/)
