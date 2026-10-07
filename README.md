@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [BossConsole update: a short demo of the Kotlin/Compose desktop workspace](https://www.reddit.com/r/Kotlin/comments/1wzngsy/bossconsole_update_a_short_demo_of_the/)
+- [Question about Sequence Implementation](https://www.reddit.com/r/Kotlin/comments/1wzn9l0/question_about_sequence_implementation/)
 - [Kotlin RPG engine update: primitive arrays, lower RAM usage, and fixing a native buffer bug](https://www.reddit.com/r/Kotlin/comments/1wydkla/kotlin_rpg_engine_update_primitive_arrays_lower/)
 - [Compose Multiplatform vs CORS](https://www.reddit.com/r/Kotlin/comments/1wy458u/compose_multiplatform_vs_cors/)
 - [Kotlin Toolchain will eventually drop Gradle for Android &lpar;via Joffrey Bion on Slack&rpar;](https://www.reddit.com/r/Kotlin/comments/1wxal9y/kotlin_toolchain_will_eventually_drop_gradle_for/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Even if Premium, still open-sauce. 🍅](https://www.reddit.com/r/Kotlin/comments/1wwuagv/even_if_premium_still_opensauce/)
 - [CashBuddy — an Android expense tracker with on-device processing + Notification Listener](https://www.reddit.com/r/Kotlin/comments/1wwjk23/cashbuddy_an_android_expense_tracker_with/)
 - [The time has come to separate Kotlin from Java.](https://www.reddit.com/r/Kotlin/comments/1wwfn8j/the_time_has_come_to_separate_kotlin_from_java/)
-- [Lapis Net — a fully decentralized P2P social network protocol in Kotlin/JVM &lpar;Apache 2.0&rpar;. Prototype stage, looking for feedback and criticism](https://www.reddit.com/r/Kotlin/comments/1ww1v5p/lapis_net_a_fully_decentralized_p2p_social/)
-- [sqlx4k 1.14.0 released: optimistic locking, savepoints, MariaDB batch inserts](https://www.reddit.com/r/Kotlin/comments/1wvzzod/sqlx4k_1140_released_optimistic_locking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
