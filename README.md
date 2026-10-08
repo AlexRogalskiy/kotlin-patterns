@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin developers can finally start to say goodbye to gradle](https://www.reddit.com/r/Kotlin/comments/1x0eu5l/kotlin_developers_can_finally_start_to_say/)
+- [Where is the Best Place to Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1wzywmv/where_is_the_best_place_to_learn_kotlin/)
+- [I built a Kotlin/Native ↔ JVM JNI interop tool to avoid handwritten JNI glue](https://www.reddit.com/r/Kotlin/comments/1wzucn1/i_built_a_kotlinnative_jvm_jni_interop_tool_to/)
+- [am i an idiot?](https://www.reddit.com/r/Kotlin/comments/1wzt37w/am_i_an_idiot/)
+- [Product tours, onboarding and feature showcases for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1wzsqzq/product_tours_onboarding_and_feature_showcases/)
 - [BossConsole update: a short demo of the Kotlin/Compose desktop workspace](https://www.reddit.com/r/Kotlin/comments/1wzngsy/bossconsole_update_a_short_demo_of_the/)
 - [Question about Sequence Implementation](https://www.reddit.com/r/Kotlin/comments/1wzn9l0/question_about_sequence_implementation/)
 - [Kotlin RPG engine update: primitive arrays, lower RAM usage, and fixing a native buffer bug](https://www.reddit.com/r/Kotlin/comments/1wydkla/kotlin_rpg_engine_update_primitive_arrays_lower/)
 - [Compose Multiplatform vs CORS](https://www.reddit.com/r/Kotlin/comments/1wy458u/compose_multiplatform_vs_cors/)
 - [Kotlin Toolchain will eventually drop Gradle for Android &lpar;via Joffrey Bion on Slack&rpar;](https://www.reddit.com/r/Kotlin/comments/1wxal9y/kotlin_toolchain_will_eventually_drop_gradle_for/)
-- [Prosa.kt - Declarative code generation for Kotlin](https://www.reddit.com/r/Kotlin/comments/1wx8g00/prosakt_declarative_code_generation_for_kotlin/)
-- [Which is best kotlin course on udemy or youtube!!?](https://www.reddit.com/r/Kotlin/comments/1wwudzc/which_is_best_kotlin_course_on_udemy_or_youtube/)
-- [Even if Premium, still open-sauce. 🍅](https://www.reddit.com/r/Kotlin/comments/1wwuagv/even_if_premium_still_opensauce/)
-- [CashBuddy — an Android expense tracker with on-device processing + Notification Listener](https://www.reddit.com/r/Kotlin/comments/1wwjk23/cashbuddy_an_android_expense_tracker_with/)
-- [The time has come to separate Kotlin from Java.](https://www.reddit.com/r/Kotlin/comments/1wwfn8j/the_time_has_come_to_separate_kotlin_from_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
