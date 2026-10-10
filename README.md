@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What makes a developer conference worth your time in the AI era?](https://www.reddit.com/r/Kotlin/comments/1x1h7yc/what_makes_a_developer_conference_worth_your_time/)
+- [Lights, Kotlin, Action! Run Kotlin scripts in GitHub Actions with Java, Kotlin, and caching handled for you.](https://www.reddit.com/r/Kotlin/comments/1x1gac0/lights_kotlin_action_run_kotlin_scripts_in_github/)
+- [Need Advice on Learning Kotlin and Android Development](https://www.reddit.com/r/Kotlin/comments/1x1g1xk/need_advice_on_learning_kotlin_and_android/)
 - [KitePlayer v0.3.0 is out! HLS, DASH, HDR now fully supported on every KMP target](https://www.reddit.com/r/Kotlin/comments/1x1b24k/kiteplayer_v030_is_out_hls_dash_hdr_now_fully/)
-- [Kotlin/Native&#39;s smallBinary skips LLVM&#39;s MachineOutliner &lpar;our iOS app went from 102 to 81 MiB&rpar;](https://www.reddit.com/r/Kotlin/comments/1x0t3yz/kotlinnatives_smallbinary_skips_llvms/)
 - [Kotlin developers can finally start to say goodbye to gradle](https://www.reddit.com/r/Kotlin/comments/1x0eu5l/kotlin_developers_can_finally_start_to_say/)
 - [Where is the Best Place to Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1wzywmv/where_is_the_best_place_to_learn_kotlin/)
 - [I built a Kotlin/Native ↔ JVM JNI interop tool to avoid handwritten JNI glue](https://www.reddit.com/r/Kotlin/comments/1wzucn1/i_built_a_kotlinnative_jvm_jni_interop_tool_to/)
 - [am i an idiot?](https://www.reddit.com/r/Kotlin/comments/1wzt37w/am_i_an_idiot/)
 - [Product tours, onboarding and feature showcases for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1wzsqzq/product_tours_onboarding_and_feature_showcases/)
 - [BossConsole update: a short demo of the Kotlin/Compose desktop workspace](https://www.reddit.com/r/Kotlin/comments/1wzngsy/bossconsole_update_a_short_demo_of_the/)
-- [Question about Sequence Implementation](https://www.reddit.com/r/Kotlin/comments/1wzn9l0/question_about_sequence_implementation/)
-- [Kotlin RPG engine update: primitive arrays, lower RAM usage, and fixing a native buffer bug](https://www.reddit.com/r/Kotlin/comments/1wydkla/kotlin_rpg_engine_update_primitive_arrays_lower/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
