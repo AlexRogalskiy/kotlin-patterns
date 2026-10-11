@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What I&#39;ve learned about UI and logic sharing in Compose Multiplatform desktop apps](https://www.reddit.com/r/Kotlin/comments/1x2yvc4/what_ive_learned_about_ui_and_logic_sharing_in/)
+- [Learning Kotlin for Android app dev, what things should I focus on learning?](https://www.reddit.com/r/Kotlin/comments/1x2suln/learning_kotlin_for_android_app_dev_what_things/)
+- [How can I secure my desktop app?](https://www.reddit.com/r/Kotlin/comments/1x2ey5s/how_can_i_secure_my_desktop_app/)
+- [I made a customizable squircle bottom navigation bar for Android &lpar;SqNav&rpar;](https://www.reddit.com/r/Kotlin/comments/1x2ao84/i_made_a_customizable_squircle_bottom_navigation/)
+- [Spotted in London tube &lpar;Northern line&rpar; yesterday.](https://www.reddit.com/r/Kotlin/comments/1x28h3u/spotted_in_london_tube_northern_line_yesterday/)
 - [What makes a developer conference worth your time in the AI era?](https://www.reddit.com/r/Kotlin/comments/1x1h7yc/what_makes_a_developer_conference_worth_your_time/)
 - [Lights, Kotlin, Action! Run Kotlin scripts in GitHub Actions with Java, Kotlin, and caching handled for you.](https://www.reddit.com/r/Kotlin/comments/1x1gac0/lights_kotlin_action_run_kotlin_scripts_in_github/)
 - [Need Advice on Learning Kotlin and Android Development](https://www.reddit.com/r/Kotlin/comments/1x1g1xk/need_advice_on_learning_kotlin_and_android/)
 - [KitePlayer v0.3.0 is out! HLS, DASH, HDR now fully supported on every KMP target](https://www.reddit.com/r/Kotlin/comments/1x1b24k/kiteplayer_v030_is_out_hls_dash_hdr_now_fully/)
 - [Kotlin developers can finally start to say goodbye to gradle](https://www.reddit.com/r/Kotlin/comments/1x0eu5l/kotlin_developers_can_finally_start_to_say/)
-- [Where is the Best Place to Learn Kotlin](https://www.reddit.com/r/Kotlin/comments/1wzywmv/where_is_the_best_place_to_learn_kotlin/)
-- [I built a Kotlin/Native ↔ JVM JNI interop tool to avoid handwritten JNI glue](https://www.reddit.com/r/Kotlin/comments/1wzucn1/i_built_a_kotlinnative_jvm_jni_interop_tool_to/)
-- [am i an idiot?](https://www.reddit.com/r/Kotlin/comments/1wzt37w/am_i_an_idiot/)
-- [Product tours, onboarding and feature showcases for Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1wzsqzq/product_tours_onboarding_and_feature_showcases/)
-- [BossConsole update: a short demo of the Kotlin/Compose desktop workspace](https://www.reddit.com/r/Kotlin/comments/1wzngsy/bossconsole_update_a_short_demo_of_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
