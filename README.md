@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KitePDF now renders PDFs and EPUBs &lpar;2/3&rpar; perfectly, with full Javascript and integrated multimedia playback support, and all that through pure Kotlin](https://www.reddit.com/r/Kotlin/comments/1x38pd8/kitepdf_now_renders_pdfs_and_epubs_23_perfectly/)
+- [Which native Android app would be best to build as a beginner that is valuable and profitable?](https://www.reddit.com/r/Kotlin/comments/1x37pcq/which_native_android_app_would_be_best_to_build/)
 - [What I&#39;ve learned about UI and logic sharing in Compose Multiplatform desktop apps](https://www.reddit.com/r/Kotlin/comments/1x2yvc4/what_ive_learned_about_ui_and_logic_sharing_in/)
 - [Learning Kotlin for Android app dev, what things should I focus on learning?](https://www.reddit.com/r/Kotlin/comments/1x2suln/learning_kotlin_for_android_app_dev_what_things/)
 - [How can I secure my desktop app?](https://www.reddit.com/r/Kotlin/comments/1x2ey5s/how_can_i_secure_my_desktop_app/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [What makes a developer conference worth your time in the AI era?](https://www.reddit.com/r/Kotlin/comments/1x1h7yc/what_makes_a_developer_conference_worth_your_time/)
 - [Lights, Kotlin, Action! Run Kotlin scripts in GitHub Actions with Java, Kotlin, and caching handled for you.](https://www.reddit.com/r/Kotlin/comments/1x1gac0/lights_kotlin_action_run_kotlin_scripts_in_github/)
 - [Need Advice on Learning Kotlin and Android Development](https://www.reddit.com/r/Kotlin/comments/1x1g1xk/need_advice_on_learning_kotlin_and_android/)
-- [KitePlayer v0.3.0 is out! HLS, DASH, HDR now fully supported on every KMP target](https://www.reddit.com/r/Kotlin/comments/1x1b24k/kiteplayer_v030_is_out_hls_dash_hdr_now_fully/)
-- [Kotlin developers can finally start to say goodbye to gradle](https://www.reddit.com/r/Kotlin/comments/1x0eu5l/kotlin_developers_can_finally_start_to_say/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
