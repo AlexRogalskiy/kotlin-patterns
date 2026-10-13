@@ -272,7 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [KitePDF now renders PDFs and EPUBs &lpar;2/3&rpar; perfectly, with full Javascript and integrated multimedia playback support, and all that through pure Kotlin](https://www.reddit.com/r/Kotlin/comments/1x38pd8/kitepdf_now_renders_pdfs_and_epubs_23_perfectly/)
+- [I built Telar, an open-source Kotlin Multiplatform library for AI agent workflows as typed graphs &lpar;early alpha, feedback wanted&rpar;](https://www.reddit.com/r/Kotlin/comments/1x3w4w7/i_built_telar_an_opensource_kotlin_multiplatform/)
 - [Which native Android app would be best to build as a beginner that is valuable and profitable?](https://www.reddit.com/r/Kotlin/comments/1x37pcq/which_native_android_app_would_be_best_to_build/)
 - [What I&#39;ve learned about UI and logic sharing in Compose Multiplatform desktop apps](https://www.reddit.com/r/Kotlin/comments/1x2yvc4/what_ive_learned_about_ui_and_logic_sharing_in/)
 - [Learning Kotlin for Android app dev, what things should I focus on learning?](https://www.reddit.com/r/Kotlin/comments/1x2suln/learning_kotlin_for_android_app_dev_what_things/)
