@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose DND 1.0.0-alpha02 is out, new big update](https://www.reddit.com/r/Kotlin/comments/1x4wj61/compose_dnd_100alpha02_is_out_new_big_update/)
+- [Concise, Multiplatform, and Oracle-free](https://www.reddit.com/r/Kotlin/comments/1x4q2nm/concise_multiplatform_and_oraclefree/)
 - [I built Telar, an open-source Kotlin Multiplatform library for AI agent workflows as typed graphs &lpar;early alpha, feedback wanted&rpar;](https://www.reddit.com/r/Kotlin/comments/1x3w4w7/i_built_telar_an_opensource_kotlin_multiplatform/)
 - [Which native Android app would be best to build as a beginner that is valuable and profitable?](https://www.reddit.com/r/Kotlin/comments/1x37pcq/which_native_android_app_would_be_best_to_build/)
 - [What I&#39;ve learned about UI and logic sharing in Compose Multiplatform desktop apps](https://www.reddit.com/r/Kotlin/comments/1x2yvc4/what_ive_learned_about_ui_and_logic_sharing_in/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I made a customizable squircle bottom navigation bar for Android &lpar;SqNav&rpar;](https://www.reddit.com/r/Kotlin/comments/1x2ao84/i_made_a_customizable_squircle_bottom_navigation/)
 - [Spotted in London tube &lpar;Northern line&rpar; yesterday.](https://www.reddit.com/r/Kotlin/comments/1x28h3u/spotted_in_london_tube_northern_line_yesterday/)
 - [What makes a developer conference worth your time in the AI era?](https://www.reddit.com/r/Kotlin/comments/1x1h7yc/what_makes_a_developer_conference_worth_your_time/)
-- [Lights, Kotlin, Action! Run Kotlin scripts in GitHub Actions with Java, Kotlin, and caching handled for you.](https://www.reddit.com/r/Kotlin/comments/1x1gac0/lights_kotlin_action_run_kotlin_scripts_in_github/)
-- [Need Advice on Learning Kotlin and Android Development](https://www.reddit.com/r/Kotlin/comments/1x1g1xk/need_advice_on_learning_kotlin_and_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
