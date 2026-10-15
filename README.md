@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [KlassFile: A Kotlin DSL for JVM bytecode generation](https://www.reddit.com/r/Kotlin/comments/1x63r8s/klassfile_a_kotlin_dsl_for_jvm_bytecode_generation/)
+- [Kotlin/Maven Library for symbolic computation, directed rounding, etc...](https://www.reddit.com/r/Kotlin/comments/1x5upga/kotlinmaven_library_for_symbolic_computation/)
+- [Opt-in implicit construction for value classes](https://www.reddit.com/r/Kotlin/comments/1x5tpz2/optin_implicit_construction_for_value_classes/)
+- [I worked on a Kotlin debugger for VS Code that doesn&#39;t require a separate Kotlin Language Server](https://www.reddit.com/r/Kotlin/comments/1x5s5l7/i_worked_on_a_kotlin_debugger_for_vs_code_that/)
 - [Compose DND 1.0.0-alpha02 is out, new big update](https://www.reddit.com/r/Kotlin/comments/1x4wj61/compose_dnd_100alpha02_is_out_new_big_update/)
 - [Concise, Multiplatform, and Oracle-free](https://www.reddit.com/r/Kotlin/comments/1x4q2nm/concise_multiplatform_and_oraclefree/)
 - [I built Telar, an open-source Kotlin Multiplatform library for AI agent workflows as typed graphs &lpar;early alpha, feedback wanted&rpar;](https://www.reddit.com/r/Kotlin/comments/1x3w4w7/i_built_telar_an_opensource_kotlin_multiplatform/)
 - [Which native Android app would be best to build as a beginner that is valuable and profitable?](https://www.reddit.com/r/Kotlin/comments/1x37pcq/which_native_android_app_would_be_best_to_build/)
 - [What I&#39;ve learned about UI and logic sharing in Compose Multiplatform desktop apps](https://www.reddit.com/r/Kotlin/comments/1x2yvc4/what_ive_learned_about_ui_and_logic_sharing_in/)
 - [Learning Kotlin for Android app dev, what things should I focus on learning?](https://www.reddit.com/r/Kotlin/comments/1x2suln/learning_kotlin_for_android_app_dev_what_things/)
-- [How can I secure my desktop app?](https://www.reddit.com/r/Kotlin/comments/1x2ey5s/how_can_i_secure_my_desktop_app/)
-- [I made a customizable squircle bottom navigation bar for Android &lpar;SqNav&rpar;](https://www.reddit.com/r/Kotlin/comments/1x2ao84/i_made_a_customizable_squircle_bottom_navigation/)
-- [Spotted in London tube &lpar;Northern line&rpar; yesterday.](https://www.reddit.com/r/Kotlin/comments/1x28h3u/spotted_in_london_tube_northern_line_yesterday/)
-- [What makes a developer conference worth your time in the AI era?](https://www.reddit.com/r/Kotlin/comments/1x1h7yc/what_makes_a_developer_conference_worth_your_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
