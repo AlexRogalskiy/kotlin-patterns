@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [📣 The Kotlin compiler is moving to JDK 17 as its minimum runtime.](https://www.reddit.com/r/Kotlin/comments/1x6knlj/the_kotlin_compiler_is_moving_to_jdk_17_as_its/)
+- [Would anyone like to give me some advice?](https://www.reddit.com/r/Kotlin/comments/1x6ez51/would_anyone_like_to_give_me_some_advice/)
 - [KlassFile: A Kotlin DSL for JVM bytecode generation](https://www.reddit.com/r/Kotlin/comments/1x63r8s/klassfile_a_kotlin_dsl_for_jvm_bytecode_generation/)
 - [Kotlin/Maven Library for symbolic computation, directed rounding, etc...](https://www.reddit.com/r/Kotlin/comments/1x5upga/kotlinmaven_library_for_symbolic_computation/)
 - [Opt-in implicit construction for value classes](https://www.reddit.com/r/Kotlin/comments/1x5tpz2/optin_implicit_construction_for_value_classes/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Concise, Multiplatform, and Oracle-free](https://www.reddit.com/r/Kotlin/comments/1x4q2nm/concise_multiplatform_and_oraclefree/)
 - [I built Telar, an open-source Kotlin Multiplatform library for AI agent workflows as typed graphs &lpar;early alpha, feedback wanted&rpar;](https://www.reddit.com/r/Kotlin/comments/1x3w4w7/i_built_telar_an_opensource_kotlin_multiplatform/)
 - [Which native Android app would be best to build as a beginner that is valuable and profitable?](https://www.reddit.com/r/Kotlin/comments/1x37pcq/which_native_android_app_would_be_best_to_build/)
-- [What I&#39;ve learned about UI and logic sharing in Compose Multiplatform desktop apps](https://www.reddit.com/r/Kotlin/comments/1x2yvc4/what_ive_learned_about_ui_and_logic_sharing_in/)
-- [Learning Kotlin for Android app dev, what things should I focus on learning?](https://www.reddit.com/r/Kotlin/comments/1x2suln/learning_kotlin_for_android_app_dev_what_things/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
