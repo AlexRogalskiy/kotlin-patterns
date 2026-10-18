@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [KitePlayer v0.3.0: the first Kotlin/Native media playback engine for KMP that doesn&#39;t wrap ExoPlayer or AVPlayer underneath](https://www.reddit.com/r/Kotlin/comments/1x7ocdm/kiteplayer_v030_the_first_kotlinnative_media/)
+- [Ищу разработчика] Android-приложение с автоматизацией действий — оплата договорная &lpar; +-1000$&rpar;](https://www.reddit.com/r/Kotlin/comments/1x8jjsh/ищу_разработчика_androidприложение_с/)
+- [I built an experimental Bitcoin futures trading simulator in just over a week with the help of 3 AIs — despite having very limited coding skills](https://www.reddit.com/r/Kotlin/comments/1x86djq/i_built_an_experimental_bitcoin_futures_trading/)
+- [How should I handle JNI type conversions in Kotlin/Native&#39;s nativeMain?](https://www.reddit.com/r/Kotlin/comments/1x86c94/how_should_i_handle_jni_type_conversions_in/)
+- [Best Projects Courses or Projects that AI can help me understand](https://www.reddit.com/r/Kotlin/comments/1x85t9i/best_projects_courses_or_projects_that_ai_can/)
 - [Struggling with using webview for a html jscript file which reads local CSV files + saves local user data](https://www.reddit.com/r/Kotlin/comments/1x7ighv/struggling_with_using_webview_for_a_html_jscript/)
 - [Is there any way to learn Kotlin for Android development?](https://www.reddit.com/r/Kotlin/comments/1x7ghse/is_there_any_way_to_learn_kotlin_for_android/)
 - [I got tired of my AI agent writing Compose UI it couldn&#39;t see, so I built a tool that renders @Preview to PNG without the IDE](https://www.reddit.com/r/Kotlin/comments/1x7e998/i_got_tired_of_my_ai_agent_writing_compose_ui_it/)
 - [📣 The Kotlin compiler is moving to JDK 17 as its minimum runtime.](https://www.reddit.com/r/Kotlin/comments/1x6knlj/the_kotlin_compiler_is_moving_to_jdk_17_as_its/)
 - [Would anyone like to give me some advice?](https://www.reddit.com/r/Kotlin/comments/1x6ez51/would_anyone_like_to_give_me_some_advice/)
 - [KlassFile: A Kotlin DSL for JVM bytecode generation](https://www.reddit.com/r/Kotlin/comments/1x63r8s/klassfile_a_kotlin_dsl_for_jvm_bytecode_generation/)
-- [Kotlin/Maven Library for symbolic computation, directed rounding, etc...](https://www.reddit.com/r/Kotlin/comments/1x5upga/kotlinmaven_library_for_symbolic_computation/)
-- [Opt-in implicit construction for value classes](https://www.reddit.com/r/Kotlin/comments/1x5tpz2/optin_implicit_construction_for_value_classes/)
-- [I worked on a Kotlin debugger for VS Code that doesn&#39;t require a separate Kotlin Language Server](https://www.reddit.com/r/Kotlin/comments/1x5s5l7/i_worked_on_a_kotlin_debugger_for_vs_code_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
