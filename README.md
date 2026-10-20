@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Telar 0.1.0-alpha12: I finally deleted the &quot;what&#39;s missing&quot; disclaimer from my KMP agent/workflow library](https://www.reddit.com/r/Kotlin/comments/1xa5jti/telar_010alpha12_i_finally_deleted_the_whats/)
 - [Built an open-source visual editor + AST engine for Jetpack Compose &lpar;No Gradle rebuilds for UI tweaks](https://www.reddit.com/r/Kotlin/comments/1x95dtu/built_an_opensource_visual_editor_ast_engine_for/)
 - [Ищу разработчика] Android-приложение с автоматизацией действий — оплата договорная &lpar; +-1000$&rpar;](https://www.reddit.com/r/Kotlin/comments/1x8jjsh/ищу_разработчика_androidприложение_с/)
 - [I built an experimental Bitcoin futures trading simulator in just over a week with the help of 3 AIs — despite having very limited coding skills](https://www.reddit.com/r/Kotlin/comments/1x86djq/i_built_an_experimental_bitcoin_futures_trading/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Is there any way to learn Kotlin for Android development?](https://www.reddit.com/r/Kotlin/comments/1x7ghse/is_there_any_way_to_learn_kotlin_for_android/)
 - [I got tired of my AI agent writing Compose UI it couldn&#39;t see, so I built a tool that renders @Preview to PNG without the IDE](https://www.reddit.com/r/Kotlin/comments/1x7e998/i_got_tired_of_my_ai_agent_writing_compose_ui_it/)
 - [📣 The Kotlin compiler is moving to JDK 17 as its minimum runtime.](https://www.reddit.com/r/Kotlin/comments/1x6knlj/the_kotlin_compiler_is_moving_to_jdk_17_as_its/)
-- [Would anyone like to give me some advice?](https://www.reddit.com/r/Kotlin/comments/1x6ez51/would_anyone_like_to_give_me_some_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
