@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kiit-codes: General purpose status codes, now with RFC 9457 support](https://www.reddit.com/r/Kotlin/comments/1xbdu36/kiitcodes_general_purpose_status_codes_now_with/)
+- [Google published an article about me and my apps after I helped people on reddit about Admob and Android in general](https://www.reddit.com/r/Kotlin/comments/1xb7jy1/google_published_an_article_about_me_and_my_apps/)
 - [Telar 0.1.0-alpha12: I finally deleted the &quot;what&#39;s missing&quot; disclaimer from my KMP agent/workflow library](https://www.reddit.com/r/Kotlin/comments/1xa5jti/telar_010alpha12_i_finally_deleted_the_whats/)
 - [Built an open-source visual editor + AST engine for Jetpack Compose &lpar;No Gradle rebuilds for UI tweaks](https://www.reddit.com/r/Kotlin/comments/1x95dtu/built_an_opensource_visual_editor_ast_engine_for/)
 - [Ищу разработчика] Android-приложение с автоматизацией действий — оплата договорная &lpar; +-1000$&rpar;](https://www.reddit.com/r/Kotlin/comments/1x8jjsh/ищу_разработчика_androidприложение_с/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Best Projects Courses or Projects that AI can help me understand](https://www.reddit.com/r/Kotlin/comments/1x85t9i/best_projects_courses_or_projects_that_ai_can/)
 - [Struggling with using webview for a html jscript file which reads local CSV files + saves local user data](https://www.reddit.com/r/Kotlin/comments/1x7ighv/struggling_with_using_webview_for_a_html_jscript/)
 - [Is there any way to learn Kotlin for Android development?](https://www.reddit.com/r/Kotlin/comments/1x7ghse/is_there_any_way_to_learn_kotlin_for_android/)
-- [I got tired of my AI agent writing Compose UI it couldn&#39;t see, so I built a tool that renders @Preview to PNG without the IDE](https://www.reddit.com/r/Kotlin/comments/1x7e998/i_got_tired_of_my_ai_agent_writing_compose_ui_it/)
-- [📣 The Kotlin compiler is moving to JDK 17 as its minimum runtime.](https://www.reddit.com/r/Kotlin/comments/1x6knlj/the_kotlin_compiler_is_moving_to_jdk_17_as_its/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
