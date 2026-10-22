@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java based Numerical library &lpar;JNum-v0.2&rpar; with Kotlin Operator overloading](https://www.reddit.com/r/Kotlin/comments/1xc9ld1/java_based_numerical_library_jnumv02_with_kotlin/)
+- [[ Removed by Reddit ]](https://www.reddit.com/r/Kotlin/comments/1xc9ib8/removed_by_reddit/)
+- [Starfait - A re-implementation of GameMaker: Studio&#39;s runner &lpar;YoYo Runner&rpar; in Kotlin, targeting Undertale v1.08](https://www.reddit.com/r/Kotlin/comments/1xc5s5o/starfait_a_reimplementation_of_gamemaker_studios/)
+- [For all Android and GitBack Compose developers, we all know how time-consuming and time-consuming it is to constantly wait for a project to be rebuilt using Gridl, just for a simple padding adjustment or a color change within the interface.](https://www.reddit.com/r/Kotlin/comments/1xc4kju/for_all_android_and_gitback_compose_developers_we/)
+- [How do you decide between Native &lpar;Swift/Kotlin&rpar; and Cross-Platform &lpar;Flutter/React Native&rpar; for long-term client projects?](https://www.reddit.com/r/Kotlin/comments/1xbm368/how_do_you_decide_between_native_swiftkotlin_and/)
+- [Reading git sync status on Android without running git](https://www.reddit.com/r/Kotlin/comments/1xblw4o/reading_git_sync_status_on_android_without/)
+- [Jetbrains has effectively abandoned Koog](https://www.reddit.com/r/Kotlin/comments/1xbgdt2/jetbrains_has_effectively_abandoned_koog/)
+- [Kotlin-Native on linux arm64 is possible.](https://www.reddit.com/r/Kotlin/comments/1xbg5bf/kotlinnative_on_linux_arm64_is_possible/)
 - [kiit-codes: General purpose status codes, now with RFC 9457 support](https://www.reddit.com/r/Kotlin/comments/1xbdu36/kiitcodes_general_purpose_status_codes_now_with/)
 - [Google published an article about me and my apps after I helped people on reddit about Admob and Android in general](https://www.reddit.com/r/Kotlin/comments/1xb7jy1/google_published_an_article_about_me_and_my_apps/)
-- [Telar 0.1.0-alpha12: I finally deleted the &quot;what&#39;s missing&quot; disclaimer from my KMP agent/workflow library](https://www.reddit.com/r/Kotlin/comments/1xa5jti/telar_010alpha12_i_finally_deleted_the_whats/)
-- [Built an open-source visual editor + AST engine for Jetpack Compose &lpar;No Gradle rebuilds for UI tweaks](https://www.reddit.com/r/Kotlin/comments/1x95dtu/built_an_opensource_visual_editor_ast_engine_for/)
-- [Ищу разработчика] Android-приложение с автоматизацией действий — оплата договорная &lpar; +-1000$&rpar;](https://www.reddit.com/r/Kotlin/comments/1x8jjsh/ищу_разработчика_androidприложение_с/)
-- [I built an experimental Bitcoin futures trading simulator in just over a week with the help of 3 AIs — despite having very limited coding skills](https://www.reddit.com/r/Kotlin/comments/1x86djq/i_built_an_experimental_bitcoin_futures_trading/)
-- [How should I handle JNI type conversions in Kotlin/Native&#39;s nativeMain?](https://www.reddit.com/r/Kotlin/comments/1x86c94/how_should_i_handle_jni_type_conversions_in/)
-- [Best Projects Courses or Projects that AI can help me understand](https://www.reddit.com/r/Kotlin/comments/1x85t9i/best_projects_courses_or_projects_that_ai_can/)
-- [Struggling with using webview for a html jscript file which reads local CSV files + saves local user data](https://www.reddit.com/r/Kotlin/comments/1x7ighv/struggling_with_using_webview_for_a_html_jscript/)
-- [Is there any way to learn Kotlin for Android development?](https://www.reddit.com/r/Kotlin/comments/1x7ghse/is_there_any_way_to_learn_kotlin_for_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
