@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help in kotlin](https://www.reddit.com/r/Kotlin/comments/1xcpfeu/help_in_kotlin/)
+- [Android dev](https://www.reddit.com/r/Kotlin/comments/1xcb0jy/android_dev/)
 - [Java based Numerical library &lpar;JNum-v0.2&rpar; with Kotlin Operator overloading](https://www.reddit.com/r/Kotlin/comments/1xc9ld1/java_based_numerical_library_jnumv02_with_kotlin/)
 - [[ Removed by Reddit ]](https://www.reddit.com/r/Kotlin/comments/1xc9ib8/removed_by_reddit/)
 - [Starfait - A re-implementation of GameMaker: Studio&#39;s runner &lpar;YoYo Runner&rpar; in Kotlin, targeting Undertale v1.08](https://www.reddit.com/r/Kotlin/comments/1xc5s5o/starfait_a_reimplementation_of_gamemaker_studios/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Reading git sync status on Android without running git](https://www.reddit.com/r/Kotlin/comments/1xblw4o/reading_git_sync_status_on_android_without/)
 - [Jetbrains has effectively abandoned Koog](https://www.reddit.com/r/Kotlin/comments/1xbgdt2/jetbrains_has_effectively_abandoned_koog/)
 - [Kotlin-Native on linux arm64 is possible.](https://www.reddit.com/r/Kotlin/comments/1xbg5bf/kotlinnative_on_linux_arm64_is_possible/)
-- [kiit-codes: General purpose status codes, now with RFC 9457 support](https://www.reddit.com/r/Kotlin/comments/1xbdu36/kiitcodes_general_purpose_status_codes_now_with/)
-- [Google published an article about me and my apps after I helped people on reddit about Admob and Android in general](https://www.reddit.com/r/Kotlin/comments/1xb7jy1/google_published_an_article_about_me_and_my_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
