@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Built &amp; Monetized 2 Native Android Apps &lpar;Kotlin&rpar;: A Placement Prep Quiz App &amp; 2D Flappy Bird Game. Need Feedback!](https://www.reddit.com/r/Kotlin/comments/1xdm4lq/built_monetized_2_native_android_apps_kotlin_a/)
+- [I built an open-source Android app around the ByeDPI engine &lpar;written with AI, feedback welcome&rpar;](https://www.reddit.com/r/Kotlin/comments/1xddsw1/i_built_an_opensource_android_app_around_the/)
 - [Help in kotlin](https://www.reddit.com/r/Kotlin/comments/1xcpfeu/help_in_kotlin/)
 - [Android dev](https://www.reddit.com/r/Kotlin/comments/1xcb0jy/android_dev/)
 - [Java based Numerical library &lpar;JNum-v0.2&rpar; with Kotlin Operator overloading](https://www.reddit.com/r/Kotlin/comments/1xc9ld1/java_based_numerical_library_jnumv02_with_kotlin/)
-- [[ Removed by Reddit ]](https://www.reddit.com/r/Kotlin/comments/1xc9ib8/removed_by_reddit/)
 - [Starfait - A re-implementation of GameMaker: Studio&#39;s runner &lpar;YoYo Runner&rpar; in Kotlin, targeting Undertale v1.08](https://www.reddit.com/r/Kotlin/comments/1xc5s5o/starfait_a_reimplementation_of_gamemaker_studios/)
 - [For all Android and GitBack Compose developers, we all know how time-consuming and time-consuming it is to constantly wait for a project to be rebuilt using Gridl, just for a simple padding adjustment or a color change within the interface.](https://www.reddit.com/r/Kotlin/comments/1xc4kju/for_all_android_and_gitback_compose_developers_we/)
 - [How do you decide between Native &lpar;Swift/Kotlin&rpar; and Cross-Platform &lpar;Flutter/React Native&rpar; for long-term client projects?](https://www.reddit.com/r/Kotlin/comments/1xbm368/how_do_you_decide_between_native_swiftkotlin_and/)
 - [Reading git sync status on Android without running git](https://www.reddit.com/r/Kotlin/comments/1xblw4o/reading_git_sync_status_on_android_without/)
 - [Jetbrains has effectively abandoned Koog](https://www.reddit.com/r/Kotlin/comments/1xbgdt2/jetbrains_has_effectively_abandoned_koog/)
-- [Kotlin-Native on linux arm64 is possible.](https://www.reddit.com/r/Kotlin/comments/1xbg5bf/kotlinnative_on_linux_arm64_is_possible/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
