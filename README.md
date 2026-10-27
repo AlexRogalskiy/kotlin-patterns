@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are there jobs in market for KMP?](https://www.reddit.com/r/Kotlin/comments/1xg3pol/are_there_jobs_in_market_for_kmp/)
+- [I wonder how many Kotlin developers use Kotlin for backend development and how they use it.](https://www.reddit.com/r/Kotlin/comments/1xfx2wv/i_wonder_how_many_kotlin_developers_use_kotlin/)
+- [I built an open-source Kotlin + Compose app that runs ADB from your phone to debloat Android TVs &lpar;no PC, no root&rpar;](https://www.reddit.com/r/Kotlin/comments/1xfrr16/i_built_an_opensource_kotlin_compose_app_that/)
+- [Built &amp; Monetized 2 Native Android Apps using Kotlin &amp; XML &lpar;Quiz Prep &amp; 2D Arcade Game&rpar; - Sharing my experience &amp; looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1xfr8fy/built_monetized_2_native_android_apps_using/)
 - [Is it still worth learning native Android &lpar;Kotlin&rpar; in 2026 or should a beginner go straight to cross-platform?](https://www.reddit.com/r/Kotlin/comments/1xfnn14/is_it_still_worth_learning_native_android_kotlin/)
 - [Free Kotlin Learning site with Promo Code : FIRST100](https://www.reddit.com/r/Kotlin/comments/1xffrks/free_kotlin_learning_site_with_promo_code_first100/)
 - [Free Subscription For Kotlin Learning site](https://www.reddit.com/r/Kotlin/comments/1xfcigp/free_subscription_for_kotlin_learning_site/)
 - [Free Subscription For Kotlin Learning site](https://www.reddit.com/r/Kotlin/comments/1xfc3z2/free_subscription_for_kotlin_learning_site/)
 - [NetPulse: a small Android app for live ping, jitter and packet loss &lpar;beta, looking for feedback&rpar;](https://www.reddit.com/r/Kotlin/comments/1xf8oqi/netpulse_a_small_android_app_for_live_ping_jitter/)
 - [Free Subscription For Kotlin Learning site](https://www.reddit.com/r/Kotlin/comments/1xf50lm/free_subscription_for_kotlin_learning_site/)
-- [Kotlin outside of android development.](https://www.reddit.com/r/Kotlin/comments/1xeg4em/kotlin_outside_of_android_development/)
-- [I launched my first app on Play Store / Need advice](https://www.reddit.com/r/Kotlin/comments/1xee9np/i_launched_my_first_app_on_play_store_need_advice/)
-- [Testing web server implementations for Kotlin](https://www.reddit.com/r/Kotlin/comments/1xed2o7/testing_web_server_implementations_for_kotlin/)
-- [Standalone CLI agents vs an IDE integrated AI coding agent for Kotlin on a large legacy codebase &lpar;Claude Code, Cursor, Codex, and Junie /ide&rpar; comparison](https://www.reddit.com/r/Kotlin/comments/1xe8uuh/standalone_cli_agents_vs_an_ide_integrated_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
