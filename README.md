@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java and Kotlin news: value classes arrive in JDK 28 and Kotlin 2.5](https://www.reddit.com/r/Kotlin/comments/1xi1uwi/java_and_kotlin_news_value_classes_arrive_in_jdk/)
+- [Get Started with Lightbuild | A Declarative Build System for Android](https://www.reddit.com/r/Kotlin/comments/1xi0w6n/get_started_with_lightbuild_a_declarative_build/)
+- [Lessons from 10 months of building a Kotlin + Quarkus app compiled to a native image](https://www.reddit.com/r/Kotlin/comments/1xhnas7/lessons_from_10_months_of_building_a_kotlin/)
 - [Do you use AI coding tools for Android dev, and do they help or get in the way?](https://www.reddit.com/r/Kotlin/comments/1xheo1d/do_you_use_ai_coding_tools_for_android_dev_and_do/)
 - [Found a way to run gradle on musl-based systems](https://www.reddit.com/r/Kotlin/comments/1xh9lfb/found_a_way_to_run_gradle_on_muslbased_systems/)
 - [I spent already much time building Sparrow — a decentralized, E2E-encrypted messenger using KMP, Compose Multiplatform, and a federated Ktor stack. Looking for architecture review and feedback](https://www.reddit.com/r/Kotlin/comments/1xgzbcc/i_spent_already_much_time_building_sparrow_a/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Are there jobs in market for KMP?](https://www.reddit.com/r/Kotlin/comments/1xg3pol/are_there_jobs_in_market_for_kmp/)
 - [I wonder how many Kotlin developers use Kotlin for backend development and how they use it.](https://www.reddit.com/r/Kotlin/comments/1xfx2wv/i_wonder_how_many_kotlin_developers_use_kotlin/)
 - [I built an open-source Kotlin + Compose app that runs ADB from your phone to debloat Android TVs &lpar;no PC, no root&rpar;](https://www.reddit.com/r/Kotlin/comments/1xfrr16/i_built_an_opensource_kotlin_compose_app_that/)
-- [Built &amp; Monetized 2 Native Android Apps using Kotlin &amp; XML &lpar;Quiz Prep &amp; 2D Arcade Game&rpar; - Sharing my experience &amp; looking for feedback!](https://www.reddit.com/r/Kotlin/comments/1xfr8fy/built_monetized_2_native_android_apps_using/)
-- [Is it still worth learning native Android &lpar;Kotlin&rpar; in 2026 or should a beginner go straight to cross-platform?](https://www.reddit.com/r/Kotlin/comments/1xfnn14/is_it_still_worth_learning_native_android_kotlin/)
-- [Free Kotlin Learning site with Promo Code : FIRST100](https://www.reddit.com/r/Kotlin/comments/1xffrks/free_kotlin_learning_site_with_promo_code_first100/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
