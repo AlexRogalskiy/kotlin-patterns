@@ -272,6 +272,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JUnit skipped 16 of our 17 Kotlin tests, and the build stayed green](https://www.reddit.com/r/Kotlin/comments/1xihvka/junit_skipped_16_of_our_17_kotlin_tests_and_the/)
 - [Java and Kotlin news: value classes arrive in JDK 28 and Kotlin 2.5](https://www.reddit.com/r/Kotlin/comments/1xi1uwi/java_and_kotlin_news_value_classes_arrive_in_jdk/)
 - [Get Started with Lightbuild | A Declarative Build System for Android](https://www.reddit.com/r/Kotlin/comments/1xi0w6n/get_started_with_lightbuild_a_declarative_build/)
 - [Lessons from 10 months of building a Kotlin + Quarkus app compiled to a native image](https://www.reddit.com/r/Kotlin/comments/1xhnas7/lessons_from_10_months_of_building_a_kotlin/)
@@ -281,7 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Gradle vs Kotlin Toolchain: Project Structure Side By Side](https://www.reddit.com/r/Kotlin/comments/1xgv4ps/gradle_vs_kotlin_toolchain_project_structure_side/)
 - [Are there jobs in market for KMP?](https://www.reddit.com/r/Kotlin/comments/1xg3pol/are_there_jobs_in_market_for_kmp/)
 - [I wonder how many Kotlin developers use Kotlin for backend development and how they use it.](https://www.reddit.com/r/Kotlin/comments/1xfx2wv/i_wonder_how_many_kotlin_developers_use_kotlin/)
-- [I built an open-source Kotlin + Compose app that runs ADB from your phone to debloat Android TVs &lpar;no PC, no root&rpar;](https://www.reddit.com/r/Kotlin/comments/1xfrr16/i_built_an_opensource_kotlin_compose_app_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
