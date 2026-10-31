@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ligand - KMP application for sketching, 3D visualizing, and analyzing organic chemistry structure.](https://www.reddit.com/r/Kotlin/comments/1xjt7yc/ligand_kmp_application_for_sketching_3d/)
+- [Help us improve the Kotlin documentation!](https://www.reddit.com/r/Kotlin/comments/1xjid9c/help_us_improve_the_kotlin_documentation/)
+- [Lessons from shipping a live-streaming app on Android, iOS and web with Kotlin Multiplatform + Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xjgsz4/lessons_from_shipping_a_livestreaming_app_on/)
 - [JUnit skipped 16 of our 17 Kotlin tests, and the build stayed green](https://www.reddit.com/r/Kotlin/comments/1xihvka/junit_skipped_16_of_our_17_kotlin_tests_and_the/)
 - [Java and Kotlin news: value classes arrive in JDK 28 and Kotlin 2.5](https://www.reddit.com/r/Kotlin/comments/1xi1uwi/java_and_kotlin_news_value_classes_arrive_in_jdk/)
 - [Get Started with Lightbuild | A Declarative Build System for Android](https://www.reddit.com/r/Kotlin/comments/1xi0w6n/get_started_with_lightbuild_a_declarative_build/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Do you use AI coding tools for Android dev, and do they help or get in the way?](https://www.reddit.com/r/Kotlin/comments/1xheo1d/do_you_use_ai_coding_tools_for_android_dev_and_do/)
 - [Found a way to run gradle on musl-based systems](https://www.reddit.com/r/Kotlin/comments/1xh9lfb/found_a_way_to_run_gradle_on_muslbased_systems/)
 - [I spent already much time building Sparrow — a decentralized, E2E-encrypted messenger using KMP, Compose Multiplatform, and a federated Ktor stack. Looking for architecture review and feedback](https://www.reddit.com/r/Kotlin/comments/1xgzbcc/i_spent_already_much_time_building_sparrow_a/)
-- [Gradle vs Kotlin Toolchain: Project Structure Side By Side](https://www.reddit.com/r/Kotlin/comments/1xgv4ps/gradle_vs_kotlin_toolchain_project_structure_side/)
-- [Are there jobs in market for KMP?](https://www.reddit.com/r/Kotlin/comments/1xg3pol/are_there_jobs_in_market_for_kmp/)
-- [I wonder how many Kotlin developers use Kotlin for backend development and how they use it.](https://www.reddit.com/r/Kotlin/comments/1xfx2wv/i_wonder_how_many_kotlin_developers_use_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
