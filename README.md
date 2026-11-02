@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a phone-call horror game in Kotlin &lpar;Compose Wasm + desktop&rpar;: an LLM plays the caller, plain Kotlin decides what&#39;s true](https://www.reddit.com/r/Kotlin/comments/1xlbrlu/i_built_a_phonecall_horror_game_in_kotlin_compose/)
+- [Using kotlinx.serialization to give clear config errors to people and AI agents](https://www.reddit.com/r/Kotlin/comments/1xlbils/using_kotlinxserialization_to_give_clear_config/)
+- [One Kotlin codebase for TV, phone, desktop and web: what worked and what did not &lpar;TDLib + Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1xl2z93/one_kotlin_codebase_for_tv_phone_desktop_and_web/)
 - [Beta Kotlin template support in jte IntelliJ plugin 1.4](https://www.reddit.com/r/Kotlin/comments/1xkv5h2/beta_kotlin_template_support_in_jte_intellij/)
 - [Found a way to run gradle on musl-based systems](https://www.reddit.com/r/Kotlin/comments/1xkldb5/found_a_way_to_run_gradle_on_muslbased_systems/)
 - [Wrote a Kotlin compiler in Go that compiles 10x faster than kotlinc](https://www.reddit.com/r/Kotlin/comments/1xkcq8p/wrote_a_kotlin_compiler_in_go_that_compiles_10x/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Help us improve the Kotlin documentation!](https://www.reddit.com/r/Kotlin/comments/1xjid9c/help_us_improve_the_kotlin_documentation/)
 - [Lessons from shipping a live-streaming app on Android, iOS and web with Kotlin Multiplatform + Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xjgsz4/lessons_from_shipping_a_livestreaming_app_on/)
 - [JUnit skipped 16 of our 17 Kotlin tests, and the build stayed green](https://www.reddit.com/r/Kotlin/comments/1xihvka/junit_skipped_16_of_our_17_kotlin_tests_and_the/)
-- [Java and Kotlin news: value classes arrive in JDK 28 and Kotlin 2.5](https://www.reddit.com/r/Kotlin/comments/1xi1uwi/java_and_kotlin_news_value_classes_arrive_in_jdk/)
-- [Get Started with Lightbuild | A Declarative Build System for Android](https://www.reddit.com/r/Kotlin/comments/1xi0w6n/get_started_with_lightbuild_a_declarative_build/)
-- [Lessons from 10 months of building a Kotlin + Quarkus app compiled to a native image](https://www.reddit.com/r/Kotlin/comments/1xhnas7/lessons_from_10_months_of_building_a_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
