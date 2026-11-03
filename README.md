@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This is a hexdump APK for Android — offline and standalone, no login, native Java/raw/JvM/17+. 12-byte line hexdump. No root. This is my APK. And outside Termux. And it runs only as an APK — the APK size is only 600kb 🤏](https://www.reddit.com/r/Kotlin/comments/1xml702/this_is_a_hexdump_apk_for_android_offline_and/)
+- [Any good skills for allowing AI to automate the UI/UX development cycle?](https://www.reddit.com/r/Kotlin/comments/1xmjuwa/any_good_skills_for_allowing_ai_to_automate_the/)
+- [How to move heavy computations off the UI thread using Web Workers in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xmb1m7/how_to_move_heavy_computations_off_the_ui_thread/)
+- [Haze 2.1: Shatterproof Glass](https://www.reddit.com/r/Kotlin/comments/1xlw2ej/haze_21_shatterproof_glass/)
+- [Two years later, I know what I got wrong about typed domain errors in Kotlin](https://www.reddit.com/r/Kotlin/comments/1xluhpl/two_years_later_i_know_what_i_got_wrong_about/)
 - [I built a phone-call horror game in Kotlin &lpar;Compose Wasm + desktop&rpar;: an LLM plays the caller, plain Kotlin decides what&#39;s true](https://www.reddit.com/r/Kotlin/comments/1xlbrlu/i_built_a_phonecall_horror_game_in_kotlin_compose/)
 - [Using kotlinx.serialization to give clear config errors to people and AI agents](https://www.reddit.com/r/Kotlin/comments/1xlbils/using_kotlinxserialization_to_give_clear_config/)
 - [One Kotlin codebase for TV, phone, desktop and web: what worked and what did not &lpar;TDLib + Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1xl2z93/one_kotlin_codebase_for_tv_phone_desktop_and_web/)
-- [Beta Kotlin template support in jte IntelliJ plugin 1.4](https://www.reddit.com/r/Kotlin/comments/1xkv5h2/beta_kotlin_template_support_in_jte_intellij/)
 - [Found a way to run gradle on musl-based systems](https://www.reddit.com/r/Kotlin/comments/1xkldb5/found_a_way_to_run_gradle_on_muslbased_systems/)
 - [Wrote a Kotlin compiler in Go that compiles 10x faster than kotlinc](https://www.reddit.com/r/Kotlin/comments/1xkcq8p/wrote_a_kotlin_compiler_in_go_that_compiles_10x/)
-- [I’ve been building TubeHaus, a YouTube client with no Google sign-in. Subscriptions, history and playlists stay on your device, or on your own server if you run one. It started as an Android app and is now one Kotlin codebase with five targets.](https://www.reddit.com/r/Kotlin/comments/1xk4jji/ive_been_building_tubehaus_a_youtube_client_with/)
-- [Help us improve the Kotlin documentation!](https://www.reddit.com/r/Kotlin/comments/1xjid9c/help_us_improve_the_kotlin_documentation/)
-- [Lessons from shipping a live-streaming app on Android, iOS and web with Kotlin Multiplatform + Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xjgsz4/lessons_from_shipping_a_livestreaming_app_on/)
-- [JUnit skipped 16 of our 17 Kotlin tests, and the build stayed green](https://www.reddit.com/r/Kotlin/comments/1xihvka/junit_skipped_16_of_our_17_kotlin_tests_and_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
