@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LinnetTTS: 41M streaming TTS with a Rust runtime, measured on everything from an Apple M5 to a Raspberry Pi Zero 2 W &lpar;3.3 ms to 59 ms per 80 ms of audio&rpar;](https://www.reddit.com/r/Kotlin/comments/1xoc637/linnettts_41m_streaming_tts_with_a_rust_runtime/)
+- [From php to kotlin](https://www.reddit.com/r/Kotlin/comments/1xo25hh/from_php_to_kotlin/)
+- [I built AspectK – AOP for Android and Kotlin Multiplatform, an alternative to AspectJ](https://www.reddit.com/r/Kotlin/comments/1xnyn3d/i_built_aspectk_aop_for_android_and_kotlin/)
+- [Pragmatic Clean Architecture skill](https://www.reddit.com/r/Kotlin/comments/1xnspj6/pragmatic_clean_architecture_skill/)
+- [24 weeks to KotlinConf 2027: CfP until Nov 27, volunteer applications until Dec 21, and a question for you](https://www.reddit.com/r/Kotlin/comments/1xns72s/24_weeks_to_kotlinconf_2027_cfp_until_nov_27/)
+- [Compose Multiplatform components that run on your phone, source on GitHub](https://www.reddit.com/r/Kotlin/comments/1xnphcy/compose_multiplatform_components_that_run_on_your/)
 - [Madura works with Kotlin as well](https://www.reddit.com/r/Kotlin/comments/1xngusq/madura_works_with_kotlin_as_well/)
 - [Bringing Amplitude Analytics to Kotlin Multiplatform &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1xnd4cf/bringing_amplitude_analytics_to_kotlin/)
 - [are kotlin coroutines User level threads, or Kernel level threads?](https://www.reddit.com/r/Kotlin/comments/1xn2xq4/are_kotlin_coroutines_user_level_threads_or/)
 - [Any good skills for allowing AI to automate the UI/UX development cycle?](https://www.reddit.com/r/Kotlin/comments/1xmjuwa/any_good_skills_for_allowing_ai_to_automate_the/)
-- [How to move heavy computations off the UI thread using Web Workers in Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xmb1m7/how_to_move_heavy_computations_off_the_ui_thread/)
-- [Haze 2.1: Shatterproof Glass](https://www.reddit.com/r/Kotlin/comments/1xlw2ej/haze_21_shatterproof_glass/)
-- [Two years later, I know what I got wrong about typed domain errors in Kotlin](https://www.reddit.com/r/Kotlin/comments/1xluhpl/two_years_later_i_know_what_i_got_wrong_about/)
-- [I built a phone-call horror game in Kotlin &lpar;Compose Wasm + desktop&rpar;: an LLM plays the caller, plain Kotlin decides what&#39;s true](https://www.reddit.com/r/Kotlin/comments/1xlbrlu/i_built_a_phonecall_horror_game_in_kotlin_compose/)
-- [Using kotlinx.serialization to give clear config errors to people and AI agents](https://www.reddit.com/r/Kotlin/comments/1xlbils/using_kotlinxserialization_to_give_clear_config/)
-- [One Kotlin codebase for TV, phone, desktop and web: what worked and what did not &lpar;TDLib + Compose&rpar;](https://www.reddit.com/r/Kotlin/comments/1xl2z93/one_kotlin_codebase_for_tv_phone_desktop_and_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
