@@ -272,6 +272,8 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [bikesched: an Apache-2.0 job scheduler for Kotlin and Java with durable steps, backed only by PostgreSQL](https://www.reddit.com/r/Kotlin/comments/1xops6z/bikesched_an_apache20_job_scheduler_for_kotlin/)
+- [what I learned about Android state from my last few posts](https://www.reddit.com/r/Kotlin/comments/1xodvzc/what_i_learned_about_android_state_from_my_last/)
 - [LinnetTTS: 41M streaming TTS with a Rust runtime, measured on everything from an Apple M5 to a Raspberry Pi Zero 2 W &lpar;3.3 ms to 59 ms per 80 ms of audio&rpar;](https://www.reddit.com/r/Kotlin/comments/1xoc637/linnettts_41m_streaming_tts_with_a_rust_runtime/)
 - [From php to kotlin](https://www.reddit.com/r/Kotlin/comments/1xo25hh/from_php_to_kotlin/)
 - [I built AspectK – AOP for Android and Kotlin Multiplatform, an alternative to AspectJ](https://www.reddit.com/r/Kotlin/comments/1xnyn3d/i_built_aspectk_aop_for_android_and_kotlin/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Compose Multiplatform components that run on your phone, source on GitHub](https://www.reddit.com/r/Kotlin/comments/1xnphcy/compose_multiplatform_components_that_run_on_your/)
 - [Madura works with Kotlin as well](https://www.reddit.com/r/Kotlin/comments/1xngusq/madura_works_with_kotlin_as_well/)
 - [Bringing Amplitude Analytics to Kotlin Multiplatform &lpar;KMP&rpar;](https://www.reddit.com/r/Kotlin/comments/1xnd4cf/bringing_amplitude_analytics_to_kotlin/)
-- [are kotlin coroutines User level threads, or Kernel level threads?](https://www.reddit.com/r/Kotlin/comments/1xn2xq4/are_kotlin_coroutines_user_level_threads_or/)
-- [Any good skills for allowing AI to automate the UI/UX development cycle?](https://www.reddit.com/r/Kotlin/comments/1xmjuwa/any_good_skills_for_allowing_ai_to_automate_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
