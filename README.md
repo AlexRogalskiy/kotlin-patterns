@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Modelling clinical units in Kotlin: value classes, or plain Doubles with a conversion factor?](https://www.reddit.com/r/Kotlin/comments/1xrhwmf/modelling_clinical_units_in_kotlin_value_classes/)
+- [Phovo: a self-hosted photo backup app written entirely in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xrhui8/phovo_a_selfhosted_photo_backup_app_written/)
+- [I built an Android app that counts pressure cooker whistles using YAMNet &lpar;INT8 TFLite&rpar;, fully on-device](https://www.reddit.com/r/Kotlin/comments/1xr50ko/i_built_an_android_app_that_counts_pressure/)
+- [How I use Gradle convention plugins to keep a modular project consistent](https://www.reddit.com/r/Kotlin/comments/1xr4ztd/how_i_use_gradle_convention_plugins_to_keep_a/)
+- [YAAN: An open-source, local-first AI assistant built with Kotlin Multiplatform &amp; Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xquyox/yaan_an_opensource_localfirst_ai_assistant_built/)
 - [2023 Kodee&#39;s Bubble Gum](https://www.reddit.com/r/Kotlin/comments/1xqhenb/2023_kodees_bubble_gum/)
 - [[Academic Research] Android developers wanted for a survey on MVVM vs. MVI in Jetpack Compose + expert interviews](https://www.reddit.com/r/Kotlin/comments/1xqg825/academic_research_android_developers_wanted_for_a/)
 - [My fan art of 2021 and 2023 Kodee](https://www.reddit.com/r/Kotlin/comments/1xq4o9j/my_fan_art_of_2021_and_2023_kodee/)
 - [Packaging and signing native .dylib dependencies in KMP Desktop for macOS](https://www.reddit.com/r/Kotlin/comments/1xq23md/packaging_and_signing_native_dylib_dependencies/)
 - [More features to the Real time compose playground](https://www.reddit.com/r/Kotlin/comments/1xq1pk9/more_features_to_the_real_time_compose_playground/)
-- [kUML v0.56.0 — SysML 2 as a complete diagram family, notes on every diagram type, 50 % more layout spacing](https://www.reddit.com/r/Kotlin/comments/1xpkkal/kuml_v0560_sysml_2_as_a_complete_diagram_family/)
-- [I built a Quest 3 grow assistant in native Kotlin, no Unity — SAM 3.1 measures my basil tray, Muse Spark explains it](https://www.reddit.com/r/Kotlin/comments/1xpfy0v/i_built_a_quest_3_grow_assistant_in_native_kotlin/)
-- [bikesched: an Apache-2.0 job scheduler for Kotlin and Java with durable steps, backed only by PostgreSQL](https://www.reddit.com/r/Kotlin/comments/1xops6z/bikesched_an_apache20_job_scheduler_for_kotlin/)
-- [what I learned about Android state from my last few posts](https://www.reddit.com/r/Kotlin/comments/1xodvzc/what_i_learned_about_android_state_from_my_last/)
-- [LinnetTTS: 41M streaming TTS with a Rust runtime, measured on everything from an Apple M5 to a Raspberry Pi Zero 2 W &lpar;3.3 ms to 59 ms per 80 ms of audio&rpar;](https://www.reddit.com/r/Kotlin/comments/1xoc637/linnettts_41m_streaming_tts_with_a_rust_runtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
