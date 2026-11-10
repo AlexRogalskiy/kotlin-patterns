@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Getting back into Kotlin after a few years out. What would you recommend?](https://www.reddit.com/r/Kotlin/comments/1xsgzyx/getting_back_into_kotlin_after_a_few_years_out/)
+- [Start With the REST API You Have: A Typed Client Today, GraphQL Later](https://www.reddit.com/r/Kotlin/comments/1xs9rtc/start_with_the_rest_api_you_have_a_typed_client/)
+- [Coroutine cancellation behaviour](https://www.reddit.com/r/Kotlin/comments/1xrmmiq/coroutine_cancellation_behaviour/)
 - [Modelling clinical units in Kotlin: value classes, or plain Doubles with a conversion factor?](https://www.reddit.com/r/Kotlin/comments/1xrhwmf/modelling_clinical_units_in_kotlin_value_classes/)
 - [Phovo: a self-hosted photo backup app written entirely in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xrhui8/phovo_a_selfhosted_photo_backup_app_written/)
 - [I built an Android app that counts pressure cooker whistles using YAMNet &lpar;INT8 TFLite&rpar;, fully on-device](https://www.reddit.com/r/Kotlin/comments/1xr50ko/i_built_an_android_app_that_counts_pressure/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [YAAN: An open-source, local-first AI assistant built with Kotlin Multiplatform &amp; Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xquyox/yaan_an_opensource_localfirst_ai_assistant_built/)
 - [2023 Kodee&#39;s Bubble Gum](https://www.reddit.com/r/Kotlin/comments/1xqhenb/2023_kodees_bubble_gum/)
 - [[Academic Research] Android developers wanted for a survey on MVVM vs. MVI in Jetpack Compose + expert interviews](https://www.reddit.com/r/Kotlin/comments/1xqg825/academic_research_android_developers_wanted_for_a/)
-- [My fan art of 2021 and 2023 Kodee](https://www.reddit.com/r/Kotlin/comments/1xq4o9j/my_fan_art_of_2021_and_2023_kodee/)
-- [Packaging and signing native .dylib dependencies in KMP Desktop for macOS](https://www.reddit.com/r/Kotlin/comments/1xq23md/packaging_and_signing_native_dylib_dependencies/)
-- [More features to the Real time compose playground](https://www.reddit.com/r/Kotlin/comments/1xq1pk9/more_features_to_the_real_time_compose_playground/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
