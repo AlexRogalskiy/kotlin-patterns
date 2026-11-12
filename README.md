@@ -272,6 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Renaming a parameter is a breaking change in Kotlin, so I made the IDE warn about it](https://www.reddit.com/r/Kotlin/comments/1xtvoad/renaming_a_parameter_is_a_breaking_change_in/)
+- [# Seeking feedback: agentic architecture and agent harness for a mobile app with KMP shared logic, legacy UIKit/Android Views, and new SwiftUI/Compose UI](https://www.reddit.com/r/Kotlin/comments/1xtqw6e/seeking_feedback_agentic_architecture_and_agent/)
+- [Title: [Showcase] FLX: An open-source, embeddable Lisp implementation written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1xtgzmm/title_showcase_flx_an_opensource_embeddable_lisp/)
 - [A sequence diagram plugin where Kotlin isn&#39;t an afterthought](https://www.reddit.com/r/Kotlin/comments/1xtbd4c/a_sequence_diagram_plugin_where_kotlin_isnt_an/)
 - [Kotlean: write Android apps in Lean](https://www.reddit.com/r/Kotlin/comments/1xt50q8/kotlean_write_android_apps_in_lean/)
 - [Why did NativeScript fail?](https://www.reddit.com/r/Kotlin/comments/1xsymeq/why_did_nativescript_fail/)
@@ -279,9 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [Getting back into Kotlin after a few years out. What would you recommend?](https://www.reddit.com/r/Kotlin/comments/1xsgzyx/getting_back_into_kotlin_after_a_few_years_out/)
 - [Start With the REST API You Have: A Typed Client Today, GraphQL Later](https://www.reddit.com/r/Kotlin/comments/1xs9rtc/start_with_the_rest_api_you_have_a_typed_client/)
 - [Coroutine cancellation behaviour](https://www.reddit.com/r/Kotlin/comments/1xrmmiq/coroutine_cancellation_behaviour/)
-- [Modelling clinical units in Kotlin: value classes, or plain Doubles with a conversion factor?](https://www.reddit.com/r/Kotlin/comments/1xrhwmf/modelling_clinical_units_in_kotlin_value_classes/)
-- [Phovo: a self-hosted photo backup app written entirely in Kotlin Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xrhui8/phovo_a_selfhosted_photo_backup_app_written/)
-- [I built an Android app that counts pressure cooker whistles using YAMNet &lpar;INT8 TFLite&rpar;, fully on-device](https://www.reddit.com/r/Kotlin/comments/1xr50ko/i_built_an_android_app_that_counts_pressure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
