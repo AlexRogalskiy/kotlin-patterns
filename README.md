@@ -272,7 +272,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - johnsonlee/graphite: Structured codebase context for LLMs](https://www.reddit.com/r/Kotlin/comments/1xvvf6y/github_johnsonleegraphite_structured_codebase/)
 - [SMILE 7.2.0 on Java 25: Replacing JNI with Project Panama FFM &lpar;OpenBLAS/LAPACK/ONNX&rpar;, Compact Object Headers, and in-process TreeSHAP](https://www.reddit.com/r/Kotlin/comments/1xvha7h/smile_720_on_java_25_replacing_jni_with_project/)
 - [YAAN: An open-source, local-first AI assistant built with Kotlin Multiplatform &amp; Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xvh29n/yaan_an_opensource_localfirst_ai_assistant_built/)
 - [Progresso em 3 meses de programação gráfica no meu celular com Kotlin e OpenGL.](https://www.reddit.com/r/Kotlin/comments/1xvd5n3/progresso_em_3_meses_de_programação_gráfica_no/)
@@ -282,6 +281,7 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [I built Kotensor: A pure-Kotlin Transformer engine for JVM &amp; Android &lpar;autograd, INT4/INT8, zero JNI&rpar;](https://www.reddit.com/r/Kotlin/comments/1xuf93b/i_built_kotensor_a_purekotlin_transformer_engine/)
 - [Renaming a parameter is a breaking change in Kotlin, so I made the IDE warn about it](https://www.reddit.com/r/Kotlin/comments/1xtvoad/renaming_a_parameter_is_a_breaking_change_in/)
 - [# Seeking feedback: agentic architecture and agent harness for a mobile app with KMP shared logic, legacy UIKit/Android Views, and new SwiftUI/Compose UI](https://www.reddit.com/r/Kotlin/comments/1xtqw6e/seeking_feedback_agentic_architecture_and_agent/)
+- [Title: [Showcase] FLX: An open-source, embeddable Lisp implementation written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1xtgzmm/title_showcase_flx_an_opensource_embeddable_lisp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
