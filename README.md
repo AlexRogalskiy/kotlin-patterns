@@ -272,16 +272,16 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fetching remote config in Kotlin with OkHttp: callTimeout, ETags, and a fallback that never caches garbage](https://www.reddit.com/r/Kotlin/comments/1xx8pv2/fetching_remote_config_in_kotlin_with_okhttp/)
+- [Using Jetpack AppState &lpar;alpha&rpar; with an MVI library: what worked, and what I found out about StateStore along the way](https://www.reddit.com/r/Kotlin/comments/1xx5s3t/using_jetpack_appstate_alpha_with_an_mvi_library/)
+- [I built jdx &lpar;in Kotlin&rpar;: gives AI coding agents real Kotlin signatures from @Metadata instead of the JVM projection](https://www.reddit.com/r/Kotlin/comments/1xx5caa/i_built_jdx_in_kotlin_gives_ai_coding_agents_real/)
+- [Castwire: a Google Cast sender in Kotlin and Java, no Play Services, same code on Android and desktop](https://www.reddit.com/r/Kotlin/comments/1xwtnk0/castwire_a_google_cast_sender_in_kotlin_and_java/)
+- [Good Kotlin course for android programming](https://www.reddit.com/r/Kotlin/comments/1xwqdfp/good_kotlin_course_for_android_programming/)
 - [SMILE 7.2.0 on Java 25: Replacing JNI with Project Panama FFM &lpar;OpenBLAS/LAPACK/ONNX&rpar;, Compact Object Headers, and in-process TreeSHAP](https://www.reddit.com/r/Kotlin/comments/1xvha7h/smile_720_on_java_25_replacing_jni_with_project/)
 - [YAAN: An open-source, local-first AI assistant built with Kotlin Multiplatform &amp; Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xvh29n/yaan_an_opensource_localfirst_ai_assistant_built/)
 - [Progresso em 3 meses de programação gráfica no meu celular com Kotlin e OpenGL.](https://www.reddit.com/r/Kotlin/comments/1xvd5n3/progresso_em_3_meses_de_programação_gráfica_no/)
-- [Structured concurrency in Kotlin Coroutines is brilliant, but surprisingly easy to break in production: 3 anti-patterns I still see regularly](https://www.reddit.com/r/Kotlin/comments/1xv4olc/structured_concurrency_in_kotlin_coroutines_is/)
 - [kUML v0.57.0 — Linux packages and signed APT/RPM repositories, fewer silent losses, aspect ratio measured on the finished image](https://www.reddit.com/r/Kotlin/comments/1xun79p/kuml_v0570_linux_packages_and_signed_aptrpm/)
 - [kTRIZ — TRIZ as a type-safe Kotlin DSL, so the compiler catches hallucinated parameters &lpar;Apache 2.0, pre-release&rpar;. Feedback and criticism wanted](https://www.reddit.com/r/Kotlin/comments/1xuljnr/ktriz_triz_as_a_typesafe_kotlin_dsl_so_the/)
-- [I built Kotensor: A pure-Kotlin Transformer engine for JVM &amp; Android &lpar;autograd, INT4/INT8, zero JNI&rpar;](https://www.reddit.com/r/Kotlin/comments/1xuf93b/i_built_kotensor_a_purekotlin_transformer_engine/)
-- [Renaming a parameter is a breaking change in Kotlin, so I made the IDE warn about it](https://www.reddit.com/r/Kotlin/comments/1xtvoad/renaming_a_parameter_is_a_breaking_change_in/)
-- [# Seeking feedback: agentic architecture and agent harness for a mobile app with KMP shared logic, legacy UIKit/Android Views, and new SwiftUI/Compose UI](https://www.reddit.com/r/Kotlin/comments/1xtqw6e/seeking_feedback_agentic_architecture_and_agent/)
-- [Title: [Showcase] FLX: An open-source, embeddable Lisp implementation written in Kotlin](https://www.reddit.com/r/Kotlin/comments/1xtgzmm/title_showcase_flx_an_opensource_embeddable_lisp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
