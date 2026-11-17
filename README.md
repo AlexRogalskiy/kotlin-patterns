@@ -272,7 +272,9 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fetching remote config in Kotlin with OkHttp: callTimeout, ETags, and a fallback that never caches garbage](https://www.reddit.com/r/Kotlin/comments/1xx8pv2/fetching_remote_config_in_kotlin_with_okhttp/)
+- [How to Secure APIs Using OAuth2 and JWT with Kotlin and Spring Boot](https://www.reddit.com/r/Kotlin/comments/1xydoj5/how_to_secure_apis_using_oauth2_and_jwt_with/)
+- [Decorating a function property in a data class with copy&lpar;&rpar;: gotchas I&#39;m missing?](https://www.reddit.com/r/Kotlin/comments/1xyanrd/decorating_a_function_property_in_a_data_class/)
+- [Secure Your APIs: OAuth2 and JWT for Beginners](https://www.reddit.com/r/Kotlin/comments/1xxwza6/secure_your_apis_oauth2_and_jwt_for_beginners/)
 - [Using Jetpack AppState &lpar;alpha&rpar; with an MVI library: what worked, and what I found out about StateStore along the way](https://www.reddit.com/r/Kotlin/comments/1xx5s3t/using_jetpack_appstate_alpha_with_an_mvi_library/)
 - [I built jdx &lpar;in Kotlin&rpar;: gives AI coding agents real Kotlin signatures from @Metadata instead of the JVM projection](https://www.reddit.com/r/Kotlin/comments/1xx5caa/i_built_jdx_in_kotlin_gives_ai_coding_agents_real/)
 - [Castwire: a Google Cast sender in Kotlin and Java, no Play Services, same code on Android and desktop](https://www.reddit.com/r/Kotlin/comments/1xwtnk0/castwire_a_google_cast_sender_in_kotlin_and_java/)
@@ -280,8 +282,6 @@ and ***Kotlin Patterns*** ? Consider buying me a coffee :)
 - [SMILE 7.2.0 on Java 25: Replacing JNI with Project Panama FFM &lpar;OpenBLAS/LAPACK/ONNX&rpar;, Compact Object Headers, and in-process TreeSHAP](https://www.reddit.com/r/Kotlin/comments/1xvha7h/smile_720_on_java_25_replacing_jni_with_project/)
 - [YAAN: An open-source, local-first AI assistant built with Kotlin Multiplatform &amp; Compose Multiplatform](https://www.reddit.com/r/Kotlin/comments/1xvh29n/yaan_an_opensource_localfirst_ai_assistant_built/)
 - [Progresso em 3 meses de programação gráfica no meu celular com Kotlin e OpenGL.](https://www.reddit.com/r/Kotlin/comments/1xvd5n3/progresso_em_3_meses_de_programação_gráfica_no/)
-- [kUML v0.57.0 — Linux packages and signed APT/RPM repositories, fewer silent losses, aspect ratio measured on the finished image](https://www.reddit.com/r/Kotlin/comments/1xun79p/kuml_v0570_linux_packages_and_signed_aptrpm/)
-- [kTRIZ — TRIZ as a type-safe Kotlin DSL, so the compiler catches hallucinated parameters &lpar;Apache 2.0, pre-release&rpar;. Feedback and criticism wanted](https://www.reddit.com/r/Kotlin/comments/1xuljnr/ktriz_triz_as_a_typesafe_kotlin_dsl_so_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *RedHat lang posts*
