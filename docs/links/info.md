@@ -1,6 +1,5 @@
 # Resources
 
-## _Useful Links and Materials_
+## *Useful Links and Materials*
 
-* [**Java Bean Mappers**](https://www.frank-rahn.de/java-bean-mapper/)
-
+- [**Java Bean Mappers**](https://www.frank-rahn.de/java-bean-mapper/)

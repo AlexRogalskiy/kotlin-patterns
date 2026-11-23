@@ -35,7 +35,7 @@ requestInfoUserstoExclude:
 newIssueWelcomeComment: >
   Thanks for opening your first issue here! 🎉<br>
   👉 Be sure to:<br>
-  1. 📖 Have a look at the [Wiki](https://github.com/AlexRogalskiy/kotlin-patterns/wiki) and [README](https://github.com/AlexRogalskiy/java-patterns/blob/master/README.md) for information<br>
+  1. 📖 Have a look at the [Wiki](https://github.com/AlexRogalskiy/kotlin-patterns/wiki) and [README](https://github.com/AlexRogalskiy/kotlin-patterns/blob/master/README.md) for information<br>
   2. 🔍 Search for similar [issues (open and closed)](https://github.com/AlexRogalskiy/kotlin-patterns/issues?q=is%3Aissue+)<br>
   3. ✍️ Provide enough information to understand, recreate and help out with your problem<br>
   4. ℹ️ Let us know if you find a solution and please share it with us<br>
